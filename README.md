@@ -10,15 +10,19 @@
 
 ## 自动同步部署（GitHub -> Cloudflare）
 
-1. 在 Cloudflare 中创建 Pages 项目（项目名必须是 `librchain`）：
-   ```bash
-   wrangler pages project create librchain --production-branch main
-   ```
-2. 在 GitHub 仓库 `Settings -> Secrets and variables -> Actions` 添加：
-   - `CLOUDFLARE_API_TOKEN`
-   - `CLOUDFLARE_ACCOUNT_ID`
-3. 推送到 `main` 分支后，GitHub Actions 会自动发布到 Cloudflare Pages。
-4. 在 Cloudflare Pages 的 `Custom domains` 里绑定 `librchain.com`。
+已完成：
+
+- GitHub 仓库：`https://github.com/yangyuezh/librchain`
+- Cloudflare Pages 项目：`librchain`
+- 自动部署工作流：推送到 `main` 分支后自动发布
+
+当前保留的一步（域名生效）：
+
+1. 在 Cloudflare DNS 中为 `librchain.com` 增加 CNAME 记录：
+   - Name: `@`
+   - Target: `librchain.pages.dev`
+   - Proxy status: Proxied（橙云）
+2. 等待证书签发完成后，`https://librchain.com` 即可直接访问。
 
 ## 本地预览
 
