@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-20T17:53:34.257Z</lastmod>
+    <lastmod>2026-02-20T19:04:11.637Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-20T17:53:34.257Z</lastmod>
+    <lastmod>2026-02-20T19:04:11.637Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260220-wall-street-boosts-bitmine-stakes-as-defi-lenders-buckle-on-liquidity-finance-re.html</loc>
+    <lastmod>2026-02-20T19:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260220-us-supreme-courts-decision-on-trumps-tariffs-may-not-rock-crypto-yet.html</loc>
+    <lastmod>2026-02-20T18:42:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260220-price-predictions-220-btc-eth-xrp-bnb-sol-doge-bch-ada-hype-xmr.html</loc>
+    <lastmod>2026-02-20T18:20:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260220-bitcoin-mining-difficulty-rebounds-15-as-us-miners-recover-from-winter-outages.html</loc>
+    <lastmod>2026-02-20T18:02:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260220-after-state-lawsuit-losing-streak-kalshi-nabs-victory-in-tennesseethis-could-be-.html</loc>
@@ -111,6 +135,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260220-tennessee-judge-issues-injunction-blocking-state-move-against-kalshi.html</loc>
     <lastmod>2026-02-20T14:03:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260220-big-warning-us-economy-is-in-deep-trouble-right-now-us-q4-gdp-just-came-in-and-i.html</loc>
+    <lastmod>2026-02-20T13:49:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -295,12 +325,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260220-ai-agents-not-worth-the-cost-as-humans-still-cheaper-tech-execs.html</loc>
-    <lastmod>2026-02-20T01:45:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260220-white-house-banks-and-crypto-groups-resume-talks-on-stablecoin-rewards.html</loc>
     <lastmod>2026-02-20T01:01:28.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -319,20 +343,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260219-bitcoin-options-market-structure-leans-toward-60k-retest-in-february.html</loc>
-    <lastmod>2026-02-19T22:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260219-warhammer-veteran-jervis-johnson-warns-ai-could-become-the-asbestos-of-the-inter.html</loc>
     <lastmod>2026-02-19T21:56:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260219-krakens-xstocks-tops-25b-in-volume-with-more-than-80k-onchain-holders.html</loc>
-    <lastmod>2026-02-19T21:49:46.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -397,20 +409,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260219-us-federal-reserve-researchers-sing-praises-of-prediction-markets.html</loc>
-    <lastmod>2026-02-19T17:01:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260219-just-in-ripple-ceo-brad-garlinghouse-says-theres-a-90-chance-crypto-market-struc.html</loc>
     <lastmod>2026-02-19T16:50:27.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260219-just-in-binance-founder-cz-says-crypto-never-needed-a-bailout-never-will-xcom.html</loc>
-    <lastmod>2026-02-19T16:39:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -463,12 +463,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260219-just-in-uae-has-so-far-mined-4536m-bitcoin-through-their-partners-citadel-per-ar.html</loc>
-    <lastmod>2026-02-19T10:05:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260219-just-in-the-uae-just-said-bitcoin-is-a-store-of-value-similar-to-gold-they-now-o.html</loc>
     <lastmod>2026-02-19T08:00:35.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -487,14 +481,20 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260218-protocol-priorities-update-for-2026-xcom.html</loc>
-    <lastmod>2026-02-18T16:06:08.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260218-crypto-firm-ledn-sells-bitcoin-backed-bonds-in-abs-market-first-first-ever-deal-.html</loc>
+    <lastmod>2026-02-18T20:58:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260218-just-in-arizonas-strategic-bitcoin-and-crypto-reserve-fund-bill-passes-the-senat.html</loc>
-    <lastmod>2026-02-18T13:31:42.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260218-just-in-bitcoin-drops-below-66000-hodl-xcom.html</loc>
+    <lastmod>2026-02-18T19:40:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260218-protocol-priorities-update-for-2026-xcom.html</loc>
+    <lastmod>2026-02-18T16:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
