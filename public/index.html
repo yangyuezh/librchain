@@ -6,8 +6,26 @@
     <title>LIBRCHAIN | 区块链新闻雷达</title>
     <meta
       name="description"
-      content="LIBRCHAIN 提供加密货币、链上治理、基础设施与监管动态的区块链新闻聚合。"
+      content="LIBRCHAIN 提供加密货币、链上治理、基础设施、监管与 X 热点的区块链新闻聚合。"
     />
+    <meta name="robots" content="index,follow,max-image-preview:large" />
+    <link rel="canonical" href="https://www.librchain.com/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="LIBRCHAIN | 区块链新闻雷达" />
+    <meta
+      property="og:description"
+      content="每小时自动更新区块链相关新闻、博客与 X 热点，帮助你快速把握市场与政策变化。"
+    />
+    <meta property="og:url" content="https://www.librchain.com/" />
+    <meta property="og:site_name" content="LIBRCHAIN" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="LIBRCHAIN | 区块链新闻雷达" />
+    <meta
+      name="twitter:description"
+      content="每小时自动更新区块链相关新闻、博客与 X 热点，帮助你快速把握市场与政策变化。"
+    />
+    <link rel="alternate" type="application/rss+xml" title="LIBRCHAIN Feed" href="/feed.xml" />
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -15,6 +33,16 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./styles.css" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "NewsMediaOrganization",
+        "name": "LIBRCHAIN",
+        "url": "https://www.librchain.com/",
+        "sameAs": ["https://www.librchain.com/feed.xml"],
+        "description": "区块链新闻、博客与 X 热点的每小时自动聚合站点"
+      }
+    </script>
   </head>
   <body>
     <div class="bg-glow bg-glow-left" aria-hidden="true"></div>
@@ -25,18 +53,18 @@
         <p class="brand-kicker">Blockchain Signal Feed</p>
         <h1>LIBRCHAIN</h1>
       </div>
-      <a class="header-link" href="https://librchain.com" target="_blank" rel="noopener noreferrer"
-        >librchain.com</a
+      <a class="header-link" href="https://www.librchain.com" target="_blank" rel="noopener noreferrer"
+        >www.librchain.com</a
       >
     </header>
 
     <main>
       <section class="hero">
         <div>
-          <p class="hero-tag">24/7 Market + Policy Monitor</p>
+          <p class="hero-tag">24/7 Market + Policy + X Monitor</p>
           <h2>追踪链上世界的关键新闻</h2>
           <p class="hero-copy">
-            聚焦加密资产、DeFi、Layer2、监管政策与安全事件。通过快速筛选与搜索，在一分钟内抓住今天的核心变化。
+            聚焦加密资产、DeFi、Layer2、监管政策、安全事件与 X 平台热点。通过自动聚合和快速筛选，在一分钟内抓住今天的核心变化。
           </p>
         </div>
         <div class="hero-panel" id="snapshot">
@@ -62,7 +90,7 @@
 
     <footer class="site-footer">
       <p>© <span id="year"></span> LIBRCHAIN</p>
-      <p>Hosted on Cloudflare Pages · Auto deploy from GitHub</p>
+      <p>Hourly automation · Hosted on Cloudflare Pages</p>
     </footer>
 
     <script src="./app.js" defer></script>

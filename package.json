@@ -1,0 +1,9 @@
+{
+  "name": "librchain",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update:news": "node scripts/update-news.mjs",
+    "seo:promote": "node scripts/seo-promote.mjs"
+  }
+}

@@ -1,31 +1,44 @@
 # librchain.com
 
-一个部署在 Cloudflare Pages 的区块链新闻主题站点。
+部署在 Cloudflare Pages 的区块链新闻聚合站，支持每小时自动抓取新闻并自动发布。
 
-## 本地结构
+## 现在的站点结构
 
-- `public/`：静态页面资源
-- `.github/workflows/deploy-pages.yml`：推送到 `main` 时自动部署到 Cloudflare Pages
-- `wrangler.toml`：Cloudflare Pages 配置
+- `public/index.html`：首页
+- `public/app.js`：前端渲染逻辑（读取 `news.json`）
+- `public/news.json`：自动生成的新闻数据
+- `public/news/*.html`：自动生成的可索引新闻详情页
+- `public/feed.xml`：站点 RSS
+- `public/sitemap.xml`：站点 sitemap
+- `public/robots.txt`：搜索引擎抓取规则
 
-## 自动同步部署（GitHub -> Cloudflare）
+## 自动化工作流
 
-已完成：
+- `.github/workflows/hourly-news.yml`
+  - 每小时第 8 分钟执行：抓取新闻/博客/X 相关新闻
+  - 自动生成 `news.json`、`news/*.html`、`feed.xml`、`sitemap.xml`、`robots.txt`
+  - 有变更时自动 commit + push（触发 Cloudflare Pages 自动部署）
 
-- GitHub 仓库：`https://github.com/yangyuezh/librchain`
-- Cloudflare Pages 项目：`librchain`
-- 自动部署工作流：推送到 `main` 分支后自动发布
+- `.github/workflows/deploy-pages.yml`
+  - `main` 分支有新提交时自动部署到 Cloudflare Pages
 
-当前保留的一步（域名生效）：
+- `.github/workflows/seo-promotion.yml`
+  - 每小时第 38 分钟执行 SEO 推送
+  - 提交 IndexNow URL 列表并执行 sitemap ping
 
-1. 在 Cloudflare DNS 中为 `librchain.com` 增加 CNAME 记录：
-   - Name: `@`
-   - Target: `librchain.pages.dev`
-   - Proxy status: Proxied（橙云）
-2. 等待证书签发完成后，`https://librchain.com` 即可直接访问。
+## 数据与 SEO 脚本
 
-## 本地预览
+- `scripts/update-news.mjs`：抓取源数据并生成站点内容资产
+- `scripts/seo-promote.mjs`：向搜索引擎提交最新 URL
+
+## 本地手动执行
 
 ```bash
-wrangler pages dev public
+npm run update:news
+npm run seo:promote
 ```
+
+## 当前域名分配
+
+- `www.librchain.com` -> Cloudflare Pages（新闻站）
+- `librchain.com` -> 你的 VPS（保留原业务）

@@ -297,16 +297,28 @@ h1 {
   line-height: 1.6;
 }
 
-.card a {
+.card-meta {
+  margin-top: auto;
+  color: var(--warning);
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.82rem;
+}
+
+.card-links {
+  display: flex;
+  gap: 10px;
+  border-top: 1px dashed rgba(133, 166, 213, 0.3);
+  padding-top: 10px;
+}
+
+.card-links a {
   margin-top: auto;
   text-decoration: none;
   color: var(--text);
-  border-top: 1px dashed rgba(133, 166, 213, 0.3);
-  padding-top: 10px;
   font-size: 0.9rem;
 }
 
-.card a:hover {
+.card-links a:hover {
   color: var(--accent);
 }
 

@@ -1,0 +1,43 @@
+name: Hourly News Sync
+
+on:
+  schedule:
+    - cron: "8 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: librchain-hourly-news
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Update News Dataset
+        run: npm run update:news
+
+      - name: Commit If Changed
+        run: |
+          if git diff --quiet; then
+            echo "No content changes"
+            exit 0
+          fi
+
+          git config user.name "librchain-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/news.json public/feed.xml public/sitemap.xml public/robots.txt public/news public/*.txt
+          git commit -m "chore: hourly news refresh"
+          git push
