@@ -1,7 +1,22 @@
 {
-  "updatedAt": "2026-02-21T04:45:22.976Z",
+  "updatedAt": "2026-02-21T05:54:24.543Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Small investors are buying bitcoin. For a rally to succeed, the whales need to join in.",
+      "summary": "Small wallets have increased their BTC holdings by 2.5% since October's all-time high while large holders trimmed 0.8%, Santiment data shows.",
+      "url": "https://www.coindesk.com/markets/2026/02/21/small-investors-are-buying-bitcoin-it-now-needs-bigger-players-to-show-up",
+      "publishedAt": "2026-02-21T05:11:59.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260221-small-investors-are-buying-bitcoin-for-a-rally-to-succeed-the-whales-need-to-joi",
+      "localUrl": "/news/20260221-small-investors-are-buying-bitcoin-for-a-rally-to-succeed-the-whales-need-to-joi.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin's bull catalyst could be AI stocks becoming 'silly big': Lyn Alden",
@@ -663,7 +678,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Ripple's Brad Garlinghouse says CLARITY bill has '90% chance' of passing by April",
+      "title": "Ripple's Brad Garlinghouse says CLARITY bill has '80% chance' of passing by April",
       "summary": "The bill would clarify which digital assets fall under securities law versus Commodity Futures Trading Commission oversight.",
       "url": "https://www.coindesk.com/policy/2026/02/20/ripple-s-brad-garlinghouse-says-clarity-bill-has-90-chance-of-passing-by-april",
       "publishedAt": "2026-02-20T07:05:39.000Z",
@@ -675,8 +690,19 @@
         "News"
       ],
       "category": "监管",
-      "slug": "20260220-ripples-brad-garlinghouse-says-clarity-bill-has-90-chance-of-passing-by-april",
-      "localUrl": "/news/20260220-ripples-brad-garlinghouse-says-clarity-bill-has-90-chance-of-passing-by-april.html"
+      "slug": "20260220-ripples-brad-garlinghouse-says-clarity-bill-has-80-chance-of-passing-by-april",
+      "localUrl": "/news/20260220-ripples-brad-garlinghouse-says-clarity-bill-has-80-chance-of-passing-by-april.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨RUMOR: The crypto market structure bill, which can reduce manipulation in crypto by 70% will pass before the end of May 2026. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Td3BIUEVLc3JCZnd3M2pvNVc3Ymd4aUgyWm96aDRwalBjcWtXTlhtV0l4WFFIc0hoSnFxdnBLR1JZbV9ZSWZJSUhySjR6YTRtNE1vRnFZSXZmUWl5bkVn?oc=5\" target=\"_blank\">🚨RUMOR: The crypto market structure b…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Td3BIUEVLc3JCZnd3M2pvNVc3Ymd4aUgyWm96aDRwalBjcWtXTlhtV0l4WFFIc0hoSnFxdnBLR1JZbV9ZSWZJSUhySjR6YTRtNE1vRnFZSXZmUWl5bkVn?oc=5",
+      "publishedAt": "2026-02-20T07:03:36.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260220-rumor-the-crypto-market-structure-bill-which-can-reduce-manipulation-in-crypto-b",
+      "localUrl": "/news/20260220-rumor-the-crypto-market-structure-bill-which-can-reduce-manipulation-in-crypto-b.html"
     },
     {
       "source": "CoinDesk",
@@ -827,6 +853,17 @@
       "localUrl": "/news/20260220-new-per-sources-in-the-room-todays-stablecoin-meeting-was-smaller-than-last-week.html"
     },
     {
+      "source": "X Wire",
+      "title": "In today's meeting between banks and crypto, the White House presented a proposal that would allow exchanges to pay customers for their stablecoins as long as they base it on activities or transactions (not balances), I'm told. Expectation is banks start meetin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Lemg2cDVFSEI5NUhKdFd1dFJOQmNycGhhbHNOMlpSNUVTOEtXZmx0SldBaDB2cmxkcXFmZTk1a1RoTmhRVTM5dkJsZGpEMFlRajkxLXVUQ2JTSVVjdHJRRzV1aDNEcmc?oc=5\" target=\"_blank\">In today's meeting between …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Lemg2cDVFSEI5NUhKdFd1dFJOQmNycGhhbHNOMlpSNUVTOEtXZmx0SldBaDB2cmxkcXFmZTk1a1RoTmhRVTM5dkJsZGpEMFlRajkxLXVUQ2JTSVVjdHJRRzV1aDNEcmc?oc=5",
+      "publishedAt": "2026-02-19T22:56:56.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260219-in-todays-meeting-between-banks-and-crypto-the-white-house-presented-a-proposal-",
+      "localUrl": "/news/20260219-in-todays-meeting-between-banks-and-crypto-the-white-house-presented-a-proposal-.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Inside the meeting: White House favors some stablecoin rewards, tells banks it's time to move",
       "summary": "Sources familiar with the talks on stablecoin yields say the White House urged bankers to get on board with a deal that lets the market structure bill advance.",
@@ -869,23 +906,6 @@
       "category": "市场",
       "slug": "20260219-ai-in-hollywood-silicon-valley-star-tj-miller-isnt-worried",
       "localUrl": "/news/20260219-ai-in-hollywood-silicon-valley-star-tj-miller-isnt-worried.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin steadies near $67,000 as traders pay for crash protection",
-      "summary": "The average bitcoin ETF investor now sits on a 20% paper loss, leaving the market vulnerable to capitulation selling if prices slide further, a Wintermute trader said.",
-      "url": "https://www.coindesk.com/markets/2026/02/19/bitcoin-steadies-near-usd67-000-as-traders-pay-for-crash-protection",
-      "publishedAt": "2026-02-19T21:13:30.000Z",
-      "keywords": [
-        "Markets",
-        "Market Wrap",
-        "Bitcoin News",
-        "Wintermute",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260219-bitcoin-steadies-near-67000-as-traders-pay-for-crash-protection",
-      "localUrl": "/news/20260219-bitcoin-steadies-near-67000-as-traders-pay-for-crash-protection.html"
     },
     {
       "source": "Decrypt",
@@ -959,17 +979,6 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: CME Group to launch 24/7 crypto futures & options trading on May 29th. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XVGdGVGdaQkIzYlhRVWVTTzdweFRwNi1qSjdhVGo1VExZUGIyamk0d0U4cU1yVEJ2RElZZncyVHdsQnZObWhsTmVrZGd3Nm8wZjJUY0VaVnpraW13MXZ1Nlp3?oc=5\" target=\"_blank\">JUST IN: CME Group to launch 24/7 …",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XVGdGVGdaQkIzYlhRVWVTTzdweFRwNi1qSjdhVGo1VExZUGIyamk0d0U4cU1yVEJ2RElZZncyVHdsQnZObWhsTmVrZGd3Nm8wZjJUY0VaVnpraW13MXZ1Nlp3?oc=5",
-      "publishedAt": "2026-02-19T13:51:07.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260219-just-in-cme-group-to-launch-247-crypto-futures-options-trading-on-may-29th-xcom",
-      "localUrl": "/news/20260219-just-in-cme-group-to-launch-247-crypto-futures-options-trading-on-may-29th-xcom.html"
-    },
-    {
-      "source": "X Wire",
       "title": "JUST IN: 🇺🇸 CME Group to launch 24/7 crypto futures and options trading on May 29 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnSXpySXJrMkZyMEFuajNTcHBTaEFNNnNpdnRucUN6VElYbldFaDlBb1gzZmpLcUF6VC1lM05nMEF4SGlpRnVWVUhieHhScjBrQWNSSFR0YTFXQmxOZnExd0RFODgyWlU?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 CME Group to …",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnSXpySXJrMkZyMEFuajNTcHBTaEFNNnNpdnRucUN6VElYbldFaDlBb1gzZmpLcUF6VC1lM05nMEF4SGlpRnVWVUhieHhScjBrQWNSSFR0YTFXQmxOZnExd0RFODgyWlU?oc=5",
@@ -1019,17 +1028,6 @@
       "category": "X热点",
       "slug": "20260219-just-in-uae-has-so-far-mined-4536m-bitcoin-through-their-partners-citadel-per-ar",
       "localUrl": "/news/20260219-just-in-uae-has-so-far-mined-4536m-bitcoin-through-their-partners-citadel-per-ar.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: THE UAE JUST SAID #BITCOIN IS A \"STORE OF VALUE SIMILAR TO GOLD\" THEY NOW OWN OVER $1 BILLION WORTH OF BTC. INSANE 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKZGUxVlVnM0pmc0lsck9QS1ZqZ1NFem0xblYtem1QS0FzOXRuZlcxbFVXWW5YM3p1dG85RkZ3enVGYWI1WXk4RlJpcUFvVFVFbWtRUTZtWjhMR2c3UktqRzJ3?oc=5\" target=\"_blank\">JUST IN: THE UAE JUST SAID #BITCOI…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKZGUxVlVnM0pmc0lsck9QS1ZqZ1NFem0xblYtem1QS0FzOXRuZlcxbFVXWW5YM3p1dG85RkZ3enVGYWI1WXk4RlJpcUFvVFVFbWtRUTZtWjhMR2c3UktqRzJ3?oc=5",
-      "publishedAt": "2026-02-19T08:00:35.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260219-just-in-the-uae-just-said-bitcoin-is-a-store-of-value-similar-to-gold-they-now-o",
-      "localUrl": "/news/20260219-just-in-the-uae-just-said-bitcoin-is-a-store-of-value-similar-to-gold-they-now-o.html"
     },
     {
       "source": "X Wire",
