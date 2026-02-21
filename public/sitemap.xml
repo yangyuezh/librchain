@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-21T14:41:34.068Z</lastmod>
+    <lastmod>2026-02-21T15:37:38.531Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-21T14:41:34.068Z</lastmod>
+    <lastmod>2026-02-21T15:37:38.531Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260221-how-ai-is-helping-retail-traders-exploit-prediction-market-glitches-to-make-easy.html</loc>
+    <lastmod>2026-02-21T15:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260221-bitcoin-quantum-threat-takes-center-stage-at-ethereum-conference.html</loc>
@@ -277,12 +283,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260220-just-in-strategys-ceo-phong-le-and-morgan-stanleys-head-of-digital-assets-will-d.html</loc>
-    <lastmod>2026-02-20T16:08:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260220-rwa-issuers-prioritize-capital-formation-over-liquidity-according-to-brickken-su.html</loc>
     <lastmod>2026-02-20T15:55:33.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -297,12 +297,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260220-netherlands-bans-polymarket-over-illegal-gambling-services.html</loc>
     <lastmod>2026-02-20T15:14:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260220-bitcoin-rallies-as-trump-tariffs-struck-down-by-us-supreme-court-in-the-absence-.html</loc>
-    <lastmod>2026-02-20T15:03:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -327,6 +321,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260220-morning-minute-base-breaks-up-with-optimism.html</loc>
     <lastmod>2026-02-20T13:32:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260220-new-missouri-bitcoin-strategic-reserve-bill-advances-to-house-commerce-committee.html</loc>
+    <lastmod>2026-02-20T13:12:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -391,12 +391,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260220-bitcoin-logs-worst-first-50-day-start-to-a-year-on-record.html</loc>
-    <lastmod>2026-02-20T05:47:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260220-custodia-ceo-says-trump-family-crypto-ties-are-part-of-clarity-act-problem.html</loc>
     <lastmod>2026-02-20T04:36:25.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -447,6 +441,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260219-just-in-the-odds-that-bitcoin-and-crypto-market-structure-legislation-gets-signe.html</loc>
     <lastmod>2026-02-19T19:25:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260219-welcome-to-ethereum-xcom.html</loc>
+    <lastmod>2026-02-19T17:44:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
