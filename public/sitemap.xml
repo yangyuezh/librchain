@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-21T19:35:06.118Z</lastmod>
+    <lastmod>2026-02-21T20:37:48.888Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-21T19:35:06.118Z</lastmod>
+    <lastmod>2026-02-21T20:37:48.888Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260221-ethereum-is-going-hard-vitalik-buterin-backs-censorship-resistance-upgrade.html</loc>
+    <lastmod>2026-02-21T20:21:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260221-bitcoin-to-zero-searches-spike-in-the-us-but-the-bottom-signal-is-mixed.html</loc>
@@ -157,8 +163,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260221-this-is-a-phenomenal-chart-it-shows-the-sharpe-ratio-for-bitcoin-in-the-short-te.html</loc>
-    <lastmod>2026-02-21T06:52:20.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260221-crypto-if-you-cant-join-banks-buy-one-crypto-firms-are-exploring-bank-acquisitio.html</loc>
+    <lastmod>2026-02-21T06:55:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -447,12 +453,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260219-warhammer-veteran-jervis-johnson-warns-ai-could-become-the-asbestos-of-the-inter.html</loc>
     <lastmod>2026-02-19T21:56:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260219-ai-in-hollywood-silicon-valley-star-tj-miller-isnt-worried.html</loc>
-    <lastmod>2026-02-19T21:36:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
