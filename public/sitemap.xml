@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-21T20:37:48.888Z</lastmod>
+    <lastmod>2026-02-21T21:35:49.755Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-21T20:37:48.888Z</lastmod>
+    <lastmod>2026-02-21T21:35:49.755Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260221-crypto-market-retraces-almost-all-2024-2025-us-election-pump-gains.html</loc>
+    <lastmod>2026-02-21T20:40:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260221-ethereum-is-going-hard-vitalik-buterin-backs-censorship-resistance-upgrade.html</loc>
@@ -75,6 +81,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260221-breaking-iran-says-us-officials-have-accepted-its-demand-to-continue-uranium-enr.html</loc>
     <lastmod>2026-02-21T15:33:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260221-seeing-this-a-lot-my-two-cents-the-novel-value-of-bitcoin-is-that-it-is-user-run.html</loc>
+    <lastmod>2026-02-21T15:18:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -159,12 +171,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260221-bitcoin-miner-mara-buys-majority-stake-in-ai-data-center-firm-exaion.html</loc>
     <lastmod>2026-02-21T06:55:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260221-crypto-if-you-cant-join-banks-buy-one-crypto-firms-are-exploring-bank-acquisitio.html</loc>
-    <lastmod>2026-02-21T06:55:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -309,12 +315,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260220-bitcoin-rises-after-supreme-court-rules-against-trump-tariffs.html</loc>
     <lastmod>2026-02-20T17:20:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260220-core-technical-contributor-to-cease-involvement-with-aave-dao.html</loc>
-    <lastmod>2026-02-20T17:17:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
