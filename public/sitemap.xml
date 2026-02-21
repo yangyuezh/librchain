@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-21T05:54:24.607Z</lastmod>
+    <lastmod>2026-02-21T06:59:12.233Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-21T05:54:24.607Z</lastmod>
+    <lastmod>2026-02-21T06:59:12.233Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260221-uniswap-founder-slams-scam-crypto-ads-after-victim-lost-everything.html</loc>
+    <lastmod>2026-02-21T05:58:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260221-small-investors-are-buying-bitcoin-for-a-rally-to-succeed-the-whales-need-to-joi.html</loc>
@@ -19,7 +25,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260221-bitcoins-bull-catalyst-could-be-ai-stocks-becoming-silly-big-lyn-alden.html</loc>
+    <loc>https://www.librchain.com/news/20260221-bitcoins-bull-catalyst-could-be-ai-stocks-turning-silly-big-lyn-alden.html</loc>
     <lastmod>2026-02-21T02:21:04.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -271,12 +277,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260220-bitcoin-etfs-shed-166m-as-btc-heads-for-worst-start-in-years.html</loc>
-    <lastmod>2026-02-20T12:22:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260220-bitcoin-gains-is-still-signficantly-undervalued-bitwise-says-extreme-fear-domina.html</loc>
     <lastmod>2026-02-20T12:15:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -391,12 +391,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260219-in-todays-meeting-between-banks-and-crypto-the-white-house-presented-a-proposal-.html</loc>
-    <lastmod>2026-02-19T22:56:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260219-inside-the-meeting-white-house-favors-some-stablecoin-rewards-tells-banks-its-ti.html</loc>
     <lastmod>2026-02-19T22:36:57.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -429,6 +423,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260219-just-in-the-odds-that-bitcoin-and-crypto-market-structure-legislation-gets-signe.html</loc>
     <lastmod>2026-02-19T19:25:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260219-welcome-to-ethereum-xcom.html</loc>
+    <lastmod>2026-02-19T17:44:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
