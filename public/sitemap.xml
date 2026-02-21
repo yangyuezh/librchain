@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-21T11:33:39.495Z</lastmod>
+    <lastmod>2026-02-21T13:10:15.538Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-21T11:33:39.495Z</lastmod>
+    <lastmod>2026-02-21T13:10:15.538Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260221-whats-next-for-crypto-in-europe-after-christine-lagarde-steps-down.html</loc>
+    <lastmod>2026-02-21T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260221-spot-bitcoin-etfs-record-five-weeks-of-net-withdrawals-totaling-38b.html</loc>
     <lastmod>2026-02-21T09:39:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260221-vitalik-ethereum-has-already-made-jet-engine-changes-in-flight-once-the-merge-we.html</loc>
+    <lastmod>2026-02-21T09:00:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -51,6 +63,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260221-uniswap-founder-slams-scam-crypto-ads-after-victim-lost-everything.html</loc>
     <lastmod>2026-02-21T05:58:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260221-breaking-blackrock-buys-64500000-worth-of-bitcoin-xcom.html</loc>
+    <lastmod>2026-02-21T05:20:23.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -265,12 +283,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260220-tennessee-judge-issues-injunction-blocking-state-move-against-kalshi.html</loc>
-    <lastmod>2026-02-20T14:03:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260220-big-warning-us-economy-is-in-deep-trouble-right-now-us-q4-gdp-just-came-in-and-i.html</loc>
     <lastmod>2026-02-20T13:49:26.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -291,6 +303,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260220-what-next-for-xrp-as-volatility-sinks-to-2024-lows.html</loc>
     <lastmod>2026-02-20T13:08:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260220-bitcoins-weekend-selloff-may-be-over-with-cmes-247-crypto-trading-move.html</loc>
+    <lastmod>2026-02-20T13:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -391,18 +409,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260219-in-todays-meeting-between-banks-and-crypto-the-white-house-presented-a-proposal-.html</loc>
-    <lastmod>2026-02-19T22:56:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260219-inside-the-meeting-white-house-favors-some-stablecoin-rewards-tells-banks-its-ti.html</loc>
-    <lastmod>2026-02-19T22:36:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260219-warhammer-veteran-jervis-johnson-warns-ai-could-become-the-asbestos-of-the-inter.html</loc>
     <lastmod>2026-02-19T21:56:11.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -435,12 +441,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260219-welcome-to-ethereum-xcom.html</loc>
     <lastmod>2026-02-19T17:44:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260219-crypto-never-needed-a-bailout-never-will-xcom.html</loc>
-    <lastmod>2026-02-19T16:33:46.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
