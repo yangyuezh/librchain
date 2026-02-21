@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-21T15:37:38.531Z</lastmod>
+    <lastmod>2026-02-21T16:46:34.992Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-21T15:37:38.531Z</lastmod>
+    <lastmod>2026-02-21T16:46:34.992Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260221-bitcoin-price-slips-after-trump-hikes-worldwide-tariff-to-15-from-10-despite-sup.html</loc>
+    <lastmod>2026-02-21T16:43:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260221-how-ai-is-helping-retail-traders-exploit-prediction-market-glitches-to-make-easy.html</loc>
@@ -385,12 +391,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260220-bitcoin-nears-68000-gold-jumps-as-us-iran-tensions-return.html</loc>
-    <lastmod>2026-02-20T06:10:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260220-custodia-ceo-says-trump-family-crypto-ties-are-part-of-clarity-act-problem.html</loc>
     <lastmod>2026-02-20T04:36:25.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -451,6 +451,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260219-there-are-32-countries-with-0-crypto-tax-most-people-cant-name-three-so-i-built-.html</loc>
+    <lastmod>2026-02-19T15:26:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260219-crypto-outflows-remain-strong-crypto-funds-posted-173-million-in-outflows-last-w.html</loc>
     <lastmod>2026-02-19T15:07:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260218-just-in-odds-of-bitcoin-and-crypto-market-structure-legislation-being-signed-int.html</loc>
     <lastmod>2026-02-18T23:49:27.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260218-protocol-priorities-update-for-2026-xcom.html</loc>
-    <lastmod>2026-02-18T16:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
