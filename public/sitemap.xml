@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-21T08:47:40.491Z</lastmod>
+    <lastmod>2026-02-21T09:42:47.198Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-21T08:47:40.491Z</lastmod>
+    <lastmod>2026-02-21T09:42:47.198Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260221-spot-bitcoin-etfs-record-five-weeks-of-net-withdrawals-totaling-38b.html</loc>
+    <lastmod>2026-02-21T09:39:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260221-bitcoin-150k-price-calls-are-drying-up-which-is-healthy-santiment.html</loc>
@@ -27,6 +33,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260221-bitcoin-miner-mara-buys-majority-stake-in-ai-data-center-firm-exaion.html</loc>
     <lastmod>2026-02-21T06:55:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260221-this-is-a-phenomenal-chart-it-shows-the-sharpe-ratio-for-bitcoin-in-the-short-te.html</loc>
+    <lastmod>2026-02-21T06:52:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -211,6 +223,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260220-just-in-strategys-ceo-phong-le-and-morgan-stanleys-head-of-digital-assets-will-d.html</loc>
+    <lastmod>2026-02-20T16:08:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260220-rwa-issuers-prioritize-capital-formation-over-liquidity-according-to-brickken-su.html</loc>
     <lastmod>2026-02-20T15:55:33.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -267,12 +285,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260220-morning-minute-base-breaks-up-with-optimism.html</loc>
     <lastmod>2026-02-20T13:32:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260220-stablecoin-a7a5-grows-parallel-system-for-sanctioned-companies.html</loc>
-    <lastmod>2026-02-20T13:32:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -385,12 +397,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260220-new-per-sources-in-the-room-todays-stablecoin-meeting-was-smaller-than-last-week.html</loc>
-    <lastmod>2026-02-20T00:35:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260219-inside-the-meeting-white-house-favors-some-stablecoin-rewards-tells-banks-its-ti.html</loc>
     <lastmod>2026-02-19T22:36:57.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -471,12 +477,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260219-just-in-uae-has-so-far-mined-4536m-bitcoin-through-their-partners-citadel-per-ar.html</loc>
     <lastmod>2026-02-19T10:05:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260219-the-uae-mined-450m-bitcoin-the-uae-has-so-far-mined-4536m-bitcoin-through-their-.html</loc>
-    <lastmod>2026-02-19T06:14:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
