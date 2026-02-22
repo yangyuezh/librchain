@@ -11,6 +11,7 @@ concurrency:
 
 permissions:
   contents: write
+  deployments: write
 
 jobs:
   sync-news:
@@ -30,9 +31,11 @@ jobs:
         run: npm run update:news
 
       - name: Commit If Changed
+        id: commit_changes
         run: |
           if git diff --quiet; then
             echo "No content changes"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
 
@@ -41,3 +44,14 @@ jobs:
           git add public/news.json public/feed.xml public/sitemap.xml public/robots.txt public/news public/*.txt
           git commit -m "chore: hourly news refresh"
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Deploy Fresh Content To Cloudflare Pages
+        if: steps.commit_changes.outputs.changed == 'true'
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: librchain
+          directory: public
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
