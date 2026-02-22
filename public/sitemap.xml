@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-22T07:47:57.771Z</lastmod>
+    <lastmod>2026-02-22T08:48:27.382Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-22T07:47:57.771Z</lastmod>
+    <lastmod>2026-02-22T08:48:27.382Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260222-bitcoin-miner-bitdeer-dumps-entire-btc-reserves-holdings-drop-to-zero.html</loc>
+    <lastmod>2026-02-22T08:14:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260222-crypto-investors-interest-moves-pretty-wide-beyond-majors-as-dip-drags-exec.html</loc>
@@ -127,6 +133,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260221-breaking-iran-says-us-officials-have-accepted-its-demand-to-continue-uranium-enr.html</loc>
+    <lastmod>2026-02-21T15:33:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260221-seeing-this-a-lot-my-two-cents-the-novel-value-of-bitcoin-is-that-it-is-user-run.html</loc>
     <lastmod>2026-02-21T15:18:45.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -223,12 +235,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260221-breaking-us-troops-received-menus-including-steak-pie-crab-legs-lobster-special-.html</loc>
-    <lastmod>2026-02-21T06:21:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260221-uniswap-founder-slams-scam-crypto-ads-after-victim-lost-everything.html</loc>
     <lastmod>2026-02-21T05:58:48.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -319,12 +325,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260220-scotus-strikes-down-trump-tariffs-but-alternative-plans-brewing.html</loc>
-    <lastmod>2026-02-20T19:27:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260220-specialized-ai-detects-92-of-real-world-defi-exploits.html</loc>
     <lastmod>2026-02-20T19:06:15.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -369,12 +369,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260220-south-korean-lawmakers-slam-regulators-over-bithumbs-43-billion-bitcoin-blunder.html</loc>
     <lastmod>2026-02-20T16:27:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260220-im-actually-trying-to-do-something-even-more-ambitious-create-cypherpunk-princip.html</loc>
-    <lastmod>2026-02-20T16:19:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,6 +469,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260219-in-todays-meeting-between-banks-and-crypto-the-white-house-presented-a-proposal-.html</loc>
+    <lastmod>2026-02-19T22:56:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260219-warhammer-veteran-jervis-johnson-warns-ai-could-become-the-asbestos-of-the-inter.html</loc>
     <lastmod>2026-02-19T21:56:11.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -495,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260219-from-fentanyl-to-fraud-on-chain-activity-highlights-illicit-market-evolution.html</loc>
     <lastmod>2026-02-19T12:45:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260218-ofacofacsdn.html</loc>
-    <lastmod>2026-02-18T08:18:31.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
