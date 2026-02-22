@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-22T17:38:18.310Z</lastmod>
+    <lastmod>2026-02-22T18:52:53.252Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-22T17:38:18.310Z</lastmod>
+    <lastmod>2026-02-22T18:52:53.252Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260222-how-decentralized-ai-is-leveling-the-playing-field.html</loc>
+    <lastmod>2026-02-22T18:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260222-bitcoin-price-may-rebound-to-85k-as-cme-smart-money-slashes-shorts.html</loc>
@@ -33,6 +39,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260222-bitcoin-see-saws-around-68000-doge-eth-slide-as-tariff-uncertainty-weighs-on-ris.html</loc>
     <lastmod>2026-02-22T15:45:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260222-bitdeer-liquidates-entire-bitcoin-treasury-the-miner-has-sold-100-of-its-corpora.html</loc>
+    <lastmod>2026-02-22T15:36:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -97,6 +109,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260222-insight-us-google-searches-for-bitcoin-to-zero-just-hit-a-record-high-as-btc-sli.html</loc>
+    <lastmod>2026-02-22T09:18:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260222-bitcoin-miner-bitdeer-dumps-entire-btc-reserves-holdings-drop-to-zero.html</loc>
     <lastmod>2026-02-22T08:14:24.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -111,12 +129,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260222-crypto-investors-interest-moves-pretty-wide-beyond-majors-as-dip-drags-exec.html</loc>
     <lastmod>2026-02-22T05:54:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260222-breaking-vitalik-just-sold-8200000-in-eth-xcom.html</loc>
-    <lastmod>2026-02-22T05:37:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -289,6 +301,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260221-elon-musk-said-the-us-government-deleted-a-terabyte-of-financial-data-to-cover-t.html</loc>
+    <lastmod>2026-02-21T10:11:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260221-spot-bitcoin-etfs-record-five-weeks-of-net-withdrawals-totaling-38b.html</loc>
     <lastmod>2026-02-21T09:39:40.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -373,12 +391,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260220-us-supreme-courts-decision-on-trumps-tariffs-may-not-rock-crypto-yet.html</loc>
-    <lastmod>2026-02-20T18:42:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260220-after-state-lawsuit-losing-streak-kalshi-nabs-victory-in-tennesseethis-could-be-.html</loc>
     <lastmod>2026-02-20T17:40:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -445,12 +457,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260220-rumor-the-crypto-market-structure-bill-which-can-reduce-manipulation-in-crypto-b.html</loc>
-    <lastmod>2026-02-20T07:03:36.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260220-custodia-ceo-says-trump-family-crypto-ties-are-part-of-clarity-act-problem.html</loc>
     <lastmod>2026-02-20T04:36:25.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260219-just-in-the-odds-that-bitcoin-and-crypto-market-structure-legislation-gets-signe.html</loc>
     <lastmod>2026-02-19T19:25:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260219-welcome-to-ethereum-xcom.html</loc>
-    <lastmod>2026-02-19T17:44:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
