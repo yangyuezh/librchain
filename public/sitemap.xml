@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-22T22:41:05.646Z</lastmod>
+    <lastmod>2026-02-22T23:38:06.982Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-22T22:41:05.646Z</lastmod>
+    <lastmod>2026-02-22T23:38:06.982Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -33,6 +33,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260222-how-decentralized-ai-is-leveling-the-playing-field.html</loc>
     <lastmod>2026-02-22T18:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260222-an-ai-agent-with-a-crypto-wallet-just-sent-250000-to-a-random-person-who-was-beg.html</loc>
+    <lastmod>2026-02-22T17:50:14.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -139,12 +145,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260222-youre-sending-me-an-ethereum-contract-address-like-im-supposed-to-drop-everythin.html</loc>
-    <lastmod>2026-02-22T08:46:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260222-bitcoin-miner-bitdeer-dumps-entire-btc-reserves-holdings-drop-to-zero.html</loc>
     <lastmod>2026-02-22T08:14:24.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -241,6 +241,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260221-agentic-blockchain-infra-is-still-a-wip-any-progression-in-the-following-directi.html</loc>
+    <lastmod>2026-02-21T17:58:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260221-inside-frances-strict-rules-for-selling-majority-stake-of-its-state-energy-cloud.html</loc>
     <lastmod>2026-02-21T17:23:52.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -319,6 +325,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260221-elon-musk-said-the-us-government-deleted-a-terabyte-of-financial-data-to-cover-t.html</loc>
+    <lastmod>2026-02-21T10:11:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260221-spot-bitcoin-etfs-record-five-weeks-of-net-withdrawals-totaling-38b.html</loc>
     <lastmod>2026-02-21T09:39:40.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -343,26 +355,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260221-truth-google-searches-for-bitcoin-is-dead-are-not-at-an-ath-but-its-getting-ther.html</loc>
+    <lastmod>2026-02-21T06:05:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260221-uniswap-founder-slams-scam-crypto-ads-after-victim-lost-everything.html</loc>
     <lastmod>2026-02-21T05:58:48.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260221-breaking-blackrock-buys-64500000-worth-of-bitcoin-xcom.html</loc>
-    <lastmod>2026-02-21T05:20:23.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260220-sec-makes-quiet-shift-to-brokers-stablecoin-holdings-that-may-pack-big-results.html</loc>
     <lastmod>2026-02-20T22:15:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260220-vitalik-on-what-cypherpunk-is-on-january-27-ethereum-founder-vitalik-buterin-sta.html</loc>
-    <lastmod>2026-02-20T22:00:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -453,12 +459,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260220-silicon-valley-engineers-charged-with-theft-of-google-tech-trade-secrets.html</loc>
     <lastmod>2026-02-20T10:20:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260220-rumor-the-crypto-market-structure-bill-which-can-reduce-manipulation-in-crypto-b.html</loc>
-    <lastmod>2026-02-20T07:03:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
