@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-22T10:43:01.823Z</lastmod>
+    <lastmod>2026-02-22T11:33:40.482Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-22T10:43:01.823Z</lastmod>
+    <lastmod>2026-02-22T11:33:40.482Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260222-ai-agent-openclaw-confirms-ban-on-bitcoin-crypto-discussions-in-discord.html</loc>
+    <lastmod>2026-02-22T11:00:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260222-bitcoin-miner-bitdeer-dumps-entire-btc-reserves-holdings-drop-to-zero.html</loc>
@@ -309,12 +315,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260220-crypto-slides-but-tokenized-rwas-and-vc-push-ahead.html</loc>
     <lastmod>2026-02-20T20:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260220-trump-announces-10-global-tariff-following-scotus-ruling.html</loc>
-    <lastmod>2026-02-20T19:55:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
