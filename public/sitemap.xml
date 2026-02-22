@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-22T20:41:08.587Z</lastmod>
+    <lastmod>2026-02-22T21:36:37.281Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-22T20:41:08.587Z</lastmod>
+    <lastmod>2026-02-22T21:36:37.281Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260222-crypto-infrastructure-company-bitgo-named-issuer-for-fyusd-stablecoin.html</loc>
+    <lastmod>2026-02-22T20:38:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260222-curve-finance-founder-says-disagreement-within-a-dao-is-a-healthy-sign.html</loc>
@@ -139,12 +145,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260222-crypto-bitcoin-banned-on-openclaw-discord-openclaw-just-said-if-you-mention-bitc.html</loc>
-    <lastmod>2026-02-22T06:10:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260222-crypto-investors-interest-moves-pretty-wide-beyond-majors-as-dip-drags-exec.html</loc>
     <lastmod>2026-02-22T05:54:15.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -169,6 +169,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260222-breaking-crypto-kols-x-will-start-suspending-accounts-doing-undisclosed-shilling.html</loc>
+    <lastmod>2026-02-22T00:30:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260221-trump-raises-global-tariff-rate-to-15-but-crypto-markets-are-unfazed.html</loc>
     <lastmod>2026-02-21T21:45:05.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -183,6 +189,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260221-ethereum-is-going-hard-vitalik-buterin-backs-censorship-resistance-upgrade.html</loc>
     <lastmod>2026-02-21T20:21:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260221-over-400000-bitcoin-were-accumulated-between-60000-and-70000-this-is-the-cushion.html</loc>
+    <lastmod>2026-02-21T20:00:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -219,12 +231,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260221-bitcoin-echoes-late-2022-bear-market-bottom-k33-says.html</loc>
     <lastmod>2026-02-21T18:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260221-agentic-blockchain-infra-is-still-a-wip-any-progression-in-the-following-directi.html</loc>
-    <lastmod>2026-02-21T17:58:12.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -301,12 +307,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260221-insight-vitalikbuterin-says-hes-building-a-cypherpunk-principled-non-ugly-ethere.html</loc>
-    <lastmod>2026-02-21T11:45:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260221-spot-bitcoin-etfs-record-five-weeks-of-net-withdrawals-totaling-38b.html</loc>
     <lastmod>2026-02-21T09:39:40.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -361,12 +361,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260220-tokenized-real-estate-projects-advance-in-dubai-and-maldives.html</loc>
-    <lastmod>2026-02-20T21:31:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260220-bitcoin-shrugs-off-trumps-new-tariffs-nears-68000-as-altcoins-lead-modest-bounce.html</loc>
     <lastmod>2026-02-20T21:20:51.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -417,6 +411,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260220-south-korean-lawmakers-slam-regulators-over-bithumbs-43-billion-bitcoin-blunder.html</loc>
     <lastmod>2026-02-20T16:27:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260220-im-actually-trying-to-do-something-even-more-ambitious-create-cypherpunk-princip.html</loc>
+    <lastmod>2026-02-20T16:19:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
