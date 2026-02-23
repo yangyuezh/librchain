@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-23T07:19:44.939Z</lastmod>
+    <lastmod>2026-02-23T09:04:15.245Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-23T07:19:44.939Z</lastmod>
+    <lastmod>2026-02-23T09:04:15.245Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260223-hodlers-have-given-up-at-65k-five-things-to-know-in-bitcoin-this-week.html</loc>
+    <lastmod>2026-02-23T08:58:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260223-ethereum-risks-going-under-15k-as-vitalik-buterin-sells-eth-faster.html</loc>
+    <lastmod>2026-02-23T08:13:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260223-how-pig-butchering-crypto-scams-turn-trust-into-a-financial-weapon.html</loc>
+    <lastmod>2026-02-23T07:20:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260223-investable-universe-of-crypto-is-narrowing-nydig.html</loc>
@@ -19,7 +37,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260223-jpmorgan-concedes-it-debanked-trump-after-capitol-attack.html</loc>
+    <loc>https://www.librchain.com/news/20260223-jpmorgan-acknowledges-closing-trump-accounts-in-new-court-filing.html</loc>
     <lastmod>2026-02-23T06:22:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -49,6 +67,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260223-bitcoin-just-dropped-45-in-the-span-of-just-2-hours-falling-to-a-market-value-of.html</loc>
+    <lastmod>2026-02-23T05:53:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260223-these-are-terrible-takes-bitcoin-is-an-emerging-store-of-value-you-cannot-ask-it.html</loc>
     <lastmod>2026-02-23T05:11:36.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -67,7 +91,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260223-openai-employees-ai-agent-accidentally-sent-442k-to-beggar.html</loc>
+    <loc>https://www.librchain.com/news/20260223-ai-agent-sends-441k-in-tokens-after-decimal-error.html</loc>
     <lastmod>2026-02-23T04:33:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -109,7 +133,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260223-bitcoin-back-to-record-fear-levels-as-it-wipes-weekend-gains.html</loc>
+    <loc>https://www.librchain.com/news/20260223-bitcoin-returns-to-historic-fear-levels-as-it-wipes-weekend-gains.html</loc>
     <lastmod>2026-02-23T02:21:23.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -181,12 +205,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260222-an-ai-agent-with-a-crypto-wallet-just-sent-250000-to-a-random-person-who-was-beg.html</loc>
-    <lastmod>2026-02-22T17:50:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260222-bitcoin-price-may-rebound-to-85k-as-cme-smart-money-slashes-shorts.html</loc>
     <lastmod>2026-02-22T17:05:10.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -241,18 +259,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260222-crypto-capital-rotates-from-tokens-to-stocks-as-new-launches-struggle-dwf.html</loc>
-    <lastmod>2026-02-22T12:56:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260222-ai-agent-openclaw-confirms-ban-on-bitcoin-crypto-discussions-in-discord.html</loc>
-    <lastmod>2026-02-22T11:00:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260222-bitcoin-miner-sells-entire-btc-treasury-bitdeer-sold-all-its-bitcoin-holdings-in.html</loc>
     <lastmod>2026-02-22T10:25:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -265,20 +271,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260222-bitdeer-liquidates-entire-bitcoin-treasury-holdings-fall-to-zero.html</loc>
-    <lastmod>2026-02-22T08:14:24.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260222-bitcoin-bet-sends-nakamoto-into-a-99-collapse-bitcoin-treasury-firm-nakamoto-inc.html</loc>
+    <lastmod>2026-02-22T07:15:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260222-mentioning-bitcoin-or-crypto-on-ai-agent-openclaws-discord-will-get-you-banned.html</loc>
     <lastmod>2026-02-22T05:37:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260222-bitdeer-the-bitcoin-mining-company-owned-by-jihan-wu-announced-that-its-bitcoin-.html</loc>
-    <lastmod>2026-02-22T05:30:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -385,6 +385,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260221-truth-google-searches-for-bitcoin-is-dead-are-not-at-an-ath-but-its-getting-ther.html</loc>
+    <lastmod>2026-02-21T06:05:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260220-bitcoin-sell-pressure-is-easing-but-whales-keep-dumping-on-exchanges-cryptoquant.html</loc>
     <lastmod>2026-02-20T20:41:31.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -435,12 +441,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260220-netherlands-bans-polymarket-over-illegal-gambling-services.html</loc>
     <lastmod>2026-02-20T15:14:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260220-binance-xcom.html</loc>
-    <lastmod>2026-02-20T14:30:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
