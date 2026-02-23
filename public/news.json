@@ -1,7 +1,119 @@
 {
-  "updatedAt": "2026-02-23T21:00:17.677Z",
+  "updatedAt": "2026-02-23T21:59:33.387Z",
   "total": 81,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin may reverse course and rally to $75K: Here’s how",
+      "summary": "Traders struggle to determine if the crypto market bottom is in, but liquidity fears, AI industry valuation worries, and BTC mining strength could send Bitcoin back to $75,000.",
+      "url": "https://cointelegraph.com/news/bitcoin-may-reverse-course-and-rally-to-75k-here-s-how?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-23T21:45:00.000Z",
+      "keywords": [],
+      "category": "DeFi",
+      "slug": "20260223-bitcoin-may-reverse-course-and-rally-to-75k-heres-how",
+      "localUrl": "/news/20260223-bitcoin-may-reverse-course-and-rally-to-75k-heres-how.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Michael Saylor says quantum threat to Bitcoin is more than 10 years away",
+      "summary": "The Strategy CEO downplayed quantum risks on Natalie Brunell’s Coin Stories podcast, saying any credible threat would prompt coordinated software upgrades across global digital systems.",
+      "url": "https://cointelegraph.com/news/saylor-says-quantum-threat-to-bitcoin-is-more-than-10-years-out-expects-coordinated-global-upgrade-if-risk-emerges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-23T21:23:39.000Z",
+      "keywords": [],
+      "category": "基础设施",
+      "slug": "20260223-michael-saylor-says-quantum-threat-to-bitcoin-is-more-than-10-years-away",
+      "localUrl": "/news/20260223-michael-saylor-says-quantum-threat-to-bitcoin-is-more-than-10-years-away.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "We Talked to an AI Trained on Jeffrey Epstein’s Emails. Here's What It Said",
+      "summary": "Someone fine-tuned an AI on the Jeffrey Epstein email dump. We ran it locally. It called us \"goyim\" and invited us to a party.",
+      "url": "https://decrypt.co/358872/ai-trained-jeffrey-epstein-emails-mechaepstein-8000",
+      "publishedAt": "2026-02-23T21:19:23.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260223-we-talked-to-an-ai-trained-on-jeffrey-epsteins-emails-heres-what-it-said",
+      "localUrl": "/news/20260223-we-talked-to-an-ai-trained-on-jeffrey-epsteins-emails-heres-what-it-said.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "IoTeX offers cross-bridge hackers 10% bounty if they return $4.4 million within 48 hours",
+      "summary": "Raullen Chai, IoTeX co-founder and CEO, told CoinDesk he would not press charges if the stolen assets or its equivalent is returned within 48 hours.",
+      "url": "https://www.coindesk.com/business/2026/02/23/iotex-bridge-exploit-sparks-debate-over-losses-and-recovery-prospects",
+      "publishedAt": "2026-02-23T21:18:48.000Z",
+      "keywords": [
+        "Finance",
+        "Iotex",
+        "Exploits",
+        "Cryptocurrency",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260223-iotex-offers-cross-bridge-hackers-10-bounty-if-they-return-44-million-within-48-",
+      "localUrl": "/news/20260223-iotex-offers-cross-bridge-hackers-10-bounty-if-they-return-44-million-within-48-.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Kalshi Clears 'Backlog' of Suspicious Activity, Plans to Disclose Actions Against Insider Trading",
+      "summary": "Prediction market Kalshi is trying to dissuade insider trading and market manipulation.",
+      "url": "https://decrypt.co/358853/kalshi-clears-backlog-suspicious-activity-disclose-insider-trading",
+      "publishedAt": "2026-02-23T21:07:42.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260223-kalshi-clears-backlog-of-suspicious-activity-plans-to-disclose-actions-against-i",
+      "localUrl": "/news/20260223-kalshi-clears-backlog-of-suspicious-activity-plans-to-disclose-actions-against-i.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "NEAR Launches Near.com super app, touting AI capabilities and confidential transactions",
+      "summary": "The company is betting that the next big wave in crypto will come from its convergence with AI.",
+      "url": "https://www.coindesk.com/business/2026/02/23/near-launches-near-com-super-app-touting-ai-capabilities-and-confidential-transactions",
+      "publishedAt": "2026-02-23T21:03:50.000Z",
+      "keywords": [
+        "Finance",
+        "Artificial Intelligence",
+        "Near protocol",
+        "Wallet",
+        "decentralized AI",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260223-near-launches-nearcom-super-app-touting-ai-capabilities-and-confidential-transac",
+      "localUrl": "/news/20260223-near-launches-nearcom-super-app-touting-ai-capabilities-and-confidential-transac.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kraken’s co-CEO could trust AI with 100% of his crypto — Dragonfly’s Haseeb Qureshi isn’t convinced",
+      "summary": "At NEARCON 2026, Dragonfly’s Haseeb Qureshi and Kraken co-CEO Arjun Sethi delivered a sharp debate over how soon those agents can be trusted with real money.",
+      "url": "https://www.coindesk.com/business/2026/02/23/kraken-s-arjun-sethi-could-trust-ai-with-100-of-his-crypto-dragonfly-s-haseeb-qureshi-isn-t-convinced",
+      "publishedAt": "2026-02-23T21:02:44.000Z",
+      "keywords": [
+        "Finance",
+        "Kraken",
+        "dragonfly",
+        "AI",
+        "Trading Platforms",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260223-krakens-co-ceo-could-trust-ai-with-100-of-his-crypto-dragonflys-haseeb-qureshi-i",
+      "localUrl": "/news/20260223-krakens-co-ceo-could-trust-ai-with-100-of-his-crypto-dragonflys-haseeb-qureshi-i.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "PayPal draws takeover interest following 46% stock slide: Report",
+      "summary": "After a yearlong share slump, PayPal is fielding buyout approaches as rivals weigh asset sales and a possible full acquisition, according to Bloomberg.",
+      "url": "https://cointelegraph.com/news/paypal-buyout-approaches-share-decline-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-23T20:59:32.000Z",
+      "keywords": [],
+      "category": "综合",
+      "slug": "20260223-paypal-draws-takeover-interest-following-46-stock-slide-report",
+      "localUrl": "/news/20260223-paypal-draws-takeover-interest-following-46-stock-slide-report.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Negative Bitcoin funding rate may signal pending short-squeeze above $70K",
@@ -444,6 +556,17 @@
       "localUrl": "/news/20260223-elliptic-flags-russia-linked-crypto-platforms-ongoing-sanctions-evasion.html"
     },
     {
+      "source": "X Wire",
+      "title": "We are proud to announce that Crypto.com has received conditional approval from @USOCC for its national trust bank charter. Read more here: crypto.com/us/company-new… - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE41bkkzTlZLRXoyUVNCSE85MHRIYXRnVVR4ZkxXR0VSZmJfTndKOFFQVWk1ZlV1cTQ4ZFljOXY2dndMOVNJQTVEODEwQ0VMZktmUmttelRCSUdzNXdzRFgw?oc=5\" target=\"_blank\">We are proud to announce that Crypto.c…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41bkkzTlZLRXoyUVNCSE85MHRIYXRnVVR4ZkxXR0VSZmJfTndKOFFQVWk1ZlV1cTQ4ZFljOXY2dndMOVNJQTVEODEwQ0VMZktmUmttelRCSUdzNXdzRFgw?oc=5",
+      "publishedAt": "2026-02-23T14:46:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260223-we-are-proud-to-announce-that-cryptocom-has-received-conditional-approval-from-u",
+      "localUrl": "/news/20260223-we-are-proud-to-announce-that-cryptocom-has-received-conditional-approval-from-u.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Revolut confirms ex-employee threatened to leak KYC data for crypto ransom",
       "summary": "A crypto trader said a former Revolut employee tried to extort him and contacted his relatives. Revolut confirmed an investigation and said no systems were breached.",
@@ -484,17 +607,6 @@
       "localUrl": "/news/20260223-coindesk-20-performance-update-aave-gains-17-while-index-trades-lower-over-weeke.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Standard Chartered sticks to $2T stablecoin call but trims T-bill impact",
-      "summary": "Standard Chartered slashed its forecast for T-bill demand from stablecoins to $800 billion to $1 trillion by 2028, but maintained its $2 trillion stablecoin market call.",
-      "url": "https://cointelegraph.com/news/standard-chartered-2t-stablecoin-forecast-2028-t-bill-demand-trim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-23T14:08:14.000Z",
-      "keywords": [],
-      "category": "市场",
-      "slug": "20260223-standard-chartered-sticks-to-2t-stablecoin-call-but-trims-t-bill-impact",
-      "localUrl": "/news/20260223-standard-chartered-sticks-to-2t-stablecoin-call-but-trims-t-bill-impact.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "BitMine Immersion added $98 million of ether last week as losses balloon to more than $8 billion",
       "summary": "Tom Lee's Ethereum-focused firm continues buying into the crypto market weakness, now 4.42 million ETH tokens, or about 3.66 percent of the total supply.",
@@ -511,28 +623,6 @@
       "category": "基础设施",
       "slug": "20260223-bitmine-immersion-added-98-million-of-ether-last-week-as-losses-balloon-to-more-",
       "localUrl": "/news/20260223-bitmine-immersion-added-98-million-of-ether-last-week-as-losses-balloon-to-more-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Fictional 2028 AI memo imagines mass layoffs and stablecoin adoption",
-      "summary": "Citrini Research’s 2028 scenario imagines AI turbocharging corporate profits, while hollowing out consumer demand and quietly migrating global payments to stablecoins on cheap chains.",
-      "url": "https://cointelegraph.com/news/fictional-2028-ai-memo-mass-layoffs-stablecoin-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-23T13:50:39.000Z",
-      "keywords": [],
-      "category": "综合",
-      "slug": "20260223-fictional-2028-ai-memo-imagines-mass-layoffs-and-stablecoin-adoption",
-      "localUrl": "/news/20260223-fictional-2028-ai-memo-imagines-mass-layoffs-and-stablecoin-adoption.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Austria’s regulator slaps new business ban on KuCoin’s EU exchange",
-      "summary": "The Austrian Financial Market Authority has frozen new business at KuCoin EU months after granting the exchange a MiCA license, citing gaps in key AML and sanctions roles.",
-      "url": "https://cointelegraph.com/news/austria-regulator-slaps-new-business-ban-kucoin-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-23T13:46:02.000Z",
-      "keywords": [],
-      "category": "监管",
-      "slug": "20260223-austrias-regulator-slaps-new-business-ban-on-kucoins-eu-exchange",
-      "localUrl": "/news/20260223-austrias-regulator-slaps-new-business-ban-on-kucoins-eu-exchange.html"
     },
     {
       "source": "Decrypt",
@@ -663,6 +753,17 @@
     },
     {
       "source": "X Wire",
+      "title": "We're performing a brief wallet maintenance on the Ethereum Network tomorrow, Feb 24th. 🔸 Starts: 06:00 UTC 🔸 Estimated Down-time: 1 hour 🔸 Note: Deposits/withdrawals will be paused 5 mins prior to the start. Funds are SAFU! 🙏 👉 binance.com/en/suppor - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqakJxdkJ2b2tBbTFEMU5sMzc5WjQzdU5meDNsM0xhQ3FTd0lsVE8xWFZvZ2t6TFY5M09oczVXNDJiaFFBU1JCN09ZMDBTcVM5WVRRdE5jd2pQRFhw?oc=5\" target=\"_blank\">We're performing a brief wallet maintenanc…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqakJxdkJ2b2tBbTFEMU5sMzc5WjQzdU5meDNsM0xhQ3FTd0lsVE8xWFZvZ2t6TFY5M09oczVXNDJiaFFBU1JCN09ZMDBTcVM5WVRRdE5jd2pQRFhw?oc=5",
+      "publishedAt": "2026-02-23T13:00:01.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260223-were-performing-a-brief-wallet-maintenance-on-the-ethereum-network-tomorrow-feb-",
+      "localUrl": "/news/20260223-were-performing-a-brief-wallet-maintenance-on-the-ethereum-network-tomorrow-feb-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "NEW: Major investigation dropping February 26 on one of crypto’s most profitable businesses where multiple employees abused internal data to insider trade over a prolonged period of time. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE52aktnY1BlSEM2eGpMbmZQblYwanJ2LXBDMTE4S2JrYUo5ZFhiOERFdG5NQXRIME5YZjVGOTBlMTZSWVYxY0RvWjk2ZnA0dGlrTGZfTFRtZzkzcWty?oc=5\" target=\"_blank\">NEW: Major investigation dropping February…",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52aktnY1BlSEM2eGpMbmZQblYwanJ2LXBDMTE4S2JrYUo5ZFhiOERFdG5NQXRIME5YZjVGOTBlMTZSWVYxY0RvWjk2ZnA0dGlrTGZfTFRtZzkzcWty?oc=5",
@@ -747,53 +848,6 @@
       "localUrl": "/news/20260223-pre-market-trading-stabilizes-as-bitcoin-reclaims-66000-saylor-eyes-100th-btc-pu.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "KuCoin told to halt new EU business due to compliance staffing shortfalls",
-      "summary": "Austria's financial regulator said KuCoin EU must appoint an anti-money-laundering officer and deputy officer, as well as a sanctions compliance officer and deputy.",
-      "url": "https://www.coindesk.com/policy/2026/02/23/kucoin-banned-in-europe-over-anti-money-laundering-and-compliance-staff-shortfall",
-      "publishedAt": "2026-02-23T10:24:42.000Z",
-      "keywords": [
-        "Policy",
-        "KuCoin",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260223-kucoin-told-to-halt-new-eu-business-due-to-compliance-staffing-shortfalls",
-      "localUrl": "/news/20260223-kucoin-told-to-halt-new-eu-business-due-to-compliance-staffing-shortfalls.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin balances on Binance hit highest since November 2024: here's what it means",
-      "summary": "Users' bitcoin holdings in wallets linked to Binance have climbed to highest since late 2024.",
-      "url": "https://www.coindesk.com/markets/2026/02/23/bitcoin-balances-on-binance-hit-highest-since-november-2024-here-s-what-it-means",
-      "publishedAt": "2026-02-23T10:21:12.000Z",
-      "keywords": [
-        "Markets",
-        "Binance",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260223-bitcoin-balances-on-binance-hit-highest-since-november-2024-heres-what-it-means",
-      "localUrl": "/news/20260223-bitcoin-balances-on-binance-hit-highest-since-november-2024-heres-what-it-means.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ethereum's cofounder Vitalik Buterin sells more ether while prices continues to slide",
-      "summary": "The latest sales are part of a broader plan announced in late January to fund ecosystem development and other initiative.",
-      "url": "https://www.coindesk.com/markets/2026/02/23/ethereum-founder-vitalik-buterin-accelerates-ether-sales",
-      "publishedAt": "2026-02-23T10:15:59.000Z",
-      "keywords": [
-        "Markets",
-        "Ethereum News",
-        "Vitalik Buterin",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260223-ethereums-cofounder-vitalik-buterin-sells-more-ether-while-prices-continues-to-s",
-      "localUrl": "/news/20260223-ethereums-cofounder-vitalik-buterin-sells-more-ether-while-prices-continues-to-s.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin's Dip Under $65K Pushes Crypto Liquidations to $500M",
       "summary": "Bitcoin's drop below $65K triggered over $500M in liquidations, as macro uncertainty from tariffs and geopolitics reprices risk assets.",
@@ -808,14 +862,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Erik Voorhees( @ErikVoorhees), an early #Bitcoin supporter and founder of ShapeShift, is buying back $ETH. One year ago, he sold 11,616 $ETH($33.94M) at $2,922. Recently, he spent 20.38M $USDC to buy back 9,911 $ETH at $2,057. intel.arkm.com/expl - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwUExXY1B6dERvV1AzbzJlamEzNHVYMEszNFZSYUMzaDAzdWRVSDZzM1VMN3FWZE9MMVF1bGt0QTk5YzBZYkV5aDV0aUNmekZpOURrSWZGTFdrZVllSjI0cFVB?oc=5\" target=\"_blank\">Erik Voorhees( @ErikVoorhees), an …",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwUExXY1B6dERvV1AzbzJlamEzNHVYMEszNFZSYUMzaDAzdWRVSDZzM1VMN3FWZE9MMVF1bGt0QTk5YzBZYkV5aDV0aUNmekZpOURrSWZGTFdrZVllSjI0cFVB?oc=5",
-      "publishedAt": "2026-02-23T08:05:31.000Z",
+      "title": "⚠️ CRYPTO MAY BE HEADING TOWARD ITS LARGEST CRASH EVER The magnitude of losses now places this selloff among the most severe events in market history. Over $2.22 TRILLION has already been erased, sending crypto down more than 50% fro - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE93VC1MeFk0ZVhVWjdkTkFjVWJzaGdqMzc3Z3Vjbm9zUkFkNVAyLWxfNHNIWDYwZlI1eHRVbURoVjBXQzhsWG5QNFBMbXNXRVVPTVlWdVNBSkxhU0hYMUxHNQ?oc=5\" target=\"_blank\">⚠️ CRYPTO MAY BE HEADING TOWARD ITS …",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93VC1MeFk0ZVhVWjdkTkFjVWJzaGdqMzc3Z3Vjbm9zUkFkNVAyLWxfNHNIWDYwZlI1eHRVbURoVjBXQzhsWG5QNFBMbXNXRVVPTVlWdVNBSkxhU0hYMUxHNQ?oc=5",
+      "publishedAt": "2026-02-23T08:54:34.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260223-erik-voorhees-erikvoorhees-an-early-bitcoin-supporter-and-founder-of-shapeshift-",
-      "localUrl": "/news/20260223-erik-voorhees-erikvoorhees-an-early-bitcoin-supporter-and-founder-of-shapeshift-.html"
+      "slug": "20260223-crypto-may-be-heading-toward-its-largest-crash-ever-the-magnitude-of-losses-now-",
+      "localUrl": "/news/20260223-crypto-may-be-heading-toward-its-largest-crash-ever-the-magnitude-of-losses-now-.html"
     },
     {
       "source": "X Wire",
@@ -838,28 +892,6 @@
       "category": "X热点",
       "slug": "20260223-these-are-terrible-takes-bitcoin-is-an-emerging-store-of-value-you-cannot-ask-it",
       "localUrl": "/news/20260223-these-are-terrible-takes-bitcoin-is-an-emerging-store-of-value-you-cannot-ask-it.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "💥BREAKING: This is insane. Crypto Fear and Greed Index has fallen back to 5. Remaining deep in Extreme Fear territory. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nRzNxcm40cm03NUJnbUFGWmJLbXJFMFVEZUM2RlN1aTBFc2F0aUNUMlFIUlQ2dzN6SW5RakdLTHdBbFdRSENZV1A0eWdYY2JVTmdicWFoRmxNRWxJdk5UQ3pn?oc=5\" target=\"_blank\">💥BREAKING: This is insane. Crypto…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nRzNxcm40cm03NUJnbUFGWmJLbXJFMFVEZUM2RlN1aTBFc2F0aUNUMlFIUlQ2dzN6SW5RakdLTHdBbFdRSENZV1A0eWdYY2JVTmdicWFoRmxNRWxJdk5UQ3pn?oc=5",
-      "publishedAt": "2026-02-23T04:41:54.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260223-breaking-this-is-insane-crypto-fear-and-greed-index-has-fallen-back-to-5-remaini",
-      "localUrl": "/news/20260223-breaking-this-is-insane-crypto-fear-and-greed-index-has-fallen-back-to-5-remaini.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "This is not NORMAL Bitcoin has crashed -49% and wiped out over $1.21 TRILLION from its market cap in the last 139 days. This is the first time in BTC history we’ve seen such a big drop (–$62,000) with 0 relief rally. Something has changed in the crypto mark - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxLXZyYm1NQzR3emlsWW5MdV9uTm9vZWdSRllIWjh6RjJNNENxZ1hqaEllS05OenpKNXlSUGJVNnltaUhZVkkxbko1bjZTQ3FGZzJSdVltX015WVE0Z3YzdkEtaw?oc=5\" target=\"_blank\">This is not NORMAL Bitcoin has c…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxLXZyYm1NQzR3emlsWW5MdV9uTm9vZWdSRllIWjh6RjJNNENxZ1hqaEllS05OenpKNXlSUGJVNnltaUhZVkkxbko1bjZTQ3FGZzJSdVltX015WVE0Z3YzdkEtaw?oc=5",
-      "publishedAt": "2026-02-23T04:28:13.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260223-this-is-not-normal-bitcoin-has-crashed-49-and-wiped-out-over-121-trillion-from-i",
-      "localUrl": "/news/20260223-this-is-not-normal-bitcoin-has-crashed-49-and-wiped-out-over-121-trillion-from-i.html"
     },
     {
       "source": "X Wire",
@@ -943,6 +975,17 @@
       "localUrl": "/news/20260222-blockchain-apps-have-failed-to-win-over-the-masses-ethereum-builders-admit.html"
     },
     {
+      "source": "X Wire",
+      "title": "Insight: U.S. Google searches for “Bitcoin to zero” just hit a record high as $BTC slid toward $60K, a spike that previously aligned with local bottoms in 2021 and 2022. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MNDYtaS03Rnk2TlYwU1NXSnVCWEcybEcxLWs0WG51b1M1RkVBNnoyLXhXajNJU0cwRkZmRklSc3Z0dWdMZlJEUi01aHQzNWQzY2JJMWI1bU1uTDk2NUE?oc=5\" target=\"_blank\">Insight: U.S. Google searches for “Bitc…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MNDYtaS03Rnk2TlYwU1NXSnVCWEcybEcxLWs0WG51b1M1RkVBNnoyLXhXajNJU0cwRkZmRklSc3Z0dWdMZlJEUi01aHQzNWQzY2JJMWI1bU1uTDk2NUE?oc=5",
+      "publishedAt": "2026-02-22T09:18:39.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260222-insight-us-google-searches-for-bitcoin-to-zero-just-hit-a-record-high-as-btc-sli",
+      "localUrl": "/news/20260222-insight-us-google-searches-for-bitcoin-to-zero-just-hit-a-record-high-as-btc-sli.html"
+    },
+    {
       "source": "Decrypt",
       "title": "'Ethereum Is Going Hard': Vitalik Buterin Backs Censorship Resistance Upgrade",
       "summary": "Ethereum developers scheduled a controversial upgrade for later this year. Buterin said it reinforces the network’s cypherpunk principles.",
@@ -1004,17 +1047,6 @@
       "localUrl": "/news/20260221-bitcoin-quantum-threat-takes-center-stage-at-ethereum-conference.html"
     },
     {
-      "source": "X Wire",
-      "title": "Insight: @VitalikButerin says he’s building a “cypherpunk principled non-ugly Ethereum,” as devs schedule FOCIL (EIP-7805) for the Hegota upgrade in late 2026 to harden protocol-level censorship resistance. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GZHUwTnp1aWNsVklWZWJlVFM2ZHlEU1NsRnBLVFhMNy16cXpmMk9JVkNnOTVya0FzZmY2WDBHNWN5eExUSV9SRTFLN0ZCaURMRnFIc2dTM0FCcG1XMUE?oc=5\" target=\"_blank\">Insight: @VitalikButerin says he’s buil…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GZHUwTnp1aWNsVklWZWJlVFM2ZHlEU1NsRnBLVFhMNy16cXpmMk9JVkNnOTVya0FzZmY2WDBHNWN5eExUSV9SRTFLN0ZCaURMRnFIc2dTM0FCcG1XMUE?oc=5",
-      "publishedAt": "2026-02-21T11:45:09.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260221-insight-vitalikbuterin-says-hes-building-a-cypherpunk-principled-non-ugly-ethere",
-      "localUrl": "/news/20260221-insight-vitalikbuterin-says-hes-building-a-cypherpunk-principled-non-ugly-ethere.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin Sell Pressure Is Easing, But Whales Keep Dumping on Exchanges: CryptoQuant",
       "summary": "Bitcoin is down 46% from its October peak—and the largest holders keep depositing to exchanges, presumably to sell, says CryptoQuant.",
@@ -1039,32 +1071,6 @@
       "category": "DeFi",
       "slug": "20260220-trump-backed-world-liberty-plots-exit-mechanism-for-maldives-hotel-tokenization-",
       "localUrl": "/news/20260220-trump-backed-world-liberty-plots-exit-mechanism-for-maldives-hotel-tokenization-.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "After State Lawsuit Losing Streak, Kalshi Nabs Victory in Tennessee—This Could Be Why",
-      "summary": "States are scoring victories against prediction markets when they invoke congressional intent, said a legal expert—and losing when they focus on narrower legal definitions.",
-      "url": "https://decrypt.co/358765/after-state-lawsuit-losing-streak-kalshi-victory-tennessee-why",
-      "publishedAt": "2026-02-20T17:40:44.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260220-after-state-lawsuit-losing-streak-kalshi-nabs-victory-in-tennesseethis-could-be-",
-      "localUrl": "/news/20260220-after-state-lawsuit-losing-streak-kalshi-nabs-victory-in-tennesseethis-could-be-.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
-      "summary": "Software firm Strategy (formerly MicroStrategy) and its co-founder Michael Saylor have become synonymous with Bitcoin. Here’s what you need to know.",
-      "url": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
-      "publishedAt": "2026-02-20T17:40:02.000Z",
-      "keywords": [
-        "The Landscape"
-      ],
-      "category": "RWA",
-      "slug": "20260220-what-is-strategy-mstr-the-bitcoin-treasury-company",
-      "localUrl": "/news/20260220-what-is-strategy-mstr-the-bitcoin-treasury-company.html"
     }
   ]
 }
