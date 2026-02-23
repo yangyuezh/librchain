@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-23T22:58:32.168Z</lastmod>
+    <lastmod>2026-02-23T23:45:41.692Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-23T22:58:32.168Z</lastmod>
+    <lastmod>2026-02-23T23:45:41.692Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260223-is-artificial-general-intelligence-already-here-one-ai-founder-thinks-so.html</loc>
+    <lastmod>2026-02-23T23:44:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260223-are-bitcoin-etfs-quietly-accumulating-or-just-not-selling-the-flow-data-that-mat.html</loc>
@@ -103,6 +109,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260223-breaking-our-traders-forecast-bitcoin-to-reach-a-low-of-44000-xcom.html</loc>
+    <lastmod>2026-02-23T20:25:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260223-welcome-to-our-new-crypto-task-force-chief-counsel-taylor-lindman-who-joined-the.html</loc>
+    <lastmod>2026-02-23T20:25:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260223-crypto-suffers-deeper-declines-as-ai-fears-send-ibm-plunging-11.html</loc>
     <lastmod>2026-02-23T20:18:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -117,6 +135,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260223-critical-bitcoin-weekly-trend-breaks-for-first-time-in-2-years-is-btc-done.html</loc>
     <lastmod>2026-02-23T19:45:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260223-just-in-us-regulator-occ-approves-bitcoin-exchange-cryptocom-to-become-a-nationa.html</loc>
+    <lastmod>2026-02-23T19:44:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -427,12 +451,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260223-bitcoin-dropped-below-65k-230-million-in-leveraged-longs-liquidated-in-60-minute.html</loc>
-    <lastmod>2026-02-23T03:33:23.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260223-the-sentiment-in-crypto-right-now-is-so-bad-that-im-actually-pretty-optimistic-x.html</loc>
     <lastmod>2026-02-23T03:33:15.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -457,12 +475,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260222-cz-says-bitcoin-reaching-200000-is-the-most-obvious-thing-in-the-world-to-me-i-a.html</loc>
-    <lastmod>2026-02-22T19:58:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260222-theres-an-increasing-view-in-crypto-that-l1-blockspace-is-a-commodity-i-wonder-i.html</loc>
     <lastmod>2026-02-22T18:12:27.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,20 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260221-marketers-could-use-ai-to-make-sure-you-see-their-adsheres-how.html</loc>
-    <lastmod>2026-02-21T17:01:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260221-bitcoin-faces-a-1-trillion-identity-crisis-bitcoin-has-dropped-over-40-from-its-.html</loc>
     <lastmod>2026-02-21T15:56:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260221-the-bitcoin-whitepaper-is-on-display-at-the-new-york-stock-exchange-xcom.html</loc>
-    <lastmod>2026-02-21T15:35:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
