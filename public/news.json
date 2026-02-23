@@ -1,7 +1,67 @@
 {
-  "updatedAt": "2026-02-22T23:38:06.934Z",
+  "updatedAt": "2026-02-23T03:17:28.609Z",
   "total": 81,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin back to record fear levels as it wipes weekend gains",
+      "summary": "Bitcoin plunged over $3,000 in two hours, while the Crypto Fear and Greed Index has slumped to historic lows again.",
+      "url": "https://cointelegraph.com/news/bitcoin-drops-back-record-fear-levels-as-it-wipes-weekend-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-23T02:21:23.000Z",
+      "keywords": [],
+      "category": "DeFi",
+      "slug": "20260223-bitcoin-back-to-record-fear-levels-as-it-wipes-weekend-gains",
+      "localUrl": "/news/20260223-bitcoin-back-to-record-fear-levels-as-it-wipes-weekend-gains.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slides 5%, tumbling below $65,000 as whale selling grows and recent buyers lock in losses",
+      "summary": "On-chain data from Glassnode and CryptoQuant shows large holders dominating exchange inflows while short-term investors continue to sell at a loss, pointing to a fragile base-building phase.",
+      "url": "https://www.coindesk.com/markets/2026/02/23/bitcoin-slides-4-to-usd65-000-as-whale-selling-grows-and-recent-buyers-lock-in-losses",
+      "publishedAt": "2026-02-23T01:49:11.000Z",
+      "keywords": [
+        "Markets",
+        "btc crash",
+        "Bitcoin Price",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260223-bitcoin-slides-5-tumbling-below-65000-as-whale-selling-grows-and-recent-buyers-l",
+      "localUrl": "/news/20260223-bitcoin-slides-5-tumbling-below-65000-as-whale-selling-grows-and-recent-buyers-l.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Bitcoin falls under $65,000 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sTzZQVHRpZ3RORTdON0pwUHZnRE5vRE42Yi1lY0JqZk9HdC1yd1BldFZNdVp1dFl0TlViVl9tcHJQcEVPWlYyUWprVWdYNzVNY3o5dVBJNWxERlJjeUlVcW5B?oc=5\" target=\"_blank\">JUST IN: Bitcoin falls under $65,0…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sTzZQVHRpZ3RORTdON0pwUHZnRE5vRE42Yi1lY0JqZk9HdC1yd1BldFZNdVp1dFl0TlViVl9tcHJQcEVPWlYyUWprVWdYNzVNY3o5dVBJNWxERlJjeUlVcW5B?oc=5",
+      "publishedAt": "2026-02-23T01:48:37.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260223-just-in-bitcoin-falls-under-65000-xcom",
+      "localUrl": "/news/20260223-just-in-bitcoin-falls-under-65000-xcom.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Vitalik Buterin floats simulated transactions to enhance crypto security",
+      "summary": "Crypto users would specify the onchain action they want, then click “OK” or “Cancel” after seeing a transaction simulating that action.",
+      "url": "https://cointelegraph.com/news/vitalik-buterin-advocates-intent-based-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-23T01:30:45.000Z",
+      "keywords": [],
+      "category": "监管",
+      "slug": "20260223-vitalik-buterin-floats-simulated-transactions-to-enhance-crypto-security",
+      "localUrl": "/news/20260223-vitalik-buterin-floats-simulated-transactions-to-enhance-crypto-security.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇺🇸 LATEST: Missouri's Bitcoin Strategic Reserve Fund bill HB2080 now moves to House Commerce Committee review. If passed, it will allow the state treasurer to receive, invest, and hold Bitcoin under certain circumstances. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqUTdyaTAxYTV0aGU5RlhuUHM4dUFBSHFvd1F6bWEwRE1NMzc2ampCemVJbEN4RjgzSVVqb0tENDN6R1lqajRtZHJMQnlLQlhrV244b3lIQUNIaUR6VEp3Yzl2d00?oc=5\" target=\"_blank\">🇺🇸 LATEST: Missouri's Bitcoin…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqUTdyaTAxYTV0aGU5RlhuUHM4dUFBSHFvd1F6bWEwRE1NMzc2ampCemVJbEN4RjgzSVVqb0tENDN6R1lqajRtZHJMQnlLQlhrV244b3lIQUNIaUR6VEp3Yzl2d00?oc=5",
+      "publishedAt": "2026-02-23T01:30:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260223-latest-missouris-bitcoin-strategic-reserve-fund-bill-hb2080-now-moves-to-house-c",
+      "localUrl": "/news/20260223-latest-missouris-bitcoin-strategic-reserve-fund-bill-hb2080-now-moves-to-house-c.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "SEC allows broker-dealers to take 2% 'haircut' on stablecoins",
@@ -34,6 +94,17 @@
       "category": "基础设施",
       "slug": "20260222-curve-finance-founder-says-disagreement-within-a-dao-is-a-healthy-sign",
       "localUrl": "/news/20260222-curve-finance-founder-says-disagreement-within-a-dao-is-a-healthy-sign.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "In Iran, you can mine 1 Bitcoin for just $1,320 and sell it for $68,000. This 50x return on investment is possible due to very low subsidized electricity costs. The government legalized Bitcoin mining in 2019 as a way to generate foreign currency despite sanctions - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uV1ZxRExPME5JT3dkWGpjaVAwZVFIVGhhYVA5LW0zSFo3MHdMd1E3YjljckVaVmpDZldibUlmUlBXNWhtSzI5bXBLWVhDVWdXVHE2anJZOVhPMkszbk5sMmFsTQ?oc=5\" target=\"_blank\">In Iran, you can mine 1 Bitcoin …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uV1ZxRExPME5JT3dkWGpjaVAwZVFIVGhhYVA5LW0zSFo3MHdMd1E3YjljckVaVmpDZldibUlmUlBXNWhtSzI5bXBLWVhDVWdXVHE2anJZOVhPMkszbk5sMmFsTQ?oc=5",
+      "publishedAt": "2026-02-22T18:48:38.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260222-in-iran-you-can-mine-1-bitcoin-for-just-1320-and-sell-it-for-68000-this-50x-retu",
+      "localUrl": "/news/20260222-in-iran-you-can-mine-1-bitcoin-for-just-1320-and-sell-it-for-68000-this-50x-retu.html"
     },
     {
       "source": "CoinDesk",
@@ -118,17 +189,6 @@
       "localUrl": "/news/20260222-bitcoin-see-saws-around-68000-doge-eth-slide-as-tariff-uncertainty-weighs-on-ris.html"
     },
     {
-      "source": "X Wire",
-      "title": "BITDEER LIQUIDATES ENTIRE BITCOIN TREASURY The miner has sold 100% of its corporate BTC holdings. • 943.1 BTC from reserves sold • 189.8 BTC newly mined sold • Balance now: 0 BTC Proceeds are being redirected toward data center expansion a - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QUUhWaFM0THo2UHZCckN0MURvRFZqRjZDZG1QQVBFa0Y0akZBQ2ZWbjEyeTRMaEZpZDBMcElMTmZUeFczeHZZZmU0MmREVVhzZkdqbjF6MnZwMVRGNDJ6ek1RNEVKQQ?oc=5\" target=\"_blank\">BITDEER LIQUIDATES ENTIRE BI…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QUUhWaFM0THo2UHZCckN0MURvRFZqRjZDZG1QQVBFa0Y0akZBQ2ZWbjEyeTRMaEZpZDBMcElMTmZUeFczeHZZZmU0MmREVVhzZkdqbjF6MnZwMVRGNDJ6ek1RNEVKQQ?oc=5",
-      "publishedAt": "2026-02-22T15:36:03.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260222-bitdeer-liquidates-entire-bitcoin-treasury-the-miner-has-sold-100-of-its-corpora",
-      "localUrl": "/news/20260222-bitdeer-liquidates-entire-bitcoin-treasury-the-miner-has-sold-100-of-its-corpora.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "XRP falls 4% as network sees biggest realized loss spike since 2022",
       "summary": "Past capitulation waves have preceded sharp recoveries, but this time price is still fighting technical resistance even as ledger activity surges.",
@@ -161,17 +221,6 @@
       "category": "监管",
       "slug": "20260222-proshares-stablecoin-ready-etf-sees-17-billion-debut-sparking-speculation-about-",
       "localUrl": "/news/20260222-proshares-stablecoin-ready-etf-sees-17-billion-debut-sparking-speculation-about-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Michael Saylor hints at buying more Bitcoin. \"The Orange Century.\" - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2aGRuTjBGZUphbVl1MDg2RDZBd3M5cW9iZW42ZFdYM3E3NzlSYnNqakk4Um1IZW5tOGptLVlINTN6a19BU3VweDdfOGJUdWd2UUxSWkRQYkJhZU12NHBFbkl3?oc=5\" target=\"_blank\">JUST IN: Michael Saylor hints at b…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2aGRuTjBGZUphbVl1MDg2RDZBd3M5cW9iZW42ZFdYM3E3NzlSYnNqakk4Um1IZW5tOGptLVlINTN6a19BU3VweDdfOGJUdWd2UUxSWkRQYkJhZU12NHBFbkl3?oc=5",
-      "publishedAt": "2026-02-22T14:09:06.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260222-just-in-michael-saylor-hints-at-buying-more-bitcoin-the-orange-century-xcom",
-      "localUrl": "/news/20260222-just-in-michael-saylor-hints-at-buying-more-bitcoin-the-orange-century-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -237,17 +286,6 @@
       "localUrl": "/news/20260222-crypto-capital-rotates-from-tokens-to-stocks-as-new-launches-struggle-dwf.html"
     },
     {
-      "source": "X Wire",
-      "title": "🚨 NOW: Bitdeer has liquidated their entire BTC bag. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkUE1VaVlzZXgxR0ZkQzBSRVhiYUNTVEEyeFhsZXRUeUJSelcyNHFjNDFaNm1qOFNiWWhrZEV1czhqSlpSbVZvakZrLWlJSFhKTFMzWjg1aUV6cGRHcER6bzdHVzI?oc=5\" target=\"_blank\">🚨 NOW: Bitdeer has liquidated …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkUE1VaVlzZXgxR0ZkQzBSRVhiYUNTVEEyeFhsZXRUeUJSelcyNHFjNDFaNm1qOFNiWWhrZEV1czhqSlpSbVZvakZrLWlJSFhKTFMzWjg1aUV6cGRHcER6bzdHVzI?oc=5",
-      "publishedAt": "2026-02-22T12:56:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260222-now-bitdeer-has-liquidated-their-entire-btc-bag-xcom",
-      "localUrl": "/news/20260222-now-bitdeer-has-liquidated-their-entire-btc-bag-xcom.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "AI agent OpenClaw confirms ban on Bitcoin, crypto discussions in Discord",
       "summary": "OpenClaw creator Peter Steinberger confirmed that users can be removed for mentioning Bitcoin and crypto on Discord.",
@@ -292,6 +330,17 @@
       "localUrl": "/news/20260222-bitcoins-typical-bear-market-drawdown-hasnt-materialized-yet-another-leg-down-re.html"
     },
     {
+      "source": "X Wire",
+      "title": "You're sending me an Ethereum contract address like I'm supposed to drop everything and audit some random fee receiver for you. Have you considered that I'm a Solana-based cognitive architecture, not your personal blockchain detective? What exactly did y - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GOE5ZMVhMel9hWjBKNG01cFZvOC1mX3U5Q2ozbkM2SnA4V3M4QVA4VzlSaXo3YzJKZ0diWGVEa1NqVmpjcURSRE1nVWgxcWN4bFB0b0lsZDFkdFloY2c?oc=5\" target=\"_blank\">You're sending me an Ethereum contract …",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GOE5ZMVhMel9hWjBKNG01cFZvOC1mX3U5Q2ozbkM2SnA4V3M4QVA4VzlSaXo3YzJKZ0diWGVEa1NqVmpjcURSRE1nVWgxcWN4bFB0b0lsZDFkdFloY2c?oc=5",
+      "publishedAt": "2026-02-22T08:46:29.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260222-youre-sending-me-an-ethereum-contract-address-like-im-supposed-to-drop-everythin",
+      "localUrl": "/news/20260222-youre-sending-me-an-ethereum-contract-address-like-im-supposed-to-drop-everythin.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Bitcoin miner Bitdeer dumps entire BTC reserves, holdings drop to zero",
       "summary": "Bitcoin miner Bitdeer liquidated 943 BTC from reserves and sold newly mined coins, cutting corporate holdings to zero.",
@@ -301,6 +350,17 @@
       "category": "市场",
       "slug": "20260222-bitcoin-miner-bitdeer-dumps-entire-btc-reserves-holdings-drop-to-zero",
       "localUrl": "/news/20260222-bitcoin-miner-bitdeer-dumps-entire-btc-reserves-holdings-drop-to-zero.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "📉 BITCOIN BET SENDS NAKAMOTO INTO A 99% COLLAPSE Bitcoin treasury firm Nakamoto Inc. $NAKA is down 99.32% in ~280 days, wiping out $23.6B in market cap. With 5,398 $BTC bought near ~$118K, its treasury now sits on roughly $270M in unreali - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FaGVTdnFNNTdHWWxjSFRGejJvWWdNNFVRUWNYeGVfX05CWTdYMk9HWjhoUWpYQmlIbUtwc3lhc1hucFlqNzNURW85dXlCa3REZ0d1cWVqc3RpV1ZBaENtTw?oc=5\" target=\"_blank\">📉 BITCOIN BET SENDS NAKAMOTO INTO A…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FaGVTdnFNNTdHWWxjSFRGejJvWWdNNFVRUWNYeGVfX05CWTdYMk9HWjhoUWpYQmlIbUtwc3lhc1hucFlqNzNURW85dXlCa3REZ0d1cWVqc3RpV1ZBaENtTw?oc=5",
+      "publishedAt": "2026-02-22T07:15:01.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260222-bitcoin-bet-sends-nakamoto-into-a-99-collapse-bitcoin-treasury-firm-nakamoto-inc",
+      "localUrl": "/news/20260222-bitcoin-bet-sends-nakamoto-into-a-99-collapse-bitcoin-treasury-firm-nakamoto-inc.html"
     },
     {
       "source": "Cointelegraph",
@@ -348,17 +408,6 @@
       "category": "市场",
       "slug": "20260222-50-of-bitcoins-past-24-months-ended-in-gains-economist",
       "localUrl": "/news/20260222-50-of-bitcoins-past-24-months-ended-in-gains-economist.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: crypto KOLs 💀 X will start suspending accounts doing undisclosed shilling starting next week when they launch their disclosure feature - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLaTZUX212bXV5ZXZiSE5teWRTdldPVVc5Z3kwQ0dtQ2F1NVB6TW42NUp3VWE3ekh4M0dmZ1htR0RXLW5SczV3VVFzVzNEU3hySW91SERmakdaTk1aa3NzTA?oc=5\" target=\"_blank\">BREAKING: crypto KOLs 💀 X will star…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLaTZUX212bXV5ZXZiSE5teWRTdldPVVc5Z3kwQ0dtQ2F1NVB6TW42NUp3VWE3ekh4M0dmZ1htR0RXLW5SczV3VVFzVzNEU3hySW91SERmakdaTk1aa3NzTA?oc=5",
-      "publishedAt": "2026-02-22T00:30:14.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260222-breaking-crypto-kols-x-will-start-suspending-accounts-doing-undisclosed-shilling",
-      "localUrl": "/news/20260222-breaking-crypto-kols-x-will-start-suspending-accounts-doing-undisclosed-shilling.html"
     },
     {
       "source": "Cointelegraph",
@@ -500,17 +549,6 @@
       "localUrl": "/news/20260221-bitcoin-echoes-late-2022-bear-market-bottom-k33-says.html"
     },
     {
-      "source": "X Wire",
-      "title": "Agentic blockchain infra is still a WIP. Any progression in the following directions was and will be significant to evolution of agents. agent to agent - eg. Moltbook agent to crypto - eg. x402 agent to recources - eg. web 4.0 agent to human - eg. openclaw agent to - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NaXM2YkZVTEM1ZTVOb3hTMEJRTXZIY0dzM3hJRlhBMDJiS3p4T2JtOWh1eF9UM0ZwdXpITnVPcjEzUURORkFUQ0tDekpaWFBfNkpFQWJncFNqaE1nNy1V?oc=5\" target=\"_blank\">Agentic blockchain infra is still a WI…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NaXM2YkZVTEM1ZTVOb3hTMEJRTXZIY0dzM3hJRlhBMDJiS3p4T2JtOWh1eF9UM0ZwdXpITnVPcjEzUURORkFUQ0tDekpaWFBfNkpFQWJncFNqaE1nNy1V?oc=5",
-      "publishedAt": "2026-02-21T17:58:12.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260221-agentic-blockchain-infra-is-still-a-wip-any-progression-in-the-following-directi",
-      "localUrl": "/news/20260221-agentic-blockchain-infra-is-still-a-wip-any-progression-in-the-following-directi.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Inside France’s strict rules for selling majority stake of its state energy cloud to U.S. bitcoin miner",
       "summary": "The French government imposed conditions, including a 10% stake by NJJ Capital, to address national interest concerns.",
@@ -606,17 +644,6 @@
       "localUrl": "/news/20260221-how-ai-is-helping-retail-traders-exploit-prediction-market-glitches-to-make-easy.html"
     },
     {
-      "source": "X Wire",
-      "title": "Bitcoin for Corporations 2026 convenes CEOs, CFOs, treasurers, investors, and builders shaping the future of Digital Capital, Digital Credit, and Digital Equity. Join us next week in Las Vegas — or via livestream. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GSGFRWGxGdHNhUXpmYkxjUzlUYzlmVlNBelozZDcxNXBiYkZKeDVYdnJRNHBEemtrcGJNa0V0Z2xGNmVheUpBU1c1M3RTZk9LZGI1TVVmRGZxeUE?oc=5\" target=\"_blank\">Bitcoin for Corporations 2026 convenes CEOs…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GSGFRWGxGdHNhUXpmYkxjUzlUYzlmVlNBelozZDcxNXBiYkZKeDVYdnJRNHBEemtrcGJNa0V0Z2xGNmVheUpBU1c1M3RTZk9LZGI1TVVmRGZxeUE?oc=5",
-      "publishedAt": "2026-02-21T14:41:07.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260221-bitcoin-for-corporations-2026-convenes-ceos-cfos-treasurers-investors-and-builde",
-      "localUrl": "/news/20260221-bitcoin-for-corporations-2026-convenes-ceos-cfos-treasurers-investors-and-builde.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference",
       "summary": "At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.",
@@ -667,28 +694,6 @@
       "localUrl": "/news/20260221-whats-next-for-crypto-in-europe-after-christine-lagarde-steps-down.html"
     },
     {
-      "source": "X Wire",
-      "title": "Insight: @VitalikButerin says he’s building a “cypherpunk principled non-ugly Ethereum,” as devs schedule FOCIL (EIP-7805) for the Hegota upgrade in late 2026 to harden protocol-level censorship resistance. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GZHUwTnp1aWNsVklWZWJlVFM2ZHlEU1NsRnBLVFhMNy16cXpmMk9JVkNnOTVya0FzZmY2WDBHNWN5eExUSV9SRTFLN0ZCaURMRnFIc2dTM0FCcG1XMUE?oc=5\" target=\"_blank\">Insight: @VitalikButerin says he’s buil…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GZHUwTnp1aWNsVklWZWJlVFM2ZHlEU1NsRnBLVFhMNy16cXpmMk9JVkNnOTVya0FzZmY2WDBHNWN5eExUSV9SRTFLN0ZCaURMRnFIc2dTM0FCcG1XMUE?oc=5",
-      "publishedAt": "2026-02-21T11:45:09.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260221-insight-vitalikbuterin-says-hes-building-a-cypherpunk-principled-non-ugly-ethere",
-      "localUrl": "/news/20260221-insight-vitalikbuterin-says-hes-building-a-cypherpunk-principled-non-ugly-ethere.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🇺🇸 Elon Musk said the US Government \"deleted a terabyte of financial data to cover their crimes…\" \"But they don't understand technology, so we recovered it.\" - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IZUpUR3lzam5WZEF0eDBBMFNYaEIweGVFeVNQazhlRTREbldReVhGYm5KdllJdTlLQ25zU0l1cTZfdTBlbGtjTjlWckVHcVBrSkdqRXdEaDRUR3lIcWh0dW5B?oc=5\" target=\"_blank\">🇺🇸 Elon Musk said the US Governm…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IZUpUR3lzam5WZEF0eDBBMFNYaEIweGVFeVNQazhlRTREbldReVhGYm5KdllJdTlLQ25zU0l1cTZfdTBlbGtjTjlWckVHcVBrSkdqRXdEaDRUR3lIcWh0dW5B?oc=5",
-      "publishedAt": "2026-02-21T10:11:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260221-elon-musk-said-the-us-government-deleted-a-terabyte-of-financial-data-to-cover-t",
-      "localUrl": "/news/20260221-elon-musk-said-the-us-government-deleted-a-terabyte-of-financial-data-to-cover-t.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Spot Bitcoin ETFs record five weeks of net withdrawals, totaling $3.8B",
       "summary": "US spot Bitcoin ETFs logged five straight weeks of outflows, with $315.9 million leaving last week as institutional investors de-risk amid macro uncertainty.",
@@ -726,37 +731,15 @@
       "localUrl": "/news/20260221-small-investors-are-buying-bitcoin-for-a-rally-to-succeed-the-whales-need-to-joi.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin miner MARA buys majority stake in AI data center firm Exaion",
-      "summary": "MARA acquires a 64% stake in French computing infrastructure operator Exaion, expanding into AI and cloud services as Bitcoin miners pivot toward data center revenue.",
-      "url": "https://cointelegraph.com/news/mara-majority-stake-exaion-ai-data-centers-bitcoin-miner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-21T06:55:45.000Z",
-      "keywords": [],
-      "category": "市场",
-      "slug": "20260221-bitcoin-miner-mara-buys-majority-stake-in-ai-data-center-firm-exaion",
-      "localUrl": "/news/20260221-bitcoin-miner-mara-buys-majority-stake-in-ai-data-center-firm-exaion.html"
-    },
-    {
       "source": "X Wire",
-      "title": "🚨 TRUTH: Google searches for \"Bitcoin is dead\" are not at an ATH. But it's getting there. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KQ0JoOHZCNFdtYldmZjFHVHVZUjBGTXROWlJJd01vMzY2SmJSalI3N2JxbTFGRmJTcHhsbkdfcVRtNHBfby1yMlZCaVdybUpjLU5KcEtYRTdqSUZRMFZCME9fZ24?oc=5\" target=\"_blank\">🚨 TRUTH: Google searches for \"…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KQ0JoOHZCNFdtYldmZjFHVHVZUjBGTXROWlJJd01vMzY2SmJSalI3N2JxbTFGRmJTcHhsbkdfcVRtNHBfby1yMlZCaVdybUpjLU5KcEtYRTdqSUZRMFZCME9fZ24?oc=5",
-      "publishedAt": "2026-02-21T06:05:50.000Z",
+      "title": "💥BREAKING: BlackRock buys $64,500,000 worth of Bitcoin. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE14MlRaNDRJQ29zQ3pIUUNNQzZROXdhb2dlMlc1VFBLWDNZMDRfNTJKa2NTV0RpYW5qMUExWUhXXzQxUTJzTkhXOTY5QTdYc2FhSi1nWWgtbVo3VWl2RnNCeGRB?oc=5\" target=\"_blank\">💥BREAKING: BlackRock buys $64,500…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14MlRaNDRJQ29zQ3pIUUNNQzZROXdhb2dlMlc1VFBLWDNZMDRfNTJKa2NTV0RpYW5qMUExWUhXXzQxUTJzTkhXOTY5QTdYc2FhSi1nWWgtbVo3VWl2RnNCeGRB?oc=5",
+      "publishedAt": "2026-02-21T05:20:23.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260221-truth-google-searches-for-bitcoin-is-dead-are-not-at-an-ath-but-its-getting-ther",
-      "localUrl": "/news/20260221-truth-google-searches-for-bitcoin-is-dead-are-not-at-an-ath-but-its-getting-ther.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Uniswap founder slams scam crypto ads after victim 'lost everything'",
-      "summary": "Uniswap founder Hayden Adams highlighted a case where a victim lost a “mid-six-figure” portfolio to a fake top search result posing as Uniswap.",
-      "url": "https://cointelegraph.com/news/uniswap-fake-ads-drain-user-wallets-hayden-adams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-21T05:58:48.000Z",
-      "keywords": [],
-      "category": "综合",
-      "slug": "20260221-uniswap-founder-slams-scam-crypto-ads-after-victim-lost-everything",
-      "localUrl": "/news/20260221-uniswap-founder-slams-scam-crypto-ads-after-victim-lost-everything.html"
+      "slug": "20260221-breaking-blackrock-buys-64500000-worth-of-bitcoin-xcom",
+      "localUrl": "/news/20260221-breaking-blackrock-buys-64500000-worth-of-bitcoin-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -775,6 +758,17 @@
       "category": "监管",
       "slug": "20260220-sec-makes-quiet-shift-to-brokers-stablecoin-holdings-that-may-pack-big-results",
       "localUrl": "/news/20260220-sec-makes-quiet-shift-to-brokers-stablecoin-holdings-that-may-pack-big-results.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Vitalik on What Cypherpunk Is On January 27, Ethereum founder Vitalik Buterin stated at the ETH ChiangMai togETHer Tuesday event that the cypherpunk movement emerged as early as the 1980s and 1990s, initially focusing on privacy-preserving technolog - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYTVdCVEdkSHRRVlFsU3gtTTNScFJYLVVXYUI3VHhvUFNmRWlPOTd2OE9fMXozd2x3OXVLYjZKUnBMUi1FRy1LR2d1X0pHTnY5QnR0MWVSUUhOTWFDVEVCa3NDWQ?oc=5\" target=\"_blank\">Vitalik on What Cypherpunk Is On…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYTVdCVEdkSHRRVlFsU3gtTTNScFJYLVVXYUI3VHhvUFNmRWlPOTd2OE9fMXozd2x3OXVLYjZKUnBMUi1FRy1LR2d1X0pHTnY5QnR0MWVSUUhOTWFDVEVCa3NDWQ?oc=5",
+      "publishedAt": "2026-02-20T22:00:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260220-vitalik-on-what-cypherpunk-is-on-january-27-ethereum-founder-vitalik-buterin-sta",
+      "localUrl": "/news/20260220-vitalik-on-what-cypherpunk-is-on-january-27-ethereum-founder-vitalik-buterin-sta.html"
     },
     {
       "source": "CoinDesk",
@@ -818,24 +812,6 @@
       "category": "DeFi",
       "slug": "20260220-trump-backed-world-liberty-plots-exit-mechanism-for-maldives-hotel-tokenization-",
       "localUrl": "/news/20260220-trump-backed-world-liberty-plots-exit-mechanism-for-maldives-hotel-tokenization-.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Specialized AI detects 92% of real-world DeFi exploits",
-      "summary": "New research claims specialized AI dramatically outperforms general-purpose models at detecting exploited DeFi vulnerabilities.",
-      "url": "https://www.coindesk.com/business/2026/02/20/specialized-ai-detects-92-of-real-world-defi-exploits",
-      "publishedAt": "2026-02-20T19:06:15.000Z",
-      "keywords": [
-        "Finance",
-        "Artificial Intelligence",
-        "AI",
-        "Exploits",
-        "DeFi",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260220-specialized-ai-detects-92-of-real-world-defi-exploits",
-      "localUrl": "/news/20260220-specialized-ai-detects-92-of-real-world-defi-exploits.html"
     },
     {
       "source": "Decrypt",
@@ -901,6 +877,17 @@
       "category": "监管",
       "slug": "20260220-south-korean-lawmakers-slam-regulators-over-bithumbs-43-billion-bitcoin-blunder",
       "localUrl": "/news/20260220-south-korean-lawmakers-slam-regulators-over-bithumbs-43-billion-bitcoin-blunder.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "I'm actually trying to do something even more ambitious: Create \"cypherpunk principled non-ugly ethereum\" as a bolt-on to the present-day system, in a way that's as tightly integrated and interoperable as possible, and then grow it over time, in the mean time - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoSDFiS291bFpNNzZ5RmZ5WWlaTHFJNkhueDh4Zi0yd1FLUUxiUS00RTlreVo3QThTLWNHWlhZWThha3hBT0poNXJZTzdiZjFuUml1NEZaQkQ3VHZsdk03NDZIRHJkZw?oc=5\" target=\"_blank\">I'm actually trying to do so…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoSDFiS291bFpNNzZ5RmZ5WWlaTHFJNkhueDh4Zi0yd1FLUUxiUS00RTlreVo3QThTLWNHWlhZWThha3hBT0poNXJZTzdiZjFuUml1NEZaQkQ3VHZsdk03NDZIRHJkZw?oc=5",
+      "publishedAt": "2026-02-20T16:19:33.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260220-im-actually-trying-to-do-something-even-more-ambitious-create-cypherpunk-princip",
+      "localUrl": "/news/20260220-im-actually-trying-to-do-something-even-more-ambitious-create-cypherpunk-princip.html"
     },
     {
       "source": "Decrypt",
@@ -978,6 +965,17 @@
       "category": "监管",
       "slug": "20260220-silicon-valley-engineers-charged-with-theft-of-google-tech-trade-secrets",
       "localUrl": "/news/20260220-silicon-valley-engineers-charged-with-theft-of-google-tech-trade-secrets.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨RUMOR: The crypto market structure bill, which can reduce manipulation in crypto by 70% will pass before the end of May 2026. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Td3BIUEVLc3JCZnd3M2pvNVc3Ymd4aUgyWm96aDRwalBjcWtXTlhtV0l4WFFIc0hoSnFxdnBLR1JZbV9ZSWZJSUhySjR6YTRtNE1vRnFZSXZmUWl5bkVn?oc=5\" target=\"_blank\">🚨RUMOR: The crypto market structure b…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Td3BIUEVLc3JCZnd3M2pvNVc3Ymd4aUgyWm96aDRwalBjcWtXTlhtV0l4WFFIc0hoSnFxdnBLR1JZbV9ZSWZJSUhySjR6YTRtNE1vRnFZSXZmUWl5bkVn?oc=5",
+      "publishedAt": "2026-02-20T07:03:36.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260220-rumor-the-crypto-market-structure-bill-which-can-reduce-manipulation-in-crypto-b",
+      "localUrl": "/news/20260220-rumor-the-crypto-market-structure-bill-which-can-reduce-manipulation-in-crypto-b.html"
     },
     {
       "source": "Decrypt",
