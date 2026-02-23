@@ -2,15 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-23T21:59:33.447Z</lastmod>
+    <lastmod>2026-02-23T22:58:32.168Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-23T21:59:33.447Z</lastmod>
+    <lastmod>2026-02-23T22:58:32.168Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260223-are-bitcoin-etfs-quietly-accumulating-or-just-not-selling-the-flow-data-that-mat.html</loc>
+    <lastmod>2026-02-23T22:45:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260223-critics-mock-anthropics-claims-chinese-ai-labs-are-stealing-its-data.html</loc>
+    <lastmod>2026-02-23T22:40:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260223-crypto-exchange-backpack-plans-to-offer-company-equity-to-token-stakers.html</loc>
+    <lastmod>2026-02-23T22:28:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260223-anthony-pomplianos-bitcoin-treasury-procap-buys-back-stock-amid-85-price-plunge.html</loc>
+    <lastmod>2026-02-23T22:19:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260223-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-02-23T21:59:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260223-bitcoin-may-reverse-course-and-rally-to-75k-heres-how.html</loc>
@@ -75,6 +105,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260223-crypto-suffers-deeper-declines-as-ai-fears-send-ibm-plunging-11.html</loc>
     <lastmod>2026-02-23T20:18:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260223-the-answer-is-not-bueno-bitcoin-couldnt-hold-above-the-65k-level-and-continues-t.html</loc>
+    <lastmod>2026-02-23T20:08:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -247,32 +283,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260223-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-02-23T14:53:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260223-elliptic-flags-russia-linked-crypto-platforms-ongoing-sanctions-evasion.html</loc>
     <lastmod>2026-02-23T14:47:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260223-we-are-proud-to-announce-that-cryptocom-has-received-conditional-approval-from-u.html</loc>
-    <lastmod>2026-02-23T14:46:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260223-revolut-confirms-ex-employee-threatened-to-leak-kyc-data-for-crypto-ransom.html</loc>
     <lastmod>2026-02-23T14:35:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260223-curve-founder-says-defi-must-ditch-token-emissions-for-real-revenue.html</loc>
-    <lastmod>2026-02-23T14:30:30.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -421,6 +439,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260223-just-in-bitcoin-falls-under-65000-xcom.html</loc>
+    <lastmod>2026-02-23T01:48:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260223-breaking-bitcoin-falls-below-65000-as-230-million-worth-of-levered-longs-are-liq.html</loc>
     <lastmod>2026-02-23T01:30:55.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -451,12 +475,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260222-insight-us-google-searches-for-bitcoin-to-zero-just-hit-a-record-high-as-btc-sli.html</loc>
-    <lastmod>2026-02-22T09:18:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260221-ethereum-is-going-hard-vitalik-buterin-backs-censorship-resistance-upgrade.html</loc>
     <lastmod>2026-02-21T20:21:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -477,24 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260221-the-bitcoin-whitepaper-is-on-display-at-the-new-york-stock-exchange-xcom.html</loc>
     <lastmod>2026-02-21T15:35:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260221-bitcoin-quantum-threat-takes-center-stage-at-ethereum-conference.html</loc>
-    <lastmod>2026-02-21T14:01:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260220-bitcoin-sell-pressure-is-easing-but-whales-keep-dumping-on-exchanges-cryptoquant.html</loc>
-    <lastmod>2026-02-20T20:41:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260220-trump-backed-world-liberty-plots-exit-mechanism-for-maldives-hotel-tokenization-.html</loc>
-    <lastmod>2026-02-20T20:24:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
