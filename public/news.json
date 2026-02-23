@@ -1,21 +1,132 @@
 {
-  "updatedAt": "2026-02-23T11:51:35.156Z",
-  "total": 81,
+  "updatedAt": "2026-02-23T13:40:05.718Z",
+  "total": 80,
   "items": [
     {
+      "source": "CoinDesk",
+      "title": "Pantera leads $11.5M round in Based, a Hyperliquid-powered crypto app",
+      "summary": "The company said the fresh capital will be used to expand into new markets and build out its onchain financial infrastructure.",
+      "url": "https://www.coindesk.com/business/2026/02/20/pantera-leads-usd11-5m-round-in-based-a-hyperliquid-powered-crypto-app",
+      "publishedAt": "2026-02-23T13:38:32.000Z",
+      "keywords": [
+        "Finance",
+        "Pantera",
+        "Hyperliquid",
+        "Coinbase Ventures",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260223-pantera-leads-115m-round-in-based-a-hyperliquid-powered-crypto-app",
+      "localUrl": "/news/20260223-pantera-leads-115m-round-in-based-a-hyperliquid-powered-crypto-app.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Mexican billionaire Ricardo Salinas remains bullish on bitcoin after plunge",
+      "summary": "Salinas has previously said he has 70% of his liquid assets in bitcoin.",
+      "url": "https://www.coindesk.com/markets/2026/02/23/mexican-billionaire-ricardo-salinas-remains-bullish-on-bitcoin-after-plunge",
+      "publishedAt": "2026-02-23T13:37:10.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Ricardo Salinas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260223-mexican-billionaire-ricardo-salinas-remains-bullish-on-bitcoin-after-plunge",
+      "localUrl": "/news/20260223-mexican-billionaire-ricardo-salinas-remains-bullish-on-bitcoin-after-plunge.html"
+    },
+    {
       "source": "Cointelegraph",
-      "title": "Bitcoin treasury firms log rare selling streak as BTC trades near $66K",
-      "summary": "Continued selling from treasury companies and US Bitcoin ETFs threatens a deeper retracement for BTC, but analysts see it as a sign of a healthy flush in speculative leverage.",
+      "title": "How SocialFi, memecoins and AI pushed Base to the top of the L2 ladder",
+      "summary": "Base rode SocialFi, memecoins and AI agents to the top of Ethereum’s layer-2 ladder before turning inward to rebuild its core stack.",
+      "url": "https://cointelegraph.com/news/socialfi-memecoins-ai-pushed-base-l2-ladder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-23T13:26:49.000Z",
+      "keywords": [],
+      "category": "基础设施",
+      "slug": "20260223-how-socialfi-memecoins-and-ai-pushed-base-to-the-top-of-the-l2-ladder",
+      "localUrl": "/news/20260223-how-socialfi-memecoins-and-ai-pushed-base-to-the-top-of-the-l2-ladder.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy logs 100th bitcoin purchase announcement, adding 592 coins last week for $39.8 million",
+      "summary": "Led by Executive Chairman Michael Saylor, the company now holds 717,722 bitcoin, purchased at an average price of $76,020 per coin, for a total of $54.56 billion.",
+      "url": "https://www.coindesk.com/markets/2026/02/23/strategy-logs-100th-bitcoin-purchase-announcement-adding-592-coins-last-week-for-usd39-8-million",
+      "publishedAt": "2026-02-23T13:22:14.000Z",
+      "keywords": [
+        "Markets",
+        "Michael Saylor",
+        "Strategy",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260223-strategy-logs-100th-bitcoin-purchase-announcement-adding-592-coins-last-week-for",
+      "localUrl": "/news/20260223-strategy-logs-100th-bitcoin-purchase-announcement-adding-592-coins-last-week-for.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Stablecoins Set to Scoop Up $1T in T-Bills by 2028: Standard Chartered",
+      "summary": "Standard Chartered sees $0.9T excess demand for U.S. Treasury bills, raising odds of reduced 30-year bond auctions.",
+      "url": "https://decrypt.co/358819/stablecoins-set-to-scoop-up-1t-in-t-bills-by-2028-standard-chartered",
+      "publishedAt": "2026-02-23T13:15:02.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "RWA",
+      "slug": "20260223-stablecoins-set-to-scoop-up-1t-in-t-bills-by-2028-standard-chartered",
+      "localUrl": "/news/20260223-stablecoins-set-to-scoop-up-1t-in-t-bills-by-2028-standard-chartered.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitmine paper loss nears $8.8B as Ether slump tests cyclical thesis",
+      "summary": "The mounting unrealized losses of Bitmine shareholders and Ether’s 60% decline are signaling a critical inflection point that may define Ether’s medium-term momentum, analysts said.",
+      "url": "https://cointelegraph.com/news/bitmine-shareholders-8-8b-paper-loss-downturn-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-23T13:10:08.000Z",
+      "keywords": [],
+      "category": "DeFi",
+      "slug": "20260223-bitmine-paper-loss-nears-88b-as-ether-slump-tests-cyclical-thesis",
+      "localUrl": "/news/20260223-bitmine-paper-loss-nears-88b-as-ether-slump-tests-cyclical-thesis.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tariff travails resurface, bitcoin holders prepare for declines",
+      "summary": "Your day-ahead look for Feb. 23, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/02/23/tariff-travails-resurface-bitcoin-holders-prepare-for-declines",
+      "publishedAt": "2026-02-23T12:15:00.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260223-tariff-travails-resurface-bitcoin-holders-prepare-for-declines",
+      "localUrl": "/news/20260223-tariff-travails-resurface-bitcoin-holders-prepare-for-declines.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto funds lose $288M as ETPs extend outflow run to five weeks",
+      "summary": "Crypto investment products posted outflows for a fifth straight week, marking the longest exit streak since the launch of spot Bitcoin ETFs in 2024.",
+      "url": "https://cointelegraph.com/news/crypto-etp-five-week-exit-fresh-288-million-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-23T11:54:56.000Z",
+      "keywords": [],
+      "category": "监管",
+      "slug": "20260223-crypto-funds-lose-288m-as-etps-extend-outflow-run-to-five-weeks",
+      "localUrl": "/news/20260223-crypto-funds-lose-288m-as-etps-extend-outflow-run-to-five-weeks.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin treasuries log rare selling streak as BTC trades near $66K",
+      "summary": "Continued selling from treasury companies and US Bitcoin ETFs threatens a deeper retracement for BTC, but some analysts see it as a sign of a healthy flush in speculative leverage.",
       "url": "https://cointelegraph.com/news/bitcoin-treasury-selling-streak-btc-66-000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-02-23T11:38:21.000Z",
       "keywords": [],
       "category": "监管",
-      "slug": "20260223-bitcoin-treasury-firms-log-rare-selling-streak-as-btc-trades-near-66k",
-      "localUrl": "/news/20260223-bitcoin-treasury-firms-log-rare-selling-streak-as-btc-trades-near-66k.html"
+      "slug": "20260223-bitcoin-treasuries-log-rare-selling-streak-as-btc-trades-near-66k",
+      "localUrl": "/news/20260223-bitcoin-treasuries-log-rare-selling-streak-as-btc-trades-near-66k.html"
     },
     {
       "source": "CoinDesk",
-      "title": "Overnight crypto rout reverses, bitcoin rebounds to $66,300",
+      "title": "Bitcoin stabilizes after overnight crypto rout, bouncing to $66,000",
       "summary": "Bitcoin fell to $64,270 shortly after midnight UTC before rebounding to $66,300, as thin liquidity amplified moves tied to U.S. tariff plans and geopolitical tensions.",
       "url": "https://www.coindesk.com/markets/2026/02/23/overnight-crypto-rout-reverses-bitcoin-rebounds-to-usd66-300",
       "publishedAt": "2026-02-23T11:30:00.000Z",
@@ -28,8 +139,8 @@
         "News"
       ],
       "category": "DeFi",
-      "slug": "20260223-overnight-crypto-rout-reverses-bitcoin-rebounds-to-66300",
-      "localUrl": "/news/20260223-overnight-crypto-rout-reverses-bitcoin-rebounds-to-66300.html"
+      "slug": "20260223-bitcoin-stabilizes-after-overnight-crypto-rout-bouncing-to-66000",
+      "localUrl": "/news/20260223-bitcoin-stabilizes-after-overnight-crypto-rout-bouncing-to-66000.html"
     },
     {
       "source": "Decrypt",
@@ -245,17 +356,6 @@
       "localUrl": "/news/20260223-how-pig-butchering-crypto-scams-turn-trust-into-a-financial-weapon.html"
     },
     {
-      "source": "X Wire",
-      "title": "Executive SummaryOn February 21, 2026, the IoTeX team identified and transitioned to emergency response following a security breach affecting ioTube, the IoTeX multi-chain bridge. The exploit was isolated specifically to the Ethereum-side. We are providin - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ScnJ3N1dVY2hsWDNJNml1c2I3QWh1SkRyX25JWE5TWV9wamlPMmFubGtMUGFzRWpDODEtaWh5Z0U5UmxNYnpBdFY2MG1ub1J5TlQ3OU84QjdnV2djekE?oc=5\" target=\"_blank\">Executive SummaryOn February 21, 2026, …",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ScnJ3N1dVY2hsWDNJNml1c2I3QWh1SkRyX25JWE5TWV9wamlPMmFubGtMUGFzRWpDODEtaWh5Z0U5UmxNYnpBdFY2MG1ub1J5TlQ3OU84QjdnV2djekE?oc=5",
-      "publishedAt": "2026-02-23T06:47:26.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260223-executive-summaryon-february-21-2026-the-iotex-team-identified-and-transitioned-",
-      "localUrl": "/news/20260223-executive-summaryon-february-21-2026-the-iotex-team-identified-and-transitioned-.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "‘Investable universe’ of crypto is narrowing: NYDIG",
       "summary": "NYDIG’s Greg Cipolaro says only a handful of crypto applications are attractive to investors and that the sector needs to reevaluate its “broad ‘web3’ ambition.”",
@@ -435,17 +535,6 @@
       "localUrl": "/news/20260223-crypto-exchange-network-is-helping-russia-skirt-sanctions-elliptic.html"
     },
     {
-      "source": "X Wire",
-      "title": "🚨 UPDATE: The 7D-EMA of Bitcoin short-term holder net realized losses moderated to -$0.48B/day after plunging to -$1.24B/day on Feb 6, signaling ongoing market pressure per @glassnode . - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fdU9ad2RSQmRYdnQ5ZG9mR3cwM2dNV2hGY2MzMHNNcHNYRG5laGt2NmZrNUFzakU0VkswRU9oNFVmQm82VWY3SGxGbC1nRjVvMS1xZk5CekRsUi15al9wM1VwU1c?oc=5\" target=\"_blank\">🚨 UPDATE: The 7D-EMA of Bitcoi…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fdU9ad2RSQmRYdnQ5ZG9mR3cwM2dNV2hGY2MzMHNNcHNYRG5laGt2NmZrNUFzakU0VkswRU9oNFVmQm82VWY3SGxGbC1nRjVvMS1xZk5CekRsUi15al9wM1VwU1c?oc=5",
-      "publishedAt": "2026-02-23T02:30:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260223-update-the-7d-ema-of-bitcoin-short-term-holder-net-realized-losses-moderated-to-",
-      "localUrl": "/news/20260223-update-the-7d-ema-of-bitcoin-short-term-holder-net-realized-losses-moderated-to-.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin returns to historic fear levels as it wipes weekend gains",
       "summary": "Bitcoin plunged over $3,000 in two hours, while the Crypto Fear & Greed Index has slumped to historic lows again.",
@@ -458,25 +547,14 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨 NOW: Bitcoin fell below $65K. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IOGozWWZTQ3RwbVpLaUdkZU9LNjIwUzdPa3FMMUNZS0lOVXRKX0ktRndXRDRFWWVZZE1Qa0hJZERLQ3lEczZMZHhyWG15NVVwbG50UW9YM0U2SjNMaGxjWjBEb1Q?oc=5\" target=\"_blank\">🚨 NOW: Bitcoin fell below $65K…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IOGozWWZTQ3RwbVpLaUdkZU9LNjIwUzdPa3FMMUNZS0lOVXRKX0ktRndXRDRFWWVZZE1Qa0hJZERLQ3lEczZMZHhyWG15NVVwbG50UW9YM0U2SjNMaGxjWjBEb1Q?oc=5",
-      "publishedAt": "2026-02-23T01:58:43.000Z",
+      "title": "#Bitcoin drops below $65k, exacerbating the $1tn identity crisis. The cryptocurrency's struggle is about purpose, as it is no longer seen as the best hedge, payment rail, or speculation, forcing a question about what it is for. bloomberg.com/news/articles/… - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UZnpOXzc3aVJkUTA0bnNMVVpyOFJ6alNCWG1pZU83a1pZaF83Q2w4U0NXdDFCd3k4Z0pfRm9JbkhXVFhnd3RvQ3RHR2hXYmhvaFBRaEYwODEzYUZLbUVpNUlBVEgxaTg?oc=5\" target=\"_blank\">#Bitcoin drops below $65k, …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UZnpOXzc3aVJkUTA0bnNMVVpyOFJ6alNCWG1pZU83a1pZaF83Q2w4U0NXdDFCd3k4Z0pfRm9JbkhXVFhnd3RvQ3RHR2hXYmhvaFBRaEYwODEzYUZLbUVpNUlBVEgxaTg?oc=5",
+      "publishedAt": "2026-02-23T02:00:50.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260223-now-bitcoin-fell-below-65k-xcom",
-      "localUrl": "/news/20260223-now-bitcoin-fell-below-65k-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: Nasdaq 100 futures extend losses to nearly -1% as Bitcoin falls below $65,000. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEUTNEQ3lweUVRclRYOTJSbVVwcE5NSTRaWlJqcU1USmluQU5mWFZYcDBlRmZkT1Jaa2lON2tNb3dWN2xoVXVkV2EzdnpxWUpLMkNETkxEampuQ1ZEekpadXhUSWNXQQ?oc=5\" target=\"_blank\">BREAKING: Nasdaq 100 futures…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEUTNEQ3lweUVRclRYOTJSbVVwcE5NSTRaWlJqcU1USmluQU5mWFZYcDBlRmZkT1Jaa2lON2tNb3dWN2xoVXVkV2EzdnpxWUpLMkNETkxEampuQ1ZEekpadXhUSWNXQQ?oc=5",
-      "publishedAt": "2026-02-23T01:56:13.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260223-breaking-nasdaq-100-futures-extend-losses-to-nearly-1-as-bitcoin-falls-below-650",
-      "localUrl": "/news/20260223-breaking-nasdaq-100-futures-extend-losses-to-nearly-1-as-bitcoin-falls-below-650.html"
+      "slug": "20260223-bitcoin-drops-below-65k-exacerbating-the-1tn-identity-crisis-the-cryptocurrencys",
+      "localUrl": "/news/20260223-bitcoin-drops-below-65k-exacerbating-the-1tn-identity-crisis-the-cryptocurrencys.html"
     },
     {
       "source": "CoinDesk",
@@ -506,17 +584,6 @@
       "localUrl": "/news/20260223-breaking-bitcoin-falls-below-65000-as-230-million-worth-of-levered-longs-are-liq.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Vitalik Buterin floats simulated transactions to enhance crypto security",
-      "summary": "Crypto users would specify the onchain action they want, then click “OK” or “Cancel” after seeing a transaction simulating that action.",
-      "url": "https://cointelegraph.com/news/vitalik-buterin-advocates-intent-based-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-23T01:30:45.000Z",
-      "keywords": [],
-      "category": "监管",
-      "slug": "20260223-vitalik-buterin-floats-simulated-transactions-to-enhance-crypto-security",
-      "localUrl": "/news/20260223-vitalik-buterin-floats-simulated-transactions-to-enhance-crypto-security.html"
-    },
-    {
       "source": "X Wire",
       "title": "🇺🇸 LATEST: Missouri's Bitcoin Strategic Reserve Fund bill HB2080 now moves to House Commerce Committee review. If passed, it will allow the state treasurer to receive, invest, and hold Bitcoin under certain circumstances. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqUTdyaTAxYTV0aGU5RlhuUHM4dUFBSHFvd1F6bWEwRE1NMzc2ampCemVJbEN4RjgzSVVqb0tENDN6R1lqajRtZHJMQnlLQlhrV244b3lIQUNIaUR6VEp3Yzl2d00?oc=5\" target=\"_blank\">🇺🇸 LATEST: Missouri's Bitcoin…",
@@ -526,28 +593,6 @@
       "category": "X热点",
       "slug": "20260223-latest-missouris-bitcoin-strategic-reserve-fund-bill-hb2080-now-moves-to-house-c",
       "localUrl": "/news/20260223-latest-missouris-bitcoin-strategic-reserve-fund-bill-hb2080-now-moves-to-house-c.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "SEC allows broker-dealers to take 2% ‘haircut’ on stablecoins",
-      "summary": "Staff said the US regulator would \"not object\" to broker-dealers counting stablecoin holdings toward their net capital requirements.",
-      "url": "https://cointelegraph.com/news/sec-broker-dealer-2-haircut-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-22T21:42:54.000Z",
-      "keywords": [],
-      "category": "监管",
-      "slug": "20260222-sec-allows-broker-dealers-to-take-2-haircut-on-stablecoins",
-      "localUrl": "/news/20260222-sec-allows-broker-dealers-to-take-2-haircut-on-stablecoins.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto infrastructure company BitGo named issuer for FYUSD stablecoin",
-      "summary": "The GENIUS Act–compliant stablecoin is aimed at institutional investors in Asia and includes a programmable layer designed for AI-driven commerce.",
-      "url": "https://cointelegraph.com/news/bitgo-issuer-fyusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-22T20:38:32.000Z",
-      "keywords": [],
-      "category": "DeFi",
-      "slug": "20260222-crypto-infrastructure-company-bitgo-named-issuer-for-fyusd-stablecoin",
-      "localUrl": "/news/20260222-crypto-infrastructure-company-bitgo-named-issuer-for-fyusd-stablecoin.html"
     },
     {
       "source": "X Wire",
@@ -666,22 +711,15 @@
       "localUrl": "/news/20260222-proshares-stablecoin-ready-etf-sees-17-billion-debut-sparking-speculation-about-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "SportFi’s next act: onchain markets built around match-day results",
-      "summary": "An area of blockchain-based finance focused on increasing fans' engagement with sports teams, SportFi uses tokens to grant access to privileges such as limited voting rights and exclusive rewards.",
-      "url": "https://www.coindesk.com/business/2026/02/20/sportfi-s-next-act-from-fan-tokens-to-on-chain-markets-built-around-match-day-results",
-      "publishedAt": "2026-02-22T13:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Sports",
-        "Fan Tokens",
-        "Soccer",
-        "Chiliz",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260222-sportfis-next-act-onchain-markets-built-around-match-day-results",
-      "localUrl": "/news/20260222-sportfis-next-act-onchain-markets-built-around-match-day-results.html"
+      "source": "X Wire",
+      "title": "JUST IN: Over $13,000,000,000 in crypto short positions set to be liquidated if Bitcoin price hits $90,000. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GbmpFbUdESGE0WnYxU1NaZGlWVmdfbGhsMVR4UmxybEY2Z1oxY1BRamxTa3o2SnhIQlF6alFwQ0p0RWZpeFZ5OUVxZlpQdlIzVFlGLVBKZm5ZNzg1X0llTHdLYw?oc=5\" target=\"_blank\">JUST IN: Over $13,000,000,000 in…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GbmpFbUdESGE0WnYxU1NaZGlWVmdfbGhsMVR4UmxybEY2Z1oxY1BRamxTa3o2SnhIQlF6alFwQ0p0RWZpeFZ5OUVxZlpQdlIzVFlGLVBKZm5ZNzg1X0llTHdLYw?oc=5",
+      "publishedAt": "2026-02-22T10:50:41.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260222-just-in-over-13000000000-in-crypto-short-positions-set-to-be-liquidated-if-bitco",
+      "localUrl": "/news/20260222-just-in-over-13000000000-in-crypto-short-positions-set-to-be-liquidated-if-bitco.html"
     },
     {
       "source": "X Wire",
@@ -693,20 +731,6 @@
       "category": "X热点",
       "slug": "20260222-bitcoins-typical-bear-market-drawdown-hasnt-materialized-yet-another-leg-down-re",
       "localUrl": "/news/20260222-bitcoins-typical-bear-market-drawdown-hasnt-materialized-yet-another-leg-down-re.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Mentioning 'bitcoin' or crypto on AI agent OpenClaw's Discord will get you banned",
-      "summary": "The project's creator nearly deleted the viral AI agent after crypto scammers hijacked his accounts, launched a fake token that hit $16 million, and harassed him for weeks.",
-      "url": "https://www.coindesk.com/tech/2026/02/22/mentioning-bitcoin-or-crypto-on-ai-agent-openclaw-s-discord-will-get-you-banned",
-      "publishedAt": "2026-02-22T05:37:18.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260222-mentioning-bitcoin-or-crypto-on-ai-agent-openclaws-discord-will-get-you-banned",
-      "localUrl": "/news/20260222-mentioning-bitcoin-or-crypto-on-ai-agent-openclaws-discord-will-get-you-banned.html"
     },
     {
       "source": "Decrypt",
@@ -731,39 +755,6 @@
       "category": "X热点",
       "slug": "20260221-over-400000-bitcoin-were-accumulated-between-60000-and-70000-this-is-the-cushion",
       "localUrl": "/news/20260221-over-400000-bitcoin-were-accumulated-between-60000-and-70000-this-is-the-cushion.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "‘Bitcoin to zero’ searches spike in the U.S., but the bottom signal is mixed",
-      "summary": "Google Trends data shows the term hit a record high in the U.S. this month, though global interest has fallen since peaking in August.",
-      "url": "https://www.coindesk.com/markets/2026/02/22/bitcoin-to-zero-searches-spike-in-the-u-s-but-the-bottom-signal-is-mixed",
-      "publishedAt": "2026-02-21T19:30:00.000Z",
-      "keywords": [
-        "Markets",
-        "google searches",
-        "Bitcoin Searches",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260221-bitcoin-to-zero-searches-spike-in-the-us-but-the-bottom-signal-is-mixed",
-      "localUrl": "/news/20260221-bitcoin-to-zero-searches-spike-in-the-us-but-the-bottom-signal-is-mixed.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ethereum's Vitalik Buterin proposes AI 'stewards' to help reinvent DAO governance",
-      "summary": "The system would use zero-knowledge proofs and secure environments (MPC/TEEs) to protect voter identity and sensitive data while preventing coercion and bribery.",
-      "url": "https://www.coindesk.com/web3/2026/02/21/ethereum-s-vitalik-buterin-proposes-ai-stewards-to-help-reinvent-dao-governance",
-      "publishedAt": "2026-02-21T19:21:46.000Z",
-      "keywords": [
-        "Web3",
-        "Vitalik Buterin",
-        "Dao governance",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260221-ethereums-vitalik-buterin-proposes-ai-stewards-to-help-reinvent-dao-governance",
-      "localUrl": "/news/20260221-ethereums-vitalik-buterin-proposes-ai-stewards-to-help-reinvent-dao-governance.html"
     },
     {
       "source": "Decrypt",
@@ -802,6 +793,17 @@
     },
     {
       "source": "X Wire",
+      "title": "💥BREAKING: 🇺🇸🇮🇷 Iran says U.S. officials have accepted its demand to continue uranium enrichment as both sides push to seal a nuclear deal quickly. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5adGlaZXF2MGpxaXRrNnJpV184TUtuRk83UlFUNWtLWTVoMi1GTktkNWU3aDQ3S3Z5WE83LTltQWNKVXI0MmlpTm9HV1MxcWZCUEVVRnBwcmhTQ05BMGhrNW9n?oc=5\" target=\"_blank\">💥BREAKING: 🇺🇸🇮🇷 Iran says U.S…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5adGlaZXF2MGpxaXRrNnJpV184TUtuRk83UlFUNWtLWTVoMi1GTktkNWU3aDQ3S3Z5WE83LTltQWNKVXI0MmlpTm9HV1MxcWZCUEVVRnBwcmhTQ05BMGhrNW9n?oc=5",
+      "publishedAt": "2026-02-21T15:33:19.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260221-breaking-iran-says-us-officials-have-accepted-its-demand-to-continue-uranium-enr",
+      "localUrl": "/news/20260221-breaking-iran-says-us-officials-have-accepted-its-demand-to-continue-uranium-enr.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Seeing this a lot. My two cents: the novel value of bitcoin is that it is user-run money that is both censorship and debasement-resistant. Far as I can tell nothing has changed about that. However bc the current admin is so on board with it, the censorship part ma - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ORkdFbXJGcVBtM0FrbzVQZ25nRnJ5RC00bWNOT2U0eUxlak9uRkpNSlBXQ0p1WmdtTjBNX0szbjFlYndkNXRUZVVSbFljZ1c0cl9PU3lBSm82RGhkTGM3aFo2VEc?oc=5\" target=\"_blank\">Seeing this a lot. My two cents…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ORkdFbXJGcVBtM0FrbzVQZ25nRnJ5RC00bWNOT2U0eUxlak9uRkpNSlBXQ0p1WmdtTjBNX0szbjFlYndkNXRUZVVSbFljZ1c0cl9PU3lBSm82RGhkTGM3aFo2VEc?oc=5",
@@ -810,6 +812,17 @@
       "category": "X热点",
       "slug": "20260221-seeing-this-a-lot-my-two-cents-the-novel-value-of-bitcoin-is-that-it-is-user-run",
       "localUrl": "/news/20260221-seeing-this-a-lot-my-two-cents-the-novel-value-of-bitcoin-is-that-it-is-user-run.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin for Corporations 2026 convenes CEOs, CFOs, treasurers, investors, and builders shaping the future of Digital Capital, Digital Credit, and Digital Equity. Join us next week in Las Vegas — or via livestream. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GSGFRWGxGdHNhUXpmYkxjUzlUYzlmVlNBelozZDcxNXBiYkZKeDVYdnJRNHBEemtrcGJNa0V0Z2xGNmVheUpBU1c1M3RTZk9LZGI1TVVmRGZxeUE?oc=5\" target=\"_blank\">Bitcoin for Corporations 2026 convenes CEOs…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GSGFRWGxGdHNhUXpmYkxjUzlUYzlmVlNBelozZDcxNXBiYkZKeDVYdnJRNHBEemtrcGJNa0V0Z2xGNmVheUpBU1c1M3RTZk9LZGI1TVVmRGZxeUE?oc=5",
+      "publishedAt": "2026-02-21T14:41:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260221-bitcoin-for-corporations-2026-convenes-ceos-cfos-treasurers-investors-and-builde",
+      "localUrl": "/news/20260221-bitcoin-for-corporations-2026-convenes-ceos-cfos-treasurers-investors-and-builde.html"
     },
     {
       "source": "Decrypt",
@@ -834,6 +847,17 @@
       "category": "X热点",
       "slug": "20260221-insight-vitalikbuterin-says-hes-building-a-cypherpunk-principled-non-ugly-ethere",
       "localUrl": "/news/20260221-insight-vitalikbuterin-says-hes-building-a-cypherpunk-principled-non-ugly-ethere.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "💥BREAKING: BlackRock buys $64,500,000 worth of Bitcoin. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE14MlRaNDRJQ29zQ3pIUUNNQzZROXdhb2dlMlc1VFBLWDNZMDRfNTJKa2NTV0RpYW5qMUExWUhXXzQxUTJzTkhXOTY5QTdYc2FhSi1nWWgtbVo3VWl2RnNCeGRB?oc=5\" target=\"_blank\">💥BREAKING: BlackRock buys $64,500…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14MlRaNDRJQ29zQ3pIUUNNQzZROXdhb2dlMlc1VFBLWDNZMDRfNTJKa2NTV0RpYW5qMUExWUhXXzQxUTJzTkhXOTY5QTdYc2FhSi1nWWgtbVo3VWl2RnNCeGRB?oc=5",
+      "publishedAt": "2026-02-21T05:20:23.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260221-breaking-blackrock-buys-64500000-worth-of-bitcoin-xcom",
+      "localUrl": "/news/20260221-breaking-blackrock-buys-64500000-worth-of-bitcoin-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -967,17 +991,6 @@
       "localUrl": "/news/20260220-morning-minute-base-breaks-up-with-optimism.html"
     },
     {
-      "source": "X Wire",
-      "title": "NEW: 🇺🇸 Missouri #Bitcoin Strategic Reserve bill advances to House Commerce Committee. HB 2080 creates a reserve fund allowing the treasurer to hold $BTC donations for at least 5 years. 📜 Committee will review the bill before deciding whether to send it - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YejFpMzFfb0F0WkZqdVdzS2dNSXNDMm9ROG50Y3phbzVoR0VURWtYY044TDlKM1YwZHlTMXZDMm1xcDlOWnQwRExYZzVySkREQ2VBZEtVc1BkTnQwSC1kUG13?oc=5\" target=\"_blank\">NEW: 🇺🇸 Missouri #Bitcoin Strate…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YejFpMzFfb0F0WkZqdVdzS2dNSXNDMm9ROG50Y3phbzVoR0VURWtYY044TDlKM1YwZHlTMXZDMm1xcDlOWnQwRExYZzVySkREQ2VBZEtVc1BkTnQwSC1kUG13?oc=5",
-      "publishedAt": "2026-02-20T13:12:08.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260220-new-missouri-bitcoin-strategic-reserve-bill-advances-to-house-commerce-committee",
-      "localUrl": "/news/20260220-new-missouri-bitcoin-strategic-reserve-bill-advances-to-house-commerce-committee.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin ETFs Lose Another $166M as Five-Week Withdrawals Near $4B",
       "summary": "Bitcoin ETF outflows near $4 billion over the past five weeks, as experts debate whether the streak signals a reset or structural weakness.",
@@ -1015,38 +1028,6 @@
       "category": "监管",
       "slug": "20260220-custodia-ceo-says-trump-family-crypto-ties-are-part-of-clarity-act-problem",
       "localUrl": "/news/20260220-custodia-ceo-says-trump-family-crypto-ties-are-part-of-clarity-act-problem.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Risk-Off Capital Shifts Toward Tokenized Assets as DeFi Pulls Back",
-      "summary": "Capital is rotating out of DeFi into tokenized assets as experts say the shift reflects maturing markets, not capitulation.",
-      "url": "https://decrypt.co/358693/risk-off-capital-shifts-toward-tokenized-assets-defi-pulls-back",
-      "publishedAt": "2026-02-20T04:16:22.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "DeFi",
-      "slug": "20260220-risk-off-capital-shifts-toward-tokenized-assets-as-defi-pulls-back",
-      "localUrl": "/news/20260220-risk-off-capital-shifts-toward-tokenized-assets-as-defi-pulls-back.html"
-    },
-    {
-      "source": "Chainalysis Blog",
-      "title": "From Fentanyl to Fraud: On-Chain Activity Highlights Illicit Market Evolution",
-      "summary": "TL;DR Darknet market activity remains resilient, with aggregate DNM flows reaching nearly $2.6 billion in 2025, underscoring the persistence of… The post From Fentanyl to Fraud: On-Chain Activity Highlights Illicit Market Evolution appeare…",
-      "url": "https://www.chainalysis.com/blog/crypto-drug-sales-darknet-markets-2026/",
-      "publishedAt": "2026-02-19T12:45:41.000Z",
-      "keywords": [
-        "Report",
-        "2026 Crypto Crime Report",
-        "Darnket Markets",
-        "Drugs",
-        "Fentanyl",
-        "Fraud Shops",
-        "opioids"
-      ],
-      "category": "市场",
-      "slug": "20260219-from-fentanyl-to-fraud-on-chain-activity-highlights-illicit-market-evolution",
-      "localUrl": "/news/20260219-from-fentanyl-to-fraud-on-chain-activity-highlights-illicit-market-evolution.html"
     }
   ]
 }
