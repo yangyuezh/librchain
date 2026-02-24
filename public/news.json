@@ -1,7 +1,72 @@
 {
-  "updatedAt": "2026-02-24T05:35:17.243Z",
+  "updatedAt": "2026-02-24T07:14:32.351Z",
   "total": 81,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's price discovery is moving to Chicago",
+      "summary": "CME’s shift to nonstop derivatives access may accelerate institutional migration away from traditional crypto exchanges, according to the Chief Commercial Officer of XBTO.",
+      "url": "https://www.coindesk.com/markets/2026/02/24/bitcoin-s-price-discovery-is-moving-to-chicago",
+      "publishedAt": "2026-02-24T07:05:30.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "CME",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260224-bitcoins-price-discovery-is-moving-to-chicago",
+      "localUrl": "/news/20260224-bitcoins-price-discovery-is-moving-to-chicago.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Polymarket bettors put $3 million on which crypto firm ZachXBT will expose next",
+      "summary": "Solana app Meteora leads the odds at 43% after the blockchain investigator teased a \"major\" insider-trading probe set for release on Wednesday.",
+      "url": "https://www.coindesk.com/markets/2026/02/24/polymarket-bettors-put-usd3-million-on-which-crypto-firm-zachxbt-will-expose-next",
+      "publishedAt": "2026-02-24T06:37:31.000Z",
+      "keywords": [
+        "Markets",
+        "Polymarket",
+        "Zachxbt",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260224-polymarket-bettors-put-3-million-on-which-crypto-firm-zachxbt-will-expose-next",
+      "localUrl": "/news/20260224-polymarket-bettors-put-3-million-on-which-crypto-firm-zachxbt-will-expose-next.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto VC Framework Ventures to help Better with $500M DeFi play",
+      "summary": "Framework reportedly struck a $45 million deal to buy 10% of Better and will help it launch a token on the crypto protocol Sky.",
+      "url": "https://cointelegraph.com/news/crypto-vc-framework-ventures-help-better-with-500m-defi-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-24T06:22:01.000Z",
+      "keywords": [],
+      "category": "基础设施",
+      "slug": "20260224-crypto-vc-framework-ventures-to-help-better-with-500m-defi-play",
+      "localUrl": "/news/20260224-crypto-vc-framework-ventures-to-help-better-with-500m-defi-play.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Cybersecurity stocks tank after Anthropic unveils Claude Code Security",
+      "summary": "Anthropic’s Claude Code Security sent shockwaves through cybersecurity markets, with CrowdStrike and Palo Alto Networks among the hardest hit.",
+      "url": "https://cointelegraph.com/news/cybersecurity-stocks-tank-following-launch-claude-code-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-24T06:21:01.000Z",
+      "keywords": [],
+      "category": "监管",
+      "slug": "20260224-cybersecurity-stocks-tank-after-anthropic-unveils-claude-code-security",
+      "localUrl": "/news/20260224-cybersecurity-stocks-tank-after-anthropic-unveils-claude-code-security.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "TRM Labs, Finray Technologies partner for crypto and fiat monitoring",
+      "summary": "The system provides real-time risk alerts for suspicious crypto transactions across multiple blockchains within the same workflow as fiat-payment monitoring.",
+      "url": "https://cointelegraph.com/news/trm-labs-finray-crypto-fiat-monitoring-mica-compliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-24T06:08:46.000Z",
+      "keywords": [],
+      "category": "市场",
+      "slug": "20260224-trm-labs-finray-technologies-partner-for-crypto-and-fiat-monitoring",
+      "localUrl": "/news/20260224-trm-labs-finray-technologies-partner-for-crypto-and-fiat-monitoring.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Jane Street faces claims of insider trading that sped up Terraform's 2022 collapse",
@@ -10,6 +75,9 @@
       "publishedAt": "2026-02-24T05:32:35.000Z",
       "keywords": [
         "Markets",
+        "Terraform",
+        "Jane street group",
+        "Do Kwon",
         "News"
       ],
       "category": "市场",
@@ -59,14 +127,14 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Citrini’s AI doom report sees software, payment stocks tumble",
-      "summary": "Citrini said the term “Ghost GDP” could emerge from AI agents taking over aspects of the economy, referring to output shown in national data but not circulating in the “real economy.”",
+      "title": "Citrini’s AI doom report prompts software, payment stocks tumble",
+      "summary": "Computing and AI company IBM saw its largest single-day drop in 25 years on Monday, tumbling 13.1% to $223.35.",
       "url": "https://cointelegraph.com/news/citrini-fearful-ai-agent-report-scares-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-02-24T04:48:42.000Z",
       "keywords": [],
       "category": "综合",
-      "slug": "20260224-citrinis-ai-doom-report-sees-software-payment-stocks-tumble",
-      "localUrl": "/news/20260224-citrinis-ai-doom-report-sees-software-payment-stocks-tumble.html"
+      "slug": "20260224-citrinis-ai-doom-report-prompts-software-payment-stocks-tumble",
+      "localUrl": "/news/20260224-citrinis-ai-doom-report-prompts-software-payment-stocks-tumble.html"
     },
     {
       "source": "CoinDesk",
@@ -82,6 +150,17 @@
       "category": "市场",
       "slug": "20260224-bitcoin-dips-under-63000-and-history-says-more-pain-ahead-before-bottom-forms",
       "localUrl": "/news/20260224-bitcoin-dips-under-63000-and-history-says-more-pain-ahead-before-bottom-forms.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "And there it is: Jane Street was behind the 2022 crypto winter, destroying Terraform by first depegging the token and destroying the ecosystem, then pretending it would rescue Terra, while effectively it was soaking up what little value remained. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1MWdVYk1qelNiRE85NVBqTW1PRDQ1WDVDRzBiNEd1NV9JWHp3bWI1ZlZaUWgwNndFeFlTb0o2Z1FXc2NteVBsNDJ3SDFkOXVQUDRIOGtHRmRLY081cnpr?oc=5\" target=\"_blank\">And there it is: Jane Street was behin…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1MWdVYk1qelNiRE85NVBqTW1PRDQ1WDVDRzBiNEd1NV9JWHp3bWI1ZlZaUWgwNndFeFlTb0o2Z1FXc2NteVBsNDJ3SDFkOXVQUDRIOGtHRmRLY081cnpr?oc=5",
+      "publishedAt": "2026-02-24T04:41:18.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260224-and-there-it-is-jane-street-was-behind-the-2022-crypto-winter-destroying-terrafo",
+      "localUrl": "/news/20260224-and-there-it-is-jane-street-was-behind-the-2022-crypto-winter-destroying-terrafo.html"
     },
     {
       "source": "Cointelegraph",
@@ -110,6 +189,17 @@
       "category": "监管",
       "slug": "20260224-tether-backed-crypto-exchange-is-ditching-the-retail-label-to-build-the-secret-p",
       "localUrl": "/news/20260224-tether-backed-crypto-exchange-is-ditching-the-retail-label-to-build-the-secret-p.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Bitcoin falls under $63,000 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aZHB4TkxybXNvR0t3YkY4TjhhT2prTGQzZG5ZNEpKMGpselY0WFBtbWhSU2xFZHpVTUtKRmhoTUJWaUY2ODBjTG1VYUpoLU11bVZsVDlINURZMDVXLVZTTU9R?oc=5\" target=\"_blank\">JUST IN: Bitcoin falls under $63,0…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aZHB4TkxybXNvR0t3YkY4TjhhT2prTGQzZG5ZNEpKMGpselY0WFBtbWhSU2xFZHpVTUtKRmhoTUJWaUY2ODBjTG1VYUpoLU11bVZsVDlINURZMDVXLVZTTU9R?oc=5",
+      "publishedAt": "2026-02-24T04:19:50.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260224-just-in-bitcoin-falls-under-63000-xcom",
+      "localUrl": "/news/20260224-just-in-bitcoin-falls-under-63000-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -425,14 +515,14 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Trump‘s Board of Peace said mulling stablecoin for Gaza efforts: FT",
+      "title": "Trump’s ‘Board of Peace’ mulling Gaza stablecoin, FT reports",
       "summary": "A person familiar with the project reportedly said the stablecoin under preliminary discussion by the board would be established as “a means to allow Gazans to transact digitally.”",
       "url": "https://cointelegraph.com/news/donald-trump-stablecoins-gaza?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-02-23T20:44:22.000Z",
       "keywords": [],
       "category": "综合",
-      "slug": "20260223-trumps-board-of-peace-said-mulling-stablecoin-for-gaza-efforts-ft",
-      "localUrl": "/news/20260223-trumps-board-of-peace-said-mulling-stablecoin-for-gaza-efforts-ft.html"
+      "slug": "20260223-trumps-board-of-peace-mulling-gaza-stablecoin-ft-reports",
+      "localUrl": "/news/20260223-trumps-board-of-peace-mulling-gaza-stablecoin-ft-reports.html"
     },
     {
       "source": "X Wire",
@@ -533,28 +623,6 @@
       "localUrl": "/news/20260223-stablecores-jack-henry-integration-opens-stablecoins-to-1600-banks.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Satlantis launches Bitcoin-native ticketing platform with built-in Lightning wallets",
-      "summary": "The events platform embeds Bitcoin Lightning wallets into each event, allowing organizers to issue tickets and accept BTC alongside fiat payments.",
-      "url": "https://cointelegraph.com/news/satlantis-embeds-lightning-wallets-into-event-infrastructure-in-bid-to-disrupt-ticketing-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-23T18:15:26.000Z",
-      "keywords": [],
-      "category": "市场",
-      "slug": "20260223-satlantis-launches-bitcoin-native-ticketing-platform-with-built-in-lightning-wal",
-      "localUrl": "/news/20260223-satlantis-launches-bitcoin-native-ticketing-platform-with-built-in-lightning-wal.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Trump crypto company says ‘coordinated attack‘ on stablecoin failed",
-      "summary": "The price of World Liberty Financial's token dipped about 7% early on Monday, later reported to be the result of a social media and short-seller attack.",
-      "url": "https://cointelegraph.com/news/world-liberty-attack-stablecoin-failed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-23T17:56:42.000Z",
-      "keywords": [],
-      "category": "市场",
-      "slug": "20260223-trump-crypto-company-says-coordinated-attack-on-stablecoin-failed",
-      "localUrl": "/news/20260223-trump-crypto-company-says-coordinated-attack-on-stablecoin-failed.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Solana Company starts building high-speed infrastructure to prepare SOL for next 'super cycle'",
       "summary": "The initiative targets institutional demand across Asia-Pacific, offering DeFi tools, liquid staking, and execution services designed for traditional finance firms entering the crypto space.",
@@ -605,6 +673,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Bitcoin is perfectly following to 2022-2023 price movements...😳 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1odFM2S1g5LW0yRk1DZERmemVZQVc0MFBnVU5wRWhaTV9xbXVvZndFd3owT0NuS1didGVHMlVLMFYwWW1aeGxJM0RncXQyUndlTXg1WFlOeUJhWjlmOGpnSXRB?oc=5\" target=\"_blank\">Bitcoin is perfectly following to …",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1odFM2S1g5LW0yRk1DZERmemVZQVc0MFBnVU5wRWhaTV9xbXVvZndFd3owT0NuS1didGVHMlVLMFYwWW1aeGxJM0RncXQyUndlTXg1WFlOeUJhWjlmOGpnSXRB?oc=5",
+      "publishedAt": "2026-02-23T17:18:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260223-bitcoin-is-perfectly-following-to-2022-2023-price-movements-xcom",
+      "localUrl": "/news/20260223-bitcoin-is-perfectly-following-to-2022-2023-price-movements-xcom.html"
+    },
+    {
+      "source": "X Wire",
       "title": "I discuss $BTC price action, the rise of Digital Money and Digital Credit like $STRC, debunk the latest quantum FUD, and explain why companies like $MSTR are accelerating global Bitcoin adoption with @natbrunell. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aZWZNRlMtc3BEQ08zNFRqX1YwdC0wd25LRXNrTm40eS1oSUZrWmZBaHRRcEJuM3JJX0tpbGdNRDdlekdjVi1US3BhdVBOc2Fxc0UxODA3TWdtNTA?oc=5\" target=\"_blank\">I discuss $BTC price action, the rise of Di…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aZWZNRlMtc3BEQ08zNFRqX1YwdC0wd25LRXNrTm40eS1oSUZrWmZBaHRRcEJuM3JJX0tpbGdNRDdlekdjVi1US3BhdVBOc2Fxc0UxODA3TWdtNTA?oc=5",
@@ -626,17 +705,6 @@
       "category": "监管",
       "slug": "20260223-cryptocom-secures-conditional-approval-for-national-trust-bank-charter",
       "localUrl": "/news/20260223-cryptocom-secures-conditional-approval-for-national-trust-bank-charter.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "ProShares GENIUS ETF's $17B debut boosts case for tokenized money market funds",
-      "summary": "IQMM's historic first-day launch underscores how traditional cash funds are adapting to compete in a stablecoin-driven landscape following the passage of the GENIUS Act.",
-      "url": "https://cointelegraph.com/news/iqmm-s-17b-debut-strengthens-case-for-tokenized-money-market-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-23T17:06:16.000Z",
-      "keywords": [],
-      "category": "监管",
-      "slug": "20260223-proshares-genius-etfs-17b-debut-boosts-case-for-tokenized-money-market-funds",
-      "localUrl": "/news/20260223-proshares-genius-etfs-17b-debut-boosts-case-for-tokenized-money-market-funds.html"
     },
     {
       "source": "CoinDesk",
@@ -776,6 +844,17 @@
       "localUrl": "/news/20260223-elliptic-flags-russia-linked-crypto-platforms-ongoing-sanctions-evasion.html"
     },
     {
+      "source": "X Wire",
+      "title": "We are proud to announce that Crypto.com has received conditional approval from @USOCC for its national trust bank charter. Read more here: crypto.com/us/company-new… - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE41bkkzTlZLRXoyUVNCSE85MHRIYXRnVVR4ZkxXR0VSZmJfTndKOFFQVWk1ZlV1cTQ4ZFljOXY2dndMOVNJQTVEODEwQ0VMZktmUmttelRCSUdzNXdzRFgw?oc=5\" target=\"_blank\">We are proud to announce that Crypto.c…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41bkkzTlZLRXoyUVNCSE85MHRIYXRnVVR4ZkxXR0VSZmJfTndKOFFQVWk1ZlV1cTQ4ZFljOXY2dndMOVNJQTVEODEwQ0VMZktmUmttelRCSUdzNXdzRFgw?oc=5",
+      "publishedAt": "2026-02-23T14:46:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260223-we-are-proud-to-announce-that-cryptocom-has-received-conditional-approval-from-u",
+      "localUrl": "/news/20260223-we-are-proud-to-announce-that-cryptocom-has-received-conditional-approval-from-u.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "CoinDesk 20 performance update: AAVE gains 1.7% while index trades lower over weekend",
       "summary": "Uniswap (UNI) joined Aave (AAVE) as a top performers, gaining 0.5% from Friday.",
@@ -854,39 +933,6 @@
       "localUrl": "/news/20260223-us-treasury-may-boost-t-bill-issuance-as-stablecoins-eye-2-trillion-market-cap-s.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Pantera leads $11.5M round in Based, a Hyperliquid-powered crypto app",
-      "summary": "The company said the fresh capital will be used to expand into new markets and build out its onchain financial infrastructure.",
-      "url": "https://www.coindesk.com/business/2026/02/20/pantera-leads-usd11-5m-round-in-based-a-hyperliquid-powered-crypto-app",
-      "publishedAt": "2026-02-23T13:38:32.000Z",
-      "keywords": [
-        "Finance",
-        "Pantera",
-        "Hyperliquid",
-        "Coinbase Ventures",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260223-pantera-leads-115m-round-in-based-a-hyperliquid-powered-crypto-app",
-      "localUrl": "/news/20260223-pantera-leads-115m-round-in-based-a-hyperliquid-powered-crypto-app.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Mexican billionaire Ricardo Salinas remains bullish on bitcoin after plunge",
-      "summary": "Salinas has previously said he has 70% of his liquid assets in bitcoin.",
-      "url": "https://www.coindesk.com/markets/2026/02/23/mexican-billionaire-ricardo-salinas-remains-bullish-on-bitcoin-after-plunge",
-      "publishedAt": "2026-02-23T13:37:10.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Ricardo Salinas",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260223-mexican-billionaire-ricardo-salinas-remains-bullish-on-bitcoin-after-plunge",
-      "localUrl": "/news/20260223-mexican-billionaire-ricardo-salinas-remains-bullish-on-bitcoin-after-plunge.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Stablecoins Set to Scoop Up $1T in T-Bills by 2028: Standard Chartered",
       "summary": "Standard Chartered sees $0.9T excess demand for U.S. Treasury bills, raising odds of reduced 30-year bond auctions.",
@@ -920,17 +966,6 @@
       "category": "X热点",
       "slug": "20260223-strategy-has-acquired-592-btc-for-398-million-at-67286-per-bitcoin-as-of-2222026",
       "localUrl": "/news/20260223-strategy-has-acquired-592-btc-for-398-million-at-67286-per-bitcoin-as-of-2222026.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "NEW: Major investigation dropping February 26 on one of crypto’s most profitable businesses where multiple employees abused internal data to insider trade over a prolonged period of time. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE52aktnY1BlSEM2eGpMbmZQblYwanJ2LXBDMTE4S2JrYUo5ZFhiOERFdG5NQXRIME5YZjVGOTBlMTZSWVYxY0RvWjk2ZnA0dGlrTGZfTFRtZzkzcWty?oc=5\" target=\"_blank\">NEW: Major investigation dropping February…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52aktnY1BlSEM2eGpMbmZQblYwanJ2LXBDMTE4S2JrYUo5ZFhiOERFdG5NQXRIME5YZjVGOTBlMTZSWVYxY0RvWjk2ZnA0dGlrTGZfTFRtZzkzcWty?oc=5",
-      "publishedAt": "2026-02-23T12:57:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260223-new-major-investigation-dropping-february-26-on-one-of-cryptos-most-profitable-b",
-      "localUrl": "/news/20260223-new-major-investigation-dropping-february-26-on-one-of-cryptos-most-profitable-b.html"
     },
     {
       "source": "Decrypt",
@@ -980,17 +1015,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨 Bitcoin dropped below $65k. $230 million in leveraged longs liquidated in 60 minutes. When shit gets real, Bitcoin doesn't act like digital gold. It acts like a leveraged tech stock. The \"store of value\" narrative works great until it doesn't. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qWFQyWjBfZ21yOFdjWDZpRGZaQ2o4TUplckNhUUpHVFJFd1hYazM3cmlac0w2a3Zzb0x1dnFEY21pS0h4bzctVEI0QUVUY0JlOEJJVWNWS0RRM3BCSE1RNVpn?oc=5\" target=\"_blank\">🚨 Bitcoin dropped below $65k. $23…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qWFQyWjBfZ21yOFdjWDZpRGZaQ2o4TUplckNhUUpHVFJFd1hYazM3cmlac0w2a3Zzb0x1dnFEY21pS0h4bzctVEI0QUVUY0JlOEJJVWNWS0RRM3BCSE1RNVpn?oc=5",
-      "publishedAt": "2026-02-23T03:33:23.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260223-bitcoin-dropped-below-65k-230-million-in-leveraged-longs-liquidated-in-60-minute",
-      "localUrl": "/news/20260223-bitcoin-dropped-below-65k-230-million-in-leveraged-longs-liquidated-in-60-minute.html"
-    },
-    {
-      "source": "X Wire",
       "title": "the sentiment in crypto right now is so bad that I'm actually pretty optimistic - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rY0R2SzdELTZkaW04ejVqWnZMaUtqNlRqUmtRMzFWTVJMUy1lVkJyVFpxUExZdE80NHlmdlNJZk8zY1l2UG5KeU11QWRKZE5YS0loSzJQYWNidw?oc=5\" target=\"_blank\">the sentiment in crypto right now is so bad …",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rY0R2SzdELTZkaW04ejVqWnZMaUtqNlRqUmtRMzFWTVJMUy1lVkJyVFpxUExZdE80NHlmdlNJZk8zY1l2UG5KeU11QWRKZE5YS0loSzJQYWNidw?oc=5",
@@ -999,17 +1023,6 @@
       "category": "X热点",
       "slug": "20260223-the-sentiment-in-crypto-right-now-is-so-bad-that-im-actually-pretty-optimistic-x",
       "localUrl": "/news/20260223-the-sentiment-in-crypto-right-now-is-so-bad-that-im-actually-pretty-optimistic-x.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: Bitcoin falls below $65,000 as $230 million worth of levered longs are liquidated in 60 minutes. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yQXRXeGdnNVY0bkpuRGxMWHRVaHRES29pTzIyZ2xKWG4xTDA0d3VxT3k5Q0syZDBOajYzUjEwSVg1a0Q0V0YxMHN6VTNBT3VlV1A1SzhBcFFKU2xDLWFDRHNtRmlIQQ?oc=5\" target=\"_blank\">BREAKING: Bitcoin falls belo…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yQXRXeGdnNVY0bkpuRGxMWHRVaHRES29pTzIyZ2xKWG4xTDA0d3VxT3k5Q0syZDBOajYzUjEwSVg1a0Q0V0YxMHN6VTNBT3VlV1A1SzhBcFFKU2xDLWFDRHNtRmlIQQ?oc=5",
-      "publishedAt": "2026-02-23T01:30:55.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260223-breaking-bitcoin-falls-below-65000-as-230-million-worth-of-levered-longs-are-liq",
-      "localUrl": "/news/20260223-breaking-bitcoin-falls-below-65000-as-230-million-worth-of-levered-longs-are-liq.html"
     },
     {
       "source": "Ethereum Blog",
@@ -1026,17 +1039,6 @@
     },
     {
       "source": "X Wire",
-      "title": "CZ says, “Bitcoin reaching $200,000 is the most obvious thing in the world to me.” I agree here. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMUUVPT3ZFbHo3VUQ1bHlaZ1NzNlJVdDhqQnNneEJhWkR5NmlhcDlMQjZJdVMxTUYxb0hTZFJlRGFCVUU3Mzg3Rk1lZkt3WERXSEd5emRuVmFadUlmQkh5bVJn?oc=5\" target=\"_blank\">CZ says, “Bitcoin reaching $200,00…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMUUVPT3ZFbHo3VUQ1bHlaZ1NzNlJVdDhqQnNneEJhWkR5NmlhcDlMQjZJdVMxTUYxb0hTZFJlRGFCVUU3Mzg3Rk1lZkt3WERXSEd5emRuVmFadUlmQkh5bVJn?oc=5",
-      "publishedAt": "2026-02-22T19:58:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260222-cz-says-bitcoin-reaching-200000-is-the-most-obvious-thing-in-the-world-to-me-i-a",
-      "localUrl": "/news/20260222-cz-says-bitcoin-reaching-200000-is-the-most-obvious-thing-in-the-world-to-me-i-a.html"
-    },
-    {
-      "source": "X Wire",
       "title": "There's an increasing view in crypto that L1 blockspace is a commodity. I wonder if that's wrong. Infrastructure will be commoditized if it's a commodity. But that's not actually the behavior we're seeing with Layer 1s right now. Instead, we're seeing the vast majori - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sVU9Bel9jazVYbDNqaDg3bGpqeXNmaUhhQVh2WXhBaDVCRWpjdTVXR0dVVjJxand1NXNQdE5HcDVRMEVCcDdGdnNvWXROZmVjUGN2QWlydEMtd0F1VmVheVB3?oc=5\" target=\"_blank\">There's an increasing view in cryp…",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sVU9Bel9jazVYbDNqaDg3bGpqeXNmaUhhQVh2WXhBaDVCRWpjdTVXR0dVVjJxand1NXNQdE5HcDVRMEVCcDdGdnNvWXROZmVjUGN2QWlydEMtd0F1VmVheVB3?oc=5",
@@ -1048,6 +1050,17 @@
     },
     {
       "source": "X Wire",
+      "title": "⚡ INSIGHT: Crypto investors are ditching tokens for regulated crypto stocks as most new launches quickly sink below their listing price, per DWF. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yQ1hyenVmYVRKNGE3MWpOVS1GVGppcm5MR0xiWmI2amtIRi04X3M4WUlSUXBiSVFXczhvMlhVRnoyNmZ5V1lBaVI5cGY5OVd3UTNNUEVxS01KTFFSdjFvR3R6WkY?oc=5\" target=\"_blank\">⚡ INSIGHT: Crypto investors are…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yQ1hyenVmYVRKNGE3MWpOVS1GVGppcm5MR0xiWmI2amtIRi04X3M4WUlSUXBiSVFXczhvMlhVRnoyNmZ5V1lBaVI5cGY5OVd3UTNNUEVxS01KTFFSdjFvR3R6WkY?oc=5",
+      "publishedAt": "2026-02-22T18:04:06.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260222-insight-crypto-investors-are-ditching-tokens-for-regulated-crypto-stocks-as-most",
+      "localUrl": "/news/20260222-insight-crypto-investors-are-ditching-tokens-for-regulated-crypto-stocks-as-most.html"
+    },
+    {
+      "source": "X Wire",
       "title": "BITCOIN FACES A $1 TRILLION IDENTITY CRISIS Bitcoin has dropped over 40% from its peak, but the bigger issue isn’t price — it’s purpose. Once driven by strong narratives, Bitcoin now faces competition on all fronts: gold as a hedge, stablecoins for payme - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1reWdmV2Y1WXd0VG1DTV9ybzNRZlFqRFFLSnAxZkJxVXlsbEszVW93WjR5WjRxSEFhcHFfbHNDRkJ6SDBwT3VRejc4SUNwTURwN1JTNXRGY2N6R0VydHc?oc=5\" target=\"_blank\">BITCOIN FACES A $1 TRILLION IDENTITY CR…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1reWdmV2Y1WXd0VG1DTV9ybzNRZlFqRFFLSnAxZkJxVXlsbEszVW93WjR5WjRxSEFhcHFfbHNDRkJ6SDBwT3VRejc4SUNwTURwN1JTNXRGY2N6R0VydHc?oc=5",
@@ -1056,17 +1069,6 @@
       "category": "X热点",
       "slug": "20260221-bitcoin-faces-a-1-trillion-identity-crisis-bitcoin-has-dropped-over-40-from-its-",
       "localUrl": "/news/20260221-bitcoin-faces-a-1-trillion-identity-crisis-bitcoin-has-dropped-over-40-from-its-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The Bitcoin whitepaper is on display at the New York Stock Exchange 🇺🇸 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BMS1vaUtjRHAxTmljRUQzV1AwcUN5dy1xUjkxYllyZGFBU216VktEYjBvaVVaTTF4NDZhUVc5dzFNUHZZVmZ3SUtXVXRiVXIyZno0Wjk1akgwakkzaVZ3akpxbFhTWVE?oc=5\" target=\"_blank\">The Bitcoin whitepaper is o…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BMS1vaUtjRHAxTmljRUQzV1AwcUN5dy1xUjkxYllyZGFBU216VktEYjBvaVVaTTF4NDZhUVc5dzFNUHZZVmZ3SUtXVXRiVXIyZno0Wjk1akgwakkzaVZ3akpxbFhTWVE?oc=5",
-      "publishedAt": "2026-02-21T15:35:17.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260221-the-bitcoin-whitepaper-is-on-display-at-the-new-york-stock-exchange-xcom",
-      "localUrl": "/news/20260221-the-bitcoin-whitepaper-is-on-display-at-the-new-york-stock-exchange-xcom.html"
     }
   ]
 }
