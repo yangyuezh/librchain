@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-24T09:05:10.360Z</lastmod>
+    <lastmod>2026-02-24T10:07:48.251Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-24T09:05:10.360Z</lastmod>
+    <lastmod>2026-02-24T10:07:48.251Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260224-coinbase-usdc-revenue-may-multiply-7x-as-payments-grow-bloomberg-says.html</loc>
+    <lastmod>2026-02-24T09:35:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260224-hong-kongs-redotpay-said-to-plan-blockbuster-1-billion-ipo-in-new-york-bloomberg.html</loc>
+    <lastmod>2026-02-24T09:19:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260224-redotpay-weighs-us-ipo-that-could-raise-1b-at-over-4b-valuation-report.html</loc>
@@ -31,6 +43,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260224-big-real-world-assets-on-ethereum-just-surpassed-15-billion-in-market-cap-markin.html</loc>
+    <lastmod>2026-02-24T07:00:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260224-polymarket-bettors-put-3-million-on-which-crypto-firm-zachxbt-will-expose-next.html</loc>
     <lastmod>2026-02-24T06:37:31.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -43,7 +61,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260224-cybersecurity-stocks-tank-after-anthropic-unveils-claude-code-security.html</loc>
+    <loc>https://www.librchain.com/news/20260224-cybersecurity-stocks-fall-after-anthropic-unveils-claude-code-security.html</loc>
     <lastmod>2026-02-24T06:21:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -283,12 +301,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260223-critical-bitcoin-weekly-trend-breaks-for-first-time-in-2-years-is-btc-done.html</loc>
-    <lastmod>2026-02-23T19:45:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260223-openclaw-creator-bans-bitcoin-crypto-chatter-after-joining-openai.html</loc>
     <lastmod>2026-02-23T19:07:57.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -421,12 +433,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260223-us-treasury-may-boost-t-bill-issuance-as-stablecoins-eye-2-trillion-market-cap-s.html</loc>
-    <lastmod>2026-02-23T13:40:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260223-stablecoins-set-to-scoop-up-1t-in-t-bills-by-2028-standard-chartered.html</loc>
     <lastmod>2026-02-23T13:15:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -457,26 +463,20 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260223-everything-in-crypto-changed-since-oct-10-that-day-over-19-billion-in-crypto-pos.html</loc>
-    <lastmod>2026-02-23T11:05:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260223-these-are-terrible-takes-bitcoin-is-an-emerging-store-of-value-you-cannot-ask-it.html</loc>
     <lastmod>2026-02-23T05:11:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260223-the-sentiment-in-crypto-right-now-is-so-bad-that-im-actually-pretty-optimistic-x.html</loc>
-    <lastmod>2026-02-23T03:33:15.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260223-bitcoin-dropped-below-65k-230-million-in-leveraged-longs-liquidated-in-60-minute.html</loc>
+    <lastmod>2026-02-23T03:33:23.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260223-breaking-bitcoin-falls-below-65000-as-230-million-worth-of-levered-longs-are-liq.html</loc>
-    <lastmod>2026-02-23T01:30:55.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260223-the-sentiment-in-crypto-right-now-is-so-bad-that-im-actually-pretty-optimistic-x.html</loc>
+    <lastmod>2026-02-23T03:33:15.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -493,14 +493,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260221-bitcoin-faces-a-1-trillion-identity-crisis-bitcoin-has-dropped-over-40-from-its-.html</loc>
-    <lastmod>2026-02-21T15:56:14.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260222-insight-us-google-searches-for-bitcoin-to-zero-just-hit-a-record-high-as-btc-sli.html</loc>
+    <lastmod>2026-02-22T09:18:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260221-the-bitcoin-whitepaper-is-on-display-at-the-new-york-stock-exchange-xcom.html</loc>
-    <lastmod>2026-02-21T15:35:17.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260221-bitcoin-faces-a-1-trillion-identity-crisis-bitcoin-has-dropped-over-40-from-its-.html</loc>
+    <lastmod>2026-02-21T15:56:14.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
