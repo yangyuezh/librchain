@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-24T07:14:32.406Z</lastmod>
+    <lastmod>2026-02-24T09:05:10.360Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-24T07:14:32.406Z</lastmod>
+    <lastmod>2026-02-24T09:05:10.360Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260224-redotpay-weighs-us-ipo-that-could-raise-1b-at-over-4b-valuation-report.html</loc>
+    <lastmod>2026-02-24T08:52:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260224-canaan-buys-49-stake-in-three-texas-mining-sites-for-40m.html</loc>
+    <lastmod>2026-02-24T07:46:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260224-bitcoins-price-discovery-is-moving-to-chicago.html</loc>
@@ -61,13 +73,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260224-terraform-admin-blames-jane-street-alleged-insider-trading-for-collapse.html</loc>
+    <loc>https://www.librchain.com/news/20260224-terraform-administrator-accuses-jane-street-of-insider-trading-in-collapse-lawsu.html</loc>
     <lastmod>2026-02-24T04:52:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260224-citrinis-ai-doom-report-prompts-software-payment-stocks-tumble.html</loc>
+    <loc>https://www.librchain.com/news/20260224-software-payment-stocks-fall-after-citrini-ai-report-gains-traction.html</loc>
     <lastmod>2026-02-24T04:48:42.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -75,12 +87,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260224-bitcoin-dips-under-63000-and-history-says-more-pain-ahead-before-bottom-forms.html</loc>
     <lastmod>2026-02-24T04:44:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260224-and-there-it-is-jane-street-was-behind-the-2022-crypto-winter-destroying-terrafo.html</loc>
-    <lastmod>2026-02-24T04:41:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -109,7 +115,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260224-fed-seeks-feedback-on-proposal-to-end-operation-chokepoint-20.html</loc>
+    <loc>https://www.librchain.com/news/20260224-fed-seeks-feedback-on-proposal-critics-say-could-end-operation-chokepoint-20.html</loc>
     <lastmod>2026-02-24T03:33:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -141,6 +147,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260224-backpack-pledges-20-equity-to-token-stakers-amid-ipo-plans.html</loc>
     <lastmod>2026-02-24T00:45:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260224-treasury-staking-initiative.html</loc>
+    <lastmod>2026-02-24T00:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -241,7 +253,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260223-negative-bitcoin-funding-rate-may-signal-pending-short-squeeze-above-70k.html</loc>
+    <loc>https://www.librchain.com/news/20260223-negative-bitcoin-funding-rate-may-signal-short-squeeze-above-70k.html</loc>
     <lastmod>2026-02-23T20:45:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -285,18 +297,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260223-human-existence-is-just-as-wasteful-as-ai-data-centers-sam-altman-suggests.html</loc>
     <lastmod>2026-02-23T18:59:12.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260223-price-predictions-223-spx-dxy-btc-eth-xrp-bnb-sol-doge-bch-ada.html</loc>
-    <lastmod>2026-02-23T18:36:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260223-stablecores-jack-henry-integration-opens-stablecoins-to-1600-banks.html</loc>
-    <lastmod>2026-02-23T18:28:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -445,20 +445,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260223-new-major-investigation-dropping-february-26-on-one-of-cryptos-most-profitable-b.html</loc>
+    <lastmod>2026-02-23T12:57:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260223-australian-police-charge-man-over-35m-crypto-investment-scam-targeting-elderly-v.html</loc>
     <lastmod>2026-02-23T11:24:30.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260223-crypto-may-be-heading-toward-its-largest-crash-ever-the-magnitude-of-losses-now-.html</loc>
-    <lastmod>2026-02-23T08:54:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260223-our-decision-to-sell-bitcoin-should-not-be-a-concern-for-the-broader-market-we-a.html</loc>
-    <lastmod>2026-02-23T07:45:53.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260223-everything-in-crypto-changed-since-oct-10-that-day-over-19-billion-in-crypto-pos.html</loc>
+    <lastmod>2026-02-23T11:05:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,6 +475,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260223-breaking-bitcoin-falls-below-65000-as-230-million-worth-of-levered-longs-are-liq.html</loc>
+    <lastmod>2026-02-23T01:30:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260223-the-ethereum-foundations-commitment-to-defi.html</loc>
     <lastmod>2026-02-23T00:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -487,14 +493,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260222-insight-crypto-investors-are-ditching-tokens-for-regulated-crypto-stocks-as-most.html</loc>
-    <lastmod>2026-02-22T18:04:06.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260221-bitcoin-faces-a-1-trillion-identity-crisis-bitcoin-has-dropped-over-40-from-its-.html</loc>
+    <lastmod>2026-02-21T15:56:14.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260221-bitcoin-faces-a-1-trillion-identity-crisis-bitcoin-has-dropped-over-40-from-its-.html</loc>
-    <lastmod>2026-02-21T15:56:14.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260221-the-bitcoin-whitepaper-is-on-display-at-the-new-york-stock-exchange-xcom.html</loc>
+    <lastmod>2026-02-21T15:35:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
