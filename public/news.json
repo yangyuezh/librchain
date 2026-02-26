@@ -1,7 +1,245 @@
 {
-  "updatedAt": "2026-02-26T13:41:51.892Z",
-  "total": 84,
+  "updatedAt": "2026-02-26T15:02:57.408Z",
+  "total": 85,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "A former Solana exec is taking a page out of Wall Street playbook to make global crypto trades faster",
+      "summary": "The goal is to reduce Solana’s growing geographic concentration in Europe and introduce multicast functionality.",
+      "url": "https://www.coindesk.com/tech/2026/02/25/a-former-solana-exec-is-taking-a-page-out-of-wall-street-playbook-to-make-global-crypto-trades-faster",
+      "publishedAt": "2026-02-26T15:00:00.000Z",
+      "keywords": [
+        "Tech",
+        "Solana News",
+        "Validators",
+        "Exclusive",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260226-a-former-solana-exec-is-taking-a-page-out-of-wall-street-playbook-to-make-global",
+      "localUrl": "/news/20260226-a-former-solana-exec-is-taking-a-page-out-of-wall-street-playbook-to-make-global.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-26T14:55:37.000Z",
+      "keywords": [
+        "Trump memecoin",
+        "Solana memecoin",
+        "TRUMP token",
+        "Solana",
+        "SOL",
+        "Nova Labs",
+        "SEC",
+        "Securities and Exchange Commission",
+        "Crypto regulation",
+        "TRUMP rally",
+        "Bitcoin",
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260226-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260226-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Chainalysis Blog",
+      "title": "OKX Adopts Chainalysis Alterya to Stop Fraud Before It Happens",
+      "summary": "SAN JOSE (February 26, 2026) – OKX and Chainalysis today announced an expansion of their relationship focused on proactive fraud… The post OKX Adopts Chainalysis Alterya to Stop Fraud Before It Happens appeared first on Chainalysis .",
+      "url": "https://www.chainalysis.com/blog/okx-adopts-alterya-fraud-prevention-february-2026/",
+      "publishedAt": "2026-02-26T14:50:03.000Z",
+      "keywords": [
+        "Chainalysis in Action",
+        "Alterya",
+        "Announcement",
+        "Compliance",
+        "crypto exchange",
+        "Fraud Prevention",
+        "OKX",
+        "Partnership"
+      ],
+      "category": "监管",
+      "slug": "20260226-okx-adopts-chainalysis-alterya-to-stop-fraud-before-it-happens",
+      "localUrl": "/news/20260226-okx-adopts-chainalysis-alterya-to-stop-fraud-before-it-happens.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Analysts reject Jane Street ‘10 am dump’ claims, say Bitcoin isn’t easily manipulated",
+      "summary": "Crypto traders blame Jane Street for a daily 10 am Bitcoin dip after a Terraform lawsuit claimed dubious trading practices, but analysts say timing matches broader risk repricing.",
+      "url": "https://cointelegraph.com/news/bitcoin-10am-dump-theory-jane-street-ibit-13f-terraform-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-26T14:44:40.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260226-analysts-reject-jane-street-10-am-dump-claims-say-bitcoin-isnt-easily-manipulate",
+      "localUrl": "/news/20260226-analysts-reject-jane-street-10-am-dump-claims-say-bitcoin-isnt-easily-manipulate.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trump family-backed miner American Bitcoin posts $59M quarterly loss",
+      "summary": "American Bitcoin posted a $59.5 million Q4 loss while its revenue rose and its Bitcoin stack topped 6,000 coins, as peers pivot to AI and sell down treasuries.",
+      "url": "https://cointelegraph.com/news/american-bitcoin-trump-nets-59m-quarterly-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-26T14:37:18.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260226-trump-family-backed-miner-american-bitcoin-posts-59m-quarterly-loss",
+      "localUrl": "/news/20260226-trump-family-backed-miner-american-bitcoin-posts-59m-quarterly-loss.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto investigator ZachXBT alleges trading platform Axiom's employee conducted insider trading",
+      "summary": "ZachXBT.alleges a senior Axiom employee used internal dashboards to access private wallet data and track traders’ activity, raising questions about potential insider trading.",
+      "url": "https://www.coindesk.com/markets/2026/02/26/zachxbt-alleges-axiom-employee-conducted-insider-trading",
+      "publishedAt": "2026-02-26T14:25:38.000Z",
+      "keywords": [
+        "Markets",
+        "Crime",
+        "Insider Trading",
+        "Zachxbt",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260226-crypto-investigator-zachxbt-alleges-trading-platform-axioms-employee-conducted-i",
+      "localUrl": "/news/20260226-crypto-investigator-zachxbt-alleges-trading-platform-axioms-employee-conducted-i.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CoinDesk 20 performance update: index falls 1.4% as all constituents trade lower",
+      "summary": "Aptos (APT) declined 11% and Aave (AAVE) dropped 6.6%, leading index lower from Wednesday.",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/02/26/coindesk-20-performance-update-index-falls-1-4-as-all-constituents-trade-lower",
+      "publishedAt": "2026-02-26T14:23:49.000Z",
+      "keywords": [
+        "CoinDesk Indices",
+        "CoinDesk Indices",
+        "CoinDesk 20",
+        "charts",
+        "Prices",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260226-coindesk-20-performance-update-index-falls-14-as-all-constituents-trade-lower",
+      "localUrl": "/news/20260226-coindesk-20-performance-update-index-falls-14-as-all-constituents-trade-lower.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Goliath Ventures CEO Arrested Over $328M Crypto ‘Ponzi Scheme’",
+      "summary": "Christopher Alexander Delgado was charged on counts of wire fraud and money laundering that carry a maximum sentence of 30 years in prison.",
+      "url": "https://decrypt.co/359211/goliath-ventures-ceo-arrested-over-328m-crypto-ponzi-scheme",
+      "publishedAt": "2026-02-26T14:19:06.000Z",
+      "keywords": [
+        "uniswap",
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260226-goliath-ventures-ceo-arrested-over-328m-crypto-ponzi-scheme",
+      "localUrl": "/news/20260226-goliath-ventures-ceo-arrested-over-328m-crypto-ponzi-scheme.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "MetaMask Crypto Debit Mastercard Launches Across United States",
+      "summary": "The Mastercard-powered MetaMask debit card is now rolling out access to all users across the United States.",
+      "url": "https://decrypt.co/359145/metamask-crypto-debit-mastercard-launches-united-states",
+      "publishedAt": "2026-02-26T14:01:02.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "综合",
+      "slug": "20260226-metamask-crypto-debit-mastercard-launches-across-united-states",
+      "localUrl": "/news/20260226-metamask-crypto-debit-mastercard-launches-across-united-states.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "MetaMask expands debit card across U.S. after year-long pilot",
+      "summary": "The card lets users spend digital assets directly from their self-custodial wallets at various merchants.",
+      "url": "https://www.coindesk.com/business/2026/02/26/metamask-expands-debit-card-across-u-s-after-year-long-pilot",
+      "publishedAt": "2026-02-26T14:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "MetaMask",
+        "ConsenSys",
+        "Ethereum network",
+        "Linea",
+        "Joe Lubin",
+        "Debit Cards",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260226-metamask-expands-debit-card-across-us-after-year-long-pilot",
+      "localUrl": "/news/20260226-metamask-expands-debit-card-across-us-after-year-long-pilot.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Decibel goes live on Aptos with a $58 million war chest and a secret weapon from Stripe's Bridge",
+      "summary": "After a testnet with 700,000 accounts and $50 million in pre-deposits, Decibel begins mainnet trading with an onchain order book and risk engine on Aptos.",
+      "url": "https://www.coindesk.com/business/2026/02/25/perpetuals-exchange-decibel-goes-live-on-aptos-following-usd50-million-in-pre-deposits",
+      "publishedAt": "2026-02-26T14:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Aptos",
+        "perpetual contracts",
+        "Decentralized exchange",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260226-decibel-goes-live-on-aptos-with-a-58-million-war-chest-and-a-secret-weapon-from-",
+      "localUrl": "/news/20260226-decibel-goes-live-on-aptos-with-a-58-million-war-chest-and-a-secret-weapon-from-.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Mastercard, MetaMask launch US crypto card, debuting in New York",
+      "summary": "MetaMask Card goes live in the US, with first-time availability across 49 states, including New York, following initial pilots over the past two years.",
+      "url": "https://cointelegraph.com/news/mastercard-metamask-us-crypto-card-new-york-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-26T14:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260226-mastercard-metamask-launch-us-crypto-card-debuting-in-new-york",
+      "localUrl": "/news/20260226-mastercard-metamask-launch-us-crypto-card-debuting-in-new-york.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Grvt integrates Aave so traders can earn yield on perp collateral",
+      "summary": "DefiLlama data shows derivatives contribute heavily to DeFi’s $1 billion-plus quarterly revenue as lending and trading infrastructure converge.",
+      "url": "https://cointelegraph.com/news/grvt-aave-composable-yield-perp-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-26T14:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260226-grvt-integrates-aave-so-traders-can-earn-yield-on-perp-collateral",
+      "localUrl": "/news/20260226-grvt-integrates-aave-so-traders-can-earn-yield-on-perp-collateral.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "OKX integrates Chainalysis Alterya for pre-withdrawal scam screening",
+      "summary": "Cryptocurrency exchanges are moving to block scam-linked transfers before funds leave their platforms as fraud losses continue to climb.",
+      "url": "https://cointelegraph.com/news/okx-integrates-chainalysis-alterya-for-pre-withdrawal-scam-screening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-26T14:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260226-okx-integrates-chainalysis-alterya-for-pre-withdrawal-scam-screening",
+      "localUrl": "/news/20260226-okx-integrates-chainalysis-alterya-for-pre-withdrawal-scam-screening.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "How does Trump influence the price of Bitcoin?",
+      "summary": "US President Donald Trump has influenced cryptocurrency market movements through his policies and speeches declaring ambitious crypto goals.",
+      "url": "https://cointelegraph.com/news/how-does-trump-influence-bitcoin-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-26T13:55:05.000Z",
+      "keywords": [
+        "Features"
+      ],
+      "category": "市场",
+      "slug": "20260226-how-does-trump-influence-the-price-of-bitcoin",
+      "localUrl": "/news/20260226-how-does-trump-influence-the-price-of-bitcoin.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Ethereum Foundation drops most ambitious roadmap in years, targets finality in seconds by 2029",
@@ -21,7 +259,7 @@
     {
       "source": "Cointelegraph",
       "title": "Telegram’s in-app crypto wallet to offer yield on Bitcoin, Ether and USDt",
-      "summary": "Telegram’s crypto wallet introduces self-custodial Vaults, letting users earn yields on Bitcoin, Ether and USDt directly inside the messaging app.",
+      "summary": "Telegram’s crypto wallet introduces self-custodial vaults, letting users earn yields on Bitcoin, Ether and USDt directly inside the messaging app.",
       "url": "https://cointelegraph.com/news/telegram-ton-wallet-vaults-earn-btc-eth-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-02-26T13:34:43.000Z",
       "keywords": [
@@ -249,7 +487,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "The 10 a.m. mystery: Why bitcoin’s daily ‘price slam’ suddenly vanished after a massive lawsuit",
+      "title": "Was Jane Street behind the bitcoin crash? A deep dive into why that theory may not not hold",
       "summary": "Jane Street is a major authorized participant in spot bitcoin ETFs. That's not a conspiracy. But the mechanics of what APs actually do at market open explain more than most people realize.",
       "url": "https://www.coindesk.com/markets/2026/02/26/why-crypto-x-thinks-jane-street-crashed-bitcoin-and-what-s-actually-behind-the-10-am-slam",
       "publishedAt": "2026-02-26T10:02:12.000Z",
@@ -263,8 +501,8 @@
         "News"
       ],
       "category": "监管",
-      "slug": "20260226-the-10-am-mystery-why-bitcoins-daily-price-slam-suddenly-vanished-after-a-massiv",
-      "localUrl": "/news/20260226-the-10-am-mystery-why-bitcoins-daily-price-slam-suddenly-vanished-after-a-massiv.html"
+      "slug": "20260226-was-jane-street-behind-the-bitcoin-crash-a-deep-dive-into-why-that-theory-may-no",
+      "localUrl": "/news/20260226-was-jane-street-behind-the-bitcoin-crash-a-deep-dive-into-why-that-theory-may-no.html"
     },
     {
       "source": "Cointelegraph",
@@ -282,7 +520,7 @@
     {
       "source": "Cointelegraph",
       "title": "OCC proposal seeks to settle stablecoin yield debate, clearing way for CLARITY",
-      "summary": "The OCC’s proposal to implement the GENIUS Act would bar yield on payment stablecoins and introduce a rebuttable presumption against common issuer–affiliate reward structures.",
+      "summary": "The OCC’s proposal to implement the GENIUS Act would bar yield on payment stablecoins and introduce a rebuttable presumption against common issuer-affiliate reward structures.",
       "url": "https://cointelegraph.com/news/occ-proposal-aims-to-end-stablecoin-yield-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-02-26T09:20:08.000Z",
       "keywords": [
@@ -315,6 +553,17 @@
       "category": "DeFi",
       "slug": "20260226-whale-loses-82m-in-leveraged-arc-trade-on-lighter",
       "localUrl": "/news/20260226-whale-loses-82m-in-leveraged-arc-trade-on-lighter.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Everyone says bitcoin dumps at 10AM every day. I pulled the data, and it's not true. Since Jan 1, IBIT's cumulative return in the 10:00–10:30 window is +0.9%, and in the 10:00–10:15 window it's –1%. Noisy, not a systematic dump. More interesting: the perform - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRa2lJd2FvMzBZWFU1QkZ6alFVTWxsc0ozVC1KSjhKMjhNbUl2S191QWhobFZQQWo0VG53cjQ5OXltRXc3YU44RjBOR19fWHpPeDcwZU80OURCTEJGSmdOSWhR?oc=5\" target=\"_blank\">Everyone says bitcoin dumps at 10A…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRa2lJd2FvMzBZWFU1QkZ6alFVTWxsc0ozVC1KSjhKMjhNbUl2S191QWhobFZQQWo0VG53cjQ5OXltRXc3YU44RjBOR19fWHpPeDcwZU80OURCTEJGSmdOSWhR?oc=5",
+      "publishedAt": "2026-02-26T08:34:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260226-everyone-says-bitcoin-dumps-at-10am-every-day-i-pulled-the-data-and-its-not-true",
+      "localUrl": "/news/20260226-everyone-says-bitcoin-dumps-at-10am-every-day-i-pulled-the-data-and-its-not-true.html"
     },
     {
       "source": "Cointelegraph",
@@ -436,19 +685,6 @@
       "localUrl": "/news/20260226-uniswaps-uni-jumps-15-as-governance-vote-to-expand-fee-switch-gains-momentum.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Blockchains may need 1B TPS to support AI agent future: Stripe",
-      "summary": "Stripe executives Patrick and John Collison expect blockchain network demands to increase significantly as adoption and use of AI agents grow in the future.",
-      "url": "https://cointelegraph.com/news/stripe-ai-agents-will-require-blockchains-hit-1b-transactions-per-second?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-26T05:06:41.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260226-blockchains-may-need-1b-tps-to-support-ai-agent-future-stripe",
-      "localUrl": "/news/20260226-blockchains-may-need-1b-tps-to-support-ai-agent-future-stripe.html"
-    },
-    {
       "source": "X Wire",
       "title": "🔥 BULLISH: Bitcoin spot demand is growing for the first time since late November, per CryptoQuant's Head of Research. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mb0xlQ1B2cjMxWmw3Q041cFBjM182WHBwcFNUWUdLbzFmQ3Q1SUFoU1dpMXcxMlBQSE82NXh5di1IVnpmZkFQcUVUQ3h3VGlpd2VQRFJOX1hVeGVQMHlKZkxYazY?oc=5\" target=\"_blank\">🔥 BULLISH: Bitcoin spot demand…",
@@ -484,58 +720,6 @@
       "localUrl": "/news/20260226-ethzilla-drops-ethereum-treasury-label-in-rebrand-after-share-price-collapse.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Buterin outlines 4-year roadmap to speed up and quantum-proof Ethereum",
-      "summary": "“The goal is to decouple slots and finality, to allow us to reason about both separately,” explained Ethereum co-founder Vitalik Buterin.",
-      "url": "https://cointelegraph.com/news/vitalik-details-roadmap-for-faster-quantum-resistant-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-26T03:21:51.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260226-buterin-outlines-4-year-roadmap-to-speed-up-and-quantum-proof-ethereum",
-      "localUrl": "/news/20260226-buterin-outlines-4-year-roadmap-to-speed-up-and-quantum-proof-ethereum.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Aave surpasses $1T in lending volume amid institutional expansion",
-      "summary": "Aave continues to lead DeFi lending, with $27.2 billion in user value secured and $83.3 million in fees over the past 30 days, nearly four times more than its closest competitor.",
-      "url": "https://cointelegraph.com/news/aave-reaches-1-trillion-lending-volume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-26T03:18:04.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260226-aave-surpasses-1t-in-lending-volume-amid-institutional-expansion",
-      "localUrl": "/news/20260226-aave-surpasses-1t-in-lending-volume-amid-institutional-expansion.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "ETHZilla shares rise 13% after rebrand to Forum Markets",
-      "summary": "ETHZilla will now go by Forum in its second rebrand in less than 12 months as it looks to catch a windfall from the hype around tokenization.",
-      "url": "https://cointelegraph.com/news/ethzilla-shares-jump-rebrand-forum-tokenization-pivot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-26T02:12:23.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260226-ethzilla-shares-rise-13-after-rebrand-to-forum-markets",
-      "localUrl": "/news/20260226-ethzilla-shares-rise-13-after-rebrand-to-forum-markets.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "UK security committee chair urges temporary ban on crypto political donations",
-      "summary": "The Reform UK party was the first to accept crypto donations in May last year, with leader Nigel Farage announcing the group is accepting Bitcoin and other cryptocurrency contributions.",
-      "url": "https://cointelegraph.com/news/uk-temporary-ban-crypto-political-donations-matt-western?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-26T02:08:17.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260226-uk-security-committee-chair-urges-temporary-ban-on-crypto-political-donations",
-      "localUrl": "/news/20260226-uk-security-committee-chair-urges-temporary-ban-on-crypto-political-donations.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Jane Street Speculation Renews Scrutiny of Bitcoin ETF Market Mechanics",
       "summary": "Online claims have drawn attention to how institutional middlemen hedge Bitcoin ETF shares, exposing a gap between inflows and spot buying.",
@@ -562,19 +746,6 @@
       "localUrl": "/news/20260226-anthropic-openai-dial-back-safety-language-as-ai-race-accelerates.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Kalshi bans US politician over alleged insider trading violation",
-      "summary": "CFTC chair Mike Selig said the agency established a prediction markets advisory to help catch insider traders, warning there would be consequences.",
-      "url": "https://cointelegraph.com/news/kalshi-booted-politician-youtuber-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-26T00:11:04.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260226-kalshi-bans-us-politician-over-alleged-insider-trading-violation",
-      "localUrl": "/news/20260226-kalshi-bans-us-politician-over-alleged-insider-trading-violation.html"
-    },
-    {
       "source": "Solana Blog",
       "title": "Webinar Recap: Payments on Solana - A Production-Ready Ecosystem",
       "summary": "Recap of the \"Payments on Solana\" webinar featuring Sheraz Shere and Ilan Gitter, covering why Visa, PayPal, and Worldpay are building on Solana across treasury management, remittances, neobanking, payouts, and merchant settlement.",
@@ -597,19 +768,6 @@
       "category": "市场",
       "slug": "20260225-nvidia-earnings-results-steady-markets-as-ai-spending-debate-intensifies",
       "localUrl": "/news/20260225-nvidia-earnings-results-steady-markets-as-ai-spending-debate-intensifies.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin’s upcoming $10.5B options expiry may end bear market: Here’s how",
-      "summary": "Bitcoin markets are bracing for Friday’s $10.5 billion monthly options expiry. Does the data show bulls or bears at an advantage?",
-      "url": "https://cointelegraph.com/news/bitcoin-s-upcoming-10-5b-options-expiry-may-end-bear-market-here-s-how?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-25T22:37:27.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "市场",
-      "slug": "20260225-bitcoins-upcoming-105b-options-expiry-may-end-bear-market-heres-how",
-      "localUrl": "/news/20260225-bitcoins-upcoming-105b-options-expiry-may-end-bear-market-heres-how.html"
     },
     {
       "source": "CoinDesk",
@@ -655,6 +813,17 @@
       "category": "X热点",
       "slug": "20260225-everyone-is-asking-is-jane-street-why-bitcoin-isnt-at-150k-as-expected-the-answe",
       "localUrl": "/news/20260225-everyone-is-asking-is-jane-street-why-bitcoin-isnt-at-150k-as-expected-the-answe.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "A very important document. Let's walk through this one \"goal\" at a time. We'll start with fast slots and fast finality. I expect that we'll reduce slot time in an incremental fashion, eg. I like the \"sqrt(2) at a time\" formula (12 -> 8 -> 6 -> 4 -> 3 -> 2, though the last two st - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tOE1oc1ZBc2JJU0hjRlhHYTYtLVBSVHVKVEl2ZWs3ejZSejhVc0RmanExTTNCd1dFZVpiZnNTOVdGd0p6TnBDZTF3X0Z1NWRKMjJTVlh6aUNTWGV2akRhdkhEMkdUUQ?oc=5\" target=\"_blank\">A very important document. L…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tOE1oc1ZBc2JJU0hjRlhHYTYtLVBSVHVKVEl2ZWs3ejZSejhVc0RmanExTTNCd1dFZVpiZnNTOVdGd0p6TnBDZTF3X0Z1NWRKMjJTVlh6aUNTWGV2akRhdkhEMkdUUQ?oc=5",
+      "publishedAt": "2026-02-25T22:01:16.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260225-a-very-important-document-lets-walk-through-this-one-goal-at-a-time-well-start-w",
+      "localUrl": "/news/20260225-a-very-important-document-lets-walk-through-this-one-goal-at-a-time-well-start-w.html"
     },
     {
       "source": "CoinDesk",
@@ -710,17 +879,6 @@
       "category": "RWA",
       "slug": "20260225-bitcoin-treasury-company-gd-culture-may-sell-btc-to-buy-back-shares",
       "localUrl": "/news/20260225-bitcoin-treasury-company-gd-culture-may-sell-btc-to-buy-back-shares.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Jane Street was running an algorithm that dumped Bitcoin every single morning at 10am. Every day. For months. Crashing the price. Liquidating retail. Buying back lower. Rinse and repeat. The second they got sued it stopped. The 10am dump disappeared. N - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MekhPZDJTNy1Ec2ZuZ0JZUWxGNFR6VWt6Yi02UEllV3J1RUhsYWxBWGR5eGVNay1JeENyX2tWWUVrWmNsd1FrbzhXWjc1M3loNmR3X3hFRzV4bXY4WFE?oc=5\" target=\"_blank\">Jane Street was running an algorithm th…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MekhPZDJTNy1Ec2ZuZ0JZUWxGNFR6VWt6Yi02UEllV3J1RUhsYWxBWGR5eGVNay1JeENyX2tWWUVrWmNsd1FrbzhXWjc1M3loNmR3X3hFRzV4bXY4WFE?oc=5",
-      "publishedAt": "2026-02-25T20:06:20.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260225-jane-street-was-running-an-algorithm-that-dumped-bitcoin-every-single-morning-at",
-      "localUrl": "/news/20260225-jane-street-was-running-an-algorithm-that-dumped-bitcoin-every-single-morning-at.html"
     },
     {
       "source": "CoinDesk",
@@ -784,41 +942,6 @@
       "localUrl": "/news/20260225-what-early-bitcoin-architect-adam-back-thinks-of-this-cycle.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Blockfills co-founder and CEO Nicholas Hammer has stepped down",
-      "summary": "The crypto lender suspended client deposits and withdrawals earlier this month due to recent market and financial conditions.",
-      "url": "https://www.coindesk.com/business/2026/02/25/blockfills-co-founder-and-ceo-nicholas-hammer-has-stepped-down-amid-usd75-million-lending-losses",
-      "publishedAt": "2026-02-25T17:50:32.000Z",
-      "keywords": [
-        "Finance",
-        "BlockFills",
-        "Crypto Lending",
-        "Exclusive",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260225-blockfills-co-founder-and-ceo-nicholas-hammer-has-stepped-down",
-      "localUrl": "/news/20260225-blockfills-co-founder-and-ceo-nicholas-hammer-has-stepped-down.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The UK is picking winners for its digital dollar future while Coinbase CEO cries foul",
-      "summary": "Coinciding with the FCA’s announcement of its stablecoin trial, Coinbase’s Brian Armstrong criticized the U.K.’s regulatory process, saying it puts the region's global crypto leadership at risk.",
-      "url": "https://www.coindesk.com/policy/2026/02/25/the-uk-is-picking-winners-for-its-digital-dollar-future-while-coinbase-ceo-cries-foul",
-      "publishedAt": "2026-02-25T17:48:23.000Z",
-      "keywords": [
-        "Policy",
-        "FCA Sandbox",
-        "U.K. Financial Conduct Authority",
-        "Revolut",
-        "Stablecoins",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260225-the-uk-is-picking-winners-for-its-digital-dollar-future-while-coinbase-ceo-cries",
-      "localUrl": "/news/20260225-the-uk-is-picking-winners-for-its-digital-dollar-future-while-coinbase-ceo-cries.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin Giant Strategy, Coinbase Among Most-Shorted Stocks: Goldman Sachs",
       "summary": "Top crypto equities like Bitcoin treasury firm Strategy and crypto exchange Coinbase are among the most shorted stocks, says Goldman Sachs.",
@@ -832,23 +955,6 @@
       "localUrl": "/news/20260225-bitcoin-giant-strategy-coinbase-among-most-shorted-stocks-goldman-sachs.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Tether invests $200 million in digital marketplace Whop to expand stablecoin payments",
-      "summary": "The online marketplace said it will embed Tether's crypto wallet tools and USDT, USAT tokens to power crypto payments for over 18 million users.",
-      "url": "https://www.coindesk.com/business/2026/02/25/tether-invests-usd200-million-in-digital-marketplace-whop-to-expand-stablecoin-payments",
-      "publishedAt": "2026-02-25T17:27:21.000Z",
-      "keywords": [
-        "Finance",
-        "Stablecoins",
-        "Tether",
-        "USDT",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260225-tether-invests-200-million-in-digital-marketplace-whop-to-expand-stablecoin-paym",
-      "localUrl": "/news/20260225-tether-invests-200-million-in-digital-marketplace-whop-to-expand-stablecoin-paym.html"
-    },
-    {
       "source": "Decrypt",
       "title": "UK Selects Firms for Stablecoin Regulatory Sandbox, Including Revolut",
       "summary": "The four firms will now have free reign to experiment in a program that will inform final UK stablecoin rules set to be released later this year.",
@@ -860,45 +966,6 @@
       "category": "监管",
       "slug": "20260225-uk-selects-firms-for-stablecoin-regulatory-sandbox-including-revolut",
       "localUrl": "/news/20260225-uk-selects-firms-for-stablecoin-regulatory-sandbox-including-revolut.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: When ETF options start driving bitcoin",
-      "summary": "In this week’s Crypto Long & Short Newsletter, Gregory Mall of Lionsoul Global on how ETFs have shifted a growing share of bitcoin volatility into U.S. equity options markets.",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/02/25/crypto-long-and-short-when-etf-options-start-driving-bitcoin",
-      "publishedAt": "2026-02-25T17:00:41.000Z",
-      "keywords": [
-        "CoinDesk Indices",
-        "Institutional Investment",
-        "institutional investor",
-        "Crypto Long & Short",
-        "CoinDesk Indices",
-        "ETFs",
-        "Bitcoin ETF",
-        "Spot bitcoin etf",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260225-crypto-long-short-when-etf-options-start-driving-bitcoin",
-      "localUrl": "/news/20260225-crypto-long-short-when-etf-options-start-driving-bitcoin.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "A $100 million crypto campaign fund with a pro-Trump vibe so far failed to show up",
-      "summary": "The Fellowship political action committee promised $100 million, with reports that Tether may have been tied as a backer, but the fund has so far delivered zero.",
-      "url": "https://www.coindesk.com/news-analysis/2026/02/24/a-usd100-million-crypto-campaign-fund-with-a-pro-trump-vibe-has-so-far-failed-to-show-up",
-      "publishedAt": "2026-02-25T17:00:00.000Z",
-      "keywords": [
-        "News Analysis",
-        "U.S. Political Elections",
-        "campaign contributions",
-        "Fairshake",
-        "Tether",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260225-a-100-million-crypto-campaign-fund-with-a-pro-trump-vibe-so-far-failed-to-show-u",
-      "localUrl": "/news/20260225-a-100-million-crypto-campaign-fund-with-a-pro-trump-vibe-so-far-failed-to-show-u.html"
     },
     {
       "source": "Decrypt",
@@ -973,33 +1040,6 @@
       "category": "综合",
       "slug": "20260225-morning-minute-stablecoins-are-eating-everything",
       "localUrl": "/news/20260225-morning-minute-stablecoins-are-eating-everything.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Polkadot, Solana Lead Altcoin Surge Ahead of Nvidia Earnings Call",
-      "summary": "Crypto markets climb 3% as traders position for Nvidia's earnings, which analysts say now overshadow the SOTU as the key catalyst.",
-      "url": "https://decrypt.co/359098/polkadot-solana-lead-altcoin-surge-ahead-of-nvidia-earnings-call",
-      "publishedAt": "2026-02-25T12:20:36.000Z",
-      "keywords": [
-        "uniswap",
-        "Markets"
-      ],
-      "category": "基础设施",
-      "slug": "20260225-polkadot-solana-lead-altcoin-surge-ahead-of-nvidia-earnings-call",
-      "localUrl": "/news/20260225-polkadot-solana-lead-altcoin-surge-ahead-of-nvidia-earnings-call.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Judge Dismisses xAI Trade Secrets Lawsuit Against OpenAI, Allows Refiling",
-      "summary": "A federal judge has ruled that xAI's complaint failed to connect OpenAI to any alleged theft by former employees.",
-      "url": "https://decrypt.co/359094/judge-dismisses-xai-trade-secrets-lawsuit-against-openai-allows-refiling",
-      "publishedAt": "2026-02-25T10:49:01.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260225-judge-dismisses-xai-trade-secrets-lawsuit-against-openai-allows-refiling",
-      "localUrl": "/news/20260225-judge-dismisses-xai-trade-secrets-lawsuit-against-openai-allows-refiling.html"
     },
     {
       "source": "X Wire",
@@ -1123,17 +1163,6 @@
       "category": "监管",
       "slug": "20260224-treasury-staking-initiative",
       "localUrl": "/news/20260224-treasury-staking-initiative.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 The Fed moves to eliminate “reputation risk” from oversight policy, a framework that debanked and prohibited Bitcoin and crypto firms’ access to banking. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hcW80MllPZWxlenZYYTVHcFl5N0diamN6eVhNRWlMODVNdzBOQWtPaERTc1JiNkt1ektaSS1qSGFWVXltYXZvUE91Tkh2Vm56NURqTVJXa3FyekdxajRNRGdXMW9Dd2c?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 The Fed moves…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hcW80MllPZWxlenZYYTVHcFl5N0diamN6eVhNRWlMODVNdzBOQWtPaERTc1JiNkt1ektaSS1qSGFWVXltYXZvUE91Tkh2Vm56NURqTVJXa3FyekdxajRNRGdXMW9Dd2c?oc=5",
-      "publishedAt": "2026-02-23T22:40:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260223-just-in-the-fed-moves-to-eliminate-reputation-risk-from-oversight-policy-a-frame",
-      "localUrl": "/news/20260223-just-in-the-fed-moves-to-eliminate-reputation-risk-from-oversight-policy-a-frame.html"
     },
     {
       "source": "Ethereum Blog",
