@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-26T19:55:03.659Z</lastmod>
+    <lastmod>2026-02-26T20:53:09.444Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-26T19:55:03.659Z</lastmod>
+    <lastmod>2026-02-26T20:53:09.444Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260226-grant-cardone-plans-to-tokenize-his-firms-5-billion-real-estate-portfolio.html</loc>
+    <lastmod>2026-02-26T20:52:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260226-here-is-why-ethereums-bold-new-plan-could-make-the-blockchain-giant-high-speed-i.html</loc>
+    <lastmod>2026-02-26T20:33:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260226-bitcoin-bear-market-may-end-if-bulls-reclaim-745k-heres-why.html</loc>
+    <lastmod>2026-02-26T20:12:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260226-a-new-bipartisan-bill-wants-to-ensure-the-next-century-of-tech-is-written-in-ame.html</loc>
+    <lastmod>2026-02-26T20:00:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260226-bloomberg-extends-financial-data-to-25b-tokenized-markets-via-kaiko.html</loc>
@@ -93,6 +117,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260226-coin-mixers-recovering-as-users-shift-to-new-platforms-cambridge-university.html</loc>
     <lastmod>2026-02-26T17:16:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260226-breaking-iran-says-they-are-ready-for-war-xcom.html</loc>
+    <lastmod>2026-02-26T17:09:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -301,12 +331,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260226-ethereum-foundation-drops-most-ambitious-roadmap-in-years-targets-finality-in-se.html</loc>
-    <lastmod>2026-02-26T13:34:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260226-telegrams-in-app-crypto-wallet-to-offer-yield-on-bitcoin-ether-and-usdt.html</loc>
     <lastmod>2026-02-26T13:34:43.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -325,20 +349,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260226-indiana-prepares-to-put-bitcoin-in-its-public-retirement-plans.html</loc>
-    <lastmod>2026-02-26T13:06:23.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260226-1-its-finally-time-for-bitcoin-to-get-privacy-introducing-strkbtc-a-new-wrapped-.html</loc>
     <lastmod>2026-02-26T13:00:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260226-trump-family-linked-american-bitcoin-posts-59-million-q4-loss-as-bitcoin-price-s.html</loc>
-    <lastmod>2026-02-26T12:55:48.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -373,12 +385,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260226-indiana-lawmakers-pass-crypto-rights-bill-banning-discriminatory-taxes.html</loc>
-    <lastmod>2026-02-26T11:07:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260226-bitcoin-selling-pressure-weakens-as-us-spot-etfs-draw-in-506m.html</loc>
     <lastmod>2026-02-26T10:58:17.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -399,6 +405,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260226-occ-lays-out-framework-for-regulated-stablecoins-under-genius-act.html</loc>
     <lastmod>2026-02-26T05:37:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260226-new-vitalik-outlines-ethereums-path-to-faster-slots-and-finality-targeting-a-red.html</loc>
+    <lastmod>2026-02-26T04:00:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -469,14 +481,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260225-introducing-strawmap-a-strawman-roadmap-by-ef-protocol-believe-in-something-beli.html</loc>
-    <lastmod>2026-02-25T20:27:33.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260225-bitcoin-treasury-company-gd-culture-may-sell-btc-to-buy-back-shares.html</loc>
+    <lastmod>2026-02-25T20:12:25.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260225-bitcoin-treasury-company-gd-culture-may-sell-btc-to-buy-back-shares.html</loc>
-    <lastmod>2026-02-25T20:12:25.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260225-wall-street-is-moving-deeper-into-crypto-last-week-apollo-struck-a-deal-to-suppo.html</loc>
+    <lastmod>2026-02-25T19:08:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -495,18 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260225-people-who-think-that-bitcoin-is-going-to-zero-are-likely-mistaken-the-design-is.html</loc>
     <lastmod>2026-02-25T13:11:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260225-conviction-compounds-institutions-dont-just-talk-about-bitcoin-they-structure-ar.html</loc>
-    <lastmod>2026-02-25T00:16:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260225-fun-fact-el-salvador-gives-out-bitcoin-passports-to-tourists-visiting-the-countr.html</loc>
-    <lastmod>2026-02-25T00:02:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
