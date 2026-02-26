@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-02-26T11:04:36.831Z",
+  "updatedAt": "2026-02-26T11:53:08.746Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin stalls below $70,000 while DOT, UNI lead altcoin surge",
+      "summary": "BTC traded within a well-defined range as polkadot and uniswap rallied, cosmos slid.",
+      "url": "https://www.coindesk.com/markets/2026/02/26/bitcoin-stalls-near-usd70-000-while-dot-uni-lead-altcoin-surge",
+      "publishedAt": "2026-02-26T11:30:00.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "Derivatives",
+        "Altcoins",
+        "Markets",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260226-bitcoin-stalls-below-70000-while-dot-uni-lead-altcoin-surge",
+      "localUrl": "/news/20260226-bitcoin-stalls-below-70000-while-dot-uni-lead-altcoin-surge.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin traders explain why $80K is the next target for bulls",
+      "summary": "The return of spot Bitcoin ETF inflows may fuel a BTC price recovery, as signs of a potential rebound to $75,000-$80,000 emerge.",
+      "url": "https://cointelegraph.com/news/bitcoin-traders-explain-why-80k-next-target-for-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-26T11:28:51.000Z",
+      "keywords": [
+        "Market Analysis"
+      ],
+      "category": "监管",
+      "slug": "20260226-bitcoin-traders-explain-why-80k-is-the-next-target-for-bulls",
+      "localUrl": "/news/20260226-bitcoin-traders-explain-why-80k-is-the-next-target-for-bulls.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Indiana lawmakers pass crypto rights bill banning discriminatory taxes",
+      "summary": "Indiana’s HB 1042 cleared both chambers and heads to Governor Mike Braun, limiting crypto-specific taxes and opening the door to crypto options for retirement accounts.",
+      "url": "https://cointelegraph.com/news/indiana-crypto-rights-bill-governor-signature?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-26T11:07:29.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260226-indiana-lawmakers-pass-crypto-rights-bill-banning-discriminatory-taxes",
+      "localUrl": "/news/20260226-indiana-lawmakers-pass-crypto-rights-bill-banning-discriminatory-taxes.html"
+    },
     {
       "source": "Decrypt",
       "title": "Bitcoin Selling Pressure Weakens as U.S. Spot ETFs Draw in $506M",
@@ -34,16 +78,16 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Gate adds Malta payments license to expand EU fiat and stablecoin rails",
+      "title": "Gate secures Maltese payments license to expand EU fiat and stablecoin services",
       "summary": "The license allows Gate to execute payment transactions in the EU, including direct debits and credit transfers under PSD2 rules.",
       "url": "https://cointelegraph.com/news/gate-malta-psd2-payment-license-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-02-26T10:19:11.000Z",
       "keywords": [
         "Latest News"
       ],
-      "category": "综合",
-      "slug": "20260226-gate-adds-malta-payments-license-to-expand-eu-fiat-and-stablecoin-rails",
-      "localUrl": "/news/20260226-gate-adds-malta-payments-license-to-expand-eu-fiat-and-stablecoin-rails.html"
+      "category": "监管",
+      "slug": "20260226-gate-secures-maltese-payments-license-to-expand-eu-fiat-and-stablecoin-services",
+      "localUrl": "/news/20260226-gate-secures-maltese-payments-license-to-expand-eu-fiat-and-stablecoin-services.html"
     },
     {
       "source": "Cointelegraph",
@@ -492,17 +536,6 @@
     },
     {
       "source": "X Wire",
-      "title": "⚡️ NEW: The Ethereum Foundation released its “Strawmap” roadmap outlining plans for faster L1 finality, 10K TPS scaling via zkEVMs, advanced L2 throughput, post-quantum security, and native L1 privacy. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Vd0xTUF9IUkE5WWZsTk05WVhKQ2ZKTjdhUFlna21Fa2prbWpVYm4yelRHejJlSXY5NUdLTGl0THR1YWpRenFFdk1Dck9TMGtvMmFDcnpmUGdWOVIzTnhrZjFzR3A?oc=5\" target=\"_blank\">⚡️ NEW: The Ethereum Foundation…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Vd0xTUF9IUkE5WWZsTk05WVhKQ2ZKTjdhUFlna21Fa2prbWpVYm4yelRHejJlSXY5NUdLTGl0THR1YWpRenFFdk1Dck9TMGtvMmFDcnpmUGdWOVIzTnhrZjFzR3A?oc=5",
-      "publishedAt": "2026-02-25T21:00:36.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260225-new-the-ethereum-foundation-released-its-strawmap-roadmap-outlining-plans-for-fa",
-      "localUrl": "/news/20260225-new-the-ethereum-foundation-released-its-strawmap-roadmap-outlining-plans-for-fa.html"
-    },
-    {
-      "source": "X Wire",
       "title": "JUST IN: Ethereum unveils new 'Strawmap' roadmap adding private ETH transactions, quantum-proof security, and massive L2 scaling. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hdTJhVmpud0tfZ1E3OVJCcmQteXJRX1lSVkoxZ0lfUVdoVkU3eE5iODdOV3Z3dF9qTEl5bk1WM2Q0dG0wZEkyUHpyQll2Z09ldmNQc01LcEQyZlp4VEdqNFBR?oc=5\" target=\"_blank\">JUST IN: Ethereum unveils new 'Str…",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hdTJhVmpud0tfZ1E3OVJCcmQteXJRX1lSVkoxZ0lfUVdoVkU3eE5iODdOV3Z3dF9qTEl5bk1WM2Q0dG0wZEkyUHpyQll2Z09ldmNQc01LcEQyZlp4VEdqNFBR?oc=5",
@@ -564,19 +597,6 @@
       "localUrl": "/news/20260225-solo-bitcoin-miner-turns-75-of-rented-hashrate-into-a-200000-block-reward.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Price predictions 2/25: BTC, ETH, XRP, BNB, SOL, DOGE, BCH, ADA, HYPE, XMR",
-      "summary": "Bitcoin bulls rushed toward $70,000, and ETH reclaimed $2,000 following a drastic improvement in investor sentiment, but will the gains hold?",
-      "url": "https://cointelegraph.com/news/price-predictions-2-25-btc-eth-xrp-bnb-sol-doge-bch-ada-hype-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-25T19:15:00.000Z",
-      "keywords": [
-        "Top 10 Cryptocurrencies"
-      ],
-      "category": "市场",
-      "slug": "20260225-price-predictions-225-btc-eth-xrp-bnb-sol-doge-bch-ada-hype-xmr",
-      "localUrl": "/news/20260225-price-predictions-225-btc-eth-xrp-bnb-sol-doge-bch-ada-hype-xmr.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "MrBeast editor nabbed by prediction market firm Kalshi for alleged insider trading",
       "summary": "The company said it punished the MrBeast employee and another user it said tried to get away with contracts relying on inside information.",
@@ -594,19 +614,6 @@
       "category": "监管",
       "slug": "20260225-mrbeast-editor-nabbed-by-prediction-market-firm-kalshi-for-alleged-insider-tradi",
       "localUrl": "/news/20260225-mrbeast-editor-nabbed-by-prediction-market-firm-kalshi-for-alleged-insider-tradi.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Hut 8 posts $279M Q4 loss despite surge in compute revenue",
-      "summary": "The Bitcoin miner's digital asset losses mounted, even as it advanced a 15-year, $7 billion AI data center lease.",
-      "url": "https://cointelegraph.com/news/hut-8-swings-to-248m-loss-as-7b-ai-data-center-lease-anchors-pivot-from-bitcoin-mining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-25T18:47:09.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260225-hut-8-posts-279m-q4-loss-despite-surge-in-compute-revenue",
-      "localUrl": "/news/20260225-hut-8-posts-279m-q4-loss-despite-surge-in-compute-revenue.html"
     },
     {
       "source": "Decrypt",
@@ -874,17 +881,6 @@
       "localUrl": "/news/20260225-endowment-funds-eye-crypto-allocations-amid-tougher-return-outlook-for-tradition.html"
     },
     {
-      "source": "X Wire",
-      "title": "🇺🇸 Strategy CEO Phong Le said in seven years Bitcoin will crash from $1,000,000 to $750,000, and people will say BTC is dead then too. HODL ✊ - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zVHNZSXdNbHhNYzhpQ3lscFB6V21SX0lLdGJSQjR4MnpEOC1jaEdQSjhveF9CcUdVaE5VZkJYdFNaVFlMZ2RkWEZjTC0wUHpBUUIxUEs2WTEyaTJ2RWkzLThseE1SRTg?oc=5\" target=\"_blank\">🇺🇸 Strategy CEO Phong Le …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zVHNZSXdNbHhNYzhpQ3lscFB6V21SX0lLdGJSQjR4MnpEOC1jaEdQSjhveF9CcUdVaE5VZkJYdFNaVFlMZ2RkWEZjTC0wUHpBUUIxUEs2WTEyaTJ2RWkzLThseE1SRTg?oc=5",
-      "publishedAt": "2026-02-25T14:15:47.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260225-strategy-ceo-phong-le-said-in-seven-years-bitcoin-will-crash-from-1000000-to-750",
-      "localUrl": "/news/20260225-strategy-ceo-phong-le-said-in-seven-years-bitcoin-will-crash-from-1000000-to-750.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "CoinDesk 20 performance update: Polkadot (DOT) surges 17.2% as all assets rise",
       "summary": "Avalanche (AVAX), up 12.9% from Tuesday, was also among the top performers.",
@@ -901,23 +897,6 @@
       "category": "市场",
       "slug": "20260225-coindesk-20-performance-update-polkadot-dot-surges-172-as-all-assets-rise",
       "localUrl": "/news/20260225-coindesk-20-performance-update-polkadot-dot-surges-172-as-all-assets-rise.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The chief of the SEC is headlining an event sponsored by a crypto firm at war with it",
-      "summary": "SEC Chairman Paul Atkins is a marquee speaker at a policy summit backed by Unicoin, whose CEO says the agency chief is being duped by his staff.",
-      "url": "https://www.coindesk.com/news-analysis/2026/02/24/the-chief-of-the-sec-is-headlining-an-event-sponsored-by-a-crypto-firm-at-war-with-it",
-      "publishedAt": "2026-02-25T14:00:00.000Z",
-      "keywords": [
-        "News Analysis",
-        "Unicoin",
-        "U.S. Securities and Exchange Commission",
-        "Digital Chamber",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260225-the-chief-of-the-sec-is-headlining-an-event-sponsored-by-a-crypto-firm-at-war-wi",
-      "localUrl": "/news/20260225-the-chief-of-the-sec-is-headlining-an-event-sponsored-by-a-crypto-firm-at-war-wi.html"
     },
     {
       "source": "X Wire",
@@ -1072,6 +1051,28 @@
       "category": "X热点",
       "slug": "20260224-just-in-investment-bank-giant-td-cowen-predicts-bitcoin-to-hit-225000-in-2027-xc",
       "localUrl": "/news/20260224-just-in-investment-bank-giant-td-cowen-predicts-bitcoin-to-hit-225000-in-2027-xc.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "CRYPTO SLUMPS AS RISK AVERSION GROWS Cryptocurrencies are falling alongside other risk assets as concerns over AI disruption and tariff uncertainty weigh on investor sentiment, according to Saxo Bank analysts. US spot Bitcoin and Ether ETFs saw n - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2VjgzR2E5X25qUlFrQm9IVGtxNFpOUDNZNjdmZjJUYVk3Ym96VWdiV1YtMVhYTW1vRW1fMEQtOUdTTGd0MS1KRTRWa2pWbVdxYjVndTFmMjY1YVRGVGc?oc=5\" target=\"_blank\">CRYPTO SLUMPS AS RISK AVERSION GROWS Cr…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2VjgzR2E5X25qUlFrQm9IVGtxNFpOUDNZNjdmZjJUYVk3Ym96VWdiV1YtMVhYTW1vRW1fMEQtOUdTTGd0MS1KRTRWa2pWbVdxYjVndTFmMjY1YVRGVGc?oc=5",
+      "publishedAt": "2026-02-24T12:13:46.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260224-crypto-slumps-as-risk-aversion-grows-cryptocurrencies-are-falling-alongside-othe",
+      "localUrl": "/news/20260224-crypto-slumps-as-risk-aversion-grows-cryptocurrencies-are-falling-alongside-othe.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇦🇪 $16 billion Emirates NBD is exploring adding #Bitcoin to its portfolio. BULLISH 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qdVhjTFRRR0diQUR4ZFg3N21leWNWdnA3NHA3YzA0aHU3LVh3bnIyUHFEQ3lqQThBMEV1aE9VQnRVNDBudU92Sl9NZzhyUWhBVi05SGFLT19GTGJCdUtVcXlRelctVzg?oc=5\" target=\"_blank\">JUST IN: 🇦🇪 $16 billion E…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qdVhjTFRRR0diQUR4ZFg3N21leWNWdnA3NHA3YzA0aHU3LVh3bnIyUHFEQ3lqQThBMEV1aE9VQnRVNDBudU92Sl9NZzhyUWhBVi05SGFLT19GTGJCdUtVcXlRelctVzg?oc=5",
+      "publishedAt": "2026-02-24T11:50:42.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260224-just-in-16-billion-emirates-nbd-is-exploring-adding-bitcoin-to-its-portfolio-bul",
+      "localUrl": "/news/20260224-just-in-16-billion-emirates-nbd-is-exploring-adding-bitcoin-to-its-portfolio-bul.html"
     },
     {
       "source": "X Wire",
