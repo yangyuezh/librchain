@@ -1,7 +1,72 @@
 {
-  "updatedAt": "2026-02-26T19:08:28.324Z",
+  "updatedAt": "2026-02-26T19:55:03.592Z",
   "total": 85,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bloomberg extends financial data to $25B tokenized markets via Kaiko",
+      "summary": "Bloomberg and Kaiko aim to embed licensed financial data directly on blockchain networks, targeting institutional tokenized Treasurys and repo markets.",
+      "url": "https://cointelegraph.com/news/bloomberg-extends-financial-data-to-25b-tokenized-markets-via-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-26T19:52:38.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260226-bloomberg-extends-financial-data-to-25b-tokenized-markets-via-kaiko",
+      "localUrl": "/news/20260226-bloomberg-extends-financial-data-to-25b-tokenized-markets-via-kaiko.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin adoption ‘booming’ while price chops: Which metrics matter most?",
+      "summary": "Bitcoin institutional flows are cooling while its long-term holders and network participants absorb the supply. In a range-bound regime, these are the key signals to watch.",
+      "url": "https://cointelegraph.com/news/bitcoin-adoption-booming-while-price-chops-which-metrics-matter-most?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-26T19:30:00.000Z",
+      "keywords": [
+        "Market Analysis"
+      ],
+      "category": "市场",
+      "slug": "20260226-bitcoin-adoption-booming-while-price-chops-which-metrics-matter-most",
+      "localUrl": "/news/20260226-bitcoin-adoption-booming-while-price-chops-which-metrics-matter-most.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Google Drops Nano Banana 2: The New King of AI Image Generation?",
+      "summary": "Nano Banana 2 brings Pro-level world knowledge at Flash speed, with impressive text handling and subject consistency. But ByteDance's Seedream 5 just showed up to the same fight.",
+      "url": "https://decrypt.co/359274/google-nano-banana-2-new-king-ai-image-generation",
+      "publishedAt": "2026-02-26T19:21:14.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260226-google-drops-nano-banana-2-the-new-king-of-ai-image-generation",
+      "localUrl": "/news/20260226-google-drops-nano-banana-2-the-new-king-of-ai-image-generation.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Brothers' American Bitcoin Mining Firm Reports $59 Million Q4 Loss",
+      "summary": "American Bitcoin, co-founded by Eric Trump and Donald Trump Jr., posted a $59.45 million net loss in Q4 2025 as crypto prices weakened.",
+      "url": "https://decrypt.co/359252/trump-brothers-american-bitcoin-mining-firm-59-million-loss",
+      "publishedAt": "2026-02-26T19:08:11.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "市场",
+      "slug": "20260226-trump-brothers-american-bitcoin-mining-firm-reports-59-million-q4-loss",
+      "localUrl": "/news/20260226-trump-brothers-american-bitcoin-mining-firm-reports-59-million-q4-loss.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Polymarket user gains $400K betting on ZachXBT investigation",
+      "summary": "As US policymakers scrutinize prediction markets platforms, many Polymarket users won bets over speculation as to which insider trading an online sleuth had exposed.",
+      "url": "https://cointelegraph.com/news/polymarket-bets-zachxbt-investigation-axiom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-26T19:07:54.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260226-polymarket-user-gains-400k-betting-on-zachxbt-investigation",
+      "localUrl": "/news/20260226-polymarket-user-gains-400k-betting-on-zachxbt-investigation.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto social isn’t dead, it’s just changing hands",
@@ -19,7 +84,7 @@
     },
     {
       "source": "Decrypt",
-      "title": "MrBeast Video Editor Suspended From Beast Industries Following Kalshi Insider Probe",
+      "title": "MrBeast Video Editor Suspended From Beast Industries Following Kalshi Insider Trading Probe",
       "summary": "Beast Industries has suspended an employee while it internally investigates allegations of insider trading, according to CEO Jeff Housenbold.",
       "url": "https://decrypt.co/359264/mrbeast-video-editor-suspended-kalshi-insider-trading",
       "publishedAt": "2026-02-26T18:40:10.000Z",
@@ -27,8 +92,8 @@
         "Business"
       ],
       "category": "综合",
-      "slug": "20260226-mrbeast-video-editor-suspended-from-beast-industries-following-kalshi-insider-pr",
-      "localUrl": "/news/20260226-mrbeast-video-editor-suspended-from-beast-industries-following-kalshi-insider-pr.html"
+      "slug": "20260226-mrbeast-video-editor-suspended-from-beast-industries-following-kalshi-insider-tr",
+      "localUrl": "/news/20260226-mrbeast-video-editor-suspended-from-beast-industries-following-kalshi-insider-tr.html"
     },
     {
       "source": "CoinDesk",
@@ -83,6 +148,17 @@
       "category": "市场",
       "slug": "20260226-circles-post-earnings-surge-nears-50-as-short-squeeze-not-strong-financials-fuel",
       "localUrl": "/news/20260226-circles-post-earnings-surge-nears-50-as-short-squeeze-not-strong-financials-fuel.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Now, the quantum resistance roadmap. Today, four things in Ethereum are quantum-vulnerable: * consensus-layer BLS signatures * data availability (KZG commitments+proofs) * EOA signatures (ECDSA) * Application-layer ZK proofs (KZG or groth16) We can - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZcDg0SEJoaVRVS0V1YWZSNC1pZWJoU095Y0k5VVA5VHp4elZsdEpLX2FPQUxJOEZLeEVEVF9yNk1HT2N5b1NkYXM5X3czc3l5VWxVMnRMMWZ6RndIMmJmNjhwUi1vUQ?oc=5\" target=\"_blank\">Now, the quantum resistance …",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZcDg0SEJoaVRVS0V1YWZSNC1pZWJoU095Y0k5VVA5VHp4elZsdEpLX2FPQUxJOEZLeEVEVF9yNk1HT2N5b1NkYXM5X3czc3l5VWxVMnRMMWZ6RndIMmJmNjhwUi1vUQ?oc=5",
+      "publishedAt": "2026-02-26T17:35:22.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260226-now-the-quantum-resistance-roadmap-today-four-things-in-ethereum-are-quantum-vul",
+      "localUrl": "/news/20260226-now-the-quantum-resistance-roadmap-today-four-things-in-ethereum-are-quantum-vul.html"
     },
     {
       "source": "CoinDesk",
@@ -260,6 +336,17 @@
       "category": "基础设施",
       "slug": "20260226-ethereum-reclaims-2k-as-volatility-spike-backs-eth-price-recovery",
       "localUrl": "/news/20260226-ethereum-reclaims-2k-as-volatility-spike-backs-eth-price-recovery.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Indiana lawmakers approve bill that will allow public retirement and savings plans to invest in bitcoin and bitcoin ETFs. The bill now goes to the governors desk, expected to be signed into law. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56V1Vua3Vjd3hQWHVaWjlYYkIxSWJ5Rjk3Rm51SER2RWxmS0IzbUdrU2JKODFkYTZpSEFGMncyZ0VIWEFfcGtRbWNfMWF2bVBsQkNnZjNuMm0xRVdoRmw5NjJZeF9SQUU?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Indiana lawma…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56V1Vua3Vjd3hQWHVaWjlYYkIxSWJ5Rjk3Rm51SER2RWxmS0IzbUdrU2JKODFkYTZpSEFGMncyZ0VIWEFfcGtRbWNfMWF2bVBsQkNnZjNuMm0xRVdoRmw5NjJZeF9SQUU?oc=5",
+      "publishedAt": "2026-02-26T15:45:11.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260226-just-in-indiana-lawmakers-approve-bill-that-will-allow-public-retirement-and-sav",
+      "localUrl": "/news/20260226-just-in-indiana-lawmakers-approve-bill-that-will-allow-public-retirement-and-sav.html"
     },
     {
       "source": "Decrypt",
@@ -825,45 +912,6 @@
       "localUrl": "/news/20260226-bitcoin-selling-pressure-weakens-as-us-spot-etfs-draw-in-506m.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Gate secures Maltese payments license to expand EU fiat and stablecoin services",
-      "summary": "The license allows Gate to execute payment transactions in the EU, including direct debits and credit transfers under PSD2 rules.",
-      "url": "https://cointelegraph.com/news/gate-malta-psd2-payment-license-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-26T10:19:11.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260226-gate-secures-maltese-payments-license-to-expand-eu-fiat-and-stablecoin-services",
-      "localUrl": "/news/20260226-gate-secures-maltese-payments-license-to-expand-eu-fiat-and-stablecoin-services.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETFs regain momentum with $507M inflows as BTC reclaims $68K",
-      "summary": "Fresh inflows lift US Bitcoin ETFs toward a potential first weekly gain after five consecutive weeks of outflows totaling $3.8 billion.",
-      "url": "https://cointelegraph.com/news/bitcoin-etf-rise-507-million-inflows-btc-reclaims-68k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-26T10:00:43.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260226-bitcoin-etfs-regain-momentum-with-507m-inflows-as-btc-reclaims-68k",
-      "localUrl": "/news/20260226-bitcoin-etfs-regain-momentum-with-507m-inflows-as-btc-reclaims-68k.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "OCC proposal seeks to settle stablecoin yield debate, clearing way for CLARITY",
-      "summary": "The OCC’s proposal to implement the GENIUS Act would bar yield on payment stablecoins and introduce a rebuttable presumption against common issuer-affiliate reward structures.",
-      "url": "https://cointelegraph.com/news/occ-proposal-aims-to-end-stablecoin-yield-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-26T09:20:08.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "DeFi",
-      "slug": "20260226-occ-proposal-seeks-to-settle-stablecoin-yield-debate-clearing-way-for-clarity",
-      "localUrl": "/news/20260226-occ-proposal-seeks-to-settle-stablecoin-yield-debate-clearing-way-for-clarity.html"
-    },
-    {
       "source": "X Wire",
       "title": "Everyone says bitcoin dumps at 10AM every day. I pulled the data, and it's not true. Since Jan 1, IBIT's cumulative return in the 10:00–10:30 window is +0.9%, and in the 10:00–10:15 window it's –1%. Noisy, not a systematic dump. More interesting: the perform - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRa2lJd2FvMzBZWFU1QkZ6alFVTWxsc0ozVC1KSjhKMjhNbUl2S191QWhobFZQQWo0VG53cjQ5OXltRXc3YU44RjBOR19fWHpPeDcwZU80OURCTEJGSmdOSWhR?oc=5\" target=\"_blank\">Everyone says bitcoin dumps at 10A…",
@@ -897,17 +945,6 @@
       "category": "监管",
       "slug": "20260226-occ-lays-out-framework-for-regulated-stablecoins-under-genius-act",
       "localUrl": "/news/20260226-occ-lays-out-framework-for-regulated-stablecoins-under-genius-act.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🔥 BULLISH: Bitcoin spot demand is growing for the first time since late November, per CryptoQuant's Head of Research. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mb0xlQ1B2cjMxWmw3Q041cFBjM182WHBwcFNUWUdLbzFmQ3Q1SUFoU1dpMXcxMlBQSE82NXh5di1IVnpmZkFQcUVUQ3h3VGlpd2VQRFJOX1hVeGVQMHlKZkxYazY?oc=5\" target=\"_blank\">🔥 BULLISH: Bitcoin spot demand…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mb0xlQ1B2cjMxWmw3Q041cFBjM182WHBwcFNUWUdLbzFmQ3Q1SUFoU1dpMXcxMlBQSE82NXh5di1IVnpmZkFQcUVUQ3h3VGlpd2VQRFJOX1hVeGVQMHlKZkxYazY?oc=5",
-      "publishedAt": "2026-02-26T04:30:22.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260226-bullish-bitcoin-spot-demand-is-growing-for-the-first-time-since-late-november-pe",
-      "localUrl": "/news/20260226-bullish-bitcoin-spot-demand-is-growing-for-the-first-time-since-late-november-pe.html"
     },
     {
       "source": "X Wire",
@@ -1009,6 +1046,17 @@
     },
     {
       "source": "X Wire",
+      "title": "JUST IN: Google searches for \"How To Buy Bitcoin\" are now at a 5 year high! 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xOWc3RnV1RjVLZW5TZDFHTzhuY3J0TFplVV9aQlUzc2cxLTlSTnlyRThmbjJGWFVhekZnVHpiaGFiUlBfbjQ2RWM2Q2l4NDU0TlgzMnJMNThZcU5OYzJxNWNja3NjUXM?oc=5\" target=\"_blank\">JUST IN: Google searches fo…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xOWc3RnV1RjVLZW5TZDFHTzhuY3J0TFplVV9aQlUzc2cxLTlSTnlyRThmbjJGWFVhekZnVHpiaGFiUlBfbjQ2RWM2Q2l4NDU0TlgzMnJMNThZcU5OYzJxNWNja3NjUXM?oc=5",
+      "publishedAt": "2026-02-25T22:23:18.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260225-just-in-google-searches-for-how-to-buy-bitcoin-are-now-at-a-5-year-high-xcom",
+      "localUrl": "/news/20260225-just-in-google-searches-for-how-to-buy-bitcoin-are-now-at-a-5-year-high-xcom.html"
+    },
+    {
+      "source": "X Wire",
       "title": "A very important document. Let's walk through this one \"goal\" at a time. We'll start with fast slots and fast finality. I expect that we'll reduce slot time in an incremental fashion, eg. I like the \"sqrt(2) at a time\" formula (12 -> 8 -> 6 -> 4 -> 3 -> 2, though the last two st - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tOE1oc1ZBc2JJU0hjRlhHYTYtLVBSVHVKVEl2ZWs3ejZSejhVc0RmanExTTNCd1dFZVpiZnNTOVdGd0p6TnBDZTF3X0Z1NWRKMjJTVlh6aUNTWGV2akRhdkhEMkdUUQ?oc=5\" target=\"_blank\">A very important document. L…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tOE1oc1ZBc2JJU0hjRlhHYTYtLVBSVHVKVEl2ZWs3ejZSejhVc0RmanExTTNCd1dFZVpiZnNTOVdGd0p6TnBDZTF3X0Z1NWRKMjJTVlh6aUNTWGV2akRhdkhEMkdUUQ?oc=5",
@@ -1069,32 +1117,6 @@
       "localUrl": "/news/20260225-bitcoin-ethereum-and-solana-shorts-get-rekt-as-btc-price-rebounds-near-69k.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Bitcoin Giant Strategy, Coinbase Among Most-Shorted Stocks: Goldman Sachs",
-      "summary": "Top crypto equities like Bitcoin treasury firm Strategy and crypto exchange Coinbase are among the most shorted stocks, says Goldman Sachs.",
-      "url": "https://decrypt.co/359126/bitcoin-giant-strategy-coinbase-most-shorted-stocks-goldman-sachs",
-      "publishedAt": "2026-02-25T17:43:58.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "RWA",
-      "slug": "20260225-bitcoin-giant-strategy-coinbase-among-most-shorted-stocks-goldman-sachs",
-      "localUrl": "/news/20260225-bitcoin-giant-strategy-coinbase-among-most-shorted-stocks-goldman-sachs.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "UK Selects Firms for Stablecoin Regulatory Sandbox, Including Revolut",
-      "summary": "The four firms will now have free reign to experiment in a program that will inform final UK stablecoin rules set to be released later this year.",
-      "url": "https://decrypt.co/359123/uk-selects-firms-stablecoin-regulatory-sandbox-revolut",
-      "publishedAt": "2026-02-25T17:02:39.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260225-uk-selects-firms-for-stablecoin-regulatory-sandbox-including-revolut",
-      "localUrl": "/news/20260225-uk-selects-firms-for-stablecoin-regulatory-sandbox-including-revolut.html"
-    },
-    {
       "source": "X Wire",
       "title": "The CLARITY Act will be a huge milestone for crypto and a huge achievement for @realDonaldTrump. I was championing a similar bill to get crypto out of Gensler's hands when Gensler helped Biden's DOJ put me behind bars. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wZXBLSEotcDQ5Wjk2X3hpd2UwWVhVUjRoMDRScmxaajFBbU9pVnFKajlYYVRtNjhJQUZrRXZkSFMxVEpNSDdvTndRSkotSGNTVHpjYVNVcWpKVzh6?oc=5\" target=\"_blank\">The CLARITY Act will be a huge milestone f…",
@@ -1118,17 +1140,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨LATEST: BITCOIN SURGES OVER $65,000 AS “10 AM MANIPULATION” REPORTEDLY STOPPED Bitcoin $BTC surged 3.5% past $65,000 hours after Jane Street, a key authorized participant for BlackRock and Fidelity's Bitcoin ETFs, was hit with a lawsuit. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE83Z05Ha0tpMDNiU29QbnJMOVJwUHE4YThqVnpkakhyb2puYk9QZFpYTURMcDZmdDhPaUxwa3o2bnZseTZrNXpkSHptUzNENWVZN0lsejRlbnBNUlh5?oc=5\" target=\"_blank\">🚨LATEST: BITCOIN SURGES OVER $65,000 AS “…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83Z05Ha0tpMDNiU29QbnJMOVJwUHE4YThqVnpkakhyb2puYk9QZFpYTURMcDZmdDhPaUxwa3o2bnZseTZrNXpkSHptUzNENWVZN0lsejRlbnBNUlh5?oc=5",
-      "publishedAt": "2026-02-25T05:06:27.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260225-latest-bitcoin-surges-over-65000-as-10-am-manipulation-reportedly-stopped-bitcoi",
-      "localUrl": "/news/20260225-latest-bitcoin-surges-over-65000-as-10-am-manipulation-reportedly-stopped-bitcoi.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Conviction compounds. Institutions don’t just talk about Bitcoin, they structure around it. Today, @Anchorage Digital has announced it holds $STRC, @Strategy’s perpetual preferred stock, on our balance sheet. When the company that operationalizes Bitcoin i - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVOXVnbC0td0FrSXZMNkJkR1ZoNEdRX0V5NnBEMWt2OFFuNEpPeHNqa1BLc2g5VnllRl9iQlpNRjM4ejlsWGRuRXJWcVNLeUllYzBSM2JOUGl3VnVIQkJlRXpLeVE1Zw?oc=5\" target=\"_blank\">Conviction compounds. Instit…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVOXVnbC0td0FrSXZMNkJkR1ZoNEdRX0V5NnBEMWt2OFFuNEpPeHNqa1BLc2g5VnllRl9iQlpNRjM4ejlsWGRuRXJWcVNLeUllYzBSM2JOUGl3VnVIQkJlRXpLeVE1Zw?oc=5",
@@ -1148,17 +1159,6 @@
       "category": "X热点",
       "slug": "20260225-fun-fact-el-salvador-gives-out-bitcoin-passports-to-tourists-visiting-the-countr",
       "localUrl": "/news/20260225-fun-fact-el-salvador-gives-out-bitcoin-passports-to-tourists-visiting-the-countr.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Defi is a central part of the value that Ethereum provides. Financial empowerment is a central part of what it means to have agency and freedom in our current world. Finance is far from the only thing that Ethereum is good for, but it is an important thing. This po - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yMHRKc0hWd0ZCWGx1X3lnV1FQVGRiY1VCdmZ3SzMwTV9iOTByUTlySlBIb21USlRXcG9OQ0lnQ2xPdU05eUM2ejJSeUUyN1dkdVNPVFR4TnYweVhvaWVBcUZaNXNWQQ?oc=5\" target=\"_blank\">Defi is a central part of th…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yMHRKc0hWd0ZCWGx1X3lnV1FQVGRiY1VCdmZ3SzMwTV9iOTByUTlySlBIb21USlRXcG9OQ0lnQ2xPdU05eUM2ejJSeUUyN1dkdVNPVFR4TnYweVhvaWVBcUZaNXNWQQ?oc=5",
-      "publishedAt": "2026-02-24T16:46:54.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260224-defi-is-a-central-part-of-the-value-that-ethereum-provides-financial-empowerment",
-      "localUrl": "/news/20260224-defi-is-a-central-part-of-the-value-that-ethereum-provides-financial-empowerment.html"
     },
     {
       "source": "Ethereum Blog",
