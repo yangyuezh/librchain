@@ -1,7 +1,83 @@
 {
-  "updatedAt": "2026-02-26T23:42:49.137Z",
-  "total": 85,
+  "updatedAt": "2026-02-27T02:50:36.565Z",
+  "total": 84,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin’s 100 BTC club edges toward 20K wallets in a ‘bullish sign’",
+      "summary": "Santiment highlighted that just seven more wallets are needed to reach 20,000 holding at least 100 Bitcoin each, amid ongoing market uncertainty.",
+      "url": "https://cointelegraph.com/news/bitcoin-large-wallet-holders-growing-bullish-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-27T02:24:37.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260227-bitcoins-100-btc-club-edges-toward-20k-wallets-in-a-bullish-sign",
+      "localUrl": "/news/20260227-bitcoins-100-btc-club-edges-toward-20k-wallets-in-a-bullish-sign.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic Won’t Lift AI Safeguards Amid Ongoing Pentagon Dispute: CEO",
+      "summary": "Anthropic CEO’s said the company will not comply with Defense Department demands as the Pentagon weighs whether to label the company a “supply chain risk.”",
+      "url": "https://decrypt.co/359358/anthropic-wont-lift-ai-safeguards-pentagon-dispute",
+      "publishedAt": "2026-02-27T00:33:58.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "市场",
+      "slug": "20260227-anthropic-wont-lift-ai-safeguards-amid-ongoing-pentagon-dispute-ceo",
+      "localUrl": "/news/20260227-anthropic-wont-lift-ai-safeguards-amid-ongoing-pentagon-dispute-ceo.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Meta’s AI Floods Child Abuse Investigators With 'Junk' Tips, Law Enforcement Officials Claim",
+      "summary": "ICAC officers say AI-generated reports are overwhelming investigators and slowing down cases as Meta disputes the claims.",
+      "url": "https://decrypt.co/359353/metas-ai-child-abuse-investigators-junk-tips",
+      "publishedAt": "2026-02-27T00:17:10.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260227-metas-ai-floods-child-abuse-investigators-with-junk-tips-law-enforcement-officia",
+      "localUrl": "/news/20260227-metas-ai-floods-child-abuse-investigators-with-junk-tips-law-enforcement-officia.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Suspects Arrested After South Korean Police Mishandle $1.4 Million in Bitcoin: Report",
+      "summary": "Police in South Korea didn't follow proper procedures and lost $1.4 million worth of confiscated Bitcoin, according to a local news report.",
+      "url": "https://decrypt.co/359317/suspects-arrested-south-korean-olice-mishandle-million-bitcoin",
+      "publishedAt": "2026-02-27T00:00:03.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260227-suspects-arrested-after-south-korean-police-mishandle-14-million-in-bitcoin-repo",
+      "localUrl": "/news/20260227-suspects-arrested-after-south-korean-police-mishandle-14-million-in-bitcoin-repo.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "The biggest question for crypto: will AI use it? Say an instance of ChatGPT, or Claude, wants more compute. Does it pay by wire transfer, credit card, or crypto? On the one hand, trad finance doesn't work well for AIs. Like—how do they KYC? They have no pass - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ET29HRERNTDl0SjgwQzFwc3VDQ2hBbWxqakdQaXBJY1RSNU9GZk1UeWJPVHB3a3ItQTlSLTRSQ3FJWmVlRWJZY1dORkE5c0lFUmRXenVHaU5qekln?oc=5\" target=\"_blank\">The biggest question for crypto: will AI u…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ET29HRERNTDl0SjgwQzFwc3VDQ2hBbWxqakdQaXBJY1RSNU9GZk1UeWJPVHB3a3ItQTlSLTRSQ3FJWmVlRWJZY1dORkE5c0lFUmRXenVHaU5qekln?oc=5",
+      "publishedAt": "2026-02-26T23:43:06.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260226-the-biggest-question-for-crypto-will-ai-use-it-say-an-instance-of-chatgpt-or-cla",
+      "localUrl": "/news/20260226-the-biggest-question-for-crypto-will-ai-use-it-say-an-instance-of-chatgpt-or-cla.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Vitalik Buterin Maps Quantum Upgrade to Ethereum to Replace Core Cryptography",
+      "summary": "Buterin has outlined a phased roadmap to replace four vulnerable components of Ethereum's cryptographic architecture.",
+      "url": "https://decrypt.co/359352/vitalik-buterin-maps-quantum-upgrade-ethereum",
+      "publishedAt": "2026-02-26T23:42:08.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "基础设施",
+      "slug": "20260226-vitalik-buterin-maps-quantum-upgrade-to-ethereum-to-replace-core-cryptography",
+      "localUrl": "/news/20260226-vitalik-buterin-maps-quantum-upgrade-to-ethereum-to-replace-core-cryptography.html"
+    },
     {
       "source": "Decrypt",
       "title": "'Private Bitcoin' to Launch on Starknet With Zcash-Like Features",
@@ -18,7 +94,7 @@
     {
       "source": "Cointelegraph",
       "title": "Jack Dorsey’s Block to cut 4,000 jobs in AI-driven restructuring",
-      "summary": "Bloomberg reported earlier this month that 10% of Block’s workforce could be cut during annual performance reviews as part of a broader overhaul.",
+      "summary": "In a shareholder letter, Dorsey said he expects other companies to follow suit soon and reduce headcount in the wake of AI advancements.",
       "url": "https://cointelegraph.com/news/jack-dorsey-block-cuts-4000-jobs-ai-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-02-26T22:50:18.000Z",
       "keywords": [
@@ -202,6 +278,17 @@
       "category": "基础设施",
       "slug": "20260226-here-is-why-ethereums-bold-new-plan-could-make-the-blockchain-giant-high-speed-i",
       "localUrl": "/news/20260226-here-is-why-ethereums-bold-new-plan-could-make-the-blockchain-giant-high-speed-i.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Magic Eden to sunset Bitcoin and EVM marketplaces as well as discontinuing support for it's multi-chain wallet. @MagicEden is expected to make an announcement of the wind down as early as Friday, sources tell Blockspace. 👇Full scoop below 👇 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE93NkE2REZGY1RUbjV4WVlKclM3MUxKR3dZUml1TEZfbVprenN0VTNNaW00eTdfcXN4dnpnaUR3ODhoblBHYUZvdV94QjFMcncwMGViV1JoVE0wNGZTTTY0UQ?oc=5\" target=\"_blank\">Magic Eden to sunset Bitcoin and EVM…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93NkE2REZGY1RUbjV4WVlKclM3MUxKR3dZUml1TEZfbVprenN0VTNNaW00eTdfcXN4dnpnaUR3ODhoblBHYUZvdV94QjFMcncwMGViV1JoVE0wNGZTTTY0UQ?oc=5",
+      "publishedAt": "2026-02-26T20:24:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260226-magic-eden-to-sunset-bitcoin-and-evm-marketplaces-as-well-as-discontinuing-suppo",
+      "localUrl": "/news/20260226-magic-eden-to-sunset-bitcoin-and-evm-marketplaces-as-well-as-discontinuing-suppo.html"
     },
     {
       "source": "Cointelegraph",
@@ -442,17 +529,6 @@
       "category": "基础设施",
       "slug": "20260226-coin-mixers-recovering-as-users-shift-to-new-platforms-cambridge-university",
       "localUrl": "/news/20260226-coin-mixers-recovering-as-users-shift-to-new-platforms-cambridge-university.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "💥BREAKING: Iran says they are ready for war. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6QzhETnZneHZILWE5WFA4a0pTamFBYkdoOHg1UkxCNjU3Tkh3MlZzd0RPbHFkUzF3SjVGSmRyT2o3U3V1MzZ0Qm4wT181TkpFQzJlR1JSYTRqQk9oNXJPWjZR?oc=5\" target=\"_blank\">💥BREAKING: Iran says they are rea…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6QzhETnZneHZILWE5WFA4a0pTamFBYkdoOHg1UkxCNjU3Tkh3MlZzd0RPbHFkUzF3SjVGSmRyT2o3U3V1MzZ0Qm4wT181TkpFQzJlR1JSYTRqQk9oNXJPWjZR?oc=5",
-      "publishedAt": "2026-02-26T17:09:16.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260226-breaking-iran-says-they-are-ready-for-war-xcom",
-      "localUrl": "/news/20260226-breaking-iran-says-they-are-ready-for-war-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -889,19 +965,6 @@
       "localUrl": "/news/20260226-mastercard-metamask-launch-us-crypto-card-debuting-in-new-york.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Grvt integrates Aave so traders can earn yield on perp collateral",
-      "summary": "DefiLlama data shows derivatives contribute heavily to DeFi’s $1 billion-plus quarterly revenue as lending and trading infrastructure converge.",
-      "url": "https://cointelegraph.com/news/grvt-aave-composable-yield-perp-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-26T14:00:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "DeFi",
-      "slug": "20260226-grvt-integrates-aave-so-traders-can-earn-yield-on-perp-collateral",
-      "localUrl": "/news/20260226-grvt-integrates-aave-so-traders-can-earn-yield-on-perp-collateral.html"
-    },
-    {
       "source": "X Wire",
       "title": "2/ Axiom is a crypto trading platform founded by Mist & Cal in 2024. After going through Y-Combinator's Winter 2025 batch, it quickly became one of the most profitable companies in the space, generating $390M+ in revenue to date. I was retained to investigat - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rZDVsWU1UMDYyS3Z2N3E5NVREaldtQV94RnZIUmFpM1dWMVVsUGZWWWZvdUhPaHpIczhOblFsZlFiSnY4dW90aWh2eUtfSUNTaFpqVzREcEM5SEdT?oc=5\" target=\"_blank\">2/ Axiom is a crypto trading platform foun…",
@@ -1007,17 +1070,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Everyone says bitcoin dumps at 10AM every day. I pulled the data, and it's not true. Since Jan 1, IBIT's cumulative return in the 10:00–10:30 window is +0.9%, and in the 10:00–10:15 window it's –1%. Noisy, not a systematic dump. More interesting: the perform - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRa2lJd2FvMzBZWFU1QkZ6alFVTWxsc0ozVC1KSjhKMjhNbUl2S191QWhobFZQQWo0VG53cjQ5OXltRXc3YU44RjBOR19fWHpPeDcwZU80OURCTEJGSmdOSWhR?oc=5\" target=\"_blank\">Everyone says bitcoin dumps at 10A…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRa2lJd2FvMzBZWFU1QkZ6alFVTWxsc0ozVC1KSjhKMjhNbUl2S191QWhobFZQQWo0VG53cjQ5OXltRXc3YU44RjBOR19fWHpPeDcwZU80OURCTEJGSmdOSWhR?oc=5",
-      "publishedAt": "2026-02-26T08:34:30.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260226-everyone-says-bitcoin-dumps-at-10am-every-day-i-pulled-the-data-and-its-not-true",
-      "localUrl": "/news/20260226-everyone-says-bitcoin-dumps-at-10am-every-day-i-pulled-the-data-and-its-not-true.html"
-    },
-    {
-      "source": "X Wire",
       "title": "🇬🇧 NEW: UK investors will be unable to buy crypto products in their ISAs from April after HMRC reclassified crypto ETNs to a wrapper that no mainstream platform currently offers. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2UWRvOHBnMjdvallyTndqOEdwd2xKa2NUcVAzOWtkZ1J6VmRvSlNMaGJGeWtlTG1VTl9LS1o0Umx5Y1lKWXVUZndtM0lxQkoyTTgtZWZmdElIYlhpS21lRTVSR2M?oc=5\" target=\"_blank\">🇬🇧 NEW: UK investors will be …",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2UWRvOHBnMjdvallyTndqOEdwd2xKa2NUcVAzOWtkZ1J6VmRvSlNMaGJGeWtlTG1VTl9LS1o0Umx5Y1lKWXVUZndtM0lxQkoyTTgtZWZmdElIYlhpS21lRTVSR2M?oc=5",
@@ -1026,19 +1078,6 @@
       "category": "X热点",
       "slug": "20260226-new-uk-investors-will-be-unable-to-buy-crypto-products-in-their-isas-from-april-",
       "localUrl": "/news/20260226-new-uk-investors-will-be-unable-to-buy-crypto-products-in-their-isas-from-april-.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "OCC Lays Out Framework for Regulated Stablecoins Under GENIUS Act",
-      "summary": "The proposal details how banks, nonbanks and foreign issuers could operate stablecoins under U.S. banking supervision.",
-      "url": "https://decrypt.co/359188/occ-framework-regulated-stablecoins-genius-act",
-      "publishedAt": "2026-02-26T05:37:12.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260226-occ-lays-out-framework-for-regulated-stablecoins-under-genius-act",
-      "localUrl": "/news/20260226-occ-lays-out-framework-for-regulated-stablecoins-under-genius-act.html"
     },
     {
       "source": "X Wire",
@@ -1050,45 +1089,6 @@
       "category": "X热点",
       "slug": "20260226-crypto-traders-fill-joke-cracks-up-trading-twitter-xcom",
       "localUrl": "/news/20260226-crypto-traders-fill-joke-cracks-up-trading-twitter-xcom.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "ETHZilla Drops Ethereum Treasury Label in Rebrand After Share Price Collapse",
-      "summary": "The move follows investor exits, asset sales and a retreat from holding Ethereum on the public company's balance sheet.",
-      "url": "https://decrypt.co/359186/ethzilla-ethereum-rebrand-share-price-collapse",
-      "publishedAt": "2026-02-26T03:34:44.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "基础设施",
-      "slug": "20260226-ethzilla-drops-ethereum-treasury-label-in-rebrand-after-share-price-collapse",
-      "localUrl": "/news/20260226-ethzilla-drops-ethereum-treasury-label-in-rebrand-after-share-price-collapse.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Jane Street Speculation Renews Scrutiny of Bitcoin ETF Market Mechanics",
-      "summary": "Online claims have drawn attention to how institutional middlemen hedge Bitcoin ETF shares, exposing a gap between inflows and spot buying.",
-      "url": "https://decrypt.co/359182/jane-street-speculation-bitcoin-etf-market-mechanics",
-      "publishedAt": "2026-02-26T01:57:24.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260226-jane-street-speculation-renews-scrutiny-of-bitcoin-etf-market-mechanics",
-      "localUrl": "/news/20260226-jane-street-speculation-renews-scrutiny-of-bitcoin-etf-market-mechanics.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Anthropic, OpenAI Dial Back Safety Language as AI Race Accelerates",
-      "summary": "Reports show both Anthropic and OpenAI are revising safety commitments amid surging investment and competition.",
-      "url": "https://decrypt.co/359179/anthropic-openai-dial-back-safety-language-ai-race",
-      "publishedAt": "2026-02-26T01:41:37.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260226-anthropic-openai-dial-back-safety-language-as-ai-race-accelerates",
-      "localUrl": "/news/20260226-anthropic-openai-dial-back-safety-language-as-ai-race-accelerates.html"
     },
     {
       "source": "Solana Blog",
@@ -1136,6 +1136,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Introducing strawmap, a strawman roadmap by EF Protocol. Believe in something. Believe in an Ethereum strawmap. Who is this for? The document, available at strawmap[.]org, is intended for advanced readers. It is a dense and technical resource primarily fo - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aZGp2bHFyRDVrMGtRcmFjSW5ncVRjZmc3aDE5aXlGQlFoc0gzQnJYN3JlX2k0VWUwOGJMX0JhaW5EbzFTeUZ2NjhiV1k1aTVhQUxSUGtVcVdHTVI5T0JtazRrcw?oc=5\" target=\"_blank\">Introducing strawmap, a strawman…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aZGp2bHFyRDVrMGtRcmFjSW5ncVRjZmc3aDE5aXlGQlFoc0gzQnJYN3JlX2k0VWUwOGJMX0JhaW5EbzFTeUZ2NjhiV1k1aTVhQUxSUGtVcVdHTVI5T0JtazRrcw?oc=5",
+      "publishedAt": "2026-02-25T20:27:33.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260225-introducing-strawmap-a-strawman-roadmap-by-ef-protocol-believe-in-something-beli",
+      "localUrl": "/news/20260225-introducing-strawmap-a-strawman-roadmap-by-ef-protocol-believe-in-something-beli.html"
+    },
+    {
+      "source": "X Wire",
       "title": "People who think that Bitcoin is going to zero are likely mistaken. The design is robust enough that it will continue to exist in perpetuity, barring some currently unforeseen breakdown in cryptography or a surprise 51% attack (even then, a fork would carry on I w - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CTWZOM3FoQmhNRzhHSy1LT3hMamRxa0R4eENiOWRMRG1oQzlYRklhdUFVMEtwTFZxOE5jZjhSRXpzMzJXNy12SDBVMlZGRkYzckZXOVU0SFRTb2NNVVNGM1BB?oc=5\" target=\"_blank\">People who think that Bitcoin is g…",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CTWZOM3FoQmhNRzhHSy1LT3hMamRxa0R4eENiOWRMRG1oQzlYRklhdUFVMEtwTFZxOE5jZjhSRXpzMzJXNy12SDBVMlZGRkYzckZXOVU0SFRTb2NNVVNGM1BB?oc=5",
@@ -1144,17 +1155,6 @@
       "category": "X热点",
       "slug": "20260225-people-who-think-that-bitcoin-is-going-to-zero-are-likely-mistaken-the-design-is",
       "localUrl": "/news/20260225-people-who-think-that-bitcoin-is-going-to-zero-are-likely-mistaken-the-design-is.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Conviction compounds. Institutions don’t just talk about Bitcoin, they structure around it. Today, @Anchorage Digital has announced it holds $STRC, @Strategy’s perpetual preferred stock, on our balance sheet. When the company that operationalizes Bitcoin i - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVOXVnbC0td0FrSXZMNkJkR1ZoNEdRX0V5NnBEMWt2OFFuNEpPeHNqa1BLc2g5VnllRl9iQlpNRjM4ejlsWGRuRXJWcVNLeUllYzBSM2JOUGl3VnVIQkJlRXpLeVE1Zw?oc=5\" target=\"_blank\">Conviction compounds. Instit…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVOXVnbC0td0FrSXZMNkJkR1ZoNEdRX0V5NnBEMWt2OFFuNEpPeHNqa1BLc2g5VnllRl9iQlpNRjM4ejlsWGRuRXJWcVNLeUllYzBSM2JOUGl3VnVIQkJlRXpLeVE1Zw?oc=5",
-      "publishedAt": "2026-02-25T00:16:24.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260225-conviction-compounds-institutions-dont-just-talk-about-bitcoin-they-structure-ar",
-      "localUrl": "/news/20260225-conviction-compounds-institutions-dont-just-talk-about-bitcoin-they-structure-ar.html"
     },
     {
       "source": "Ethereum Blog",
@@ -1168,19 +1168,6 @@
       "category": "监管",
       "slug": "20260224-treasury-staking-initiative",
       "localUrl": "/news/20260224-treasury-staking-initiative.html"
-    },
-    {
-      "source": "Ethereum Blog",
-      "title": "The Ethereum Foundation's Commitment to DeFi",
-      "summary": "DeFi isn't a speculative bet on the future. It's the inevitable evolution of finance, driven by a fundamental truth: financial autonomy is a right, not a privilege. And it's been a critical driver of Ethereum's growth and adoption. We want…",
-      "url": "https://blog.ethereum.org/en/2026/02/23/commitment-to-defi",
-      "publishedAt": "2026-02-23T00:00:00.000Z",
-      "keywords": [
-        "Ecosystem Development"
-      ],
-      "category": "基础设施",
-      "slug": "20260223-the-ethereum-foundations-commitment-to-defi",
-      "localUrl": "/news/20260223-the-ethereum-foundations-commitment-to-defi.html"
     }
   ]
 }
