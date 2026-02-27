@@ -1,11 +1,118 @@
 {
-  "updatedAt": "2026-02-27T13:21:54.673Z",
-  "total": 84,
+  "updatedAt": "2026-02-27T14:55:40.392Z",
+  "total": 85,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Amazon, Nvidia Flood OpenAI With Cash as ChatGPT Maker’s Valuation Hits $730 Billion",
+      "summary": "OpenAI just secured $110 billion in fresh investment, and announced additional collaborations with two of the big backers.",
+      "url": "https://decrypt.co/359401/amazon-nvidia-flood-openai-cash-valuation-730-billion",
+      "publishedAt": "2026-02-27T14:48:25.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260227-amazon-nvidia-flood-openai-with-cash-as-chatgpt-makers-valuation-hits-730-billio",
+      "localUrl": "/news/20260227-amazon-nvidia-flood-openai-with-cash-as-chatgpt-makers-valuation-hits-730-billio.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-27T14:25:52.000Z",
+      "keywords": [
+        "Trump memecoin",
+        "Solana memecoin",
+        "TRUMP token",
+        "Solana",
+        "SOL",
+        "Nova Labs",
+        "SEC",
+        "Securities and Exchange Commission",
+        "Crypto regulation",
+        "TRUMP rally",
+        "Bitcoin",
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260227-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260227-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CoinDesk 20 performance update: Solana (SOL) falls 4.2%, leading index lower",
+      "summary": "Ethereum (ETH), down 3.7% from Thursday, joined Solana (SOL) as an underperformer.",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/02/27/coindesk-20-performance-update-solana-sol-falls-4-2-leading-index-lower",
+      "publishedAt": "2026-02-27T14:17:41.000Z",
+      "keywords": [
+        "CoinDesk Indices",
+        "CoinDesk Indices",
+        "CoinDesk 20",
+        "charts",
+        "Prices",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260227-coindesk-20-performance-update-solana-sol-falls-42-leading-index-lower",
+      "localUrl": "/news/20260227-coindesk-20-performance-update-solana-sol-falls-42-leading-index-lower.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin threatens new breakdown as US PPI sends gold to 1-month high",
+      "summary": "Hotter US PPI inflation data boosted precious metals but punished Bitcoin bulls, with BTC price downside nearing 3% on the day.",
+      "url": "https://cointelegraph.com/news/bitcoin-threatens-new-breakdown-us-ppi-gold-1-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-27T14:10:13.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260227-bitcoin-threatens-new-breakdown-as-us-ppi-sends-gold-to-1-month-high",
+      "localUrl": "/news/20260227-bitcoin-threatens-new-breakdown-as-us-ppi-sends-gold-to-1-month-high.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korea’s tax office leaks wallet seed and loses $4.8M in seized tokens",
+      "summary": "South Korea’s National Tax Service reportedly published a wallet seed phrase in a press release, and tokens worth $4.8 million were swiftly drained in the latest custody blunder for the authorities.",
+      "url": "https://cointelegraph.com/news/south-korea-tax-office-leaked-wallet-seed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-27T14:06:16.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260227-south-koreas-tax-office-leaks-wallet-seed-and-loses-48m-in-seized-tokens",
+      "localUrl": "/news/20260227-south-koreas-tax-office-leaks-wallet-seed-and-loses-48m-in-seized-tokens.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "PayPal, MoonPay and M0 launch PYUSDx to let devs issue app-specific stablecoins",
+      "summary": "PYUSDx lets developers issue app-specific stablecoins backed by PayPal USD with fast launch, cross-chain support and branded token options.",
+      "url": "https://cointelegraph.com/news/paypal-moonpay-and-m0-launch-pyusdx-to-let-apps-create-their-own-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-02-27T14:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260227-paypal-moonpay-and-m0-launch-pyusdx-to-let-devs-issue-app-specific-stablecoins",
+      "localUrl": "/news/20260227-paypal-moonpay-and-m0-launch-pyusdx-to-let-devs-issue-app-specific-stablecoins.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "DC Scam Center Strike Force Crypto Seizures, Freezes Hit $580M",
+      "summary": "The seizures target Southeast Asian networks operating “pig butchering” scams from compounds in Burma, Cambodia and Laos.",
+      "url": "https://decrypt.co/359398/dc-scam-center-strike-force-crypto-seizures-freezes-hit-580m",
+      "publishedAt": "2026-02-27T13:53:35.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260227-dc-scam-center-strike-force-crypto-seizures-freezes-hit-580m",
+      "localUrl": "/news/20260227-dc-scam-center-strike-force-crypto-seizures-freezes-hit-580m.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "UK gambling regulator weighs allowing crypto payments for online betting",
-      "summary": "Any rollout would still require strict affordability and suitability checks, and crypto activity would need FCA authorization, Gambling Commission chief Tim Miller said.",
+      "summary": "Any rollout would still require strict affordability and suitability checks, and crypto activity would need FCA authorization, Gambling Commission executive Tim Miller said.",
       "url": "https://cointelegraph.com/news/uk-gambling-watchdog-allow-crypto-payments-fca-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-02-27T13:17:46.000Z",
       "keywords": [
@@ -163,17 +270,6 @@
       "localUrl": "/news/20260227-germanys-allunity-issues-regulated-stablecoin-tied-to-safe-haven-swiss-franc.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: $8,700,000,000 worth of Bitcoin & Ethereum options expire today. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZelZiLWR0cHZXM0ZKMTJHQnJ4REhxVGVxZHpVeDVwR21URmFNbkNnRFI1Y2s2bVh6a3hDcmhXN29RTFFGaHNUcmJhZjhUUGQ5WXhvbGlRb19OZC10ZmlfVHZR?oc=5\" target=\"_blank\">JUST IN: $8,700,000,000 worth of B…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZelZiLWR0cHZXM0ZKMTJHQnJ4REhxVGVxZHpVeDVwR21URmFNbkNnRFI1Y2s2bVh6a3hDcmhXN29RTFFGaHNUcmJhZjhUUGQ5WXhvbGlRb19OZC10ZmlfVHZR?oc=5",
-      "publishedAt": "2026-02-27T10:13:45.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260227-just-in-8700000000-worth-of-bitcoin-ethereum-options-expire-today-xcom",
-      "localUrl": "/news/20260227-just-in-8700000000-worth-of-bitcoin-ethereum-options-expire-today-xcom.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. spot bitcoin ETFs set for biggest week in 6 after adding $1.1 billion in three days",
       "summary": "The inflows coincide with a rebound in the Coinbase Premium index, signaling renewed U.S. demand.",
@@ -190,6 +286,17 @@
       "category": "监管",
       "slug": "20260227-us-spot-bitcoin-etfs-set-for-biggest-week-in-6-after-adding-11-billion-in-three-",
       "localUrl": "/news/20260227-us-spot-bitcoin-etfs-set-for-biggest-week-in-6-after-adding-11-billion-in-three-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: BlackRock's spot #Bitcoin ETF bought $275.8 million worth of BTC yesterday. BULLISH 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwWm5uV3hETy1pYUdMTlQ5MkE1Nm05bHBnSFRiRUM4OTNJaGYyanhIdHJETjY0Zzl5UnRNdWxDWHpJVWRqVnp2RFJoTkQ3NXhWZHc0OHJiR1BjZUp6UXNPOFJfYnRiOVk?oc=5\" target=\"_blank\">JUST IN: BlackRock's spot #…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwWm5uV3hETy1pYUdMTlQ5MkE1Nm05bHBnSFRiRUM4OTNJaGYyanhIdHJETjY0Zzl5UnRNdWxDWHpJVWRqVnp2RFJoTkQ3NXhWZHc0OHJiR1BjZUp6UXNPOFJfYnRiOVk?oc=5",
+      "publishedAt": "2026-02-27T09:49:27.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260227-just-in-blackrocks-spot-bitcoin-etf-bought-2758-million-worth-of-btc-yesterday-b",
+      "localUrl": "/news/20260227-just-in-blackrocks-spot-bitcoin-etf-bought-2758-million-worth-of-btc-yesterday-b.html"
     },
     {
       "source": "Cointelegraph",
@@ -508,6 +615,19 @@
       "localUrl": "/news/20260227-suspects-arrested-after-south-korean-police-mishandle-14-million-in-bitcoin-repo.html"
     },
     {
+      "source": "Ethereum Blog",
+      "title": "This Is Fine (Until the Grant Runs Out)",
+      "summary": "The commons called. It wants a runway. Every so often, in the blockchain world’s usual cycle of funding scares, a team maintaining a widely used open source public good declares mayday. Libp2p is a core infrastructure stack that powers mul…",
+      "url": "https://blog.ethereum.org/en/2026/02/27/project-odin",
+      "publishedAt": "2026-02-27T00:00:00.000Z",
+      "keywords": [
+        "Funding Coordination"
+      ],
+      "category": "基础设施",
+      "slug": "20260227-this-is-fine-until-the-grant-runs-out",
+      "localUrl": "/news/20260227-this-is-fine-until-the-grant-runs-out.html"
+    },
+    {
       "source": "X Wire",
       "title": "The biggest question for crypto: will AI use it? Say an instance of ChatGPT, or Claude, wants more compute. Does it pay by wire transfer, credit card, or crypto? On the one hand, trad finance doesn't work well for AIs. Like—how do they KYC? They have no pass - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ET29HRERNTDl0SjgwQzFwc3VDQ2hBbWxqakdQaXBJY1RSNU9GZk1UeWJPVHB3a3ItQTlSLTRSQ3FJWmVlRWJZY1dORkE5c0lFUmRXenVHaU5qekln?oc=5\" target=\"_blank\">The biggest question for crypto: will AI u…",
@@ -545,19 +665,6 @@
       "localUrl": "/news/20260226-private-bitcoin-to-launch-on-starknet-with-zcash-like-features.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Jack Dorsey’s Block to cut 4,000 jobs in AI-driven restructuring",
-      "summary": "In a shareholder letter, Dorsey said he expects other companies to follow suit soon and reduce headcount in the wake of AI advancements.",
-      "url": "https://cointelegraph.com/news/jack-dorsey-block-cuts-4000-jobs-ai-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-26T22:50:18.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260226-jack-dorseys-block-to-cut-4000-jobs-in-ai-driven-restructuring",
-      "localUrl": "/news/20260226-jack-dorseys-block-to-cut-4000-jobs-in-ai-driven-restructuring.html"
-    },
-    {
       "source": "X Wire",
       "title": "It's ok that some AI developers don’t like crypto. Because their agents do. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE93T3pPbXJrUjFxWjd1bDRmNDVvNGtKZGRVQXp2cUR0SDY5UzlJS2RRbnkxMklkbGUyYmxJLURsUnBaTnZxeTNvYjJ4Z2Q3ZE9yYTVPS1VDanhCXzQ?oc=5\" target=\"_blank\">It's ok that some AI developers don’t like …",
@@ -567,17 +674,6 @@
       "category": "X热点",
       "slug": "20260226-its-ok-that-some-ai-developers-dont-like-crypto-because-their-agents-do-xcom",
       "localUrl": "/news/20260226-its-ok-that-some-ai-developers-dont-like-crypto-because-their-agents-do-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin is now near one of the lowest readings ever on the Relative Strength Index 👀 Translation: Bitcoin is at historically oversold levels. Buy. The. Freaking. Dip. 👏 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1laFZCdk93Z1pHUURNSTZ3NktnUDNHdkRUUDlyYUxTbXdWRnU3dzZTX2ppOWQwZzg0dlFucTVpTTZnd0tCcFJtZDd2cC1vbjJFM1QyZVBkQzVMQWpoQTZxNldtWjR5UVk?oc=5\" target=\"_blank\">Bitcoin is now near one of …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1laFZCdk93Z1pHUURNSTZ3NktnUDNHdkRUUDlyYUxTbXdWRnU3dzZTX2ppOWQwZzg0dlFucTVpTTZnd0tCcFJtZDd2cC1vbjJFM1QyZVBkQzVMQWpoQTZxNldtWjR5UVk?oc=5",
-      "publishedAt": "2026-02-26T22:41:13.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260226-bitcoin-is-now-near-one-of-the-lowest-readings-ever-on-the-relative-strength-ind",
-      "localUrl": "/news/20260226-bitcoin-is-now-near-one-of-the-lowest-readings-ever-on-the-relative-strength-ind.html"
     },
     {
       "source": "Decrypt",
@@ -591,19 +687,6 @@
       "category": "市场",
       "slug": "20260226-block-stock-pops-as-jack-dorseys-bitcoin-payments-company-dumps-4000-jobs",
       "localUrl": "/news/20260226-block-stock-pops-as-jack-dorseys-bitcoin-payments-company-dumps-4000-jobs.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin futures and options markets flash caution as BTC chases $70K",
-      "summary": "Bitcoin bulls are chasing $70,000, but caution in futures and options markets may explain why the rally has struggled to gain traction.",
-      "url": "https://cointelegraph.com/news/bitcoin-futures-options-market-flash-caution-even-as-btc-chases-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-26T22:15:00.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "市场",
-      "slug": "20260226-bitcoin-futures-and-options-markets-flash-caution-as-btc-chases-70k",
-      "localUrl": "/news/20260226-bitcoin-futures-and-options-markets-flash-caution-as-btc-chases-70k.html"
     },
     {
       "source": "Decrypt",
@@ -668,32 +751,6 @@
       "localUrl": "/news/20260226-someones-looking-for-a-pardon-senators-rebuke-sam-bankman-frieds-crypto-bill-sup.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "US lawmakers move to protect blockchain devs from prosecution",
-      "summary": "The industry-supported Promoting Innovation in Blockchain Development Act could be a solution by Congress to push back against criminalizing writing code.",
-      "url": "https://cointelegraph.com/news/us-lawmakers-bill-blockchain-developer-protection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-26T21:29:05.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260226-us-lawmakers-move-to-protect-blockchain-devs-from-prosecution",
-      "localUrl": "/news/20260226-us-lawmakers-move-to-protect-blockchain-devs-from-prosecution.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "ETH’s next big move depends on daily close above $2.1K: Data",
-      "summary": "ETH bulls briefly pressed the price above the $2,000 level, but will a positive funding rate and increase in holder profitability generate sufficient momentum to hold the level?",
-      "url": "https://cointelegraph.com/news/eth-s-next-big-move-depends-on-daily-close-above-dollar2-1k-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-26T21:15:00.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "市场",
-      "slug": "20260226-eths-next-big-move-depends-on-daily-close-above-21k-data",
-      "localUrl": "/news/20260226-eths-next-big-move-depends-on-daily-close-above-21k-data.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Morgan Stanley 'Absolutely' Plans to Offer Bitcoin Custody, Trading, Yield and Lending: Exec",
       "summary": "Morgan Stanley wants to let clients custody and trade Bitcoin—and it's building the tech itself.",
@@ -740,17 +797,6 @@
       "category": "基础设施",
       "slug": "20260226-here-is-why-ethereums-bold-new-plan-could-make-the-blockchain-giant-high-speed-i",
       "localUrl": "/news/20260226-here-is-why-ethereums-bold-new-plan-could-make-the-blockchain-giant-high-speed-i.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Magic Eden to sunset Bitcoin and EVM marketplaces as well as discontinuing support for it's multi-chain wallet. @MagicEden is expected to make an announcement of the wind down as early as Friday, sources tell Blockspace. 👇Full scoop below 👇 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE93NkE2REZGY1RUbjV4WVlKclM3MUxKR3dZUml1TEZfbVprenN0VTNNaW00eTdfcXN4dnpnaUR3ODhoblBHYUZvdV94QjFMcncwMGViV1JoVE0wNGZTTTY0UQ?oc=5\" target=\"_blank\">Magic Eden to sunset Bitcoin and EVM…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93NkE2REZGY1RUbjV4WVlKclM3MUxKR3dZUml1TEZfbVprenN0VTNNaW00eTdfcXN4dnpnaUR3ODhoblBHYUZvdV94QjFMcncwMGViV1JoVE0wNGZTTTY0UQ?oc=5",
-      "publishedAt": "2026-02-26T20:24:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260226-magic-eden-to-sunset-bitcoin-and-evm-marketplaces-as-well-as-discontinuing-suppo",
-      "localUrl": "/news/20260226-magic-eden-to-sunset-bitcoin-and-evm-marketplaces-as-well-as-discontinuing-suppo.html"
     },
     {
       "source": "CoinDesk",
@@ -909,23 +955,6 @@
       "localUrl": "/news/20260226-now-the-quantum-resistance-roadmap-today-four-things-in-ethereum-are-quantum-vul.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Florida man charged with running $328 million crypto Ponzi scheme",
-      "summary": "Prosecutors say Goliath Ventures’ Christopher Alexander Delgado raised hundreds of millions of dollars, promising investors guaranteed 3% to 8% monthly returns.",
-      "url": "https://www.coindesk.com/business/2026/02/26/florida-man-charged-with-running-usd328-million-crypto-ponzi-scheme",
-      "publishedAt": "2026-02-26T17:28:38.000Z",
-      "keywords": [
-        "Finance",
-        "crypto scams",
-        "United States",
-        "TRM Labs",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260226-florida-man-charged-with-running-328-million-crypto-ponzi-scheme",
-      "localUrl": "/news/20260226-florida-man-charged-with-running-328-million-crypto-ponzi-scheme.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Coin Mixers Recovering As Users Shift to New Platforms: Cambridge University",
       "summary": "Railgun is now the most widely used mixing protocol, although Tornado Cash has had a modest recovery since sanctions were lifted last year.",
@@ -974,30 +1003,6 @@
       "localUrl": "/news/20260226-just-in-indiana-lawmakers-approve-bill-that-will-allow-public-retirement-and-sav.html"
     },
     {
-      "source": "X Wire",
-      "title": "🚨JUST IN: @RepFitzgerald (R-WI), @RepBenCline (R-VA) and @RepZoeLofgren (D-CA) have just introduced the bipartisan Promoting Innovation in Blockchain Development Act of 2026, aimed at protecting software developers from being prosecuted under - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TMW5fc2g5RGhhVi0xeGdMVVkwN05OeWoyY1lyTWh3emFMMmZXTzZsVGtQeF9JZzFpSV9XVzdGQmY0V1F4YXQ1d1d3dGRENElMb1VJWVRNcGtGVXFVY3FKLW9hVXJlUQ?oc=5\" target=\"_blank\">🚨JUST IN: @RepFitzgerald (R…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TMW5fc2g5RGhhVi0xeGdMVVkwN05OeWoyY1lyTWh3emFMMmZXTzZsVGtQeF9JZzFpSV9XVzdGQmY0V1F4YXQ1d1d3dGRENElMb1VJWVRNcGtGVXFVY3FKLW9hVXJlUQ?oc=5",
-      "publishedAt": "2026-02-26T15:40:11.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260226-just-in-repfitzgerald-r-wi-repbencline-r-va-and-repzoelofgren-d-ca-have-just-int",
-      "localUrl": "/news/20260226-just-in-repfitzgerald-r-wi-repbencline-r-va-and-repzoelofgren-d-ca-have-just-int.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Y Combinator-Backed Axiom Exchange Employees Accused of Insider Trading: ZachXBT",
-      "summary": "Multiple employees at Axiom, a non-custodial trading platform, allegedly engaged in insider trading, said blockchain investigator ZachXBT.",
-      "url": "https://decrypt.co/359223/y-combinator-backed-axiom-employees-accused-insider-trading-zachxbt",
-      "publishedAt": "2026-02-26T15:38:37.000Z",
-      "keywords": [
-        "DeFi"
-      ],
-      "category": "DeFi",
-      "slug": "20260226-y-combinator-backed-axiom-exchange-employees-accused-of-insider-trading-zachxbt",
-      "localUrl": "/news/20260226-y-combinator-backed-axiom-exchange-employees-accused-of-insider-trading-zachxbt.html"
-    },
-    {
       "source": "Chainalysis Blog",
       "title": "OKX Adopts Chainalysis Alterya to Stop Fraud Before It Happens",
       "summary": "OKX and Chainalysis today announced an expansion of their relationship focused on proactive fraud and scam prevention. Building on OKX’s… The post OKX Adopts Chainalysis Alterya to Stop Fraud Before It Happens appeared first on Chainalysis…",
@@ -1016,20 +1021,6 @@
       "category": "监管",
       "slug": "20260226-okx-adopts-chainalysis-alterya-to-stop-fraud-before-it-happens",
       "localUrl": "/news/20260226-okx-adopts-chainalysis-alterya-to-stop-fraud-before-it-happens.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Goliath Ventures CEO Arrested Over $328M Crypto ‘Ponzi Scheme’",
-      "summary": "Christopher Alexander Delgado was charged on counts of wire fraud and money laundering that carry a maximum sentence of 30 years in prison.",
-      "url": "https://decrypt.co/359211/goliath-ventures-ceo-arrested-over-328m-crypto-ponzi-scheme",
-      "publishedAt": "2026-02-26T14:19:06.000Z",
-      "keywords": [
-        "uniswap",
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260226-goliath-ventures-ceo-arrested-over-328m-crypto-ponzi-scheme",
-      "localUrl": "/news/20260226-goliath-ventures-ceo-arrested-over-328m-crypto-ponzi-scheme.html"
     },
     {
       "source": "X Wire",
@@ -1087,14 +1078,25 @@
     },
     {
       "source": "X Wire",
-      "title": "🇬🇧 NEW: UK investors will be unable to buy crypto products in their ISAs from April after HMRC reclassified crypto ETNs to a wrapper that no mainstream platform currently offers. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2UWRvOHBnMjdvallyTndqOEdwd2xKa2NUcVAzOWtkZ1J6VmRvSlNMaGJGeWtlTG1VTl9LS1o0Umx5Y1lKWXVUZndtM0lxQkoyTTgtZWZmdElIYlhpS21lRTVSR2M?oc=5\" target=\"_blank\">🇬🇧 NEW: UK investors will be …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2UWRvOHBnMjdvallyTndqOEdwd2xKa2NUcVAzOWtkZ1J6VmRvSlNMaGJGeWtlTG1VTl9LS1o0Umx5Y1lKWXVUZndtM0lxQkoyTTgtZWZmdElIYlhpS21lRTVSR2M?oc=5",
-      "publishedAt": "2026-02-26T06:30:21.000Z",
+      "title": "💥BREAKING: 🇺🇸 $2.5 trillion Citi Bank announces it will integrate Bitcoin this year. “We’re making BTC bankable.” - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QQXc4enN0RF9oXzcyWjdPcThRS1ZPOXluZk10WEFPcUlZQlRXVGVBNGtoMnBTbW82bnhUNWJCLTZPVUdMbFdZUGgzU3lOWXMyZUgwaUpYa21tM2VfV3cyTDJB?oc=5\" target=\"_blank\">💥BREAKING: 🇺🇸 $2.5 trillion Cit…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QQXc4enN0RF9oXzcyWjdPcThRS1ZPOXluZk10WEFPcUlZQlRXVGVBNGtoMnBTbW82bnhUNWJCLTZPVUdMbFdZUGgzU3lOWXMyZUgwaUpYa21tM2VfV3cyTDJB?oc=5",
+      "publishedAt": "2026-02-26T09:08:00.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260226-new-uk-investors-will-be-unable-to-buy-crypto-products-in-their-isas-from-april-",
-      "localUrl": "/news/20260226-new-uk-investors-will-be-unable-to-buy-crypto-products-in-their-isas-from-april-.html"
+      "slug": "20260226-breaking-25-trillion-citi-bank-announces-it-will-integrate-bitcoin-this-year-wer",
+      "localUrl": "/news/20260226-breaking-25-trillion-citi-bank-announces-it-will-integrate-bitcoin-this-year-wer.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Bitcoin ETFs bought $506.6 million worth of Bitcoin yesterday. BULLISH 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zZDBTVFc1TG5oaVd2Wmp3TFVWSnpXZ3FQdW1HWDdyUDB1eWJtV1N4QnpfYkFVMWJYNE1VTTlORTAybU85RkpVZ2JETm9sOXFiWTVPMVI4X1RDN3NhdnNvYTU3VUg4VGc?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Bitcoin ETFs …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zZDBTVFc1TG5oaVd2Wmp3TFVWSnpXZ3FQdW1HWDdyUDB1eWJtV1N4QnpfYkFVMWJYNE1VTTlORTAybU85RkpVZ2JETm9sOXFiWTVPMVI4X1RDN3NhdnNvYTU3VUg4VGc?oc=5",
+      "publishedAt": "2026-02-26T08:59:47.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260226-just-in-bitcoin-etfs-bought-5066-million-worth-of-bitcoin-yesterday-bullish-xcom",
+      "localUrl": "/news/20260226-just-in-bitcoin-etfs-bought-5066-million-worth-of-bitcoin-yesterday-bullish-xcom.html"
     },
     {
       "source": "Solana Blog",
@@ -1128,6 +1130,28 @@
       "category": "X热点",
       "slug": "20260225-a-very-important-document-lets-walk-through-this-one-goal-at-a-time-well-start-w",
       "localUrl": "/news/20260225-a-very-important-document-lets-walk-through-this-one-goal-at-a-time-well-start-w.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Payy is built on Ethereum. @payy_link is a privacy-first stablecoin chain designed so your transactions aren’t exposed to the world. It brings programmable payments to Ethereum, without sacrificing privacy by default. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YaUxzTjlVLTdOU2JNTk8ta1pkX2NnZzhxV1VQeE1YNm4tZUlFelZsUE9nV3puTzlSblpSc0ktVDZOTEpBNVRMeWROYTdyT1lsN2ZBcmtvQjJpeDd5d0E?oc=5\" target=\"_blank\">Payy is built on Ethereum. @payy_link i…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YaUxzTjlVLTdOU2JNTk8ta1pkX2NnZzhxV1VQeE1YNm4tZUlFelZsUE9nV3puTzlSblpSc0ktVDZOTEpBNVRMeWROYTdyT1lsN2ZBcmtvQjJpeDd5d0E?oc=5",
+      "publishedAt": "2026-02-25T18:08:01.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260225-payy-is-built-on-ethereum-payy_link-is-a-privacy-first-stablecoin-chain-designed",
+      "localUrl": "/news/20260225-payy-is-built-on-ethereum-payy_link-is-a-privacy-first-stablecoin-chain-designed.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "People who think that Bitcoin is going to zero are likely mistaken. The design is robust enough that it will continue to exist in perpetuity, barring some currently unforeseen breakdown in cryptography or a surprise 51% attack (even then, a fork would carry on I w - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CTWZOM3FoQmhNRzhHSy1LT3hMamRxa0R4eENiOWRMRG1oQzlYRklhdUFVMEtwTFZxOE5jZjhSRXpzMzJXNy12SDBVMlZGRkYzckZXOVU0SFRTb2NNVVNGM1BB?oc=5\" target=\"_blank\">People who think that Bitcoin is g…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CTWZOM3FoQmhNRzhHSy1LT3hMamRxa0R4eENiOWRMRG1oQzlYRklhdUFVMEtwTFZxOE5jZjhSRXpzMzJXNy12SDBVMlZGRkYzckZXOVU0SFRTb2NNVVNGM1BB?oc=5",
+      "publishedAt": "2026-02-25T13:11:59.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260225-people-who-think-that-bitcoin-is-going-to-zero-are-likely-mistaken-the-design-is",
+      "localUrl": "/news/20260225-people-who-think-that-bitcoin-is-going-to-zero-are-likely-mistaken-the-design-is.html"
     },
     {
       "source": "Ethereum Blog",
