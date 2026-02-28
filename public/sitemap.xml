@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-28T13:47:25.682Z</lastmod>
+    <lastmod>2026-02-28T14:36:10.159Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-28T13:47:25.682Z</lastmod>
+    <lastmod>2026-02-28T14:36:10.159Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260228-buying-bitcoin-hold-for-at-least-three-years-to-avoid-losses-data-says.html</loc>
+    <lastmod>2026-02-28T14:00:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260228-heres-what-happened-in-crypto-today.html</loc>
@@ -49,7 +55,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260228-bitcoin-sets-up-potential-short-squeeze-as-funding-plunges-to-6.html</loc>
+    <loc>https://www.librchain.com/news/20260228-bitcoin-sets-up-potential-short-squeeze-as-funding-rate-plunges-to-three-month-l.html</loc>
     <lastmod>2026-02-28T11:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -111,12 +117,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260228-israel-just-launched-a-missile-on-my-portfolio-xcom.html</loc>
     <lastmod>2026-02-28T06:42:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260228-breaking-bitcoin-falls-below-64000-as-israel-launches-strikes-on-iran-over-100-m.html</loc>
-    <lastmod>2026-02-28T06:36:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -301,12 +301,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260227-minnesota-to-weigh-ban-on-crypto-kiosks-after-scam-reports.html</loc>
-    <lastmod>2026-02-27T17:17:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260227-bitcoins-rebound-cancelled-as-us-stocks-fall-gold-surges-amid-mounting-macro-ris.html</loc>
     <lastmod>2026-02-27T17:09:10.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -381,12 +375,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260227-bitcoin-falls-with-ether-solana-while-decred-ai-linked-tokens-advance.html</loc>
     <lastmod>2026-02-27T11:49:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260227-crash-bitcoin-breaks-below-66000-xcom.html</loc>
-    <lastmod>2026-02-27T11:47:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -511,8 +499,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260226-just-in-bitcoin-etfs-bought-5066-million-worth-of-bitcoin-yesterday-bullish-xcom.html</loc>
+    <lastmod>2026-02-26T08:59:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260226-webinar-recap-payments-on-solana-a-production-ready-ecosystem.html</loc>
     <lastmod>2026-02-26T00:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260225-just-in-google-searches-for-how-to-buy-bitcoin-are-now-at-a-5-year-high-xcom.html</loc>
+    <lastmod>2026-02-25T22:23:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
