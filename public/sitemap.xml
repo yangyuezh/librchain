@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-28T10:37:51.417Z</lastmod>
+    <lastmod>2026-02-28T11:30:09.946Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-28T10:37:51.417Z</lastmod>
+    <lastmod>2026-02-28T11:30:09.946Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260228-bitcoin-sets-up-potential-short-squeeze-as-funding-plunges-to-6.html</loc>
+    <lastmod>2026-02-28T11:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260228-bitcoin-could-see-further-downside-risks-as-iran-attacks-us-bases-across-middle-.html</loc>
@@ -43,8 +49,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260228-breaking-bitcoin-just-dumped-2500-in-45-minutes-after-israel-launched-an-attack-.html</loc>
-    <lastmod>2026-02-28T07:04:49.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260228-market-slump-over-75b-wiped-from-crypto-in-60-minutes-as-us-israel-attacks-iran-.html</loc>
+    <lastmod>2026-02-28T07:14:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -73,6 +79,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260228-breaking-blackrock-sells-33000000-worth-of-bitcoin-xcom.html</loc>
+    <lastmod>2026-02-28T05:26:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260228-mt-goxs-former-ceo-floats-hard-fork-to-recover-80k-hacked-bitcoin.html</loc>
     <lastmod>2026-02-28T04:59:48.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -87,6 +99,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260228-morgan-stanley-applies-for-occ-bank-charter-to-custody-crypto.html</loc>
     <lastmod>2026-02-28T02:05:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260228-patrickjwitt-is-doing-an-amazing-job-brokering-a-compromise-between-the-banks-an.html</loc>
+    <lastmod>2026-02-28T00:50:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -307,6 +325,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260227-barclays-explores-blockchain-for-payments-barclays-is-evaluating-a-blockchain-pl.html</loc>
+    <lastmod>2026-02-27T14:03:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260227-dc-scam-center-strike-force-crypto-seizures-freezes-hit-580m.html</loc>
     <lastmod>2026-02-27T13:53:35.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -361,12 +385,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260227-just-in-8700000000-worth-of-bitcoin-ethereum-options-expire-today-xcom.html</loc>
-    <lastmod>2026-02-27T10:13:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260227-us-spot-bitcoin-etfs-set-for-biggest-week-in-6-after-adding-11-billion-in-three-.html</loc>
     <lastmod>2026-02-27T10:05:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -379,26 +397,20 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260227-wow-google-searches-for-how-to-buy-bitcoin-are-closing-in-on-2017-all-time-highs.html</loc>
-    <lastmod>2026-02-27T09:42:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260227-bitcoin-etf-holders-and-treasury-firms-stack-protection-against-price-crash-belo.html</loc>
     <lastmod>2026-02-27T06:42:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260227-polymarket-bettors-appear-to-have-insider-traded-on-a-market-designed-to-catch-i.html</loc>
-    <lastmod>2026-02-27T05:43:17.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260227-elizabeth-warren-occ-chief-spar-over-trump-linked-crypto-bank-bid.html</loc>
+    <lastmod>2026-02-27T05:41:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260227-elizabeth-warren-occ-chief-spar-over-trump-linked-crypto-bank-bid.html</loc>
-    <lastmod>2026-02-27T05:41:57.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260227-today-beast-industries-ceo-says-ethereum-is-the-backbone-of-stablecoin-and-block.html</loc>
+    <lastmod>2026-02-27T04:30:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -457,8 +469,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260226-bitcoin-is-about-to-hit-a-milestone-surpassing-20000-wallets-with-at-least-100-b.html</loc>
-    <lastmod>2026-02-26T19:34:19.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260226-the-conspiracy-theories-are-wild-first-it-was-binance-and-then-it-was-wintermute.html</loc>
+    <lastmod>2026-02-26T19:43:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -481,20 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260226-just-in-eric-trump-shows-off-their-american-bitcoin-mining-facility-says-they-in.html</loc>
-    <lastmod>2026-02-26T13:34:23.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260226-total-ransomware-payments-stagnate-for-second-consecutive-year-while-attacks-esc.html</loc>
     <lastmod>2026-02-26T12:45:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260226-just-in-bitcoin-etfs-bought-5066-million-worth-of-bitcoin-yesterday-bullish-xcom.html</loc>
-    <lastmod>2026-02-26T08:59:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
