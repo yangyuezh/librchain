@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-28T16:39:39.024Z</lastmod>
+    <lastmod>2026-02-28T17:33:47.931Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-28T16:39:39.024Z</lastmod>
+    <lastmod>2026-02-28T17:33:47.931Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260228-bitcoin-recovers-following-plunge-as-us-israel-begin-bombing-iran.html</loc>
+    <lastmod>2026-02-28T17:24:59.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260228-banking-regulator-floats-new-stablecoin-yield-rulesdo-they-hurt-coinbase.html</loc>
@@ -39,12 +45,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260228-buying-bitcoin-hold-for-at-least-three-years-to-avoid-losses-data-says.html</loc>
     <lastmod>2026-02-28T14:00:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260228-breaking-bitcoin-officially-reclaims-65000-erasing-80-of-its-losses-since-the-us.html</loc>
-    <lastmod>2026-02-28T13:57:12.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -121,12 +121,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260228-market-slump-over-75b-wiped-from-crypto-in-60-minutes-as-us-israel-attacks-iran-.html</loc>
-    <lastmod>2026-02-28T07:14:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260228-iran-bombed-and-bitcoin-nuked-xcom.html</loc>
     <lastmod>2026-02-28T06:57:13.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -183,6 +177,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260228-bullish-bitcoin-is-approaching-20000-wallets-holding-at-least-100-btc-a-trend-of.html</loc>
     <lastmod>2026-02-28T02:00:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260228-patrickjwitt-is-doing-an-amazing-job-brokering-a-compromise-between-the-banks-an.html</loc>
+    <lastmod>2026-02-28T00:50:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -469,12 +469,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260226-vitalik-buterin-maps-quantum-upgrade-to-ethereum-to-replace-core-cryptography.html</loc>
-    <lastmod>2026-02-26T23:42:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260226-hal-finney-on-bitcoin-price-in-2011-every-day-that-goes-by-and-bitcoin-hasnt-col.html</loc>
     <lastmod>2026-02-26T19:58:39.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,6 +477,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260226-the-conspiracy-theories-are-wild-first-it-was-binance-and-then-it-was-wintermute.html</loc>
     <lastmod>2026-02-26T19:43:16.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260226-breaking-ai-agents-can-now-use-crypto-fully-autonomously-pay-trade-build-apps-in.html</loc>
+    <lastmod>2026-02-26T17:40:46.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -511,8 +511,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260225-just-in-google-searches-for-how-to-buy-bitcoin-are-now-at-a-5-year-high-xcom.html</loc>
-    <lastmod>2026-02-25T22:23:18.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260225-introducing-strawmap-a-strawman-roadmap-by-ef-protocol-believe-in-something-beli.html</loc>
+    <lastmod>2026-02-25T20:27:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
