@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-28T19:30:06.367Z</lastmod>
+    <lastmod>2026-02-28T20:37:22.799Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-28T19:30:06.367Z</lastmod>
+    <lastmod>2026-02-28T20:37:22.799Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260228-bitcoin-bottom-fractal-calls-for-130-rally-but-is-the-model-valid-in-2026.html</loc>
+    <lastmod>2026-02-28T20:29:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260228-bitcoin-is-stuck-in-a-rut-but-jpmorgan-says-new-legislation-could-be-the-ultimat.html</loc>
@@ -163,12 +169,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260228-breaking-bitcoin-just-dumped-2500-in-45-minutes-after-israel-launched-an-attack-.html</loc>
-    <lastmod>2026-02-28T07:04:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260228-bitcoin-nears-63000-as-us-and-israel-launch-strikes-on-iran.html</loc>
     <lastmod>2026-02-28T06:56:30.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -213,6 +213,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260228-bullish-bitcoin-is-approaching-20000-wallets-holding-at-least-100-btc-a-trend-of.html</loc>
     <lastmod>2026-02-28T02:00:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260228-patrickjwitt-is-doing-an-amazing-job-brokering-a-compromise-between-the-banks-an.html</loc>
+    <lastmod>2026-02-28T00:50:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -337,12 +343,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260227-why-yen-stablecoins-are-key-to-japans-crypto-ambitions.html</loc>
-    <lastmod>2026-02-27T18:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260227-ethereum-tokens-swiped-returned-after-south-korean-tax-service-publishes-wallet-.html</loc>
     <lastmod>2026-02-27T17:20:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -397,8 +397,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260227-barclays-explores-blockchain-for-payments-barclays-is-evaluating-a-blockchain-pl.html</loc>
-    <lastmod>2026-02-27T14:03:29.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260227-breaking-explosions-are-happening-in-iran-right-now-xcom.html</loc>
+    <lastmod>2026-02-27T14:21:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -481,14 +481,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260226-okx-adopts-chainalysis-alterya-to-stop-fraud-before-it-happens.html</loc>
-    <lastmod>2026-02-26T14:50:03.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260226-the-conspiracy-theories-are-wild-first-it-was-binance-and-then-it-was-wintermute.html</loc>
+    <lastmod>2026-02-26T19:43:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260226-just-in-eric-trump-shows-off-their-american-bitcoin-mining-facility-says-they-in.html</loc>
-    <lastmod>2026-02-26T13:34:23.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260226-okx-adopts-chainalysis-alterya-to-stop-fraud-before-it-happens.html</loc>
+    <lastmod>2026-02-26T14:50:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
