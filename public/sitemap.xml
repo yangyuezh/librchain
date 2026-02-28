@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-28T11:30:09.946Z</lastmod>
+    <lastmod>2026-02-28T13:05:30.655Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-28T11:30:09.946Z</lastmod>
+    <lastmod>2026-02-28T13:05:30.655Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260228-bitcoins-five-month-slide-why-btc-is-set-for-worst-losing-streak-since-2018.html</loc>
+    <lastmod>2026-02-28T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260228-why-institutions-still-prefer-ethereum-despite-faster-blockchains.html</loc>
+    <lastmod>2026-02-28T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260228-global-m2-money-supply-continues-to-expand-more-fiat-printing-is-good-for-bitcoi.html</loc>
+    <lastmod>2026-02-28T11:03:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260228-bitcoin-sets-up-potential-short-squeeze-as-funding-plunges-to-6.html</loc>
@@ -55,6 +73,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260228-iran-bombed-and-bitcoin-nuked-xcom.html</loc>
+    <lastmod>2026-02-28T06:57:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260228-bitcoin-nears-63000-as-us-and-israel-launch-strikes-on-iran.html</loc>
     <lastmod>2026-02-28T06:56:30.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -67,20 +91,14 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260228-israel-just-launched-a-missile-on-my-portfolio-xcom.html</loc>
+    <lastmod>2026-02-28T06:42:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260228-breaking-bitcoin-falls-below-64000-as-israel-launches-strikes-on-iran-over-100-m.html</loc>
     <lastmod>2026-02-28T06:36:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260228-breaking-israel-declares-immediate-state-of-emergency-across-the-entire-country-.html</loc>
-    <lastmod>2026-02-28T06:28:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260228-breaking-blackrock-sells-33000000-worth-of-bitcoin-xcom.html</loc>
-    <lastmod>2026-02-28T05:26:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -295,12 +313,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260227-barclays-probes-blockchain-for-banking-functions-like-payments-deposits-report.html</loc>
-    <lastmod>2026-02-27T16:00:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260227-just-in-historically-bitcoin-has-always-bottomed-23-months-after-its-previous-al.html</loc>
     <lastmod>2026-02-27T15:47:50.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -397,12 +409,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260227-bitcoin-etf-holders-and-treasury-firms-stack-protection-against-price-crash-belo.html</loc>
-    <lastmod>2026-02-27T06:42:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260227-elizabeth-warren-occ-chief-spar-over-trump-linked-crypto-bank-bid.html</loc>
     <lastmod>2026-02-27T05:41:57.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -477,12 +483,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260226-now-the-quantum-resistance-roadmap-today-four-things-in-ethereum-are-quantum-vul.html</loc>
     <lastmod>2026-02-26T17:35:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260226-just-in-repfitzgerald-r-wi-repbencline-r-va-and-repzoelofgren-d-ca-have-just-int.html</loc>
-    <lastmod>2026-02-26T15:40:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
