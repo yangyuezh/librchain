@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-28T07:37:15.902Z</lastmod>
+    <lastmod>2026-02-28T08:44:11.895Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-28T07:37:15.902Z</lastmod>
+    <lastmod>2026-02-28T08:44:11.895Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260228-bitcoin-price-drops-to-63k-as-us-israel-bomb-iran.html</loc>
+    <lastmod>2026-02-28T08:23:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260228-openai-wins-defense-contract-hours-after-government-ditches-anthropic.html</loc>
@@ -27,6 +33,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260228-market-the-total-crypto-market-just-lost-50b-in-the-past-hour-xcom.html</loc>
     <lastmod>2026-02-28T06:44:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260228-breaking-bitcoin-falls-below-64000-as-israel-launches-strikes-on-iran-over-100-m.html</loc>
+    <lastmod>2026-02-28T06:36:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -259,12 +271,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260227-crypto-taxes-updated-btc-stuck-below-70k-month-in-charts.html</loc>
-    <lastmod>2026-02-27T15:09:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260227-amazon-nvidia-flood-openai-with-cash-as-chatgpt-makers-valuation-hits-730-billio.html</loc>
     <lastmod>2026-02-27T14:48:25.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -301,14 +307,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260227-mara-and-block-jump-double-digits-in-pre-market-trading-while-coreweave-sinks.html</loc>
-    <lastmod>2026-02-27T10:49:19.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260227-crash-bitcoin-breaks-below-66000-xcom.html</loc>
+    <lastmod>2026-02-27T11:47:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260227-just-in-8700000000-in-bitcoin-ethereum-options-expire-xcom.html</loc>
-    <lastmod>2026-02-27T10:33:16.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260227-mara-and-block-jump-double-digits-in-pre-market-trading-while-coreweave-sinks.html</loc>
+    <lastmod>2026-02-27T10:49:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -439,8 +445,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260226-its-ok-that-some-ai-developers-dont-like-crypto-because-their-agents-do-xcom.html</loc>
+    <lastmod>2026-02-26T22:44:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260226-hal-finney-on-bitcoin-price-in-2011-every-day-that-goes-by-and-bitcoin-hasnt-col.html</loc>
     <lastmod>2026-02-26T19:58:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260226-the-conspiracy-theories-are-wild-first-it-was-binance-and-then-it-was-wintermute.html</loc>
+    <lastmod>2026-02-26T19:43:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,20 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260226-buy-bitcoin-google-search-volume-is-exploding-xcom.html</loc>
-    <lastmod>2026-02-26T09:36:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260226-just-in-bitcoin-etfs-bought-5066-million-worth-of-bitcoin-yesterday-bullish-xcom.html</loc>
     <lastmod>2026-02-26T08:59:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260226-jane-street-didnt-suppress-the-bitcoin-price-folks-hodlers-all-did-its-just-not-.html</loc>
-    <lastmod>2026-02-26T03:04:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -501,12 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260225-just-in-google-searches-for-how-to-buy-bitcoin-are-now-at-a-5-year-high-xcom.html</loc>
     <lastmod>2026-02-25T22:23:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260225-payy-is-built-on-ethereum-payy_link-is-a-privacy-first-stablecoin-chain-designed.html</loc>
-    <lastmod>2026-02-25T18:08:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
