@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-28T08:44:11.895Z</lastmod>
+    <lastmod>2026-02-28T09:37:52.360Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-28T08:44:11.895Z</lastmod>
+    <lastmod>2026-02-28T09:37:52.360Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -21,6 +21,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260228-openai-wins-defense-contract-hours-after-government-ditches-anthropic.html</loc>
     <lastmod>2026-02-28T07:16:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260228-breaking-bitcoin-just-dumped-2500-in-45-minutes-after-israel-launched-an-attack-.html</loc>
+    <lastmod>2026-02-28T07:04:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -445,20 +451,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260226-its-ok-that-some-ai-developers-dont-like-crypto-because-their-agents-do-xcom.html</loc>
-    <lastmod>2026-02-26T22:44:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260226-hal-finney-on-bitcoin-price-in-2011-every-day-that-goes-by-and-bitcoin-hasnt-col.html</loc>
     <lastmod>2026-02-26T19:58:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260226-the-conspiracy-theories-are-wild-first-it-was-binance-and-then-it-was-wintermute.html</loc>
-    <lastmod>2026-02-26T19:43:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -507,6 +501,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260225-just-in-google-searches-for-how-to-buy-bitcoin-are-now-at-a-5-year-high-xcom.html</loc>
     <lastmod>2026-02-25T22:23:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260225-payy-is-built-on-ethereum-payy_link-is-a-privacy-first-stablecoin-chain-designed.html</loc>
+    <lastmod>2026-02-25T18:08:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
