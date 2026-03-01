@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-01T19:31:57.270Z</lastmod>
+    <lastmod>2026-03-01T20:39:10.096Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-01T19:31:57.270Z</lastmod>
+    <lastmod>2026-03-01T20:39:10.096Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260301-the-best-ai-tools-that-actually-respect-your-privacy.html</loc>
+    <lastmod>2026-03-01T20:01:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260301-bitcoin-undervalued-relative-to-gold-signals-potential-rally-analyst.html</loc>
     <lastmod>2026-03-01T18:54:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260301-now-execution-layer-changes-ive-already-talked-about-account-abstraction-multidi.html</loc>
+    <lastmod>2026-03-01T17:22:29.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -87,6 +99,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260301-us-military-used-anthropic-in-iran-strike-despite-ban-order-by-trump-wsj.html</loc>
     <lastmod>2026-03-01T10:03:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260301-morgan-stanley-moves-to-become-a-crypto-bank-the-wall-street-giant-filed-for-a-n.html</loc>
+    <lastmod>2026-03-01T08:10:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -331,20 +349,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260228-market-the-total-crypto-market-just-lost-50b-in-the-past-hour-xcom.html</loc>
-    <lastmod>2026-02-28T06:44:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260228-breaking-bitcoin-falls-below-64000-as-israel-launches-strikes-on-iran-over-100-m.html</loc>
     <lastmod>2026-02-28T06:36:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260228-breaking-blackrock-sells-33000000-worth-of-bitcoin-xcom.html</loc>
-    <lastmod>2026-02-28T05:26:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -381,6 +387,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260227-bitcoin-rebound-stalls-at-65k-as-stocks-fall-and-gold-rises.html</loc>
     <lastmod>2026-02-27T19:33:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260227-why-is-bitcoin-facing-headwinds-right-now-xcom.html</loc>
+    <lastmod>2026-02-27T19:25:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -481,20 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260227-anthropic-wont-lift-ai-safeguards-amid-ongoing-pentagon-dispute-ceo.html</loc>
-    <lastmod>2026-02-27T00:33:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260227-this-is-fine-until-the-grant-runs-out.html</loc>
     <lastmod>2026-02-27T00:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260226-the-conspiracy-theories-are-wild-first-it-was-binance-and-then-it-was-wintermute.html</loc>
-    <lastmod>2026-02-26T19:43:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
