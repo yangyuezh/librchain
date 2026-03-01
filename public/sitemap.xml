@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-01T09:42:40.487Z</lastmod>
+    <lastmod>2026-03-01T10:41:27.949Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-01T09:42:40.487Z</lastmod>
+    <lastmod>2026-03-01T10:41:27.949Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260301-us-military-used-anthropic-in-iran-strike-despite-ban-order-by-trump-wsj.html</loc>
+    <lastmod>2026-03-01T10:03:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260301-ether-solana-xrp-surge-up-to-10-as-majors-recover-saturdays-war-driven-losses.html</loc>
@@ -343,12 +349,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260227-traders-may-rotate-into-bitcoin-if-ubs-bearish-us-stocks-view-comes-true.html</loc>
-    <lastmod>2026-02-27T20:27:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260227-anthropic-retires-claude-opus-3then-gives-it-a-blog-to-reflect-on-its-existence.html</loc>
     <lastmod>2026-02-27T20:00:40.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -381,12 +381,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260227-trump-media-weighs-truth-social-spinoff-following-bitcoin-crypto-etf-moves.html</loc>
     <lastmod>2026-02-27T18:33:13.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260227-just-in-m2-money-supply-hit-an-all-time-high-buy-bitcoin-prepare-accordingly-xco.html</loc>
-    <lastmod>2026-02-27T17:22:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -457,12 +451,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260227-today-beast-industries-ceo-says-ethereum-is-the-backbone-of-stablecoin-and-block.html</loc>
-    <lastmod>2026-02-27T04:30:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260227-mara-shares-rise-after-bitcoin-miner-strikes-ai-data-center-deal.html</loc>
     <lastmod>2026-02-27T03:00:57.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -471,6 +459,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260227-anthropic-wont-lift-ai-safeguards-amid-ongoing-pentagon-dispute-ceo.html</loc>
     <lastmod>2026-02-27T00:33:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260227-bullish-jpmorgan-says-crypto-markets-could-get-a-significant-boost-in-h2-2026-if.html</loc>
+    <lastmod>2026-02-27T00:30:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,6 +483,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260227-this-is-fine-until-the-grant-runs-out.html</loc>
     <lastmod>2026-02-27T00:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260226-hal-finney-on-bitcoin-price-in-2011-every-day-that-goes-by-and-bitcoin-hasnt-col.html</loc>
+    <lastmod>2026-02-26T19:58:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
