@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-01T03:22:13.945Z</lastmod>
+    <lastmod>2026-03-01T05:22:23.321Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-01T03:22:13.945Z</lastmod>
+    <lastmod>2026-03-01T05:22:23.321Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260301-bitcoin-recovers-to-68k-following-death-of-iranian-supreme-leader.html</loc>
+    <lastmod>2026-03-01T04:58:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260301-us-iran-war-attracts-600-million-bets-on-polymarket.html</loc>
+    <lastmod>2026-03-01T04:19:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260301-bitcoin-tops-68000-after-iran-confirms-leader-killed-in-us-israel-airstrikes.html</loc>
+    <lastmod>2026-03-01T03:36:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260301-ethereum-smart-accounts-are-finally-coming-within-a-year-vitalik-buterin.html</loc>
@@ -103,6 +121,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260228-latest-sec-chair-paul-atkins-called-crypto-regulation-under-gary-gensler-a-big-m.html</loc>
+    <lastmod>2026-02-28T14:57:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260228-former-mt-gox-ceo-proposed-a-rewrite-of-bitcoins-code-to-recover-5-billion-in-st.html</loc>
     <lastmod>2026-02-28T14:51:29.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -147,6 +171,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260228-why-institutions-still-prefer-ethereum-despite-faster-blockchains.html</loc>
     <lastmod>2026-02-28T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260228-global-m2-money-supply-continues-to-expand-more-fiat-printing-is-good-for-bitcoi.html</loc>
+    <lastmod>2026-02-28T11:03:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -217,12 +247,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260228-breaking-us-and-israel-carried-out-joint-attack-on-iran-united-stated-seems-to-b.html</loc>
-    <lastmod>2026-02-28T06:35:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260228-breaking-blackrock-sells-33000000-worth-of-bitcoin-xcom.html</loc>
     <lastmod>2026-02-28T05:26:41.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -231,12 +255,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260228-mt-goxs-former-ceo-floats-hard-fork-to-recover-80k-hacked-bitcoin.html</loc>
     <lastmod>2026-02-28T04:59:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260228-breaking-bitcoin-3-daily-death-cross-flashing-now-xcom.html</loc>
-    <lastmod>2026-02-28T04:45:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -313,12 +331,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260227-alchemy-introduces-autonomous-payment-rails-for-ai-agents-on-base.html</loc>
-    <lastmod>2026-02-27T20:15:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260227-anthropic-retires-claude-opus-3then-gives-it-a-blog-to-reflect-on-its-existence.html</loc>
     <lastmod>2026-02-27T20:00:40.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -375,18 +387,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260227-minnesota-weighs-total-ban-on-bitcoin-and-crypto-atms.html</loc>
     <lastmod>2026-02-27T16:39:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260227-vitalik-buterin-reveals-his-bold-new-plan-to-fix-ethereums-scaling-problem.html</loc>
-    <lastmod>2026-02-27T16:32:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260227-barclays-looks-for-tech-provider-for-new-blockchain-settlement-engine-bloomberg.html</loc>
-    <lastmod>2026-02-27T16:25:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
