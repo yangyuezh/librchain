@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-01T07:02:23.750Z</lastmod>
+    <lastmod>2026-03-01T07:44:37.550Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-01T07:02:23.750Z</lastmod>
+    <lastmod>2026-03-01T07:44:37.550Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260301-ether-solana-xrp-surge-up-to-10-as-majors-recover-saturdays-war-driven-losses.html</loc>
+    <lastmod>2026-03-01T07:25:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260301-6-polymarket-traders-net-1m-on-us-iran-strike-spark-insider-fears-report.html</loc>
+    <lastmod>2026-03-01T07:16:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260301-just-how-profitable-is-betting-on-bitcoins-price-on-polymarket-3-linked-wallets-.html</loc>
@@ -25,7 +37,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260301-us-iran-war-attracts-600-million-bets-on-polymarket.html</loc>
+    <loc>https://www.librchain.com/news/20260301-polymarket-attracts-record-trading-world-volumes-as-us-iran-bets-top-529-million.html</loc>
     <lastmod>2026-03-01T04:19:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -187,6 +199,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260228-global-m2-money-supply-continues-to-expand-more-fiat-printing-is-good-for-bitcoi.html</loc>
+    <lastmod>2026-02-28T11:03:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260228-bitcoin-sets-up-potential-short-squeeze-as-funding-rate-plunges-to-three-month-l.html</loc>
     <lastmod>2026-02-28T11:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -325,12 +343,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260227-crypto-biz-a-bitcoin-treasury-shareholder-revolt.html</loc>
-    <lastmod>2026-02-27T20:16:27.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260227-anthropic-retires-claude-opus-3then-gives-it-a-blog-to-reflect-on-its-existence.html</loc>
     <lastmod>2026-02-27T20:00:40.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -375,12 +387,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260227-ban-on-crypto-privacy-tools-would-be-counterproductive-uk-think-tank.html</loc>
     <lastmod>2026-02-27T17:20:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260227-bitcoins-rebound-cancelled-as-us-stocks-fall-gold-surges-amid-mounting-macro-ris.html</loc>
-    <lastmod>2026-02-27T17:09:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -435,12 +441,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260227-mara-shares-rise-after-bitcoin-miner-strikes-ai-data-center-deal.html</loc>
     <lastmod>2026-02-27T03:00:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260227-latest-us-lawmakers-introduced-the-bipartisan-promoting-innovation-in-blockchain.html</loc>
-    <lastmod>2026-02-27T01:00:23.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
