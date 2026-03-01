@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-01T11:31:20.401Z</lastmod>
+    <lastmod>2026-03-01T13:08:57.501Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-01T11:31:20.401Z</lastmod>
+    <lastmod>2026-03-01T13:08:57.501Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260301-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-01T12:59:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260301-tokenized-gold-leads-100-of-weekend-price-discovery-while-cme-futures-are-closed.html</loc>
+    <lastmod>2026-03-01T11:48:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260301-us-military-used-anthropic-in-iran-strike-despite-ban-order-by-trump-wsj.html</loc>
@@ -75,12 +87,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260301-just-in-bitcoin-reclaims-68000-after-iran-announces-the-death-of-supreme-leader-.html</loc>
     <lastmod>2026-03-01T02:06:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260228-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-02-28T22:04:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -337,12 +343,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260227-three-solana-data-points-highlight-resilience-but-is-sol-undervalued.html</loc>
-    <lastmod>2026-02-27T21:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260227-anthropic-retires-claude-opus-3then-gives-it-a-blog-to-reflect-on-its-existence.html</loc>
     <lastmod>2026-02-27T20:00:40.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -405,6 +405,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260227-amazon-nvidia-flood-openai-with-cash-as-chatgpt-makers-valuation-hits-730-billio.html</loc>
     <lastmod>2026-02-27T14:48:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260227-barclays-explores-blockchain-for-payments-barclays-is-evaluating-a-blockchain-pl.html</loc>
+    <lastmod>2026-02-27T14:03:29.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260226-okx-adopts-chainalysis-alterya-to-stop-fraud-before-it-happens.html</loc>
     <lastmod>2026-02-26T14:50:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260226-about-3-hours-before-zachxbt-revealed-the-crypto-company-accused-of-insider-trad.html</loc>
-    <lastmod>2026-02-26T14:15:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
