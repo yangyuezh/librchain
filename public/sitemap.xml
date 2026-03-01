@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-02-28T23:33:22.643Z</lastmod>
+    <lastmod>2026-03-01T03:22:13.945Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-02-28T23:33:22.643Z</lastmod>
+    <lastmod>2026-03-01T03:22:13.945Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260301-ethereum-smart-accounts-are-finally-coming-within-a-year-vitalik-buterin.html</loc>
+    <lastmod>2026-03-01T02:54:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260301-just-in-bitcoin-reclaims-68000-after-iran-announces-the-death-of-supreme-leader-.html</loc>
+    <lastmod>2026-03-01T02:06:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260228-heres-what-happened-in-crypto-today.html</loc>
@@ -181,12 +193,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260228-breaking-bitcoin-just-dumped-2500-in-45-minutes-after-israel-launched-an-attack-.html</loc>
-    <lastmod>2026-02-28T07:04:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260228-bitcoin-nears-63000-as-us-and-israel-launch-strikes-on-iran.html</loc>
     <lastmod>2026-02-28T06:56:30.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -225,6 +231,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260228-mt-goxs-former-ceo-floats-hard-fork-to-recover-80k-hacked-bitcoin.html</loc>
     <lastmod>2026-02-28T04:59:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260228-breaking-bitcoin-3-daily-death-cross-flashing-now-xcom.html</loc>
+    <lastmod>2026-02-28T04:45:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -309,12 +321,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260227-anthropic-retires-claude-opus-3then-gives-it-a-blog-to-reflect-on-its-existence.html</loc>
     <lastmod>2026-02-27T20:00:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260227-us-doj-seized-and-froze-580m-in-crypto-from-chinese-transnational-criminals.html</loc>
-    <lastmod>2026-02-27T19:51:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -423,12 +429,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260227-just-in-blackrocks-spot-bitcoin-etf-bought-2758-million-worth-of-btc-yesterday-b.html</loc>
     <lastmod>2026-02-27T09:49:27.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260227-wow-google-searches-for-how-to-buy-bitcoin-are-closing-in-on-2017-all-time-highs.html</loc>
-    <lastmod>2026-02-27T09:42:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
