@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-02T19:49:22.668Z</lastmod>
+    <lastmod>2026-03-02T20:50:38.275Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-02T19:49:22.668Z</lastmod>
+    <lastmod>2026-03-02T20:50:38.275Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260302-bitcoin-treasury-firm-procap-adds-31-million-in-btc-as-stock-buybacks-grow.html</loc>
+    <lastmod>2026-03-02T19:57:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260302-bitcoin-company-fold-pays-off-66m-debt-frees-up-btc-collateral.html</loc>
@@ -373,6 +379,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260302-huge-liquidity-at-both-sides-for-bitcoin-xcom.html</loc>
+    <lastmod>2026-03-02T08:58:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260302-anthropics-ai-used-in-iran-strikes-after-trump-moved-to-cut-ties-wsj.html</loc>
     <lastmod>2026-03-02T06:07:13.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -411,12 +423,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260302-what-the-iran-conflict-means-for-bitcoins-price.html</loc>
     <lastmod>2026-03-02T00:49:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260301-latest-vitalikbuterin-says-ethereum-needs-two-deep-execution-layer-overhauls-a-b.html</loc>
-    <lastmod>2026-03-01T21:48:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -469,20 +475,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260228-if-youd-like-to-see-less-politics-or-crypto-just-select-all-except-those-ones-th.html</loc>
-    <lastmod>2026-02-28T20:10:46.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260228-bitcoin-recovers-following-plunge-as-us-israel-begin-bombing-iran.html</loc>
     <lastmod>2026-02-28T17:24:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260228-banking-regulator-floats-new-stablecoin-yield-rulesdo-they-hurt-coinbase.html</loc>
-    <lastmod>2026-02-28T16:30:16.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260228-crypto-traders-flocked-to-the-hyperliquid-exchange-to-hedge-commodities-as-the-c.html</loc>
+    <lastmod>2026-02-28T14:04:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
