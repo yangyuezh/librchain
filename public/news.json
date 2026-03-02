@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-03-02T06:04:59.260Z",
+  "updatedAt": "2026-03-02T07:15:16.747Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, U.S. stock futures give up early gains as Iran conflict intensifies",
+      "summary": "Iran has reportedly stepped up attacks against U.S. assets in the middle east.",
+      "url": "https://www.coindesk.com/markets/2026/03/02/bitcoin-u-s-stock-futures-give-up-early-gains-as-iran-conflict-intensifies",
+      "publishedAt": "2026-03-02T07:12:10.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260302-bitcoin-us-stock-futures-give-up-early-gains-as-iran-conflict-intensifies",
+      "localUrl": "/news/20260302-bitcoin-us-stock-futures-give-up-early-gains-as-iran-conflict-intensifies.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin to see tailwinds if AI prompts ‘easier monetary policy’: NYDIG",
+      "summary": "NYDIG’s Greg Cipolaro says AI could be a “general-purpose technology,” and its effects on the economy could be a boon for Bitcoin.",
+      "url": "https://cointelegraph.com/news/bitcoin-tailwinds-ai-prompts-easier-monetary-policy-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-02T06:22:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260302-bitcoin-to-see-tailwinds-if-ai-prompts-easier-monetary-policy-nydig",
+      "localUrl": "/news/20260302-bitcoin-to-see-tailwinds-if-ai-prompts-easier-monetary-policy-nydig.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic's AI Used in Iran Strikes After Trump Moved to Cut Ties: WSJ",
+      "summary": "Claude was reportedly embedded in U.S. Central Command even as the White House ordered federal agencies to cut all ties with the company.",
+      "url": "https://decrypt.co/359577/anthropics-ai-iran-strikes-trump-moved-to-cut-ties",
+      "publishedAt": "2026-03-02T06:07:13.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260302-anthropics-ai-used-in-iran-strikes-after-trump-moved-to-cut-ties-wsj",
+      "localUrl": "/news/20260302-anthropics-ai-used-in-iran-strikes-after-trump-moved-to-cut-ties-wsj.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Over $9 billion flees bitcoin and ether ETFs in four months",
@@ -76,21 +117,21 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "February crypto losses hit lowest level since March 2025: PeckShield",
-      "summary": "PeckShield says the lack of large hacks, heightened market volatility, and tighter risk controls could all have played a part in crypto recording the lowest losses in nearly a year.",
+      "title": "February crypto losses hit lowest level since March 2025, says PeckShield",
+      "summary": "PeckShield said fewer mega-hacks, heightened volatility and tighter risk controls may have helped push crypto losses to their lowest level in 11 months.",
       "url": "https://cointelegraph.com/news/crypto-hack-losses-february-2026-peckshield-lowest-since-march-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-02T04:33:29.000Z",
       "keywords": [
         "Latest News"
       ],
       "category": "安全",
-      "slug": "20260302-february-crypto-losses-hit-lowest-level-since-march-2025-peckshield",
-      "localUrl": "/news/20260302-february-crypto-losses-hit-lowest-level-since-march-2025-peckshield.html"
+      "slug": "20260302-february-crypto-losses-hit-lowest-level-since-march-2025-says-peckshield",
+      "localUrl": "/news/20260302-february-crypto-losses-hit-lowest-level-since-march-2025-says-peckshield.html"
     },
     {
       "source": "Cointelegraph",
       "title": "Magic Eden winds down EVM, Bitcoin NFT markets to focus on gambling",
-      "summary": "Magic Edin is shifting resources from NFTs to its casino platform Dicey, after a closed beta saw $15 million wagered by around 200 users in two months.",
+      "summary": "Magic Eden is shifting resources from NFTs to its casino platform Dicey, after a closed beta saw $15 million wagered by around 200 users in two months.",
       "url": "https://cointelegraph.com/news/magic-eden-winds-down-evm-bitcoin-nft-markets-to-focus-on-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-02T04:20:57.000Z",
       "keywords": [
@@ -102,7 +143,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "AI ‘vibe coding’ could put Ethereum roadmap ahead of schedule: Vitalik",
+      "title": "AI ‘vibe coding’ could put Ethereum roadmap ahead of schedule: Vitalik Buterin",
       "summary": "Vitalik Buterin says AI coding still has “massive caveats,” but people should expect Ethereum’s roadmap to be finished much faster than expected.",
       "url": "https://cointelegraph.com/news/vitalik-says-vibe-coding-accelerate-ethereum-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-02T04:14:00.000Z",
@@ -110,8 +151,19 @@
         "Latest News"
       ],
       "category": "基础设施",
-      "slug": "20260302-ai-vibe-coding-could-put-ethereum-roadmap-ahead-of-schedule-vitalik",
-      "localUrl": "/news/20260302-ai-vibe-coding-could-put-ethereum-roadmap-ahead-of-schedule-vitalik.html"
+      "slug": "20260302-ai-vibe-coding-could-put-ethereum-roadmap-ahead-of-schedule-vitalik-buterin",
+      "localUrl": "/news/20260302-ai-vibe-coding-could-put-ethereum-roadmap-ahead-of-schedule-vitalik-buterin.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Starting March 1, ALL hourly employees earn a Bitcoin bonus of 21 cents per hour! 🧡 We also offer $1k contribution to Trump Accounts, supporting our employees ' children. 🇺🇸 We aim to be a Maximum-Wage Employer in our respective communities. We look - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yNWFnOTFpdkdsY0c4OWNpbjRGQ2phU1lHOFZVZ1FVanN3OXRpcnI3cGtnSDhWSzIxeUpQQ3dIZWF2MWh0NkQ3bW5QQkRCMTRvY2JNb3FSVmFheHJjZUJRZ2RR?oc=5\" target=\"_blank\">Starting March 1, ALL hourly emplo…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yNWFnOTFpdkdsY0c4OWNpbjRGQ2phU1lHOFZVZ1FVanN3OXRpcnI3cGtnSDhWSzIxeUpQQ3dIZWF2MWh0NkQ3bW5QQkRCMTRvY2JNb3FSVmFheHJjZUJRZ2RR?oc=5",
+      "publishedAt": "2026-03-02T04:11:45.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260302-starting-march-1-all-hourly-employees-earn-a-bitcoin-bonus-of-21-cents-per-hour-",
+      "localUrl": "/news/20260302-starting-march-1-all-hourly-employees-earn-a-bitcoin-bonus-of-21-cents-per-hour-.html"
     },
     {
       "source": "Decrypt",
@@ -127,8 +179,30 @@
       "localUrl": "/news/20260302-hyperliquids-token-rises-as-weekend-iran-shock-finds-few-open-markets.html"
     },
     {
+      "source": "X Wire",
+      "title": "💥BREAKING: Hezbollah leader allegedly assassinated 10 minutes after announcing entry into the war. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vbndoelc3d05MWGFTaGpManFvYkxJaDhkWjNGdW4tVkEwV0lWTUlnZWtXMDFhRTBYcTRIZ0pVMDRjZEJEdzA3dHZ6UEgxN0NtZmNydk5jdTBUUUtXWkNJbDl3?oc=5\" target=\"_blank\">💥BREAKING: Hezbollah leader alleg…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vbndoelc3d05MWGFTaGpManFvYkxJaDhkWjNGdW4tVkEwV0lWTUlnZWtXMDFhRTBYcTRIZ0pVMDRjZEJEdzA3dHZ6UEgxN0NtZmNydk5jdTBUUUtXWkNJbDl3?oc=5",
+      "publishedAt": "2026-03-02T03:17:49.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260302-breaking-hezbollah-leader-allegedly-assassinated-10-minutes-after-announcing-ent",
+      "localUrl": "/news/20260302-breaking-hezbollah-leader-allegedly-assassinated-10-minutes-after-announcing-ent.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇮🇷 Newl interim Supreme Leader Ayatollah Arafi has reportedly been killed in an airstrike. He was appointed just today. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WWUNNRkNhTXY1cGQ1RnhsZEJyaDlzMy1hOTRESzE3QWU2QkVweXh4VkdBOUUxYl9Hck5yMkRwdDJRMFl0T1IzdHczWmZQdDMtVU5zNEFhZWJwUzN1RVNMMlBn?oc=5\" target=\"_blank\">🇮🇷 Newl interim Supreme Leader A…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WWUNNRkNhTXY1cGQ1RnhsZEJyaDlzMy1hOTRESzE3QWU2QkVweXh4VkdBOUUxYl9Hck5yMkRwdDJRMFl0T1IzdHczWmZQdDMtVU5zNEFhZWJwUzN1RVNMMlBn?oc=5",
+      "publishedAt": "2026-03-02T03:13:54.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260302-newl-interim-supreme-leader-ayatollah-arafi-has-reportedly-been-killed-in-an-air",
+      "localUrl": "/news/20260302-newl-interim-supreme-leader-ayatollah-arafi-has-reportedly-been-killed-in-an-air.html"
+    },
+    {
       "source": "Cointelegraph",
-      "title": "Trump Media could spin out Truth Social amid crypto push",
+      "title": "Trump Media weighs Truth Social spinoff as crypto expansion accelerates",
       "summary": "Trump Media expanded into crypto in 2025 with its fintech brand Truth.Fi, creating a Bitcoin treasury, filing multiple crypto ETFs, and forming a partnership with Crypto.com.",
       "url": "https://cointelegraph.com/news/trump-media-considers-truth-social-spinout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-02T02:34:17.000Z",
@@ -136,8 +210,8 @@
         "Latest News"
       ],
       "category": "监管",
-      "slug": "20260302-trump-media-could-spin-out-truth-social-amid-crypto-push",
-      "localUrl": "/news/20260302-trump-media-could-spin-out-truth-social-amid-crypto-push.html"
+      "slug": "20260302-trump-media-weighs-truth-social-spinoff-as-crypto-expansion-accelerates",
+      "localUrl": "/news/20260302-trump-media-weighs-truth-social-spinoff-as-crypto-expansion-accelerates.html"
     },
     {
       "source": "Decrypt",
@@ -154,16 +228,16 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "X to label paid promotions but prohibits crypto promos in EU, UK",
-      "summary": "X head of product, Nikita Bier, says the paid promotions tag aims to encourage people to build their businesses on X while being transparent with their fan base.",
+      "title": "X allows paid crypto promotions but bans them in EU, UK",
+      "summary": "X’s head of product, Nikita Bier, said the new paid promotion label is designed to help users monetize content while remaining transparent with followers.",
       "url": "https://cointelegraph.com/news/x-lifts-crypto-promo-ban-for-paid-partnerships?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-02T00:37:08.000Z",
       "keywords": [
         "Latest News"
       ],
       "category": "综合",
-      "slug": "20260302-x-to-label-paid-promotions-but-prohibits-crypto-promos-in-eu-uk",
-      "localUrl": "/news/20260302-x-to-label-paid-promotions-but-prohibits-crypto-promos-in-eu-uk.html"
+      "slug": "20260302-x-allows-paid-crypto-promotions-but-bans-them-in-eu-uk",
+      "localUrl": "/news/20260302-x-allows-paid-crypto-promotions-but-bans-them-in-eu-uk.html"
     },
     {
       "source": "X Wire",
@@ -190,6 +264,17 @@
       "localUrl": "/news/20260301-kalshi-founder-provides-update-on-irans-khamenei-market-carveout.html"
     },
     {
+      "source": "X Wire",
+      "title": "💥BREAKING: 🇺🇸 President Trump says conflict with Iran could last 4 weeks. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE14Y2pBMXg3NnE2ZDdfa3dzRDZnMlJZLS04dGhBYmlYc09ZejZZVW5ZeDk3WWpueW9oQWV3em1odDdmRVNTLXVfZ2pXVF9SQ0tNbDFMV29QTjNOSjE4cUgzZnhn?oc=5\" target=\"_blank\">💥BREAKING: 🇺🇸 President Trump s…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14Y2pBMXg3NnE2ZDdfa3dzRDZnMlJZLS04dGhBYmlYc09ZejZZVW5ZeDk3WWpueW9oQWV3em1odDdmRVNTLXVfZ2pXVF9SQ0tNbDFMV29QTjNOSjE4cUgzZnhn?oc=5",
+      "publishedAt": "2026-03-01T20:53:17.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260301-breaking-president-trump-says-conflict-with-iran-could-last-4-weeks-xcom",
+      "localUrl": "/news/20260301-breaking-president-trump-says-conflict-with-iran-could-last-4-weeks-xcom.html"
+    },
+    {
       "source": "Decrypt",
       "title": "The Best AI Tools That Actually Respect Your Privacy",
       "summary": "Big Tech AI tools treat your data like a buffet. Here are nine alternatives that don't—and which one wins for your specific threat model.",
@@ -205,7 +290,7 @@
     {
       "source": "Cointelegraph",
       "title": "Bitcoin undervalued relative to gold signals potential rally: Analyst",
-      "summary": "Gold has become \"overextended\" after climbing to more than $5,247 per ounce, according to Jan3 CEO and Bitcoin advocate Samson Mow.",
+      "summary": "Gold has become “overextended” after climbing to more than $5,247 per ounce, according to Jan3 CEO and Bitcoin advocate Samson Mow.",
       "url": "https://cointelegraph.com/news/bitcoin-undervalued-gold-potential-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-01T18:54:23.000Z",
       "keywords": [
@@ -244,7 +329,7 @@
     {
       "source": "Cointelegraph",
       "title": "Strategy boosts monthly STRC preferred dividend to 11.5% for March 2026",
-      "summary": "The 25-basis-point the latest monthly adjustment of STRC's dividend and comes amid a sharp downturn in the crypto markets and macroeconomic uncertainty.",
+      "summary": "The 25-basis-point increase is the latest monthly adjustment of STRC’s dividend and comes amid a sharp downturn in crypto markets and broader macroeconomic uncertainty.",
       "url": "https://cointelegraph.com/news/strategy-raises-strc-dividend-11-50?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-01T17:06:53.000Z",
       "keywords": [
@@ -286,7 +371,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Bitcoin traders eye Iran reactions as oil sparks US 5% inflation forecast",
+      "title": "Bitcoin traders eye Iran reactions as oil spike raises US 5% inflation risk",
       "summary": "Bitcoin avoided a fresh breakdown around major geopolitical events in the Middle East, with BTC price targets now including $74,000 next.",
       "url": "https://cointelegraph.com/news/bitcoin-traders-eye-iran-reactions-oil-sparks-us-5-inflation-forecast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-01T15:42:03.000Z",
@@ -294,8 +379,8 @@
         "Markets"
       ],
       "category": "市场",
-      "slug": "20260301-bitcoin-traders-eye-iran-reactions-as-oil-sparks-us-5-inflation-forecast",
-      "localUrl": "/news/20260301-bitcoin-traders-eye-iran-reactions-as-oil-sparks-us-5-inflation-forecast.html"
+      "slug": "20260301-bitcoin-traders-eye-iran-reactions-as-oil-spike-raises-us-5-inflation-risk",
+      "localUrl": "/news/20260301-bitcoin-traders-eye-iran-reactions-as-oil-spike-raises-us-5-inflation-risk.html"
     },
     {
       "source": "CoinDesk",
@@ -424,6 +509,17 @@
     },
     {
       "source": "X Wire",
+      "title": "💥BREAKING: Iran launched two missiles towards the Island of Cyprus which house a large British airbase. Another escalation. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sbnk5N25SOUpqbmxTUW1mTmt4MVVsZGx3V3lNWnZFMkszQWRiZGdNNXZ5dDY2ZU9sbHRlMVBkSzZFNFl1RlQ0bkZPSVZ0UU5sQ0ZyU1JiT3NYengyVEphekd3?oc=5\" target=\"_blank\">💥BREAKING: Iran launched two miss…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sbnk5N25SOUpqbmxTUW1mTmt4MVVsZGx3V3lNWnZFMkszQWRiZGdNNXZ5dDY2ZU9sbHRlMVBkSzZFNFl1RlQ0bkZPSVZ0UU5sQ0ZyU1JiT3NYengyVEphekd3?oc=5",
+      "publishedAt": "2026-03-01T09:50:51.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260301-breaking-iran-launched-two-missiles-towards-the-island-of-cyprus-which-house-a-l",
+      "localUrl": "/news/20260301-breaking-iran-launched-two-missiles-towards-the-island-of-cyprus-which-house-a-l.html"
+    },
+    {
+      "source": "X Wire",
       "title": "According to the latest data from CoinGlass, Bitcoin’s Q1 2026 return currently stands at -23.21%, marking the third-worst first-quarter performance since 2013 and well below the historical Q1 average of 45.90%. Meanwhile, Ethereum’s Q1 2026 return is at -32 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mbmF4VUZLUW5IMHlXSG5OYkVDZ21uWWZmM0ctd1FRVXRJMks2R08yY1JGWG1kMEFoQ0Q0NEFERUIyQmdWRDJWRjdrTVRvSFlEeU5wTnpvSkNsYVRpdjlEWTlDMA?oc=5\" target=\"_blank\">According to the latest data fro…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mbmF4VUZLUW5IMHlXSG5OYkVDZ21uWWZmM0ctd1FRVXRJMks2R08yY1JGWG1kMEFoQ0Q0NEFERUIyQmdWRDJWRjdrTVRvSFlEeU5wTnpvSkNsYVRpdjlEWTlDMA?oc=5",
@@ -432,17 +528,6 @@
       "category": "X热点",
       "slug": "20260301-according-to-the-latest-data-from-coinglass-bitcoins-q1-2026-return-currently-st",
       "localUrl": "/news/20260301-according-to-the-latest-data-from-coinglass-bitcoins-q1-2026-return-currently-st.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🏦 MORGAN STANLEY MOVES TO BECOME A CRYPTO BANK The Wall Street giant filed for a national trust bank charter to launch a crypto-focused entity called \"Morgan Stanley Digital Trust.\" This would allow Morgan Stanley to custody crypto and expand di - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ITENGQWp3YnhzRHFyLXBOT3F1Q0ppZXgwVXZtY21jNjJyQ002aW42bXB5OVVKNU1NaW44bXBlU1VvaFVhTFBfSUFmMGF6MTUtQ0lKT1ZJcUR5VzJ2OFhvaA?oc=5\" target=\"_blank\">🏦 MORGAN STANLEY MOVES TO BECOME A …",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ITENGQWp3YnhzRHFyLXBOT3F1Q0ppZXgwVXZtY21jNjJyQ002aW42bXB5OVVKNU1NaW44bXBlU1VvaFVhTFBfSUFmMGF6MTUtQ0lKT1ZJcUR5VzJ2OFhvaA?oc=5",
-      "publishedAt": "2026-03-01T08:10:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260301-morgan-stanley-moves-to-become-a-crypto-bank-the-wall-street-giant-filed-for-a-n",
-      "localUrl": "/news/20260301-morgan-stanley-moves-to-become-a-crypto-bank-the-wall-street-giant-filed-for-a-n.html"
     },
     {
       "source": "CoinDesk",
@@ -667,19 +752,6 @@
       "localUrl": "/news/20260228-bitcoin-is-stuck-in-a-rut-but-jpmorgan-says-new-legislation-could-be-the-ultimat.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Crypto treasury companies likely to consolidate in 2026: Crypto exec",
-      "summary": "Declining crypto prices mean that many digital asset treasuries are either underwater or trading at a discount to their net asset value.",
-      "url": "https://cointelegraph.com/news/crypto-treasury-companies-consolidate-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-02-28T18:56:44.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260228-crypto-treasury-companies-likely-to-consolidate-in-2026-crypto-exec",
-      "localUrl": "/news/20260228-crypto-treasury-companies-likely-to-consolidate-in-2026-crypto-exec.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Iran crisis puts the regime's $7.8 billion crypto shadow economy in spotlight",
       "summary": "The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises.",
@@ -817,20 +889,6 @@
       "localUrl": "/news/20260228-crypto-traders-flocked-to-the-hyperliquid-exchange-to-hedge-commodities-as-the-c.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "XRP tumbles 9% as break below $1.36 wipes out relief rally",
-      "summary": "Traders are watching $1.30 as immediate support after heavy-volume selling confirmed a bearish shift.",
-      "url": "https://www.coindesk.com/markets/2026/02/28/xrp-tumbles-9-as-break-below-usd1-36-wipes-out-relief-rally",
-      "publishedAt": "2026-02-28T13:30:00.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260228-xrp-tumbles-9-as-break-below-136-wipes-out-relief-rally",
-      "localUrl": "/news/20260228-xrp-tumbles-9-as-break-below-136-wipes-out-relief-rally.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨NEW: Lots of crypto industry folks jumping to the defense of @patrickjwitt and the White House following comments from an unnamed source claimed to be directly involved in the stablecoin yield talks. I shared the post and the Crypto Twitter reaction with a b - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JdnZFUk91V3JsMmNjWEVxRXRfOEdVSURiZzYxeXhDcTdFSDVLTGNDQVNVdTFrQjB3aHdfeEhnajhJRWdqWV9Cekl3aXlKUFNsSnBlMFVSSWxHbjZpSHZtWnA2ZVJvZw?oc=5\" target=\"_blank\">🚨NEW: Lots of crypto indust…",
@@ -892,17 +950,6 @@
       "category": "市场",
       "slug": "20260227-bitcoin-rebound-stalls-at-65k-as-stocks-fall-and-gold-rises",
       "localUrl": "/news/20260227-bitcoin-rebound-stalls-at-65k-as-stocks-fall-and-gold-rises.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Why is bitcoin facing headwinds right now? - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YRU80eWRIOU9kMUF5S1RzV203TDhDeEljT1E5aVBLSEtMNEhSVmNrX3ZwdmJmajRlWFJZMGFrNmt0LWl2UVVPdFZ4UGNjeU1Ia3VITTUyc3hDdzFnVjNSTg?oc=5\" target=\"_blank\">Why is bitcoin facing headwinds righ…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YRU80eWRIOU9kMUF5S1RzV203TDhDeEljT1E5aVBLSEtMNEhSVmNrX3ZwdmJmajRlWFJZMGFrNmt0LWl2UVVPdFZ4UGNjeU1Ia3VITTUyc3hDdzFnVjNSTg?oc=5",
-      "publishedAt": "2026-02-27T19:25:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260227-why-is-bitcoin-facing-headwinds-right-now-xcom",
-      "localUrl": "/news/20260227-why-is-bitcoin-facing-headwinds-right-now-xcom.html"
     },
     {
       "source": "X Wire",
@@ -1009,17 +1056,6 @@
     },
     {
       "source": "X Wire",
-      "title": "💥BREAKING: 🇮🇷 Explosions are happening in Iran right now. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKSlZFdXFwaHlfczlYQWRRVklPVTBudFAzMGJkeUYwZEt5T1ppaU9kaUdPeTZuSC1YLU9tcjIyQ0RITHVSMHRnQUlTV2l5T3VsYi1QcmVQY2RXd2E1X1lQSVJ3?oc=5\" target=\"_blank\">💥BREAKING: 🇮🇷 Explosions are ha…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKSlZFdXFwaHlfczlYQWRRVklPVTBudFAzMGJkeUYwZEt5T1ppaU9kaUdPeTZuSC1YLU9tcjIyQ0RITHVSMHRnQUlTV2l5T3VsYi1QcmVQY2RXd2E1X1lQSVJ3?oc=5",
-      "publishedAt": "2026-02-27T14:21:01.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260227-breaking-explosions-are-happening-in-iran-right-now-xcom",
-      "localUrl": "/news/20260227-breaking-explosions-are-happening-in-iran-right-now-xcom.html"
-    },
-    {
-      "source": "X Wire",
       "title": "BARCLAYS EXPLORES BLOCKCHAIN FOR PAYMENTS Barclays is evaluating a blockchain platform for payments and deposits, potentially including stablecoins and tokenized deposits, with provider selection possible by April. The move follows rivals like J - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LRk1oWV9aSVNGUXQ3eUxUTTVvTU53QjEtQS1WNV9nWWhoUktvZGRxSkF4UllWMm94TUlodTdMWVkzVlllRXl1eV9IODlHdTZEZkZNWGhEUGNXMHNPWkE?oc=5\" target=\"_blank\">BARCLAYS EXPLORES BLOCKCHAIN FOR PAYMEN…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LRk1oWV9aSVNGUXQ3eUxUTTVvTU53QjEtQS1WNV9nWWhoUktvZGRxSkF4UllWMm94TUlodTdMWVkzVlllRXl1eV9IODlHdTZEZkZNWGhEUGNXMHNPWkE?oc=5",
@@ -1041,41 +1077,6 @@
       "category": "监管",
       "slug": "20260227-dc-scam-center-strike-force-crypto-seizures-freezes-hit-580m",
       "localUrl": "/news/20260227-dc-scam-center-strike-force-crypto-seizures-freezes-hit-580m.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Jack Dorsey Slashes 40% of Block's Jobs Due to AI",
-      "summary": "Citrini warned everyone that these AI layoffs were coming, and it seems Jack Dorsey took their warning to heart and chose to act first.",
-      "url": "https://decrypt.co/359395/morning-minute-jack-dorsey-slashes-40-of-blocks-jobs-due-to-ai",
-      "publishedAt": "2026-02-27T12:51:59.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "综合",
-      "slug": "20260227-morning-minute-jack-dorsey-slashes-40-of-blocks-jobs-due-to-ai",
-      "localUrl": "/news/20260227-morning-minute-jack-dorsey-slashes-40-of-blocks-jobs-due-to-ai.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "CRASH: Bitcoin breaks below $66,000 🩸 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KM1JXd2pfSUdxQW1qVEZ5OFZ4bEFUdXplUnhjdG4wSTNTM2YyODd5aVVlWGp2c3RmWFNkT1lKYVo5M1llQ1Q3ZTdGc3ZqLVhHUU9wWUlqZlJ3OGdDNVJQZjNn?oc=5\" target=\"_blank\">CRASH: Bitcoin breaks below $66,00…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KM1JXd2pfSUdxQW1qVEZ5OFZ4bEFUdXplUnhjdG4wSTNTM2YyODd5aVVlWGp2c3RmWFNkT1lKYVo5M1llQ1Q3ZTdGc3ZqLVhHUU9wWUlqZlJ3OGdDNVJQZjNn?oc=5",
-      "publishedAt": "2026-02-27T11:47:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260227-crash-bitcoin-breaks-below-66000-xcom",
-      "localUrl": "/news/20260227-crash-bitcoin-breaks-below-66000-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "WOW: 🚀 Google Searches for ''How to buy Bitcoin'' are closing in on 2017 all-time highs. Is retail finally waking up now? - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iOEhoRE1jM28xS3hNOV8zSGJKd3BCWTZobC0tbEJZb2l6NGVFN2wwcktPaTVtcmp1di1UVmhSZEFDczhMWl9DZ050V1ZyT0QtR0xyZDF4dDlRbTNZY3h2ZFNn?oc=5\" target=\"_blank\">WOW: 🚀 Google Searches for ''How …",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iOEhoRE1jM28xS3hNOV8zSGJKd3BCWTZobC0tbEJZb2l6NGVFN2wwcktPaTVtcmp1di1UVmhSZEFDczhMWl9DZ050V1ZyT0QtR0xyZDF4dDlRbTNZY3h2ZFNn?oc=5",
-      "publishedAt": "2026-02-27T09:42:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260227-wow-google-searches-for-how-to-buy-bitcoin-are-closing-in-on-2017-all-time-highs",
-      "localUrl": "/news/20260227-wow-google-searches-for-how-to-buy-bitcoin-are-closing-in-on-2017-all-time-highs.html"
     },
     {
       "source": "Ethereum Blog",
