@@ -2,18 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-02T07:15:17.004Z</lastmod>
+    <lastmod>2026-03-02T09:00:03.320Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-02T07:15:17.004Z</lastmod>
+    <lastmod>2026-03-02T09:00:03.320Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260302-bitcoin-us-stock-futures-give-up-early-gains-as-iran-conflict-intensifies.html</loc>
+    <loc>https://www.librchain.com/news/20260302-south-korea-orders-cross-agency-probe-after-repeated-crypto-custody-failures.html</loc>
+    <lastmod>2026-03-02T08:16:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260302-bitcoin-slips-below-66000-us-stock-futures-bleed-as-iran-hits-saudi-oil-refinery.html</loc>
     <lastmod>2026-03-02T07:12:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -55,6 +61,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260302-alert-our-system-detected-a-suspicious-transaction-targeting-inversefinances-con.html</loc>
+    <lastmod>2026-03-02T05:12:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260302-hyperliquids-hype-token-jumps-5-as-iran-war-brings-windfall-revenue-jup-gains-on.html</loc>
     <lastmod>2026-03-02T04:34:10.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -91,8 +103,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260302-breaking-hezbollah-leader-allegedly-assassinated-10-minutes-after-announcing-ent.html</loc>
-    <lastmod>2026-03-02T03:17:49.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260302-bitcoin-is-relatively-undervalued-compared-to-gold-and-the-global-money-supply-w.html</loc>
+    <lastmod>2026-03-02T03:25:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -187,6 +199,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260301-just-in-michael-saylor-hints-at-buying-more-bitcoin-xcom.html</loc>
+    <lastmod>2026-03-01T15:13:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260301-stablecoin-yield-rewards-likely-wont-be-banned-under-occ-proposal-state-of-crypt.html</loc>
     <lastmod>2026-03-01T15:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -237,12 +255,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260301-breaking-iran-launched-two-missiles-towards-the-island-of-cyprus-which-house-a-l.html</loc>
     <lastmod>2026-03-01T09:50:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260301-according-to-the-latest-data-from-coinglass-bitcoins-q1-2026-return-currently-st.html</loc>
-    <lastmod>2026-03-01T08:27:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -307,12 +319,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260301-crazy-moves-on-bitcoin-today-bitcoin-dumped-2800-from-its-daily-high-after-the-u.html</loc>
-    <lastmod>2026-03-01T01:06:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260228-anthropic-ceo-responds-to-pentagon-order-prohibiting-military-use.html</loc>
     <lastmod>2026-02-28T21:48:33.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -327,12 +333,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260228-heres-how-bitcoins-price-rise-could-be-fueled-by-job-stealing-ai-software.html</loc>
     <lastmod>2026-02-28T21:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260228-bitcoin-bottom-fractal-calls-for-130-rally-but-is-the-model-valid-in-2026.html</loc>
-    <lastmod>2026-02-28T20:29:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -381,6 +381,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260228-crypto-community-fear-of-iran-choking-oil-supply-and-crashing-markets-may-be-ove.html</loc>
     <lastmod>2026-02-28T15:36:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260228-latest-sec-chair-paul-atkins-called-crypto-regulation-under-gary-gensler-a-big-m.html</loc>
+    <lastmod>2026-02-28T14:57:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -465,12 +471,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260227-minnesota-weighs-total-ban-on-bitcoin-and-crypto-atms.html</loc>
     <lastmod>2026-02-27T16:39:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260227-just-in-historically-bitcoin-has-always-bottomed-23-months-after-its-previous-al.html</loc>
-    <lastmod>2026-02-27T15:47:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
