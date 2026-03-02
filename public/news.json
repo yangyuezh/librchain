@@ -1,7 +1,38 @@
 {
-  "updatedAt": "2026-03-02T10:04:38.619Z",
+  "updatedAt": "2026-03-02T11:01:01.536Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. equity futures fall in pre-market trading as oil, gold retreat from highs",
+      "summary": "Oil and gold pulled back after surging on the breakout of hostilities in Iran, while equities and crypto stocks face pressure.",
+      "url": "https://www.coindesk.com/markets/2026/03/02/u-s-equity-futures-fall-in-pre-market-trading-as-oil-gold-retreat-from-highs",
+      "publishedAt": "2026-03-02T10:50:41.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Oil",
+        "Gold",
+        "Iran",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260302-us-equity-futures-fall-in-pre-market-trading-as-oil-gold-retreat-from-highs",
+      "localUrl": "/news/20260302-us-equity-futures-fall-in-pre-market-trading-as-oil-gold-retreat-from-highs.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "'This is not World War Three:' Five things to know in Bitcoin this week",
+      "summary": "Bitcoin avoided an Iran sell-off to start March, but traders still expected BTC price support to give way in bearish market conditions.",
+      "url": "https://cointelegraph.com/news/this-is-not-world-war-three-five-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-02T10:25:37.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260302-this-is-not-world-war-three-five-things-to-know-in-bitcoin-this-week",
+      "localUrl": "/news/20260302-this-is-not-world-war-three-five-things-to-know-in-bitcoin-this-week.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Hong Kong links up with Shanghai trade authorities to put cargo data on blockchain",
@@ -21,16 +52,16 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "European banks line up exchange partners for 2026 stablecoin launch",
-      "summary": "Qivalis, a consortium of 12 European banks, is reportedly in talks with crypto exchanges ahead of its euro stablecoin launch in the second half of 2026.",
+      "title": "European banks seek exchange partners ahead of 2026 stablecoin launch",
+      "summary": "Qivalis, a European banking consortium, is reportedly in talks with crypto exchanges ahead of a planned euro stablecoin launch in the second half of 2026.",
       "url": "https://cointelegraph.com/news/europe-qivalis-consortium-exchanges-stablecoin-launch-h2-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-02T09:26:14.000Z",
       "keywords": [
         "Latest News"
       ],
       "category": "监管",
-      "slug": "20260302-european-banks-line-up-exchange-partners-for-2026-stablecoin-launch",
-      "localUrl": "/news/20260302-european-banks-line-up-exchange-partners-for-2026-stablecoin-launch.html"
+      "slug": "20260302-european-banks-seek-exchange-partners-ahead-of-2026-stablecoin-launch",
+      "localUrl": "/news/20260302-european-banks-seek-exchange-partners-ahead-of-2026-stablecoin-launch.html"
     },
     {
       "source": "CoinDesk",
@@ -51,7 +82,7 @@
     {
       "source": "Cointelegraph",
       "title": "Aave proposal clears first hurdle with 52.6% support amid governance split",
-      "summary": "The Snapshot Temp Check passed 52.6% to 42%, sending the DAO-funded revenue model to the ARFC stage for revisions.",
+      "summary": "Tokenholders backed a $42.5 million stablecoin package and 75,000 AAVE allocation for Aave Labs under a proposed DAO-funded revenue model.",
       "url": "https://cointelegraph.com/news/aave-temp-check-split-vote-arfc-governance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-02T09:01:13.000Z",
       "keywords": [
@@ -714,19 +745,6 @@
       "localUrl": "/news/20260301-bitcoin-tops-68000-after-iran-confirms-leader-killed-in-us-israel-airstrikes.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Ethereum smart accounts are finally coming ‘within a year’ — Vitalik Buterin",
-      "summary": "Removing intermediaries with account abstraction is a “core principle of non-ugly cypherpunk Ethereum,” said Buterin.",
-      "url": "https://cointelegraph.com/news/ethereum-smart-accounts-are-finally-coming-within-a-year-says-vitalik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-01T02:54:03.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260301-ethereum-smart-accounts-are-finally-coming-within-a-year-vitalik-buterin",
-      "localUrl": "/news/20260301-ethereum-smart-accounts-are-finally-coming-within-a-year-vitalik-buterin.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Bitcoin climbs back to $68,084 after crashing to $63,178 earlier today 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBObkNoS2NEb2tfT1pwaDFPV2U0cFNhZEQyZGdmelpZUUMtMk9tcUV6X2w0U2FMSjVpNzhxaDRPT1RoeU5adVltQTRJMF9keXZzUGVCbHgySkxfUUhEcFhPQWFzYk45RlE?oc=5\" target=\"_blank\">JUST IN: Bitcoin climbs bac…",
@@ -883,23 +901,6 @@
       "category": "监管",
       "slug": "20260228-banking-regulator-floats-new-stablecoin-yield-rulesdo-they-hurt-coinbase",
       "localUrl": "/news/20260228-banking-regulator-floats-new-stablecoin-yield-rulesdo-they-hurt-coinbase.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto community fear of Iran choking oil supply and crashing markets may be overblown",
-      "summary": "A full closure of the strait is unlikely or impractical, some experts argue.",
-      "url": "https://www.coindesk.com/markets/2026/02/28/crypto-community-fears-iran-choking-oil-supply-and-crashing-markets-but-that-may-be-overblown",
-      "publishedAt": "2026-02-28T15:36:54.000Z",
-      "keywords": [
-        "Markets",
-        "Middle East",
-        "Oil",
-        "Iran",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260228-crypto-community-fear-of-iran-choking-oil-supply-and-crashing-markets-may-be-ove",
-      "localUrl": "/news/20260228-crypto-community-fear-of-iran-choking-oil-supply-and-crashing-markets-may-be-ove.html"
     },
     {
       "source": "X Wire",

@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-02T10:04:39.025Z</lastmod>
+    <lastmod>2026-03-02T11:01:01.799Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-02T10:04:39.025Z</lastmod>
+    <lastmod>2026-03-02T11:01:01.799Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260302-us-equity-futures-fall-in-pre-market-trading-as-oil-gold-retreat-from-highs.html</loc>
+    <lastmod>2026-03-02T10:50:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260302-this-is-not-world-war-three-five-things-to-know-in-bitcoin-this-week.html</loc>
+    <lastmod>2026-03-02T10:25:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260302-hong-kong-links-up-with-shanghai-trade-authorities-to-put-cargo-data-on-blockcha.html</loc>
@@ -19,7 +31,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260302-european-banks-line-up-exchange-partners-for-2026-stablecoin-launch.html</loc>
+    <loc>https://www.librchain.com/news/20260302-european-banks-seek-exchange-partners-ahead-of-2026-stablecoin-launch.html</loc>
     <lastmod>2026-03-02T09:26:14.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -331,12 +343,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260301-ethereum-smart-accounts-are-finally-coming-within-a-year-vitalik-buterin.html</loc>
-    <lastmod>2026-03-01T02:54:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260301-just-in-bitcoin-climbs-back-to-68084-after-crashing-to-63178-earlier-today-xcom.html</loc>
     <lastmod>2026-03-01T02:07:40.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -399,12 +405,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260228-banking-regulator-floats-new-stablecoin-yield-rulesdo-they-hurt-coinbase.html</loc>
     <lastmod>2026-02-28T16:30:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260228-crypto-community-fear-of-iran-choking-oil-supply-and-crashing-markets-may-be-ove.html</loc>
-    <lastmod>2026-02-28T15:36:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
