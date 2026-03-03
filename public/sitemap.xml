@@ -2,15 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-03T19:08:54.523Z</lastmod>
+    <lastmod>2026-03-03T20:47:32.125Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-03T19:08:54.523Z</lastmod>
+    <lastmod>2026-03-03T20:47:32.125Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260303-bitgo-expands-mica-compliant-crypto-as-a-service-across-eea.html</loc>
+    <lastmod>2026-03-03T20:42:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260303-us-dollar-index-nears-3-month-high-is-this-good-or-bad-for-bitcoin.html</loc>
+    <lastmod>2026-03-03T20:40:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260303-more-accurate-less-cringe-openai-rolls-out-gpt-53-instant-in-chatgpt.html</loc>
+    <lastmod>2026-03-03T20:23:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260303-ripple-expands-stablecoin-payments-stack-for-banks-fintechs.html</loc>
+    <lastmod>2026-03-03T20:01:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260303-donald-trumps-crypto-legacy-in-two-words-paul-atkins.html</loc>
+    <lastmod>2026-03-03T19:44:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260303-bitcoin-climbs-stocks-and-gold-drop-as-iran-conflict-stokes-uncertainty.html</loc>
+    <lastmod>2026-03-03T19:39:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260303-over-the-past-year-many-people-i-talk-to-have-expressed-worry-about-two-topics-v.html</loc>
+    <lastmod>2026-03-03T19:21:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260303-ether-supply-on-exchanges-drops-to-multi-year-lows-heres-why-it-matters.html</loc>
@@ -319,38 +361,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260303-riot-reports-record-647m-revenue-in-2025-as-other-bitcoin-miners-struggle.html</loc>
-    <lastmod>2026-03-03T09:48:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260303-tether-taps-deloitte-for-first-usat-reserve-report.html</loc>
     <lastmod>2026-03-03T09:33:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260303-bitcoin-falls-below-67000-as-us-equities-slide-and-oil-pushes-higher.html</loc>
-    <lastmod>2026-03-03T09:11:55.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260303-spot-bitcoin-etfs-see-458m-in-inflows-as-mideast-conflict-widens.html</loc>
-    <lastmod>2026-03-03T09:08:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260303-very-good-move-of-bitcoin-yesterday-holding-above-65k-and-rallied-towards-the-ra.html</loc>
     <lastmod>2026-03-03T08:27:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260303-bank-of-japan-testing-blockchain-settlement-for-bank-deposits-in-new-sandbox.html</loc>
-    <lastmod>2026-03-03T08:25:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -381,6 +399,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260303-bullish-tennessees-strategic-bitcoin-reserve-act-is-recommended-for-passage-and-.html</loc>
     <lastmod>2026-03-03T03:30:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260303-new-cme-group-says-its-crypto-futures-lineup-including-btc-eth-sol-xrp-ada-link-.html</loc>
+    <lastmod>2026-03-03T03:00:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -433,20 +457,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260302-bitcoin-treasury-firm-procap-adds-31-million-in-btc-as-stock-buybacks-grow.html</loc>
-    <lastmod>2026-03-02T19:57:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260302-logan-pauls-psa-10-pikachu-illustrator-card-sold-for-a-staggering-16492000-at-go.html</loc>
     <lastmod>2026-03-02T19:35:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260302-trumps-cftc-appoints-crypto-lawyer-to-lead-shrinking-enforcement-team.html</loc>
-    <lastmod>2026-03-02T19:29:35.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,20 +487,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260302-bitcoin-closed-february-at-66985-below-2021-ath-approaching-200-week-moving-aver.html</loc>
-    <lastmod>2026-03-02T12:46:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260302-gold-booms-128-in-one-day-better-news-is-silver-and-bitcoin-to-blast-off-hang-on.html</loc>
     <lastmod>2026-03-02T08:11:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260302-starting-march-1-all-hourly-employees-earn-a-bitcoin-bonus-of-21-cents-per-hour-.html</loc>
-    <lastmod>2026-03-02T04:11:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
