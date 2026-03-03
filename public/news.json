@@ -1,7 +1,80 @@
 {
-  "updatedAt": "2026-03-03T10:57:50.801Z",
+  "updatedAt": "2026-03-03T11:46:10.936Z",
   "total": 81,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Stablecoins weaken bank lending and monetary policy in Europe: ECB",
+      "summary": "The European Central Bank warns that as stablecoin adoption grows, deposits are expected to move from banks, affecting lending and monetary policy transmission.",
+      "url": "https://cointelegraph.com/news/stablecoin-deposits-monetary-policy-europe-ecb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-03T11:35:14.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260303-stablecoins-weaken-bank-lending-and-monetary-policy-in-europe-ecb",
+      "localUrl": "/news/20260303-stablecoins-weaken-bank-lending-and-monetary-policy-in-europe-ecb.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Dollar surge pressures crypto markets after escalation in Iran conflict",
+      "summary": "Risk assets fell across the board Tuesday as the U.S. dollar strengthened to a near two-month high following renewed military escalation in Iran, pressuring the crypto market.",
+      "url": "https://www.coindesk.com/markets/2026/03/03/dollar-surge-pressures-crypto-and-gold-after-escalation-in-iran-conflict",
+      "publishedAt": "2026-03-03T11:30:00.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "Derivatives",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260303-dollar-surge-pressures-crypto-markets-after-escalation-in-iran-conflict",
+      "localUrl": "/news/20260303-dollar-surge-pressures-crypto-markets-after-escalation-in-iran-conflict.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "‘Scam token’ case against Uniswap dismissed by U.S. district judge in NYC",
+      "summary": "District Judge says that due to the protocol’s decentralized nature, the identities of the scam token issuers are basically unknown, leaving plaintiffs with no identifiable defendant.",
+      "url": "https://www.coindesk.com/policy/2026/03/03/scam-token-case-against-uniswap-dismissed-with-prejudice-by-u-s-district-judge-in-nyc",
+      "publishedAt": "2026-03-03T11:17:05.000Z",
+      "keywords": [
+        "Policy",
+        "Uniswap Labs",
+        "Decentralized exchange",
+        "Southern district of new york",
+        "Lawsuit",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260303-scam-token-case-against-uniswap-dismissed-by-us-district-judge-in-nyc",
+      "localUrl": "/news/20260303-scam-token-case-against-uniswap-dismissed-by-us-district-judge-in-nyc.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price chart 'death cross' is back, reviving late-cycle fears",
+      "summary": "BTC price has slid about 35% on average over a month after similar trend line crossovers, keeping downside risk in focus for traders.",
+      "url": "https://cointelegraph.com/news/bitcoin-price-chart-death-cross-back-late-cycle-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-03T11:04:08.000Z",
+      "keywords": [
+        "Market Analysis"
+      ],
+      "category": "市场",
+      "slug": "20260303-bitcoin-price-chart-death-cross-is-back-reviving-late-cycle-fears",
+      "localUrl": "/news/20260303-bitcoin-price-chart-death-cross-is-back-reviving-late-cycle-fears.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kalshi, Polymarket face trading halt in Nevada after court ruling",
+      "summary": "The ruling adds new regulatory pressure as prediction markets also face scrutiny over information advantages and suspected insider activity tied to event-driven contracts.",
+      "url": "https://cointelegraph.com/news/prediction-markets-trading-block-nevada-court-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-03T10:59:12.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260303-kalshi-polymarket-face-trading-halt-in-nevada-after-court-ruling",
+      "localUrl": "/news/20260303-kalshi-polymarket-face-trading-halt-in-nevada-after-court-ruling.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Japan prime minister Sanae Takaichi disavows Solana meme coin after it crashes by 75%",
@@ -576,19 +649,6 @@
       "localUrl": "/news/20260302-bitfinex-revives-tokenized-bonds-targeting-crypto-native-yield-seekers.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Monad's cbBTC bridge may add $5B in Bitcoin-backed liquidity",
-      "summary": "Chainlink’s protocol enables Coinbase’s cbBTC to move from Base to Monad, boosting Bitcoin-backed liquidity into the layer-1’s DeFi ecosystem.",
-      "url": "https://cointelegraph.com/news/monad-gains-bitcoin-backed-liquidity-through-chainlink-powered-cbbtc-bridge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-02T21:21:31.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260302-monads-cbbtc-bridge-may-add-5b-in-bitcoin-backed-liquidity",
-      "localUrl": "/news/20260302-monads-cbbtc-bridge-may-add-5b-in-bitcoin-backed-liquidity.html"
-    },
-    {
       "source": "Decrypt",
       "title": "OpenAI Claims Safety 'Red Lines' in Pentagon Deal—But Users Aren't Buying It",
       "summary": "The Pentagon deal sparked a mass exodus from ChatGPT—and pushed Anthropic's Claude to the top of the App Store. But the bigger story is in the contract language.",
@@ -613,19 +673,6 @@
       "category": "综合",
       "slug": "20260302-supreme-court-declines-ai-copyright-case-extending-legal-setback-for-ai-generate",
       "localUrl": "/news/20260302-supreme-court-declines-ai-copyright-case-extending-legal-setback-for-ai-generate.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Can US lawmakers pass crypto market structure before the midterms?",
-      "summary": "While the White House has hosted three meetings to discuss how to address stablecoin yield in the Senate's market structure bill, there are no signs of a solution.",
-      "url": "https://cointelegraph.com/news/united-states-crypto-market-structure-before-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-02T20:55:08.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260302-can-us-lawmakers-pass-crypto-market-structure-before-the-midterms",
-      "localUrl": "/news/20260302-can-us-lawmakers-pass-crypto-market-structure-before-the-midterms.html"
     },
     {
       "source": "X Wire",
@@ -666,19 +713,6 @@
       "category": "RWA",
       "slug": "20260302-bitcoin-treasury-firm-procap-adds-31-million-in-btc-as-stock-buybacks-grow",
       "localUrl": "/news/20260302-bitcoin-treasury-firm-procap-adds-31-million-in-btc-as-stock-buybacks-grow.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin company Fold pays off $66M debt, frees up BTC collateral",
-      "summary": "The Bitcoin financial services company retired $66.3 million in convertible debt, reducing dilution risk as it expands its BTC rewards business.",
-      "url": "https://cointelegraph.com/news/bitcoin-company-fold-pays-off-66m-debt-frees-up-btc-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-02T19:37:35.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260302-bitcoin-company-fold-pays-off-66m-debt-frees-up-btc-collateral",
-      "localUrl": "/news/20260302-bitcoin-company-fold-pays-off-66m-debt-frees-up-btc-collateral.html"
     },
     {
       "source": "X Wire",
@@ -731,6 +765,17 @@
       "category": "监管",
       "slug": "20260302-nasdaq-wants-a-piece-of-the-prediction-market-biz-too",
       "localUrl": "/news/20260302-nasdaq-wants-a-piece-of-the-prediction-market-biz-too.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 JUST IN: Polymarket traders are pricing a 55% chance that Bitcoin hits $60,000 before $80,000. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IaVlZSHlRU2xpVWI5MHJCYkR2LWVrN01vVWpCVFFCMHgxTm9mQnNrdmFuSkhJZVV3MHZaLTFFRy1tVDE0Y0dLNTFEUGpseVFaWFRRa2pCSXZyb1hkYlprOFY4cnk?oc=5\" target=\"_blank\">🚨 JUST IN: Polymarket traders …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IaVlZSHlRU2xpVWI5MHJCYkR2LWVrN01vVWpCVFFCMHgxTm9mQnNrdmFuSkhJZVV3MHZaLTFFRy1tVDE0Y0dLNTFEUGpseVFaWFRRa2pCSXZyb1hkYlprOFY4cnk?oc=5",
+      "publishedAt": "2026-03-02T19:06:31.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260302-just-in-polymarket-traders-are-pricing-a-55-chance-that-bitcoin-hits-60000-befor",
+      "localUrl": "/news/20260302-just-in-polymarket-traders-are-pricing-a-55-chance-that-bitcoin-hits-60000-befor.html"
     },
     {
       "source": "CoinDesk",
@@ -948,23 +993,6 @@
       "localUrl": "/news/20260302-ethereum-price-bitmine-shares-jump-as-tom-lees-treasury-reports-latest-buy.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin surges above $68,000 amid muted stock market reaction to Iran war",
-      "summary": "At their worst levels, U.S. stock index futures had been down more than 2%, but equity markets are barely lower one hour into Monday's trading session.",
-      "url": "https://www.coindesk.com/markets/2026/03/02/bitcoin-surges-above-usd68-000-amid-muted-stock-market-reaction-to-iran-war",
-      "publishedAt": "2026-03-02T15:32:22.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Breaking News",
-        "top news",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260302-bitcoin-surges-above-68000-amid-muted-stock-market-reaction-to-iran-war",
-      "localUrl": "/news/20260302-bitcoin-surges-above-68000-amid-muted-stock-market-reaction-to-iran-war.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Strategy Spends $200 Million on Bitcoin, Raises STRC Dividend Yet Again",
       "summary": "Strategy disclosed its third-largest Bitcoin purchase of the year, scooping up the asset using proceeds that partially came from STRC.",
@@ -976,24 +1004,6 @@
       "category": "市场",
       "slug": "20260302-strategy-spends-200-million-on-bitcoin-raises-strc-dividend-yet-again",
       "localUrl": "/news/20260302-strategy-spends-200-million-on-bitcoin-raises-strc-dividend-yet-again.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tom Lee's Bitmine boosts ether holdings to 4.47 million tokens with $98 million ETH purchase",
-      "summary": "The ether treasury firm now has nearly $10 billion in assets and more than $6 billion of ETH staked.",
-      "url": "https://www.coindesk.com/business/2026/03/02/bitmine-boosts-ether-holdings-to-4-47m-tokens-after-usd98m-eth-purchase",
-      "publishedAt": "2026-03-02T15:10:25.000Z",
-      "keywords": [
-        "Finance",
-        "Bitmine",
-        "Thomas Lee",
-        "Ethereum staking",
-        "Eth supply",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260302-tom-lees-bitmine-boosts-ether-holdings-to-447-million-tokens-with-98-million-eth",
-      "localUrl": "/news/20260302-tom-lees-bitmine-boosts-ether-holdings-to-447-million-tokens-with-98-million-eth.html"
     },
     {
       "source": "Decrypt",
@@ -1040,17 +1050,6 @@
       "category": "X热点",
       "slug": "20260302-strategy-has-acquired-3015-btc-for-2041-million-at-67700-per-bitcoin-as-of-31202",
       "localUrl": "/news/20260302-strategy-has-acquired-3015-btc-for-2041-million-at-67700-per-bitcoin-as-of-31202.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin closed February at $66,985 .. below 2021 ATH Approaching 200 week moving average ($58k black line) and realized price ($54k grey line). RSI - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EXzA1ZlVYVjRZMlBkdllILUpTZ0hSU0dqRi1PRUR1emVqcnlZUWRSVm1QbjM3aEVSYk1vc2p6UjBSVFkySFVKTXNpc2EyYURRd1R0d3k0MmJYbG43S0tFa0hET2VpZw?oc=5\" target=\"_blank\">Bitcoin closed February at $…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EXzA1ZlVYVjRZMlBkdllILUpTZ0hSU0dqRi1PRUR1emVqcnlZUWRSVm1QbjM3aEVSYk1vc2p6UjBSVFkySFVKTXNpc2EyYURRd1R0d3k0MmJYbG43S0tFa0hET2VpZw?oc=5",
-      "publishedAt": "2026-03-02T12:46:48.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260302-bitcoin-closed-february-at-66985-below-2021-ath-approaching-200-week-moving-aver",
-      "localUrl": "/news/20260302-bitcoin-closed-february-at-66985-below-2021-ath-approaching-200-week-moving-aver.html"
     },
     {
       "source": "X Wire",
