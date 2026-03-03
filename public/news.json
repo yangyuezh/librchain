@@ -1,7 +1,68 @@
 {
-  "updatedAt": "2026-03-03T07:08:33.014Z",
+  "updatedAt": "2026-03-03T08:58:19.327Z",
   "total": 81,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Core Scientific sells $175 million in bitcoin as AI pivot accelerates",
+      "summary": "CORZ still holds under 1,000 BTC but look to \"remain opportunistic\" moving forward.",
+      "url": "https://www.coindesk.com/markets/2026/03/03/core-scientific-sells-usd175-million-in-bitcoin-as-ai-pivot-accelerates",
+      "publishedAt": "2026-03-03T08:53:03.000Z",
+      "keywords": [
+        "Markets",
+        "Core Scientific",
+        "Riot platforms",
+        "AI",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260303-core-scientific-sells-175-million-in-bitcoin-as-ai-pivot-accelerates",
+      "localUrl": "/news/20260303-core-scientific-sells-175-million-in-bitcoin-as-ai-pivot-accelerates.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bank of Japan testing blockchain settlement for bank deposits in new sandbox",
+      "summary": "BOJ Governor Kazuo Ueda said the experiments will examine links between blockchain systems and Japan’s existing settlement infrastructure.",
+      "url": "https://cointelegraph.com/news/boj-blockchain-reserve-settlement-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-03T08:25:54.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260303-bank-of-japan-testing-blockchain-settlement-for-bank-deposits-in-new-sandbox",
+      "localUrl": "/news/20260303-bank-of-japan-testing-blockchain-settlement-for-bank-deposits-in-new-sandbox.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin supply approaching 20 million: The final million will take another 114 years to mine",
+      "summary": "Out of a fixed maximum supply of 21 million coins, more than 95% of all bitcoin that will ever exist is now in circulation.",
+      "url": "https://www.coindesk.com/markets/2026/01/23/bitcoin-supply-approaching-20-million-the-final-million-will-take-another-114-years-to-mine",
+      "publishedAt": "2026-03-03T08:25:48.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Issuance",
+        "Inflation",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260303-bitcoin-supply-approaching-20-million-the-final-million-will-take-another-114-ye",
+      "localUrl": "/news/20260303-bitcoin-supply-approaching-20-million-the-final-million-will-take-another-114-ye.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BitMEX co-founder pledges $27M to London maths institute after Trump pardon",
+      "summary": "Ben Delo paid a $10 million fine after pleading guilty to US banking violations in 2022 and was granted a pardon by President Donald Trump in March 2025.",
+      "url": "https://cointelegraph.com/news/bitmex-cofounder-ben-delo-pledges-27m-london-maths-institute-trump-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-03T08:11:56.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260303-bitmex-co-founder-pledges-27m-to-london-maths-institute-after-trump-pardon",
+      "localUrl": "/news/20260303-bitmex-co-founder-pledges-27m-to-london-maths-institute-after-trump-pardon.html"
+    },
     {
       "source": "Chainalysis Blog",
       "title": "Iranian Crypto Outflows Spike After Airstrikes Amid a Year of Rising On-Chain Activity",
@@ -20,6 +81,17 @@
       "category": "市场",
       "slug": "20260303-iranian-crypto-outflows-spike-after-airstrikes-amid-a-year-of-rising-on-chain-ac",
       "localUrl": "/news/20260303-iranian-crypto-outflows-spike-after-airstrikes-amid-a-year-of-rising-on-chain-ac.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 NOW: Bitcoin positive sentiment hits its highest level since February 6th as BTC rallies 7% and nearly breaches $70K, per Santiment. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WMjctczQ4aHBiQU9lTWZxUmR0SmJZWnA2M1BuSXdiLWZJUkpqWVlVUzBDb2tRN0IxYlhiTjJhUWVRbFVYYmNKbHdyUzR3Mld0bkxlMXZpRU40X2toN0xQaUR0Z0Y?oc=5\" target=\"_blank\">🔥 NOW: Bitcoin positive sentim…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WMjctczQ4aHBiQU9lTWZxUmR0SmJZWnA2M1BuSXdiLWZJUkpqWVlVUzBDb2tRN0IxYlhiTjJhUWVRbFVYYmNKbHdyUzR3Mld0bkxlMXZpRU40X2toN0xQaUR0Z0Y?oc=5",
+      "publishedAt": "2026-03-03T06:30:55.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260303-now-bitcoin-positive-sentiment-hits-its-highest-level-since-february-6th-as-btc-",
+      "localUrl": "/news/20260303-now-bitcoin-positive-sentiment-hits-its-highest-level-since-february-6th-as-btc-.html"
     },
     {
       "source": "Cointelegraph",
@@ -160,7 +232,7 @@
     {
       "source": "Cointelegraph",
       "title": "Senate housing bill amendment proposes to block US CBDC until 2030",
-      "summary": "The proposed prohibition was slipped into a Senate housing bill, reviving language used in previous standalone bills to block a Fed-issued US digital dollar.",
+      "summary": "The amendment appears in a broader housing bill and revives language from earlier standalone efforts to block a Fed-issued digital dollar.",
       "url": "https://cointelegraph.com/news/fed-blocked-issuing-cbdc-until-2030-proposed-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-03T04:13:09.000Z",
       "keywords": [
@@ -204,17 +276,6 @@
       "category": "X热点",
       "slug": "20260303-bullish-tennessees-strategic-bitcoin-reserve-act-is-recommended-for-passage-and-",
       "localUrl": "/news/20260303-bullish-tennessees-strategic-bitcoin-reserve-act-is-recommended-for-passage-and-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "geopolitics → macro → crypto key indicators now: oil, DXY, UST 2Y/10Y we are still in the range but it's a typical time to stay cautious - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mM2FQZGJfby1YdlNDaW1iX0YtckxnbTFXRWJHMlRWUV9CT0VxTG5qamRMT05XVjJBbmxXZFAyWndUSXczbGliVUN3SHhGT2NfUGVOVDVZUi1XTzR3SlRub1RoNUZyUQ?oc=5\" target=\"_blank\">geopolitics → macro → crypto…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mM2FQZGJfby1YdlNDaW1iX0YtckxnbTFXRWJHMlRWUV9CT0VxTG5qamRMT05XVjJBbmxXZFAyWndUSXczbGliVUN3SHhGT2NfUGVOVDVZUi1XTzR3SlRub1RoNUZyUQ?oc=5",
-      "publishedAt": "2026-03-03T02:30:07.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260303-geopolitics-macro-crypto-key-indicators-now-oil-dxy-ust-2y10y-we-are-still-in-th",
-      "localUrl": "/news/20260303-geopolitics-macro-crypto-key-indicators-now-oil-dxy-ust-2y10y-we-are-still-in-th.html"
     },
     {
       "source": "Decrypt",
@@ -632,19 +693,6 @@
       "localUrl": "/news/20260302-iran-conflict-not-major-concern-for-bitcoin-mining-hashrate-say-experts.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin holders show ‘zero panic‘ as BTC hits $70K amid Middle East tensions",
-      "summary": "Bitcoin short-term holder losses were minimal over the weekend, and the Monday rally to $70,000 suggests the heaviest selling is done. Will Bitcoin finally break the monthly resistance?",
-      "url": "https://cointelegraph.com/news/bitcoin-holders-show-zero-panic-as-btc-hits-dollar70k-amid-middle-east-tensions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-02T17:57:55.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "市场",
-      "slug": "20260302-bitcoin-holders-show-zero-panic-as-btc-hits-70k-amid-middle-east-tensions",
-      "localUrl": "/news/20260302-bitcoin-holders-show-zero-panic-as-btc-hits-70k-amid-middle-east-tensions.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin Spikes to $70K as Trump Says 'Large-Scale Operations' Continue in Iran",
       "summary": "The price of Bitcoin immediately fell following bombings on Iran this weekend, but then surged Monday as markets began to recover.",
@@ -656,19 +704,6 @@
       "category": "市场",
       "slug": "20260302-bitcoin-spikes-to-70k-as-trump-says-large-scale-operations-continue-in-iran",
       "localUrl": "/news/20260302-bitcoin-spikes-to-70k-as-trump-says-large-scale-operations-continue-in-iran.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Turkey’s ruling party proposes 10% crypto income tax",
-      "summary": "Under the proposed law, Turkey’s president would be allowed to change the income tax rate on digital assets from zero to up to 20%.",
-      "url": "https://cointelegraph.com/news/turkey-government-crypto-income-tax-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-02T17:45:54.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260302-turkeys-ruling-party-proposes-10-crypto-income-tax",
-      "localUrl": "/news/20260302-turkeys-ruling-party-proposes-10-crypto-income-tax.html"
     },
     {
       "source": "X Wire",
@@ -724,6 +759,17 @@
       "category": "X热点",
       "slug": "20260302-introducing-the-core-crypto-bonus-launching-march-10-exploring-avax-has-never-be",
       "localUrl": "/news/20260302-introducing-the-core-crypto-bonus-launching-march-10-exploring-avax-has-never-be.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: Bitcoin officially rises above $70,000, now at its highest level since February 15th. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkVHM5V0VOUERoTnBUVnVsZzRGUVRQajAwQ1R0aFItdS1VSU42SDJZeEc4MUhxa0dMTWlBc0ZDV1ZjSFdzZXBrOEtpNmpRMHROckdGTlcwal9RVnhQbXZ5YXZxQ1lZUQ?oc=5\" target=\"_blank\">BREAKING: Bitcoin officially…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkVHM5V0VOUERoTnBUVnVsZzRGUVRQajAwQ1R0aFItdS1VSU42SDJZeEc4MUhxa0dMTWlBc0ZDV1ZjSFdzZXBrOEtpNmpRMHROckdGTlcwal9RVnhQbXZ5YXZxQ1lZUQ?oc=5",
+      "publishedAt": "2026-03-02T16:49:10.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260302-breaking-bitcoin-officially-rises-above-70000-now-at-its-highest-level-since-feb",
+      "localUrl": "/news/20260302-breaking-bitcoin-officially-rises-above-70000-now-at-its-highest-level-since-feb.html"
     },
     {
       "source": "Decrypt",
@@ -975,23 +1021,6 @@
       "localUrl": "/news/20260302-turkeys-ruling-party-unveils-10-crypto-income-tax-proposal.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Strategy purchased more than $200 million in bitcoin last week",
-      "summary": "The latest purchase, funded through common and preferred stock sales, lifted total holdings to 720,737 coins valued at more than $47 billion.",
-      "url": "https://www.coindesk.com/markets/2026/03/02/strategy-purchased-more-than-usd200-million-in-bitcoin-last-week",
-      "publishedAt": "2026-03-02T13:26:18.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Michael Saylor",
-        "Strategy",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260302-strategy-purchased-more-than-200-million-in-bitcoin-last-week",
-      "localUrl": "/news/20260302-strategy-purchased-more-than-200-million-in-bitcoin-last-week.html"
-    },
-    {
       "source": "X Wire",
       "title": "We have acquired another 450 bitcoin at $BRR. We continue to aggressively repurchase shares trading below NAV. “Our disciplined approach to our balance sheet has put us in a position to play offense now that Bitcoin has significantly fallen from the all-time - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtOHJSTndHYmZpeEZSaGFOTXFaZDdfbHVQWFB4RXJnSmdHOWZyVGVRSVhxUHloOW85bENLX1ZHc0lEOWpXWjkyRFJhZ2ZGcEN1NzdGcHRoZV9GTTRUZks2Nw?oc=5\" target=\"_blank\">We have acquired another 450 bitcoin…",
@@ -1001,24 +1030,6 @@
       "category": "X热点",
       "slug": "20260302-we-have-acquired-another-450-bitcoin-at-brr-we-continue-to-aggressively-repurcha",
       "localUrl": "/news/20260302-we-have-acquired-another-450-bitcoin-at-brr-we-continue-to-aggressively-repurcha.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "South Korea investigates seed phrase leak in photo leading to $4.8 million crypto theft from tax authority",
-      "summary": "The National Tax Service said it had intended to provide a vivid shot of the seizure by sharing a photo.",
-      "url": "https://www.coindesk.com/business/2026/03/02/south-korea-investigates-seed-phrase-leak-in-photo-leading-to-usd4-8-million-crypto-theft-from-tax-authority",
-      "publishedAt": "2026-03-02T13:05:37.000Z",
-      "keywords": [
-        "Finance",
-        "South Korea",
-        "Passwords",
-        "Crypto Leaks",
-        "Theft",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260302-south-korea-investigates-seed-phrase-leak-in-photo-leading-to-48-million-crypto-",
-      "localUrl": "/news/20260302-south-korea-investigates-seed-phrase-leak-in-photo-leading-to-48-million-crypto-.html"
     },
     {
       "source": "X Wire",
@@ -1041,17 +1052,6 @@
       "category": "X热点",
       "slug": "20260302-bitcoin-closed-february-at-66985-below-2021-ath-approaching-200-week-moving-aver",
       "localUrl": "/news/20260302-bitcoin-closed-february-at-66985-below-2021-ath-approaching-200-week-moving-aver.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "💥BREAKING: 🇶🇦🇪🇺 Europe gas prices surge 50% after Qatari LNG production halts. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VZ1R4MVlPTXd1RmZWQnNXcUgwbnhxak1sSXByRUk4Z0lIck9vbF9yTFVJa0V2OWVTLUhZSmhBWTc5NzhILUp2TkNrczhheWVHbHZMN3JDRWZvVDRwbE5IZVRB?oc=5\" target=\"_blank\">💥BREAKING: 🇶🇦🇪🇺 Europe gas pr…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VZ1R4MVlPTXd1RmZWQnNXcUgwbnhxak1sSXByRUk4Z0lIck9vbF9yTFVJa0V2OWVTLUhZSmhBWTc5NzhILUp2TkNrczhheWVHbHZMN3JDRWZvVDRwbE5IZVRB?oc=5",
-      "publishedAt": "2026-03-02T12:45:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260302-breaking-europe-gas-prices-surge-50-after-qatari-lng-production-halts-xcom",
-      "localUrl": "/news/20260302-breaking-europe-gas-prices-surge-50-after-qatari-lng-production-halts-xcom.html"
     },
     {
       "source": "X Wire",
