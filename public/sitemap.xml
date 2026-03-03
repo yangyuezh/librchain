@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-03T09:58:59.735Z</lastmod>
+    <lastmod>2026-03-03T10:57:50.860Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-03T09:58:59.735Z</lastmod>
+    <lastmod>2026-03-03T10:57:50.860Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260303-japan-prime-minister-sanae-takaichi-disavows-solana-meme-coin-after-it-crashes-b.html</loc>
+    <lastmod>2026-03-03T10:24:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260303-riot-reports-record-647m-revenue-in-2025-as-other-bitcoin-miners-struggle.html</loc>
@@ -441,12 +447,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260302-anthropic-claude-outage-ai-chatbot-goes-offline-following-trump-pentagon-blowup.html</loc>
     <lastmod>2026-03-02T14:59:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260302-eu-banks-euro-pegged-stablecoin-in-talks-with-crypto-exchanges-to-ensure-liquidi.html</loc>
-    <lastmod>2026-03-02T14:37:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
