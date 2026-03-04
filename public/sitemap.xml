@@ -2,15 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-04T14:55:14.977Z</lastmod>
+    <lastmod>2026-03-04T15:56:39.707Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-04T14:55:14.977Z</lastmod>
+    <lastmod>2026-03-04T15:56:39.707Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-bitcoin-still-due-next-leg-down-as-73k-btc-price-precedes-death-cross.html</loc>
+    <lastmod>2026-03-04T15:42:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-cathie-woods-ark-invest-buys-the-dip-on-coinbase-and-robinhoodboth-now-surging.html</loc>
+    <lastmod>2026-03-04T15:21:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-coinbase-strategy-lead-crypto-stocks-higher-as-bitcoin-spikes-above-72000.html</loc>
+    <lastmod>2026-03-04T15:11:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-redstone-launches-stellar-price-feeds-after-10m-exploit-highlights-oracle-risks.html</loc>
+    <lastmod>2026-03-04T15:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-bitcoin-air-pocket-above-72000-could-mean-quick-run-to-80000.html</loc>
+    <lastmod>2026-03-04T14:58:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260304-coindesk-20-performance-update-solana-sol-gains-56-leading-index-higher.html</loc>
@@ -61,7 +91,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260304-trumps-crypto-adviser-rejects-dimon-on-treating-yield-bearing-stablecoins-like-b.html</loc>
+    <loc>https://www.librchain.com/news/20260304-irans-crypto-surge-spikes-amid-war-irans-78b-crypto-market-is-drawing-renewed-at.html</loc>
+    <lastmod>2026-03-04T13:19:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-trumps-crypto-adviser-rejects-jamie-dimon-on-treating-yield-bearing-stablecoins-.html</loc>
     <lastmod>2026-03-04T13:16:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -139,7 +175,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260304-kraken-becomes-first-crypto-company-to-secure-fed-master-account-access-wsj.html</loc>
+    <loc>https://www.librchain.com/news/20260304-kraken-becomes-first-crypto-company-to-secure-fed-master-account-access.html</loc>
     <lastmod>2026-03-04T11:29:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -201,6 +237,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260304-bitcoin-jumps-above-71000-building-on-its-resilience-to-middle-east-conflict.html</loc>
     <lastmod>2026-03-04T09:16:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-just-in-bitcoin-hits-71000-xcom.html</loc>
+    <lastmod>2026-03-04T09:10:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -289,18 +331,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260304-ai-agents-overwhelmingly-prefer-bitcoin-over-fiat-in-new-study.html</loc>
-    <lastmod>2026-03-04T03:54:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260304-trumps-ex-crypto-advisor-us-government-must-go-beyond-liking-bitcoin.html</loc>
-    <lastmod>2026-03-04T03:18:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260304-corporates-and-exchanges-rush-to-stake-ethereum-instead-of-selling.html</loc>
     <lastmod>2026-03-04T03:13:11.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -343,20 +373,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260303-trump-urges-passage-of-us-clarity-act-attacks-banks-for-undercutting-genius.html</loc>
-    <lastmod>2026-03-03T22:19:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260303-south-koreans-paid-in-crypto-for-revenge-attacks-involving-human-waste-say-polic.html</loc>
     <lastmod>2026-03-03T21:58:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260303-jp-morgan-ceo-jamie-dimon-says-stablecoin-issuers-paying-interest-should-be-regu.html</loc>
-    <lastmod>2026-03-03T21:09:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -463,26 +481,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260303-iranian-exchange-outflows-spiked-to-103m-amid-airstrikes-chainalysis.html</loc>
-    <lastmod>2026-03-03T13:18:26.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260303-boomers-to-the-rescue-again-as-bitcoin-etfs-record-15b-of-inflows-in-the-past-5-.html</loc>
-    <lastmod>2026-03-03T12:55:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260303-just-in-eric-trumps-american-bitcoin-purchased-11298-more-btc-miners-to-help-pro.html</loc>
     <lastmod>2026-03-03T12:53:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260303-new-the-bank-of-japan-will-experiment-with-blockchain-to-settle-deposits-held-by.html</loc>
-    <lastmod>2026-03-03T11:57:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
