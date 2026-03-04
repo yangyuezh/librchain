@@ -1,11 +1,37 @@
 {
-  "updatedAt": "2026-03-04T09:56:11.544Z",
+  "updatedAt": "2026-03-04T10:55:06.559Z",
   "total": 81,
   "items": [
     {
+      "source": "Cointelegraph",
+      "title": "Ex-OpenAI researcher’s hedge fund reveals big Bitcoin miner bets in new SEC filing",
+      "summary": "Leopold Aschenbrenner’s hedge fund Situational Awareness LP has scaled to $5.52 billion in equity exposure in less than a year by betting on power, data centers and Bitcoin miners.",
+      "url": "https://cointelegraph.com/news/situational-awareness-aschenbrenner-13f-ai-infrastructure-power-core-scientific?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-04T10:22:29.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260304-ex-openai-researchers-hedge-fund-reveals-big-bitcoin-miner-bets-in-new-sec-filin",
+      "localUrl": "/news/20260304-ex-openai-researchers-hedge-fund-reveals-big-bitcoin-miner-bets-in-new-sec-filin.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price nears one-month high as bulls propel BTC toward $72K",
+      "summary": "BTC price upside returned during Wednesday's Asia trading session as Bitcoin attacked a long-term trend line and psychological levels.",
+      "url": "https://cointelegraph.com/news/bitcoin-price-nears-one-month-high-as-bulls-propel-btc-toward-72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-04T10:12:16.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260304-bitcoin-price-nears-one-month-high-as-bulls-propel-btc-toward-72k",
+      "localUrl": "/news/20260304-bitcoin-price-nears-one-month-high-as-bulls-propel-btc-toward-72k.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Bitcoin jumps above $71,000, building on its resilience to Middle East conflict",
-      "summary": "Bitcoin climbed above $71,000, gaining more than 6 percent in 24 hours and leading broad advances in major cryptocurrencies.",
+      "summary": "Bitcoin climbed above $71,000, gaining more than 6% in 24 hours and leading broad advances in major cryptocurrencies.",
       "url": "https://www.coindesk.com/markets/2026/03/04/bitcoin-jumps-above-usd71-000-building-on-resilience-to-middle-east-conflict",
       "publishedAt": "2026-03-04T09:16:58.000Z",
       "keywords": [
@@ -531,19 +557,6 @@
       "localUrl": "/news/20260303-bitgo-expands-mica-compliant-crypto-as-a-service-across-eea.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "US Dollar Index nears 3-month high: Is this good or bad for Bitcoin?",
-      "summary": "US Dollar Index strength, fear that BTC miners may liquidate their reserves and Bitcoin’s performance compared to stocks raise concerns among investors.",
-      "url": "https://cointelegraph.com/news/us-dollar-index-nears-3-month-high-is-this-good-or-bad-for-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-03T20:40:40.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "DeFi",
-      "slug": "20260303-us-dollar-index-nears-3-month-high-is-this-good-or-bad-for-bitcoin",
-      "localUrl": "/news/20260303-us-dollar-index-nears-3-month-high-is-this-good-or-bad-for-bitcoin.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Indiana Governor signs bill into law that allows Bitcoin to be invested in state retirement plans 🇺🇸 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12bTB5U3ZROWlFX2tDVlgyS2VxOU50ZjBfOVNMMlpkSkdxdUVueXdWRU9yakVESG9VNktZbl84TlRrdS0xb2ZvMmU0MW5zVmowOEc5UzZRSjdya2UzLUlFek9zdzg1MTQ?oc=5\" target=\"_blank\">JUST IN: Indiana Governor s…",
@@ -577,19 +590,6 @@
       "category": "X热点",
       "slug": "20260303-moderator-you-also-need-to-figure-out-crypto-chairman-of-financialcmte-repfrench",
       "localUrl": "/news/20260303-moderator-you-also-need-to-figure-out-crypto-chairman-of-financialcmte-repfrench.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ripple expands stablecoin payments stack for banks, fintechs",
-      "summary": "The upgrade integrates custody, treasury automation and settlement tools as Ripple pushes deeper into institutional cross-border payments.",
-      "url": "https://cointelegraph.com/news/ripple-expands-institutional-stablecoin-payments-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-03T20:01:29.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260303-ripple-expands-stablecoin-payments-stack-for-banks-fintechs",
-      "localUrl": "/news/20260303-ripple-expands-stablecoin-payments-stack-for-banks-fintechs.html"
     },
     {
       "source": "CoinDesk",
@@ -769,6 +769,17 @@
       "category": "RWA",
       "slug": "20260303-bank-of-japan-expands-blockchain-settlement-sandbox-and-says-cbdc-efforts-are-on",
       "localUrl": "/news/20260303-bank-of-japan-expands-blockchain-settlement-sandbox-and-says-cbdc-efforts-are-on.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Some hear criticism; I hear opportunity. These are the reasons bitcoin is 4% of size of gold. If these critiques did not exist, bitcoin would already be ~$750,000/coin. I invest in bitcoin in part because I am confident these things will change over time. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE93LVRqR2xVZDdxUmYyNEZHRGtxeE5UeDVKT0RwNTRWdnFYMFAybUo2TEtmZmRCV05hOGZJeVk2TkNCdDJKVXFQUGtVd1R0TG1EWTYxSG1SdG1IQU5iN0RRNzVB?oc=5\" target=\"_blank\">Some hear criticism; I hear opport…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93LVRqR2xVZDdxUmYyNEZHRGtxeE5UeDVKT0RwNTRWdnFYMFAybUo2TEtmZmRCV05hOGZJeVk2TkNCdDJKVXFQUGtVd1R0TG1EWTYxSG1SdG1IQU5iN0RRNzVB?oc=5",
+      "publishedAt": "2026-03-03T16:44:55.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260303-some-hear-criticism-i-hear-opportunity-these-are-the-reasons-bitcoin-is-4-of-siz",
+      "localUrl": "/news/20260303-some-hear-criticism-i-hear-opportunity-these-are-the-reasons-bitcoin-is-4-of-siz.html"
     },
     {
       "source": "Decrypt",
@@ -1035,25 +1046,14 @@
     },
     {
       "source": "X Wire",
-      "title": "💥BREAKING: 🇰🇷🇯🇵 The Seoul Stock Exchange closed down 7%, marking its worst day in 19 months. U.S. futures are also deeply in the red and crypto markets are testing lower as well. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE83V3RUQ3RwVVl5TE81WGg2RFRLeWFLUWVYdkZYaTg4WHduaVBzVDU2ZUZmdEdFbW13Sm1ESDRjdm5jRkJMdTQ2MktmdTJFM285MDRJTDRaMFJnbncxWHc2X1RB?oc=5\" target=\"_blank\">💥BREAKING: 🇰🇷🇯🇵 The Seoul Sto…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83V3RUQ3RwVVl5TE81WGg2RFRLeWFLUWVYdkZYaTg4WHduaVBzVDU2ZUZmdEdFbW13Sm1ESDRjdm5jRkJMdTQ2MktmdTJFM285MDRJTDRaMFJnbncxWHc2X1RB?oc=5",
-      "publishedAt": "2026-03-03T08:56:03.000Z",
+      "title": "🇯🇵 Japan's central bank is moving blockchain closer to the heart of its financial system. Bank of Japan Governor Kazuo Ueda said the BOJ is experimenting with blockchain for central bank reserve settlements. Ueda added central banks must adapt to a “new fi - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tTjJKTk9JLWttOXlxUjMtZ2k2RnBEVUkwSXhSTjJhbWh5djY2WXMzbmRPWUdQdFhkX0owRExLWEFPMTE1R2ZWNU5leVNLNVhjcE5nMW1oRk5pc3dZMFFWVTBn?oc=5\" target=\"_blank\">🇯🇵 Japan's central bank is movin…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tTjJKTk9JLWttOXlxUjMtZ2k2RnBEVUkwSXhSTjJhbWh5djY2WXMzbmRPWUdQdFhkX0owRExLWEFPMTE1R2ZWNU5leVNLNVhjcE5nMW1oRk5pc3dZMFFWVTBn?oc=5",
+      "publishedAt": "2026-03-03T08:11:56.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260303-breaking-the-seoul-stock-exchange-closed-down-7-marking-its-worst-day-in-19-mont",
-      "localUrl": "/news/20260303-breaking-the-seoul-stock-exchange-closed-down-7-marking-its-worst-day-in-19-mont.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Very good move of #Bitcoin yesterday, holding above $65K and rallied towards the range resistance. I mentioned that I expected some days of consolidation before a breakout upwards is likely to occur. The fact is that we've been establishing this range for quit - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE15RUZzU0h0eGhzSkkwci1rbkljV24za1NFSWVneHBJVS00Nm5nZFZBYWZxOGljOFFoS2g1ZlpXQ1Jjc2pVWjV6bkM2bG92czRGZFdmME94VDliMkJaSW54NmFmTQ?oc=5\" target=\"_blank\">Very good move of #Bitcoin yeste…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15RUZzU0h0eGhzSkkwci1rbkljV24za1NFSWVneHBJVS00Nm5nZFZBYWZxOGljOFFoS2g1ZlpXQ1Jjc2pVWjV6bkM2bG92czRGZFdmME94VDliMkJaSW54NmFmTQ?oc=5",
-      "publishedAt": "2026-03-03T08:27:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260303-very-good-move-of-bitcoin-yesterday-holding-above-65k-and-rallied-towards-the-ra",
-      "localUrl": "/news/20260303-very-good-move-of-bitcoin-yesterday-holding-above-65k-and-rallied-towards-the-ra.html"
+      "slug": "20260303-japans-central-bank-is-moving-blockchain-closer-to-the-heart-of-its-financial-sy",
+      "localUrl": "/news/20260303-japans-central-bank-is-moving-blockchain-closer-to-the-heart-of-its-financial-sy.html"
     },
     {
       "source": "Chainalysis Blog",
