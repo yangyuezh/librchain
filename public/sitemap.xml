@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-04T19:49:52.506Z</lastmod>
+    <lastmod>2026-03-04T20:47:26.172Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-04T19:49:52.506Z</lastmod>
+    <lastmod>2026-03-04T20:47:26.172Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-a-suckers-rally-why-bitcoin-analysts-say-btc-price-must-hold-70k.html</loc>
+    <lastmod>2026-03-04T20:31:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-crypto-treasury-inflows-slow-to-the-lowest-since-october-2024.html</loc>
+    <lastmod>2026-03-04T20:18:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-trumps-press-on-policy-combining-with-institutional-adoption-for-new-crypto-bull.html</loc>
+    <lastmod>2026-03-04T20:14:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-trump-met-coinbase-ceo-before-slamming-banks-over-crypto-bill-report.html</loc>
+    <lastmod>2026-03-04T20:00:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260304-tradeweb-backs-crypto-ecn-crossover-markets-in-31m-funding-round.html</loc>
@@ -31,7 +55,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260304-morgan-stanley-picks-coinbase-bny-mellon-as-custodians-for-planned-bitcoin-etf.html</loc>
+    <loc>https://www.librchain.com/news/20260304-morgan-stanley-picks-coinbase-bny-as-custodians-for-planned-bitcoin-etf.html</loc>
     <lastmod>2026-03-04T18:52:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -81,6 +105,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260304-taiwan-indicts-62-over-laundering-339m-from-crypto-scam-compounds-in-cambodia.html</loc>
     <lastmod>2026-03-04T17:14:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-scotia-bank-has-launched-an-active-crypto-picking-etf-in-canada-today-notable-bc.html</loc>
+    <lastmod>2026-03-04T17:07:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -289,6 +319,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260304-just-in-kraken-becomes-the-first-crypto-exchange-to-gain-access-to-the-federal-r.html</loc>
+    <lastmod>2026-03-04T12:02:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260304-morgan-stanley-taps-coinbase-and-bny-for-custody-in-proposed-bitcoin-etf.html</loc>
     <lastmod>2026-03-04T11:59:43.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -309,12 +345,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260304-kraken-wins-kansas-city-fed-approval-for-limited-master-account-access.html</loc>
     <lastmod>2026-03-04T11:39:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260304-bitcoin-hits-one-month-high-near-72000-as-haven-demand-rises.html</loc>
-    <lastmod>2026-03-04T11:37:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -349,18 +379,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260304-ex-openai-researchers-hedge-fund-reveals-big-bitcoin-miner-bets-in-new-sec-filin.html</loc>
-    <lastmod>2026-03-04T10:22:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260304-bitcoin-price-nears-one-month-high-as-bulls-propel-btc-toward-72k.html</loc>
-    <lastmod>2026-03-04T10:12:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260304-calling-all-builders-build-the-future-of-crypto-ai-and-win-a-share-of-486-bnb-cr.html</loc>
     <lastmod>2026-03-04T10:00:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -369,12 +387,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260304-the-foundations-for-crypto-have-never-been-stronger-xcom.html</loc>
     <lastmod>2026-03-04T09:50:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260304-x-introduces-90-day-revenue-sharing-ban-for-undisclosed-ai-war-videos.html</loc>
-    <lastmod>2026-03-04T08:27:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -457,12 +469,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260303-ronin-ronin-has-announced-their-network-migration-to-a-new-ethereum-l2-coinbase-.html</loc>
-    <lastmod>2026-03-03T19:43:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260303-over-the-past-year-many-people-i-talk-to-have-expressed-worry-about-two-topics-v.html</loc>
     <lastmod>2026-03-03T19:21:45.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260303-just-in-iranians-are-buying-bitcoin-and-mass-withdrawing-it-into-self-custody-am.html</loc>
     <lastmod>2026-03-03T14:55:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260303-boomers-to-the-rescue-again-as-bitcoin-etfs-record-15b-of-inflows-in-the-past-5-.html</loc>
-    <lastmod>2026-03-03T12:55:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
