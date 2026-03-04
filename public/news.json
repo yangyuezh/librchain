@@ -1,19 +1,150 @@
 {
-  "updatedAt": "2026-03-04T11:43:29.520Z",
+  "updatedAt": "2026-03-04T13:20:55.795Z",
   "total": 81,
   "items": [
     {
+      "source": "CoinDesk",
+      "title": "Trump’s crypto adviser rejects Dimon on treating yield-bearing stablecoins like banks",
+      "summary": "White House adviser Patrick Witt said yield-bearing stablecoins needn't to face bank rules because the Genius Act bars issuers from lending reserves.",
+      "url": "https://www.coindesk.com/policy/2026/03/04/trump-s-crypto-adviser-rejects-dimon-on-treating-yield-bearing-stablecoins-like-banks",
+      "publishedAt": "2026-03-04T13:16:40.000Z",
+      "keywords": [
+        "Policy",
+        "White House",
+        "Patrick Witt",
+        "Jamie Dimon",
+        "Stablecoins",
+        "Yield",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260304-trumps-crypto-adviser-rejects-dimon-on-treating-yield-bearing-stablecoins-like-b",
+      "localUrl": "/news/20260304-trumps-crypto-adviser-rejects-dimon-on-treating-yield-bearing-stablecoins-like-b.html"
+    },
+    {
       "source": "Cointelegraph",
-      "title": "Kraken becomes first crypto company to get Fed master account: WSJ",
-      "summary": "Kraken Financial has gained direct access to US Federal Reserve's payment systems via a Kansas City Fed approval, though without full banking privileges such as interest on reserves.",
+      "title": "South Korea moves to cap crypto exchange shareholder stakes at 20%: Report",
+      "summary": "South Korea’s government and ruling party reportedly agreed on a proposal to cap major shareholder stakes in crypto exchanges at 20%, with limited exemptions for new operators.",
+      "url": "https://cointelegraph.com/news/south-korea-crypto-exchange-shareholder-cap-20-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-04T13:01:24.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260304-south-korea-moves-to-cap-crypto-exchange-shareholder-stakes-at-20-report",
+      "localUrl": "/news/20260304-south-korea-moves-to-cap-crypto-exchange-shareholder-stakes-at-20-report.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Market infrastructure firms warn tokenized securities face higher costs, split liquidity without interoperability",
+      "summary": "The DTCC, Euroclear and Clearstream argue that the principle of “same asset, same rights, same outcome” must apply across both distributed ledger technology networks and traditional finance systems.",
+      "url": "https://www.coindesk.com/markets/2026/03/04/market-infrastructure-firms-warn-tokenized-securities-face-higher-costs-split-liquidity-without-interoperability",
+      "publishedAt": "2026-03-04T13:00:00.000Z",
+      "keywords": [
+        "Markets",
+        "Tokenization",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260304-market-infrastructure-firms-warn-tokenized-securities-face-higher-costs-split-li",
+      "localUrl": "/news/20260304-market-infrastructure-firms-warn-tokenized-securities-face-higher-costs-split-li.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "XRP price breakout targets $1.95 amid five-day ETF inflow streak",
+      "summary": "XRP analysts highlighted the potential for a rebound to $1.95 as the price broke above a symmetrical triangle amid persistent institutional demand.",
+      "url": "https://cointelegraph.com/news/xrp-price-breakout-targets-1-95-five-day-etf-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-04T12:55:49.000Z",
+      "keywords": [
+        "Market Analysis"
+      ],
+      "category": "监管",
+      "slug": "20260304-xrp-price-breakout-targets-195-amid-five-day-etf-inflow-streak",
+      "localUrl": "/news/20260304-xrp-price-breakout-targets-195-amid-five-day-etf-inflow-streak.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Kraken Secures Access to Fed’s Core Payment Systems: WSJ",
+      "summary": "Kraken’s banking unit has won approval for a Federal Reserve “master account,” enabling it to move money on existing financial rails.",
+      "url": "https://decrypt.co/359913/kraken-secures-access-to-feds-core-payment-systems-wsj",
+      "publishedAt": "2026-03-04T12:34:30.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "监管",
+      "slug": "20260304-kraken-secures-access-to-feds-core-payment-systems-wsj",
+      "localUrl": "/news/20260304-kraken-secures-access-to-feds-core-payment-systems-wsj.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Here's why bitcoin climbed through $71,000",
+      "summary": "Your day-ahead look for March 4, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/03/04/here-s-why-bitcoin-climbed-through-usd71-000",
+      "publishedAt": "2026-03-04T12:15:00.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260304-heres-why-bitcoin-climbed-through-71000",
+      "localUrl": "/news/20260304-heres-why-bitcoin-climbed-through-71000.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Morgan Stanley taps Coinbase and BNY for custody in proposed Bitcoin ETF",
+      "summary": "BNY to act as administrator, transfer agent and cash custodian for Morgan Stanley’s proposed Bitcoin Trust.",
+      "url": "https://www.coindesk.com/markets/2026/03/04/morgan-stanley-taps-coinbase-and-bny-mellon-for-custody-in-proposed-bitcoin-etf",
+      "publishedAt": "2026-03-04T11:59:43.000Z",
+      "keywords": [
+        "Markets",
+        "Morgan Stanley",
+        "Bitcoin News",
+        "Coinbase",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260304-morgan-stanley-taps-coinbase-and-bny-for-custody-in-proposed-bitcoin-etf",
+      "localUrl": "/news/20260304-morgan-stanley-taps-coinbase-and-bny-for-custody-in-proposed-bitcoin-etf.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Three Bitcoin signals show $80K is next BTC price target for bulls",
+      "summary": "A symmetrical triangle breakout and an unfilled CME gap are boosting the case that Bitcoin may revisit $80,000 in March.",
+      "url": "https://cointelegraph.com/news/3-bitcoin-signals-80k-next-btc-price-target-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-04T11:56:05.000Z",
+      "keywords": [
+        "Market Analysis"
+      ],
+      "category": "市场",
+      "slug": "20260304-three-bitcoin-signals-show-80k-is-next-btc-price-target-for-bulls",
+      "localUrl": "/news/20260304-three-bitcoin-signals-show-80k-is-next-btc-price-target-for-bulls.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Pushes Past $71K, But Can the Rally Last?",
+      "summary": "Positioning resets and liquidity expectations have seen Bitcoin retest $71,000 amid the escalating conflict in the Middle East.",
+      "url": "https://decrypt.co/359910/bitcoin-pushes-past-71k-but-can-the-rally-last",
+      "publishedAt": "2026-03-04T11:55:53.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "DeFi",
+      "slug": "20260304-bitcoin-pushes-past-71k-but-can-the-rally-last",
+      "localUrl": "/news/20260304-bitcoin-pushes-past-71k-but-can-the-rally-last.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kraken wins Kansas City Fed approval for limited master account access",
+      "summary": "In a first for crypto, Kraken’s banking unit gained access to the US Federal Reserve’s payment system, Fedwire, though without full banking privileges such as interest on reserves.",
       "url": "https://cointelegraph.com/news/kraken-crypto-exchange-fed-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-04T11:39:42.000Z",
       "keywords": [
         "Latest News"
       ],
       "category": "综合",
-      "slug": "20260304-kraken-becomes-first-crypto-company-to-get-fed-master-account-wsj",
-      "localUrl": "/news/20260304-kraken-becomes-first-crypto-company-to-get-fed-master-account-wsj.html"
+      "slug": "20260304-kraken-wins-kansas-city-fed-approval-for-limited-master-account-access",
+      "localUrl": "/news/20260304-kraken-wins-kansas-city-fed-approval-for-limited-master-account-access.html"
     },
     {
       "source": "CoinDesk",
@@ -34,7 +165,7 @@
     {
       "source": "Cointelegraph",
       "title": "Iran’s largest crypto exchange shows no clear signs of capital flight: TRM",
-      "summary": "TRM says a post-strike spike in Nobitex wallet activity looked like routine liquidity moves, even as Chainalysis flagged higher outflows from Iranian exchanges overall.",
+      "summary": "TRM said a post-strike spike in Nobitex wallet activity looked like routine liquidity moves, even as Chainalysis flagged higher outflows from Iranian exchanges overall.",
       "url": "https://cointelegraph.com/news/iran-nobitex-no-capital-flight-trm-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-04T11:34:41.000Z",
       "keywords": [
@@ -62,6 +193,17 @@
       "localUrl": "/news/20260304-kraken-becomes-first-crypto-company-to-secure-fed-master-account-access-wsj.html"
     },
     {
+      "source": "X Wire",
+      "title": "🚨NEW: @krakenfx, the U.S.’s second-largest crypto exchange, has just done something no other crypto firm has done before: secured coveted access to the Federal Reserve. According to a report by the @WSJ released this morning, the exchange’s banking a - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QYUF3N3Y0Z1FKMTgtR3dwczBjdWlMMEhSYU5uQWdpcGVHbnJFNi1EbzRYNDlxMVZtZE1naC1QTk9zVDAzX1lDVTB3ZE5NbWxwdXctUGtUS2E5Vmh1N3JhaGgtU3gzUQ?oc=5\" target=\"_blank\">🚨NEW: @krakenfx, the U.S.’s…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QYUF3N3Y0Z1FKMTgtR3dwczBjdWlMMEhSYU5uQWdpcGVHbnJFNi1EbzRYNDlxMVZtZE1naC1QTk9zVDAzX1lDVTB3ZE5NbWxwdXctUGtUS2E5Vmh1N3JhaGgtU3gzUQ?oc=5",
+      "publishedAt": "2026-03-04T11:09:51.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260304-new-krakenfx-the-uss-second-largest-crypto-exchange-has-just-done-something-no-o",
+      "localUrl": "/news/20260304-new-krakenfx-the-uss-second-largest-crypto-exchange-has-just-done-something-no-o.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "FATF flags stablecoin P2P transfers as sanctions evasion risk",
       "summary": "The international watchdog says P2P stablecoin transfers via self-custody wallets can bypass AML checks and urges countries to assess risks and apply proportionate safeguards.",
@@ -73,6 +215,17 @@
       "category": "综合",
       "slug": "20260304-fatf-flags-stablecoin-p2p-transfers-as-sanctions-evasion-risk",
       "localUrl": "/news/20260304-fatf-flags-stablecoin-p2p-transfers-as-sanctions-evasion-risk.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: @krakenfx just became the first crypto firm to gain access to the Federal Reserve's core payments system, putting it on the same payment rails as thousands of U.S. banks and credit unions. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EWEhhR1NTUURiM0NBX09WMWZ5U25RU0FtRW13Y0pRSXF2b2pFVDN1alBYU3VfaWhXb3AtazRBMmtNb1RFaVNHTERsNjltVTBFVTNjZktZYUloOXhodFE?oc=5\" target=\"_blank\">BREAKING: @krakenfx just became the fir…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EWEhhR1NTUURiM0NBX09WMWZ5U25RU0FtRW13Y0pRSXF2b2pFVDN1alBYU3VfaWhXb3AtazRBMmtNb1RFaVNHTERsNjltVTBFVTNjZktZYUloOXhodFE?oc=5",
+      "publishedAt": "2026-03-04T11:00:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260304-breaking-krakenfx-just-became-the-first-crypto-firm-to-gain-access-to-the-federa",
+      "localUrl": "/news/20260304-breaking-krakenfx-just-became-the-first-crypto-firm-to-gain-access-to-the-federa.html"
     },
     {
       "source": "CoinDesk",
@@ -90,6 +243,28 @@
       "category": "市场",
       "slug": "20260304-strategys-strc-stock-signals-1000-btc-purchase-in-biggest-one-day-issuance-since",
       "localUrl": "/news/20260304-strategys-strc-stock-signals-1000-btc-purchase-in-biggest-one-day-issuance-since.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: Bitcoin surges above $71,000 and hits its highest level since February 8th. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE93M0haSkhjOTF6dnBVcWo3RlhfRzhIMVIwMklPSUJrYWp2bVJoZHFYdy01ZmhRc3BHVU94QVIxT2ZBdlJFQVFleEZNN0Q5eUhsajZRUDBiTXdzVlBzWHBQdXFfazVRdw?oc=5\" target=\"_blank\">BREAKING: Bitcoin surges abo…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93M0haSkhjOTF6dnBVcWo3RlhfRzhIMVIwMklPSUJrYWp2bVJoZHFYdy01ZmhRc3BHVU94QVIxT2ZBdlJFQVFleEZNN0Q5eUhsajZRUDBiTXdzVlBzWHBQdXFfazVRdw?oc=5",
+      "publishedAt": "2026-03-04T10:48:53.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260304-breaking-bitcoin-surges-above-71000-and-hits-its-highest-level-since-february-8t",
+      "localUrl": "/news/20260304-breaking-bitcoin-surges-above-71000-and-hits-its-highest-level-since-february-8t.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: South Korea to cap crypto exchange ownership stakes at 20%, with a three-year grace period for @Official_Upbit and @BithumbOfficial. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LVm1RaVZoajJKNHFYN0hsQ2dJN0EtTTVyUkVETThycmxZRDBEeFhUWFVNcnpPbU9fTjJmdXY4YzRWRGllRndjRU1JSkwwR2pQTXZJQ1Foc2d2WE9wclE?oc=5\" target=\"_blank\">JUST IN: South Korea to cap crypto exch…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LVm1RaVZoajJKNHFYN0hsQ2dJN0EtTTVyUkVETThycmxZRDBEeFhUWFVNcnpPbU9fTjJmdXY4YzRWRGllRndjRU1JSkwwR2pQTXZJQ1Foc2d2WE9wclE?oc=5",
+      "publishedAt": "2026-03-04T10:37:15.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260304-just-in-south-korea-to-cap-crypto-exchange-ownership-stakes-at-20-with-a-three-y",
+      "localUrl": "/news/20260304-just-in-south-korea-to-cap-crypto-exchange-ownership-stakes-at-20-with-a-three-y.html"
     },
     {
       "source": "Cointelegraph",
@@ -118,6 +293,17 @@
       "localUrl": "/news/20260304-bitcoin-price-nears-one-month-high-as-bulls-propel-btc-toward-72k.html"
     },
     {
+      "source": "X Wire",
+      "title": "The foundations for crypto have never been stronger. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZLU5Vdm9odDBKdUpWN2M0aFZhS2R3RlI3MHhXeHFXMHVLekJNN2tiTE1Nb0hhUmVBMlVkSTgxbDVPa0dsVGhRSzFrLVZraUcwRDVEUWZhRTBXejVveGYwcDl1VmVCc2c?oc=5\" target=\"_blank\">The foundations for crypto …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZLU5Vdm9odDBKdUpWN2M0aFZhS2R3RlI3MHhXeHFXMHVLekJNN2tiTE1Nb0hhUmVBMlVkSTgxbDVPa0dsVGhRSzFrLVZraUcwRDVEUWZhRTBXejVveGYwcDl1VmVCc2c?oc=5",
+      "publishedAt": "2026-03-04T09:50:18.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260304-the-foundations-for-crypto-have-never-been-stronger-xcom",
+      "localUrl": "/news/20260304-the-foundations-for-crypto-have-never-been-stronger-xcom.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Bitcoin jumps above $71,000, building on its resilience to Middle East conflict",
       "summary": "Bitcoin climbed above $71,000, gaining more than 6% in 24 hours and leading broad advances in major cryptocurrencies.",
@@ -131,6 +317,17 @@
       "category": "市场",
       "slug": "20260304-bitcoin-jumps-above-71000-building-on-its-resilience-to-middle-east-conflict",
       "localUrl": "/news/20260304-bitcoin-jumps-above-71000-building-on-its-resilience-to-middle-east-conflict.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin just returned to $71,000. Trader 0x004E chased the pump and opened a 30x long on 600 $BTC($42.7M) in the past 20 minutes at an entry price of $70,235.8. He is already up $570K in unrealized profit. Liquidation price: $66,942.69. hypurrscan.io/addr - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ta0lCcElDeG9nRGNyWThSVGtXdnZyWGxKMUxtUmwtS3NjbWZWRy14aUxoeGtRSjVXLXNwLWNkRWpJQ0JXVFBaaWU4WFNZdGplcDFUd0RwVHNFeVpBb294eTdR?oc=5\" target=\"_blank\">Bitcoin just returned to $71,000. …",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ta0lCcElDeG9nRGNyWThSVGtXdnZyWGxKMUxtUmwtS3NjbWZWRy14aUxoeGtRSjVXLXNwLWNkRWpJQ0JXVFBaaWU4WFNZdGplcDFUd0RwVHNFeVpBb294eTdR?oc=5",
+      "publishedAt": "2026-03-04T09:09:56.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260304-bitcoin-just-returned-to-71000-trader-0x004e-chased-the-pump-and-opened-a-30x-lo",
+      "localUrl": "/news/20260304-bitcoin-just-returned-to-71000-trader-0x004e-chased-the-pump-and-opened-a-30x-lo.html"
     },
     {
       "source": "Cointelegraph",
@@ -342,17 +539,6 @@
       "localUrl": "/news/20260304-ai-agents-overwhelmingly-prefer-bitcoin-over-fiat-in-new-study.html"
     },
     {
-      "source": "X Wire",
-      "title": "🚨 ₩1,000,000,000,000,000 has been wiped out from the South Korean stock market in the last 48 hours. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldEZNQkFYSm1TWUU5WWIybGU1WDBHRnJlUVJIUGIwbFJDVmdZeWQ0OTM4V082ZmRSc21hTWlSTnRqbkpiZURTRkNFUDJrd0F6QXNheXVKb2doYWZMai1B?oc=5\" target=\"_blank\">🚨 ₩1,000,000,000,000,000 has been wip…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldEZNQkFYSm1TWUU5WWIybGU1WDBHRnJlUVJIUGIwbFJDVmdZeWQ0OTM4V082ZmRSc21hTWlSTnRqbkpiZURTRkNFUDJrd0F6QXNheXVKb2doYWZMai1B?oc=5",
-      "publishedAt": "2026-03-04T03:41:58.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260304-1000000000000000-has-been-wiped-out-from-the-south-korean-stock-market-in-the-la",
-      "localUrl": "/news/20260304-1000000000000000-has-been-wiped-out-from-the-south-korean-stock-market-in-the-la.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Trump’s ex-crypto advisor: US government must go beyond ‘liking Bitcoin’",
       "summary": "Bitcoin will eventually reach a point where the US government creates the conditions it needs to succeed, whether that takes 10 or 20 years, according to a Bitcoin executive.",
@@ -474,30 +660,6 @@
       "localUrl": "/news/20260303-x-warns-against-creator-payouts-over-undisclosed-ai-war-videos.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-03T23:17:28.000Z",
-      "keywords": [
-        "Trump memecoin",
-        "Solana memecoin",
-        "TRUMP token",
-        "Solana",
-        "SOL",
-        "Nova Labs",
-        "SEC",
-        "Securities and Exchange Commission",
-        "Crypto regulation",
-        "TRUMP rally",
-        "Bitcoin",
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260303-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260303-heres-what-happened-in-crypto-today.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Trump Urges Congress to Move on Crypto Rules Amid Banking Clash",
       "summary": "The dispute centers on whether crypto firms should be allowed to offer stablecoin yield, an issue that has stalled key negotiations.",
@@ -512,17 +674,6 @@
     },
     {
       "source": "X Wire",
-      "title": "⚡️ LATEST: Vitalik Buterin says Ethereum should focus on building “sanctuary technologies” that protect freedom, privacy, and coordination as government and corporate control expands. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EMEdhalVodERsUGVzNnJmakZQbzY1TEEtZ0VRcXlJMWNKa0lUVU5US3Z4M29VU2Zsc2FVN0VydFJBVUIzU1lGQXpyblFBVnVOMUZkYmd0Vld2U01xbTlwZ3hjYVU?oc=5\" target=\"_blank\">⚡️ LATEST: Vitalik Buterin says…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EMEdhalVodERsUGVzNnJmakZQbzY1TEEtZ0VRcXlJMWNKa0lUVU5US3Z4M29VU2Zsc2FVN0VydFJBVUIzU1lGQXpyblFBVnVOMUZkYmd0Vld2U01xbTlwZ3hjYVU?oc=5",
-      "publishedAt": "2026-03-03T23:00:39.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260303-latest-vitalik-buterin-says-ethereum-should-focus-on-building-sanctuary-technolo",
-      "localUrl": "/news/20260303-latest-vitalik-buterin-says-ethereum-should-focus-on-building-sanctuary-technolo.html"
-    },
-    {
-      "source": "X Wire",
       "title": "JUST IN: 🇺🇸 CFTC Chair Mike Selig says crypto market structure legislation \"must pass.\" \"It's critical we have a future-proof digital asset market structure in place.\" - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wbEpGT1kwVTNZaXFPV25LWlBMZTlLYlBTdHl5RnM1MTlSblQzQ205SkVjSk1vdlVqYkJScGkzMnhlTWRpVXVEVE9KTGk1ZFJ4UmVjZExSOXJkWEc1V0I2c19B?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 CFTC Chair Mike Seli…",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wbEpGT1kwVTNZaXFPV25LWlBMZTlLYlBTdHl5RnM1MTlSblQzQ205SkVjSk1vdlVqYkJScGkzMnhlTWRpVXVEVE9KTGk1ZFJ4UmVjZExSOXJkWEc1V0I2c19B?oc=5",
@@ -531,32 +682,6 @@
       "category": "X热点",
       "slug": "20260303-just-in-cftc-chair-mike-selig-says-crypto-market-structure-legislation-must-pass",
       "localUrl": "/news/20260303-just-in-cftc-chair-mike-selig-says-crypto-market-structure-legislation-must-pass.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "What’s at stake for crypto as primaries begin in 3 US states",
-      "summary": "Super PACs backed by the crypto industry are expected to spend millions of dollars in the 2026 midterm elections after many of their chosen candidates won in 2024.",
-      "url": "https://cointelegraph.com/news/crypto-laws-states-party-primaries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-03T22:33:19.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260303-whats-at-stake-for-crypto-as-primaries-begin-in-3-us-states",
-      "localUrl": "/news/20260303-whats-at-stake-for-crypto-as-primaries-begin-in-3-us-states.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Locals prefer satoshis to dollars, says Africa Bitcoin chair Stafford Masie",
-      "summary": "In an interview with Natalie Brunell on Coin Stories, Masie described Bitcoin as functional currency in parts of Africa amid rapid inflation and currency debasement.",
-      "url": "https://cointelegraph.com/news/where-i-come-from-bitcoin-is-money-says-africa-bitcoin-corp-chair-stafford-masie?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-03T22:26:34.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260303-locals-prefer-satoshis-to-dollars-says-africa-bitcoin-chair-stafford-masie",
-      "localUrl": "/news/20260303-locals-prefer-satoshis-to-dollars-says-africa-bitcoin-chair-stafford-masie.html"
     },
     {
       "source": "CoinDesk",
@@ -771,56 +896,6 @@
       "localUrl": "/news/20260303-ai-agents-will-be-primary-users-of-blockchain-near-co-founder-says.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Aave governance rift deepens as major governance group exits $26 billion DeFi protocol",
-      "summary": "The conflict centered on a proposal to fund product development and expansion, which ACI opposed due to concerns over self-voting and lack of transparency.",
-      "url": "https://www.coindesk.com/web3/2026/03/03/aave-governance-rift-deepens-as-major-governance-group-exits-usd26-billion-defi-protocol",
-      "publishedAt": "2026-03-03T17:26:07.000Z",
-      "keywords": [
-        "Web3",
-        "Aave",
-        "Decentralization",
-        "DeFi",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260303-aave-governance-rift-deepens-as-major-governance-group-exits-26-billion-defi-pro",
-      "localUrl": "/news/20260303-aave-governance-rift-deepens-as-major-governance-group-exits-26-billion-defi-pro.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Eric Trump’s American Bitcoin buys 11,298 ASIC miners, increasing mining capacity by 12%",
-      "summary": "The move stands in stark contrast to the company's peers, many of whom are moving away from or totally abandoning the business of bitcoin mining.",
-      "url": "https://www.coindesk.com/business/2026/03/03/eric-trump-s-american-bitcoin-buys-11-298-asic-miners-increasing-capacity-by-12",
-      "publishedAt": "2026-03-03T17:18:21.000Z",
-      "keywords": [
-        "Finance",
-        "Eric Trump",
-        "Bitcoin Mining",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260303-eric-trumps-american-bitcoin-buys-11298-asic-miners-increasing-mining-capacity-b",
-      "localUrl": "/news/20260303-eric-trumps-american-bitcoin-buys-11298-asic-miners-increasing-mining-capacity-b.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bank of Japan expands blockchain settlement sandbox and says CBDC efforts are ongoing",
-      "summary": "The BOJ is testing blockchain settlement for reserves and exploring tokenized central bank money as it prepares to decide in 2026 whether to issue a retail digital yen.",
-      "url": "https://www.coindesk.com/business/2026/03/03/bank-of-japan-expands-blockchain-settlement-sandbox-as-2026-cbdc-decision-nears",
-      "publishedAt": "2026-03-03T17:09:59.000Z",
-      "keywords": [
-        "Finance",
-        "Bank of Japan",
-        "Blockchain Sandbox",
-        "CBDC",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260303-bank-of-japan-expands-blockchain-settlement-sandbox-and-says-cbdc-efforts-are-on",
-      "localUrl": "/news/20260303-bank-of-japan-expands-blockchain-settlement-sandbox-and-says-cbdc-efforts-are-on.html"
-    },
-    {
       "source": "X Wire",
       "title": "Some hear criticism; I hear opportunity. These are the reasons bitcoin is 4% of size of gold. If these critiques did not exist, bitcoin would already be ~$750,000/coin. I invest in bitcoin in part because I am confident these things will change over time. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE93LVRqR2xVZDdxUmYyNEZHRGtxeE5UeDVKT0RwNTRWdnFYMFAybUo2TEtmZmRCV05hOGZJeVk2TkNCdDJKVXFQUGtVd1R0TG1EWTYxSG1SdG1IQU5iN0RRNzVB?oc=5\" target=\"_blank\">Some hear criticism; I hear opport…",
@@ -856,22 +931,6 @@
       "localUrl": "/news/20260303-just-in-paraguays-national-electricity-administration-signs-memorandum-to-explor.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin attempting to make a stand as global stock markets melt down on Iran war",
-      "summary": "Having already plunged in the months leading up to the Middle East conflict, crypto markets so far aren't making new lows this week.",
-      "url": "https://www.coindesk.com/markets/2026/03/03/bitcoin-attempting-to-make-a-stand-as-global-stock-markets-melt-down-on-iran-war",
-      "publishedAt": "2026-03-03T16:04:53.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Breaking News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260303-bitcoin-attempting-to-make-a-stand-as-global-stock-markets-melt-down-on-iran-war",
-      "localUrl": "/news/20260303-bitcoin-attempting-to-make-a-stand-as-global-stock-markets-melt-down-on-iran-war.html"
-    },
-    {
       "source": "Decrypt",
       "title": "JPMorgan CEO Jamie Dimon Slams Stablecoin Yield Demands: 'The Public Will Pay'",
       "summary": "Jamie Dimon said if crypto companies like Coinbase want to offer stablecoin rewards, then they should become banks. “Then you can do whatever you want,” he said.",
@@ -883,17 +942,6 @@
       "category": "监管",
       "slug": "20260303-jpmorgan-ceo-jamie-dimon-slams-stablecoin-yield-demands-the-public-will-pay",
       "localUrl": "/news/20260303-jpmorgan-ceo-jamie-dimon-slams-stablecoin-yield-demands-the-public-will-pay.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "In crypto, visibility is KING. Attention is the asset. Today we’re launching CMC Max. Designed to elevate your presence where attention already lives. 1/5 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UZUNaajdISVp2UXNrU3dTM2w3NzUwUklETnY4TjM5V1B5SmpsOHAtajlqZ0JQUEFOVUQzZlcwaXRNUVRqSGNqWG9RVGk2c0lEWi1WSlU3WjNjbzdFb3l3Z0NyaWU?oc=5\" target=\"_blank\">In crypto, visibility is KING. …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UZUNaajdISVp2UXNrU3dTM2w3NzUwUklETnY4TjM5V1B5SmpsOHAtajlqZ0JQUEFOVUQzZlcwaXRNUVRqSGNqWG9RVGk2c0lEWi1WSlU3WjNjbzdFb3l3Z0NyaWU?oc=5",
-      "publishedAt": "2026-03-03T15:25:12.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260303-in-crypto-visibility-is-king-attention-is-the-asset-today-were-launching-cmc-max",
-      "localUrl": "/news/20260303-in-crypto-visibility-is-king-attention-is-the-asset-today-were-launching-cmc-max.html"
     },
     {
       "source": "Decrypt",
@@ -929,17 +977,6 @@
       "category": "X热点",
       "slug": "20260303-1000000000000-has-been-wiped-out-from-stocks-since-the-us-market-opened-xcom",
       "localUrl": "/news/20260303-1000000000000-has-been-wiped-out-from-stocks-since-the-us-market-opened-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🇺🇸 New Study from BPI: Frontier AI agents prefer bitcoin over stablecoins and other forms of money. BPI tested 36 models over 9000+ conversations, and the AIs overwhelmingly chose to use Bitcoin for their economic activity. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rcUEzNWVPbl9EZmVxWEthSUV2UXB3eHlaR3Bpa291bEk4VU40YjJkckk1b25JQ2d6cG9IRGdBVEVLUXB1RGFTd0s1cERTeGRoMEJzTHhzcXZyem91NjI0cE1NZEw?oc=5\" target=\"_blank\">🇺🇸 New Study from BPI: Fronti…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rcUEzNWVPbl9EZmVxWEthSUV2UXB3eHlaR3Bpa291bEk4VU40YjJkckk1b25JQ2d6cG9IRGdBVEVLUXB1RGFTd0s1cERTeGRoMEJzTHhzcXZyem91NjI0cE1NZEw?oc=5",
-      "publishedAt": "2026-03-03T14:45:35.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260303-new-study-from-bpi-frontier-ai-agents-prefer-bitcoin-over-stablecoins-and-other-",
-      "localUrl": "/news/20260303-new-study-from-bpi-frontier-ai-agents-prefer-bitcoin-over-stablecoins-and-other-.html"
     },
     {
       "source": "Decrypt",
@@ -1015,17 +1052,6 @@
     },
     {
       "source": "X Wire",
-      "title": "💥BREAKING: Iran's new Defence Minister assassinated. 24hours after taking over the role from his predecessor who was also assassinated. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FZDVBdGstMjVFaUIwd3Y1WUJMbVVxZjZ6R0lFOVpjd1JneE02b2NPcFJ1bUpxbV9oNEt6YkU3TkZvZHZ3WU9iM01fa3ZMZWlCVFhRLUJnckE0RGJVZFBibXlR?oc=5\" target=\"_blank\">💥BREAKING: Iran's new Defence Min…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FZDVBdGstMjVFaUIwd3Y1WUJMbVVxZjZ6R0lFOVpjd1JneE02b2NPcFJ1bUpxbV9oNEt6YkU3TkZvZHZ3WU9iM01fa3ZMZWlCVFhRLUJnckE0RGJVZFBibXlR?oc=5",
-      "publishedAt": "2026-03-03T12:41:21.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260303-breaking-irans-new-defence-minister-assassinated-24hours-after-taking-over-the-r",
-      "localUrl": "/news/20260303-breaking-irans-new-defence-minister-assassinated-24hours-after-taking-over-the-r.html"
-    },
-    {
-      "source": "X Wire",
       "title": "NEW: The Bank of Japan will experiment with blockchain to settle deposits held by financial institutions at the central bank, enabling 24/7 instant settlement and reducing gridlock risk in stress events. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RaVh4eVEwejVKQ2ZXT3RpQXFkSC1FSkpsRmc4RmdjOVdaRDZhMjdlYy1kekYxSERXMVB3M1ppMS1lMk5kVzFib0plajF2ZXZUSXhESXRaQUVDSnVfOVE?oc=5\" target=\"_blank\">NEW: The Bank of Japan will experiment …",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RaVh4eVEwejVKQ2ZXT3RpQXFkSC1FSkpsRmc4RmdjOVdaRDZhMjdlYy1kekYxSERXMVB3M1ppMS1lMk5kVzFib0plajF2ZXZUSXhESXRaQUVDSnVfOVE?oc=5",
@@ -1034,19 +1060,6 @@
       "category": "X热点",
       "slug": "20260303-new-the-bank-of-japan-will-experiment-with-blockchain-to-settle-deposits-held-by",
       "localUrl": "/news/20260303-new-the-bank-of-japan-will-experiment-with-blockchain-to-settle-deposits-held-by.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Four Headwinds Stalling Bitcoin's $70K Breakout",
-      "summary": "Bitcoin pulled back from Monday’s peak near $70,000 as geopolitical and economic headwinds hold a recovery rally in check.",
-      "url": "https://decrypt.co/359786/four-headwinds-stalling-bitcoins-70k-breakout",
-      "publishedAt": "2026-03-03T11:48:25.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260303-four-headwinds-stalling-bitcoins-70k-breakout",
-      "localUrl": "/news/20260303-four-headwinds-stalling-bitcoins-70k-breakout.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -1066,30 +1079,6 @@
       "category": "市场",
       "slug": "20260303-iranian-crypto-outflows-spike-after-airstrikes-amid-a-year-of-rising-on-chain-ac",
       "localUrl": "/news/20260303-iranian-crypto-outflows-spike-after-airstrikes-amid-a-year-of-rising-on-chain-ac.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Circle Stock Extends Double-Digit Gains Amid Broader Crypto Rally",
-      "summary": "Circle’s post-earnings breakout gains continue to rise as USDC growth, policy shifts, and macro volatility converge.",
-      "url": "https://decrypt.co/359772/circle-stock-extends-double-digit-gains-crypto-rally",
-      "publishedAt": "2026-03-03T05:24:17.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260303-circle-stock-extends-double-digit-gains-amid-broader-crypto-rally",
-      "localUrl": "/news/20260303-circle-stock-extends-double-digit-gains-amid-broader-crypto-rally.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Finally, the block building pipeline. In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a free permissionless market of block builders. This ensures that block builder centralization does not creep into staking centralization, but it leave - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qYmd3OUhmRGo0dFJHeE82MjhwVjdxdENpVDZGd2RndHprdWZ2UThmaVczX084SGVXaWpTUzRIcFJDa3ZOdTZrVFNLektzMnpFWVBCN3JnSDI0LXBuZ2VhckNvdS1Zdw?oc=5\" target=\"_blank\">Finally, the block building …",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qYmd3OUhmRGo0dFJHeE82MjhwVjdxdENpVDZGd2RndHprdWZ2UThmaVczX084SGVXaWpTUzRIcFJDa3ZOdTZrVFNLektzMnpFWVBCN3JnSDI0LXBuZ2VhckNvdS1Zdw?oc=5",
-      "publishedAt": "2026-03-02T17:33:31.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260302-finally-the-block-building-pipeline-in-glamsterdam-ethereum-is-getting-epbs-whic",
-      "localUrl": "/news/20260302-finally-the-block-building-pipeline-in-glamsterdam-ethereum-is-getting-epbs-whic.html"
     },
     {
       "source": "X Wire",
