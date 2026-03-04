@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-04T04:49:36.812Z</lastmod>
+    <lastmod>2026-03-04T05:57:31.492Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-04T04:49:36.812Z</lastmod>
+    <lastmod>2026-03-04T05:57:31.492Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-polymarket-pulls-nuclear-detonation-market-following-public-backlash.html</loc>
+    <lastmod>2026-03-04T05:31:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-bitcoin-holds-ether-solana-slide-as-mideast-woes-drag-asian-equities-to-multi-ye.html</loc>
+    <lastmod>2026-03-04T05:06:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-ripple-expands-payments-platform-into-end-to-end-stablecoin-infrastructure-as-pr.html</loc>
+    <lastmod>2026-03-04T04:47:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260304-tradfi-to-adopt-247-crypto-rails-sooner-than-expected-bitwise.html</loc>
@@ -331,12 +349,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260303-in-crypto-visibility-is-king-attention-is-the-asset-today-were-launching-cmc-max.html</loc>
-    <lastmod>2026-03-03T15:25:12.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260303-here-is-why-harvard-trimmed-bitcoin-and-bought-ether-and-why-the-move-is-bullish.html</loc>
     <lastmod>2026-03-03T15:23:08.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -403,12 +415,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260303-bitcoin-could-slide-further-on-liquidity-squeeze-but-long-term-bull-case-intact-.html</loc>
-    <lastmod>2026-03-03T12:55:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260303-boomers-to-the-rescue-again-as-bitcoin-etfs-record-15b-of-inflows-in-the-past-5-.html</loc>
     <lastmod>2026-03-03T12:55:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -423,12 +429,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260303-breaking-irans-new-defence-minister-assassinated-24hours-after-taking-over-the-r.html</loc>
     <lastmod>2026-03-03T12:41:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260303-oil-shock-and-inflation-fears-drag-down-bitcoin.html</loc>
-    <lastmod>2026-03-03T12:15:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,12 +475,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260303-court-ruling-raises-risk-of-nevada-trading-halt-for-kalshi-polymarket.html</loc>
-    <lastmod>2026-03-03T04:33:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260302-finally-the-block-building-pipeline-in-glamsterdam-ethereum-is-getting-epbs-whic.html</loc>
     <lastmod>2026-03-02T17:33:31.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,6 +483,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260302-strategy-has-acquired-3015-btc-for-2041-million-at-67700-per-bitcoin-as-of-31202.html</loc>
     <lastmod>2026-03-02T13:02:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260302-starting-march-1-all-hourly-employees-earn-a-bitcoin-bonus-of-21-cents-per-hour-.html</loc>
+    <lastmod>2026-03-02T04:11:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
