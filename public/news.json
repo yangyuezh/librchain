@@ -1,7 +1,107 @@
 {
-  "updatedAt": "2026-03-05T20:52:05.317Z",
+  "updatedAt": "2026-03-05T21:48:52.657Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. banking agencies say capital should be same for standard or tokenized securities",
+      "summary": "The Federal Reserve and other banking regulators clarified that the capital tally in banks needs identical treatment whether securities are tokenized or not.",
+      "url": "https://www.coindesk.com/policy/2026/03/05/u-s-banking-agencies-say-capital-should-be-same-for-standard-or-tokenized-securities",
+      "publishedAt": "2026-03-05T21:47:16.000Z",
+      "keywords": [
+        "Policy",
+        "Federal Reserve",
+        "Tokenized Securities",
+        "Bank",
+        "Regulations",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260305-us-banking-agencies-say-capital-should-be-same-for-standard-or-tokenized-securit",
+      "localUrl": "/news/20260305-us-banking-agencies-say-capital-should-be-same-for-standard-or-tokenized-securit.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "SEC proposes 'token taxonomy' for interpreting crypto under securities laws",
+      "summary": "The proposed interpretative application of federal securities laws on digital assets by the SEC reportedly carries more weight than staff-level statements.",
+      "url": "https://cointelegraph.com/news/sec-proposal-white-house-interpreting-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-05T21:38:08.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260305-sec-proposes-token-taxonomy-for-interpreting-crypto-under-securities-laws",
+      "localUrl": "/news/20260305-sec-proposes-token-taxonomy-for-interpreting-crypto-under-securities-laws.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Roblox Is Now Using AI to Rewrite Chat Swears and Slurs in Real Time",
+      "summary": "Roblox's new AI feature replaces blocked messages with rewritten text to keep conversations readable while enforcing platform rules.",
+      "url": "https://decrypt.co/360183/roblox-using-ai-rewrite-chat-swears-slurs-real-time",
+      "publishedAt": "2026-03-05T21:37:17.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260305-roblox-is-now-using-ai-to-rewrite-chat-swears-and-slurs-in-real-time",
+      "localUrl": "/news/20260305-roblox-is-now-using-ai-to-rewrite-chat-swears-and-slurs-in-real-time.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Short seller Culper bets against ether, Tom Lee's BitMine citing 'death spiral' risk",
+      "summary": "The short seller firm said that Ethereum's native token is \"impaired,\" leaving treasury firm BitMine holding the bag while co-founder Vitalik buterin is selling.",
+      "url": "https://www.coindesk.com/markets/2026/03/05/short-seller-culper-bets-against-ether-bitmine-citing-death-spiral-risk",
+      "publishedAt": "2026-03-05T21:14:01.000Z",
+      "keywords": [
+        "Markets",
+        "Ethereum News",
+        "Bitmine",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260305-short-seller-culper-bets-against-ether-tom-lees-bitmine-citing-death-spiral-risk",
+      "localUrl": "/news/20260305-short-seller-culper-bets-against-ether-tom-lees-bitmine-citing-death-spiral-risk.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Dogecoin Down Bad as Bitcoin Gives Up Latest Gains",
+      "summary": "After a strong bounce on Wednesday, Dogecoin is leading the top 100 tokens in losses on Thursday as Bitcoin falls.",
+      "url": "https://decrypt.co/360185/dogecoin-down-bad-bitcoin-gives-up-latest-gains",
+      "publishedAt": "2026-03-05T21:12:09.000Z",
+      "keywords": [
+        "dogecoin",
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260305-dogecoin-down-bad-as-bitcoin-gives-up-latest-gains",
+      "localUrl": "/news/20260305-dogecoin-down-bad-as-bitcoin-gives-up-latest-gains.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Iran Regime's Crypto Activity Topped $3 Billion as Illicit Transactions Surged in 2025: Report",
+      "summary": "Iran, Russia, North Korea, and other sanctioned countries boosted their use of cryptocurrency last year, according to Chainalysis.",
+      "url": "https://decrypt.co/360146/iran-regime-crypto-activity-topped-3-billion-illicit-transactions-2025",
+      "publishedAt": "2026-03-05T21:00:22.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260305-iran-regimes-crypto-activity-topped-3-billion-as-illicit-transactions-surged-in-",
+      "localUrl": "/news/20260305-iran-regimes-crypto-activity-topped-3-billion-as-illicit-transactions-surged-in-.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "IRS proposes mandating electronic delivery of tax forms for crypto",
+      "summary": "If adopted, the proposal will take effect on Jan. 1 of the calendar year following the publication of the final IRS rules.",
+      "url": "https://cointelegraph.com/news/irs-proposes-electronic-delivery-tax-form?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-05T20:53:09.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260305-irs-proposes-mandating-electronic-delivery-of-tax-forms-for-crypto",
+      "localUrl": "/news/20260305-irs-proposes-mandating-electronic-delivery-of-tax-forms-for-crypto.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin miners offload 15K BTC since October, with more sales expected",
@@ -728,41 +828,6 @@
       "localUrl": "/news/20260305-reform-uk-tops-donations-with-millions-from-thailand-based-crypto-investor-repor.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "ZeroHash applies for national trust bank charter to expand regulated stablecoin services",
-      "summary": "A charter would allow ZeroHash to operate under a single federal framework, rather than state-by-state rules and offer services aligned with recent legislation.",
-      "url": "https://www.coindesk.com/policy/2026/03/05/zerohash-applies-for-national-trust-bank-charter-to-expand-regulated-stablecoin-services",
-      "publishedAt": "2026-03-05T10:42:25.000Z",
-      "keywords": [
-        "Policy",
-        "Stablecoins",
-        "OCC",
-        "Regulations",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260305-zerohash-applies-for-national-trust-bank-charter-to-expand-regulated-stablecoin-",
-      "localUrl": "/news/20260305-zerohash-applies-for-national-trust-bank-charter-to-expand-regulated-stablecoin-.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "IREN to expand processing capacity by 50%, prepares at-the-market offering",
-      "summary": "The company ordered more than 50,000 Nvidia GPUs and filed for a potential $6 billion at-the-market share sale, sending the stock lower in pre-market trading.",
-      "url": "https://www.coindesk.com/markets/2026/03/05/iren-to-expand-processing-capacity-by-50-prepares-at-the-market-offering",
-      "publishedAt": "2026-03-05T10:03:01.000Z",
-      "keywords": [
-        "Markets",
-        "Mining",
-        "AI",
-        "Iren",
-        "Nvidia",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260305-iren-to-expand-processing-capacity-by-50-prepares-at-the-market-offering",
-      "localUrl": "/news/20260305-iren-to-expand-processing-capacity-by-50-prepares-at-the-market-offering.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Stablecoin inflows rebound to $1.7B as Washington battles over yield rules",
       "summary": "Messari said weekly stablecoin inflows rose 414% to $1.7 billion as debate over yield-bearing stablecoins continued to stall US crypto market structure talks.",
@@ -833,32 +898,6 @@
       "category": "X热点",
       "slug": "20260305-update-bitcoin-rebounds-to-74k-for-the-first-time-in-a-month-as-altcoins-like-so",
       "localUrl": "/news/20260305-update-bitcoin-rebounds-to-74k-for-the-first-time-in-a-month-as-altcoins-like-so.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto stocks rally as Trump, regulators signal pro-crypto policy shift",
-      "summary": "Bitcoin has jumped as well, increasing 7.6% in the last 24 hours, while Ether is up more than 8.3% to trade at $2,132.",
-      "url": "https://cointelegraph.com/news/crypto-stocks-rally-trump-regulation-bitcoin-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-05T06:28:01.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260305-crypto-stocks-rally-as-trump-regulators-signal-pro-crypto-policy-shift",
-      "localUrl": "/news/20260305-crypto-stocks-rally-as-trump-regulators-signal-pro-crypto-policy-shift.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Google uncovers iOS exploit kit used in crypto phishing attacks",
-      "summary": "Researchers say fake crypto websites deployed an iOS exploit kit capable of stealing wallet seed phrases and other financial data.",
-      "url": "https://cointelegraph.com/news/google-warns-crypto-scams-using-new-and-powerful-iphone-exploit-kit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-05T06:17:42.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "安全",
-      "slug": "20260305-google-uncovers-ios-exploit-kit-used-in-crypto-phishing-attacks",
-      "localUrl": "/news/20260305-google-uncovers-ios-exploit-kit-used-in-crypto-phishing-attacks.html"
     },
     {
       "source": "Decrypt",
@@ -970,45 +1009,6 @@
       "category": "综合",
       "slug": "20260304-before-you-quit-chatgpt-do-this-to-take-your-data-with-you",
       "localUrl": "/news/20260304-before-you-quit-chatgpt-do-this-to-take-your-data-with-you.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitwise Donates $233K of Bitcoin ETF Profits to Open-Source BTC Developers",
-      "summary": "Crypto asset management firm and ETF issuer Bitwise donated $233,000 to open-source Bitcoin developers in its latest annual contribution.",
-      "url": "https://decrypt.co/360028/bitwise-donates-233k-bitcoin-etf-profits-open-source-btc-developers",
-      "publishedAt": "2026-03-04T21:44:13.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260304-bitwise-donates-233k-of-bitcoin-etf-profits-to-open-source-btc-developers",
-      "localUrl": "/news/20260304-bitwise-donates-233k-of-bitcoin-etf-profits-to-open-source-btc-developers.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "'The Worst Is Behind Us': Bitcoin Market Conditions Mirror FTX Bottom, Analysts Say",
-      "summary": "Several technical indicators for Bitcoin have reached levels not seen since the market chaos of 2022",
-      "url": "https://decrypt.co/359970/worst-behind-us-bitcoin-market-conditions-mirror-ftx-bottom-analysts",
-      "publishedAt": "2026-03-04T21:22:04.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260304-the-worst-is-behind-us-bitcoin-market-conditions-mirror-ftx-bottom-analysts-say",
-      "localUrl": "/news/20260304-the-worst-is-behind-us-bitcoin-market-conditions-mirror-ftx-bottom-analysts-say.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Google's Gemini AI Pushed Florida Man to Suicide Amid 'Collapsing Reality', Lawsuit Alleges",
-      "summary": "The family of Jonathan Gavalas claims that Google's AI chatbot pushed a delusional narrative that escalated into violent missions and ended with his death.",
-      "url": "https://decrypt.co/359966/google-gemini-ai-pushed-florida-man-suicide-lawsuit",
-      "publishedAt": "2026-03-04T20:53:38.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260304-googles-gemini-ai-pushed-florida-man-to-suicide-amid-collapsing-reality-lawsuit-",
-      "localUrl": "/news/20260304-googles-gemini-ai-pushed-florida-man-to-suicide-amid-collapsing-reality-lawsuit-.html"
     },
     {
       "source": "X Wire",
