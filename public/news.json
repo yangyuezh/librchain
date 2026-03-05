@@ -1,19 +1,130 @@
 {
-  "updatedAt": "2026-03-05T10:58:45.243Z",
+  "updatedAt": "2026-03-05T11:47:18.177Z",
   "total": 81,
   "items": [
     {
+      "source": "Decrypt",
+      "title": "FATF Flags Peer-to-Peer Stablecoin Transfers as Top Money Laundering Risk",
+      "summary": "The Financial Action Task Force wants issuers to embed freeze and deny-list controls directly into smart contracts.",
+      "url": "https://decrypt.co/360087/fatf-flags-peer-to-peer-stablecoin-transfers-as-top-money-laundering-risk",
+      "publishedAt": "2026-03-05T11:44:53.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "综合",
+      "slug": "20260305-fatf-flags-peer-to-peer-stablecoin-transfers-as-top-money-laundering-risk",
+      "localUrl": "/news/20260305-fatf-flags-peer-to-peer-stablecoin-transfers-as-top-money-laundering-risk.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holds above $72,000 as crypto market pauses after breakout",
+      "summary": "Bitcoin and ether edged higher as traders assessed macro risks, derivatives positioning and whether bitcoin can sustain a push toward $80,000.",
+      "url": "https://www.coindesk.com/markets/2026/03/05/bitcoin-holds-above-usd72-000-as-crypto-market-pauses-after-breakout",
+      "publishedAt": "2026-03-05T11:39:38.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "Derivatives",
+        "Altcoins",
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260305-bitcoin-holds-above-72000-as-crypto-market-pauses-after-breakout",
+      "localUrl": "/news/20260305-bitcoin-holds-above-72000-as-crypto-market-pauses-after-breakout.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump-backed American Bitcoin board members scoop up stock following earnings",
+      "summary": "Board members Justin Mateen and Richard Busch bought roughly 1.6 million shares after the trading window reopened following the bitcoin miner’s latest earnings report.",
+      "url": "https://www.coindesk.com/business/2026/03/05/trump-backed-american-bitcoin-board-members-scoop-up-stock-following-earnings",
+      "publishedAt": "2026-03-05T11:30:00.000Z",
+      "keywords": [
+        "Finance",
+        "Eric Trump",
+        "Bitcoin News",
+        "Bitcoin Mining",
+        "Exclusive",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260305-trump-backed-american-bitcoin-board-members-scoop-up-stock-following-earnings",
+      "localUrl": "/news/20260305-trump-backed-american-bitcoin-board-members-scoop-up-stock-following-earnings.html"
+    },
+    {
       "source": "Cointelegraph",
-      "title": "Reform UK tops donations with millions from offshore crypto investor: Report",
-      "summary": "Nigel Farage’s Reform UK reportedly secured a second $4 million boost from Thailand-based crypto investor Christopher Harborne, cementing the party’s fundraising lead in the country.",
+      "title": "UAE central bank says financial system stable amid missile and drone attacks",
+      "summary": "More than 1,800 crypto businesses operate in the UAE, with over 600 Web3 companies based in Dubai’s DMCC free zone.",
+      "url": "https://cointelegraph.com/news/uae-central-bank-banks-operational-regional-tensions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-05T11:16:39.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260305-uae-central-bank-says-financial-system-stable-amid-missile-and-drone-attacks",
+      "localUrl": "/news/20260305-uae-central-bank-says-financial-system-stable-amid-missile-and-drone-attacks.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Andreessen Horowitz crypto arm said to seek $2 billion for fifth fund: Fortune",
+      "summary": "The venture firm led by Chris Dixon is reportedly aiming to close its fifth crypto fund in the first half of 2026, signaling continued bets on blockchain startups.",
+      "url": "https://www.coindesk.com/business/2026/03/05/andreessen-horowitz-crypto-arm-said-to-seek-usd2-billion-for-fifth-fund-fortune",
+      "publishedAt": "2026-03-05T11:10:56.000Z",
+      "keywords": [
+        "Finance",
+        "A16z crypto",
+        "Andreessen Horowitz",
+        "crypto fund",
+        "Venture Capital",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260305-andreessen-horowitz-crypto-arm-said-to-seek-2-billion-for-fifth-fund-fortune",
+      "localUrl": "/news/20260305-andreessen-horowitz-crypto-arm-said-to-seek-2-billion-for-fifth-fund-fortune.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Chamath Palihapitiya questions bitcoin’s role as central bank reserve asset",
+      "summary": "Billionaire Venture capitalist points to privacy and fungibility concerns, while debate grows over corporate bitcoin strategies such as Strategy’s massive holdings.",
+      "url": "https://www.coindesk.com/markets/2026/03/05/chamath-palihapitiya-questions-bitcoin-s-role-as-central-bank-reserve-asset",
+      "publishedAt": "2026-03-05T11:07:03.000Z",
+      "keywords": [
+        "Markets",
+        "Chamath Palihapitiya",
+        "Bitcoin News",
+        "Gold",
+        "Stablecoins",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260305-chamath-palihapitiya-questions-bitcoins-role-as-central-bank-reserve-asset",
+      "localUrl": "/news/20260305-chamath-palihapitiya-questions-bitcoins-role-as-central-bank-reserve-asset.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coinbase execs face new lawsuit seeking damages, insider profit clawbacks",
+      "summary": "The lawsuit seeks damages for Coinbase, governance reforms and the return of compensation and profits allegedly earned by insiders amid the company’s compliance failures.",
+      "url": "https://cointelegraph.com/news/coinbase-execs-derivative-lawsuit-compliance-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-05T11:06:05.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260305-coinbase-execs-face-new-lawsuit-seeking-damages-insider-profit-clawbacks",
+      "localUrl": "/news/20260305-coinbase-execs-face-new-lawsuit-seeking-damages-insider-profit-clawbacks.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Reform UK tops donations with millions from Thailand-based crypto investor: Report",
+      "summary": "Nigel Farage’s Reform UK reportedly secured a second boost of 3 million British pounds ($4 million) from Thailand-based crypto investor Christopher Harborne",
       "url": "https://cointelegraph.com/news/farage-reform-uk-tops-donations-offshore-crypto-investor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-05T10:46:50.000Z",
       "keywords": [
         "Latest News"
       ],
       "category": "监管",
-      "slug": "20260305-reform-uk-tops-donations-with-millions-from-offshore-crypto-investor-report",
-      "localUrl": "/news/20260305-reform-uk-tops-donations-with-millions-from-offshore-crypto-investor-report.html"
+      "slug": "20260305-reform-uk-tops-donations-with-millions-from-thailand-based-crypto-investor-repor",
+      "localUrl": "/news/20260305-reform-uk-tops-donations-with-millions-from-thailand-based-crypto-investor-repor.html"
     },
     {
       "source": "CoinDesk",
@@ -519,19 +630,6 @@
       "localUrl": "/news/20260304-how-this-weeks-rout-in-korean-stocks-might-have-triggered-cryptos-surge-higher.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Canada's Scotiabank launches multi-crypto ETF with 3iQ",
-      "summary": "The bank's asset manager and 3iQ debut an actively managed crypto ETF to Canadian investors, offering exposure to Bitcoin, Ether, Solana and XRP at a competitive 0.25% fee.",
-      "url": "https://cointelegraph.com/news/scotiabank-launches-multi-crypto-etf-with-3iq?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-04T21:02:15.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260304-canadas-scotiabank-launches-multi-crypto-etf-with-3iq",
-      "localUrl": "/news/20260304-canadas-scotiabank-launches-multi-crypto-etf-with-3iq.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Google's Gemini AI Pushed Florida Man to Suicide Amid 'Collapsing Reality', Lawsuit Alleges",
       "summary": "The family of Jonathan Gavalas claims that Google's AI chatbot pushed a delusional narrative that escalated into violent missions and ended with his death.",
@@ -543,19 +641,6 @@
       "category": "监管",
       "slug": "20260304-googles-gemini-ai-pushed-florida-man-to-suicide-amid-collapsing-reality-lawsuit-",
       "localUrl": "/news/20260304-googles-gemini-ai-pushed-florida-man-to-suicide-amid-collapsing-reality-lawsuit-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "A sucker's rally? Why Bitcoin analysts say BTC price must hold $70K",
-      "summary": "A slowdown in profit-taking and defending the 200-week EMA support at $68,000 are prerequisites for BTC to break the next big hurdle at $75,000.",
-      "url": "https://cointelegraph.com/news/suckers-rally-why-bitcoin-analysts-say-btc-price-must-hold-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-04T20:31:20.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "市场",
-      "slug": "20260304-a-suckers-rally-why-bitcoin-analysts-say-btc-price-must-hold-70k",
-      "localUrl": "/news/20260304-a-suckers-rally-why-bitcoin-analysts-say-btc-price-must-hold-70k.html"
     },
     {
       "source": "CoinDesk",
@@ -643,6 +728,17 @@
       "category": "监管",
       "slug": "20260304-south-korean-cop-sentenced-to-six-years-in-prison-for-bribes-tied-to-crypto-crim",
       "localUrl": "/news/20260304-south-korean-cop-sentenced-to-six-years-in-prison-for-bribes-tied-to-crypto-crim.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Spot Bitcoin ETF issuer Bitwise is donating $230,000 from its ETF profits to Bitcoin developers 👏 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvTXFBNHhFZ3NUelBUTGFqbFd0cXVscld3R3hLbExScnlzeFBRY1FHSnhYY1hzSS1qRzItN2lIblVqa3c5d182NE9QZlU3Qk5ZeU9GdUVwYVh3ZnVmZGpPVHh6b0wzVDg?oc=5\" target=\"_blank\">JUST IN: Spot Bitcoin ETF i…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvTXFBNHhFZ3NUelBUTGFqbFd0cXVscld3R3hLbExScnlzeFBRY1FHSnhYY1hzSS1qRzItN2lIblVqa3c5d182NE9QZlU3Qk5ZeU9GdUVwYVh3ZnVmZGpPVHh6b0wzVDg?oc=5",
+      "publishedAt": "2026-03-04T18:02:01.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260304-just-in-spot-bitcoin-etf-issuer-bitwise-is-donating-230000-from-its-etf-profits-",
+      "localUrl": "/news/20260304-just-in-spot-bitcoin-etf-issuer-bitwise-is-donating-230000-from-its-etf-profits-.html"
     },
     {
       "source": "CoinDesk",
@@ -770,62 +866,6 @@
       "localUrl": "/news/20260304-institutional-investors-may-be-buying-the-dip-as-traders-pour-17-billion-into-sp.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: Why bitcoin's quantum fears will pass just like the climate panic",
-      "summary": "In this week’s Crypto Long & Short Newsletter, Martin Gaspar on how bitcoin looks to overcome quantum fears, echoing past climate backlash.",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/03/04/crypto-long-and-short-why-bitcoin-s-quantum-fears-will-pass-just-like-the-climate-panic",
-      "publishedAt": "2026-03-04T17:00:00.000Z",
-      "keywords": [
-        "CoinDesk Indices",
-        "Institutional Investment",
-        "institutional investor",
-        "quantum",
-        "Crypto Long & Short",
-        "CoinDesk Indices",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260304-crypto-long-short-why-bitcoins-quantum-fears-will-pass-just-like-the-climate-pan",
-      "localUrl": "/news/20260304-crypto-long-short-why-bitcoins-quantum-fears-will-pass-just-like-the-climate-pan.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The Protocol: New Ethereum scaling plans",
-      "summary": "Also: OKX and AI agents, Future AI users of blockchain and Bitcoin’s latest governance clash.",
-      "url": "https://www.coindesk.com/tech/2026/03/04/the-protocol-new-ethereum-scaling-plans",
-      "publishedAt": "2026-03-04T16:57:59.000Z",
-      "keywords": [
-        "Tech",
-        "The Protocol",
-        "Newsletters",
-        "Ethereum News",
-        "Bitcoin News",
-        "Vitalik Buterin",
-        "AI",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260304-the-protocol-new-ethereum-scaling-plans",
-      "localUrl": "/news/20260304-the-protocol-new-ethereum-scaling-plans.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin just cleared $73,000, but skeptical traders are already bracing for a 'bull trap'",
-      "summary": "Bitcoin has broken above $73,000 after weeks of consolidation, but traders remain divided over whether the move marks a genuine breakout or another trap for late buyers.",
-      "url": "https://www.coindesk.com/markets/2026/03/04/bitcoin-breaks-usd73-000-but-traders-warn-of-another-bull-trap",
-      "publishedAt": "2026-03-04T16:57:01.000Z",
-      "keywords": [
-        "Markets",
-        "Bullish Breakout",
-        "Bear market",
-        "Why is bitcoin up",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260304-bitcoin-just-cleared-73000-but-skeptical-traders-are-already-bracing-for-a-bull-",
-      "localUrl": "/news/20260304-bitcoin-just-cleared-73000-but-skeptical-traders-are-already-bracing-for-a-bull-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Apple iPhone Hacking Kit Used By Spies, Crypto Scams Could Have US Intelligence Origins",
       "summary": "Researchers said a sophisticated exploit kit with 23 iOS vulnerabilities is being used by espionage and cybercrime campaigns.",
@@ -850,25 +890,6 @@
       "category": "市场",
       "slug": "20260304-mrbeast-video-editor-fired-from-beast-industries-following-kalshi-insider-tradin",
       "localUrl": "/news/20260304-mrbeast-video-editor-fired-from-beast-industries-following-kalshi-insider-tradin.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Billions in crypto are moving in Iran. Analysts can't agree if it's war-time panic or business as usual.",
-      "summary": "When airstrikes hit Iran on Feb. 28, crypto outflows from Nobitex spiked 873%, suggesting a \"digital bank run\" was ongoing. The reality may be more complex.",
-      "url": "https://www.coindesk.com/business/2026/03/04/exodus-or-firewall-blockchain-analysts-clash-over-iran-s-crypto-outflows",
-      "publishedAt": "2026-03-04T16:16:03.000Z",
-      "keywords": [
-        "Finance",
-        "Iran",
-        "Crypto Exchanges",
-        "Chainalysis",
-        "Elliptic",
-        "TRM Labs",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260304-billions-in-crypto-are-moving-in-iran-analysts-cant-agree-if-its-war-time-panic-",
-      "localUrl": "/news/20260304-billions-in-crypto-are-moving-in-iran-analysts-cant-agree-if-its-war-time-panic-.html"
     },
     {
       "source": "Decrypt",
@@ -977,17 +998,6 @@
     },
     {
       "source": "X Wire",
-      "title": "LATEST: @MorganStanley has filed for a Bitcoin ETF, tapping @coinbase for crypto custody and BNY Mellon as administrator, with daily valuations set using the CoinDesk Bitcoin Benchmark 4PM New York Settlement Rate. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4UEF5cDN1TnZGYkc3VEJiYWk1RUpidlZsQTJpLXlXbkttb1VfYUVqT1REM0llaVpYN0VYM21jTEVZNzBtOXE5WGk2cWRKLUl5RzdVdTItcHByM053cnc?oc=5\" target=\"_blank\">LATEST: @MorganStanley has filed for a …",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4UEF5cDN1TnZGYkc3VEJiYWk1RUpidlZsQTJpLXlXbkttb1VfYUVqT1REM0llaVpYN0VYM21jTEVZNzBtOXE5WGk2cWRKLUl5RzdVdTItcHByM053cnc?oc=5",
-      "publishedAt": "2026-03-04T12:13:21.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260304-latest-morganstanley-has-filed-for-a-bitcoin-etf-tapping-coinbase-for-crypto-cus",
-      "localUrl": "/news/20260304-latest-morganstanley-has-filed-for-a-bitcoin-etf-tapping-coinbase-for-crypto-cus.html"
-    },
-    {
-      "source": "X Wire",
       "title": "JUST IN: 🇺🇸 Kraken becomes the first crypto exchange to gain access to the Federal Reserve's core payments system. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSNXFHMjVSVmVvV1V6a1FRMGQ3RlE3TldDbDhzOE5tUmtMaWhBTTc4UmNvN29NOGk0VHNDMlpTWWtKV3pZOWgzVk9Mc1BzeEFEZDNkR3M0TmpzSGxTUEphQ29n?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Kraken becomes the f…",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSNXFHMjVSVmVvV1V6a1FRMGQ3RlE3TldDbDhzOE5tUmtMaWhBTTc4UmNvN29NOGk0VHNDMlpTWWtKV3pZOWgzVk9Mc1BzeEFEZDNkR3M0TmpzSGxTUEphQ29n?oc=5",
@@ -996,19 +1006,6 @@
       "category": "X热点",
       "slug": "20260304-just-in-kraken-becomes-the-first-crypto-exchange-to-gain-access-to-the-federal-r",
       "localUrl": "/news/20260304-just-in-kraken-becomes-the-first-crypto-exchange-to-gain-access-to-the-federal-r.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin Pushes Past $71K, But Can the Rally Last?",
-      "summary": "Positioning resets and liquidity expectations have seen Bitcoin retest $71,000 amid the escalating conflict in the Middle East.",
-      "url": "https://decrypt.co/359910/bitcoin-pushes-past-71k-but-can-the-rally-last",
-      "publishedAt": "2026-03-04T11:55:53.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "DeFi",
-      "slug": "20260304-bitcoin-pushes-past-71k-but-can-the-rally-last",
-      "localUrl": "/news/20260304-bitcoin-pushes-past-71k-but-can-the-rally-last.html"
     },
     {
       "source": "X Wire",
