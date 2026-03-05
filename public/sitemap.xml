@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-05T07:55:20.302Z</lastmod>
+    <lastmod>2026-03-05T08:59:12.520Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-05T07:55:20.302Z</lastmod>
+    <lastmod>2026-03-05T08:59:12.520Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260305-bitcoin-etfs-pull-in-462m-as-btc-briefly-tops-73k.html</loc>
+    <lastmod>2026-03-05T08:17:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260305-bitcoin-traders-alert-the-rally-is-nearing-a-two-year-make-or-break-price-zone.html</loc>
@@ -241,14 +247,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260304-tradeweb-backs-crypto-ecn-crossover-markets-in-31m-funding-round.html</loc>
-    <lastmod>2026-03-04T19:37:06.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260304-dogecoin-pumps-as-bitcoin-pops-reversing-recent-doge-losing-streak.html</loc>
+    <lastmod>2026-03-04T19:20:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260304-dogecoin-pumps-as-bitcoin-pops-reversing-recent-doge-losing-streak.html</loc>
-    <lastmod>2026-03-04T19:20:49.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260304-breaking-bitcoin-rises-above-74000-for-the-first-time-since-february-4th-xcom.html</loc>
+    <lastmod>2026-03-04T19:16:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -385,6 +391,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260304-a-historic-moment-for-crypto-kraken-financial-has-been-granted-a-federal-reserve.html</loc>
+    <lastmod>2026-03-04T14:44:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260304-breaking-bitcoin-surges-above-72000-hitting-fresh-one-month-high-xcom.html</loc>
     <lastmod>2026-03-04T14:39:58.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -405,12 +417,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260304-irans-crypto-surge-spikes-amid-war-irans-78b-crypto-market-is-drawing-renewed-at.html</loc>
     <lastmod>2026-03-04T13:19:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260304-kraken-gains-direct-access-to-fed-payment-system-crypto-exchange-kraken-has-secu.html</loc>
-    <lastmod>2026-03-04T13:18:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -477,12 +483,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260304-the-foundations-for-crypto-have-never-been-stronger-xcom.html</loc>
     <lastmod>2026-03-04T09:50:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260304-new-president-trump-says-the-us-needs-to-get-the-crypto-market-structure-bill-do.html</loc>
-    <lastmod>2026-03-04T00:46:30.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
