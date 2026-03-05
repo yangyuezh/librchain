@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-03-05T07:08:05.249Z",
+  "updatedAt": "2026-03-05T07:55:19.954Z",
   "total": 81,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin traders, alert: The rally is nearing a two-year 'make or break' price zone",
+      "summary": "The cryptocurrency traders near key price zone that has marked major turning points over the past two years.",
+      "url": "https://www.coindesk.com/markets/2026/03/05/bitcoin-traders-alert-the-rally-is-nearing-a-two-year-make-or-break-level",
+      "publishedAt": "2026-03-05T07:49:00.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260305-bitcoin-traders-alert-the-rally-is-nearing-a-two-year-make-or-break-price-zone",
+      "localUrl": "/news/20260305-bitcoin-traders-alert-the-rally-is-nearing-a-two-year-make-or-break-price-zone.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Anthropic reopens Pentagon talks as tech groups push Trump to drop risk tag: FT",
+      "summary": "Anthropic previously secured a $200 million Pentagon contract, and its AI has been used in classified operations, including support for US air strikes on Iran, the Financial Times reports.",
+      "url": "https://cointelegraph.com/news/anthropic-reopens-pentagon-talks-trump-supply-chain-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-05T07:47:39.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260305-anthropic-reopens-pentagon-talks-as-tech-groups-push-trump-to-drop-risk-tag-ft",
+      "localUrl": "/news/20260305-anthropic-reopens-pentagon-talks-as-tech-groups-push-trump-to-drop-risk-tag-ft.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Ether, solana, xrp surge 8% as crypto markets rally on easing war fears",
@@ -18,7 +46,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Crypto stocks rally as Trump, US regulators nudge pro-crypto agenda",
+      "title": "Crypto stocks rally as Trump, regulators signal pro-crypto policy shift",
       "summary": "Bitcoin has jumped as well, increasing 7.6% in the last 24 hours, while Ether is up more than 8.3% to trade at $2,132.",
       "url": "https://cointelegraph.com/news/crypto-stocks-rally-trump-regulation-bitcoin-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-05T06:28:01.000Z",
@@ -26,21 +54,21 @@
         "Latest News"
       ],
       "category": "监管",
-      "slug": "20260305-crypto-stocks-rally-as-trump-us-regulators-nudge-pro-crypto-agenda",
-      "localUrl": "/news/20260305-crypto-stocks-rally-as-trump-us-regulators-nudge-pro-crypto-agenda.html"
+      "slug": "20260305-crypto-stocks-rally-as-trump-regulators-signal-pro-crypto-policy-shift",
+      "localUrl": "/news/20260305-crypto-stocks-rally-as-trump-regulators-signal-pro-crypto-policy-shift.html"
     },
     {
       "source": "Cointelegraph",
-      "title": "Google warns of crypto scams using ‘new and powerful’ iPhone exploit kit",
-      "summary": "Google threat researchers found a series of fake crypto websites hosting a novel exploit kit that can crack iPhones and hunt for crypto to steal.",
+      "title": "Google uncovers iOS exploit kit used in crypto phishing attacks",
+      "summary": "Researchers say fake crypto websites deployed an iOS exploit kit capable of stealing wallet seed phrases and other financial data.",
       "url": "https://cointelegraph.com/news/google-warns-crypto-scams-using-new-and-powerful-iphone-exploit-kit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-05T06:17:42.000Z",
       "keywords": [
         "Latest News"
       ],
       "category": "安全",
-      "slug": "20260305-google-warns-of-crypto-scams-using-new-and-powerful-iphone-exploit-kit",
-      "localUrl": "/news/20260305-google-warns-of-crypto-scams-using-new-and-powerful-iphone-exploit-kit.html"
+      "slug": "20260305-google-uncovers-ios-exploit-kit-used-in-crypto-phishing-attacks",
+      "localUrl": "/news/20260305-google-uncovers-ios-exploit-kit-used-in-crypto-phishing-attacks.html"
     },
     {
       "source": "Cointelegraph",
@@ -57,7 +85,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Quant firm suggests a bullish bitcoin trade with a key financing twist",
+      "title": "Bitcoin trading firm suggests a bullish trade with a key financing twist",
       "summary": "The strategy aims to build upside exposure in March and April while minimizing upfront cost.",
       "url": "https://www.coindesk.com/markets/2026/03/05/quant-firm-suggests-a-bullish-bitcoin-trade-with-a-key-financing-twist",
       "publishedAt": "2026-03-05T06:12:55.000Z",
@@ -67,8 +95,8 @@
         "News"
       ],
       "category": "市场",
-      "slug": "20260305-quant-firm-suggests-a-bullish-bitcoin-trade-with-a-key-financing-twist",
-      "localUrl": "/news/20260305-quant-firm-suggests-a-bullish-bitcoin-trade-with-a-key-financing-twist.html"
+      "slug": "20260305-bitcoin-trading-firm-suggests-a-bullish-trade-with-a-key-financing-twist",
+      "localUrl": "/news/20260305-bitcoin-trading-firm-suggests-a-bullish-trade-with-a-key-financing-twist.html"
     },
     {
       "source": "CoinDesk",
@@ -509,19 +537,6 @@
       "localUrl": "/news/20260304-tradeweb-backs-crypto-ecn-crossover-markets-in-31m-funding-round.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Price predictions 3/4: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK",
-      "summary": "Bitcoin’s recovery picked up steam on Wednesday as the cryptocurrency rallied above $74,000 amid consistent inflows into the spot Bitcoin ETFs. Do technical charts support the move in BTC and altcoins?",
-      "url": "https://cointelegraph.com/news/price-predictions-3-4-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-04T19:26:59.000Z",
-      "keywords": [
-        "Top 10 Cryptocurrencies"
-      ],
-      "category": "监管",
-      "slug": "20260304-price-predictions-34-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link",
-      "localUrl": "/news/20260304-price-predictions-34-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Dogecoin Pumps as Bitcoin Pops, Reversing Recent DOGE Losing Streak",
       "summary": "Leading meme coin Dogecoin (DOGE) is outperforming Bitcoin, spiking 15% on the day as crypto prices rebound across the board.",
@@ -880,24 +895,6 @@
       "localUrl": "/news/20260304-breaking-bitcoin-surges-above-72000-hitting-fresh-one-month-high-xcom.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "CoinDesk 20 performance update: Solana (SOL) gains 5.6%, leading index higher",
-      "summary": "Aave (AAVE) joined Solana (SOL) as a top performer, rising 5% from Tuesday.",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/03/04/coindesk-20-performance-update-solana-sol-gains-5-6-leading-index-higher",
-      "publishedAt": "2026-03-04T14:28:02.000Z",
-      "keywords": [
-        "CoinDesk Indices",
-        "CoinDesk Indices",
-        "CoinDesk 20",
-        "charts",
-        "Prices",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260304-coindesk-20-performance-update-solana-sol-gains-56-leading-index-higher",
-      "localUrl": "/news/20260304-coindesk-20-performance-update-solana-sol-gains-56-leading-index-higher.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: 🇺🇸 Morgan Stanley issues new SEC filing for a spot Bitcoin ETF, announcing Coinbase and BNY Mellon as the custodians 👀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00a2Z4emVTcExCQnFsMWh1UERfNVY3Z01wS3Jzb1RpUnlPUEw2V0ozODdCNzdjMGdmdjhoeHFSSlJGV0x6Zlc2MWJBR0c2aVlTY1BnX1FYR0hXRkxsZXBlUHh3X3lvT1E?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Morgan Stanle…",
@@ -931,6 +928,17 @@
       "category": "X热点",
       "slug": "20260304-irans-crypto-surge-spikes-amid-war-irans-78b-crypto-market-is-drawing-renewed-at",
       "localUrl": "/news/20260304-irans-crypto-surge-spikes-amid-war-irans-78b-crypto-market-is-drawing-renewed-at.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "KRAKEN GAINS DIRECT ACCESS TO FED PAYMENT SYSTEM Crypto exchange Kraken has secured a limited-purpose account with the Federal Reserve Bank of Kansas City, allowing it to access core U.S. payment systems typically reserved for banks. The - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zbWNyRlFDTUhfdXpnWncweHRBdHAyNzRFWlVlQkg2RkpWQmgwTWFzcFpLWUV4c2dENWhPckhOcFV3T3RDbmR5NjlZTWUzSlotbS1EalBSZ1E3bnZIMlE?oc=5\" target=\"_blank\">KRAKEN GAINS DIRECT ACCESS TO FED PAYME…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zbWNyRlFDTUhfdXpnWncweHRBdHAyNzRFWlVlQkg2RkpWQmgwTWFzcFpLWUV4c2dENWhPckhOcFV3T3RDbmR5NjlZTWUzSlotbS1EalBSZ1E3bnZIMlE?oc=5",
+      "publishedAt": "2026-03-04T13:18:03.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260304-kraken-gains-direct-access-to-fed-payment-system-crypto-exchange-kraken-has-secu",
+      "localUrl": "/news/20260304-kraken-gains-direct-access-to-fed-payment-system-crypto-exchange-kraken-has-secu.html"
     },
     {
       "source": "X Wire",
@@ -1023,17 +1031,6 @@
       "category": "X热点",
       "slug": "20260304-new-krakenfx-the-uss-second-largest-crypto-exchange-has-just-done-something-no-o",
       "localUrl": "/news/20260304-new-krakenfx-the-uss-second-largest-crypto-exchange-has-just-done-something-no-o.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: @krakenfx just became the first crypto firm to gain access to the Federal Reserve's core payments system, putting it on the same payment rails as thousands of U.S. banks and credit unions. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EWEhhR1NTUURiM0NBX09WMWZ5U25RU0FtRW13Y0pRSXF2b2pFVDN1alBYU3VfaWhXb3AtazRBMmtNb1RFaVNHTERsNjltVTBFVTNjZktZYUloOXhodFE?oc=5\" target=\"_blank\">BREAKING: @krakenfx just became the fir…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EWEhhR1NTUURiM0NBX09WMWZ5U25RU0FtRW13Y0pRSXF2b2pFVDN1alBYU3VfaWhXb3AtazRBMmtNb1RFaVNHTERsNjltVTBFVTNjZktZYUloOXhodFE?oc=5",
-      "publishedAt": "2026-03-04T11:00:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260304-breaking-krakenfx-just-became-the-first-crypto-firm-to-gain-access-to-the-federa",
-      "localUrl": "/news/20260304-breaking-krakenfx-just-became-the-first-crypto-firm-to-gain-access-to-the-federa.html"
     },
     {
       "source": "X Wire",

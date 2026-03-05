@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-05T07:08:05.534Z</lastmod>
+    <lastmod>2026-03-05T07:55:20.302Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-05T07:08:05.534Z</lastmod>
+    <lastmod>2026-03-05T07:55:20.302Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260305-bitcoin-traders-alert-the-rally-is-nearing-a-two-year-make-or-break-price-zone.html</loc>
+    <lastmod>2026-03-05T07:49:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260305-anthropic-reopens-pentagon-talks-as-tech-groups-push-trump-to-drop-risk-tag-ft.html</loc>
+    <lastmod>2026-03-05T07:47:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260305-ether-solana-xrp-surge-8-as-crypto-markets-rally-on-easing-war-fears.html</loc>
@@ -19,13 +31,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260305-crypto-stocks-rally-as-trump-us-regulators-nudge-pro-crypto-agenda.html</loc>
+    <loc>https://www.librchain.com/news/20260305-crypto-stocks-rally-as-trump-regulators-signal-pro-crypto-policy-shift.html</loc>
     <lastmod>2026-03-05T06:28:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260305-google-warns-of-crypto-scams-using-new-and-powerful-iphone-exploit-kit.html</loc>
+    <loc>https://www.librchain.com/news/20260305-google-uncovers-ios-exploit-kit-used-in-crypto-phishing-attacks.html</loc>
     <lastmod>2026-03-05T06:17:42.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -37,7 +49,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260305-quant-firm-suggests-a-bullish-bitcoin-trade-with-a-key-financing-twist.html</loc>
+    <loc>https://www.librchain.com/news/20260305-bitcoin-trading-firm-suggests-a-bullish-trade-with-a-key-financing-twist.html</loc>
     <lastmod>2026-03-05T06:12:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -235,12 +247,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260304-price-predictions-34-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link.html</loc>
-    <lastmod>2026-03-04T19:26:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260304-dogecoin-pumps-as-bitcoin-pops-reversing-recent-doge-losing-streak.html</loc>
     <lastmod>2026-03-04T19:20:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -385,12 +391,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260304-coindesk-20-performance-update-solana-sol-gains-56-leading-index-higher.html</loc>
-    <lastmod>2026-03-04T14:28:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260304-just-in-morgan-stanley-issues-new-sec-filing-for-a-spot-bitcoin-etf-announcing-c.html</loc>
     <lastmod>2026-03-04T13:24:19.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -405,6 +405,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260304-irans-crypto-surge-spikes-amid-war-irans-78b-crypto-market-is-drawing-renewed-at.html</loc>
     <lastmod>2026-03-04T13:19:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-kraken-gains-direct-access-to-fed-payment-system-crypto-exchange-kraken-has-secu.html</loc>
+    <lastmod>2026-03-04T13:18:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -453,12 +459,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260304-new-krakenfx-the-uss-second-largest-crypto-exchange-has-just-done-something-no-o.html</loc>
     <lastmod>2026-03-04T11:09:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260304-breaking-krakenfx-just-became-the-first-crypto-firm-to-gain-access-to-the-federa.html</loc>
-    <lastmod>2026-03-04T11:00:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
