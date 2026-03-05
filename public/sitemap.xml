@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-05T10:00:00.408Z</lastmod>
+    <lastmod>2026-03-05T10:58:45.301Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-05T10:00:00.408Z</lastmod>
+    <lastmod>2026-03-05T10:58:45.301Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260305-reform-uk-tops-donations-with-millions-from-offshore-crypto-investor-report.html</loc>
+    <lastmod>2026-03-05T10:46:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260305-zerohash-applies-for-national-trust-bank-charter-to-expand-regulated-stablecoin-.html</loc>
+    <lastmod>2026-03-05T10:42:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260305-iren-to-expand-processing-capacity-by-50-prepares-at-the-market-offering.html</loc>
+    <lastmod>2026-03-05T10:03:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260305-stablecoin-inflows-rebound-to-17b-as-washington-battles-over-yield-rules.html</loc>
@@ -235,12 +253,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260304-crypto-treasury-inflows-slow-to-the-lowest-since-october-2024.html</loc>
-    <lastmod>2026-03-04T20:18:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260304-cryptos-new-run-has-legs-says-analyst-citing-trumps-press-on-policy-institutiona.html</loc>
     <lastmod>2026-03-04T20:14:22.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -349,12 +361,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260304-new-bank-trades-are-coming-out-against-the-krakenfx-master-account-approval-bank.html</loc>
-    <lastmod>2026-03-04T16:56:28.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260304-apple-iphone-hacking-kit-used-by-spies-crypto-scams-could-have-us-intelligence-o.html</loc>
     <lastmod>2026-03-04T16:38:09.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -375,18 +381,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260304-cathie-woods-ark-invest-buys-the-dip-on-coinbase-and-robinhoodboth-now-surging.html</loc>
     <lastmod>2026-03-04T15:21:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260304-coinbase-strategy-lead-crypto-stocks-higher-as-bitcoin-spikes-above-72000.html</loc>
-    <lastmod>2026-03-04T15:11:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260304-bitcoin-air-pocket-above-72000-could-mean-quick-run-to-80000.html</loc>
-    <lastmod>2026-03-04T14:58:25.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -483,6 +477,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260304-the-foundations-for-crypto-have-never-been-stronger-xcom.html</loc>
     <lastmod>2026-03-04T09:50:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-just-in-71000-bitcoin-xcom.html</loc>
+    <lastmod>2026-03-04T08:59:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
