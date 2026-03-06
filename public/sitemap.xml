@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-06T09:11:11.851Z</lastmod>
+    <lastmod>2026-03-06T09:54:11.392Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-06T09:11:11.851Z</lastmod>
+    <lastmod>2026-03-06T09:54:11.392Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260306-dubai-crypto-regulator-says-kucoin-exchange-is-operating-without-proper-license-.html</loc>
+    <lastmod>2026-03-06T09:32:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260306-vancouver-bitcoin-reserve-effort-hits-resistance-from-city-officials.html</loc>
@@ -391,12 +397,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260305-bitcoins-drawdown-hasnt-shaken-institutional-investors-yet-says-coinshares.html</loc>
-    <lastmod>2026-03-05T13:50:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260305-crypto-crime-in-2025-was-primarily-driven-by-694-surge-in-state-driven-sanctions.html</loc>
     <lastmod>2026-03-05T12:50:17.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -421,8 +421,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260305-resistance-level-has-been-reached-for-bitcoin-obviously-first-test-there-wont-be.html</loc>
-    <lastmod>2026-03-05T08:37:40.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260305-finally-one-month-is-turning-green-for-bitcoin-xcom.html</loc>
+    <lastmod>2026-03-05T09:42:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
