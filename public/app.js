@@ -4,6 +4,9 @@ const searchInputEl = document.getElementById("searchInput");
 const totalCountEl = document.getElementById("totalCount");
 const categoryCountEl = document.getElementById("categoryCount");
 const updatedAtEl = document.getElementById("updatedAt");
+const REMOTE_NEWS_URL =
+  "https://raw.githubusercontent.com/yangyuezh/librchain/main/public/news.json";
+const LOCAL_NEWS_URL = "./news.json";
 
 document.getElementById("year").textContent = new Date().getFullYear();
 
@@ -11,6 +14,7 @@ let newsItems = [];
 let categories = ["全部"];
 let activeCategory = "全部";
 let searchKeyword = "";
+let currentDataOrigin = "local";
 
 function escapeHtml(value) {
   return String(value ?? "")
@@ -95,8 +99,13 @@ function renderFeed() {
 
   feedEl.innerHTML = visibleNews
     .map((item) => {
+      const showLocalDetail = currentDataOrigin === "local" && Boolean(item.localUrl);
+      const sourceLink = item.url || item.localUrl;
       const detailLink = item.localUrl || item.url;
-      const sourceLink = item.url || detailLink;
+      const detailMarkup = showLocalDetail
+        ? `<a href="${escapeHtml(detailLink)}">站内详情</a>`
+        : "";
+      const sourceLabel = showLocalDetail ? "原始来源" : "阅读全文";
 
       return `
       <article class="card">
@@ -108,8 +117,8 @@ function renderFeed() {
         <p>${escapeHtml(item.summary)}</p>
         <p class="card-meta">${formatDate(item.publishedAt)}</p>
         <div class="card-links">
-          <a href="${escapeHtml(detailLink)}">站内详情</a>
-          <a href="${escapeHtml(sourceLink)}" target="_blank" rel="noopener noreferrer">原始来源</a>
+          ${detailMarkup}
+          <a href="${escapeHtml(sourceLink)}" target="_blank" rel="noopener noreferrer">${sourceLabel}</a>
         </div>
       </article>
     `;
@@ -124,19 +133,52 @@ function renderSnapshot(updatedAtFromFeed) {
   updatedAtEl.textContent = formatDate(updatedAtFromFeed || fallback);
 }
 
+async function fetchNewsPayload(url) {
+  const response = await fetch(url, {
+    cache: "no-store"
+  });
+
+  if (!response.ok) {
+    throw new Error(`新闻数据请求失败: ${response.status}`);
+  }
+
+  return response.json();
+}
+
+async function loadLatestPayload() {
+  const sources = [
+    {
+      name: "remote",
+      url: `${REMOTE_NEWS_URL}?ts=${Date.now()}`
+    },
+    {
+      name: "local",
+      url: `${LOCAL_NEWS_URL}?ts=${Date.now()}`
+    }
+  ];
+
+  let lastError;
+
+  for (const source of sources) {
+    try {
+      const payload = await fetchNewsPayload(source.url);
+      currentDataOrigin = source.name;
+      return payload;
+    } catch (error) {
+      lastError = error;
+      console.warn(`News load fallback from ${source.name} source`, error);
+    }
+  }
+
+  currentDataOrigin = "local";
+  throw lastError ?? new Error("新闻数据请求失败");
+}
+
 async function loadNews() {
   feedEl.innerHTML = '<div class="empty">正在加载最新新闻...</div>';
 
   try {
-    const response = await fetch("./news.json", {
-      cache: "no-store"
-    });
-
-    if (!response.ok) {
-      throw new Error(`新闻数据请求失败: ${response.status}`);
-    }
-
-    const payload = await response.json();
+    const payload = await loadLatestPayload();
     const items = Array.isArray(payload) ? payload : payload.items;
     newsItems = normalizedItems(items);
 

@@ -4,6 +4,13 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'public/news.json'
+      - 'public/feed.xml'
+      - 'public/sitemap.xml'
+      - 'public/robots.txt'
+      - 'public/*.txt'
+      - 'public/news/**'
   workflow_dispatch:
 
 jobs:
