@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-06T07:51:28.813Z</lastmod>
+    <lastmod>2026-03-06T08:54:52.576Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-06T07:51:28.813Z</lastmod>
+    <lastmod>2026-03-06T08:54:52.576Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260306-vancouver-bitcoin-reserve-effort-hits-resistance-from-city-bureaucrats.html</loc>
+    <lastmod>2026-03-06T08:39:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260306-vancouver-mayors-bitcoin-investment-proposal-blocked-by-city-provincial-law.html</loc>
+    <lastmod>2026-03-06T08:39:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260306-dubai-regulator-orders-kucoin-entities-to-stop-unlicensed-operations.html</loc>
+    <lastmod>2026-03-06T08:22:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260306-pudgy-penguins-accused-of-infringing-original-penguin-trademark.html</loc>
@@ -271,12 +289,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260305-core-scientific-secures-up-to-1b-credit-from-morgan-stanley-for-data-centers.html</loc>
-    <lastmod>2026-03-05T17:16:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260305-son-of-us-government-contractor-accused-of-stealing-millions-in-seized-crypto-ar.html</loc>
     <lastmod>2026-03-05T17:11:34.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -301,12 +313,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260305-sofi-taps-bitgo-to-provide-infrastructure-for-bank-issued-stablecoin.html</loc>
-    <lastmod>2026-03-05T16:42:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260305-bitcoin-price-predictions-flip-bullish-but-ethereum-is-still-stuck.html</loc>
     <lastmod>2026-03-05T16:36:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -327,6 +333,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260305-bitcoin-pulls-back-to-near-71000-even-as-software-sector-soars.html</loc>
     <lastmod>2026-03-05T15:57:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260305-breaking-irs-proposes-allowing-crypto-exchanges-to-deliver-tax-forms-electronica.html</loc>
+    <lastmod>2026-03-05T15:41:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -385,12 +397,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260305-crypto-friendly-fintech-giant-revolut-files-for-us-banking-license.html</loc>
-    <lastmod>2026-03-05T13:08:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260305-crypto-crime-in-2025-was-primarily-driven-by-694-surge-in-state-driven-sanctions.html</loc>
     <lastmod>2026-03-05T12:50:17.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -417,12 +423,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260305-resistance-level-has-been-reached-for-bitcoin-obviously-first-test-there-wont-be.html</loc>
     <lastmod>2026-03-05T08:37:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260305-update-bitcoin-rebounds-to-74k-for-the-first-time-in-a-month-as-altcoins-like-so.html</loc>
-    <lastmod>2026-03-05T07:00:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
