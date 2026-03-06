@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-06T15:52:16.093Z</lastmod>
+    <lastmod>2026-03-06T16:57:48.138Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-06T15:52:16.093Z</lastmod>
+    <lastmod>2026-03-06T16:57:48.138Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260306-kazakhstans-central-bank-will-invest-up-to-350-million-in-crypto-assets-reuters.html</loc>
+    <lastmod>2026-03-06T16:42:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260306-crypto-biz-kraken-plugs-into-the-fed.html</loc>
+    <lastmod>2026-03-06T16:23:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260306-nigel-farage-confidant-linked-to-550k-loss-on-iran-strike-polymarket-bet-report.html</loc>
+    <lastmod>2026-03-06T16:05:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260306-dubai-orders-crypto-exchange-kucoin-to-stop-offering-services-to-residents.html</loc>
@@ -259,12 +277,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-us-regulators-say-tokenized-securities-subject-to-same-capital-rules.html</loc>
-    <lastmod>2026-03-06T04:03:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-vancouver-moves-to-close-bitcoin-reserve-proposal-after-legal-review.html</loc>
     <lastmod>2026-03-06T03:40:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -355,6 +367,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260305-from-private-payments-to-tokenized-funds-and-ai-standards-ethereum-builders-kept.html</loc>
+    <lastmod>2026-03-05T20:17:16.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260305-openai-launches-gpt-54-days-just-after-last-version-as-quitgpt-exodus-gains-stea.html</loc>
     <lastmod>2026-03-05T19:38:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -415,18 +433,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260305-morning-minute-kraken-cracks-the-fed.html</loc>
-    <lastmod>2026-03-05T14:28:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260305-okb-token-surges-38-on-nyses-okx-investment-at-25b-valuation.html</loc>
-    <lastmod>2026-03-05T14:20:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260305-crypto-crime-in-2025-was-primarily-driven-by-694-surge-in-state-driven-sanctions.html</loc>
     <lastmod>2026-03-05T12:50:17.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260304-just-in-bitcoin-exchange-kraken-becomes-first-crypto-bank-to-receive-a-federal-r.html</loc>
     <lastmod>2026-03-04T12:35:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260304-calling-all-builders-build-the-future-of-crypto-ai-and-win-a-share-of-486-bnb-cr.html</loc>
-    <lastmod>2026-03-04T10:00:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
