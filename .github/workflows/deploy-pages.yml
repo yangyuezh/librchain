@@ -17,6 +17,8 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Publish
+        id: publish
+        continue-on-error: true
         uses: cloudflare/pages-action@v1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -24,3 +26,8 @@ jobs:
           projectName: librchain
           directory: public
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Warn If Publish Fails
+        if: steps.publish.outcome == 'failure'
+        run: |
+          echo "::warning::Cloudflare publish failed because CLOUDFLARE_API_TOKEN is invalid or expired."

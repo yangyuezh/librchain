@@ -47,7 +47,9 @@ jobs:
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: Deploy Fresh Content To Cloudflare Pages
+        id: cf_deploy
         if: steps.commit_changes.outputs.changed == 'true'
+        continue-on-error: true
         uses: cloudflare/pages-action@v1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -55,3 +57,8 @@ jobs:
           projectName: librchain
           directory: public
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Warn On Cloudflare Deploy Failure
+        if: steps.commit_changes.outputs.changed == 'true' && steps.cf_deploy.outcome == 'failure'
+        run: |
+          echo "::warning::Cloudflare deploy failed. The news data commit succeeded, but CLOUDFLARE_API_TOKEN appears invalid or expired."
