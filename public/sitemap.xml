@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-06T22:46:37.565Z</lastmod>
+    <lastmod>2026-03-06T23:38:08.474Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-06T22:46:37.565Z</lastmod>
+    <lastmod>2026-03-06T23:38:08.474Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260306-when-buying-bitcoin-dont-expect-profit-for-at-least-3-years-data.html</loc>
+    <lastmod>2026-03-06T23:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260306-kalshi-sued-over-refusing-to-pay-out-prediction-market-after-iran-leaders-death.html</loc>
@@ -99,12 +105,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260306-markets-are-underpricing-risk-of-longer-middle-east-war-arthur-hayes-says.html</loc>
     <lastmod>2026-03-06T18:51:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260306-just-in-bitcoin-falls-under-68000-xcom.html</loc>
-    <lastmod>2026-03-06T17:39:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -283,12 +283,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-bitcoin-anomalous-outflow-sees-32k-btc-leave-exchanges-in-a-single-day.html</loc>
-    <lastmod>2026-03-06T10:40:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-bitcoin-drops-toward-70000-ahead-of-us-jobs-data-oil-price-rises-on-iran-war.html</loc>
     <lastmod>2026-03-06T10:29:11.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -451,8 +445,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260304-analysis-south-koreas-kospi-index-lost-20-in-two-days-as-bitcoin-surged-7-and-ko.html</loc>
+    <lastmod>2026-03-04T22:56:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260304-choose-your-bitcoin-mstr-btc-strc-xcom.html</loc>
     <lastmod>2026-03-04T22:41:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-just-in-blackrocks-spot-bitcoin-etf-did-47-billion-in-trading-volume-today-xcom.html</loc>
+    <lastmod>2026-03-04T22:29:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260304-just-in-bitcoin-exchange-kraken-becomes-first-crypto-bank-to-receive-a-federal-r.html</loc>
     <lastmod>2026-03-04T12:35:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260304-new-krakenfx-the-uss-second-largest-crypto-exchange-has-just-done-something-no-o.html</loc>
-    <lastmod>2026-03-04T11:09:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
