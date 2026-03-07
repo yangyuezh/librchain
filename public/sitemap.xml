@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-07T09:41:26.704Z</lastmod>
+    <lastmod>2026-03-07T10:38:46.078Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-07T09:41:26.704Z</lastmod>
+    <lastmod>2026-03-07T10:38:46.078Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260307-grok-delivers-viral-vulgar-roasts-of-musk-netanyahu-and-starmer.html</loc>
+    <lastmod>2026-03-07T09:36:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260307-florida-senate-passes-state-level-stablecoin-bill-awaits-desantis-signature.html</loc>
@@ -259,12 +265,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-crypto-turnaround-at-fed-as-kraken-scores-account-and-trump-nominee-goes-to-sena.html</loc>
-    <lastmod>2026-03-06T14:18:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-us-unexpectedly-lost-92000-jobs-in-february-unemployment-rate-rose-to-44.html</loc>
     <lastmod>2026-03-06T13:33:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,12 +481,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260304-a-historic-moment-for-crypto-kraken-financial-has-been-granted-a-federal-reserve.html</loc>
-    <lastmod>2026-03-04T14:44:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260304-just-in-morgan-stanley-issues-new-sec-filing-for-a-spot-bitcoin-etf-announcing-c.html</loc>
     <lastmod>2026-03-04T13:24:19.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -495,6 +489,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260304-irans-crypto-surge-spikes-amid-war-irans-78b-crypto-market-is-drawing-renewed-at.html</loc>
     <lastmod>2026-03-04T13:19:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-just-in-bitcoin-exchange-kraken-becomes-first-crypto-bank-to-receive-a-federal-r.html</loc>
+    <lastmod>2026-03-04T12:35:14.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
