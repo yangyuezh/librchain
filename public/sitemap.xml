@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-07T20:37:14.300Z</lastmod>
+    <lastmod>2026-03-07T21:33:00.176Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-07T20:37:14.300Z</lastmod>
+    <lastmod>2026-03-07T21:33:00.176Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260307-coinbase-says-new-us-tax-reporting-rules-for-crypto-are-cluttered-confusing.html</loc>
+    <lastmod>2026-03-07T21:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260307-trumps-cyber-strategy-vows-to-support-the-security-of-cryptocurrencies-and-block.html</loc>
@@ -63,6 +69,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260307-jeffrey-wilcke-the-co-founder-of-ethereum-appears-to-be-selling-eth-he-deposited.html</loc>
     <lastmod>2026-03-07T15:54:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260307-according-to-ai_9684xtpa-ethereum-co-founder-jeffrey-wilcke-is-suspected-of-sell.html</loc>
+    <lastmod>2026-03-07T15:52:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -331,12 +343,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-just-in-its-now-estimated-that-michael-saylors-strategy-has-already-accumulated-.html</loc>
-    <lastmod>2026-03-06T15:35:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-bitcoin-buyers-are-cashing-out-fast-after-short-lived-jump-to-74000.html</loc>
     <lastmod>2026-03-06T15:24:21.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -391,12 +397,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-bitcoin-hit-by-short-termism-as-rally-fades-ahead-of-us-jobs-data.html</loc>
-    <lastmod>2026-03-06T12:20:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-bitcoin-history-repeats-xcom.html</loc>
     <lastmod>2026-03-06T08:18:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -415,8 +415,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-new-pulse-check-on-crypto-market-structure-from-a-handful-of-conversations-with-.html</loc>
-    <lastmod>2026-03-06T01:25:56.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260306-an-ethereum-ico-wallet-0xf37b-transferred-100275-eth2088k-to-a-new-wallet-after-.html</loc>
+    <lastmod>2026-03-06T01:37:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
