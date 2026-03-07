@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-07T07:39:56.019Z</lastmod>
+    <lastmod>2026-03-07T08:47:13.272Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-07T07:39:56.019Z</lastmod>
+    <lastmod>2026-03-07T08:47:13.272Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260307-florida-senate-passes-state-level-stablecoin-bill-awaits-desantis-signature.html</loc>
+    <lastmod>2026-03-07T07:58:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260307-bitcoin-slips-below-68000-heading-into-the-weekend-as-dollar-posts-steepest-week.html</loc>
@@ -45,6 +51,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260306-when-buying-bitcoin-dont-expect-profit-for-at-least-3-years-data.html</loc>
     <lastmod>2026-03-06T23:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260306-bank-of-canada-pilot-issues-countrys-first-tokenized-bond.html</loc>
+    <lastmod>2026-03-06T22:17:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -259,18 +271,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-crypto-exchanges-gain-as-tokenized-commodity-market-climbs-to-77b.html</loc>
-    <lastmod>2026-03-06T14:11:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260306-tokenized-rwas-buck-the-slump-as-1inch-ondo-volumes-top-25b.html</loc>
-    <lastmod>2026-03-06T14:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-us-unexpectedly-lost-92000-jobs-in-february-unemployment-rate-rose-to-44.html</loc>
     <lastmod>2026-03-06T13:33:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -337,14 +337,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-sillytuna-attackers-moving-10m-of-stolen-funds-sillytunas-attackers-have-started.html</loc>
-    <lastmod>2026-03-06T09:24:26.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260306-vancouver-mayors-bitcoin-investment-proposal-blocked-by-city-provincial-law.html</loc>
+    <lastmod>2026-03-06T08:39:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-vancouver-mayors-bitcoin-investment-proposal-blocked-by-city-provincial-law.html</loc>
-    <lastmod>2026-03-06T08:39:40.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260306-bitcoin-history-repeats-xcom.html</loc>
+    <lastmod>2026-03-06T08:18:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -481,6 +481,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260304-just-in-white-house-officially-nominates-pro-bitcoin-kevin-warsh-to-be-the-new-f.html</loc>
+    <lastmod>2026-03-04T17:02:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260304-just-in-morgan-stanley-issues-new-sec-filing-for-a-spot-bitcoin-etf-announcing-c.html</loc>
     <lastmod>2026-03-04T13:24:19.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260304-irans-crypto-surge-spikes-amid-war-irans-78b-crypto-market-is-drawing-renewed-at.html</loc>
     <lastmod>2026-03-04T13:19:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260304-just-in-bitcoin-exchange-kraken-becomes-first-crypto-bank-to-receive-a-federal-r.html</loc>
-    <lastmod>2026-03-04T12:35:14.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
