@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-07T10:38:46.078Z</lastmod>
+    <lastmod>2026-03-07T11:31:28.062Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-07T10:38:46.078Z</lastmod>
+    <lastmod>2026-03-07T11:31:28.062Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260307-usdc-beats-tether-as-stablecoin-transfer-volume-hits-18t-all-time-high.html</loc>
+    <lastmod>2026-03-07T10:47:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260307-grok-delivers-viral-vulgar-roasts-of-musk-netanyahu-and-starmer.html</loc>
@@ -235,12 +241,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-bitcoin-price-drops-to-near-68k-as-us-jobs-weakness-fails-to-rescue-bulls.html</loc>
-    <lastmod>2026-03-06T15:14:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-bitcoin-dives-below-69k-as-us-loses-92k-jobs-in-february.html</loc>
     <lastmod>2026-03-06T15:05:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -321,12 +321,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260306-dubai-crypto-regulator-says-kucoin-exchange-is-operating-without-proper-license-.html</loc>
     <lastmod>2026-03-06T09:32:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260306-latest-vancouver-city-staff-ask-council-to-drop-a-bitcoin-reserve-proposal-sayin.html</loc>
-    <lastmod>2026-03-06T09:30:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -471,6 +465,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260304-choose-your-bitcoin-mstr-btc-strc-xcom.html</loc>
     <lastmod>2026-03-04T22:41:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260304-investor-demand-for-crypto-funds-is-recovering-crypto-funds-posted-10-billion-in.html</loc>
+    <lastmod>2026-03-04T18:38:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
