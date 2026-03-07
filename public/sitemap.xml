@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-07T22:37:23.276Z</lastmod>
+    <lastmod>2026-03-07T23:34:24.890Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-07T22:37:23.276Z</lastmod>
+    <lastmod>2026-03-07T23:34:24.890Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260307-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-07T22:32:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260307-crypto-fear-and-greed-index-falls-back-down-to-extreme-fear-levels.html</loc>
@@ -241,12 +247,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-03-06T20:23:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-why-bitcoin-couldnt-hold-70000-despite-its-best-week-of-wall-street-news-in-mont.html</loc>
     <lastmod>2026-03-06T20:17:14.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -463,6 +463,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260305-controversial-opinion-the-biggest-reason-for-the-massive-disconnect-between-cryp.html</loc>
+    <lastmod>2026-03-05T20:54:27.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260305-from-private-payments-to-tokenized-funds-and-ai-standards-ethereum-builders-kept.html</loc>
     <lastmod>2026-03-05T20:17:16.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -471,12 +477,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260305-breaking-fbi-director-kash-patel-announces-they-arrested-a-government-contractor.html</loc>
     <lastmod>2026-03-05T15:25:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260305-latest-ripple-now-offers-clients-access-to-crypto-derivatives-listed-on-coinbase.html</loc>
-    <lastmod>2026-03-05T15:01:12.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -493,8 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260304-choose-your-bitcoin-mstr-btc-strc-xcom.html</loc>
-    <lastmod>2026-03-04T22:41:23.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260305-finally-one-month-is-turning-green-for-bitcoin-xcom.html</loc>
+    <lastmod>2026-03-05T09:42:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
