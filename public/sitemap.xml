@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-07T21:33:00.176Z</lastmod>
+    <lastmod>2026-03-07T22:37:23.276Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-07T21:33:00.176Z</lastmod>
+    <lastmod>2026-03-07T22:37:23.276Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260307-crypto-fear-and-greed-index-falls-back-down-to-extreme-fear-levels.html</loc>
+    <lastmod>2026-03-07T22:05:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260307-coinbase-says-new-us-tax-reporting-rules-for-crypto-are-cluttered-confusing.html</loc>
@@ -289,12 +295,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-pakistans-parliament-passes-the-virtual-assets-act-of-2026.html</loc>
-    <lastmod>2026-03-06T17:33:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-blackrock-private-credit-fund-is-latest-to-crack-hitting-crypto-prices-and-defi-.html</loc>
     <lastmod>2026-03-06T17:30:48.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -339,6 +339,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260306-dubai-orders-crypto-exchange-kucoin-to-stop-offering-services-to-residents.html</loc>
     <lastmod>2026-03-06T15:40:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260306-just-in-its-now-estimated-that-michael-saylors-strategy-has-already-accumulated-.html</loc>
+    <lastmod>2026-03-06T15:35:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,8 +421,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-an-ethereum-ico-wallet-0xf37b-transferred-100275-eth2088k-to-a-new-wallet-after-.html</loc>
-    <lastmod>2026-03-06T01:37:41.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260306-this-is-massive-for-the-crypto-market-america-just-unlocked-trillions-of-dollars.html</loc>
+    <lastmod>2026-03-06T00:51:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -463,14 +469,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260305-new-crypto-legislation-hits-impasse-as-banks-reject-white-house-compromise-on-st.html</loc>
-    <lastmod>2026-03-05T18:22:43.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260305-breaking-fbi-director-kash-patel-announces-they-arrested-a-government-contractor.html</loc>
+    <lastmod>2026-03-05T15:25:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260305-breaking-fbi-director-kash-patel-announces-they-arrested-a-government-contractor.html</loc>
-    <lastmod>2026-03-05T15:25:20.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260305-latest-ripple-now-offers-clients-access-to-crypto-derivatives-listed-on-coinbase.html</loc>
+    <lastmod>2026-03-05T15:01:12.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260304-choose-your-bitcoin-mstr-btc-strc-xcom.html</loc>
     <lastmod>2026-03-04T22:41:23.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260304-just-in-blackrocks-spot-bitcoin-etf-did-47-billion-in-trading-volume-today-xcom.html</loc>
-    <lastmod>2026-03-04T22:29:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
