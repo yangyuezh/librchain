@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-08T19:33:34.826Z</lastmod>
+    <lastmod>2026-03-08T20:39:14.770Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-08T19:33:34.826Z</lastmod>
+    <lastmod>2026-03-08T20:39:14.770Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260308-brazils-pix-instant-payments-system-expands-to-argentina.html</loc>
+    <lastmod>2026-03-08T19:33:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260308-cryptos-rock-n-roll-era-is-over.html</loc>
@@ -97,6 +103,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260308-written-by-amin-haqshanasstaff-writerreviewed-by-bryan-osheastaff-editora-us-fed.html</loc>
+    <lastmod>2026-03-08T08:59:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260308-cz-says-cexs-have-zero-motive-to-aid-terrorists-as-court-dismisses-terrorism-cas.html</loc>
     <lastmod>2026-03-08T07:13:51.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -135,6 +147,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260308-i-can-see-how-despondent-everyone-is-about-crypto-and-the-pure-chartists-are-tel.html</loc>
     <lastmod>2026-03-08T00:46:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260307-warning-vitalik-says-if-crypto-keeps-centering-on-gambling-with-no-real-world-us.html</loc>
+    <lastmod>2026-03-07T23:26:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -213,12 +231,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260307-jeffrey-wilcke-the-co-founder-of-ethereum-appears-to-be-selling-eth-he-deposited.html</loc>
     <lastmod>2026-03-07T15:54:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260307-according-to-ai_9684xtpa-ethereum-co-founder-jeffrey-wilcke-is-suspected-of-sell.html</loc>
-    <lastmod>2026-03-07T15:52:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -321,12 +333,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260307-community-banks-and-crypto-industry-are-allies-in-clarity-act-debate-exec.html</loc>
     <lastmod>2026-03-07T02:53:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260306-when-buying-bitcoin-dont-expect-profit-for-at-least-3-years-data.html</loc>
-    <lastmod>2026-03-06T23:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -445,6 +451,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260306-bitcoin-history-repeats-xcom.html</loc>
+    <lastmod>2026-03-06T08:18:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260306-vancouver-moves-to-close-bitcoin-reserve-proposal-after-legal-review.html</loc>
     <lastmod>2026-03-06T03:40:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -453,12 +465,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260306-crypto-exchange-okx-debuts-social-platform-linking-posts-to-trades.html</loc>
     <lastmod>2026-03-06T03:01:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260306-latest-vitalik-calls-on-the-ethereum-community-to-adopt-a-bolder-more-open-minds.html</loc>
-    <lastmod>2026-03-06T03:00:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260305-roblox-is-now-using-ai-to-rewrite-chat-swears-in-real-time.html</loc>
     <lastmod>2026-03-05T21:37:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260305-i-think-its-healthy-for-us-in-the-ethereum-world-to-have-a-more-bold-and-open-mi.html</loc>
-    <lastmod>2026-03-05T20:58:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
