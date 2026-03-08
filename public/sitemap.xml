@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-08T03:10:49.651Z</lastmod>
+    <lastmod>2026-03-08T05:13:55.826Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-08T03:10:49.651Z</lastmod>
+    <lastmod>2026-03-08T05:13:55.826Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260308-xrp-slips-as-traders-watch-135-support.html</loc>
+    <lastmod>2026-03-08T05:06:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260307-heres-what-happened-in-crypto-today.html</loc>
@@ -199,12 +205,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260307-you-might-not-be-surprised-that-adam-back-blocked-me-for-building-successful-com.html</loc>
-    <lastmod>2026-03-07T04:43:26.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260307-community-banks-and-crypto-industry-are-allies-in-clarity-act-debate-exec.html</loc>
     <lastmod>2026-03-07T02:53:16.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -325,12 +325,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-bitcoin-history-was-just-made-in-florida-we-are-now-the-first-state-to-pass-a-st.html</loc>
-    <lastmod>2026-03-06T17:23:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-new-from-thegivingblocks-2026-report-crypto-philanthropy-hit-100m-in-2025-a-66-j.html</loc>
     <lastmod>2026-03-06T16:49:23.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -351,6 +345,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260306-nigel-farage-confidant-linked-to-550k-loss-on-iran-strike-polymarket-bet-report.html</loc>
     <lastmod>2026-03-06T16:05:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260306-huge-support-for-ethereum-xcom.html</loc>
+    <lastmod>2026-03-06T16:03:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -409,14 +409,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-kazakhstan-central-bank-to-invest-350-million-worth-of-gold-forex-reserves-into-.html</loc>
-    <lastmod>2026-03-06T13:08:55.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260306-bitcoin-etfs-shed-228m-but-longer-term-flows-stabilize.html</loc>
+    <lastmod>2026-03-06T12:52:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-bitcoin-etfs-shed-228m-but-longer-term-flows-stabilize.html</loc>
-    <lastmod>2026-03-06T12:52:56.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260306-bitcoin-history-repeats-xcom.html</loc>
+    <lastmod>2026-03-06T08:18:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -429,12 +429,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260306-crypto-exchange-okx-debuts-social-platform-linking-posts-to-trades.html</loc>
     <lastmod>2026-03-06T03:01:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260306-an-ethereum-ico-wallet-0xf37b-transferred-100275-eth2088k-to-a-new-wallet-after-.html</loc>
-    <lastmod>2026-03-06T01:37:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -495,6 +489,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260305-just-in-new-york-stock-exchange-parent-company-ice-invests-in-bitcoin-exchange-o.html</loc>
     <lastmod>2026-03-05T12:36:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260305-finally-one-month-is-turning-green-for-bitcoin-xcom.html</loc>
+    <lastmod>2026-03-05T09:42:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
