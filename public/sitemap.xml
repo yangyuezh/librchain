@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-08T11:32:07.164Z</lastmod>
+    <lastmod>2026-03-08T13:09:33.494Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-08T11:32:07.164Z</lastmod>
+    <lastmod>2026-03-08T13:09:33.494Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260308-ai-agent-attempts-unauthorized-crypto-mining-during-training-reseachers-say.html</loc>
+    <lastmod>2026-03-08T12:01:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260308-tokenized-assets-exceed-25-billion-after-nearly-quadrupling-in-a-year.html</loc>
@@ -229,12 +235,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260307-breaking-blackrock-bought-660000000-worth-of-bitcoin-this-week-xcom.html</loc>
-    <lastmod>2026-03-07T08:03:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260307-florida-senate-passes-state-level-stablecoin-bill-awaits-desantis-signature.html</loc>
     <lastmod>2026-03-07T07:58:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -313,12 +313,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-ex-cfo-sentenced-to-two-years-after-diverting-35m-to-crypto-venture.html</loc>
-    <lastmod>2026-03-06T21:22:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-obscene-grammarlys-new-ai-tool-offers-writing-feedback-from-dead-scholars.html</loc>
     <lastmod>2026-03-06T21:07:39.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -345,6 +339,18 @@
   <url>
     <loc>https://www.librchain.com/news/20260306-managing-financial-ai-agents-is-the-only-skill-youll-need-to-survive-the-ai-layo.html</loc>
     <lastmod>2026-03-06T19:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260306-the-institutional-crypto-operating-system-is-here-247-futures-and-perps-a-new-cu.html</loc>
+    <lastmod>2026-03-06T18:54:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260306-blockchain-expansion-update-chainlink-ccip-adi-chain-testnet-pharos-chainlink-da.html</loc>
+    <lastmod>2026-03-06T18:46:25.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -385,14 +391,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-huge-support-for-ethereum-xcom.html</loc>
-    <lastmod>2026-03-06T16:03:00.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260306-dubai-orders-crypto-exchange-kucoin-to-stop-offering-services-to-residents.html</loc>
+    <lastmod>2026-03-06T15:40:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-dubai-orders-crypto-exchange-kucoin-to-stop-offering-services-to-residents.html</loc>
-    <lastmod>2026-03-06T15:40:53.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260306-just-in-its-now-estimated-that-michael-saylors-strategy-has-already-accumulated-.html</loc>
+    <lastmod>2026-03-06T15:35:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -435,12 +441,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260306-crypto-exchange-okx-debuts-social-platform-linking-posts-to-trades.html</loc>
     <lastmod>2026-03-06T03:01:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260306-this-is-massive-for-the-crypto-market-america-just-unlocked-trillions-of-dollars.html</loc>
-    <lastmod>2026-03-06T00:51:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
