@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-08T16:44:28.458Z</lastmod>
+    <lastmod>2026-03-08T17:36:28.565Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-08T16:44:28.458Z</lastmod>
+    <lastmod>2026-03-08T17:36:28.565Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260308-michael-b-jordan-takes-the-lead-on-polymarket-for-oscars-best-actor.html</loc>
+    <lastmod>2026-03-08T17:14:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260308-openai-gpt-54-vs-xai-grok-420-which-ai-chatbot-is-best-for-you.html</loc>
@@ -307,18 +313,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-bank-of-canada-pilot-issues-countrys-first-tokenized-bond.html</loc>
-    <lastmod>2026-03-06T22:17:28.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260306-updated-filing-from-blackrock-here-on-their-ethereum-staking-etf-ethb-the-main-c.html</loc>
-    <lastmod>2026-03-06T22:13:26.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-kalshi-sued-over-refusing-to-pay-out-prediction-market-after-iran-leaders-death.html</loc>
     <lastmod>2026-03-06T22:08:15.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -385,12 +379,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-just-in-bitcoin-falls-under-68000-xcom.html</loc>
-    <lastmod>2026-03-06T17:39:55.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-new-from-thegivingblocks-2026-report-crypto-philanthropy-hit-100m-in-2025-a-66-j.html</loc>
     <lastmod>2026-03-06T16:49:23.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -411,6 +399,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260306-nigel-farage-confidant-linked-to-550k-loss-on-iran-strike-polymarket-bet-report.html</loc>
     <lastmod>2026-03-06T16:05:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260306-huge-support-for-ethereum-xcom.html</loc>
+    <lastmod>2026-03-06T16:03:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -441,6 +435,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260306-bitcoin-etfs-shed-228m-but-longer-term-flows-stabilize.html</loc>
     <lastmod>2026-03-06T12:52:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260306-bitcoin-history-repeats-xcom.html</loc>
+    <lastmod>2026-03-06T08:18:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
