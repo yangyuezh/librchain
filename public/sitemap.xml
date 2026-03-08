@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-08T21:35:14.631Z</lastmod>
+    <lastmod>2026-03-08T22:38:32.394Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-08T21:35:14.631Z</lastmod>
+    <lastmod>2026-03-08T22:38:32.394Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260308-saylor-signals-another-bitcoin-buy-as-btc-hovers-near-66k.html</loc>
+    <lastmod>2026-03-08T21:31:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260308-crypto-coin-community-on-x-71-members-xcom.html</loc>
+    <lastmod>2026-03-08T21:13:59.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260308-brazils-pix-instant-payments-system-expands-to-argentina.html</loc>
     <lastmod>2026-03-08T19:33:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260308-big-us-spot-bitcoin-etfs-recorded-their-second-straight-week-of-net-inflows-brin.html</loc>
+    <lastmod>2026-03-08T19:30:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -99,6 +117,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260308-spot-bitcoin-etfs-post-second-straight-weekly-inflows-for-first-time-in-5-months.html</loc>
     <lastmod>2026-03-08T10:08:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260308-written-by-amin-haqshanasstaff-writerreviewed-by-bryan-osheastaff-editora-us-fed.html</loc>
+    <lastmod>2026-03-08T08:59:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -325,12 +349,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260307-community-banks-and-crypto-industry-are-allies-in-clarity-act-debate-exec.html</loc>
-    <lastmod>2026-03-07T02:53:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-kalshi-sued-over-refusing-to-pay-out-prediction-market-after-iran-leaders-death.html</loc>
     <lastmod>2026-03-06T22:08:15.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -373,18 +391,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-the-institutional-crypto-operating-system-is-here-247-futures-and-perps-a-new-cu.html</loc>
-    <lastmod>2026-03-06T18:54:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260306-blockchain-expansion-update-chainlink-ccip-adi-chain-testnet-pharos-chainlink-da.html</loc>
-    <lastmod>2026-03-06T18:46:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-the-internet-of-agents-is-here-without-ethereums-trustless-agents-standard-erc-8.html</loc>
     <lastmod>2026-03-06T18:45:28.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -411,12 +417,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260306-nigel-farage-confidant-linked-to-550k-loss-on-iran-strike-polymarket-bet-report.html</loc>
     <lastmod>2026-03-06T16:05:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260306-huge-support-for-ethereum-xcom.html</loc>
-    <lastmod>2026-03-06T16:03:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
