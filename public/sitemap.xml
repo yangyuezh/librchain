@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-08T05:13:55.826Z</lastmod>
+    <lastmod>2026-03-08T06:59:00.186Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-08T05:13:55.826Z</lastmod>
+    <lastmod>2026-03-08T06:59:00.186Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260308-bitcoin-dip-may-not-be-over-as-whales-sell-into-retail-buying-a-bearish-signal.html</loc>
+    <lastmod>2026-03-08T05:16:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260308-crypto-privacy-is-needed-if-you-want-to-make-api-calls-without-compromising-the-.html</loc>
+    <lastmod>2026-03-08T05:07:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260308-xrp-slips-as-traders-watch-135-support.html</loc>
@@ -223,6 +235,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260306-odds-of-bitcoin-price-drop-to-65k-rise-as-private-credit-woes-us-war-rattle-mark.html</loc>
+    <lastmod>2026-03-06T22:15:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260306-updated-filing-from-blackrock-here-on-their-ethereum-staking-etf-ethb-the-main-c.html</loc>
     <lastmod>2026-03-06T22:13:26.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -313,8 +331,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-markets-are-underpricing-risk-of-longer-middle-east-war-arthur-hayes-says.html</loc>
-    <lastmod>2026-03-06T18:51:56.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260306-the-internet-of-agents-is-here-without-ethereums-trustless-agents-standard-erc-8.html</loc>
+    <lastmod>2026-03-06T18:45:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -397,12 +415,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-us-unexpectedly-lost-92000-jobs-in-february-unemployment-rate-rose-to-44.html</loc>
-    <lastmod>2026-03-06T13:33:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-morning-minute-the-nyse-just-bought-into-a-major-crypto-exchange.html</loc>
     <lastmod>2026-03-06T13:09:46.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -411,12 +423,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260306-bitcoin-etfs-shed-228m-but-longer-term-flows-stabilize.html</loc>
     <lastmod>2026-03-06T12:52:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260306-bitcoin-history-repeats-xcom.html</loc>
-    <lastmod>2026-03-06T08:18:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260305-just-in-new-york-stock-exchange-parent-company-ice-invests-in-bitcoin-exchange-o.html</loc>
     <lastmod>2026-03-05T12:36:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260305-finally-one-month-is-turning-green-for-bitcoin-xcom.html</loc>
-    <lastmod>2026-03-05T09:42:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
