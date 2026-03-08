@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-08T14:38:14.639Z</lastmod>
+    <lastmod>2026-03-08T15:35:45.453Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-08T14:38:14.639Z</lastmod>
+    <lastmod>2026-03-08T15:35:45.453Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -31,6 +31,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260308-bitcoin-at-67k-but-s2f-model-screams-500k-avg-this-cycle-2024-2028-is-btc-massiv.html</loc>
+    <lastmod>2026-03-08T12:53:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260308-ai-agent-attempts-unauthorized-crypto-mining-during-training-reseachers-say.html</loc>
     <lastmod>2026-03-08T12:01:20.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -45,12 +51,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260308-cantons-yuval-rooz-says-smart-contract-blockchains-face-a-reckoning-over-value-g.html</loc>
     <lastmod>2026-03-08T11:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260308-whoever-told-you-the-bitcoin-btc-4-year-cycle-is-dead-show-them-this-chart-botto.html</loc>
-    <lastmod>2026-03-08T10:59:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -157,12 +157,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260307-just-in-bitcoin-treasury-company-strategys-perpetual-preferred-stock-stretch-str.html</loc>
-    <lastmod>2026-03-07T17:37:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260307-bitcoin-purist-jack-dorsey-says-that-his-firm-is-reluctantly-giving-in-to-stable.html</loc>
     <lastmod>2026-03-07T17:24:25.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -255,12 +249,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260307-boom-supporting-cryptocurrency-blockchain-technology-is-now-officially-an-emergi.html</loc>
     <lastmod>2026-03-07T08:10:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260307-breaking-blackrock-bought-660000000-worth-of-bitcoin-this-week-xcom.html</loc>
-    <lastmod>2026-03-07T08:03:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -367,6 +355,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260306-the-institutional-crypto-operating-system-is-here-247-futures-and-perps-a-new-cu.html</loc>
+    <lastmod>2026-03-06T18:54:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260306-blockchain-expansion-update-chainlink-ccip-adi-chain-testnet-pharos-chainlink-da.html</loc>
+    <lastmod>2026-03-06T18:46:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260306-the-internet-of-agents-is-here-without-ethereums-trustless-agents-standard-erc-8.html</loc>
     <lastmod>2026-03-06T18:45:28.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -409,6 +409,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260306-just-in-its-now-estimated-that-michael-saylors-strategy-has-already-accumulated-.html</loc>
+    <lastmod>2026-03-06T15:35:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260306-bitcoin-dives-below-69k-as-us-loses-92k-jobs-in-february.html</loc>
     <lastmod>2026-03-06T15:05:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -427,12 +433,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-bitcoin-history-repeats-xcom.html</loc>
-    <lastmod>2026-03-06T08:18:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-vancouver-moves-to-close-bitcoin-reserve-proposal-after-legal-review.html</loc>
     <lastmod>2026-03-06T03:40:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -445,8 +445,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-this-is-massive-for-the-crypto-market-america-just-unlocked-trillions-of-dollars.html</loc>
-    <lastmod>2026-03-06T00:51:39.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260306-latest-vitalik-calls-on-the-ethereum-community-to-adopt-a-bolder-more-open-minds.html</loc>
+    <lastmod>2026-03-06T03:00:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
