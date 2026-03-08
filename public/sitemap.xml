@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-08T18:51:09.555Z</lastmod>
+    <lastmod>2026-03-08T19:33:34.826Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-08T18:51:09.555Z</lastmod>
+    <lastmod>2026-03-08T19:33:34.826Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260308-cryptos-rock-n-roll-era-is-over.html</loc>
+    <lastmod>2026-03-08T19:05:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260308-smell-fraud-this-telegram-app-was-built-to-reward-whistleblowers.html</loc>
+    <lastmod>2026-03-08T19:01:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260308-michael-b-jordan-takes-the-lead-on-polymarket-for-oscars-best-actor.html</loc>
@@ -205,6 +217,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260307-according-to-ai_9684xtpa-ethereum-co-founder-jeffrey-wilcke-is-suspected-of-sell.html</loc>
+    <lastmod>2026-03-07T15:52:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260307-strategys-strc-stock-trading-surge-how-much-bitcoin-can-saylor-buy.html</loc>
     <lastmod>2026-03-07T15:30:40.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -355,12 +373,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-managing-financial-ai-agents-is-the-only-skill-youll-need-to-survive-the-ai-layo.html</loc>
-    <lastmod>2026-03-06T19:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-the-institutional-crypto-operating-system-is-here-247-futures-and-perps-a-new-cu.html</loc>
     <lastmod>2026-03-06T18:54:29.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -433,12 +445,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260306-bitcoin-history-repeats-xcom.html</loc>
-    <lastmod>2026-03-06T08:18:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-vancouver-moves-to-close-bitcoin-reserve-proposal-after-legal-review.html</loc>
     <lastmod>2026-03-06T03:40:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -447,6 +453,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260306-crypto-exchange-okx-debuts-social-platform-linking-posts-to-trades.html</loc>
     <lastmod>2026-03-06T03:01:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260306-latest-vitalik-calls-on-the-ethereum-community-to-adopt-a-bolder-more-open-minds.html</loc>
+    <lastmod>2026-03-06T03:00:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,20 +487,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260305-dogecoin-down-bad-as-bitcoin-gives-up-latest-gains.html</loc>
-    <lastmod>2026-03-05T21:12:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260305-i-think-its-healthy-for-us-in-the-ethereum-world-to-have-a-more-bold-and-open-mi.html</loc>
     <lastmod>2026-03-05T20:58:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260305-from-private-payments-to-tokenized-funds-and-ai-standards-ethereum-builders-kept.html</loc>
-    <lastmod>2026-03-05T20:17:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
