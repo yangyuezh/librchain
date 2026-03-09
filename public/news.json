@@ -1,7 +1,75 @@
 {
-  "updatedAt": "2026-03-09T05:33:37.485Z",
+  "updatedAt": "2026-03-09T07:15:39.670Z",
   "total": 81,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Using AI at work is causing ‘brain fry,’ researchers say",
+      "summary": "Researchers found that some workers using AI in their roles reported a “mental hangover” with a “fog” that caused difficulty focusing.",
+      "url": "https://cointelegraph.com/news/ai-use-work-causing-brain-fry-say-researchers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-09T06:17:46.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260309-using-ai-at-work-is-causing-brain-fry-researchers-say",
+      "localUrl": "/news/20260309-using-ai-at-work-is-causing-brain-fry-researchers-say.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin steadies as limited U.S. exposure to oil shocks calms markets",
+      "summary": "Rising oil prices are shaking global markets, but the U.S. is largely insulated and bitcoin seems to be riding the wave alongside Wall Street.",
+      "url": "https://www.coindesk.com/markets/2026/03/09/u-s-isn-t-really-exposed-to-oil-shocks-and-that-might-be-helping-bitcoin",
+      "publishedAt": "2026-03-09T06:02:27.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Oil",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260309-bitcoin-steadies-as-limited-us-exposure-to-oil-shocks-calms-markets",
+      "localUrl": "/news/20260309-bitcoin-steadies-as-limited-us-exposure-to-oil-shocks-calms-markets.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Finance job openings at 2012 levels, US lost 92K jobs last month",
+      "summary": "Finance and insurance job listings declined towards the end of 2025, with The Kobeissi Letter arguing the sector should “brace” for job cuts.",
+      "url": "https://cointelegraph.com/news/us-lost-92k-jobs-last-month-finance-job-openings-2012-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-09T05:54:51.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260309-finance-job-openings-at-2012-levels-us-lost-92k-jobs-last-month",
+      "localUrl": "/news/20260309-finance-job-openings-at-2012-levels-us-lost-92k-jobs-last-month.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Post-Quantum Shift Could Force Crypto Exchanges to Rethink Wallet Security",
+      "summary": "New wallet research aims to preserve a core feature exchanges use to generate deposit addresses without exposing private keys.",
+      "url": "https://decrypt.co/360394/post-quantum-shift-crypto-exchanges-wallet-security",
+      "publishedAt": "2026-03-09T05:53:18.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "监管",
+      "slug": "20260309-post-quantum-shift-could-force-crypto-exchanges-to-rethink-wallet-security",
+      "localUrl": "/news/20260309-post-quantum-shift-could-force-crypto-exchanges-to-rethink-wallet-security.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BTC Markets eyes RWA trading license amid global tokenization wave",
+      "summary": "The roughly $26 billion in tokenized assets onchain today “is really just the proof of concept,” said BTC Markets CEO Lucas Dobbins.",
+      "url": "https://cointelegraph.com/news/btc-markets-eyes-markets-license-tokenization-play-joining-peers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-09T05:34:39.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260309-btc-markets-eyes-rwa-trading-license-amid-global-tokenization-wave",
+      "localUrl": "/news/20260309-btc-markets-eyes-rwa-trading-license-amid-global-tokenization-wave.html"
+    },
     {
       "source": "Decrypt",
       "title": "Aave Users Reach Record as Traders Quietly Shift Capital Toward DeFi Lending",
@@ -622,19 +690,6 @@
       "localUrl": "/news/20260307-crypto-fear-and-greed-index-falls-back-down-to-extreme-fear-levels.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "US Treasury report acknowledges legitimate uses of crypto mixers",
-      "summary": "The Treasury's report to the US Congress was commissioned as part of directives under the GENIUS stablecoin regulatory framework.",
-      "url": "https://cointelegraph.com/news/us-treasury-legitimate-use-crypto-mixer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-07T21:58:33.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260307-us-treasury-report-acknowledges-legitimate-uses-of-crypto-mixers",
-      "localUrl": "/news/20260307-us-treasury-report-acknowledges-legitimate-uses-of-crypto-mixers.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Coinbase says new U.S. tax-reporting rules for crypto are cluttered, confusing",
       "summary": "The IRS’s 1099-DA tax form for reporting digital asset gains comes with a burden of over-reporting, Coinbase's tax experts warned.",
@@ -692,19 +747,6 @@
       "category": "监管",
       "slug": "20260307-the-multibillion-dollar-shift-turning-prediction-markets-into-a-professional-hed",
       "localUrl": "/news/20260307-the-multibillion-dollar-shift-turning-prediction-markets-into-a-professional-hed.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Prediction market Kalshi sued over Khamenei trade carveout",
-      "summary": "The plaintiffs characterized the death carveout in a prediction market for the former Iranian Supreme Leader's ouster as \"deceptive.\"",
-      "url": "https://cointelegraph.com/news/kalshi-sued-khamenei-trade-carveout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-07T18:04:28.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260307-prediction-market-kalshi-sued-over-khamenei-trade-carveout",
-      "localUrl": "/news/20260307-prediction-market-kalshi-sued-over-khamenei-trade-carveout.html"
     },
     {
       "source": "Decrypt",
@@ -786,36 +828,6 @@
       "category": "市场",
       "slug": "20260307-kalshi-polymarket-seeking-20-billion-valuations-in-fundraising-talks-wsj",
       "localUrl": "/news/20260307-kalshi-polymarket-seeking-20-billion-valuations-in-fundraising-talks-wsj.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Strategy's STRC stock trading surge: How much Bitcoin can Saylor buy?",
-      "summary": "Strategy may raise $300 million via STRC sales, potentially giving Michael Saylor enough proceeds to continue buying Bitcoin throughout 2026.",
-      "url": "https://cointelegraph.com/news/strategy-strc-stock-trading-surge-dollars-how-much-bitcoin-can-saylor-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-07T15:30:40.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "市场",
-      "slug": "20260307-strategys-strc-stock-trading-surge-how-much-bitcoin-can-saylor-buy",
-      "localUrl": "/news/20260307-strategys-strc-stock-trading-surge-how-much-bitcoin-can-saylor-buy.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle moves $68 million in just 30 minutes by using its own stablecoin for internal payments",
-      "summary": "The stablecoin issuer used its Mint platform for intercompany transfers, replacing bank wires that often take days to settle, CEO Jeremy Allaire said.",
-      "url": "https://www.coindesk.com/business/2026/03/07/circle-starts-using-usdc-stablecoin-for-internal-treasury-moves-settling-usd68-million",
-      "publishedAt": "2026-03-07T15:03:26.000Z",
-      "keywords": [
-        "Finance",
-        "Circle",
-        "USDC",
-        "Stablecoins",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260307-circle-moves-68-million-in-just-30-minutes-by-using-its-own-stablecoin-for-inter",
-      "localUrl": "/news/20260307-circle-moves-68-million-in-just-30-minutes-by-using-its-own-stablecoin-for-inter.html"
     },
     {
       "source": "X Wire",
@@ -1064,19 +1076,6 @@
       "category": "监管",
       "slug": "20260306-vancouver-moves-to-close-bitcoin-reserve-proposal-after-legal-review",
       "localUrl": "/news/20260306-vancouver-moves-to-close-bitcoin-reserve-proposal-after-legal-review.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Crypto Exchange OKX Debuts Social Platform Linking Posts to Trades",
-      "summary": "Orbit allows traders to disclose portfolio data and earn rewards tied to follower engagement in what OKX is touting as a transparency play.",
-      "url": "https://decrypt.co/360215/crypto-exchange-okx-debuts-social-platform-linking-posts-trades",
-      "publishedAt": "2026-03-06T03:01:02.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260306-crypto-exchange-okx-debuts-social-platform-linking-posts-to-trades",
-      "localUrl": "/news/20260306-crypto-exchange-okx-debuts-social-platform-linking-posts-to-trades.html"
     },
     {
       "source": "Chainalysis Blog",
