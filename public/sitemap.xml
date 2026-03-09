@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-09T22:46:07.037Z</lastmod>
+    <lastmod>2026-03-09T23:39:21.694Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-09T22:46:07.037Z</lastmod>
+    <lastmod>2026-03-09T23:39:21.694Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260309-bitcoin-vs-gold-etf-flows-point-to-early-capital-rotation-signs.html</loc>
+    <lastmod>2026-03-09T22:48:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260309-americans-use-ai-every-daybut-most-still-dont-like-it-new-poll-shows.html</loc>
@@ -271,12 +277,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260309-just-in-us-treasury-reports-to-congress-that-using-bitcoin-and-crypto-privacy-mi.html</loc>
-    <lastmod>2026-03-09T13:14:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260309-vienna-based-startup-launches-ai-pipeline-builder-for-gaming-studios.html</loc>
     <lastmod>2026-03-09T13:01:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -309,12 +309,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260309-stablecoin-payments-startup-kast-raises-80m-at-600m-valuation-report.html</loc>
     <lastmod>2026-03-09T12:36:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260309-nigel-farage-invests-286k-in-uk-bitcoin-treasury-company-stack-btc.html</loc>
-    <lastmod>2026-03-09T12:36:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -457,8 +451,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260308-breaking-someone-just-opened-a-7218000-oil-short-position-liquidation-price-1355.html</loc>
-    <lastmod>2026-03-08T15:54:49.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260308-just-so-we-are-all-clear-xmoney-is-fiat-not-crypto-its-actual-us-dollars-backed-.html</loc>
+    <lastmod>2026-03-08T14:30:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,6 +483,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260308-i-can-see-how-despondent-everyone-is-about-crypto-and-the-pure-chartists-are-tel.html</loc>
     <lastmod>2026-03-08T00:46:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260307-community-question-is-blockchain-ready-for-healthcare-infrastructure-at-scale-vi.html</loc>
+    <lastmod>2026-03-07T09:30:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
