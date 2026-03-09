@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-09T17:58:51.022Z</lastmod>
+    <lastmod>2026-03-09T19:07:42.466Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-09T17:58:51.022Z</lastmod>
+    <lastmod>2026-03-09T19:07:42.466Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260309-sharplink-posts-734-million-loss-as-ethereum-staking-revenue-soars.html</loc>
+    <lastmod>2026-03-09T18:51:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260309-wyoming-senator-revives-crypto-tax-exemption-debate-amid-market-structure-talks.html</loc>
+    <lastmod>2026-03-09T18:38:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260309-coinbase-debuts-crypto-futures-for-european-traders-including-bitcoin-and-ethere.html</loc>
+    <lastmod>2026-03-09T18:21:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260309-price-predictions-39-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch.html</loc>
+    <lastmod>2026-03-09T17:57:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260309-blockchaincom-expands-into-ghana-after-700-trading-growth-in-nigeria.html</loc>
@@ -51,6 +75,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260309-eus-regulated-blockchain-securities-market-adds-first-bank-participant.html</loc>
     <lastmod>2026-03-09T15:58:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260309-bitcoin-price-retags-69k-as-g7-oil-plan-hangs-in-the-balance.html</loc>
+    <lastmod>2026-03-09T15:38:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -289,24 +319,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260309-crypto-funds-gain-619m-as-markets-hold-up-despite-oil-and-war-fears.html</loc>
-    <lastmod>2026-03-09T10:28:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260309-bitcoin-braces-for-oil-shock-and-death-crosses-5-things-to-know-this-week.html</loc>
-    <lastmod>2026-03-09T10:22:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260309-oil-retreats-from-25-surge-as-g7-weighs-emergency-reserve-release.html</loc>
-    <lastmod>2026-03-09T10:19:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260309-nigel-farage-takes-6-stake-in-uk-bitcoin-treasury-firm-stack-btc.html</loc>
     <lastmod>2026-03-09T09:31:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -397,6 +409,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260308-big-us-spot-bitcoin-etfs-recorded-their-second-straight-week-of-net-inflows-brin.html</loc>
+    <lastmod>2026-03-08T19:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260308-smell-fraud-this-telegram-app-was-built-to-reward-whistleblowers.html</loc>
     <lastmod>2026-03-08T19:01:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -457,12 +475,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260307-community-question-is-blockchain-ready-for-healthcare-infrastructure-at-scale-vi.html</loc>
-    <lastmod>2026-03-07T09:30:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260306-kalshi-sued-over-refusing-to-pay-out-prediction-market-after-iran-leaders-death.html</loc>
     <lastmod>2026-03-06T22:08:15.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -477,18 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260306-obscene-grammarlys-new-ai-tool-offers-writing-feedback-from-dead-scholars.html</loc>
     <lastmod>2026-03-06T21:07:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260306-binance-denies-17-billion-in-iran-sanctions-violations-amid-us-senate-probe.html</loc>
-    <lastmod>2026-03-06T19:38:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260306-cfo-gets-prison-time-after-losing-35-million-of-company-money-in-crypto-side-hus.html</loc>
-    <lastmod>2026-03-06T19:00:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
