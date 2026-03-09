@@ -2,15 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-09T21:45:26.936Z</lastmod>
+    <lastmod>2026-03-09T22:46:07.037Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-09T21:45:26.936Z</lastmod>
+    <lastmod>2026-03-09T22:46:07.037Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260309-americans-use-ai-every-daybut-most-still-dont-like-it-new-poll-shows.html</loc>
+    <lastmod>2026-03-09T22:34:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260309-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-09T22:09:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260309-will-bitcoin-follow-oils-historic-surge-and-rally-to-79k-before-the-end-of-march.html</loc>
+    <lastmod>2026-03-09T22:07:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260309-moldovas-anticorruption-center-alleges-107m-crypto-scheme-to-influence-elections.html</loc>
+    <lastmod>2026-03-09T21:50:27.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260309-crypto-backed-pac-spends-86m-in-illinois-races-ahead-of-us-midterms.html</loc>
+    <lastmod>2026-03-09T21:50:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260309-nasdaq-links-eu-markets-to-boerse-stuttgarts-tokenized-settlement-venue.html</loc>
@@ -181,12 +211,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260309-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-03-09T14:13:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260309-breaking-over-20-million-of-bitcoins-21-million-supply-cap-has-officially-been-m.html</loc>
     <lastmod>2026-03-09T14:03:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -319,18 +343,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260309-bybit-doubles-down-on-middle-east-operations-amid-regional-tensions.html</loc>
-    <lastmod>2026-03-09T12:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260309-nasdaq-partners-with-kraken-for-issuer-centric-tokenized-equities.html</loc>
-    <lastmod>2026-03-09T11:39:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260309-bitcoin-is-beating-stocks-and-gold-as-the-middle-east-conflict-rattles-global-ma.html</loc>
     <lastmod>2026-03-09T11:38:11.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -403,12 +415,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260309-today-crypto-fear-greed-index-fell-back-to-8-remaining-in-extreme-fear-territory.html</loc>
-    <lastmod>2026-03-09T03:00:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260309-bitcoin-price-slips-as-oil-surges-and-us-stock-futures-tumble.html</loc>
     <lastmod>2026-03-09T00:05:40.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -439,14 +445,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260308-insight-analyst-willy-woo-warns-a-short-term-bitcoin-rally-may-be-a-bull-trap-as.html</loc>
+    <lastmod>2026-03-08T21:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260308-smell-fraud-this-telegram-app-was-built-to-reward-whistleblowers.html</loc>
     <lastmod>2026-03-08T19:01:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260308-openai-gpt-54-vs-xai-grok-420-which-ai-chatbot-is-best-for-you.html</loc>
-    <lastmod>2026-03-08T16:15:32.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260308-breaking-someone-just-opened-a-7218000-oil-short-position-liquidation-price-1355.html</loc>
+    <lastmod>2026-03-08T15:54:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260308-just-in-michael-saylor-hints-at-buying-more-bitcoin-the-second-century-begins-xc.html</loc>
+    <lastmod>2026-03-08T13:28:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -463,18 +481,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260308-a-whale-has-opened-a-2024000-oil-short-position-today-if-oil-pumps-to-985barrel-.html</loc>
-    <lastmod>2026-03-08T09:07:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260308-women-everywhere-are-building-the-future-of-crypto-add-yourself-to-the-iwd26-pos.html</loc>
-    <lastmod>2026-03-08T05:39:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260308-crypto-privacy-is-needed-if-you-want-to-make-api-calls-without-compromising-the-.html</loc>
     <lastmod>2026-03-08T05:07:50.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260308-i-can-see-how-despondent-everyone-is-about-crypto-and-the-pure-chartists-are-tel.html</loc>
     <lastmod>2026-03-08T00:46:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260307-inside-the-quest-at-colossus-to-replace-visa-and-mastercard-with-kyc-less-crypto.html</loc>
-    <lastmod>2026-03-07T18:01:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
