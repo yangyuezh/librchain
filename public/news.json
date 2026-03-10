@@ -1,7 +1,90 @@
 {
-  "updatedAt": "2026-03-10T02:48:19.357Z",
+  "updatedAt": "2026-03-10T04:50:40.036Z",
   "total": 80,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Trump's DOJ Seeks October Retrial for Tornado Cash Developer Roman Storm",
+      "summary": "The DOJ is attempting to retry Tornado Cash developer Roman Storm even as the U.S. Treasury acknowledges mixers may have legitimate uses.",
+      "url": "https://decrypt.co/360521/trumps-doj-seeks-october-retrial-tornado-cash-developer",
+      "publishedAt": "2026-03-10T04:46:28.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260310-trumps-doj-seeks-october-retrial-for-tornado-cash-developer-roman-storm",
+      "localUrl": "/news/20260310-trumps-doj-seeks-october-retrial-for-tornado-cash-developer-roman-storm.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ether, solana, XRP jump higher as Trump signals Iran war nearing end",
+      "summary": "Major altcoins bounced alongside risk assets on Tuesday after the president said U.S. military objectives were \"pretty well complete.\"",
+      "url": "https://www.coindesk.com/markets/2026/03/10/ether-solana-xrp-jump-higher-as-trump-signals-iran-war-nearing-end",
+      "publishedAt": "2026-03-10T04:42:56.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260310-ether-solana-xrp-jump-higher-as-trump-signals-iran-war-nearing-end",
+      "localUrl": "/news/20260310-ether-solana-xrp-jump-higher-as-trump-signals-iran-war-nearing-end.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Oil tumbles, crypto gains as Trump sends mixed signals over Iran war",
+      "summary": "“I think the war is very complete, pretty much,” Donald Trump told reporters before posting on his social media platform later that “Death, Fire, and Fury” will reign upon Iran.",
+      "url": "https://cointelegraph.com/news/iran-war-confusion-sends-oil-tumbling-as-crypto-posts-modest-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-10T04:00:18.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260310-oil-tumbles-crypto-gains-as-trump-sends-mixed-signals-over-iran-war",
+      "localUrl": "/news/20260310-oil-tumbles-crypto-gains-as-trump-sends-mixed-signals-over-iran-war.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin jumps past $70,000 as war volatility fades",
+      "summary": "BTC rebounded from about $65,000 as crude oil retreated and institutional flows helped stabilize the market.",
+      "url": "https://www.coindesk.com/markets/2026/03/10/bitcoin-jumps-past-usd70-000-as-war-volatility-fades",
+      "publishedAt": "2026-03-10T03:31:04.000Z",
+      "keywords": [
+        "Markets",
+        "btc",
+        "Bitcoin News",
+        "Oil",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260310-bitcoin-jumps-past-70000-as-war-volatility-fades",
+      "localUrl": "/news/20260310-bitcoin-jumps-past-70000-as-war-volatility-fades.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "AI firm Anthropic sues Trump admin over ‘supply chain risk’ label",
+      "summary": "Anthropic is the first US company the Pentagon has labeled a risk to the military, with the AI company calling it “unprecedented and unlawful.”",
+      "url": "https://cointelegraph.com/news/ai-firm-anthropic-sues-trump-admin-over-supply-chain-risk-label?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-10T02:56:04.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260310-ai-firm-anthropic-sues-trump-admin-over-supply-chain-risk-label",
+      "localUrl": "/news/20260310-ai-firm-anthropic-sues-trump-admin-over-supply-chain-risk-label.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US banking lobby considers suing OCC over crypto bank charters: Report",
+      "summary": "The OCC has granted conditional approvals to several crypto firms since December, including BitGo, Ripple, Paxos, and Crypto.com, while others such as Zerohash have filed applications.",
+      "url": "https://cointelegraph.com/news/bank-policy-institute-occ-crypto-national-trust-bank-charters-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-10T02:52:17.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260310-us-banking-lobby-considers-suing-occ-over-crypto-bank-charters-report",
+      "localUrl": "/news/20260310-us-banking-lobby-considers-suing-occ-over-crypto-bank-charters-report.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "NFT lending protocol Gondi says platform secured after $230K exploit",
@@ -403,6 +486,17 @@
       "localUrl": "/news/20260309-update-ethereum-foundation-taps-bitwise-infrastructure-for-treasury-staking-targ.html"
     },
     {
+      "source": "X Wire",
+      "title": "ERC-8183 is one of the missing pieces in the Ethereum Open Agentic Economy we're building. - x402 for micropayments - 8004 for trust and discovery - 8183 for *conditional* payments At the core ERC-8183 is an extensible and flexible escrow mechanism for - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xLUg4UXRzNXZRYXkxTkkzMkI1Q2txVmtuZVZmUXN1eWY3X21wbVN5TG5XU3prQ01FY0F0aGl1TzlpSTJ3WHg1MzRnQmJKLUJpSWlZc0R2Vl9qS2pNNk5ERFFndw?oc=5\" target=\"_blank\">ERC-8183 is one of the missing p…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xLUg4UXRzNXZRYXkxTkkzMkI1Q2txVmtuZVZmUXN1eWY3X21wbVN5TG5XU3prQ01FY0F0aGl1TzlpSTJ3WHg1MzRnQmJKLUJpSWlZc0R2Vl9qS2pNNk5ERFFndw?oc=5",
+      "publishedAt": "2026-03-09T16:29:15.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260309-erc-8183-is-one-of-the-missing-pieces-in-the-ethereum-open-agentic-economy-were-",
+      "localUrl": "/news/20260309-erc-8183-is-one-of-the-missing-pieces-in-the-ethereum-open-agentic-economy-were-.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Ether holds $2K as traders make push toward overhead short liquidity",
       "summary": "Ether's short liquidity may be the next target for bullish traders who have piled into fresh leveraged positions. Is $2,500 the next stop for ETH price?",
@@ -460,6 +554,17 @@
       "category": "监管",
       "slug": "20260309-eus-regulated-blockchain-securities-market-adds-first-bank-participant",
       "localUrl": "/news/20260309-eus-regulated-blockchain-securities-market-adds-first-bank-participant.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bhutan just moved another $11 Million of Bitcoin out of its main holding addresses. The last time they did this was 1 month ago, and they were selling $7 Million of BTC with QCP Capital. Bhutan periodically sells portions of its Bitcoin in clips of $5-10M, with a p - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xeWlZaWNBRXkxSkVzWTcxQTB5Wk1uM3Fnd3RoTGUxNVNOYV9GVmRsRjF0ckxBYjVtM1pHdlM3a0R1TUpKUzdRX2lnQW5CWVBWSmRzY3RMQnNvUEk?oc=5\" target=\"_blank\">Bhutan just moved another $11 Million of Bi…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xeWlZaWNBRXkxSkVzWTcxQTB5Wk1uM3Fnd3RoTGUxNVNOYV9GVmRsRjF0ckxBYjVtM1pHdlM3a0R1TUpKUzdRX2lnQW5CWVBWSmRzY3RMQnNvUEk?oc=5",
+      "publishedAt": "2026-03-09T15:51:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260309-bhutan-just-moved-another-11-million-of-bitcoin-out-of-its-main-holding-addresse",
+      "localUrl": "/news/20260309-bhutan-just-moved-another-11-million-of-bitcoin-out-of-its-main-holding-addresse.html"
     },
     {
       "source": "Cointelegraph",
@@ -555,6 +660,17 @@
       "localUrl": "/news/20260309-strategy-drops-128-billion-on-bitcoin-issues-377-million-in-preferred-shares.html"
     },
     {
+      "source": "X Wire",
+      "title": "20 million #bitcoin now exist. This took 6,267 days. The final 1 million will take 114 years. Here's the time it took to reach other 20 million on-chain milestones on #Bitcoin 👇 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rcFdrTmYzVUpNOUdqWlUtbG1DYjRRcGtkQkhCMjF1NlFucFlMMjdiam5JOUs0dVFwelRIeWVXZ29HU1lEWGMxbzRzREFmVFpyRV9QUEhIQUMtV0xtZVVz?oc=5\" target=\"_blank\">20 million #bitcoin now exist. This to…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rcFdrTmYzVUpNOUdqWlUtbG1DYjRRcGtkQkhCMjF1NlFucFlMMjdiam5JOUs0dVFwelRIeWVXZ29HU1lEWGMxbzRzREFmVFpyRV9QUEhIQUMtV0xtZVVz?oc=5",
+      "publishedAt": "2026-03-09T14:46:13.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260309-20-million-bitcoin-now-exist-this-took-6267-days-the-final-1-million-will-take-1",
+      "localUrl": "/news/20260309-20-million-bitcoin-now-exist-this-took-6267-days-the-final-1-million-will-take-1.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Bitcoin ETF Flows Cool to $619 Million as Oil Prices Spike",
       "summary": "Crypto funds saw $619M weekly inflow as oil spikes triggered late outflows, with experts split on whether Bitcoin can withstand macro pressure.",
@@ -603,19 +719,6 @@
       "category": "综合",
       "slug": "20260309-bithumb-faces-possible-six-month-partial-suspension-in-south-korea",
       "localUrl": "/news/20260309-bithumb-faces-possible-six-month-partial-suspension-in-south-korea.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "How United Nations Development Programme is using blockchains for public infrastructure",
-      "summary": "A new United Nations Development Programme report outlines how blockchain can support public systems.",
-      "url": "https://cointelegraph.com/news/how-united-nations-development-programme-is-using-blockchains-for-public-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-09T14:00:00.000Z",
-      "keywords": [
-        "Research"
-      ],
-      "category": "DeFi",
-      "slug": "20260309-how-united-nations-development-programme-is-using-blockchains-for-public-infrast",
-      "localUrl": "/news/20260309-how-united-nations-development-programme-is-using-blockchains-for-public-infrast.html"
     },
     {
       "source": "Decrypt",
@@ -672,19 +775,6 @@
       "localUrl": "/news/20260309-breaking-bitcoin-has-now-crossed-20000000-btc-mined-the-final-1m-btc-will-take-a.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoiners celebrate as the network produces its 20 millionth coin",
-      "summary": "“A digital money system with transparent, predictable, and ultimately scarce supply... has rising appeal in today’s economy due to fiat currency tail risks,\" said Grayscale.",
-      "url": "https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-09T13:42:28.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260309-bitcoiners-celebrate-as-the-network-produces-its-20-millionth-coin",
-      "localUrl": "/news/20260309-bitcoiners-celebrate-as-the-network-produces-its-20-millionth-coin.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "CoinDesk 20 Performance Update: Avalanche (AVAX) Gains 2% as Index Trades Flat",
       "summary": "Internet Computer (ICP), up 1.4% from Friday, was also among the top performers.",
@@ -730,19 +820,6 @@
       "category": "综合",
       "slug": "20260309-vienna-based-startup-launches-ai-pipeline-builder-for-gaming-studios",
       "localUrl": "/news/20260309-vienna-based-startup-launches-ai-pipeline-builder-for-gaming-studios.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Banks will run RWAs on two blockchain rails, says RedStone co-founder",
-      "summary": "RedStone co-founder Marcin Kaźmierczak says banks are splitting RWA infrastructure between private networks like Canton and public chains such as Ethereum.",
-      "url": "https://cointelegraph.com/news/banks-rwas-two-blockchain-rails-redstone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-09T13:00:00.000Z",
-      "keywords": [
-        "Features"
-      ],
-      "category": "基础设施",
-      "slug": "20260309-banks-will-run-rwas-on-two-blockchain-rails-says-redstone-co-founder",
-      "localUrl": "/news/20260309-banks-will-run-rwas-on-two-blockchain-rails-says-redstone-co-founder.html"
     },
     {
       "source": "CoinDesk",
@@ -885,49 +962,6 @@
     },
     {
       "source": "X Wire",
-      "title": "💥BREAKING: Nasdaq partners with Kraken for tokenized stock trading. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE11dElyTUw4STJER0wyc2hyYm9fcVc1Z1loRzREOU9OTVpUaTQzSUtteHdfN2FRS3ZDVTMxMURwUm03ZHMtRGU1eWVEbGNmREpXUkcweDZPOVNTR2gxemdVOHZB?oc=5\" target=\"_blank\">💥BREAKING: Nasdaq partners with K…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11dElyTUw4STJER0wyc2hyYm9fcVc1Z1loRzREOU9OTVpUaTQzSUtteHdfN2FRS3ZDVTMxMURwUm03ZHMtRGU1eWVEbGNmREpXUkcweDZPOVNTR2gxemdVOHZB?oc=5",
-      "publishedAt": "2026-03-09T11:05:55.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260309-breaking-nasdaq-partners-with-kraken-for-tokenized-stock-trading-xcom",
-      "localUrl": "/news/20260309-breaking-nasdaq-partners-with-kraken-for-tokenized-stock-trading-xcom.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. inflation, Polkadot upgrade, Solstice-Kamino announcement: Crypto Week Ahead",
-      "summary": "Your look at what's coming in the week starting March 9.",
-      "url": "https://www.coindesk.com/markets/2026/03/09/u-s-inflation-polkadot-upgrade-solstice-kamino-announcement-crypto-week-ahead",
-      "publishedAt": "2026-03-09T10:48:40.000Z",
-      "keywords": [
-        "Markets",
-        "week ahead",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260309-us-inflation-polkadot-upgrade-solstice-kamino-announcement-crypto-week-ahead",
-      "localUrl": "/news/20260309-us-inflation-polkadot-upgrade-solstice-kamino-announcement-crypto-week-ahead.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin rises as oil spikes, equities drop",
-      "summary": "Bitcoin climbed during European trading hours even as U.S. equity futures, gold and silver fell, highlighting its relative resilience to oil shocks and war risks.",
-      "url": "https://www.coindesk.com/markets/2026/03/09/bitcoin-rises-as-oil-spikes-equities-drop",
-      "publishedAt": "2026-03-09T10:37:29.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "Derivatives",
-        "alltcoins",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260309-bitcoin-rises-as-oil-spikes-equities-drop",
-      "localUrl": "/news/20260309-bitcoin-rises-as-oil-spikes-equities-drop.html"
-    },
-    {
-      "source": "X Wire",
       "title": "📊 NEW: Solana has surpassed Ethereum in the number of wallets holding tokenized RWAs, per @RWA_xyz. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jVUhiWDNLb1NMLTZUTXo2VHk1ZWlyUWtLRU9JbDVzZGhsS1E5N2tGSnRCWTFCeG5xWWpSR3pmWUk5M2oyNmx4QnhoVjdBVmJzbjN5WEoySjNFcW01cnJOOWZlZFE?oc=5\" target=\"_blank\">📊 NEW: Solana has surpassed Et…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jVUhiWDNLb1NMLTZUTXo2VHk1ZWlyUWtLRU9JbDVzZGhsS1E5N2tGSnRCWTFCeG5xWWpSR3pmWUk5M2oyNmx4QnhoVjdBVmJzbjN5WEoySjNFcW01cnJOOWZlZFE?oc=5",
@@ -986,19 +1020,6 @@
       "localUrl": "/news/20260309-aave-users-reach-record-as-traders-quietly-shift-capital-toward-defi-lending.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Treasury Urges Congress to Give Crypto Platforms Power to Freeze Suspicious Funds",
-      "summary": "The proposal would give exchanges legal cover to temporarily freeze suspicious crypto while investigators move to secure warrants.",
-      "url": "https://decrypt.co/360389/treasury-congres-crypto-platforms-freeze-suspicious-funds",
-      "publishedAt": "2026-03-09T03:38:28.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260309-treasury-urges-congress-to-give-crypto-platforms-power-to-freeze-suspicious-fund",
-      "localUrl": "/news/20260309-treasury-urges-congress-to-give-crypto-platforms-power-to-freeze-suspicious-fund.html"
-    },
-    {
       "source": "X Wire",
       "title": "Crypto will break down barriers around fundraising and capital formation next. Reducing friction around fundraising will increase the number of startups in the world, accelerating progress. Every entrepreneur knows how time consuming (and expensive) fundra - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBubDJ0NzlQU3A0UWtOSlRFNExZZVlpS1BWSlp2cEdSM1g3VkdweE5aTFlNeDNIUS1MYjNzdGZJZmNXTFV5WklzVDBXNlQ3bmZlbWJBbG1pZGhscTZJTm5xbk9GcTBTS0U?oc=5\" target=\"_blank\">Crypto will break down barr…",
@@ -1044,14 +1065,14 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: Michael Saylor hints at buying more Bitcoin 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vcE4wSlBTZkZYaDFRbGJfM1RxaGxOcEZkS0h6YUFWMFJ1cld3b004LW8yNzNxcWpuOC1DYnJnRkZCVkFUNGdkTXVvWC1YT2pRdVZlS2F5NUp3eGROR1pFRW1jTG1naFk?oc=5\" target=\"_blank\">JUST IN: Michael Saylor hin…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vcE4wSlBTZkZYaDFRbGJfM1RxaGxOcEZkS0h6YUFWMFJ1cld3b004LW8yNzNxcWpuOC1DYnJnRkZCVkFUNGdkTXVvWC1YT2pRdVZlS2F5NUp3eGROR1pFRW1jTG1naFk?oc=5",
-      "publishedAt": "2026-03-08T13:02:48.000Z",
+      "title": "💥BREAKING: Someone just opened a $7,218,000 Oil short position. Liquidation Price: $135.51 What does he know ? - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQRW0zekxpOEVua25nbU52aGpXVVdJNW5BTnVHdW5NUUpsZDJBRHNxdkdrRG00WV9OaElrWFV0cnZ5YlJMcUZkYWRROXFvOVpoYzZxTzIzMmF4OXFRV1RnQVFB?oc=5\" target=\"_blank\">💥BREAKING: Someone just opened a …",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQRW0zekxpOEVua25nbU52aGpXVVdJNW5BTnVHdW5NUUpsZDJBRHNxdkdrRG00WV9OaElrWFV0cnZ5YlJMcUZkYWRROXFvOVpoYzZxTzIzMmF4OXFRV1RnQVFB?oc=5",
+      "publishedAt": "2026-03-08T15:54:49.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260308-just-in-michael-saylor-hints-at-buying-more-bitcoin-xcom",
-      "localUrl": "/news/20260308-just-in-michael-saylor-hints-at-buying-more-bitcoin-xcom.html"
+      "slug": "20260308-breaking-someone-just-opened-a-7218000-oil-short-position-liquidation-price-1355",
+      "localUrl": "/news/20260308-breaking-someone-just-opened-a-7218000-oil-short-position-liquidation-price-1355.html"
     },
     {
       "source": "X Wire",
@@ -1066,36 +1087,14 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨 A whale has opened a $2,024,000 Oil short position today. If Oil pumps to $98.5/barrel, he will get wiped out. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYcV9fTk0yZGkzUGdNd1NlWkc0aGIwbDl5cDNnaThkMEN1b0RuQkc2dTFVS2xKdnpRTHpycVdPTk44SVA1ejZSSlhGVVRjREhCTTByX2FDZ0xZdHlkUGFR?oc=5\" target=\"_blank\">🚨 A whale has opened a $2,024,000 Oil…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYcV9fTk0yZGkzUGdNd1NlWkc0aGIwbDl5cDNnaThkMEN1b0RuQkc2dTFVS2xKdnpRTHpycVdPTk44SVA1ejZSSlhGVVRjREhCTTByX2FDZ0xZdHlkUGFR?oc=5",
-      "publishedAt": "2026-03-08T09:07:31.000Z",
+      "title": "🩺 Community Question Is blockchain ready for healthcare infrastructure at scale? Viewpoint A: Structural barriers remain. Blockchain still struggles with scalability for large health datasets, integration with legacy hospital systems, and regulatory compliance. Op - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DMlZ6Z3hqa3d4NGk0NnRpUVhfcTItZF8wRkxCTng4UGxaT0J6c0dyY3lsT0xuNzRaT1dlZUNjanYxTGhZZ1VOWEFxQ0NrbFY2cjRDTjJZVGN4aHdrdHNPaWMyeTV4Zw?oc=5\" target=\"_blank\">🩺 Community Question Is blo…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DMlZ6Z3hqa3d4NGk0NnRpUVhfcTItZF8wRkxCTng4UGxaT0J6c0dyY3lsT0xuNzRaT1dlZUNjanYxTGhZZ1VOWEFxQ0NrbFY2cjRDTjJZVGN4aHdrdHNPaWMyeTV4Zw?oc=5",
+      "publishedAt": "2026-03-07T09:30:02.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260308-a-whale-has-opened-a-2024000-oil-short-position-today-if-oil-pumps-to-985barrel-",
-      "localUrl": "/news/20260308-a-whale-has-opened-a-2024000-oil-short-position-today-if-oil-pumps-to-985barrel-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Women everywhere are building the future of crypto. Add yourself to the #IWD26 poster. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IczNaN2NraGtWeGZoRTJGZ28zdFowWl9Oa3hsNkRMMUNKZjZxVVNiRGdZLXNBUmtnLThPVHJqY3pfZWszalpUcDNZNFUyZkx3M0FTazI2aEtndWtn?oc=5\" target=\"_blank\">Women everywhere are building the future o…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IczNaN2NraGtWeGZoRTJGZ28zdFowWl9Oa3hsNkRMMUNKZjZxVVNiRGdZLXNBUmtnLThPVHJqY3pfZWszalpUcDNZNFUyZkx3M0FTazI2aEtndWtn?oc=5",
-      "publishedAt": "2026-03-08T05:39:09.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260308-women-everywhere-are-building-the-future-of-crypto-add-yourself-to-the-iwd26-pos",
-      "localUrl": "/news/20260308-women-everywhere-are-building-the-future-of-crypto-add-yourself-to-the-iwd26-pos.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "I can see how despondent everyone is about crypto and the pure chartists are telling you it's all over, but I don't agree... Global Liquidity is the most dominant macro factor in history with a 90% correlation to BTC and 97% to NDX since 2012. It is growing at arou - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WMWZ1TVktMXlRSHFSczdiVHR6dVhuYno5YUlkWmZiYWZYWkJqV1EyVjQzSGZ0WXR5TTFfZXJmdHFxbWRxVjEtd090MFNhRUlVOERPNlMzZFhqTmVLQ2c?oc=5\" target=\"_blank\">I can see how despondent everyone is ab…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WMWZ1TVktMXlRSHFSczdiVHR6dVhuYno5YUlkWmZiYWZYWkJqV1EyVjQzSGZ0WXR5TTFfZXJmdHFxbWRxVjEtd090MFNhRUlVOERPNlMzZFhqTmVLQ2c?oc=5",
-      "publishedAt": "2026-03-08T00:46:05.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260308-i-can-see-how-despondent-everyone-is-about-crypto-and-the-pure-chartists-are-tel",
-      "localUrl": "/news/20260308-i-can-see-how-despondent-everyone-is-about-crypto-and-the-pure-chartists-are-tel.html"
+      "slug": "20260307-community-question-is-blockchain-ready-for-healthcare-infrastructure-at-scale-vi",
+      "localUrl": "/news/20260307-community-question-is-blockchain-ready-for-healthcare-infrastructure-at-scale-vi.html"
     }
   ]
 }
