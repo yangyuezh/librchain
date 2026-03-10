@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2026-03-10T07:06:27.766Z",
+  "updatedAt": "2026-03-10T07:54:31.692Z",
   "total": 80,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ether treasury firm Bitmine moves $19.5 million in ETH to Coinbase Prime",
+      "summary": "The largest public ether holder sent two transfers totaling $19.5 million to Coinbase Prime hot wallets on Tuesday, though the moves don't necessarily signal selling.",
+      "url": "https://www.coindesk.com/markets/2026/03/10/bitmine-moves-roughly-9-600-eth-worth-usd19-5-million-to-coinbase-prime-as-ether-treasury-firm-shuffles-holdings",
+      "publishedAt": "2026-03-10T07:15:24.000Z",
+      "keywords": [
+        "Markets",
+        "Ether Price",
+        "Bitmine",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260310-ether-treasury-firm-bitmine-moves-195-million-in-eth-to-coinbase-prime",
+      "localUrl": "/news/20260310-ether-treasury-firm-bitmine-moves-195-million-in-eth-to-coinbase-prime.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Tron joins Agentic AI Foundation as founder sees future in AI",
@@ -411,7 +427,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Nasdaq links EU markets to Boerse Stuttgart's tokenized settlement venue",
+      "title": "Nasdaq links EU markets to Börse Stuttgart's tokenized settlement venue",
       "summary": "The partnership aims to reduce fragmentation in European capital markets by enabling blockchain-based settlement of tokenized securities.",
       "url": "https://cointelegraph.com/news/nasdaq-partners-with-boerse-stuttgart-s-seturion-to-advance-tokenized-securities-settlement-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-09T21:23:00.000Z",
@@ -419,19 +435,8 @@
         "Latest News"
       ],
       "category": "监管",
-      "slug": "20260309-nasdaq-links-eu-markets-to-boerse-stuttgarts-tokenized-settlement-venue",
-      "localUrl": "/news/20260309-nasdaq-links-eu-markets-to-boerse-stuttgarts-tokenized-settlement-venue.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "NEW: Michael Saylor's Strategy files an amendment that would allow them to sell more shares in premarket and after hours trading to buy more bitcoin 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84MzJZb1pSM0hHYVB5VzBGUmhwUmY3TF9rUEUyRlRCTVJwT1BocHN5OU1sSG5aQmxXX1l0Ynl1Z1J4cTZjRG1IZDBXYlJKd01WbzJQV1pFWmc0MmtZN2xJeXJtT1pNU1E?oc=5\" target=\"_blank\">NEW: Michael Saylor's Strat…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84MzJZb1pSM0hHYVB5VzBGUmhwUmY3TF9rUEUyRlRCTVJwT1BocHN5OU1sSG5aQmxXX1l0Ynl1Z1J4cTZjRG1IZDBXYlJKd01WbzJQV1pFWmc0MmtZN2xJeXJtT1pNU1E?oc=5",
-      "publishedAt": "2026-03-09T21:13:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260309-new-michael-saylors-strategy-files-an-amendment-that-would-allow-them-to-sell-mo",
-      "localUrl": "/news/20260309-new-michael-saylors-strategy-files-an-amendment-that-would-allow-them-to-sell-mo.html"
+      "slug": "20260309-nasdaq-links-eu-markets-to-borse-stuttgarts-tokenized-settlement-venue",
+      "localUrl": "/news/20260309-nasdaq-links-eu-markets-to-borse-stuttgarts-tokenized-settlement-venue.html"
     },
     {
       "source": "Decrypt",
@@ -941,24 +946,6 @@
       "localUrl": "/news/20260309-bithumb-faces-proposed-6-month-partial-ban-over-south-korea-aml-breaches.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. Treasury signals shift on crypto mixers, acknowledges legitimate privacy uses",
-      "summary": "A congressional report on implementing the Genius Act acknowledges the existence of lawful uses for blockchain privacy tools even as U.S. regulators pursue enforcement cases tied to illicit finance.",
-      "url": "https://www.coindesk.com/policy/2026/03/09/u-s-treasury-signals-shift-on-crypto-mixers-acknowledges-legitimate-privacy-uses",
-      "publishedAt": "2026-03-09T12:23:08.000Z",
-      "keywords": [
-        "Policy",
-        "Treasury Department",
-        "Mixers",
-        "cryptocurrencies",
-        "Tornado Cash",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260309-us-treasury-signals-shift-on-crypto-mixers-acknowledges-legitimate-privacy-uses",
-      "localUrl": "/news/20260309-us-treasury-signals-shift-on-crypto-mixers-acknowledges-legitimate-privacy-uses.html"
-    },
-    {
       "source": "X Wire",
       "title": "BREAKING: Michael Saylor's Strategy purchased 17,994 Bitcoin for $1.28 BILLION 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBERmhhX2UxVDBhUlBIcHNmNGNjMHFpeVo2aDBmYkFXUnNHeUxjRnc1T3A1ejhZQWZRTTFMZW9yTmNSVzkzbkZqZml0aDJfOEY5dmpjWk5rT1NYLUY0R3BRUnN2dUtFZjQ?oc=5\" target=\"_blank\">BREAKING: Michael Saylor's …",
@@ -1091,6 +1078,17 @@
       "category": "X热点",
       "slug": "20260308-bitcoin-at-67k-but-s2f-model-screams-500k-avg-this-cycle-2024-2028-is-btc-massiv",
       "localUrl": "/news/20260308-bitcoin-at-67k-but-s2f-model-screams-500k-avg-this-cycle-2024-2028-is-btc-massiv.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "I can see how despondent everyone is about crypto and the pure chartists are telling you it's all over, but I don't agree... Global Liquidity is the most dominant macro factor in history with a 90% correlation to BTC and 97% to NDX since 2012. It is growing at arou - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WMWZ1TVktMXlRSHFSczdiVHR6dVhuYno5YUlkWmZiYWZYWkJqV1EyVjQzSGZ0WXR5TTFfZXJmdHFxbWRxVjEtd090MFNhRUlVOERPNlMzZFhqTmVLQ2c?oc=5\" target=\"_blank\">I can see how despondent everyone is ab…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WMWZ1TVktMXlRSHFSczdiVHR6dVhuYno5YUlkWmZiYWZYWkJqV1EyVjQzSGZ0WXR5TTFfZXJmdHFxbWRxVjEtd090MFNhRUlVOERPNlMzZFhqTmVLQ2c?oc=5",
+      "publishedAt": "2026-03-08T00:46:05.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260308-i-can-see-how-despondent-everyone-is-about-crypto-and-the-pure-chartists-are-tel",
+      "localUrl": "/news/20260308-i-can-see-how-despondent-everyone-is-about-crypto-and-the-pure-chartists-are-tel.html"
     }
   ]
 }

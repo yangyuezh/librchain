@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-10T07:06:28.071Z</lastmod>
+    <lastmod>2026-03-10T07:54:31.746Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-10T07:06:28.071Z</lastmod>
+    <lastmod>2026-03-10T07:54:31.746Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260310-ether-treasury-firm-bitmine-moves-195-million-in-eth-to-coinbase-prime.html</loc>
+    <lastmod>2026-03-10T07:15:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260310-tron-joins-agentic-ai-foundation-as-founder-sees-future-in-ai.html</loc>
@@ -187,14 +193,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260309-nasdaq-links-eu-markets-to-boerse-stuttgarts-tokenized-settlement-venue.html</loc>
+    <loc>https://www.librchain.com/news/20260309-nasdaq-links-eu-markets-to-borse-stuttgarts-tokenized-settlement-venue.html</loc>
     <lastmod>2026-03-09T21:23:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260309-new-michael-saylors-strategy-files-an-amendment-that-would-allow-them-to-sell-mo.html</loc>
-    <lastmod>2026-03-09T21:13:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,12 +415,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260309-us-treasury-signals-shift-on-crypto-mixers-acknowledges-legitimate-privacy-uses.html</loc>
-    <lastmod>2026-03-09T12:23:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260309-breaking-michael-saylors-strategy-purchased-17994-bitcoin-for-128-billion-xcom.html</loc>
     <lastmod>2026-03-09T12:01:22.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,6 +483,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260308-bitcoin-at-67k-but-s2f-model-screams-500k-avg-this-cycle-2024-2028-is-btc-massiv.html</loc>
     <lastmod>2026-03-08T12:53:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260308-i-can-see-how-despondent-everyone-is-about-crypto-and-the-pure-chartists-are-tel.html</loc>
+    <lastmod>2026-03-08T00:46:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
