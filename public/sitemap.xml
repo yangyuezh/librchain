@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-10T17:59:20.821Z</lastmod>
+    <lastmod>2026-03-10T19:05:59.762Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-10T17:59:20.821Z</lastmod>
+    <lastmod>2026-03-10T19:05:59.762Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260310-senators-try-to-unlock-stalled-crypto-clarity-act-with-compromise-on-stablecoin-.html</loc>
+    <lastmod>2026-03-10T19:00:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260310-polymarket-and-palantir-team-to-protect-integrity-of-sports-betting-as-predictio.html</loc>
+    <lastmod>2026-03-10T18:38:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260310-circle-could-rally-60-more-on-stablecoin-adoption-ai-agentic-finance-bernstein-s.html</loc>
+    <lastmod>2026-03-10T18:32:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260310-societe-generale-forge-launches-eurcv-stablecoin-on-stellar.html</loc>
@@ -289,26 +307,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260310-traders-snapped-up-nearly-600000-btc-as-bitcoin-dipped-below-70000-blockchain-da.html</loc>
-    <lastmod>2026-03-10T11:33:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260310-nvidias-huang-argues-ai-creates-jobs-not-destroys-them-in-rare-official-blog-pos.html</loc>
-    <lastmod>2026-03-10T11:31:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260310-was-ethereum-ultrasound-money-a-mistake-eth-down-65-vs-btc-since-pivot.html</loc>
     <lastmod>2026-03-10T11:20:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260310-hyperliquids-next-upgrade-to-let-seasoned-traders-take-bigger-bets-with-less-cap.html</loc>
-    <lastmod>2026-03-10T11:13:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -369,12 +369,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260310-bitcoin-shows-tentative-signs-of-improvement-as-iran-conflict-fears-wane.html</loc>
     <lastmod>2026-03-10T01:21:36.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260309-the-bitcoin-pyramid-is-being-propped-up-by-mstr-which-pays-an-115-yield-on-strc-.html</loc>
-    <lastmod>2026-03-09T23:39:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -483,6 +477,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260309-today-coinbase-launches-regulated-crypto-futures-in-europe-available-to-coinbase.html</loc>
     <lastmod>2026-03-09T08:45:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260308-breaking-someone-just-opened-a-7218000-oil-short-position-liquidation-price-1355.html</loc>
+    <lastmod>2026-03-08T15:54:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
