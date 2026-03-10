@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-10T08:58:34.359Z</lastmod>
+    <lastmod>2026-03-10T09:58:55.182Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-10T08:58:34.359Z</lastmod>
+    <lastmod>2026-03-10T09:58:55.182Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260310-us-bitcoin-etfs-add-167m-as-altcoin-funds-extend-outflows.html</loc>
+    <lastmod>2026-03-10T08:57:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260310-blackstone-owned-airtrunk-secures-record-124b-loan-for-tokyo-ai-data-center.html</loc>
@@ -289,12 +295,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260309-price-predictions-39-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch.html</loc>
-    <lastmod>2026-03-09T17:57:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260309-nigel-farage-backs-bitcoin-treasury-firm-chaired-by-former-chancellor.html</loc>
     <lastmod>2026-03-09T17:41:23.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -303,12 +303,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260309-update-ethereum-foundation-taps-bitwise-infrastructure-for-treasury-staking-targ.html</loc>
     <lastmod>2026-03-09T16:30:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260309-erc-8183-is-one-of-the-missing-pieces-in-the-ethereum-open-agentic-economy-were-.html</loc>
-    <lastmod>2026-03-09T16:29:15.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -483,6 +477,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260308-breaking-epstein-files-google-search-volume-drops-hard-in-the-united-states-the-.html</loc>
     <lastmod>2026-03-08T16:01:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260308-just-in-michael-saylor-hints-at-buying-more-bitcoin-xcom.html</loc>
+    <lastmod>2026-03-08T13:02:48.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
