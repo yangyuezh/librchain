@@ -1,7 +1,80 @@
 {
-  "updatedAt": "2026-03-11T09:58:38.556Z",
+  "updatedAt": "2026-03-11T10:58:22.483Z",
   "total": 80,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "DOJ Seeks Forfeiture of $3.4M in USDT Tied to Ethereum Investment Scam",
+      "summary": "Federal prosecutors in Massachusetts have moved to forfeit 3.44 million USDT linked to an alleged text-based crypto investment fraud.",
+      "url": "https://decrypt.co/360650/doj-seeks-forfeiture-of-3-4m-in-usdt-tied-to-ethereum-investment-scam",
+      "publishedAt": "2026-03-11T10:52:18.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260311-doj-seeks-forfeiture-of-34m-in-usdt-tied-to-ethereum-investment-scam",
+      "localUrl": "/news/20260311-doj-seeks-forfeiture-of-34m-in-usdt-tied-to-ethereum-investment-scam.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin drops on Iran war uncertainty, AI tokens jump",
+      "summary": "BTC traded near $69,500 after failing to hold $71,000 as the Iran war kept markets cautious. AI tokens including ICP, FET outperformed on strong retail demand.",
+      "url": "https://www.coindesk.com/markets/2026/03/11/bitcoin-drops-on-iran-war-uncertainty-ai-tokens-jump",
+      "publishedAt": "2026-03-11T10:35:35.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "Derivatives",
+        "Altcoins",
+        "AI",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260311-bitcoin-drops-on-iran-war-uncertainty-ai-tokens-jump",
+      "localUrl": "/news/20260311-bitcoin-drops-on-iran-war-uncertainty-ai-tokens-jump.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US seeks forfeiture of $3.4M in USDt tied to crypto investment scam",
+      "summary": "US prosecutors moved to forfeit $3.44 million in USDt allegedly tied to a crypto investment scam that tricked victims into sending Ether to wallets controlled by fraudsters.",
+      "url": "https://cointelegraph.com/news/us-seeks-forfeiture-3-4m-usdt-crypto-investment-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-11T10:25:42.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260311-us-seeks-forfeiture-of-34m-in-usdt-tied-to-crypto-investment-scam",
+      "localUrl": "/news/20260311-us-seeks-forfeiture-of-34m-in-usdt-tied-to-crypto-investment-scam.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Aave wstETH glitch forces $27M in liquidations and compensation",
+      "summary": "Capo, an external oracle solution used by Aave, triggered around $27 million in liquidations after a pricing glitch, but the lending platform said it is stepping in to cover the losses.",
+      "url": "https://cointelegraph.com/news/aave-capo-oracle-glitch-27m-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-11T10:15:38.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260311-aave-wsteth-glitch-forces-27m-in-liquidations-and-compensation",
+      "localUrl": "/news/20260311-aave-wsteth-glitch-forces-27m-in-liquidations-and-compensation.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Oracle jumps 11% premarket as AI demand challenges 'SaaS apocalypse' fears",
+      "summary": "Cloud and AI growth beat expectations while investors grow less worried about Oracle’s debt plans and software disruption.",
+      "url": "https://www.coindesk.com/markets/2026/03/11/oracle-jumps-11-premarket-as-ai-demand-challenges-saas-apocalypse-fears",
+      "publishedAt": "2026-03-11T10:10:46.000Z",
+      "keywords": [
+        "Markets",
+        "Oracles",
+        "Artificial Intelligence",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260311-oracle-jumps-11-premarket-as-ai-demand-challenges-saas-apocalypse-fears",
+      "localUrl": "/news/20260311-oracle-jumps-11-premarket-as-ai-demand-challenges-saas-apocalypse-fears.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin ETFs add $251M as Goldman Sachs tops XRP ETF holders",
@@ -30,7 +103,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Bitcoin can flip 'highly volatile' as bull case eyes $80K rebound by April",
+      "title": "Bitcoin faces ‘highly volatile’ setup as bulls eye return to $80K by month-end",
       "summary": "Bitcoin open interest sparked a prediction of high BTC price volatility to come as $70,000 remained the bulls' key reclaim level.",
       "url": "https://cointelegraph.com/news/bitcoin-flip-highly-volatile-bull-case-80k-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-11T08:18:22.000Z",
@@ -38,8 +111,8 @@
         "Markets"
       ],
       "category": "市场",
-      "slug": "20260311-bitcoin-can-flip-highly-volatile-as-bull-case-eyes-80k-rebound-by-april",
-      "localUrl": "/news/20260311-bitcoin-can-flip-highly-volatile-as-bull-case-eyes-80k-rebound-by-april.html"
+      "slug": "20260311-bitcoin-faces-highly-volatile-setup-as-bulls-eye-return-to-80k-by-month-end",
+      "localUrl": "/news/20260311-bitcoin-faces-highly-volatile-setup-as-bulls-eye-return-to-80k-by-month-end.html"
     },
     {
       "source": "Cointelegraph",
@@ -284,6 +357,17 @@
       "localUrl": "/news/20260311-ethereums-on-fire-with-record-activity-but-ether-price-and-blockchain-fees-lag.html"
     },
     {
+      "source": "X Wire",
+      "title": "BREAKING : 🇺🇸 Blackrock ETF has bought $153,490,000 worth of Bitcoin. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sY0g0NHRDOHdDcDhjZmFHREtDbFc1SGlsWTJPRXZNVFlCSm5ySTU1cVVXaTBnc1l4UjVNMGJBNUNvbm1wQlJRNWhoUE9zOXRpWElDUXB4TUp4d2dlNDdz?oc=5\" target=\"_blank\">BREAKING : 🇺🇸 Blackrock ETF has boug…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sY0g0NHRDOHdDcDhjZmFHREtDbFc1SGlsWTJPRXZNVFlCSm5ySTU1cVVXaTBnc1l4UjVNMGJBNUNvbm1wQlJRNWhoUE9zOXRpWElDUXB4TUp4d2dlNDdz?oc=5",
+      "publishedAt": "2026-03-11T03:33:23.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260311-breaking-blackrock-etf-has-bought-153490000-worth-of-bitcoin-xcom",
+      "localUrl": "/news/20260311-breaking-blackrock-etf-has-bought-153490000-worth-of-bitcoin-xcom.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Nvidia’s Huang: AI will boost jobs as it needs trillions in infrastructure",
       "summary": "Nvidia founder Jensen Huang says AI will create countless jobs as the buildout for the tech has only just started and will require many more workers.",
@@ -479,6 +563,17 @@
       "localUrl": "/news/20260310-heres-what-happened-in-crypto-today.html"
     },
     {
+      "source": "X Wire",
+      "title": "🇮🇳 LATEST: India introduces the Blockchain India Challenge, encouraging startups to develop Web3 tools for digital governance. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE85U3I5N1owSlBBdXE2SVY4bmRtWVFLb2p2Ql8yamVBajF6S2lIbWlFWUR4ZGFFNEhMUU9mMHdOaUxXNV9vNVRMdDdLdFdsN3BySmFKeGdqU3YwUWMtY20tR0t3b1g?oc=5\" target=\"_blank\">🇮🇳 LATEST: India introduces t…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85U3I5N1owSlBBdXE2SVY4bmRtWVFLb2p2Ql8yamVBajF6S2lIbWlFWUR4ZGFFNEhMUU9mMHdOaUxXNV9vNVRMdDdLdFdsN3BySmFKeGdqU3YwUWMtY20tR0t3b1g?oc=5",
+      "publishedAt": "2026-03-10T21:30:23.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260310-latest-india-introduces-the-blockchain-india-challenge-encouraging-startups-to-d",
+      "localUrl": "/news/20260310-latest-india-introduces-the-blockchain-india-challenge-encouraging-startups-to-d.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Why Bitcoin Is on a Path to $1 Million Per Coin: Bitwise",
       "summary": "Bitcoin can hit a price of $1 million per coin even with \"reasonably conservative assumptions,\" Bitwise CIO Matt Hougan argued. Here's why.",
@@ -582,32 +677,6 @@
       "category": "综合",
       "slug": "20260310-meta-acquires-moltbook-the-viral-social-network-for-ai-agents-report",
       "localUrl": "/news/20260310-meta-acquires-moltbook-the-viral-social-network-for-ai-agents-report.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "SEC chair calls for ‘coordinated oversight‘ between US regulators",
-      "summary": "Paul Atkins said that he had stopped ”duplicative enforcement actions” between the SEC and CFTC, stressing the need for a coordinated approach.",
-      "url": "https://cointelegraph.com/news/sec-chair-oversight-us-financial-agencies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-10T19:41:13.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260310-sec-chair-calls-for-coordinated-oversight-between-us-regulators",
-      "localUrl": "/news/20260310-sec-chair-calls-for-coordinated-oversight-between-us-regulators.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin leads, altcoin indicators drop to intriguing lows: Time for an altseason?",
-      "summary": "Bitcoin is the frontrunner in the crypto market, while 36% of altcoins trade near their all-time lows. Do altcoin price metrics suggest an altseason is next?",
-      "url": "https://cointelegraph.com/news/bitcoin-leads-altcoin-indicators-drop-to-intriguing-lows-time-for-an-altseason?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-10T19:40:37.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "市场",
-      "slug": "20260310-bitcoin-leads-altcoin-indicators-drop-to-intriguing-lows-time-for-an-altseason",
-      "localUrl": "/news/20260310-bitcoin-leads-altcoin-indicators-drop-to-intriguing-lows-time-for-an-altseason.html"
     },
     {
       "source": "Decrypt",
@@ -751,23 +820,6 @@
       "localUrl": "/news/20260310-why-cryptos-privacy-problem-is-a-total-dealbreaker-for-mainstream-users.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto shouldn’t 'die on the hill' of stablecoin yield, Rick Edelman says",
-      "summary": "The veteran financial advisor says the banking lobby will likely win the yield-bearing stablecoin debate.",
-      "url": "https://www.coindesk.com/markets/2026/03/10/crypto-shouldn-t-die-on-the-hill-of-stablecoin-yield-rick-edelman-says",
-      "publishedAt": "2026-03-10T16:26:43.000Z",
-      "keywords": [
-        "Markets",
-        "Media Network Interview",
-        "btc price",
-        "Ric edelman",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260310-crypto-shouldnt-die-on-the-hill-of-stablecoin-yield-rick-edelman-says",
-      "localUrl": "/news/20260310-crypto-shouldnt-die-on-the-hill-of-stablecoin-yield-rick-edelman-says.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Elon Musk's X Money App Nears Public Launch, No Sign of Dogecoin",
       "summary": "X Money, Elon Musk's financial \"everything app,\" is getting closer to its public launch, but Dogecoin (DOGE) doesn't have an apparent role.",
@@ -780,23 +832,6 @@
       "category": "综合",
       "slug": "20260310-elon-musks-x-money-app-nears-public-launch-no-sign-of-dogecoin",
       "localUrl": "/news/20260310-elon-musks-x-money-app-nears-public-launch-no-sign-of-dogecoin.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin climbs past $71,000 as oil shock fears continue to ease",
-      "summary": "The International Energy Agency (IEA) on Tuesday said it will convene an extraordinary meeting of its member countries to consider releasing emergency oil reserves.",
-      "url": "https://www.coindesk.com/markets/2026/03/10/bitcoin-climbs-past-usd71-000-as-oil-shock-fears-continue-to-ease",
-      "publishedAt": "2026-03-10T15:58:46.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Oil",
-        "Market Wrap",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260310-bitcoin-climbs-past-71000-as-oil-shock-fears-continue-to-ease",
-      "localUrl": "/news/20260310-bitcoin-climbs-past-71000-as-oil-shock-fears-continue-to-ease.html"
     },
     {
       "source": "Decrypt",
@@ -934,28 +969,6 @@
       "localUrl": "/news/20260310-winklevoss-twins-move-130m-in-bitcoin-to-gemini-hot-wallets-arkham.html"
     },
     {
-      "source": "X Wire",
-      "title": "LATEST: ⚡ \"We continue to believe that crypto prices are in the late/final stages of the 'mini-crypto winter,'\" says BitMine chairman Tom Lee. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yUkV0Z0J0UWVPeXdLWjE1bzR2S0V5NXh2SnFBUktDS3BkSGgzWE1vMG5IUjNtdWlGUDlLcE5lZkFKSnRHZDBvbzZQYXJYUWhQd05xQnpEZjZJcUgwNWsxRW43YVk?oc=5\" target=\"_blank\">LATEST: ⚡ \"We continue to belie…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yUkV0Z0J0UWVPeXdLWjE1bzR2S0V5NXh2SnFBUktDS3BkSGgzWE1vMG5IUjNtdWlGUDlLcE5lZkFKSnRHZDBvbzZQYXJYUWhQd05xQnpEZjZJcUgwNWsxRW43YVk?oc=5",
-      "publishedAt": "2026-03-10T07:18:10.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260310-latest-we-continue-to-believe-that-crypto-prices-are-in-the-latefinal-stages-of-",
-      "localUrl": "/news/20260310-latest-we-continue-to-believe-that-crypto-prices-are-in-the-latefinal-stages-of-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "⚡ INSIGHT: China unveils new chip to boost blockchain speeds by 50x. An autonomous agent linked to Alibaba decided to mine Bitcoin. Asia Express via Cointelegraph Magazine - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TaGV4NVg2S2pkcDdmRkNaREVqeVpiWnotMGYtNVhZclZDTEZnSFpzQVphZmg2ZGdKdGVSZThuc3ZzMEhBSHo5YzZsZ1JHYzJZMUlZMG1zenBaYldDRjdSQnNQb0I?oc=5\" target=\"_blank\">⚡ INSIGHT: China unveils new ch…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TaGV4NVg2S2pkcDdmRkNaREVqeVpiWnotMGYtNVhZclZDTEZnSFpzQVphZmg2ZGdKdGVSZThuc3ZzMEhBSHo5YzZsZ1JHYzJZMUlZMG1zenBaYldDRjdSQnNQb0I?oc=5",
-      "publishedAt": "2026-03-10T07:00:38.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260310-insight-china-unveils-new-chip-to-boost-blockchain-speeds-by-50x-an-autonomous-a",
-      "localUrl": "/news/20260310-insight-china-unveils-new-chip-to-boost-blockchain-speeds-by-50x-an-autonomous-a.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Wall Street Banks Weigh Lawsuit Over Crypto Banking Charters",
       "summary": "The potential lawsuit adds to existing tension between traditional lenders and crypto firms over access to the U.S. financial system.",
@@ -967,19 +980,6 @@
       "category": "监管",
       "slug": "20260310-wall-street-banks-weigh-lawsuit-over-crypto-banking-charters",
       "localUrl": "/news/20260310-wall-street-banks-weigh-lawsuit-over-crypto-banking-charters.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Trump's DOJ Seeks October Retrial for Tornado Cash Developer Roman Storm",
-      "summary": "The DOJ is attempting to retry Tornado Cash developer Roman Storm even as the U.S. Treasury acknowledges mixers may have legitimate uses.",
-      "url": "https://decrypt.co/360521/trumps-doj-seeks-october-retrial-tornado-cash-developer",
-      "publishedAt": "2026-03-10T04:46:28.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260310-trumps-doj-seeks-october-retrial-for-tornado-cash-developer-roman-storm",
-      "localUrl": "/news/20260310-trumps-doj-seeks-october-retrial-for-tornado-cash-developer-roman-storm.html"
     },
     {
       "source": "X Wire",
