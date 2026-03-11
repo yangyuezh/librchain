@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-11T21:46:26.820Z</lastmod>
+    <lastmod>2026-03-11T22:40:00.734Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-11T21:46:26.820Z</lastmod>
+    <lastmod>2026-03-11T22:40:00.734Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260311-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-11T21:56:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260311-most-ai-chatbots-will-help-a-teen-plan-a-mass-shooting-study-finds.html</loc>
@@ -51,6 +57,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260311-revolut-obtains-uk-bank-license-teases-upcoming-services.html</loc>
     <lastmod>2026-03-11T20:19:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260311-officially-a-cowboy-dallascowboys-blockchain-xcom.html</loc>
+    <lastmod>2026-03-11T20:15:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -249,12 +261,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260311-former-legal-executives-from-crypto-exchange-okx-unveil-defi-connectivity-risk-r.html</loc>
     <lastmod>2026-03-11T15:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260311-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-03-11T14:24:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260309-new-michael-saylors-strategy-files-an-amendment-that-would-allow-them-to-sell-mo.html</loc>
     <lastmod>2026-03-09T21:13:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260309-just-in-us-treasury-reports-to-congress-that-using-bitcoin-and-crypto-privacy-mi.html</loc>
-    <lastmod>2026-03-09T13:14:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
