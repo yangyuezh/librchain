@@ -1,10 +1,195 @@
 {
-  "updatedAt": "2026-03-11T11:46:33.526Z",
+  "updatedAt": "2026-03-11T13:36:28.112Z",
   "total": 80,
   "items": [
     {
+      "source": "CoinDesk",
+      "title": "CoinDesk 20 performance update: Hedera (HBAR) drops 1.8%, leading index lower",
+      "summary": "Stellar (XLM), down 1.6% from Tuesday, joined Hedera (HBAR) as an underperformer.",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/03/11/coindesk-20-performance-update-hedera-hbar-drops-1-8-leading-index-lower",
+      "publishedAt": "2026-03-11T13:27:29.000Z",
+      "keywords": [
+        "CoinDesk Indices",
+        "CoinDesk Indices",
+        "CoinDesk 20",
+        "charts",
+        "Prices",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260311-coindesk-20-performance-update-hedera-hbar-drops-18-leading-index-lower",
+      "localUrl": "/news/20260311-coindesk-20-performance-update-hedera-hbar-drops-18-leading-index-lower.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ghana opens crypto trading sandbox with 11 firms under new VASP law",
+      "summary": "The companies will be able to run their products in a controlled environment while regulators monitor risks and compliance.",
+      "url": "https://www.coindesk.com/policy/2026/03/11/ghana-opens-crypto-trading-sandbox-with-11-firms-under-new-vasp-law",
+      "publishedAt": "2026-03-11T13:21:43.000Z",
+      "keywords": [
+        "Policy",
+        "Ghana",
+        "Regulations",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260311-ghana-opens-crypto-trading-sandbox-with-11-firms-under-new-vasp-law",
+      "localUrl": "/news/20260311-ghana-opens-crypto-trading-sandbox-with-11-firms-under-new-vasp-law.html"
+    },
+    {
       "source": "Cointelegraph",
-      "title": "ECB reveals Appia roadmap for central bank money in tokenized markets",
+      "title": "US Senate bill targets prediction markets on war and assassinations",
+      "summary": "Democratic Senator Adam Schiff introduced a bill to ban prediction markets related to war, death and terrorism amid escalating insider trading concerns related to military operations.",
+      "url": "https://cointelegraph.com/news/us-senate-bill-targets-prediction-markets-on-war-and-assassinations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-11T13:07:47.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260311-us-senate-bill-targets-prediction-markets-on-war-and-assassinations",
+      "localUrl": "/news/20260311-us-senate-bill-targets-prediction-markets-on-war-and-assassinations.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Mining giant Foundry to introduce institutional zcash mining pool",
+      "summary": "The pool is designed for institutional and public company miners, focusing on compliance and regulated infrastructure.",
+      "url": "https://www.coindesk.com/business/2026/03/10/mining-giant-foundry-to-introduce-institutional-zcash-mining-pool",
+      "publishedAt": "2026-03-11T13:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Zcash",
+        "Foundry",
+        "Exclusive",
+        "Mining Pools",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260311-mining-giant-foundry-to-introduce-institutional-zcash-mining-pool",
+      "localUrl": "/news/20260311-mining-giant-foundry-to-introduce-institutional-zcash-mining-pool.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "DOJ Investigating if Iran Used Binance to Evade Sanctions: WSJ",
+      "summary": "Binance has sued the Wall Street Journal over what it termed \"false and defamatory reporting\" in a previous story from February.",
+      "url": "https://decrypt.co/360680/doj-investigating-if-iran-used-binance-to-evade-sanctions-wsj",
+      "publishedAt": "2026-03-11T12:57:05.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "综合",
+      "slug": "20260311-doj-investigating-if-iran-used-binance-to-evade-sanctions-wsj",
+      "localUrl": "/news/20260311-doj-investigating-if-iran-used-binance-to-evade-sanctions-wsj.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. February CPI matches forecasts, reinforcing expectations for no near-term rate cuts",
+      "summary": "The price of bitcoin was trading at $69,500 following the news, down 1.2% over the past 24 hours.",
+      "url": "https://www.coindesk.com/markets/2026/03/11/u-s-february-inflation-data-matches-forecasts-reinforcing-expectations-for-no-near-term-rate-cuts",
+      "publishedAt": "2026-03-11T12:35:56.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "CPI",
+        "inflation rate",
+        "Breaking News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260311-us-february-cpi-matches-forecasts-reinforcing-expectations-for-no-near-term-rate",
+      "localUrl": "/news/20260311-us-february-cpi-matches-forecasts-reinforcing-expectations-for-no-near-term-rate.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Scaling next generation AI is making it riskier, not better",
+      "summary": "AI scaling drains trillions in energy while amplifying errors. Neurosymbolic reasoning and decentralized cognitive systems deliver reliable intelligence without the risk.",
+      "url": "https://cointelegraph.com/news/scaling-ai-makes-riskier?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-11T12:30:00.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "综合",
+      "slug": "20260311-scaling-next-generation-ai-is-making-it-riskier-not-better",
+      "localUrl": "/news/20260311-scaling-next-generation-ai-is-making-it-riskier-not-better.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance sues Wall Street Journal as newspaper says U.S. Dept. of Justice is investigating Iran transactions",
+      "summary": "The situation adds pressure to Binance, which is already operating under a compliance monitor following its $4.3 billion anti-money laundering and sanctions settlement in 2023.",
+      "url": "https://www.coindesk.com/business/2026/03/11/binance-sues-wall-street-journal-as-newspaper-says-u-s-dept-of-justice-is-investigating-iran-transactions",
+      "publishedAt": "2026-03-11T12:29:14.000Z",
+      "keywords": [
+        "Finance",
+        "Binance",
+        "Wall Street Journal",
+        "Crypto Exchange",
+        "DOJ",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260311-binance-sues-wall-street-journal-as-newspaper-says-us-dept-of-justice-is-investi",
+      "localUrl": "/news/20260311-binance-sues-wall-street-journal-as-newspaper-says-us-dept-of-justice-is-investi.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Wells Fargo files WFUSD trademark for crypto payments and trading",
+      "summary": "The US banking giant seeks trademark protection for “WFUSD,” covering crypto trading, payments, staking software and blockchain-based financial services.",
+      "url": "https://cointelegraph.com/news/wells-fargo-files-trademark-crypto-trading-payments-wfusd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-11T12:12:15.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260311-wells-fargo-files-wfusd-trademark-for-crypto-payments-and-trading",
+      "localUrl": "/news/20260311-wells-fargo-files-wfusd-trademark-for-crypto-payments-and-trading.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Retreats Under $70K as IEA Weighs Historic Oil Reserve Release",
+      "summary": "Bitcoin’s drop coincides with an IEA proposal to stabilize energy markets, leaving derivatives traders paying for downside protection.",
+      "url": "https://decrypt.co/360671/bitcoin-retreats-under-70k-as-iea-weighs-historic-oil-reserve-release",
+      "publishedAt": "2026-03-11T12:00:27.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260311-bitcoin-retreats-under-70k-as-iea-weighs-historic-oil-reserve-release",
+      "localUrl": "/news/20260311-bitcoin-retreats-under-70k-as-iea-weighs-historic-oil-reserve-release.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance, PayPal and Ripple join Mastercard’s massive new push into blockchain payments",
+      "summary": "More than 85 partners will work with Mastercard to connect on-chain payments with banks, merchants and global commerce as part of the payment giant's recent crypto program.",
+      "url": "https://www.coindesk.com/business/2026/03/11/binance-paypal-and-ripple-join-mastercard-s-massive-new-push-into-blockchain-payments",
+      "publishedAt": "2026-03-11T12:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Mastercard",
+        "Global Payments",
+        "Ripple",
+        "Binance",
+        "PayPal",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260311-binance-paypal-and-ripple-join-mastercards-massive-new-push-into-blockchain-paym",
+      "localUrl": "/news/20260311-binance-paypal-and-ripple-join-mastercards-massive-new-push-into-blockchain-paym.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance sues Wall Street Journal amid report of DOJ Iran probe",
+      "summary": "Binance filed a lawsuit after the Wall Street Journal reported a Justice Department probe into Iran’s alleged use of the exchange to avoid sanctions.",
+      "url": "https://cointelegraph.com/news/doj-investigates-binance-s-role-in-alleged-iran-sanctions-evasion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-11T11:46:07.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260311-binance-sues-wall-street-journal-amid-report-of-doj-iran-probe",
+      "localUrl": "/news/20260311-binance-sues-wall-street-journal-amid-report-of-doj-iran-probe.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ECB reveals Appia roadmap for central bank money in Europe’s tokenized markets",
       "summary": "The European Central Bank has launched Appia to guide Europe’s tokenized financial ecosystem anchored in central bank money, with early Pontes pilots planned for 2026.",
       "url": "https://cointelegraph.com/news/ecb-appia-roadmap-europe-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-11T11:35:18.000Z",
@@ -12,8 +197,8 @@
         "Latest News"
       ],
       "category": "RWA",
-      "slug": "20260311-ecb-reveals-appia-roadmap-for-central-bank-money-in-tokenized-markets",
-      "localUrl": "/news/20260311-ecb-reveals-appia-roadmap-for-central-bank-money-in-tokenized-markets.html"
+      "slug": "20260311-ecb-reveals-appia-roadmap-for-central-bank-money-in-europes-tokenized-markets",
+      "localUrl": "/news/20260311-ecb-reveals-appia-roadmap-for-central-bank-money-in-europes-tokenized-markets.html"
     },
     {
       "source": "Cointelegraph",
@@ -354,7 +539,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Dogecoin zooms as Elon Musk announces X Money launch date for April",
+      "title": "Elon Musk announces X Money launch date for April",
       "summary": "The payments app offers 6% yield on balances and peer-to-peer transfers inside X, competing directly with the same demand stablecoin products are targeting. No mention of dogecoin or any crypto functionality was included.",
       "url": "https://www.coindesk.com/markets/2026/03/11/dogecoin-zooms-as-elon-musk-announces-x-money-launch-date-for-april",
       "publishedAt": "2026-03-11T05:00:15.000Z",
@@ -363,8 +548,8 @@
         "News"
       ],
       "category": "DeFi",
-      "slug": "20260311-dogecoin-zooms-as-elon-musk-announces-x-money-launch-date-for-april",
-      "localUrl": "/news/20260311-dogecoin-zooms-as-elon-musk-announces-x-money-launch-date-for-april.html"
+      "slug": "20260311-elon-musk-announces-x-money-launch-date-for-april",
+      "localUrl": "/news/20260311-elon-musk-announces-x-money-launch-date-for-april.html"
     },
     {
       "source": "Cointelegraph",
@@ -474,17 +659,15 @@
       "localUrl": "/news/20260311-china-plays-the-long-game-in-ai-while-us-chases-superintelligence-brookings.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Ripple targets April for Australian financial license via acquisition",
-      "summary": "Ripple APAC managing director Fiona Murray said there was sufficient institutional interest in Australia to warrant the costs of acquiring an Australian Financial Services License.",
-      "url": "https://cointelegraph.com/news/ripple-eyes-australian-financial-license-through-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-11T00:58:23.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260311-ripple-targets-april-for-australian-financial-license-via-acquisition",
-      "localUrl": "/news/20260311-ripple-targets-april-for-australian-financial-license-via-acquisition.html"
+      "source": "X Wire",
+      "title": "🇺🇸 LATEST: 32% of US Gen Z favor crypto, with similar interest in sports betting and prediction markets, per Northwestern Mutual reports. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhQnluc3R0VFBURXlmeHdMcmJmVG9EQ1hIeHZ6R3RkZFRVMy1oWW9kZlZOalJaNC1Pbi1sUkZxVWRidVg1WlN0TUtxUE1vbnJONHN0NlEzVXUwc0QyYl92V1VLSnM?oc=5\" target=\"_blank\">🇺🇸 LATEST: 32% of US Gen Z fa…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhQnluc3R0VFBURXlmeHdMcmJmVG9EQ1hIeHZ6R3RkZFRVMy1oWW9kZlZOalJaNC1Pbi1sUkZxVWRidVg1WlN0TUtxUE1vbnJONHN0NlEzVXUwc0QyYl92V1VLSnM?oc=5",
+      "publishedAt": "2026-03-11T01:30:21.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260311-latest-32-of-us-gen-z-favor-crypto-with-similar-interest-in-sports-betting-and-p",
+      "localUrl": "/news/20260311-latest-32-of-us-gen-z-favor-crypto-with-similar-interest-in-sports-betting-and-p.html"
     },
     {
       "source": "Decrypt",
@@ -543,19 +726,6 @@
       "localUrl": "/news/20260310-defi-lending-platform-aave-sees-a-rare-27-million-liquidations-after-a-price-gli.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Kalshi suffers court loss in Ohio over sports betting lawsuit",
-      "summary": "The prediction markets platform argued for an injunction against Ohio authorities, claiming that federal commodities laws superseded state laws on sports event contracts.",
-      "url": "https://cointelegraph.com/news/kalshi-court-ohio-sports-betting-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-10T22:05:26.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260310-kalshi-suffers-court-loss-in-ohio-over-sports-betting-lawsuit",
-      "localUrl": "/news/20260310-kalshi-suffers-court-loss-in-ohio-over-sports-betting-lawsuit.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Basketball.fun Eyes Base, Marketplace Launches as NBA Star Tristan Thompson Departs",
       "summary": "Basketball.fun is processing refunds for those who aren’t willing to wait until the NBA-focused crypto project’s marketplace goes live.",
@@ -567,30 +737,6 @@
       "category": "市场",
       "slug": "20260310-basketballfun-eyes-base-marketplace-launches-as-nba-star-tristan-thompson-depart",
       "localUrl": "/news/20260310-basketballfun-eyes-base-marketplace-launches-as-nba-star-tristan-thompson-depart.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-10T21:50:13.000Z",
-      "keywords": [
-        "Trump memecoin",
-        "Solana memecoin",
-        "TRUMP token",
-        "Solana",
-        "SOL",
-        "Nova Labs",
-        "SEC",
-        "Securities and Exchange Commission",
-        "Crypto regulation",
-        "TRUMP rally",
-        "Bitcoin",
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260310-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260310-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "X Wire",
@@ -615,19 +761,6 @@
       "category": "市场",
       "slug": "20260310-why-bitcoin-is-on-a-path-to-1-million-per-coin-bitwise",
       "localUrl": "/news/20260310-why-bitcoin-is-on-a-path-to-1-million-per-coin-bitwise.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ether funding rate flips negative: Are ETH bears back in control?",
-      "summary": "Bearish Ether derivatives data and slowing network use weigh on ETH price, even as developers plan for faster transactions and more flexible wallet fees.",
-      "url": "https://cointelegraph.com/news/ether-funding-rate-flips-negative-are-eth-bears-back-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-10T21:19:35.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "市场",
-      "slug": "20260310-ether-funding-rate-flips-negative-are-eth-bears-back-in-control",
-      "localUrl": "/news/20260310-ether-funding-rate-flips-negative-are-eth-bears-back-in-control.html"
     },
     {
       "source": "CoinDesk",
@@ -696,77 +829,6 @@
       "localUrl": "/news/20260310-theres-a-benchmark-test-that-measures-ai-bullshitmost-models-fail.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Investment firm Multicoin bets 'Internet Labor Markets' will drive crypto’s next wave of adoption",
-      "summary": "According to the firm, the next wave of users that will onboard into crypto will be thanks to networks where users earn crypto by contributing work rather than buying tokens outright.",
-      "url": "https://www.coindesk.com/business/2026/03/10/investment-firm-multicoin-bets-internet-labor-markets-will-drive-crypto-s-next-wave-of-adoption",
-      "publishedAt": "2026-03-10T19:14:00.000Z",
-      "keywords": [
-        "Finance",
-        "Multicoin Capital",
-        "Solana News",
-        "Artificial Intelligence",
-        "AI",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260310-investment-firm-multicoin-bets-internet-labor-markets-will-drive-cryptos-next-wa",
-      "localUrl": "/news/20260310-investment-firm-multicoin-bets-internet-labor-markets-will-drive-cryptos-next-wa.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Senators try to unlock stalled crypto Clarity Act with compromise on stablecoin yield",
-      "summary": "As the window narrows to pass a crypto market structure bill this year, lawmakers told bankers at a Washington summit that the final bill won't risk deposits.",
-      "url": "https://www.coindesk.com/policy/2026/03/10/senators-try-to-unlock-stalled-crypto-clarity-act-with-compromise-on-stablecoin-yield",
-      "publishedAt": "2026-03-10T19:00:12.000Z",
-      "keywords": [
-        "Policy",
-        "U.S. Senate",
-        "Market Structure Legislation",
-        "banks",
-        "stablecoin regulation",
-        "Rewards",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260310-senators-try-to-unlock-stalled-crypto-clarity-act-with-compromise-on-stablecoin-",
-      "localUrl": "/news/20260310-senators-try-to-unlock-stalled-crypto-clarity-act-with-compromise-on-stablecoin-.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Polymarket and Palantir team to protect integrity of sports betting as prediction markets face key moment",
-      "summary": "The new monitoring platform aims to detect suspicious trading as prediction markets face scrutiny over insider information.",
-      "url": "https://www.coindesk.com/markets/2026/03/10/polymarket-and-palantir-team-up-to-protect-the-integrity-of-sports-betting-as-prediction-platforms-face-a-make-or-break-moment",
-      "publishedAt": "2026-03-10T18:38:13.000Z",
-      "keywords": [
-        "Markets",
-        "Polymarket",
-        "Prediction Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260310-polymarket-and-palantir-team-to-protect-integrity-of-sports-betting-as-predictio",
-      "localUrl": "/news/20260310-polymarket-and-palantir-team-to-protect-integrity-of-sports-betting-as-predictio.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle could rally 60% more on stablecoin adoption, AI agentic finance, Bernstein says",
-      "summary": "Stablecoins are decoupling from crypto market cycles as they are increasingly used for digital payments, Bernstein analysts said, which bodes well for USDC issuer Circle.",
-      "url": "https://www.coindesk.com/markets/2026/03/10/circle-could-rally-60-more-on-stablecoin-adoption-ai-agentic-finance-bernstein-says",
-      "publishedAt": "2026-03-10T18:32:25.000Z",
-      "keywords": [
-        "Markets",
-        "Circle",
-        "Stablecoins",
-        "USDC",
-        "Bernstein",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260310-circle-could-rally-60-more-on-stablecoin-adoption-ai-agentic-finance-bernstein-s",
-      "localUrl": "/news/20260310-circle-could-rally-60-more-on-stablecoin-adoption-ai-agentic-finance-bernstein-s.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: $15 billion asset manager Bitwise publishes report titled \"How Bitcoin Gets to $1 Million\" 👀 \"...the global “store of value” market will be ~$121 trillion in 10 years...bitcoin only needs to take 17% of the market to be worth $1 million a coin.\" 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nM1lCTHBhM05kemJXUDNFUTFhUXhHYnlWYWlwbzF0REUtek1wOFJBYTNaOEdueFc1UFlKblJhR2p1anEyeTFqUXg4aXVMMmtXVzhmY0dOXzVIRWRKak1qM3YtVDVIUzQ?oc=5\" target=\"_blank\">JUST IN: $15 billion asset …",
@@ -776,38 +838,6 @@
       "category": "X热点",
       "slug": "20260310-just-in-15-billion-asset-manager-bitwise-publishes-report-titled-how-bitcoin-get",
       "localUrl": "/news/20260310-just-in-15-billion-asset-manager-bitwise-publishes-report-titled-how-bitcoin-get.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. SEC chief Atkins said bond with sister agency CFTC to include joint meetings, exams",
-      "summary": "The SEC chairman made clear that formal new ties between the U.S. markets regulators will run so deep as to include combined meetings with firms pitching products.",
-      "url": "https://www.coindesk.com/policy/2026/03/10/u-s-sec-chief-atkins-said-bond-with-sister-agency-cftc-to-include-joint-meetings-exams",
-      "publishedAt": "2026-03-10T17:30:00.000Z",
-      "keywords": [
-        "Policy",
-        "Paul Atkins",
-        "U.S. Securities and Exchange Commission",
-        "U.S. Commodity Futures Trading Commission",
-        "Regulations",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260310-us-sec-chief-atkins-said-bond-with-sister-agency-cftc-to-include-joint-meetings-",
-      "localUrl": "/news/20260310-us-sec-chief-atkins-said-bond-with-sister-agency-cftc-to-include-joint-meetings-.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why banks are moving beyond single-provider stablecoin payment rails",
-      "summary": "Insitutions experimenting with stablecoins are shifting from single-vendor pilots to multi-provider infrastructure designed for global reach.",
-      "url": "https://www.coindesk.com/coindesk-news/2026/03/10/why-banks-are-moving-beyond-single-provider-stablecoin-payment-rails",
-      "publishedAt": "2026-03-10T17:01:18.000Z",
-      "keywords": [
-        "CoinDesk News",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260310-why-banks-are-moving-beyond-single-provider-stablecoin-payment-rails",
-      "localUrl": "/news/20260310-why-banks-are-moving-beyond-single-provider-stablecoin-payment-rails.html"
     },
     {
       "source": "Decrypt",
@@ -822,6 +852,17 @@
       "category": "综合",
       "slug": "20260310-elon-musks-x-money-app-nears-public-launch-no-sign-of-dogecoin",
       "localUrl": "/news/20260310-elon-musks-x-money-app-nears-public-launch-no-sign-of-dogecoin.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "$STRC is more stable than MSTR, bitcoin, gold, the S&P 500, and investment grade bonds. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Nd3lER0hVNWQtaHBjaHdiMlZrcmc5bGVwbEJTSi1QT1dGX3BZdWo0SzR4VGlxR0EzcUV6TTN5bzhXWHRXVGotbFVkWV8tdHY3Nm9nMlUzSThOaUJw?oc=5\" target=\"_blank\">$STRC is more stable than MSTR, bitcoin, g…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Nd3lER0hVNWQtaHBjaHdiMlZrcmc5bGVwbEJTSi1QT1dGX3BZdWo0SzR4VGlxR0EzcUV6TTN5bzhXWHRXVGotbFVkWV8tdHY3Nm9nMlUzSThOaUJw?oc=5",
+      "publishedAt": "2026-03-10T16:05:52.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260310-strc-is-more-stable-than-mstr-bitcoin-gold-the-sp-500-and-investment-grade-bonds",
+      "localUrl": "/news/20260310-strc-is-more-stable-than-mstr-bitcoin-gold-the-sp-500-and-investment-grade-bonds.html"
     },
     {
       "source": "Decrypt",
@@ -946,19 +987,6 @@
       "localUrl": "/news/20260310-new-irs-form-in-crypto-audits-demands-full-history-of-exchanges-and-wallets-a-ne.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Winklevoss Twins Move $130M in Bitcoin to Gemini Hot Wallets: Arkham",
-      "summary": "Arkham claimed that the transfers were intended “presumably to sell,” though neither Cameron nor Tyler Winklevoss has commented on the move.",
-      "url": "https://decrypt.co/360539/winklevoss-twins-move-130m-in-bitcoin-to-gemini-hot-wallets-arkham",
-      "publishedAt": "2026-03-10T11:02:35.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "市场",
-      "slug": "20260310-winklevoss-twins-move-130m-in-bitcoin-to-gemini-hot-wallets-arkham",
-      "localUrl": "/news/20260310-winklevoss-twins-move-130m-in-bitcoin-to-gemini-hot-wallets-arkham.html"
-    },
-    {
       "source": "X Wire",
       "title": "LATEST: ⚡ \"We continue to believe that crypto prices are in the late/final stages of the 'mini-crypto winter,'\" says BitMine chairman Tom Lee. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yUkV0Z0J0UWVPeXdLWjE1bzR2S0V5NXh2SnFBUktDS3BkSGgzWE1vMG5IUjNtdWlGUDlLcE5lZkFKSnRHZDBvbzZQYXJYUWhQd05xQnpEZjZJcUgwNWsxRW43YVk?oc=5\" target=\"_blank\">LATEST: ⚡ \"We continue to belie…",
@@ -968,19 +996,6 @@
       "category": "X热点",
       "slug": "20260310-latest-we-continue-to-believe-that-crypto-prices-are-in-the-latefinal-stages-of-",
       "localUrl": "/news/20260310-latest-we-continue-to-believe-that-crypto-prices-are-in-the-latefinal-stages-of-.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Wall Street Banks Weigh Lawsuit Over Crypto Banking Charters",
-      "summary": "The potential lawsuit adds to existing tension between traditional lenders and crypto firms over access to the U.S. financial system.",
-      "url": "https://decrypt.co/360524/wall-street-banks-weigh-lawsuit-over-crypto-banking-charters",
-      "publishedAt": "2026-03-10T06:18:23.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260310-wall-street-banks-weigh-lawsuit-over-crypto-banking-charters",
-      "localUrl": "/news/20260310-wall-street-banks-weigh-lawsuit-over-crypto-banking-charters.html"
     },
     {
       "source": "X Wire",
@@ -1017,17 +1032,6 @@
     },
     {
       "source": "X Wire",
-      "title": "The Ethereum Foundation is using DVT-lite to stake 72,000 ETH: firefly.social/post/x/2026218… My hope for this project is that in the process, we can make it maximally easy and one-click to do distributed staking for institutions. Choose which computers run yo - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZMVhoQm1OX2hUUjdGeUgyakFlaEJzU1ZKQUNkTkszbWRZUVNjcDJ5NmlXdm5IdEFhVWdtZXNJT1l4dW8tQ2VEUzRScEhyU1JTUEtUWWZTVkI3SlJsS01sQmw5R0I2UQ?oc=5\" target=\"_blank\">The Ethereum Foundation is u…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZMVhoQm1OX2hUUjdGeUgyakFlaEJzU1ZKQUNkTkszbWRZUVNjcDJ5NmlXdm5IdEFhVWdtZXNJT1l4dW8tQ2VEUzRScEhyU1JTUEtUWWZTVkI3SlJsS01sQmw5R0I2UQ?oc=5",
-      "publishedAt": "2026-03-09T23:15:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260309-the-ethereum-foundation-is-using-dvt-lite-to-stake-72000-eth-fireflysocialpostx2",
-      "localUrl": "/news/20260309-the-ethereum-foundation-is-using-dvt-lite-to-stake-72000-eth-fireflysocialpostx2.html"
-    },
-    {
-      "source": "X Wire",
       "title": "NEW: Michael Saylor's Strategy files an amendment that would allow them to sell more shares in premarket and after hours trading to buy more bitcoin 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84MzJZb1pSM0hHYVB5VzBGUmhwUmY3TF9rUEUyRlRCTVJwT1BocHN5OU1sSG5aQmxXX1l0Ynl1Z1J4cTZjRG1IZDBXYlJKd01WbzJQV1pFWmc0MmtZN2xJeXJtT1pNU1E?oc=5\" target=\"_blank\">NEW: Michael Saylor's Strat…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84MzJZb1pSM0hHYVB5VzBGUmhwUmY3TF9rUEUyRlRCTVJwT1BocHN5OU1sSG5aQmxXX1l0Ynl1Z1J4cTZjRG1IZDBXYlJKd01WbzJQV1pFWmc0MmtZN2xJeXJtT1pNU1E?oc=5",
@@ -1050,25 +1054,14 @@
     },
     {
       "source": "X Wire",
-      "title": "ERC-8183 is one of the missing pieces in the Ethereum Open Agentic Economy we're building. - x402 for micropayments - 8004 for trust and discovery - 8183 for *conditional* payments At the core ERC-8183 is an extensible and flexible escrow mechanism for - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xLUg4UXRzNXZRYXkxTkkzMkI1Q2txVmtuZVZmUXN1eWY3X21wbVN5TG5XU3prQ01FY0F0aGl1TzlpSTJ3WHg1MzRnQmJKLUJpSWlZc0R2Vl9qS2pNNk5ERFFndw?oc=5\" target=\"_blank\">ERC-8183 is one of the missing p…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xLUg4UXRzNXZRYXkxTkkzMkI1Q2txVmtuZVZmUXN1eWY3X21wbVN5TG5XU3prQ01FY0F0aGl1TzlpSTJ3WHg1MzRnQmJKLUJpSWlZc0R2Vl9qS2pNNk5ERFFndw?oc=5",
-      "publishedAt": "2026-03-09T16:29:15.000Z",
+      "title": "JUST IN: 🇺🇸 US Treasury reports to Congress that using Bitcoin and crypto privacy mixers are NOT unlawful: \"Lawful users of digital assets may leverage mixers to enable financial privacy when transacting through public blockchains.\" Big win for privacy! 👏 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rNHkwVktXM1EzQ1IwcEJ1RUFSVnRLTzlrajBFMUdFb0xMWVRRMzRybXlVTnZoZXVXXzRnejJaZEhnWC1aQWF6aUpjZHM2YjZTcjFyNlloVlQ3M3V6dlNpdEdaUUVXUTg?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 US Treasury r…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rNHkwVktXM1EzQ1IwcEJ1RUFSVnRLTzlrajBFMUdFb0xMWVRRMzRybXlVTnZoZXVXXzRnejJaZEhnWC1aQWF6aUpjZHM2YjZTcjFyNlloVlQ3M3V6dlNpdEdaUUVXUTg?oc=5",
+      "publishedAt": "2026-03-09T13:14:53.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260309-erc-8183-is-one-of-the-missing-pieces-in-the-ethereum-open-agentic-economy-were-",
-      "localUrl": "/news/20260309-erc-8183-is-one-of-the-missing-pieces-in-the-ethereum-open-agentic-economy-were-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: Over 20 million of Bitcoin's 21 million supply cap has officially been mined. Less than 1 million left. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10WEplaDk4RWxQU3NuZDNpTEFiZ0c0Yl8yV195SXVLR2FqSVRWdzcxR2dqTVZXajdNc2RycnpzaXF2ZzEyQWxMSlBJSUM3cUFlZnl4UkJEN21RVVQ5cTVRemIzMjkxUWc?oc=5\" target=\"_blank\">BREAKING: Over 20 million o…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10WEplaDk4RWxQU3NuZDNpTEFiZ0c0Yl8yV195SXVLR2FqSVRWdzcxR2dqTVZXajdNc2RycnpzaXF2ZzEyQWxMSlBJSUM3cUFlZnl4UkJEN21RVVQ5cTVRemIzMjkxUWc?oc=5",
-      "publishedAt": "2026-03-09T14:03:44.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260309-breaking-over-20-million-of-bitcoins-21-million-supply-cap-has-officially-been-m",
-      "localUrl": "/news/20260309-breaking-over-20-million-of-bitcoins-21-million-supply-cap-has-officially-been-m.html"
+      "slug": "20260309-just-in-us-treasury-reports-to-congress-that-using-bitcoin-and-crypto-privacy-mi",
+      "localUrl": "/news/20260309-just-in-us-treasury-reports-to-congress-that-using-bitcoin-and-crypto-privacy-mi.html"
     },
     {
       "source": "X Wire",
