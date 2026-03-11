@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-11T20:48:14.946Z</lastmod>
+    <lastmod>2026-03-11T21:46:26.820Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-11T20:48:14.946Z</lastmod>
+    <lastmod>2026-03-11T21:46:26.820Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260311-most-ai-chatbots-will-help-a-teen-plan-a-mass-shooting-study-finds.html</loc>
+    <lastmod>2026-03-11T21:33:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260311-ripple-to-buy-back-750m-in-shares-through-april-report.html</loc>
+    <lastmod>2026-03-11T21:19:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260311-mastercard-launches-crypto-partner-program-with-a-whos-who-of-industry.html</loc>
+    <lastmod>2026-03-11T20:52:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260311-ripple-begins-buying-back-shares-at-50-billion-valuation-bloomberg.html</loc>
@@ -55,7 +73,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260311-ripples-share-buyback-program-values-the-firm-at-50-billion-bloomberg.html</loc>
+    <loc>https://www.librchain.com/news/20260311-ripples-share-buyback-program-values-the-firm-at-50-billion.html</loc>
     <lastmod>2026-03-11T19:19:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -319,12 +337,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260311-wells-fargo-files-wfusd-trademark-for-crypto-payments-and-trading.html</loc>
-    <lastmod>2026-03-11T12:12:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260311-bitcoin-retreats-under-70k-as-iea-weighs-historic-oil-reserve-release.html</loc>
     <lastmod>2026-03-11T12:00:27.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -337,20 +349,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260311-binance-sues-wall-street-journal-amid-report-of-doj-iran-probe.html</loc>
-    <lastmod>2026-03-11T11:46:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260311-doj-seeks-forfeiture-of-34m-in-usdt-tied-to-ethereum-investment-scam.html</loc>
     <lastmod>2026-03-11T10:52:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260311-today-the-crypto-market-has-now-spent-40-consecutive-days-in-extreme-fear-curren.html</loc>
-    <lastmod>2026-03-11T10:09:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -373,6 +373,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260311-adoption-ghana-officially-kicks-off-its-crypto-pilot-with-11-companies-taking-pa.html</loc>
+    <lastmod>2026-03-11T05:00:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260311-ripple-seeks-australian-financial-license-to-scale-payments-across-the-region.html</loc>
     <lastmod>2026-03-11T03:15:47.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -381,6 +387,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260311-x-money-isnt-just-a-wallet-its-the-worlds-largest-crypto-on-ramp-stablecoins-glo.html</loc>
     <lastmod>2026-03-11T02:24:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260311-definitely-not-accurate-this-is-a-guess-a-number-list-at-least-for-me-bitcoincry.html</loc>
+    <lastmod>2026-03-11T02:00:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -411,12 +423,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260310-amazon-wins-court-order-blocking-perplexity-ai-shopping-agent.html</loc>
     <lastmod>2026-03-10T22:39:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260310-basketballfun-eyes-base-marketplace-launches-as-nba-star-tristan-thompson-depart.html</loc>
-    <lastmod>2026-03-10T21:55:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -453,12 +459,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260310-gen-z-turns-to-crypto-and-betting-for-wealth-many-gen-z-investors-are-turning-to.html</loc>
     <lastmod>2026-03-10T12:51:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260310-1-privacy-for-bitcoin-and-for-every-erc-20-introducing-strk20-a-privacy-capabili.html</loc>
-    <lastmod>2026-03-10T12:00:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
