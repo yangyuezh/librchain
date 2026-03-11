@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-11T08:58:15.459Z</lastmod>
+    <lastmod>2026-03-11T09:58:38.893Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-11T08:58:15.459Z</lastmod>
+    <lastmod>2026-03-11T09:58:38.893Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260311-bitcoin-etfs-add-251m-as-goldman-sachs-tops-xrp-etf-holders.html</loc>
+    <lastmod>2026-03-11T09:03:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260311-tokenized-assets-climb-to-236b-as-investors-seek-always-on-markets.html</loc>
@@ -69,6 +75,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260311-crypto-banks-need-to-be-a-bit-unhappy-for-bill-to-advance-senator.html</loc>
     <lastmod>2026-03-11T06:16:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260311-south-koreas-largest-crypto-exchange-upbit-announced-it-will-list-icp-with-tradi.html</loc>
+    <lastmod>2026-03-11T06:06:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -139,8 +151,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260311-bitcoin-permabull-arthur-hayes-says-he-wouldnt-bet-1-on-btc-right-now.html</loc>
+    <loc>https://www.librchain.com/news/20260311-arthur-hayes-says-hes-waiting-to-buy-bitcoin-until-fed-eases-policy.html</loc>
     <lastmod>2026-03-11T02:05:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260311-definitely-not-accurate-this-is-a-guess-a-number-list-at-least-for-me-bitcoincry.html</loc>
+    <lastmod>2026-03-11T02:00:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -271,12 +289,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260310-crypto-hacks-fall-to-49m-in-february-as-attackers-shift-to-phishing-scams.html</loc>
-    <lastmod>2026-03-10T19:06:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260310-senators-try-to-unlock-stalled-crypto-clarity-act-with-compromise-on-stablecoin-.html</loc>
     <lastmod>2026-03-10T19:00:12.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -327,12 +339,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260310-elon-musks-x-money-app-nears-public-launch-no-sign-of-dogecoin.html</loc>
     <lastmod>2026-03-10T16:20:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260310-my-lifes-mission-is-to-spread-entrepreneurship-and-venture-capital-around-the-wo.html</loc>
-    <lastmod>2026-03-10T16:00:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -477,12 +483,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260309-breaking-over-20-million-of-bitcoins-21-million-supply-cap-has-officially-been-m.html</loc>
     <lastmod>2026-03-09T14:03:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260309-breaking-michael-saylors-strategy-purchased-17994-bitcoin-for-128-billion-xcom.html</loc>
-    <lastmod>2026-03-09T12:01:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
