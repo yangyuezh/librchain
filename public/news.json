@@ -1,7 +1,64 @@
 {
-  "updatedAt": "2026-03-11T02:48:04.362Z",
+  "updatedAt": "2026-03-11T04:51:50.328Z",
   "total": 80,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum's on fire with record activity, but ether price and blockchain fees lag",
+      "summary": "Capital outflows, even as activity surges across Ethereum’s ecosystem, highlight the growing disconnect between usage growth and ETH’s market performance, a CryptoQuant report shows.",
+      "url": "https://www.coindesk.com/markets/2026/03/11/ethereum-network-activity-hits-record-highs-as-ether-price-and-fee-generation-lag",
+      "publishedAt": "2026-03-11T04:13:16.000Z",
+      "keywords": [
+        "Markets",
+        "ether ETF",
+        "Ethereum Fees",
+        "Ethereum Address",
+        "Ether Price",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260311-ethereums-on-fire-with-record-activity-but-ether-price-and-blockchain-fees-lag",
+      "localUrl": "/news/20260311-ethereums-on-fire-with-record-activity-but-ether-price-and-blockchain-fees-lag.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Nvidia's Huang: AI will boost jobs as it needs trillions in infrastructure",
+      "summary": "Nvidia founder Jensen Huang says AI will create countless jobs as buildout for the tech has only just started and will require many more workers.",
+      "url": "https://cointelegraph.com/news/ai-boost-jobs-trillions-dollars-infrastructure-needed-nvidia-huang?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-11T03:28:30.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260311-nvidias-huang-ai-will-boost-jobs-as-it-needs-trillions-in-infrastructure",
+      "localUrl": "/news/20260311-nvidias-huang-ai-will-boost-jobs-as-it-needs-trillions-in-infrastructure.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ripple Seeks Australian Financial License to 'Scale' Payments Across the Region",
+      "summary": "If approved, the license would allow Ripple to run services and bring its infrastructure into the country’s financial system.",
+      "url": "https://decrypt.co/360638/ripple-seeks-australian-license-scale-payments",
+      "publishedAt": "2026-03-11T03:15:47.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "综合",
+      "slug": "20260311-ripple-seeks-australian-financial-license-to-scale-payments-across-the-region",
+      "localUrl": "/news/20260311-ripple-seeks-australian-financial-license-to-scale-payments-across-the-region.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin is back in ‘FOMO territory’ after crossing $70K: Santiment",
+      "summary": "US President Donald Trump's recent comments about Iran helped trigger a Bitcoin rally, leading to an uptick in social media sentiment about Bitcoin.",
+      "url": "https://cointelegraph.com/news/bitcoin-sentiment-jumps-back-into-fomo-territory-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-11T03:03:33.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260311-bitcoin-is-back-in-fomo-territory-after-crossing-70k-santiment",
+      "localUrl": "/news/20260311-bitcoin-is-back-in-fomo-territory-after-crossing-70k-santiment.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin permabull Arthur Hayes says he wouldn't bet $1 on BTC right now",
@@ -53,6 +110,17 @@
       "category": "市场",
       "slug": "20260310-quantum-computing-isnt-just-coming-for-bitcoinit-threatens-messaging-apps-too",
       "localUrl": "/news/20260310-quantum-computing-isnt-just-coming-for-bitcoinit-threatens-messaging-apps-too.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "The 20 millionth Bitcoin was mined yesterday. Now there are only one million new Bitcoins to be mined, which will take over 100 years. Decentralized, inflation-proof, global money. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtV3FTSEd0VUQ3TnQzRnRISGtwLWlfVVRBMTVVRnZHMlVHQ3UyNnE1QU41XzZxLWdSTi1KNGpsNlE4M2VPY0FMcGhIM1U1d3JRN2FsSm5mVmotVFpDaEx6dWhubHVUd0E?oc=5\" target=\"_blank\">The 20 millionth Bitcoin wa…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtV3FTSEd0VUQ3TnQzRnRISGtwLWlfVVRBMTVVRnZHMlVHQ3UyNnE1QU41XzZxLWdSTi1KNGpsNlE4M2VPY0FMcGhIM1U1d3JRN2FsSm5mVmotVFpDaEx6dWhubHVUd0E?oc=5",
+      "publishedAt": "2026-03-10T23:52:39.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260310-the-20-millionth-bitcoin-was-mined-yesterday-now-there-are-only-one-million-new-",
+      "localUrl": "/news/20260310-the-20-millionth-bitcoin-was-mined-yesterday-now-there-are-only-one-million-new-.html"
     },
     {
       "source": "Decrypt",
@@ -718,19 +786,6 @@
       "localUrl": "/news/20260310-stablecoin-market-hits-312-billion-as-banks-card-networks-embrace-onchain-dollar.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Trust Wallet adds real-time scam address checks for crypto users",
-      "summary": "Trust Wallet launched address poisoning protection on 32 EVM chains, adding scam address screening as wallet security pressure intensifies.",
-      "url": "https://cointelegraph.com/news/trust-wallet-address-poisoning-protection-32-evm-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-10T14:18:31.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260310-trust-wallet-adds-real-time-scam-address-checks-for-crypto-users",
-      "localUrl": "/news/20260310-trust-wallet-adds-real-time-scam-address-checks-for-crypto-users.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨 TODAY: Bitcoin balance on exchanges hit an all-time low. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QUEZiakY2NHpMZFByZTBQMEhLdF9HeHVNck9PS1A5dU90ZVYtWC1WOU5TMWZmRkJ2ZElpcnJkYUpyTWxsbmNXMmVheVhUd3QxejgzUmZjVzJ2OTF1WnFPX25TYVM?oc=5\" target=\"_blank\">🚨 TODAY: Bitcoin balance on ex…",
@@ -740,19 +795,6 @@
       "category": "X热点",
       "slug": "20260310-today-bitcoin-balance-on-exchanges-hit-an-all-time-low-xcom",
       "localUrl": "/news/20260310-today-bitcoin-balance-on-exchanges-hit-an-all-time-low-xcom.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "CFTC chair backs blockchain-based prediction markets as ‘truth machines’",
-      "summary": "Michael Selig said blockchain-powered prediction markets could improve price discovery and public information, even as several US states challenge the platforms in court.",
-      "url": "https://cointelegraph.com/news/cftc-chair-backs-blockchain-prediction-markets-truth-machines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-10T13:38:19.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260310-cftc-chair-backs-blockchain-based-prediction-markets-as-truth-machines",
-      "localUrl": "/news/20260310-cftc-chair-backs-blockchain-based-prediction-markets-as-truth-machines.html"
     },
     {
       "source": "Decrypt",
@@ -824,23 +866,6 @@
       "category": "RWA",
       "slug": "20260310-morning-minute-saylor-buys-128b-in-bitcoin-powered-by-strc",
       "localUrl": "/news/20260310-morning-minute-saylor-buys-128b-in-bitcoin-powered-by-strc.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Slumping Strategy and Strive started with buy ratings at B. Riley",
-      "summary": "The bank said the bitcoin treasury sector’s slump reset valuations, but opened the door for new digital credit financing models that could revive growth.",
-      "url": "https://www.coindesk.com/markets/2026/03/10/slumping-strategy-and-strive-started-with-buy-ratings-at-b-riley",
-      "publishedAt": "2026-03-10T12:42:03.000Z",
-      "keywords": [
-        "Markets",
-        "Strategy",
-        "Digital Asset Treasury",
-        "B. Riley",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260310-slumping-strategy-and-strive-started-with-buy-ratings-at-b-riley",
-      "localUrl": "/news/20260310-slumping-strategy-and-strive-started-with-buy-ratings-at-b-riley.html"
     },
     {
       "source": "Decrypt",
@@ -985,19 +1010,6 @@
       "localUrl": "/news/20260310-elon-musks-grok-faces-uk-backlash-after-ai-posts-mock-football-tragedies.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Bitcoin Shows ‘Tentative Signs of Improvement’ as Iran Conflict Fears Wane",
-      "summary": "Oil’s sharp swing and renewed Bitcoin ETF inflows highlight a fragile rebound as on-chain data suggest crypto market stress may be easing.",
-      "url": "https://decrypt.co/360512/bitcoin-tentative-signs-iran-conflict-fears-wane",
-      "publishedAt": "2026-03-10T01:21:36.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260310-bitcoin-shows-tentative-signs-of-improvement-as-iran-conflict-fears-wane",
-      "localUrl": "/news/20260310-bitcoin-shows-tentative-signs-of-improvement-as-iran-conflict-fears-wane.html"
-    },
-    {
       "source": "X Wire",
       "title": "The Ethereum Foundation is using DVT-lite to stake 72,000 ETH: firefly.social/post/x/2026218… My hope for this project is that in the process, we can make it maximally easy and one-click to do distributed staking for institutions. Choose which computers run yo - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZMVhoQm1OX2hUUjdGeUgyakFlaEJzU1ZKQUNkTkszbWRZUVNjcDJ5NmlXdm5IdEFhVWdtZXNJT1l4dW8tQ2VEUzRScEhyU1JTUEtUWWZTVkI3SlJsS01sQmw5R0I2UQ?oc=5\" target=\"_blank\">The Ethereum Foundation is u…",
@@ -1007,17 +1019,6 @@
       "category": "X热点",
       "slug": "20260309-the-ethereum-foundation-is-using-dvt-lite-to-stake-72000-eth-fireflysocialpostx2",
       "localUrl": "/news/20260309-the-ethereum-foundation-is-using-dvt-lite-to-stake-72000-eth-fireflysocialpostx2.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "It's a good post, and thanks for your contributions to improving frame txs! I would also add: * Frame txs are also meant to cover a long-tail of privacy and censorship resistance use cases. They enable Railgun, PP, etc to work without public broadcaster intermedi - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLSUtXZlNlMEdXZWZrajVzeEd5cGEyMDZKQ0doeFZ2b08wc2FVdzMxeXdPR3BsQVB0T0M5WHBpZENFS2lMWFp2Y0pHQlFZeXg4Zk12Z1NPQkNXd2FhLUNWSXR3cWFaQQ?oc=5\" target=\"_blank\">It's a good post, and thanks…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLSUtXZlNlMEdXZWZrajVzeEd5cGEyMDZKQ0doeFZ2b08wc2FVdzMxeXdPR3BsQVB0T0M5WHBpZENFS2lMWFp2Y0pHQlFZeXg4Zk12Z1NPQkNXd2FhLUNWSXR3cWFaQQ?oc=5",
-      "publishedAt": "2026-03-09T22:31:58.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260309-its-a-good-post-and-thanks-for-your-contributions-to-improving-frame-txs-i-would",
-      "localUrl": "/news/20260309-its-a-good-post-and-thanks-for-your-contributions-to-improving-frame-txs-i-would.html"
     },
     {
       "source": "X Wire",
@@ -1043,14 +1044,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Bhutan just moved another $11 Million of Bitcoin out of its main holding addresses. The last time they did this was 1 month ago, and they were selling $7 Million of BTC with QCP Capital. Bhutan periodically sells portions of its Bitcoin in clips of $5-10M, with a p - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xeWlZaWNBRXkxSkVzWTcxQTB5Wk1uM3Fnd3RoTGUxNVNOYV9GVmRsRjF0ckxBYjVtM1pHdlM3a0R1TUpKUzdRX2lnQW5CWVBWSmRzY3RMQnNvUEk?oc=5\" target=\"_blank\">Bhutan just moved another $11 Million of Bi…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xeWlZaWNBRXkxSkVzWTcxQTB5Wk1uM3Fnd3RoTGUxNVNOYV9GVmRsRjF0ckxBYjVtM1pHdlM3a0R1TUpKUzdRX2lnQW5CWVBWSmRzY3RMQnNvUEk?oc=5",
-      "publishedAt": "2026-03-09T15:51:07.000Z",
+      "title": "ERC-8183 is one of the missing pieces in the Ethereum Open Agentic Economy we're building. - x402 for micropayments - 8004 for trust and discovery - 8183 for *conditional* payments At the core ERC-8183 is an extensible and flexible escrow mechanism for - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xLUg4UXRzNXZRYXkxTkkzMkI1Q2txVmtuZVZmUXN1eWY3X21wbVN5TG5XU3prQ01FY0F0aGl1TzlpSTJ3WHg1MzRnQmJKLUJpSWlZc0R2Vl9qS2pNNk5ERFFndw?oc=5\" target=\"_blank\">ERC-8183 is one of the missing p…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xLUg4UXRzNXZRYXkxTkkzMkI1Q2txVmtuZVZmUXN1eWY3X21wbVN5TG5XU3prQ01FY0F0aGl1TzlpSTJ3WHg1MzRnQmJKLUJpSWlZc0R2Vl9qS2pNNk5ERFFndw?oc=5",
+      "publishedAt": "2026-03-09T16:29:15.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260309-bhutan-just-moved-another-11-million-of-bitcoin-out-of-its-main-holding-addresse",
-      "localUrl": "/news/20260309-bhutan-just-moved-another-11-million-of-bitcoin-out-of-its-main-holding-addresse.html"
+      "slug": "20260309-erc-8183-is-one-of-the-missing-pieces-in-the-ethereum-open-agentic-economy-were-",
+      "localUrl": "/news/20260309-erc-8183-is-one-of-the-missing-pieces-in-the-ethereum-open-agentic-economy-were-.html"
     },
     {
       "source": "X Wire",
