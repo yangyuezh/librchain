@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-12T20:50:37.069Z</lastmod>
+    <lastmod>2026-03-12T21:46:33.652Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-12T20:50:37.069Z</lastmod>
+    <lastmod>2026-03-12T21:46:33.652Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260312-secs-crypto-mom-calls-for-simpler-disclosure-rules-flags-tokenization-debate.html</loc>
+    <lastmod>2026-03-12T21:40:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260312-anchorage-digital-ties-in-puffer-finance-for-institutional-ethereum-restaking.html</loc>
+    <lastmod>2026-03-12T21:16:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260312-ofac-targets-north-korean-it-worker-networks-using-cryptocurrency-to-fund-wmd-pr.html</loc>
@@ -339,18 +351,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260312-binance-says-us-midterms-could-boost-bitcoin-and-stocks.html</loc>
     <lastmod>2026-03-12T12:45:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260312-perp-dexs-become-the-latest-battleground-for-blockchains.html</loc>
-    <lastmod>2026-03-12T12:42:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260312-why-ray-dalio-says-bitcoin-cant-replace-gold.html</loc>
-    <lastmod>2026-03-12T12:31:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
