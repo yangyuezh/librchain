@@ -1,7 +1,111 @@
 {
-  "updatedAt": "2026-03-12T15:05:47.157Z",
+  "updatedAt": "2026-03-12T16:13:49.845Z",
   "total": 81,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Here is what $100 oil means for Bitcoin network",
+      "summary": "Research shows that only 8% to 10% of global Bitcoin hashrate runs in oil-sensitive power markets, suggesting that geopolitical shocks may affect BTC prices more than mining costs.",
+      "url": "https://www.coindesk.com/markets/2026/03/12/here-is-what-usd100-oil-means-for-bitcoin-network",
+      "publishedAt": "2026-03-12T15:57:54.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin Mining",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260312-here-is-what-100-oil-means-for-bitcoin-network",
+      "localUrl": "/news/20260312-here-is-what-100-oil-means-for-bitcoin-network.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Alleged Ponzi scheme victims sue JPMorgan for banking supposed $328 million scam",
+      "summary": "The proposed class action suit said Chase provided “the essential banking infrastructure” for Goliath Ventures’ alleged fraud, despite red flags it claims made the scheme “obvious.”",
+      "url": "https://www.coindesk.com/business/2026/03/12/alleged-ponzi-scheme-victims-sue-jpmorgan-for-banking-supposed-usd328-million-scam",
+      "publishedAt": "2026-03-12T15:48:34.000Z",
+      "keywords": [
+        "Finance",
+        "JPMorgan Chase",
+        "Ponzi scheme",
+        "Crypto Fraud",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260312-alleged-ponzi-scheme-victims-sue-jpmorgan-for-banking-supposed-328-million-scam",
+      "localUrl": "/news/20260312-alleged-ponzi-scheme-victims-sue-jpmorgan-for-banking-supposed-328-million-scam.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holds $70,000 level as surging oil prices and credit issues have stocks tumbling",
+      "summary": "U.S. President Trump said stopping Iran is more of a concern than oil prices, as crude climbed 10% on Thursday.",
+      "url": "https://www.coindesk.com/markets/2026/03/12/bitcoin-holds-usd70-000-level-as-surging-oil-prices-and-credit-issues-have-stocks-tumbling",
+      "publishedAt": "2026-03-12T15:41:33.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Oil Markets",
+        "Market Wrap",
+        "Breaking News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260312-bitcoin-holds-70000-level-as-surging-oil-prices-and-credit-issues-have-stocks-tu",
+      "localUrl": "/news/20260312-bitcoin-holds-70000-level-as-surging-oil-prices-and-credit-issues-have-stocks-tu.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cathie Wood's Ark Invest says quantum computing is a long-term risk for bitcoin, not an imminent threat",
+      "summary": "Today’s quantum computers are far from breaking Bitcoin’s cryptography and any real threat would likely emerge gradually, giving the network time to adapt.",
+      "url": "https://www.coindesk.com/tech/2026/03/12/cathie-wood-s-ark-invest-says-quantum-computing-is-a-long-term-risk-for-bitcoin-not-an-imminent-threat",
+      "publishedAt": "2026-03-12T15:28:13.000Z",
+      "keywords": [
+        "Tech",
+        "Bitcoin News",
+        "quantum computing",
+        "ARK Invest",
+        "Unchained",
+        "Analysts",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260312-cathie-woods-ark-invest-says-quantum-computing-is-a-long-term-risk-for-bitcoin-n",
+      "localUrl": "/news/20260312-cathie-woods-ark-invest-says-quantum-computing-is-a-long-term-risk-for-bitcoin-n.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Prediction markets get tailored U.S. guidance from former foe CFTC",
+      "summary": "The agency that once fought the events contracts platforms in court has now issued a new policy stance and is proposing permanent rules for oversight.",
+      "url": "https://www.coindesk.com/policy/2026/03/12/prediction-markets-get-tailored-u-s-guidance-from-former-foe-cftc",
+      "publishedAt": "2026-03-12T15:26:42.000Z",
+      "keywords": [
+        "Policy",
+        "Prediction Markets",
+        "U.S. Commodity Futures Trading Commission",
+        "Kalshi",
+        "Polymarket",
+        "Regulations",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260312-prediction-markets-get-tailored-us-guidance-from-former-foe-cftc",
+      "localUrl": "/news/20260312-prediction-markets-get-tailored-us-guidance-from-former-foe-cftc.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Vitalik Buterin says Ethereum should be used as a simple digital bulletin board",
+      "summary": "Ethereum’s co-founder wants developers to stop forcing blockchain into every problem and start treating it as a reliable, shared memory for the digital world.",
+      "url": "https://www.coindesk.com/tech/2026/03/12/vitalik-buterin-says-ethereum-should-be-used-as-a-simple-digital-bulletin-board",
+      "publishedAt": "2026-03-12T15:25:31.000Z",
+      "keywords": [
+        "Tech",
+        "Ethereum News",
+        "Vitalik Buterin",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260312-vitalik-buterin-says-ethereum-should-be-used-as-a-simple-digital-bulletin-board",
+      "localUrl": "/news/20260312-vitalik-buterin-says-ethereum-should-be-used-as-a-simple-digital-bulletin-board.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Circle’s outperformance highlights USDC’s staying power, says bullish Wall Street analyst",
@@ -180,6 +284,17 @@
       "category": "监管",
       "slug": "20260312-not-your-keys-not-your-coins-what-true-self-custody-actually-requires",
       "localUrl": "/news/20260312-not-your-keys-not-your-coins-what-true-self-custody-actually-requires.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "I was recently at Real World Crypto (that's crypto as in cryptography) and the associated side events, and one thing that struck me was that it was a clarifying experience in terms of understanding *what blockchains are for*. We blockchain people (myself includ - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE82LW1qS1I2cFhScE9IemQtbjZtLUlObkJFSTlHZnlxQU9kNUNqSWtIM0c5MVpuMkZjM21ZZTFqQUlVcXlwc2J6aV9Ha3NSZ2dNaW9wRy1hWGRSQ3BSSlVkVE1lRF91Zw?oc=5\" target=\"_blank\">I was recently at Real World…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82LW1qS1I2cFhScE9IemQtbjZtLUlObkJFSTlHZnlxQU9kNUNqSWtIM0c5MVpuMkZjM21ZZTFqQUlVcXlwc2J6aV9Ha3NSZ2dNaW9wRy1hWGRSQ3BSSlVkVE1lRF91Zw?oc=5",
+      "publishedAt": "2026-03-12T13:49:40.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260312-i-was-recently-at-real-world-crypto-thats-crypto-as-in-cryptography-and-the-asso",
+      "localUrl": "/news/20260312-i-was-recently-at-real-world-crypto-thats-crypto-as-in-cryptography-and-the-asso.html"
     },
     {
       "source": "Cointelegraph",
@@ -544,23 +659,6 @@
       "localUrl": "/news/20260312-bitcoin-climbs-the-wall-of-worry-amid-escalating-iran-war-and-stock-market-losse.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin steady near $70,000 as rising open interest hints at cautious, bearish positioning",
-      "summary": "Bitcoin traded around $69,800 as open interest rose to $102 billion, suggesting defensive, bearish bets while altcoins outperformed in a risk-off macro backdrop.",
-      "url": "https://www.coindesk.com/markets/2026/03/12/bitcoin-steady-near-usd70-000-as-rising-open-interest-hints-at-cautious-bearish-positioning",
-      "publishedAt": "2026-03-12T10:33:01.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "Derivatives",
-        "Altcoins",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260312-bitcoin-steady-near-70000-as-rising-open-interest-hints-at-cautious-bearish-posi",
-      "localUrl": "/news/20260312-bitcoin-steady-near-70000-as-rising-open-interest-hints-at-cautious-bearish-posi.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin Miners ‘Sitting on a Gold Mine’ as AI Demand Ramps Up: VanEck",
       "summary": "VanEck’s Matthew Sigel argued miners are redirecting infrastructure to AI while trading at a discount to traditional data-center peers.",
@@ -624,74 +722,6 @@
       "localUrl": "/news/20260312-bonkfun-warns-hackers-hijacked-domain-in-wallet-drainer-attack.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Former Petronas head of oil trading is putting the $6 trillion crude market on blockchain",
-      "summary": "LITRO aims to modernize the $6 trillion oil market by replacing slow, paper-based settlement with 24/7, on-chain trading and redemption.",
-      "url": "https://www.coindesk.com/markets/2026/03/12/meet-litro-the-tokenized-crude-project-to-start-pilot-testing-soon-for-2027-debut",
-      "publishedAt": "2026-03-12T07:15:22.000Z",
-      "keywords": [
-        "Markets",
-        "blockchain contracts",
-        "Tokenization",
-        "Oil",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260312-former-petronas-head-of-oil-trading-is-putting-the-6-trillion-crude-market-on-bl",
-      "localUrl": "/news/20260312-former-petronas-head-of-oil-trading-is-putting-the-6-trillion-crude-market-on-bl.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Asia’s biggest bitcoin buyer now wants to build the BTC ecosystem",
-      "summary": "Tokyo-listed Metaplanet is expanding beyond holding BTC into funding, incubating, and granting to companies building bitcoin financial infrastructure.",
-      "url": "https://www.coindesk.com/markets/2026/03/12/asia-s-biggest-bitcoin-buyer-now-wants-to-further-build-the-btc-ecosystem",
-      "publishedAt": "2026-03-12T06:55:28.000Z",
-      "keywords": [
-        "Markets",
-        "MetaPlanet",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260312-asias-biggest-bitcoin-buyer-now-wants-to-build-the-btc-ecosystem",
-      "localUrl": "/news/20260312-asias-biggest-bitcoin-buyer-now-wants-to-build-the-btc-ecosystem.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Across's acx rockets 80%, massively beating bitcoin, on plans to dump its DAO structure",
-      "summary": "The bridging protocol's team wants to exchange ACX tokens for equity in a new U.S. C-corp or buy holders out at a 25% premium, in what would be one of the first major reversals from token to traditional corporate structure.",
-      "url": "https://www.coindesk.com/markets/2026/03/12/across-s-acx-rockets-80-massively-beating-bitcoin-on-plans-to-dump-its-dao-structure",
-      "publishedAt": "2026-03-12T06:41:30.000Z",
-      "keywords": [
-        "Markets",
-        "btc",
-        "DAOs",
-        "Decentralized Autonomous Organizations",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260312-acrosss-acx-rockets-80-massively-beating-bitcoin-on-plans-to-dump-its-dao-struct",
-      "localUrl": "/news/20260312-acrosss-acx-rockets-80-massively-beating-bitcoin-on-plans-to-dump-its-dao-struct.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto code commits fall 75% as developers move to AI projects",
-      "summary": "Developers are shifting toward artificial intelligence infrastructure as blockchain ecosystems lose contributors across major networks, from Ethereum to Solana.",
-      "url": "https://www.coindesk.com/tech/2026/03/12/crypto-developer-activity-sinks-to-multi-year-low-as-ai-absorbs-github-s-talent-boom",
-      "publishedAt": "2026-03-12T06:39:54.000Z",
-      "keywords": [
-        "Tech",
-        "Developers",
-        "bitcoin developers",
-        "EVM",
-        "Ethereum Virtual Machine",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260312-crypto-code-commits-fall-75-as-developers-move-to-ai-projects",
-      "localUrl": "/news/20260312-crypto-code-commits-fall-75-as-developers-move-to-ai-projects.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "New Zealand regulator says NZDD stablecoin not a financial product",
       "summary": "Law firm MinterEllisonRuddWatts, which acted on behalf of the stablecoin’s issuer, says the designation of the token is an important step for regulatory clarity.",
@@ -703,20 +733,6 @@
       "category": "监管",
       "slug": "20260312-new-zealand-regulator-says-nzdd-stablecoin-not-a-financial-product",
       "localUrl": "/news/20260312-new-zealand-regulator-says-nzdd-stablecoin-not-a-financial-product.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP steadies near $1.38 as Bollinger squeeze hints at breakout",
-      "summary": "The U.S. Consumer Price Index release tends to influence Federal Reserve policy expectations and risk appetite.",
-      "url": "https://www.coindesk.com/markets/2026/03/12/xrp-steadies-near-usd1-38-as-bollinger-squeeze-hints-at-breakout-before-cpi",
-      "publishedAt": "2026-03-12T05:15:46.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260312-xrp-steadies-near-138-as-bollinger-squeeze-hints-at-breakout",
-      "localUrl": "/news/20260312-xrp-steadies-near-138-as-bollinger-squeeze-hints-at-breakout.html"
     },
     {
       "source": "Decrypt",
@@ -966,17 +982,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Ethereum is no longer a single execution environment. It is an ecosystem of chains. But chain identities today live in GitHub files, client-side mappings, and app-specific logic. There is no shared source of truth. on.eth introduces one. 🧵 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ONEY2TEdpblh2d2VBWVFRQW5WN3pWNUxJeWZIc2M2bnM2Y0FvX2xWNHFTd3R0aXZuNVZ2dEVkX1JxV2VlTXIteDlhQjZnelR0R2FNcDY4cmlXYlEzNUJTbw?oc=5\" target=\"_blank\">Ethereum is no longer a single execu…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ONEY2TEdpblh2d2VBWVFRQW5WN3pWNUxJeWZIc2M2bnM2Y0FvX2xWNHFTd3R0aXZuNVZ2dEVkX1JxV2VlTXIteDlhQjZnelR0R2FNcDY4cmlXYlEzNUJTbw?oc=5",
-      "publishedAt": "2026-03-11T15:31:22.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260311-ethereum-is-no-longer-a-single-execution-environment-it-is-an-ecosystem-of-chain",
-      "localUrl": "/news/20260311-ethereum-is-no-longer-a-single-execution-environment-it-is-an-ecosystem-of-chain.html"
-    },
-    {
-      "source": "X Wire",
       "title": "JUST IN: Mastercard launches program to connect crypto blockchain payments with global banking, partnering with 85+ companies including: • Circle • Paxos • Ripple • PayPal • Gemini • Binance - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE44QW9Xa05pZzlQbl9wc0ozek1JenJycnpkTlFzMHNMSFd3R0RxdG5KRkpxTm80OVZPeWc4MGpKZDdwYVQwNjRNLTlMSXRXX2ZXWktSMjQ2eGVKMG1ocVY1Rmh3?oc=5\" target=\"_blank\">JUST IN: Mastercard launches progr…",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44QW9Xa05pZzlQbl9wc0ozek1JenJycnpkTlFzMHNMSFd3R0RxdG5KRkpxTm80OVZPeWc4MGpKZDdwYVQwNjRNLTlMSXRXX2ZXWktSMjQ2eGVKMG1ocVY1Rmh3?oc=5",
@@ -1043,6 +1048,17 @@
     },
     {
       "source": "X Wire",
+      "title": "🇬🇭 ADOPTION: Ghana officially kicks off its crypto pilot with 11 companies taking part in the yearlong experiment. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aTmN3bDMzcGtibXQtOTg5bk9hMjlhOVR5cmxpaF9SYVNmblRLai1wQnNsbWxiY2xpNDdEMjJpeWFSRUVMcGVlMjVnUEhkcTlyb1AtLWxiMXlVQmVlamZjbElNRDU?oc=5\" target=\"_blank\">🇬🇭 ADOPTION: Ghana officially…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aTmN3bDMzcGtibXQtOTg5bk9hMjlhOVR5cmxpaF9SYVNmblRLai1wQnNsbWxiY2xpNDdEMjJpeWFSRUVMcGVlMjVnUEhkcTlyb1AtLWxiMXlVQmVlamZjbElNRDU?oc=5",
+      "publishedAt": "2026-03-11T05:00:22.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260311-adoption-ghana-officially-kicks-off-its-crypto-pilot-with-11-companies-taking-pa",
+      "localUrl": "/news/20260311-adoption-ghana-officially-kicks-off-its-crypto-pilot-with-11-companies-taking-pa.html"
+    },
+    {
+      "source": "X Wire",
       "title": "The 20 millionth Bitcoin was mined yesterday. Now there are only one million new Bitcoins to be mined, which will take over 100 years. Decentralized, inflation-proof, global money. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtV3FTSEd0VUQ3TnQzRnRISGtwLWlfVVRBMTVVRnZHMlVHQ3UyNnE1QU41XzZxLWdSTi1KNGpsNlE4M2VPY0FMcGhIM1U1d3JRN2FsSm5mVmotVFpDaEx6dWhubHVUd0E?oc=5\" target=\"_blank\">The 20 millionth Bitcoin wa…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtV3FTSEd0VUQ3TnQzRnRISGtwLWlfVVRBMTVVRnZHMlVHQ3UyNnE1QU41XzZxLWdSTi1KNGpsNlE4M2VPY0FMcGhIM1U1d3JRN2FsSm5mVmotVFpDaEx6dWhubHVUd0E?oc=5",
@@ -1065,14 +1081,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Where is Bitcoin headed next? @CryptoHayes latest takes might surprise you. Full show streaming now 🎧 TIMESTAMPS: 00:00 Arthur Hayes’ origin story 8:33 Bullish or bearish on Bitcoin 9:59 Institutions taking over Bitcoin? 11:52 Bitcoin price manipulation 1 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE12d0xKOGE0QnlmN0RXSG9GM0MtNEJjN1pPOGNKeHhTU3ljS2RXQ3pfZ3drWjRKU3NiWEdVcXJwN3dXVlNBNG94MHVCNm5XcXpYaTR6QWJFd1BJQ3ZpdGJYdg?oc=5\" target=\"_blank\">Where is Bitcoin headed next? @Crypt…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12d0xKOGE0QnlmN0RXSG9GM0MtNEJjN1pPOGNKeHhTU3ljS2RXQ3pfZ3drWjRKU3NiWEdVcXJwN3dXVlNBNG94MHVCNm5XcXpYaTR6QWJFd1BJQ3ZpdGJYdg?oc=5",
-      "publishedAt": "2026-03-10T21:14:27.000Z",
+      "title": "BREAKING: 🇮🇷 Iran has begun laying sea mines in the Strait of Hormuz to choke the world’s 20% oil supply, per CNN. 🇺🇸 Trump demands Iran immediately remove all mines from the Strait of Hormuz or face military consequences NEVER SEEN BEFORE. Ye - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QUDRYeHA4SldtanVhTEEyZnNXX2RhZUZNeERaNUNxQjFxNndtMHVUa0dlN2J1MERwbl9Rb3RITjBRakNoSEJNcW01clVzNHNrbnUzR0lJUVlOUy1mRUZR?oc=5\" target=\"_blank\">BREAKING: 🇮🇷 Iran has begun laying s…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QUDRYeHA4SldtanVhTEEyZnNXX2RhZUZNeERaNUNxQjFxNndtMHVUa0dlN2J1MERwbl9Rb3RITjBRakNoSEJNcW01clVzNHNrbnUzR0lJUVlOUy1mRUZR?oc=5",
+      "publishedAt": "2026-03-10T19:52:55.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260310-where-is-bitcoin-headed-next-cryptohayes-latest-takes-might-surprise-you-full-sh",
-      "localUrl": "/news/20260310-where-is-bitcoin-headed-next-cryptohayes-latest-takes-might-surprise-you-full-sh.html"
+      "slug": "20260310-breaking-iran-has-begun-laying-sea-mines-in-the-strait-of-hormuz-to-choke-the-wo",
+      "localUrl": "/news/20260310-breaking-iran-has-begun-laying-sea-mines-in-the-strait-of-hormuz-to-choke-the-wo.html"
     },
     {
       "source": "X Wire",
@@ -1095,17 +1111,6 @@
       "category": "X热点",
       "slug": "20260310-gen-z-turns-to-crypto-and-betting-for-wealth-many-gen-z-investors-are-turning-to",
       "localUrl": "/news/20260310-gen-z-turns-to-crypto-and-betting-for-wealth-many-gen-z-investors-are-turning-to.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "NEW: Michael Saylor's Strategy files an amendment that would allow them to sell more shares in premarket and after hours trading to buy more bitcoin 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84MzJZb1pSM0hHYVB5VzBGUmhwUmY3TF9rUEUyRlRCTVJwT1BocHN5OU1sSG5aQmxXX1l0Ynl1Z1J4cTZjRG1IZDBXYlJKd01WbzJQV1pFWmc0MmtZN2xJeXJtT1pNU1E?oc=5\" target=\"_blank\">NEW: Michael Saylor's Strat…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84MzJZb1pSM0hHYVB5VzBGUmhwUmY3TF9rUEUyRlRCTVJwT1BocHN5OU1sSG5aQmxXX1l0Ynl1Z1J4cTZjRG1IZDBXYlJKd01WbzJQV1pFWmc0MmtZN2xJeXJtT1pNU1E?oc=5",
-      "publishedAt": "2026-03-09T21:13:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260309-new-michael-saylors-strategy-files-an-amendment-that-would-allow-them-to-sell-mo",
-      "localUrl": "/news/20260309-new-michael-saylors-strategy-files-an-amendment-that-would-allow-them-to-sell-mo.html"
     }
   ]
 }
