@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-13T19:44:25.834Z</lastmod>
+    <lastmod>2026-03-13T20:51:25.964Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-13T19:44:25.834Z</lastmod>
+    <lastmod>2026-03-13T20:51:25.964Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-ether-accumulation-data-predicts-rally-to-28k-but-theres-a-catch.html</loc>
+    <lastmod>2026-03-13T20:34:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-crypto-biz-circle-stock-defies-wall-street-and-digital-asset-selloff.html</loc>
+    <lastmod>2026-03-13T20:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-circle-overtakes-blackrock-in-tokenized-treasuries-as-market-hits-record-11-bill.html</loc>
+    <lastmod>2026-03-13T19:41:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260313-fbi-investigating-after-malware-found-lurking-in-steam-pc-games.html</loc>
@@ -69,6 +87,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-arthur-hayes-strong-revenue-and-real-trading-could-send-hype-to-150.html</loc>
     <lastmod>2026-03-13T17:17:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-just-in-bitcoin-supply-on-exchanges-are-heading-towards-new-lows-bullish-xcom.html</loc>
+    <lastmod>2026-03-13T17:05:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -181,12 +205,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260313-building-with-bitcoin-your-users-deserve-the-best-pact-swap-is-just-an-api-integ.html</loc>
-    <lastmod>2026-03-13T14:00:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260313-doj-and-europol-take-down-socksescort-network-tied-to-crypto-fraud.html</loc>
     <lastmod>2026-03-13T13:59:35.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -223,6 +241,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260313-new-14-trillion-blackrock-says-bitcoin-etf-investors-are-long-term-buy-and-hold-.html</loc>
+    <lastmod>2026-03-13T12:21:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260313-bitcoins-building-steam-and-a-3-billion-trigger-could-make-it-wild.html</loc>
     <lastmod>2026-03-13T11:28:40.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -253,6 +277,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260313-breaking-us-has-lifted-sanctions-on-russian-oil-temporarily-xcom.html</loc>
+    <lastmod>2026-03-13T10:38:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260313-bitcoin-passing-geopolitical-stress-test-as-btc-price-spikes-above-72k.html</loc>
     <lastmod>2026-03-13T09:58:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -261,18 +291,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-bitcoin-holds-above-71000-defying-rising-dollar-oil-and-us-bond-yields.html</loc>
     <lastmod>2026-03-13T09:32:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-sweden-probes-reported-leak-of-e-government-platform-source-code.html</loc>
-    <lastmod>2026-03-13T09:24:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-chinas-alibaba-joins-stablecoin-platform-metacomps-35m-fundraise.html</loc>
-    <lastmod>2026-03-13T08:50:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -357,12 +375,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260312-crypto-trader-loses-nearly-50m-in-aave-trade-protocol-offers-600k-fee-refund.html</loc>
     <lastmod>2026-03-12T22:49:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260312-stricter-mica-rules-could-thin-crypto-industry-across-the-eu-says-swiss-wealth-m.html</loc>
-    <lastmod>2026-03-12T22:47:43.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -457,12 +469,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260312-tether-built-an-internal-bitcoin-dedicated-dashboard-to-help-our-teams-to-suppor.html</loc>
-    <lastmod>2026-03-12T14:46:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260312-just-in-michael-saylors-strategy-is-estimated-to-have-already-bought-over-1001-b.html</loc>
     <lastmod>2026-03-12T14:08:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -501,12 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260311-just-in-mastercard-launches-new-crypto-partner-program-to-focus-on-cross-border-.html</loc>
     <lastmod>2026-03-11T12:16:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260311-blockchain-technology-can-make-transactions-faster-simpler-and-available-247-the.html</loc>
-    <lastmod>2026-03-11T09:09:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
