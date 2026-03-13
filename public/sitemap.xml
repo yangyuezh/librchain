@@ -2,15 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-13T14:59:01.867Z</lastmod>
+    <lastmod>2026-03-13T15:56:02.317Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-13T14:59:01.867Z</lastmod>
+    <lastmod>2026-03-13T15:56:02.317Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-pip-labs-sheds-staff-as-story-protocol-leans-into-ai.html</loc>
+    <lastmod>2026-03-13T15:48:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-ethereum-foundation-publishes-new-mandate-defining-its-role-core-principles.html</loc>
+    <lastmod>2026-03-13T15:47:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-bitcoin-miners-saw-the-ai-power-crunch-coming-and-the-nuclear-revival.html</loc>
+    <lastmod>2026-03-13T15:40:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-stablecoins-bitcoin-could-reshape-finance-stanley-druckenmiller-says.html</loc>
+    <lastmod>2026-03-13T15:28:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-circles-usdc-volumes-top-tethers-usdt-for-first-time-since-2019-prompting-sell-s.html</loc>
+    <lastmod>2026-03-13T15:18:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-bitcoin-price-eyes-74k-rematch-as-us-pce-inflation-boosts-crypto-stocks.html</loc>
+    <lastmod>2026-03-13T14:58:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260313-dubais-token2049-ton-crypto-conferences-canceled-as-iran-conflict-rages-on.html</loc>
@@ -105,6 +141,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-token2049-postpones-dubai-event-to-2027-amid-regional-uncertainty.html</loc>
     <lastmod>2026-03-13T10:44:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-breaking-us-has-lifted-sanctions-on-russian-oil-temporarily-xcom.html</loc>
+    <lastmod>2026-03-13T10:38:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -223,20 +265,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260313-mev-bot-makes-10m-in-50m-crypto-swap-gone-wrong.html</loc>
-    <lastmod>2026-03-13T03:50:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260313-why-bitcoins-price-is-at-a-weekly-high-despite-middle-east-tensions.html</loc>
     <lastmod>2026-03-13T03:43:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-us-treasury-sanctions-enablers-of-north-korea-it-worker-fraud-ring.html</loc>
-    <lastmod>2026-03-13T03:13:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -331,8 +361,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260312-breaking-irans-new-supreme-leader-is-in-a-coma-and-has-lost-a-leg-after-being-se.html</loc>
-    <lastmod>2026-03-12T19:25:04.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260312-congrats-to-blackrock-on-the-launch-of-their-eth-staking-etp-ethb-were-making-cr.html</loc>
+    <lastmod>2026-03-12T20:00:15.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,24 +445,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260312-us-senate-votes-to-ban-cbdcs-in-housing-bill-that-may-face-trouble-in-the-house.html</loc>
-    <lastmod>2026-03-12T16:21:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260312-ethereum-layer-2-developer-op-labs-cuts-roles-to-narrow-focus.html</loc>
-    <lastmod>2026-03-12T16:19:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260312-here-is-what-100-oil-means-for-bitcoin-network.html</loc>
-    <lastmod>2026-03-12T15:57:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260312-you-know-theres-a-delay-between-the-time-we-buy-the-bitcoin-and-the-time-bitcoin.html</loc>
     <lastmod>2026-03-12T15:33:46.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -457,12 +469,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260312-tether-backs-ark-labs-52-million-bet-on-bitcoins-stablecoin-revival.html</loc>
-    <lastmod>2026-03-12T13:01:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260312-as-a-shareholder-i-would-love-for-binances-valuation-to-increase-but-the-fact-is.html</loc>
     <lastmod>2026-03-12T00:33:33.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -471,12 +477,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260311-officially-a-cowboy-dallascowboys-blockchain-xcom.html</loc>
     <lastmod>2026-03-11T20:15:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260311-in-bear-markets-bitcoin-will-often-spend-more-time-going-up-than-going-down-when.html</loc>
-    <lastmod>2026-03-11T20:13:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
