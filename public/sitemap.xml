@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-13T22:43:12.285Z</lastmod>
+    <lastmod>2026-03-13T23:40:55.058Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-13T22:43:12.285Z</lastmod>
+    <lastmod>2026-03-13T23:40:55.058Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-a-huge-gap-between-network-use-and-token-value-is-the-most-important-thing-happe.html</loc>
+    <lastmod>2026-03-13T23:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260313-court-closes-custodia-fight-with-federal-reserve-just-as-fed-opens-master-accoun.html</loc>
@@ -33,6 +39,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-ether-accumulation-data-predicts-rally-to-28k-but-theres-a-catch.html</loc>
     <lastmod>2026-03-13T20:34:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-alert-etherscan-warns-that-address-poisoning-attacks-on-ethereum-are-becoming-in.html</loc>
+    <lastmod>2026-03-13T20:30:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -349,12 +361,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260313-bitcoin-above-71000-eth-sol-ada-zoom-higher-as-cryptos-shrugs-off-stock-weakness.html</loc>
-    <lastmod>2026-03-13T04:39:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260313-why-bitcoins-price-is-at-a-weekly-high-despite-middle-east-tensions.html</loc>
     <lastmod>2026-03-13T03:43:48.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -393,12 +399,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260312-circle-is-best-known-for-its-stablecoin-called-usdc-which-currently-has-over-77-.html</loc>
     <lastmod>2026-03-12T21:44:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260312-breaking-us-senate-votes-to-ban-a-federal-reserve-central-bank-digital-currency-.html</loc>
-    <lastmod>2026-03-12T21:31:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
