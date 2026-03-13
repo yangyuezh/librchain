@@ -2,15 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-13T17:50:51.654Z</lastmod>
+    <lastmod>2026-03-13T18:59:12.376Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-13T17:50:51.654Z</lastmod>
+    <lastmod>2026-03-13T18:59:12.376Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-kraken-linked-spac-could-target-crypto-firm-valued-at-up-to-10-billion.html</loc>
+    <lastmod>2026-03-13T18:33:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-13T18:30:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-price-predictions-313-btc-eth-bnb-xrp-sol-doge-hype-ada-bch-xmr.html</loc>
+    <lastmod>2026-03-13T18:22:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-billionaire-investor-stanley-druckenmiller-bullish-on-stablecoin-growth.html</loc>
+    <lastmod>2026-03-13T18:05:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-gold-is-not-a-store-of-value-anymore-mike-mcglone-predicts-a-2008-like-setup.html</loc>
+    <lastmod>2026-03-13T17:55:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260313-ethereum-foundation-publishes-mandate-clarifying-role-and-goals.html</loc>
@@ -105,12 +135,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-dubais-token2049-ton-crypto-conferences-canceled-as-iran-conflict-rages-on.html</loc>
     <lastmod>2026-03-13T14:48:23.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-03-13T14:29:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -247,12 +271,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260313-vitalik-distances-himself-from-nonprofit-backed-by-shib-donation.html</loc>
-    <lastmod>2026-03-13T08:32:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260313-bitcoins-recent-crash-to-60000-warned-stocks-first-now-theyre-following.html</loc>
     <lastmod>2026-03-13T07:24:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -267,12 +285,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-cftc-moves-to-rein-in-prediction-markets-with-guidance-rulemaking-review.html</loc>
     <lastmod>2026-03-13T06:15:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-crypto-miners-must-put-their-bitcoin-to-work-to-survive-wintermute.html</loc>
-    <lastmod>2026-03-13T05:57:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -427,18 +439,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260312-how-alkimi-is-fixing-the-opaque-online-advertising-model-with-adfi.html</loc>
-    <lastmod>2026-03-12T17:00:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260312-senate-overwhelmingly-passes-cbdc-ban-attached-to-bipartisan-housing-bill.html</loc>
-    <lastmod>2026-03-12T16:59:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260312-just-in-michael-saylors-strategy-is-estimated-to-have-bought-2500-btc-via-strc-t.html</loc>
     <lastmod>2026-03-12T16:51:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,14 +481,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260311-officially-a-cowboy-dallascowboys-blockchain-xcom.html</loc>
-    <lastmod>2026-03-11T20:15:41.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260311-in-bear-markets-bitcoin-will-often-spend-more-time-going-up-than-going-down-when.html</loc>
+    <lastmod>2026-03-11T20:13:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260311-in-bear-markets-bitcoin-will-often-spend-more-time-going-up-than-going-down-when.html</loc>
-    <lastmod>2026-03-11T20:13:39.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260311-in-2010-someone-could-have-bought-220-bitcoin-for-1-but-said-fck-that-shit-that-.html</loc>
+    <lastmod>2026-03-11T19:41:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
