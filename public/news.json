@@ -1,7 +1,38 @@
 {
-  "updatedAt": "2026-03-13T11:43:28.045Z",
+  "updatedAt": "2026-03-13T13:22:26.134Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "CoinDesk 20 performance update: index jumps 3.7% as all constituents climb higher",
+      "summary": "Sui (SUI) gained 6.7% and Cardano (ADA) rose 5.8%, leading the index higher.",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/03/13/coindesk-20-performance-update-index-jumps-3-7-as-all-constituents-climb-higher",
+      "publishedAt": "2026-03-13T13:14:46.000Z",
+      "keywords": [
+        "CoinDesk Indices",
+        "CoinDesk Indices",
+        "CoinDesk 20",
+        "charts",
+        "Prices",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260313-coindesk-20-performance-update-index-jumps-37-as-all-constituents-climb-higher",
+      "localUrl": "/news/20260313-coindesk-20-performance-update-index-jumps-37-as-all-constituents-climb-higher.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Prediction markets will scale as far as their resolution infrastructure allows",
+      "summary": "Prediction market volume scales every month, as resolution infrastructure becomes a bottleneck. Opaque outcomes drive capital to headline markets only.",
+      "url": "https://cointelegraph.com/news/prediction-markets-scale-resolution-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-13T12:30:00.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "市场",
+      "slug": "20260313-prediction-markets-will-scale-as-far-as-their-resolution-infrastructure-allows",
+      "localUrl": "/news/20260313-prediction-markets-will-scale-as-far-as-their-resolution-infrastructure-allows.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin's building steam and a $3 billion trigger could make it wild",
@@ -166,17 +197,6 @@
       "category": "综合",
       "slug": "20260313-vitalik-distances-himself-from-nonprofit-backed-by-shib-donation",
       "localUrl": "/news/20260313-vitalik-distances-himself-from-nonprofit-backed-by-shib-donation.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Etherscan reports that Ethereum address poisoning has become industrialized. Driven by lower costs post-Fusaka upgrade (Dec 3), USDT dust transfers surged 612%. Historical data (July 2022–June 2024) reveals ~17 million attempts and over $79.3M in los - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5McHdHeTVDeVhoODdsWDh2RktsYmtiZW9jdURmVEhnWGdKYkN3RkNrOWRxQkF1TEtqakxIWENyc25YczlIUWJFT1dNNVlyUnhEVkN0ZzlFWmhVUW5FdEZlLXZXRQ?oc=5\" target=\"_blank\">Etherscan reports that Ethereum …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5McHdHeTVDeVhoODdsWDh2RktsYmtiZW9jdURmVEhnWGdKYkN3RkNrOWRxQkF1TEtqakxIWENyc25YczlIUWJFT1dNNVlyUnhEVkN0ZzlFWmhVUW5FdEZlLXZXRQ?oc=5",
-      "publishedAt": "2026-03-13T07:30:13.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260313-etherscan-reports-that-ethereum-address-poisoning-has-become-industrialized-driv",
-      "localUrl": "/news/20260313-etherscan-reports-that-ethereum-address-poisoning-has-become-industrialized-driv.html"
     },
     {
       "source": "CoinDesk",
@@ -590,19 +610,6 @@
       "localUrl": "/news/20260312-breaking-us-senate-votes-to-ban-a-federal-reserve-central-bank-digital-currency-.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Anchorage Digital ties in Puffer Finance for institutional Ethereum restaking",
-      "summary": "The integration allows institutions to stake Ether held in Anchorage custody and receive Puffer’s liquid restaking token while earning staking and restaking rewards.",
-      "url": "https://cointelegraph.com/news/anchorage-digital-integrates-puffer-finance-to-offer-institutional-ethereum-restaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-12T21:16:54.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260312-anchorage-digital-ties-in-puffer-finance-for-institutional-ethereum-restaking",
-      "localUrl": "/news/20260312-anchorage-digital-ties-in-puffer-finance-for-institutional-ethereum-restaking.html"
-    },
-    {
       "source": "Chainalysis Blog",
       "title": "OFAC Targets North Korean IT Worker Networks Using Cryptocurrency to Fund WMD Programs",
       "summary": "TL;DR OFAC designated six individuals and two entities for facilitating North Korean IT worker schemes that generated nearly $800 million… The post OFAC Targets North Korean IT Worker Networks Using Cryptocurrency to Fund WMD Programs appe…",
@@ -926,36 +933,6 @@
       "localUrl": "/news/20260312-you-know-theres-a-delay-between-the-time-we-buy-the-bitcoin-and-the-time-bitcoin.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Cathie Wood's Ark Invest says quantum computing is a long-term risk for bitcoin, not an imminent threat",
-      "summary": "Today’s quantum computers are far from breaking Bitcoin’s cryptography and any real threat would likely emerge gradually, giving the network time to adapt.",
-      "url": "https://www.coindesk.com/tech/2026/03/12/cathie-wood-s-ark-invest-says-quantum-computing-is-a-long-term-risk-for-bitcoin-not-an-imminent-threat",
-      "publishedAt": "2026-03-12T15:28:13.000Z",
-      "keywords": [
-        "Tech",
-        "Bitcoin News",
-        "quantum computing",
-        "ARK Invest",
-        "Unchained",
-        "Analysts",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260312-cathie-woods-ark-invest-says-quantum-computing-is-a-long-term-risk-for-bitcoin-n",
-      "localUrl": "/news/20260312-cathie-woods-ark-invest-says-quantum-computing-is-a-long-term-risk-for-bitcoin-n.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Tether built an internal Bitcoin dedicated dashboard to help our teams to support Bitcoin adoption and education across the globe 🍊🌍 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE43clV1cmJsbWV5RjIwOTFPZGxWYTJSS0tSbTR5cXR3UHpQQkVRT0ZQc2Q0VzdXdUU2S1FXTmdyTWdMa2k4YS1sWFg1VDRzckhpM3hoUTk5bkh3TUZkZ3dUN2J1RQ?oc=5\" target=\"_blank\">Tether built an internal Bitcoin…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43clV1cmJsbWV5RjIwOTFPZGxWYTJSS0tSbTR5cXR3UHpQQkVRT0ZQc2Q0VzdXdUU2S1FXTmdyTWdMa2k4YS1sWFg1VDRzckhpM3hoUTk5bkh3TUZkZ3dUN2J1RQ?oc=5",
-      "publishedAt": "2026-03-12T14:46:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260312-tether-built-an-internal-bitcoin-dedicated-dashboard-to-help-our-teams-to-suppor",
-      "localUrl": "/news/20260312-tether-built-an-internal-bitcoin-dedicated-dashboard-to-help-our-teams-to-suppor.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Michael Saylor's Strategy is estimated to have already bought over 1,001 bitcoin via STRC since the market opened about 35 minutes ago 🤯🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FQXoyNDNxZUFEUTZPeVptM3ZsWmZ2aTM2WU91aHYwX0NwT19ISkdMdXZDUTFwd0w4RmY1cTZ2YWtUWHczdVZFUjhiQ3RpMFpfV1p5LWFZMlkxakwyWmpuN2tnWFA2WTA?oc=5\" target=\"_blank\">JUST IN: Michael Saylor's S…",
@@ -1029,17 +1006,6 @@
     },
     {
       "source": "X Wire",
-      "title": "In bear markets, Bitcoin tends to spend more time trending upward than downward. This pattern is what marks the shift in market structure from bullish to bearish. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yMjdQRzNFbWZvcW1xQzJCMDBvRTBIVGdqbUJ3Vkxib0FtekIwbUtFWE1fSnVPelVqQlNyaWRyUFkwRTh5Tm9LRjdGckJfRTBaRGdMYlBFbkpBUHVWOGJqS0Jn?oc=5\" target=\"_blank\">In bear markets, Bitcoin tends to …",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yMjdQRzNFbWZvcW1xQzJCMDBvRTBIVGdqbUJ3Vkxib0FtekIwbUtFWE1fSnVPelVqQlNyaWRyUFkwRTh5Tm9LRjdGckJfRTBaRGdMYlBFbkpBUHVWOGJqS0Jn?oc=5",
-      "publishedAt": "2026-03-12T10:42:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260312-in-bear-markets-bitcoin-tends-to-spend-more-time-trending-upward-than-downward-t",
-      "localUrl": "/news/20260312-in-bear-markets-bitcoin-tends-to-spend-more-time-trending-upward-than-downward-t.html"
-    },
-    {
-      "source": "X Wire",
       "title": "As a shareholder, I would love for Binance's valuation to increase. But the fact is, Binance's valuation can't increase when crypto prices are down. It can't get simpler than that. Stating the obvious: Binance is the largest crypto exchange. It grows and shrinks with - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ramFIUTFBU1BUR25ZUW02ZkcyTG9lTGx6UkI2R2tnZkljVnVUaXk1dzh5b3VyYWNxLXhwZEpYUnNaNkJhcHM0aFBGRGU4VWdOWFh6OWg5Xzg1clU5dWFQbQ?oc=5\" target=\"_blank\">As a shareholder, I would love for B…",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ramFIUTFBU1BUR25ZUW02ZkcyTG9lTGx6UkI2R2tnZkljVnVUaXk1dzh5b3VyYWNxLXhwZEpYUnNaNkJhcHM0aFBGRGU4VWdOWFh6OWg5Xzg1clU5dWFQbQ?oc=5",
@@ -1059,6 +1025,17 @@
       "category": "X热点",
       "slug": "20260311-officially-a-cowboy-dallascowboys-blockchain-xcom",
       "localUrl": "/news/20260311-officially-a-cowboy-dallascowboys-blockchain-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "In bear markets, Bitcoin will often spend more time going up than going down. When it does go down, it goes down very quickly, sets a low, then trends up for a few weeks/months before going lower. You can see the change in market structure from bull to bear. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LeVJEbk0tUkFLejBjM0RMRHQ4WjU5NUk5b3RyRVYwazlHSU0yU01MZU54bVM5TGhPM29Xd3FjLVM5M1ZZclFtM0lxTUNIRDdSNHotLWFtMXh2S2prSXdFWFE1c2NRZ0E?oc=5\" target=\"_blank\">In bear markets, Bitcoin wi…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LeVJEbk0tUkFLejBjM0RMRHQ4WjU5NUk5b3RyRVYwazlHSU0yU01MZU54bVM5TGhPM29Xd3FjLVM5M1ZZclFtM0lxTUNIRDdSNHotLWFtMXh2S2prSXdFWFE1c2NRZ0E?oc=5",
+      "publishedAt": "2026-03-11T20:13:39.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260311-in-bear-markets-bitcoin-will-often-spend-more-time-going-up-than-going-down-when",
+      "localUrl": "/news/20260311-in-bear-markets-bitcoin-will-often-spend-more-time-going-up-than-going-down-when.html"
     },
     {
       "source": "X Wire",
@@ -1090,6 +1067,28 @@
       "category": "监管",
       "slug": "20260311-assessing-the-fatf-targeted-report-the-shift-toward-secondary-market-monitoring-",
       "localUrl": "/news/20260311-assessing-the-fatf-targeted-report-the-shift-toward-secondary-market-monitoring-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: Solana is part of @Mastercard's new Crypto Partner Program - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE12dVFia041N19IdzFPUHVpdGhvV3JFbjVsdWxQZXFFdE5LUFJQTF9sSnZzSWJsYXJYdmE0eDBWQjl6ZzZFa3RncFZVay1pSzVkM0VqdGMwMDBnZFE?oc=5\" target=\"_blank\">BREAKING: Solana is part of @Mastercard's n…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12dVFia041N19IdzFPUHVpdGhvV3JFbjVsdWxQZXFFdE5LUFJQTF9sSnZzSWJsYXJYdmE0eDBWQjl6ZzZFa3RncFZVay1pSzVkM0VqdGMwMDBnZFE?oc=5",
+      "publishedAt": "2026-03-11T15:00:01.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260311-breaking-solana-is-part-of-mastercards-new-crypto-partner-program-xcom",
+      "localUrl": "/news/20260311-breaking-solana-is-part-of-mastercards-new-crypto-partner-program-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "This is much much smarter than bitcoin. Private currencies must compete with one another. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HakVFZFNZeGxWVGx0akhJRlk0SXEydlcxWm5ZU3ZETjE0cGkxbTFaRy1RTEZTalg3OS1qbEhwMk1VRGZLSUN4RjQwSmtfaXl1SUJsSFF0SDMyalpf?oc=5\" target=\"_blank\">This is much much smarter than bitcoin. Pr…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HakVFZFNZeGxWVGx0akhJRlk0SXEydlcxWm5ZU3ZETjE0cGkxbTFaRy1RTEZTalg3OS1qbEhwMk1VRGZLSUN4RjQwSmtfaXl1SUJsSFF0SDMyalpf?oc=5",
+      "publishedAt": "2026-03-11T13:10:10.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260311-this-is-much-much-smarter-than-bitcoin-private-currencies-must-compete-with-one-",
+      "localUrl": "/news/20260311-this-is-much-much-smarter-than-bitcoin-private-currencies-must-compete-with-one-.html"
     },
     {
       "source": "X Wire",

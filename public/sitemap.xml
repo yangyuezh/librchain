@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-13T11:43:28.106Z</lastmod>
+    <lastmod>2026-03-13T13:22:26.190Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-13T11:43:28.106Z</lastmod>
+    <lastmod>2026-03-13T13:22:26.190Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-coindesk-20-performance-update-index-jumps-37-as-all-constituents-climb-higher.html</loc>
+    <lastmod>2026-03-13T13:14:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-prediction-markets-will-scale-as-far-as-their-resolution-infrastructure-allows.html</loc>
+    <lastmod>2026-03-13T12:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260313-bitcoins-building-steam-and-a-3-billion-trigger-could-make-it-wild.html</loc>
@@ -81,12 +93,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-vitalik-distances-himself-from-nonprofit-backed-by-shib-donation.html</loc>
     <lastmod>2026-03-13T08:32:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-etherscan-reports-that-ethereum-address-poisoning-has-become-industrialized-driv.html</loc>
-    <lastmod>2026-03-13T07:30:13.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -265,12 +271,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260312-anchorage-digital-ties-in-puffer-finance-for-institutional-ethereum-restaking.html</loc>
-    <lastmod>2026-03-12T21:16:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260312-ofac-targets-north-korean-it-worker-networks-using-cryptocurrency-to-fund-wmd-pr.html</loc>
     <lastmod>2026-03-12T20:50:28.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -409,18 +409,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260312-cathie-woods-ark-invest-says-quantum-computing-is-a-long-term-risk-for-bitcoin-n.html</loc>
-    <lastmod>2026-03-12T15:28:13.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260312-tether-built-an-internal-bitcoin-dedicated-dashboard-to-help-our-teams-to-suppor.html</loc>
-    <lastmod>2026-03-12T14:46:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260312-just-in-michael-saylors-strategy-is-estimated-to-have-already-bought-over-1001-b.html</loc>
     <lastmod>2026-03-12T14:08:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -457,12 +445,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260312-in-bear-markets-bitcoin-tends-to-spend-more-time-trending-upward-than-downward-t.html</loc>
-    <lastmod>2026-03-12T10:42:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260312-as-a-shareholder-i-would-love-for-binances-valuation-to-increase-but-the-fact-is.html</loc>
     <lastmod>2026-03-12T00:33:33.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -475,6 +457,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260311-in-bear-markets-bitcoin-will-often-spend-more-time-going-up-than-going-down-when.html</loc>
+    <lastmod>2026-03-11T20:13:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260311-in-2010-someone-could-have-bought-220-bitcoin-for-1-but-said-fck-that-shit-that-.html</loc>
     <lastmod>2026-03-11T19:41:26.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,6 +471,18 @@
   <url>
     <loc>https://www.librchain.com/news/20260311-assessing-the-fatf-targeted-report-the-shift-toward-secondary-market-monitoring-.html</loc>
     <lastmod>2026-03-11T17:11:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260311-breaking-solana-is-part-of-mastercards-new-crypto-partner-program-xcom.html</loc>
+    <lastmod>2026-03-11T15:00:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260311-this-is-much-much-smarter-than-bitcoin-private-currencies-must-compete-with-one-.html</loc>
+    <lastmod>2026-03-11T13:10:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
