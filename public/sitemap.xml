@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-14T14:45:24.283Z</lastmod>
+    <lastmod>2026-03-14T15:39:31.529Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-14T14:45:24.283Z</lastmod>
+    <lastmod>2026-03-14T15:39:31.529Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260314-brazil-industry-giants-representing-850-companies-decry-stablecoin-tax-threat.html</loc>
+    <lastmod>2026-03-14T14:58:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260314-bitcoin-hit-a-major-milestonemost-miners-wont-be-around-for-the-next-one.html</loc>
@@ -381,12 +387,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-bitcoins-building-steam-and-a-3-billion-trigger-could-make-it-wild.html</loc>
     <lastmod>2026-03-13T11:28:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-bitcoin-outperforms-stocks-tops-72000-even-as-dollar-strengthens.html</loc>
-    <lastmod>2026-03-13T10:52:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
