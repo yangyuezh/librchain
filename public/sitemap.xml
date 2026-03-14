@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-14T13:13:52.751Z</lastmod>
+    <lastmod>2026-03-14T14:45:24.283Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-14T13:13:52.751Z</lastmod>
+    <lastmod>2026-03-14T14:45:24.283Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260314-bitcoin-hit-a-major-milestonemost-miners-wont-be-around-for-the-next-one.html</loc>
+    <lastmod>2026-03-14T14:07:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260314-the-math-behind-strategys-path-to-1-million-bitcoin-by-the-end-of-2026.html</loc>
+    <lastmod>2026-03-14T14:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260314-ai-developers-may-not-be-keen-on-crypto-but-stablecoins-are-the-secret-to-agenti.html</loc>
+    <lastmod>2026-03-14T14:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260314-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-14T13:13:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260314-balaji-calls-for-more-crypto-tools-for-refugees-amid-middle-east-tensions.html</loc>
@@ -121,6 +145,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260313-bitcoin-is-not-a-ponzi-scheme-a-ponzi-requires-a-central-operator-promising-retu.html</loc>
+    <lastmod>2026-03-13T20:53:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260313-ether-accumulation-data-predicts-rally-to-28k-but-theres-a-catch.html</loc>
     <lastmod>2026-03-13T20:34:28.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -171,12 +201,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-kraken-linked-spac-could-target-crypto-firm-valued-at-up-to-10-billion.html</loc>
     <lastmod>2026-03-13T18:33:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-03-13T18:30:13.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -367,20 +391,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260313-bitcoin-holds-above-71000-defying-rising-dollar-oil-and-us-bond-yields.html</loc>
-    <lastmod>2026-03-13T09:32:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260313-exclusive-the-dubai-token2049-summit-originally-scheduled-for-april-29-30-2026-h.html</loc>
     <lastmod>2026-03-13T08:32:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-bitcoins-recent-crash-to-60000-warned-stocks-first-now-theyre-following.html</loc>
-    <lastmod>2026-03-13T07:24:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,12 +487,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260312-stablecoins-have-increasing-relevance-in-illicit-amazon-gold-trade-gi-toc.html</loc>
-    <lastmod>2026-03-12T18:01:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260312-you-know-theres-a-delay-between-the-time-we-buy-the-bitcoin-and-the-time-bitcoin.html</loc>
     <lastmod>2026-03-12T15:33:46.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -501,12 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260311-assessing-the-fatf-targeted-report-the-shift-toward-secondary-market-monitoring-.html</loc>
     <lastmod>2026-03-11T17:11:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260311-digital-assets-are-entering-a-new-phase-what-once-ran-in-parallel-to-existing-fi.html</loc>
-    <lastmod>2026-03-11T14:12:31.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
