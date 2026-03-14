@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-14T21:38:54.569Z</lastmod>
+    <lastmod>2026-03-14T22:43:38.540Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-14T21:38:54.569Z</lastmod>
+    <lastmod>2026-03-14T22:43:38.540Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260314-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-14T22:04:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260314-changing-basel-rules-could-unlock-huge-liquidity-for-btc-analyst.html</loc>
+    <lastmod>2026-03-14T21:45:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260314-tom-lees-bitmine-buys-102-million-in-eth-directly-from-ethereum-foundation.html</loc>
@@ -103,12 +115,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260314-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-03-14T13:13:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260314-balaji-calls-for-more-crypto-tools-for-refugees-amid-middle-east-tensions.html</loc>
     <lastmod>2026-03-14T13:05:18.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -135,6 +141,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260314-we-should-build-more-crypto-tools-for-refugees-and-stateless-people-because-ther.html</loc>
     <lastmod>2026-03-14T08:57:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260314-reports-are-rapidly-circulating-that-netanyahu-may-have-been-killed-in-an-irania.html</loc>
+    <lastmod>2026-03-14T08:16:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -189,6 +201,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-a-huge-gap-between-network-use-and-token-value-is-the-most-important-thing-happe.html</loc>
     <lastmod>2026-03-13T23:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-happy-to-see-mastercard-on-crypto-payment-with-tron-xcom.html</loc>
+    <lastmod>2026-03-13T23:25:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -319,12 +337,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260313-ethereum-accumulation-wallets-jump-30-will-eth-price-follow.html</loc>
-    <lastmod>2026-03-13T16:49:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260313-us-treasury-sanctions-alleged-800-million-north-korean-it-worker-fraud-operation.html</loc>
     <lastmod>2026-03-13T16:37:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -387,12 +399,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-trump-meme-coin-render-and-pi-see-double-digit-rallies-as-bitcoin-rises.html</loc>
     <lastmod>2026-03-13T14:27:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-building-with-bitcoin-your-users-deserve-the-best-pact-swap-is-just-an-api-integ.html</loc>
-    <lastmod>2026-03-13T14:00:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260312-nvidia-drops-nemotron-3-super-amid-26-billion-open-model-ai-betamericas-answer-t.html</loc>
     <lastmod>2026-03-12T18:46:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260312-you-know-theres-a-delay-between-the-time-we-buy-the-bitcoin-and-the-time-bitcoin.html</loc>
-    <lastmod>2026-03-12T15:33:46.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
