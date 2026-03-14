@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-14T02:49:22.396Z</lastmod>
+    <lastmod>2026-03-14T04:51:25.325Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-14T02:49:22.396Z</lastmod>
+    <lastmod>2026-03-14T04:51:25.325Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260314-bitcoin-can-survive-72-of-the-worlds-submarine-cables-being-cut-but-a-targeted-a.html</loc>
+    <lastmod>2026-03-14T03:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260314-stablecoins-could-form-backbone-of-global-payments-in-10-years-billionaire.html</loc>
@@ -325,6 +331,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260313-etherscan-reports-that-ethereum-address-poisoning-has-become-industrialized-driv.html</loc>
+    <lastmod>2026-03-13T07:30:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260313-bitcoins-recent-crash-to-60000-warned-stocks-first-now-theyre-following.html</loc>
     <lastmod>2026-03-13T07:24:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -345,12 +357,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-pi-rallies-more-than-30-after-kraken-announces-listing.html</loc>
     <lastmod>2026-03-13T04:51:46.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-xrp-jumps-3-as-breakout-above-139-ends-early-2026-downtrend.html</loc>
-    <lastmod>2026-03-13T04:47:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260312-binance-is-proud-to-join-mastercards-new-crypto-partner-program-were-one-of-the-.html</loc>
     <lastmod>2026-03-12T11:00:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260312-as-a-shareholder-i-would-love-for-binances-valuation-to-increase-but-the-fact-is.html</loc>
-    <lastmod>2026-03-12T00:33:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
