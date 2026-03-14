@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-14T22:43:38.540Z</lastmod>
+    <lastmod>2026-03-14T23:40:30.080Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-14T22:43:38.540Z</lastmod>
+    <lastmod>2026-03-14T23:40:30.080Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -21,6 +21,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260314-changing-basel-rules-could-unlock-huge-liquidity-for-btc-analyst.html</loc>
     <lastmod>2026-03-14T21:45:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260314-now-bitcoin-may-be-nearing-a-historic-bear-market-bottom-as-key-indicators-flash.html</loc>
+    <lastmod>2026-03-14T21:30:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -405,12 +411,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-just-in-bitcoin-reclaims-73000-xcom.html</loc>
     <lastmod>2026-03-13T13:56:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-bullish-blackrock-says-bitcoin-etf-investors-are-long-term-holders-with-90-accum.html</loc>
-    <lastmod>2026-03-13T13:30:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
