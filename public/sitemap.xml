@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-14T18:56:15.046Z</lastmod>
+    <lastmod>2026-03-14T19:37:32.514Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-14T18:56:15.046Z</lastmod>
+    <lastmod>2026-03-14T19:37:32.514Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260314-tom-lees-bitmine-buys-102-million-in-eth-directly-from-ethereum-foundation.html</loc>
+    <lastmod>2026-03-14T19:12:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260314-hoskinson-might-be-wrong-about-the-future-of-decentralized-compute.html</loc>
@@ -147,12 +153,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260314-bitcoin-can-survive-72-of-the-worlds-submarine-cables-being-cut-but-a-targeted-a.html</loc>
     <lastmod>2026-03-14T03:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260314-grayscaleethereum-mini-trust-staked-57600-eth1216m-5-hours-ago-intelarkmcomexplo.html</loc>
-    <lastmod>2026-03-14T02:37:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -391,6 +391,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260313-building-with-bitcoin-your-users-deserve-the-best-pact-swap-is-just-an-api-integ.html</loc>
+    <lastmod>2026-03-13T14:00:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260313-just-in-bitcoin-reclaims-73000-xcom.html</loc>
     <lastmod>2026-03-13T13:56:37.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260312-nvidia-drops-nemotron-3-super-amid-26-billion-open-model-ai-betamericas-answer-t.html</loc>
     <lastmod>2026-03-12T18:46:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260312-optimism-team-lays-off-20-employees-amid-ethereum-scaling-shifts-base-migration-.html</loc>
-    <lastmod>2026-03-12T18:21:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
