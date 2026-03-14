@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-14T05:58:57.431Z</lastmod>
+    <lastmod>2026-03-14T07:03:34.838Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-14T05:58:57.431Z</lastmod>
+    <lastmod>2026-03-14T07:03:34.838Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260314-bitcoin-holds-71000-despite-trump-warning-of-strikes-on-irans-oil-rich-kharg-isl.html</loc>
+    <lastmod>2026-03-14T06:08:27.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260314-blackrock-says-exotic-crypto-etfs-not-part-of-its-strategy.html</loc>
@@ -357,12 +363,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-cftc-moves-to-rein-in-prediction-markets-with-guidance-rulemaking-review.html</loc>
     <lastmod>2026-03-13T06:15:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-pi-rallies-more-than-30-after-kraken-announces-listing.html</loc>
-    <lastmod>2026-03-13T04:51:46.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
