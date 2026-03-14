@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-13T23:40:55.058Z</lastmod>
+    <lastmod>2026-03-14T02:49:22.396Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-13T23:40:55.058Z</lastmod>
+    <lastmod>2026-03-14T02:49:22.396Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260314-stablecoins-could-form-backbone-of-global-payments-in-10-years-billionaire.html</loc>
+    <lastmod>2026-03-14T01:22:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260314-bitcoin-nearly-overtakes-74k-as-data-suggests-bear-market-is-not-over.html</loc>
+    <lastmod>2026-03-14T01:06:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-federal-court-ends-custodia-banks-legal-bid-for-a-master-account.html</loc>
+    <lastmod>2026-03-13T23:57:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260313-a-huge-gap-between-network-use-and-token-value-is-the-most-important-thing-happe.html</loc>
@@ -33,6 +51,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-circles-usdc-overtook-tethers-usdt-in-adjusted-ytd-volume-mizuho.html</loc>
     <lastmod>2026-03-13T20:54:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-bitcoin-is-not-a-ponzi-scheme-a-ponzi-requires-a-central-operator-promising-retu.html</loc>
+    <lastmod>2026-03-13T20:53:31.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -99,6 +123,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-billionaire-investor-stanley-druckenmiller-bullish-on-stablecoin-growth.html</loc>
     <lastmod>2026-03-13T18:05:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-ive-long-suspected-bitcoin-is-a-giant-ponzi-scheme-and-now-im-hearing-tales-of-w.html</loc>
+    <lastmod>2026-03-13T17:59:04.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -265,12 +295,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260313-prediction-markets-will-scale-as-far-as-their-resolution-infrastructure-allows.html</loc>
-    <lastmod>2026-03-13T12:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260313-new-14-trillion-blackrock-says-bitcoin-etf-investors-are-long-term-buy-and-hold-.html</loc>
     <lastmod>2026-03-13T12:21:28.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -283,26 +307,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260313-heres-why-xrp-bulls-see-an-explosive-run-to-255-next.html</loc>
-    <lastmod>2026-03-13T11:19:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-hsbc-standard-chartered-tipped-for-first-hong-kong-stablecoin-licenses-report.html</loc>
-    <lastmod>2026-03-13T11:04:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260313-bitcoin-outperforms-stocks-tops-72000-even-as-dollar-strengthens.html</loc>
     <lastmod>2026-03-13T10:52:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-breaking-us-has-lifted-sanctions-on-russian-oil-temporarily-xcom.html</loc>
-    <lastmod>2026-03-13T10:38:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -315,12 +321,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-exclusive-the-dubai-token2049-summit-originally-scheduled-for-april-29-30-2026-h.html</loc>
     <lastmod>2026-03-13T08:32:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-etherscan-reports-that-ethereum-address-poisoning-has-become-industrialized-driv.html</loc>
-    <lastmod>2026-03-13T07:30:13.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,18 +451,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260312-just-in-michael-saylors-strategy-is-estimated-to-have-bought-2500-btc-via-strc-t.html</loc>
-    <lastmod>2026-03-12T16:51:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260312-washington-dc-bitcoin-policy-institute-releases-the-following-brief-on-the-lates.html</loc>
-    <lastmod>2026-03-12T16:27:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260312-you-know-theres-a-delay-between-the-time-we-buy-the-bitcoin-and-the-time-bitcoin.html</loc>
     <lastmod>2026-03-12T15:33:46.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -487,6 +475,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260312-ethereum-needs-an-encrypted-mempool-and-it-needs-it-fast-its-not-just-about-stop.html</loc>
+    <lastmod>2026-03-12T12:15:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260312-binance-is-proud-to-join-mastercards-new-crypto-partner-program-were-one-of-the-.html</loc>
     <lastmod>2026-03-12T11:00:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -501,6 +495,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260311-assessing-the-fatf-targeted-report-the-shift-toward-secondary-market-monitoring-.html</loc>
     <lastmod>2026-03-11T17:11:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260311-digital-assets-are-entering-a-new-phase-what-once-ran-in-parallel-to-existing-fi.html</loc>
+    <lastmod>2026-03-11T14:12:31.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
