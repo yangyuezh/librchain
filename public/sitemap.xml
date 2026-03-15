@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-14T23:40:30.080Z</lastmod>
+    <lastmod>2026-03-15T03:29:26.232Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-14T23:40:30.080Z</lastmod>
+    <lastmod>2026-03-15T03:29:26.232Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260315-clarity-act-2026-odds-extremely-low-if-not-passed-before-april-exec.html</loc>
+    <lastmod>2026-03-15T02:09:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260315-bitcoin-it-took-btc-11-months-to-climb-from-70k-to-125k-and-just-5-months-to-fal.html</loc>
+    <lastmod>2026-03-15T00:30:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260314-heres-what-happened-in-crypto-today.html</loc>
@@ -181,6 +193,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260314-based-on-available-tracked-wallets-the-percentage-of-bitcoin-on-exchanges-has-dr.html</loc>
+    <lastmod>2026-03-14T01:41:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260314-stablecoins-could-form-backbone-of-global-payments-in-10-years-billionaire.html</loc>
     <lastmod>2026-03-14T01:22:32.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -237,12 +255,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-circles-usdc-overtook-tethers-usdt-in-adjusted-ytd-volume-mizuho.html</loc>
     <lastmod>2026-03-13T20:54:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-bitcoin-is-not-a-ponzi-scheme-a-ponzi-requires-a-central-operator-promising-retu.html</loc>
-    <lastmod>2026-03-13T20:53:31.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -321,12 +333,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-gold-is-not-a-store-of-value-anymore-mike-mcglone-predicts-a-2008-like-setup.html</loc>
     <lastmod>2026-03-13T17:55:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-ethereum-foundation-publishes-mandate-clarifying-role-and-goals.html</loc>
-    <lastmod>2026-03-13T17:32:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -495,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260312-nvidia-drops-nemotron-3-super-amid-26-billion-open-model-ai-betamericas-answer-t.html</loc>
     <lastmod>2026-03-12T18:46:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260312-binance-is-proud-to-join-mastercards-new-crypto-partner-program-were-one-of-the-.html</loc>
-    <lastmod>2026-03-12T11:00:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
