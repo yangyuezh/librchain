@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-15T08:52:43.921Z</lastmod>
+    <lastmod>2026-03-15T09:48:07.633Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-15T08:52:43.921Z</lastmod>
+    <lastmod>2026-03-15T09:48:07.633Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260315-altseason-is-dead-expect-shorter-cycles-and-violent-rotations-crypto-exec.html</loc>
+    <lastmod>2026-03-15T09:00:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260315-ethereum-foundation-sells-102m-worth-of-eth-to-bitmine-in-otc-deal.html</loc>
@@ -223,7 +229,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260314-bitcoin-nearly-overtakes-74k-as-data-suggests-bear-market-is-not-over.html</loc>
+    <loc>https://www.librchain.com/news/20260314-bitcoin-nears-74k-but-data-suggests-the-bear-market-is-not-over.html</loc>
     <lastmod>2026-03-14T01:06:31.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -283,7 +289,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260313-ether-accumulation-data-predicts-rally-to-28k-but-theres-a-catch.html</loc>
+    <loc>https://www.librchain.com/news/20260313-ether-accumulation-data-points-to-a-rally-toward-28k-but-theres-a-catch.html</loc>
     <lastmod>2026-03-13T20:34:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -315,12 +321,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-fbi-investigating-after-malware-found-lurking-in-steam-pc-games.html</loc>
     <lastmod>2026-03-13T19:23:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-key-bitcoin-price-levels-to-watch-as-btc-nears-new-monthly-highs.html</loc>
-    <lastmod>2026-03-13T19:13:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -427,12 +427,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260313-new-14-trillion-blackrock-says-bitcoin-etf-investors-are-long-term-buy-and-hold-.html</loc>
-    <lastmod>2026-03-13T12:21:28.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260313-cftc-moves-to-rein-in-prediction-markets-with-guidance-rulemaking-review.html</loc>
     <lastmod>2026-03-13T06:15:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -501,6 +495,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260312-nvidia-drops-nemotron-3-super-amid-26-billion-open-model-ai-betamericas-answer-t.html</loc>
     <lastmod>2026-03-12T18:46:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260312-binance-is-proud-to-join-mastercards-new-crypto-partner-program-were-one-of-the-.html</loc>
+    <lastmod>2026-03-12T11:00:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
