@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-15T15:42:16.815Z</lastmod>
+    <lastmod>2026-03-15T16:48:15.710Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-15T15:42:16.815Z</lastmod>
+    <lastmod>2026-03-15T16:48:15.710Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260315-here-is-why-nasdaq-and-owner-of-nyse-are-putting-the-126-trillion-equity-market-.html</loc>
+    <lastmod>2026-03-15T16:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260315-how-floridas-stablecoin-bill-mirrors-big-brother-tools-outlawed-under-ron-desant.html</loc>
@@ -99,12 +105,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260315-altseason-is-dead-expect-shorter-cycles-and-violent-rotations-crypto-exec.html</loc>
     <lastmod>2026-03-15T09:00:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260315-just-in-over-3400000000-in-crypto-longs-will-be-liquidated-if-bitcoin-falls-5000.html</loc>
-    <lastmod>2026-03-15T08:36:35.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -265,12 +265,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260314-balaji-calls-for-more-crypto-tools-for-refugees-amid-middle-east-tensions.html</loc>
-    <lastmod>2026-03-14T13:05:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260314-crypto-can-fight-money-laundering-without-stifling-financial-freedom.html</loc>
     <lastmod>2026-03-14T12:30:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -325,12 +319,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260314-aew-presents-revolution-sun-mar-15-2026-400-pm-crypto-com-arena-los-angeles-ca-a.html</loc>
-    <lastmod>2026-03-14T00:56:23.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260313-federal-court-ends-custodia-banks-legal-bid-for-a-master-account.html</loc>
     <lastmod>2026-03-13T23:57:17.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -351,6 +339,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-court-closes-custodia-fight-with-federal-reserve-just-as-fed-opens-master-accoun.html</loc>
     <lastmod>2026-03-13T21:04:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-bpi-targets-august-for-btc-tax-relief-but-warns-time-is-running-out.html</loc>
+    <lastmod>2026-03-13T21:01:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -421,12 +415,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260313-bitcoin-quickly-drops-35-as-fresh-iran-escalation-short-circuits-crypto-rally.html</loc>
-    <lastmod>2026-03-13T16:30:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260313-pip-labs-sheds-staff-as-story-protocol-leans-into-ai.html</loc>
     <lastmod>2026-03-13T15:48:30.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -447,6 +435,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-trump-meme-coin-render-and-pi-see-double-digit-rallies-as-bitcoin-rises.html</loc>
     <lastmod>2026-03-13T14:27:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260313-exclusive-the-dubai-token2049-summit-originally-scheduled-for-april-29-30-2026-h.html</loc>
+    <lastmod>2026-03-13T08:32:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -501,6 +495,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260312-president-trump-is-hosting-another-exclusive-event-for-meme-coin-holders.html</loc>
     <lastmod>2026-03-12T20:49:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260312-spot-ethereum-etps-brought-crypto-to-millions-but-excluded-staking-with-blackroc.html</loc>
+    <lastmod>2026-03-12T18:14:35.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
