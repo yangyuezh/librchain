@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-15T14:47:32.779Z</lastmod>
+    <lastmod>2026-03-15T15:42:16.815Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-15T14:47:32.779Z</lastmod>
+    <lastmod>2026-03-15T15:42:16.815Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260315-how-floridas-stablecoin-bill-mirrors-big-brother-tools-outlawed-under-ron-desant.html</loc>
+    <lastmod>2026-03-15T15:27:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260315-bitcoin-price-teases-key-support-reclaims-with-weekly-close-above-70k.html</loc>
+    <lastmod>2026-03-15T15:12:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260315-how-bitcoin-and-gold-reacted-differently-to-the-iran-war-shock.html</loc>
@@ -27,6 +39,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260315-forensic-analysis-uncovers-draft-of-5m-deal-tied-to-mileis-libra-promotion-repor.html</loc>
     <lastmod>2026-03-15T13:50:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260315-on-chain-data-shows-venus-protocol-was-suspected-to-suffer-a-flash-loan-attack-t.html</loc>
+    <lastmod>2026-03-15T13:30:23.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -325,12 +343,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260313-happy-to-see-mastercard-on-crypto-payment-with-tron-xcom.html</loc>
-    <lastmod>2026-03-13T23:25:36.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260313-the-bitcoin-fear-and-greed-index-is-still-in-extreme-fear-buying-dips-at-this-le.html</loc>
     <lastmod>2026-03-13T21:32:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -339,12 +351,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-court-closes-custodia-fight-with-federal-reserve-just-as-fed-opens-master-accoun.html</loc>
     <lastmod>2026-03-13T21:04:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-bpi-targets-august-for-btc-tax-relief-but-warns-time-is-running-out.html</loc>
-    <lastmod>2026-03-13T21:01:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -495,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260312-president-trump-is-hosting-another-exclusive-event-for-meme-coin-holders.html</loc>
     <lastmod>2026-03-12T20:49:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260312-bitcoin-quantum-threat-is-real-but-not-imminent-says-cathie-woods-ark-invest.html</loc>
-    <lastmod>2026-03-12T20:16:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
