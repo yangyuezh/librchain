@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-15T21:40:03.858Z</lastmod>
+    <lastmod>2026-03-15T22:45:46.640Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-15T21:40:03.858Z</lastmod>
+    <lastmod>2026-03-15T22:45:46.640Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260315-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-15T21:56:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260315-clarity-act-risks-handing-crypto-to-centralized-players-gnosis-exec.html</loc>
@@ -109,12 +115,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260315-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-03-15T13:14:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260315-just-in-michael-saylor-hints-at-buying-more-bitcoin-stretch-the-orange-dots-xcom.html</loc>
     <lastmod>2026-03-15T13:12:11.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -157,6 +157,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260315-the-recent-correction-on-friday-on-bitcoin-was-essentially-just-risk-off-appetit.html</loc>
+    <lastmod>2026-03-15T09:08:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260315-breaking-iran-confirms-ongoing-military-cooperation-with-russia-and-china-calls-.html</loc>
     <lastmod>2026-03-15T09:05:59.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -183,12 +189,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260315-bitcoin-whales-are-starting-to-accumulate-again-at-71k-santiment.html</loc>
     <lastmod>2026-03-15T05:30:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260315-according-to-data-from-ultrasoundmoney-the-circulating-supply-of-ethereum-has-in.html</loc>
-    <lastmod>2026-03-15T04:40:25.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
