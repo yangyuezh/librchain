@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-15T10:48:23.968Z</lastmod>
+    <lastmod>2026-03-15T11:36:32.403Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-15T10:48:23.968Z</lastmod>
+    <lastmod>2026-03-15T11:36:32.403Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260315-erik-voorhees-erikvoorhees-an-early-bitcoin-supporter-and-founder-of-shapeshift-.html</loc>
+    <lastmod>2026-03-15T10:27:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260315-stablecoin-uncertainty-could-hurt-banks-more-than-crypto-firms-expert.html</loc>
@@ -411,12 +417,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260313-trump-meme-coin-render-and-pi-see-double-digit-rallies-as-bitcoin-rises.html</loc>
     <lastmod>2026-03-13T14:27:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260313-just-in-bitcoin-reclaims-73000-xcom.html</loc>
-    <lastmod>2026-03-13T13:56:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
