@@ -1,7 +1,146 @@
 {
-  "updatedAt": "2026-03-16T13:52:04.828Z",
+  "updatedAt": "2026-03-16T15:16:48.309Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Institutions had ‘diamond hands’ during bitcoin's 50% plunge, Bitwise's Matt Hougan says",
+      "summary": "“The wildest thing about my $1 million prediction is that it's not wild at all,” said the digital asset fund manager's CIO.",
+      "url": "https://www.coindesk.com/markets/2026/03/16/institutions-had-diamond-hands-during-bitcoin-s-50-plunge-bitwise-s-matt-hougan-says",
+      "publishedAt": "2026-03-16T15:12:11.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260316-institutions-had-diamond-hands-during-bitcoins-50-plunge-bitwises-matt-hougan-sa",
+      "localUrl": "/news/20260316-institutions-had-diamond-hands-during-bitcoins-50-plunge-bitwises-matt-hougan-sa.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Makes Biggest Bitcoin Buy Yet in 2026 as Preferred Share Demand Surges",
+      "summary": "Strategy spent $1.57 billion on Bitcoin last week, notching its largest purchase of the year so far amid heightened demand for STRC.",
+      "url": "https://decrypt.co/361228/strategy-biggest-bitcoin-buy-2026-preferred-share-demand-surges",
+      "publishedAt": "2026-03-16T14:57:10.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260316-strategy-makes-biggest-bitcoin-buy-yet-in-2026-as-preferred-share-demand-surges",
+      "localUrl": "/news/20260316-strategy-makes-biggest-bitcoin-buy-yet-in-2026-as-preferred-share-demand-surges.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "How a 2.85% price error triggered $27M in liquidations on Aave",
+      "summary": "A small pricing error in wstETH collateral caused $27 million in Aave liquidations, highlighting the critical role of price oracles and automated risk systems in DeFi.",
+      "url": "https://cointelegraph.com/news/how-a-2-85-price-error-triggered-27m-in-liquidations-on-aave?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-16T14:39:06.000Z",
+      "keywords": [
+        "Analysis"
+      ],
+      "category": "DeFi",
+      "slug": "20260316-how-a-285-price-error-triggered-27m-in-liquidations-on-aave",
+      "localUrl": "/news/20260316-how-a-285-price-error-triggered-27m-in-liquidations-on-aave.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-16T14:29:41.000Z",
+      "keywords": [
+        "Trump memecoin",
+        "Solana memecoin",
+        "TRUMP token",
+        "Solana",
+        "SOL",
+        "Nova Labs",
+        "SEC",
+        "Securities and Exchange Commission",
+        "Crypto regulation",
+        "TRUMP rally",
+        "Bitcoin",
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260316-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260316-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin eyes $75,000, nearing 25% bounce from February bottom",
+      "summary": "Gains came for crypto and stocks as tensions around the Strait of Hormuz appeared to ease slightly, sending oil prices lower.",
+      "url": "https://www.coindesk.com/markets/2026/03/16/bitcoin-eyes-usd75-000-nearing-25-bounce-from-february-bottom",
+      "publishedAt": "2026-03-16T14:26:41.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Market Wrap",
+        "Oil",
+        "Iran",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260316-bitcoin-eyes-75000-nearing-25-bounce-from-february-bottom",
+      "localUrl": "/news/20260316-bitcoin-eyes-75000-nearing-25-bounce-from-february-bottom.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Prediction markets boom on Iran bets as Congress eyes ban",
+      "summary": "Iran-linked contracts drove prediction market activity higher as the CFTC opened rulemaking and Democrats moved to ban war and death bets.",
+      "url": "https://cointelegraph.com/news/iran-war-prediction-market-cftc-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-16T14:23:01.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260316-prediction-markets-boom-on-iran-bets-as-congress-eyes-ban",
+      "localUrl": "/news/20260316-prediction-markets-boom-on-iran-bets-as-congress-eyes-ban.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Three Ethereum indicators hint that $2.8K is the next ETH price target",
+      "summary": "A symmetrical triangle breakout and an unresolved supply overhang are boosting the case that Ether may go as high as $2,800 in March.",
+      "url": "https://cointelegraph.com/news/three-ethereum-indicators-hint-2-8k-next-eth-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-16T14:15:59.000Z",
+      "keywords": [
+        "Market Analysis"
+      ],
+      "category": "基础设施",
+      "slug": "20260316-three-ethereum-indicators-hint-that-28k-is-the-next-eth-price-target",
+      "localUrl": "/news/20260316-three-ethereum-indicators-hint-that-28k-is-the-next-eth-price-target.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Steven Spielberg Is ‘Not For’ AI Replacing Creatives",
+      "summary": "The director of “A.I. Artificial Intelligence” told an audience at SXSW that he’s yet to use the technology in his films.",
+      "url": "https://decrypt.co/361207/steven-spielberg-is-not-for-ai-replacing-creatives",
+      "publishedAt": "2026-03-16T14:01:04.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260316-steven-spielberg-is-not-for-ai-replacing-creatives",
+      "localUrl": "/news/20260316-steven-spielberg-is-not-for-ai-replacing-creatives.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin outperforms gold and stocks in global turmoil as ETFs and Strategy accumulate",
+      "summary": "Wall Street broker Bernstein took note of an institutional ownership shift as behind bitcoin's resilience during this latest bout of global turmoil.",
+      "url": "https://www.coindesk.com/markets/2026/03/16/bitcoin-outperforms-gold-and-stocks-in-global-turmoil-as-etfs-and-strategy-accumulate",
+      "publishedAt": "2026-03-16T13:53:42.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Strategy",
+        "ETFs",
+        "Bernstein",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260316-bitcoin-outperforms-gold-and-stocks-in-global-turmoil-as-etfs-and-strategy-accum",
+      "localUrl": "/news/20260316-bitcoin-outperforms-gold-and-stocks-in-global-turmoil-as-etfs-and-strategy-accum.html"
+    },
     {
       "source": "CoinDesk",
       "title": "CoinDesk 20 performance update: Ethereum (ETH) price jumps 8.8%, leading index higher",
@@ -610,19 +749,6 @@
       "localUrl": "/news/20260316-just-in-115000000-worth-of-crypto-shorts-liquidated-in-the-past-60-minutes-xcom.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "72% of subsea cables would need to fail to impact Bitcoin, study shows",
-      "summary": "The past 11 years have shown that Bitcoin has been resilient to random intercontinental subsea cable failures, but could be susceptible to targeted attacks.",
-      "url": "https://cointelegraph.com/news/72-percent-submarine-internet-cables-will-need-to-fail-to-impact-bitcoin-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-16T03:57:49.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260316-72-of-subsea-cables-would-need-to-fail-to-impact-bitcoin-study-shows",
-      "localUrl": "/news/20260316-72-of-subsea-cables-would-need-to-fail-to-impact-bitcoin-study-shows.html"
-    },
-    {
       "source": "Decrypt",
       "title": "BlockFills Entities File Bankruptcy After Withdrawals Halted, Court Froze Bitcoin",
       "summary": "The filings come as the company faces a lawsuit alleging it commingled client crypto assets and refused to return client funds.",
@@ -658,19 +784,6 @@
       "localUrl": "/news/20260316-now-usdc-market-cap-on-ethereum-hits-an-all-time-high-of-55b-per-token-terminal-.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Embattled crypto lender BlockFills files for bankruptcy in US",
-      "summary": "BlockFills has filed for Chapter 11 bankruptcy in the US after suspending deposits and withdrawals last month, citing deteriorating crypto market conditions.",
-      "url": "https://cointelegraph.com/news/embattled-crypto-lender-blockfills-files-bankruptcy-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-16T03:17:10.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260316-embattled-crypto-lender-blockfills-files-for-bankruptcy-in-us",
-      "localUrl": "/news/20260316-embattled-crypto-lender-blockfills-files-for-bankruptcy-in-us.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Traders Flip Senate Control Bet as Democrats Overtake Republicans on Kalshi, Polymarket",
       "summary": "Prediction markets tracking Senate control have swung sharply in recent weeks as traders reassess political risk amid escalating tensions in Iran.",
@@ -693,19 +806,6 @@
       "category": "X热点",
       "slug": "20260316-crypto-trading-and-lending-firm-blockfills-operating-entity-reliz-ltd-has-filed-",
       "localUrl": "/news/20260316-crypto-trading-and-lending-firm-blockfills-operating-entity-reliz-ltd-has-filed-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Aave to launch ‘Aave Shield’ after $50M token swap mishap",
-      "summary": "In a post-mortem of the incident, Aave clarified it was not slippage, but an illiquid market that caused the trader to lose over $50 million while swapping USDT for AAVE.",
-      "url": "https://cointelegraph.com/news/aave-roll-out-aave-shield-after-50m-user-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-16T01:00:59.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260316-aave-to-launch-aave-shield-after-50m-token-swap-mishap",
-      "localUrl": "/news/20260316-aave-to-launch-aave-shield-after-50m-token-swap-mishap.html"
     },
     {
       "source": "X Wire",
@@ -765,30 +865,6 @@
       "localUrl": "/news/20260315-just-in-73000-bitcoin-xcom.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-15T21:56:41.000Z",
-      "keywords": [
-        "Trump memecoin",
-        "Solana memecoin",
-        "TRUMP token",
-        "Solana",
-        "SOL",
-        "Nova Labs",
-        "SEC",
-        "Securities and Exchange Commission",
-        "Crypto regulation",
-        "TRUMP rally",
-        "Bitcoin",
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260315-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260315-heres-what-happened-in-crypto-today.html"
-    },
-    {
       "source": "Decrypt",
       "title": "You Can Control an AI Agent's Crypto Spending With Ledger Hardware Wallets and MoonPay",
       "summary": "The Ledger hardware wallet integration lets users approve AI-driven crypto transactions on-device while keeping private keys secure.",
@@ -813,37 +889,6 @@
       "localUrl": "/news/20260315-fun-fact-out-of-roughly-52500-bitcoin-blocks-mined-each-year-only-about-2025-are.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "The SEC and CFTC join hands: State of Crypto",
-      "summary": "The SEC and CFTC signed a memorandum of understanding to do a better job providing a combined regulatory approach to the digital asset sector.",
-      "url": "https://www.coindesk.com/policy/2026/03/15/the-sec-and-cftc-join-hands-state-of-crypto",
-      "publishedAt": "2026-03-15T19:33:07.000Z",
-      "keywords": [
-        "Policy",
-        "Newsletters",
-        "State of Crypto",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260315-the-sec-and-cftc-join-hands-state-of-crypto",
-      "localUrl": "/news/20260315-the-sec-and-cftc-join-hands-state-of-crypto.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto’s age of hype is over, making way for the real infrastructure to be built",
-      "summary": "Nikolic challenges a recent CoinDesk op-ed, declaring \"crypto's rock 'n' roll era is over,\" and argues that it’s the best shift for the industry’s builders.",
-      "url": "https://www.coindesk.com/opinion/2026/03/15/crypto-s-age-of-hype-is-over-making-way-for-the-real-infrastructure-to-be-built",
-      "publishedAt": "2026-03-15T19:30:00.000Z",
-      "keywords": [
-        "Opinion",
-        "Crypto",
-        "Opinion"
-      ],
-      "category": "综合",
-      "slug": "20260315-cryptos-age-of-hype-is-over-making-way-for-the-real-infrastructure-to-be-built",
-      "localUrl": "/news/20260315-cryptos-age-of-hype-is-over-making-way-for-the-real-infrastructure-to-be-built.html"
-    },
-    {
       "source": "Decrypt",
       "title": "We Tested Utopai's PAI: The Best Long-Form AI Video Generator Today?",
       "summary": "Utopai Studios built a professional-grade cinematic engine that produces stunning long-form AI video—but its learning curve can be punishing.",
@@ -866,24 +911,6 @@
       "category": "X热点",
       "slug": "20260315-aew-presents-revolution-sun-mar-15-2026-400-pm-crypto-com-arena-los-angeles-ca-a",
       "localUrl": "/news/20260315-aew-presents-revolution-sun-mar-15-2026-400-pm-crypto-com-arena-los-angeles-ca-a.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin set for best week since September 2025 as correlation with tech stocks weakens",
-      "summary": "Bitcoin is outperforming equities and gold since the Middle East conflict began, as institutional inflows return while broader market sentiment remains cautious.",
-      "url": "https://www.coindesk.com/markets/2026/03/15/bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-weakens",
-      "publishedAt": "2026-03-15T16:44:57.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Gold",
-        "bitcoin correlation",
-        "Middle East",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260315-bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-w",
-      "localUrl": "/news/20260315-bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-w.html"
     },
     {
       "source": "Decrypt",
@@ -1080,33 +1107,6 @@
       "category": "监管",
       "slug": "20260313-us-treasury-sanctions-alleged-800-million-north-korean-it-worker-fraud-operation",
       "localUrl": "/news/20260313-us-treasury-sanctions-alleged-800-million-north-korean-it-worker-fraud-operation.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "PIP Labs Sheds Staff as Story Protocol Leans Into AI",
-      "summary": "The team behind Story Protocol has let go of several employees and contractors as it explores opportunities associated with AI agents.",
-      "url": "https://decrypt.co/361027/pip-labs-sheds-staff-story-protocol-ai",
-      "publishedAt": "2026-03-13T15:48:30.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "基础设施",
-      "slug": "20260313-pip-labs-sheds-staff-as-story-protocol-leans-into-ai",
-      "localUrl": "/news/20260313-pip-labs-sheds-staff-as-story-protocol-leans-into-ai.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Dubai’s Token2049, TON Crypto Conferences Canceled as Iran Conflict Rages On",
-      "summary": "A pair of planned Dubai conferences, Token2049 and TON Connect, have been pulled from the calendar amid Middle East unrest.",
-      "url": "https://decrypt.co/361013/dubai-token2049-ton-crypto-conferences-canceled-iran-conflict",
-      "publishedAt": "2026-03-13T14:48:23.000Z",
-      "keywords": [
-        "toncoin",
-        "Business"
-      ],
-      "category": "综合",
-      "slug": "20260313-dubais-token2049-ton-crypto-conferences-canceled-as-iran-conflict-rages-on",
-      "localUrl": "/news/20260313-dubais-token2049-ton-crypto-conferences-canceled-as-iran-conflict-rages-on.html"
     },
     {
       "source": "Ethereum Blog",
