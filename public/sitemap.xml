@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-17T21:52:38.794Z</lastmod>
+    <lastmod>2026-03-17T22:50:19.027Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-17T21:52:38.794Z</lastmod>
+    <lastmod>2026-03-17T22:50:19.027Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260317-nvidias-dlss-5-launch-sparks-meme-frenzy-as-gamers-balk-at-ai-neural-rendering.html</loc>
+    <lastmod>2026-03-17T22:45:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260317-sec-will-consider-most-crypto-assets-not-securities-under-federal-law.html</loc>
+    <lastmod>2026-03-17T22:06:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260317-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-17T22:05:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260317-crypto-gift-card-platform-bitrefill-discloses-hack-points-finger-at-north-korean.html</loc>
@@ -265,12 +283,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260317-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-03-17T14:26:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260317-crypto-trading-firm-gsr-expands-token-advisory-with-57-million-in-acquisitions.html</loc>
     <lastmod>2026-03-17T14:15:09.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -333,12 +345,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260317-ripple-looks-to-expand-crypto-and-payment-services-in-brazil.html</loc>
     <lastmod>2026-03-17T13:06:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260317-cango-reports-285m-q4-loss-as-bitcoin-mining-costs-surge-in-2025.html</loc>
-    <lastmod>2026-03-17T13:04:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -421,12 +427,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260317-minors-sue-xai-in-california-over-alleged-grok-deepfake-images.html</loc>
-    <lastmod>2026-03-17T04:46:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260317-new-t-rowe-price-files-an-amendment-for-its-active-crypto-etf-adding-sui-to-a-li.html</loc>
     <lastmod>2026-03-17T04:30:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -487,12 +487,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260316-new-the-crypto-tax-roundtable-that-was-postponed-due-to-snow-last-month-has-been.html</loc>
-    <lastmod>2026-03-16T13:00:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260316-new-crypto-in-the-capitol-any-more-clarity-on-clarity-policymakers-gather-in-dc-.html</loc>
     <lastmod>2026-03-16T12:18:36.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -501,6 +495,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260316-strategy-has-acquired-22337-btc-for-157-billion-at-70194-per-bitcoin-as-of-31520.html</loc>
     <lastmod>2026-03-16T12:01:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260316-ethereum-og-just-bought-17m-eth-accounts-connected-to-0xbilly-just-bought-175m-o.html</loc>
+    <lastmod>2026-03-16T10:09:29.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
