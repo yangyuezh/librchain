@@ -1,7 +1,104 @@
 {
-  "updatedAt": "2026-03-17T19:18:32.612Z",
-  "total": 83,
+  "updatedAt": "2026-03-17T20:54:42.140Z",
+  "total": 84,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Moody’s brings credit ratings onchain with Canton Network integration",
+      "summary": "The move marks an early step toward embedding traditional risk assessment into blockchain-based financial infrastructure.",
+      "url": "https://cointelegraph.com/news/moody-s-brings-credit-ratings-onchain-with-canton-network-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-17T20:41:44.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260317-moodys-brings-credit-ratings-onchain-with-canton-network-integration",
+      "localUrl": "/news/20260317-moodys-brings-credit-ratings-onchain-with-canton-network-integration.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "CFTC Clears Phantom to Connect Users to Regulated Derivatives Markets",
+      "summary": "Under the ruling, the developer of the Phantom self-custody crypto wallet avoids having to register as a broker.",
+      "url": "https://decrypt.co/361449/phantom-cftc-regulated-derivatives-markets",
+      "publishedAt": "2026-03-17T20:35:27.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260317-cftc-clears-phantom-to-connect-users-to-regulated-derivatives-markets",
+      "localUrl": "/news/20260317-cftc-clears-phantom-to-connect-users-to-regulated-derivatives-markets.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's rally faces key hurdle with Wednesday's Fed meeting",
+      "summary": "Hot PPI inflation data in the morning and hawkish remarks by Powell in the afternoon would be the most damaging combination for risk assets, including crypto, Bitfinex analysts said.",
+      "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-s-rally-faces-key-hurdle-with-wednesday-s-fed-meeting",
+      "publishedAt": "2026-03-17T20:30:27.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Federal Reserve",
+        "Jerome Powell",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260317-bitcoins-rally-faces-key-hurdle-with-wednesdays-fed-meeting",
+      "localUrl": "/news/20260317-bitcoins-rally-faces-key-hurdle-with-wednesdays-fed-meeting.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. SEC issues first-ever definitions for what crypto assets are securities",
+      "summary": "The U.S. Securities and Exchange Commission shared the informal guidance it'll use to classify crypto securities alongside its sister agency overseeing commodities.",
+      "url": "https://www.coindesk.com/policy/2026/03/17/u-s-sec-issues-first-ever-definitions-for-what-crypto-assets-are-securities",
+      "publishedAt": "2026-03-17T20:28:11.000Z",
+      "keywords": [
+        "Policy",
+        "SEC",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260317-us-sec-issues-first-ever-definitions-for-what-crypto-assets-are-securities",
+      "localUrl": "/news/20260317-us-sec-issues-first-ever-definitions-for-what-crypto-assets-are-securities.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin holds $70K, bringing spot ETF buyers close to breakeven: Is the bull market back?",
+      "summary": "A Bitcoin price rally to $80,000 would bring the bulk of spot BTC ETF holders to breakeven on their positions and possibly signal the resumption of the crypto bull market.",
+      "url": "https://cointelegraph.com/news/bitcoin-holds-dollar70k-bringing-spot-etf-buyers-close-breakeven-is-bull-market-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-17T20:27:57.000Z",
+      "keywords": [
+        "Market Analysis"
+      ],
+      "category": "监管",
+      "slug": "20260317-bitcoin-holds-70k-bringing-spot-etf-buyers-close-to-breakeven-is-the-bull-market",
+      "localUrl": "/news/20260317-bitcoin-holds-70k-bringing-spot-etf-buyers-close-to-breakeven-is-the-bull-market.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "SEC Declares 'Most Crypto Assets' Not Securities, Including Staking, Airdrops and Bitcoin Mining",
+      "summary": "SEC Chair Paul Atkins said the new securities guidance, which impacts \"most crypto assets,\" provides \"clear lines in clear terms.\"",
+      "url": "https://decrypt.co/361446/sec-most-crypto-assets-not-securities-staking-airdrops-bitcoin-mining",
+      "publishedAt": "2026-03-17T20:05:00.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260317-sec-declares-most-crypto-assets-not-securities-including-staking-airdrops-and-bi",
+      "localUrl": "/news/20260317-sec-declares-most-crypto-assets-not-securities-including-staking-airdrops-and-bi.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "What If Elon Musk's Grok Leaks Classified Info? Elizabeth Warren Is Worried—The Pentagon Isn't",
+      "summary": "Sen. Warren is demanding answers after the Pentagon handed Elon Musk's xAI classified network access—despite NSA warnings and a trail of harmful AI outputs.",
+      "url": "https://decrypt.co/361441/elon-musk-grok-leaks-classified-info-elizabeth-warren-worried",
+      "publishedAt": "2026-03-17T19:23:57.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "市场",
+      "slug": "20260317-what-if-elon-musks-grok-leaks-classified-info-elizabeth-warren-is-worriedthe-pen",
+      "localUrl": "/news/20260317-what-if-elon-musks-grok-leaks-classified-info-elizabeth-warren-is-worriedthe-pen.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Tether launches AI training framework for smartphones and consumer GPUs",
@@ -640,32 +737,6 @@
       "localUrl": "/news/20260317-stablecoins-to-replace-old-fx-rails-but-off-ramps-remain-a-chokepoint.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin adoption metrics say one thing, price action says another",
-      "summary": "Bitcoin adoption is surging across institutions, banks and corporations, but the price tells a different story. What explains the divergence?",
-      "url": "https://cointelegraph.com/news/bitcoin-adoption-vs-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-17T12:46:26.000Z",
-      "keywords": [
-        "Analysis"
-      ],
-      "category": "市场",
-      "slug": "20260317-bitcoin-adoption-metrics-say-one-thing-price-action-says-another",
-      "localUrl": "/news/20260317-bitcoin-adoption-metrics-say-one-thing-price-action-says-another.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "DAOs may need to ditch decentralization to court institutions",
-      "summary": "Crypto’s push into institutional adoption is forcing DAOs to choose between maintaining decentralization and business deals.",
-      "url": "https://cointelegraph.com/news/daos-ditch-decentralization-court-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-17T12:46:19.000Z",
-      "keywords": [
-        "Features"
-      ],
-      "category": "综合",
-      "slug": "20260317-daos-may-need-to-ditch-decentralization-to-court-institutions",
-      "localUrl": "/news/20260317-daos-may-need-to-ditch-decentralization-to-court-institutions.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Argentina joins growing list of countries blocking Polymarket access",
       "summary": "The ruling directs internet providers to block access to the site, and Apple and Google to remove or restrict Polymarket's mobile apps.",
@@ -748,38 +819,6 @@
       "localUrl": "/news/20260317-myriad-traders-flip-bullish-on-ethereum-amid-rebound-to-2300.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin hits a wall at $75,000 while onchain energy markets run hot",
-      "summary": "Your day-ahead look for March 17, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/03/17/bitcoin-hits-a-wall-at-usd75-000-while-onchain-energy-markets-run-hot",
-      "publishedAt": "2026-03-17T11:23:03.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260317-bitcoin-hits-a-wall-at-75000-while-onchain-energy-markets-run-hot",
-      "localUrl": "/news/20260317-bitcoin-hits-a-wall-at-75000-while-onchain-energy-markets-run-hot.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cango is selling off its bitcoin stash to pay down debt and fund an AI makeover",
-      "summary": "The company sold 4,451 BTC in February to cut debt and fund AI infrastructure pivot.",
-      "url": "https://www.coindesk.com/markets/2026/03/17/cango-is-selling-off-its-bitcoin-stash-to-pay-down-debt-and-fund-an-ai-makeover",
-      "publishedAt": "2026-03-17T11:00:13.000Z",
-      "keywords": [
-        "Markets",
-        "AI",
-        "Bitcoin Mining",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260317-cango-is-selling-off-its-bitcoin-stash-to-pay-down-debt-and-fund-an-ai-makeover",
-      "localUrl": "/news/20260317-cango-is-selling-off-its-bitcoin-stash-to-pay-down-debt-and-fund-an-ai-makeover.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Buenos Aires Court Orders Polymarket Blocked in Argentina",
       "summary": "The ban is the latest legal setback for prediction markets, which are facing regulatory pushback around the world.",
@@ -792,6 +831,17 @@
       "category": "监管",
       "slug": "20260317-buenos-aires-court-orders-polymarket-blocked-in-argentina",
       "localUrl": "/news/20260317-buenos-aires-court-orders-polymarket-blocked-in-argentina.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇻🇳 UPDATE: Vietnam plans to launch its first licensed crypto exchanges as soon as this month, as authorities move to curb overseas trading, per Reuters. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QTGtyX1ZiRFA2bjRmSGtnZmF0ZENSdm9CSXpPN0RsWTRrSEk0QkVNbDBSYUhEWGZVOFpZSkZPZzVnTXRBZXoxeU1tMjByRFNuOFZPamJWZlhTUHdid21ENUJ4Zjc?oc=5\" target=\"_blank\">🇻🇳 UPDATE: Vietnam plans to l…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QTGtyX1ZiRFA2bjRmSGtnZmF0ZENSdm9CSXpPN0RsWTRrSEk0QkVNbDBSYUhEWGZVOFpZSkZPZzVnTXRBZXoxeU1tMjByRFNuOFZPamJWZlhTUHdid21ENUJ4Zjc?oc=5",
+      "publishedAt": "2026-03-17T10:11:15.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260317-update-vietnam-plans-to-launch-its-first-licensed-crypto-exchanges-as-soon-as-th",
+      "localUrl": "/news/20260317-update-vietnam-plans-to-launch-its-first-licensed-crypto-exchanges-as-soon-as-th.html"
     },
     {
       "source": "X Wire",
@@ -848,6 +898,17 @@
       "category": "综合",
       "slug": "20260317-ofac-it-wmd",
       "localUrl": "/news/20260317-ofac-it-wmd.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "💥BREAKING: 🇺🇸 Blackrock buys $139,050,000 worth of Bitcoin. Inflows are back 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE40UGh6UFI1T1ktQWVGSXBYdkhZeFhjbFlabEx3cjFGMFN6SjQ3T3ZNNTY2WjJGVWEwRGliNURja3dVdnhmZ0VsRkkwMzdFT0R4TDZrRzhkc29ZeG1yV0ZjSE1B?oc=5\" target=\"_blank\">💥BREAKING: 🇺🇸 Blackrock buys $1…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40UGh6UFI1T1ktQWVGSXBYdkhZeFhjbFlabEx3cjFGMFN6SjQ3T3ZNNTY2WjJGVWEwRGliNURja3dVdnhmZ0VsRkkwMzdFT0R4TDZrRzhkc29ZeG1yV0ZjSE1B?oc=5",
+      "publishedAt": "2026-03-17T04:47:32.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260317-breaking-blackrock-buys-139050000-worth-of-bitcoin-inflows-are-back-xcom",
+      "localUrl": "/news/20260317-breaking-blackrock-buys-139050000-worth-of-bitcoin-inflows-are-back-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -933,6 +994,17 @@
       "localUrl": "/news/20260317-reimagining-global-payroll-with-takenos.html"
     },
     {
+      "source": "Solana Blog",
+      "title": "Webinar Recap: Corporate Treasury Onchain — 24/7 Global Liquidity",
+      "summary": "Discover how global enterprises are moving corporate treasury onchain. Learn how Solana and Fireblocks enable 24/7 liquidity, instant global payouts, and yield generation using stablecoins.",
+      "url": "https://solana.com/news/webinar-recap-corporate-treasury-onchain",
+      "publishedAt": "2026-03-17T00:00:00.000Z",
+      "keywords": [],
+      "category": "基础设施",
+      "slug": "20260317-webinar-recap-corporate-treasury-onchain-247-global-liquidity",
+      "localUrl": "/news/20260317-webinar-recap-corporate-treasury-onchain-247-global-liquidity.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Did ChatGPT Really Cure a Dog's Cancer? It's Complicated",
       "summary": "The viral Rosie story credited AI with designing a custom cancer vaccine. The scientists who actually made it say the credit belongs elsewhere entirely.",
@@ -946,32 +1018,6 @@
       "localUrl": "/news/20260316-did-chatgpt-really-cure-a-dogs-cancer-its-complicated.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Pokémon Go Players Helped Map the World—Now That Data Is Training Delivery Robots",
-      "summary": "Niantic’s spatial AI, built partly from optional scans submitted through its AR games, is now helping delivery robots navigate cities.",
-      "url": "https://decrypt.co/361302/pokemon-go-map-world-now-data-training-robots",
-      "publishedAt": "2026-03-16T22:23:22.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260316-pokemon-go-players-helped-map-the-worldnow-that-data-is-training-delivery-robots",
-      "localUrl": "/news/20260316-pokemon-go-players-helped-map-the-worldnow-that-data-is-training-delivery-robots.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Man Alleges Wife Stole $172 Million in Bitcoin After 'Covertly Recording' Him",
-      "summary": "A man alleged in UK court that his now-estranged wife stole more than $171 million in Bitcoin after using CCTV to obtain a seed phrase.",
-      "url": "https://decrypt.co/361291/man-alleges-wife-stole-171-million-bitcoin-covertly-recording",
-      "publishedAt": "2026-03-16T21:37:01.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260316-man-alleges-wife-stole-172-million-in-bitcoin-after-covertly-recording-him",
-      "localUrl": "/news/20260316-man-alleges-wife-stole-172-million-in-bitcoin-after-covertly-recording-him.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: There's now a 68% chance Bitcoin pumps to $80,000 instead of falling to $60,000, according to Polymarket 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yWFNCSEJPcWFKdGZaTnMzanQ4VzkxT0w0aVM1ZHc5VzRLVkUyTFh5WjdYX0d4UVkxUW96YTMzRHFzenRURmpSdE85STlHM01kU2prOE9UY0M3YkhVSl83NG5SeU1sT3c?oc=5\" target=\"_blank\">JUST IN: There's now a 68% …",
@@ -981,19 +1027,6 @@
       "category": "X热点",
       "slug": "20260316-just-in-theres-now-a-68-chance-bitcoin-pumps-to-80000-instead-of-falling-to-6000",
       "localUrl": "/news/20260316-just-in-theres-now-a-68-chance-bitcoin-pumps-to-80000-instead-of-falling-to-6000.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "IBM Opens Quantum Hardware to Researchers as Bitcoin Security Threat Looms",
-      "summary": "IBM offers expanded access to quantum processors as developers prepare for the eventual challenge to Bitcoin's cryptography.",
-      "url": "https://decrypt.co/361286/ibm-opens-quantum-hardware-researchers-bitcoin-security-threat",
-      "publishedAt": "2026-03-16T21:04:15.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "监管",
-      "slug": "20260316-ibm-opens-quantum-hardware-to-researchers-as-bitcoin-security-threat-looms",
-      "localUrl": "/news/20260316-ibm-opens-quantum-hardware-to-researchers-as-bitcoin-security-threat-looms.html"
     },
     {
       "source": "X Wire",
@@ -1041,17 +1074,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Konnex Autonomous Units mint is now LIVE. Exclusively on @opensea Chain: Ethereum Price: 0.0004 ETH Your gateway into Konnex awaits. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BRUllVjJFTEJvSXBJOHZlb3ZQTzlnbGszYTU4YjQwTWxJNmVRb05XNTAtdnNKajVmTC1YQnhYNFFTd0RzWG9GZTV6NXJ2eGl0SVo4b3J3QkJsN2J4SGJVaUVfcw?oc=5\" target=\"_blank\">Konnex Autonomous Units mint is …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BRUllVjJFTEJvSXBJOHZlb3ZQTzlnbGszYTU4YjQwTWxJNmVRb05XNTAtdnNKajVmTC1YQnhYNFFTd0RzWG9GZTV6NXJ2eGl0SVo4b3J3QkJsN2J4SGJVaUVfcw?oc=5",
-      "publishedAt": "2026-03-16T14:00:09.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260316-konnex-autonomous-units-mint-is-now-live-exclusively-on-opensea-chain-ethereum-p",
-      "localUrl": "/news/20260316-konnex-autonomous-units-mint-is-now-live-exclusively-on-opensea-chain-ethereum-p.html"
-    },
-    {
-      "source": "X Wire",
       "title": "🚨🗞️NEW: Crypto in the Capitol: Any More Clarity on Clarity? Policymakers gather in D.C. for a big crypto conference week, where attendees will watch for further clues on Clarity; the @custodiabank case may be ripe for a Supreme Court look; and more. ⬇️ - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zc01HSGMyUWlLUTJZa3RQVEQtMncxcjc1MXhmUzc4eVVTMUg1cHFTWnM5YTJ1MUdPcXJjdFU1cE9WakxLMVQ3bE5FeTNXQVAybkpDV2FPbF96UzA5R3cwS3RJODl5UQ?oc=5\" target=\"_blank\">🚨🗞️NEW: Crypto in the Capi…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zc01HSGMyUWlLUTJZa3RQVEQtMncxcjc1MXhmUzc4eVVTMUg1cHFTWnM5YTJ1MUdPcXJjdFU1cE9WakxLMVQ3bE5FeTNXQVAybkpDV2FPbF96UzA5R3cwS3RJODl5UQ?oc=5",
@@ -1071,6 +1093,17 @@
       "category": "X热点",
       "slug": "20260316-strategy-has-acquired-22337-btc-for-157-billion-at-70194-per-bitcoin-as-of-31520",
       "localUrl": "/news/20260316-strategy-has-acquired-22337-btc-for-157-billion-at-70194-per-bitcoin-as-of-31520.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "DANGEROUS: 🇨🇳🇺🇸 China has surrounded Taiwan with 26 warplanes and 7 warships. Will China invade Taiwan since the United States is busy in the Middle East? - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UTk9iNzU1SVROT24xODZuZzRYSUdxY01GbkJzZl8tUVpacW82TnJPZ3JKS1N1UGRUMHJqaUFmc2kxaHU3SHpfTWltd3pPOVlGRHJvZkFoR0tHMmNva1VEZkh3?oc=5\" target=\"_blank\">DANGEROUS: 🇨🇳🇺🇸 China has surr…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UTk9iNzU1SVROT24xODZuZzRYSUdxY01GbkJzZl8tUVpacW82TnJPZ3JKS1N1UGRUMHJqaUFmc2kxaHU3SHpfTWltd3pPOVlGRHJvZkFoR0tHMmNva1VEZkh3?oc=5",
+      "publishedAt": "2026-03-16T11:06:39.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260316-dangerous-china-has-surrounded-taiwan-with-26-warplanes-and-7-warships-will-chin",
+      "localUrl": "/news/20260316-dangerous-china-has-surrounded-taiwan-with-26-warplanes-and-7-warships-will-chin.html"
     },
     {
       "source": "X Wire",
@@ -1105,28 +1138,6 @@
       "category": "综合",
       "slug": "20260316-fatf",
       "localUrl": "/news/20260316-fatf.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Erik Voorhees( @ErikVoorhees), an early #Bitcoin supporter and founder of ShapeShift, is buying ETH like crazy after a one-year break! He spent 49.08M $USDT to buy 23,393 $ETH at $2,098 through 2 wallets. He still holds 35.25M $USDT and may buy more - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE80SXYtcVctLUtub1hZMTFDaGJEZmExTkMtLW1XZlhfRHVjMTNiYkRjNWxleDZ4SHlTMEhTQ01SUnN2Sks0UkFFS2VqUXNKaUw4bXE4WkREUVh2Sk11Ry02aXpB?oc=5\" target=\"_blank\">Erik Voorhees( @ErikVoorhees), an …",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80SXYtcVctLUtub1hZMTFDaGJEZmExTkMtLW1XZlhfRHVjMTNiYkRjNWxleDZ4SHlTMEhTQ01SUnN2Sks0UkFFS2VqUXNKaUw4bXE4WkREUVh2Sk11Ry02aXpB?oc=5",
-      "publishedAt": "2026-03-16T01:00:45.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260316-erik-voorhees-erikvoorhees-an-early-bitcoin-supporter-and-founder-of-shapeshift-",
-      "localUrl": "/news/20260316-erik-voorhees-erikvoorhees-an-early-bitcoin-supporter-and-founder-of-shapeshift-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "$72,333.19 #Bitcoin - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYaVQ4cGlpa294ZDJSSVlQVksxeUNld0duYlhfbXVpM3ZIWGtHRnppd2szRXJnVnNzWGo5U2dGYXNZa084YlZIMERlaDlyWjk1M0REOGZaSW5zNHhI?oc=5\" target=\"_blank\">$72,333.19 #Bitcoin</a> <font color=\"#6f6f…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYaVQ4cGlpa294ZDJSSVlQVksxeUNld0duYlhfbXVpM3ZIWGtHRnppd2szRXJnVnNzWGo5U2dGYXNZa084YlZIMERlaDlyWjk1M0REOGZaSW5zNHhI?oc=5",
-      "publishedAt": "2026-03-16T00:43:45.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260316-7233319-bitcoin-xcom",
-      "localUrl": "/news/20260316-7233319-bitcoin-xcom.html"
     },
     {
       "source": "X Wire",
