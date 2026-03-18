@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-18T09:05:14.909Z</lastmod>
+    <lastmod>2026-03-18T10:10:31.286Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-18T09:05:14.909Z</lastmod>
+    <lastmod>2026-03-18T10:10:31.286Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260318-bitcoins-progress-above-75000-elusive-after-sec-cftc-crypto-guidance.html</loc>
+    <lastmod>2026-03-18T09:29:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260318-bitcoin-etf-inflow-streak-nears-october-run-but-totals-still-lag.html</loc>
@@ -57,6 +63,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260318-bitcoin-inflows-to-exchanges-spike-as-btc-hits-resistance-at-75k.html</loc>
     <lastmod>2026-03-18T05:42:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260318-breaking-the-united-states-national-debt-has-officially-surpassed-39000000000000.html</loc>
+    <lastmod>2026-03-18T05:05:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -109,6 +121,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260318-big-sec-chair-paul-atkins-unveils-regulation-crypto-assets-a-token-safe-harbor-p.html</loc>
+    <lastmod>2026-03-18T00:30:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260317-nvidias-dlss-5-launch-sparks-meme-frenzy-as-gamers-balk-at-ai-neural-rendering.html</loc>
     <lastmod>2026-03-17T22:45:41.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -123,12 +141,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260317-heres-what-happened-in-crypto-today.html</loc>
     <lastmod>2026-03-17T22:05:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260317-update-according-to-cryptoquant-bitcoins-rally-could-face-resistance-between-75k.html</loc>
-    <lastmod>2026-03-17T22:00:13.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,12 +427,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260317-ripple-looks-to-expand-crypto-and-payment-services-in-brazil.html</loc>
-    <lastmod>2026-03-17T13:06:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260317-theo-taps-gold-futures-for-yield-bearing-stablecoin-amid-100-million-raise.html</loc>
     <lastmod>2026-03-17T13:01:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -447,12 +453,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260317-ofac-it-wmd.html</loc>
     <lastmod>2026-03-17T05:56:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260317-new-t-rowe-price-files-an-amendment-for-its-active-crypto-etf-adding-sui-to-a-li.html</loc>
-    <lastmod>2026-03-17T04:30:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
