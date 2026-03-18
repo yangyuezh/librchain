@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-18T21:48:14.905Z</lastmod>
+    <lastmod>2026-03-18T22:47:18.524Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-18T21:48:14.905Z</lastmod>
+    <lastmod>2026-03-18T22:47:18.524Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260318-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-18T21:55:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260318-fed-leaves-rates-unchanged-says-geopolitical-uncertainty-clouds-outlook.html</loc>
@@ -63,6 +69,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260318-bitcoin-sinks-below-71000-stocks-close-at-session-lows-as-2026-fed-rate-cut-hope.html</loc>
     <lastmod>2026-03-18T20:19:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260318-just-in-sec-approves-nasdaq-rule-change-to-enable-tokenized-securities-trading-x.html</loc>
+    <lastmod>2026-03-18T20:14:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -265,12 +277,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260318-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-03-18T14:50:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260318-japans-sbi-vc-trade-launches-retail-usdc-lending-as-stablecoin-use-grows.html</loc>
     <lastmod>2026-03-18T14:42:53.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -387,12 +393,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260318-insight-ethereums-uptrend-remains-strong-as-open-interest-rises-across-major-exc.html</loc>
     <lastmod>2026-03-18T08:22:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260318-open-interest-supports-the-stability-of-ethereums-uptrend-this-trend-in-open-int.html</loc>
-    <lastmod>2026-03-18T07:31:35.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
