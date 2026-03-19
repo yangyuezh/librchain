@@ -1,7 +1,79 @@
 {
-  "updatedAt": "2026-03-19T10:59:38.455Z",
+  "updatedAt": "2026-03-19T11:48:30.248Z",
   "total": 85,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "LA Rideshare Driver Charged With Using $2M in COVID Relief Funds to Buy Crypto",
+      "summary": "Authorities seized almost 40 BTC as part of the investigation, in which a rideshare driver is accused of wire fraud and money laundering.",
+      "url": "https://decrypt.co/361680/la-rideshare-driver-charged-with-using-2m-in-covid-relief-funds-to-buy-crypto",
+      "publishedAt": "2026-03-19T11:45:25.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260319-la-rideshare-driver-charged-with-using-2m-in-covid-relief-funds-to-buy-crypto",
+      "localUrl": "/news/20260319-la-rideshare-driver-charged-with-using-2m-in-covid-relief-funds-to-buy-crypto.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto.com cuts 12% of staff as it integrates AI across the business for efficiency",
+      "summary": "The exchange laid off about 180 employees as it restructures and rolls out enterprise-wide AI to drive efficiencies.",
+      "url": "https://www.coindesk.com/business/2026/03/19/crypto-com-cuts-12-of-staff-as-it-integrates-ai-into-internal-processes",
+      "publishedAt": "2026-03-19T11:44:37.000Z",
+      "keywords": [
+        "Finance",
+        "Cryptocurrency",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260319-cryptocom-cuts-12-of-staff-as-it-integrates-ai-across-the-business-for-efficienc",
+      "localUrl": "/news/20260319-cryptocom-cuts-12-of-staff-as-it-integrates-ai-across-the-business-for-efficienc.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Quantum-Ready Bitcoin Prototype Debuts, but Adoption Hurdles Loom",
+      "summary": "Adopting the model would require miners and users to migrate to a separate “Bitcoin Quantum” blockchain rather than upgrade the existing network.",
+      "url": "https://decrypt.co/361639/quantum-ready-bitcoin-prototype-debuts-adoption-hurdles-loom",
+      "publishedAt": "2026-03-19T11:31:03.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "基础设施",
+      "slug": "20260319-quantum-ready-bitcoin-prototype-debuts-but-adoption-hurdles-loom",
+      "localUrl": "/news/20260319-quantum-ready-bitcoin-prototype-debuts-but-adoption-hurdles-loom.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Capital is shifting into digital dollars as bitcoin wilts",
+      "summary": "Your day-ahead look for March 19, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/03/19/capital-is-shifting-into-digital-dollars-as-bitcoin-wilts",
+      "publishedAt": "2026-03-19T11:28:28.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260319-capital-is-shifting-into-digital-dollars-as-bitcoin-wilts",
+      "localUrl": "/news/20260319-capital-is-shifting-into-digital-dollars-as-bitcoin-wilts.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Venus’ XVS token plunges 9% as exploit leaves protocol with bad debt",
+      "summary": "The exploit, which occurred on March 16, didn’t appear to impact XVS prices until analysis showed major holders moving large amounts to exchanges.",
+      "url": "https://www.coindesk.com/markets/2026/03/19/venus-xvs-token-plunges-9-as-exploit-leaves-protocol-with-bad-debt",
+      "publishedAt": "2026-03-19T11:18:19.000Z",
+      "keywords": [
+        "Markets",
+        "DeFi",
+        "Web3",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260319-venus-xvs-token-plunges-9-as-exploit-leaves-protocol-with-bad-debt",
+      "localUrl": "/news/20260319-venus-xvs-token-plunges-9-as-exploit-leaves-protocol-with-bad-debt.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin slips to $70,000 as oil surge, Fed pause weigh on risk assets",
@@ -833,50 +905,15 @@
       "localUrl": "/news/20260318-breaking-bitcoin-is-now-projected-to-crash-below-45000-by-the-end-of-this-year-5.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions",
-      "summary": "Kraken's parent company filed a draft S-1 registration statement with the SEC in November regarding the proposed initial public offering of its common stock.",
-      "url": "https://www.coindesk.com/business/2026/03/17/crypto-exchange-kraken-freezes-multibillion-dollar-ipo-plan-due-to-difficult-market-conditions",
-      "publishedAt": "2026-03-18T15:14:18.000Z",
-      "keywords": [
-        "Finance",
-        "Kraken",
-        "IPO",
-        "Exclusive",
-        "Crypto Exchange",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260318-crypto-exchange-kraken-freezes-multibillion-dollar-ipo-plan-due-to-difficult-mar",
-      "localUrl": "/news/20260318-crypto-exchange-kraken-freezes-multibillion-dollar-ipo-plan-due-to-difficult-mar.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Traders can now bet on the S&P 500 around the clock without ever touching a traditional stock exchange",
-      "summary": "S&P Dow Jones Indices licenses its flagship index for crypto trading on Hyperliquid, as perpetual futures gain traction beyond traditional markets.",
-      "url": "https://www.coindesk.com/markets/2026/03/18/traders-can-now-bet-on-the-s-and-p-500-around-the-clock-without-ever-touching-a-traditional-stock-exchange",
-      "publishedAt": "2026-03-18T15:13:09.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260318-traders-can-now-bet-on-the-sp-500-around-the-clock-without-ever-touching-a-tradi",
-      "localUrl": "/news/20260318-traders-can-now-bet-on-the-sp-500-around-the-clock-without-ever-touching-a-tradi.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Key U.S. senator on crypto market structure bill negotiation: 'We think we've got it'",
-      "summary": "Senator Cynthia Lummis, at the center of legislative talks, said the discussion is down to nuance and the bill will finally emerge from her committee in April.",
-      "url": "https://www.coindesk.com/policy/2026/03/18/key-u-s-senator-on-crypto-market-structure-bill-negotiation-we-think-we-ve-got-it",
-      "publishedAt": "2026-03-18T15:10:40.000Z",
-      "keywords": [
-        "Policy",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260318-key-us-senator-on-crypto-market-structure-bill-negotiation-we-think-weve-got-it",
-      "localUrl": "/news/20260318-key-us-senator-on-crypto-market-structure-bill-negotiation-we-think-weve-got-it.html"
+      "source": "X Wire",
+      "title": "Crypto has a capital efficiency problem. Hundreds of billions in tokens sit idle. @intraVerse_Game is changing that by turning tokens into playable experiences. Here’s how SuperStake + zkVerify unlock a new model for onchain gaming↴ - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PcWxFMC03Y3hWbW9CbHNxNmRSMUlvMzE1ZkZDWV9fa21rWUZVM29UazdqMFkzSGtLTEJodGVFSWxKWGRndW12TkY4YXRZUmpyZENWcEF5Ukh5UTRWWXR0d2Zn?oc=5\" target=\"_blank\">Crypto has a capital efficiency pr…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PcWxFMC03Y3hWbW9CbHNxNmRSMUlvMzE1ZkZDWV9fa21rWUZVM29UazdqMFkzSGtLTEJodGVFSWxKWGRndW12TkY4YXRZUmpyZENWcEF5Ukh5UTRWWXR0d2Zn?oc=5",
+      "publishedAt": "2026-03-18T15:12:28.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260318-crypto-has-a-capital-efficiency-problem-hundreds-of-billions-in-tokens-sit-idle-",
+      "localUrl": "/news/20260318-crypto-has-a-capital-efficiency-problem-hundreds-of-billions-in-tokens-sit-idle-.html"
     },
     {
       "source": "Decrypt",
@@ -973,32 +1010,6 @@
       "localUrl": "/news/20260318-bitcoin-correcting-this-could-be-due-to-the-upcoming-macroeconomic-week-with-the.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Morning Minute: The SEC & CFTC Declare 'Most Crypto Assets' Are Not Securities",
-      "summary": "After a decade of lawsuits, the SEC and CFTC finally wrote the rules for digital assets.",
-      "url": "https://decrypt.co/361508/morning-minute-the-sec-cftc-declare-most-crypto-assets-are-not-securities",
-      "publishedAt": "2026-03-18T12:04:23.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "监管",
-      "slug": "20260318-morning-minute-the-sec-cftc-declare-most-crypto-assets-are-not-securities",
-      "localUrl": "/news/20260318-morning-minute-the-sec-cftc-declare-most-crypto-assets-are-not-securities.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Forget AGI—Top AI Models Still Struggle With Math",
-      "summary": "New benchmark study results show leading AI models still lag humans in visual math reasoning.",
-      "url": "https://decrypt.co/361474/forget-agi-top-ai-models-still-struggle-with-math",
-      "publishedAt": "2026-03-18T12:01:02.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260318-forget-agitop-ai-models-still-struggle-with-math",
-      "localUrl": "/news/20260318-forget-agitop-ai-models-still-struggle-with-math.html"
-    },
-    {
       "source": "X Wire",
       "title": "Bitcoin-to-Gold correlation just hit -0.88, the lowest since Nov 2022. This means Bitcoin is moving in the opposite direction with strong intensity. Capital flows into Bitcoin have driven its price up to $74K, while gold has experienced a slight decline. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9STlNHQ3h5eU5pV3ZEZVJxeks3UXg5Vlo1Tm8tYzAyNi1xcEp1aGpNRm5ickZ4V1Z0dTBMdlhMZFFxcWM3SVloakZKX2NrWExLaWY5ZkkzbDQ0cEgzblVBWUtMLWZTbjQ?oc=5\" target=\"_blank\">Bitcoin-to-Gold correlation…",
@@ -1008,17 +1019,6 @@
       "category": "X热点",
       "slug": "20260318-bitcoin-to-gold-correlation-just-hit-088-the-lowest-since-nov-2022-this-means-bi",
       "localUrl": "/news/20260318-bitcoin-to-gold-correlation-just-hit-088-the-lowest-since-nov-2022-this-means-bi.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🇺🇸 BIG: SEC Chair Paul Atkins unveils Regulation Crypto Assets, a token safe harbor proposal with three paths for crypto builders. A startup exemption, a fundraising exemption, and an investment contract safe harbor. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0WTdtOGpCdEk0QllvaGhad0JyNmlQcncxWWdzX29KNHQ5c1dJYkZqRkVKaU9mQUpKbHFJNjlJeU9tZS1LREpmUlA4RlRiUEdlNTRmc01nWHBOV3M0bFZsMGt5dHE?oc=5\" target=\"_blank\">🇺🇸 BIG: SEC Chair Paul Atkins…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0WTdtOGpCdEk0QllvaGhad0JyNmlQcncxWWdzX29KNHQ5c1dJYkZqRkVKaU9mQUpKbHFJNjlJeU9tZS1LREpmUlA4RlRiUEdlNTRmc01nWHBOV3M0bFZsMGt5dHE?oc=5",
-      "publishedAt": "2026-03-18T00:30:56.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260318-big-sec-chair-paul-atkins-unveils-regulation-crypto-assets-a-token-safe-harbor-p",
-      "localUrl": "/news/20260318-big-sec-chair-paul-atkins-unveils-regulation-crypto-assets-a-token-safe-harbor-p.html"
     },
     {
       "source": "X Wire",
