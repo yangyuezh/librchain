@@ -2,19 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-19T21:47:42.463Z</lastmod>
+    <lastmod>2026-03-19T22:46:57.355Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-19T21:47:42.463Z</lastmod>
+    <lastmod>2026-03-19T22:46:57.355Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260320-bits-to-bricks-can-stablecoins-prevent-de-dollarization.html</loc>
     <lastmod>2026-03-20T00:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-bitcoin-price-tussle-at-70k-may-hint-that-market-bottom-is-not-in.html</loc>
+    <lastmod>2026-03-19T22:31:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-crypto-clarity-act-inches-toward-senate-hearing-as-lawmakers-weigh-legislative-t.html</loc>
+    <lastmod>2026-03-19T22:10:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-19T22:05:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-gemini-shares-rise-after-hours-as-investors-back-shift-beyond-crypto-trading.html</loc>
+    <lastmod>2026-03-19T21:57:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-sec-interpretation-on-crypto-laws-a-beginning-not-an-end-says-atkins.html</loc>
+    <lastmod>2026-03-19T21:53:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-bpi-sounds-alarm-on-backdoor-for-hardware-wallets-in-kentucky-crypto-bill.html</loc>
+    <lastmod>2026-03-19T21:46:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -283,12 +319,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-03-19T14:17:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-coinbase-commerce-page-requests-seed-phrases-raising-security-concerns.html</loc>
     <lastmod>2026-03-19T14:05:06.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -319,12 +349,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-apex-groups-tokeny-taps-polygon-to-debut-chain-for-compliant-tokenized-rwas.html</loc>
-    <lastmod>2026-03-19T13:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-cryptocom-slashes-workforce-by-12-in-enterprise-wide-ai-pivot.html</loc>
     <lastmod>2026-03-19T12:59:39.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -345,18 +369,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-xrp-treasury-firm-evernorth-discloses-2337-million-impairment-on-holdings-in-spa.html</loc>
     <lastmod>2026-03-19T12:46:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-cryptocom-cuts-12-of-staff-as-it-accelerates-ai-push.html</loc>
-    <lastmod>2026-03-19T12:39:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-bitcoin-tests-old-2021-top-as-gold-falls-to-six-week-lows-under-47k.html</loc>
-    <lastmod>2026-03-19T12:36:15.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -399,18 +411,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-la-rideshare-driver-charged-with-using-2m-in-covid-relief-funds-to-buy-crypto.html</loc>
     <lastmod>2026-03-19T11:45:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-cryptocom-cuts-12-of-staff-as-it-integrates-ai-across-the-business-for-efficienc.html</loc>
-    <lastmod>2026-03-19T11:44:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-quantum-ready-bitcoin-prototype-debuts-but-adoption-hurdles-loom.html</loc>
-    <lastmod>2026-03-19T11:31:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -481,12 +481,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260318-supply-cleared-conviction-pending-bitcoin-has-cleared-the-59k72k-supply-cluster-.html</loc>
-    <lastmod>2026-03-18T14:36:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260318-proud-to-announce-that-as-of-minutes-ago-american-bitcoin-abtc-has-passed-galaxy.html</loc>
     <lastmod>2026-03-18T14:18:24.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -495,6 +489,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260318-just-in-us-senator-cynthia-lummis-urges-lawmakers-to-pass-bitcoin-and-crypto-mar.html</loc>
     <lastmod>2026-03-18T13:17:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260317-chairman-secpaulsatkins-on-todays-interpretation-on-crypto-assets-after-more-tha.html</loc>
+    <lastmod>2026-03-17T22:51:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
