@@ -2,15 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-19T13:40:40.064Z</lastmod>
+    <lastmod>2026-03-19T15:04:24.826Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-19T13:40:40.064Z</lastmod>
+    <lastmod>2026-03-19T15:04:24.826Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-crypto-for-advisors-bitcoins-price-discovery.html</loc>
+    <lastmod>2026-03-19T15:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-ecb-seeks-experts-to-help-integrate-digital-euro-into-atms-card-payment-terminal.html</loc>
+    <lastmod>2026-03-19T14:46:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-bitcoin-20000-put-option-is-third-most-popular-strike-ahead-of-quarterly-expiry.html</loc>
+    <lastmod>2026-03-19T14:34:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-major-league-baseball-signs-prediction-markets-pacts-with-cftc-polymarket.html</loc>
+    <lastmod>2026-03-19T14:20:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-19T14:17:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-coinbase-commerce-page-requests-seed-phrases-raising-security-concerns.html</loc>
+    <lastmod>2026-03-19T14:05:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260319-coindesk-20-performance-update-near-protocol-near-drops-33-leading-index-lower.html</loc>
@@ -69,6 +105,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-bitcoin-tests-old-2021-top-as-gold-falls-to-six-week-lows-under-47k.html</loc>
     <lastmod>2026-03-19T12:36:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-breaking-bitcoin-falls-5000-in-24-hours-and-drops-below-70000-as-the-broader-sel.html</loc>
+    <lastmod>2026-03-19T12:31:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -259,20 +301,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-crypto-traders-eye-bullish-relief-rally-after-fed-holds-rates-steady.html</loc>
-    <lastmod>2026-03-19T05:23:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-openclaw-developers-lured-in-github-phishing-campaign-targeting-crypto-wallets.html</loc>
     <lastmod>2026-03-19T05:07:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-xrp-treasury-evernorth-files-with-sec-to-list-shares-on-nasdaq.html</loc>
-    <lastmod>2026-03-19T04:52:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -343,32 +373,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260318-polymarket-acquires-brahma-to-scale-blockchain-trading-infrastructure.html</loc>
-    <lastmod>2026-03-18T19:56:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260318-sam-bankman-frieds-bankrupt-exchange-ftx-set-to-repay-creditors-22-billion-this-.html</loc>
-    <lastmod>2026-03-18T19:06:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260318-kalshi-co-founder-fights-back-against-arizonas-overstep-in-what-a-lawyer-calls-a.html</loc>
-    <lastmod>2026-03-18T18:19:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260318-bitcoin-ethereum-waver-as-fed-holds-interest-rates-steady.html</loc>
     <lastmod>2026-03-18T18:11:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260318-federal-reserve-holds-policy-steady-as-iran-war-adds-to-growth-and-inflation-con.html</loc>
-    <lastmod>2026-03-18T17:59:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -387,12 +393,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260318-you-can-now-trade-official-sp-500-perpetual-futures-via-hyperliquid.html</loc>
     <lastmod>2026-03-18T17:38:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260318-breaking-ftx-just-announced-its-fourth-distribution-of-22-billion-to-creditors-o.html</loc>
-    <lastmod>2026-03-18T17:37:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -445,14 +445,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260318-supply-cleared-conviction-pending-bitcoin-has-cleared-the-59k72k-supply-cluster-.html</loc>
-    <lastmod>2026-03-18T14:36:29.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260318-proud-to-announce-that-as-of-minutes-ago-american-bitcoin-abtc-has-passed-galaxy.html</loc>
+    <lastmod>2026-03-18T14:18:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260318-proud-to-announce-that-as-of-minutes-ago-american-bitcoin-abtc-has-passed-galaxy.html</loc>
-    <lastmod>2026-03-18T14:18:24.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260318-just-in-155000000-worth-of-crypto-longs-liquidated-in-the-past-4-hours-xcom.html</loc>
+    <lastmod>2026-03-18T13:46:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
