@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-19T20:53:59.790Z</lastmod>
+    <lastmod>2026-03-19T21:47:42.463Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-19T20:53:59.790Z</lastmod>
+    <lastmod>2026-03-19T21:47:42.463Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-bits-to-bricks-can-stablecoins-prevent-de-dollarization.html</loc>
+    <lastmod>2026-03-20T00:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-sol-treasury-forward-industries-buys-back-shares-using-crypto-backed-debt.html</loc>
+    <lastmod>2026-03-19T21:36:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-microsoft-launches-mai-image-2-text-to-image-modeland-its-better-than-expected.html</loc>
+    <lastmod>2026-03-19T21:14:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-etherfi-turns-to-real-world-assets-for-yield-with-25m-plume-allocation.html</loc>
+    <lastmod>2026-03-19T20:59:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260319-fake-fbi-crypto-tokens-are-being-used-to-threaten-tron-users-authorities-warn.html</loc>
@@ -343,20 +367,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-the-era-of-listings-and-on-ramps-is-ending-as-intent-protocols-make-access-nativ.html</loc>
-    <lastmod>2026-03-19T12:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-morning-minute-markets-tumble-as-iran-war-escalates.html</loc>
     <lastmod>2026-03-19T12:25:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-bitcoin-etf-inflow-streak-snaps-with-164m-outflows-amid-btc-dip.html</loc>
-    <lastmod>2026-03-19T12:22:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -409,12 +421,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-nasdaq-wins-sec-approval-to-trade-tokenized-securities-in-pilot-program.html</loc>
-    <lastmod>2026-03-19T05:35:26.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-now-ethereum-leads-the-l1-market-by-ecosystem-tvl-followed-by-tron-solana-and-bn.html</loc>
     <lastmod>2026-03-19T05:30:56.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -429,12 +435,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-bitcoin-og-owen-gunden-who-previously-sold-11k-btc112b-sold-another-650-btc463m-.html</loc>
     <lastmod>2026-03-19T02:18:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260318-crypto-market-momentum-is-accelerating-crypto-funds-recorded-106-billion-in-infl.html</loc>
-    <lastmod>2026-03-18T22:56:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -477,6 +477,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260318-crypto-has-a-capital-efficiency-problem-hundreds-of-billions-in-tokens-sit-idle-.html</loc>
     <lastmod>2026-03-18T15:12:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260318-supply-cleared-conviction-pending-bitcoin-has-cleared-the-59k72k-supply-cluster-.html</loc>
+    <lastmod>2026-03-18T14:36:29.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
