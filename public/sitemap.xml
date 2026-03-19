@@ -2,15 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-19T09:59:03.420Z</lastmod>
+    <lastmod>2026-03-19T10:59:38.526Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-19T09:59:03.420Z</lastmod>
+    <lastmod>2026-03-19T10:59:38.526Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-bitcoin-slips-to-70000-as-oil-surge-fed-pause-weigh-on-risk-assets.html</loc>
+    <lastmod>2026-03-19T10:42:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-bitcoins-quantum-threat-is-real-but-far-from-an-existential-crisis-galaxy-says.html</loc>
+    <lastmod>2026-03-19T10:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-bitcoin-unusually-outperforms-gold-as-hawkish-fed-oil-price-fuel-risk-off-sentim.html</loc>
+    <lastmod>2026-03-19T10:28:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-global-fraud-summit-2026-from-fragmented-efforts-to-a-global-fraud-response.html</loc>
+    <lastmod>2026-03-19T10:20:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-why-ethereum-developers-want-one-click-staking-for-institutions.html</loc>
+    <lastmod>2026-03-19T10:18:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260319-ecb-opens-digital-euro-work-on-atms-and-payment-terminals.html</loc>
@@ -217,12 +247,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260318-ftx-recovery-trust-to-distribute-22b-to-creditors-in-march.html</loc>
-    <lastmod>2026-03-18T19:47:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260318-sam-bankman-frieds-bankrupt-exchange-ftx-set-to-repay-creditors-22-billion-this-.html</loc>
     <lastmod>2026-03-18T19:06:59.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -261,6 +285,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260318-you-can-now-trade-official-sp-500-perpetual-futures-via-hyperliquid.html</loc>
     <lastmod>2026-03-18T17:38:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260318-breaking-ftx-just-announced-its-fourth-distribution-of-22-billion-to-creditors-o.html</loc>
+    <lastmod>2026-03-18T17:37:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -367,18 +397,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260318-bitcoin-hash-rate-is-tumbling-as-iran-war-lifts-energy-prices.html</loc>
-    <lastmod>2026-03-18T14:53:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260318-bank-of-korea-adds-two-banks-to-digital-won-trials-as-real-world-testing-begins.html</loc>
-    <lastmod>2026-03-18T14:19:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260318-proud-to-announce-that-as-of-minutes-ago-american-bitcoin-abtc-has-passed-galaxy.html</loc>
     <lastmod>2026-03-18T14:18:24.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -387,12 +405,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260318-canadian-regulator-revokes-registrations-of-23-crypto-firms.html</loc>
     <lastmod>2026-03-18T14:07:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260318-stripe-led-payments-blockchain-tempo-goes-live-with-protocol-for-ai-agents.html</loc>
-    <lastmod>2026-03-18T14:05:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -421,6 +433,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260318-bitcoin-correcting-this-could-be-due-to-the-upcoming-macroeconomic-week-with-the.html</loc>
+    <lastmod>2026-03-18T12:15:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260318-morning-minute-the-sec-cftc-declare-most-crypto-assets-are-not-securities.html</loc>
     <lastmod>2026-03-18T12:04:23.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -439,12 +457,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260318-insight-ethereums-uptrend-remains-strong-as-open-interest-rises-across-major-exc.html</loc>
-    <lastmod>2026-03-18T08:22:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260318-big-sec-chair-paul-atkins-unveils-regulation-crypto-assets-a-token-safe-harbor-p.html</loc>
     <lastmod>2026-03-18T00:30:56.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -459,12 +471,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260317-they-did-it-the-sec-and-cftc-just-dropped-a-landmark-document-that-officially-cl.html</loc>
     <lastmod>2026-03-17T21:30:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260317-i-was-a-fashion-photographer-for-over-a-decade-before-crypto-i-worked-for-magazi.html</loc>
-    <lastmod>2026-03-17T21:08:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
