@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-19T08:59:53.261Z</lastmod>
+    <lastmod>2026-03-19T09:59:03.420Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-19T08:59:53.261Z</lastmod>
+    <lastmod>2026-03-19T09:59:03.420Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-ecb-opens-digital-euro-work-on-atms-and-payment-terminals.html</loc>
+    <lastmod>2026-03-19T09:56:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-openclaw-devs-targeted-by-phishing-scam-promising-free-claw-tokens.html</loc>
+    <lastmod>2026-03-19T09:29:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260319-the-abundance-that-ai-may-promise-is-not-free.html</loc>
@@ -207,18 +219,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260318-ftx-recovery-trust-to-distribute-22b-to-creditors-in-march.html</loc>
     <lastmod>2026-03-18T19:47:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260318-crypto-fear-and-greed-rebounds-off-extreme-lows-as-traders-re-enter.html</loc>
-    <lastmod>2026-03-18T19:39:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260318-we-are-so-close-this-time-senator-lummis-on-market-structure-bill.html</loc>
-    <lastmod>2026-03-18T19:21:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -445,12 +445,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260318-latest-vitalik-buterin-says-once-lean-ethereum-is-fully-deployed-eth-will-be-the.html</loc>
-    <lastmod>2026-03-18T03:30:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260318-big-sec-chair-paul-atkins-unveils-regulation-crypto-assets-a-token-safe-harbor-p.html</loc>
     <lastmod>2026-03-18T00:30:56.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,6 +477,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260317-just-in-cftc-and-sec-issues-statement-clarifying-that-bitcoin-mining-rewards-are.html</loc>
     <lastmod>2026-03-17T20:37:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260317-big-the-sec-says-most-crypto-assets-are-not-securities-including-staking-airdrop.html</loc>
+    <lastmod>2026-03-17T20:21:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
