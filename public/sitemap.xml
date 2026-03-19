@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-19T07:12:24.465Z</lastmod>
+    <lastmod>2026-03-19T08:59:53.261Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-19T07:12:24.465Z</lastmod>
+    <lastmod>2026-03-19T08:59:53.261Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-the-abundance-that-ai-may-promise-is-not-free.html</loc>
+    <lastmod>2026-03-19T08:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-bitcoin-ogs-dump-over-100-million-in-btc-after-hawkish-fed-dents-rate-cut-hopes.html</loc>
+    <lastmod>2026-03-19T07:19:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260319-forget-market-hours-leading-etp-firm-just-opened-247-liquidity-for-tokenized-sto.html</loc>
@@ -19,13 +31,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-canada-vows-continued-crypto-crackdown-after-taking-down-47-firms-in-2026.html</loc>
+    <loc>https://www.librchain.com/news/20260319-canada-revokes-47-crypto-money-licenses-vows-to-continue.html</loc>
     <lastmod>2026-03-19T06:22:43.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-visa-and-stripe-backed-tempo-launch-tools-for-ai-agents-on-same-day.html</loc>
+    <loc>https://www.librchain.com/news/20260319-visa-and-stripe-backed-tempo-unveil-ai-agent-payment-tools-on-same-day.html</loc>
     <lastmod>2026-03-19T06:21:23.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -99,6 +111,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-algorand-foundation-cuts-25-of-staff-citing-macro-uncertainty.html</loc>
     <lastmod>2026-03-19T02:24:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-bitcoin-og-owen-gunden-who-previously-sold-11k-btc112b-sold-another-650-btc463m-.html</loc>
+    <lastmod>2026-03-19T02:18:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -181,12 +199,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260318-just-in-sec-approves-nasdaq-rule-change-to-enable-tokenized-securities-trading-x.html</loc>
-    <lastmod>2026-03-18T20:14:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260318-polymarket-acquires-brahma-to-scale-blockchain-trading-infrastructure.html</loc>
     <lastmod>2026-03-18T19:56:41.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -219,12 +231,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260318-kalshi-co-founder-fights-back-against-arizonas-overstep-in-what-a-lawyer-calls-a.html</loc>
     <lastmod>2026-03-18T18:19:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260318-fed-holds-rates-amid-higher-inflation-outlook-bitcoin-bounces-to-72k.html</loc>
-    <lastmod>2026-03-18T18:16:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -391,12 +397,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260318-coindesk-20-performance-update-index-falls-31-as-all-constituents-trade-lower.html</loc>
-    <lastmod>2026-03-18T14:01:26.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260318-just-in-155000000-worth-of-crypto-longs-liquidated-in-the-past-4-hours-xcom.html</loc>
     <lastmod>2026-03-18T13:46:38.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -439,14 +439,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260318-latest-vitalik-buterin-says-once-lean-ethereum-is-fully-deployed-eth-will-be-the.html</loc>
-    <lastmod>2026-03-18T03:30:57.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260318-insight-ethereums-uptrend-remains-strong-as-open-interest-rises-across-major-exc.html</loc>
+    <lastmod>2026-03-18T08:22:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260318-once-leanethereum-is-fully-deployed-ethereum-will-be-the-only-major-chain-that-s.html</loc>
-    <lastmod>2026-03-18T00:41:09.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260318-latest-vitalik-buterin-says-once-lean-ethereum-is-fully-deployed-eth-will-be-the.html</loc>
+    <lastmod>2026-03-18T03:30:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,6 +475,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260317-our-interpretation-on-crypto-assetsgrounded-in-existing-law-and-informed-by-exte.html</loc>
+    <lastmod>2026-03-17T21:00:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260317-just-in-cftc-and-sec-issues-statement-clarifying-that-bitcoin-mining-rewards-are.html</loc>
     <lastmod>2026-03-17T20:37:22.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260317-today-the-commission-issued-an-interpretation-that-clarifies-the-application-of-.html</loc>
     <lastmod>2026-03-17T20:00:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260317-just-in-theres-now-an-83-chance-bitcoin-hits-80000-this-year-according-to-polyma.html</loc>
-    <lastmod>2026-03-17T19:35:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
