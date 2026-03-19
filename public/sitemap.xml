@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-19T15:04:24.826Z</lastmod>
+    <lastmod>2026-03-19T16:06:39.262Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-19T15:04:24.826Z</lastmod>
+    <lastmod>2026-03-19T16:06:39.262Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrop.html</loc>
+    <lastmod>2026-03-19T15:45:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-xrp-signals-20-price-rally-amid-record-korean-exchange-withdrawals.html</loc>
+    <lastmod>2026-03-19T15:16:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-ftx-recovery-trust-to-distribute-22b-to-creditors-in-march.html</loc>
+    <lastmod>2026-03-19T15:03:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-bitcoin-prediction-markets-see-70-chance-btc-price-crashes-to-55k-in-2026.html</loc>
+    <lastmod>2026-03-19T15:02:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260319-crypto-for-advisors-bitcoins-price-discovery.html</loc>
@@ -271,24 +295,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-visa-and-stripe-backed-tempo-unveil-ai-agent-payment-tools-on-same-day.html</loc>
-    <lastmod>2026-03-19T06:21:23.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-retail-tripled-gold-buying-in-last-6-months-as-wall-street-sells.html</loc>
-    <lastmod>2026-03-19T06:18:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-dorseys-block-laid-off-4k-employees-last-month-some-are-already-back.html</loc>
-    <lastmod>2026-03-19T06:13:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-nasdaq-wins-sec-approval-to-trade-tokenized-securities-in-pilot-program.html</loc>
     <lastmod>2026-03-19T05:35:26.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -357,12 +363,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260318-from-coinbase-to-ripple-the-biggest-crypto-cases-dumped-by-trumps-sec.html</loc>
     <lastmod>2026-03-18T20:20:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260318-bitcoin-sinks-below-71000-stocks-close-at-session-lows-as-2026-fed-rate-cut-hope.html</loc>
-    <lastmod>2026-03-18T20:19:04.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -445,6 +445,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260318-supply-cleared-conviction-pending-bitcoin-has-cleared-the-59k72k-supply-cluster-.html</loc>
+    <lastmod>2026-03-18T14:36:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260318-proud-to-announce-that-as-of-minutes-ago-american-bitcoin-abtc-has-passed-galaxy.html</loc>
     <lastmod>2026-03-18T14:18:24.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -471,12 +477,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260318-bitcoin-correcting-this-could-be-due-to-the-upcoming-macroeconomic-week-with-the.html</loc>
     <lastmod>2026-03-18T12:15:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260318-bitcoin-to-gold-correlation-just-hit-088-the-lowest-since-nov-2022-this-means-bi.html</loc>
-    <lastmod>2026-03-18T10:56:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
