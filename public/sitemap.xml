@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-20T20:48:55.151Z</lastmod>
+    <lastmod>2026-03-20T21:42:58.109Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-20T20:48:55.151Z</lastmod>
+    <lastmod>2026-03-20T21:42:58.109Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-rumors-emerge-of-a-clarity-act-deal-between-white-house-and-lawmakers.html</loc>
+    <lastmod>2026-03-20T21:31:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-bitcoin-price-aims-to-hold-70k-amid-rising-inflation-concerns.html</loc>
+    <lastmod>2026-03-20T20:56:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260320-bitcoin-has-stabilized-but-investors-are-paying-up-for-downside-protection-vanec.html</loc>
@@ -295,12 +307,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-bitcoin-vs-gold-shows-potential-bottom-signals-as-btc-bulls-defend-70k.html</loc>
-    <lastmod>2026-03-20T10:38:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260320-bitcoin-rallies-to-71k-as-bessent-mulls-lifting-some-iran-oil-sanctions.html</loc>
     <lastmod>2026-03-20T09:55:31.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -315,12 +321,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260320-bitcoins-price-action-looks-dangerously-similar-to-the-pattern-that-sent-it-cras.html</loc>
     <lastmod>2026-03-20T07:14:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260320-quantum-risk-real-but-not-all-crypto-wallets-equally-vulnerable-galaxy.html</loc>
-    <lastmod>2026-03-20T06:27:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -439,8 +439,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-new-sui-has-launched-hashi-on-devnet-a-bitcoin-finance-protocol-backed-by-firms-.html</loc>
-    <lastmod>2026-03-19T17:41:30.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260319-new-tom-lee-explains-why-on-march-19th-2026-the-ethereum-bottom-is-likely-in-and.html</loc>
+    <lastmod>2026-03-19T18:39:43.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -493,12 +493,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260318-crypto-market-momentum-is-accelerating-crypto-funds-recorded-106-billion-in-infl.html</loc>
-    <lastmod>2026-03-18T22:56:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260318-excited-to-share-visa-cli-the-first-experimental-product-from-visa-crypto-labs-c.html</loc>
     <lastmod>2026-03-18T15:41:29.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -507,6 +501,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260318-just-in-us-senator-cynthia-lummis-urges-lawmakers-to-pass-bitcoin-and-crypto-mar.html</loc>
     <lastmod>2026-03-18T13:17:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260317-chairman-secpaulsatkins-on-todays-interpretation-on-crypto-assets-after-more-tha.html</loc>
+    <lastmod>2026-03-17T22:51:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
