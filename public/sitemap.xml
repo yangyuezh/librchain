@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-20T08:58:10.003Z</lastmod>
+    <lastmod>2026-03-20T09:56:47.468Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-20T08:58:10.003Z</lastmod>
+    <lastmod>2026-03-20T09:56:47.468Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-bitcoin-rallies-to-71k-as-bessent-mulls-lifting-some-iran-oil-sanctions.html</loc>
+    <lastmod>2026-03-20T09:55:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260320-ripple-data-reveals-stablecoins-are-becoming-the-go-to-tool-for-corporate-treasu.html</loc>
@@ -445,12 +451,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-morning-minute-markets-tumble-as-iran-war-escalates.html</loc>
-    <lastmod>2026-03-19T12:25:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-global-fraud-summit-2026-from-fragmented-efforts-to-a-global-fraud-response.html</loc>
     <lastmod>2026-03-19T10:20:10.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -459,6 +459,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-massive-crash-1380000000000-wiped-out-from-gold-and-silver-in-just-5-hours-xcom.html</loc>
     <lastmod>2026-03-19T08:29:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-crash-1350000000000-has-been-wiped-out-from-gold-and-silver-in-5-hours-xcom.html</loc>
+    <lastmod>2026-03-19T08:21:30.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260318-breaking-bitcoin-is-now-projected-to-crash-below-45000-by-the-end-of-this-year-5.html</loc>
     <lastmod>2026-03-18T15:17:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260318-crypto-has-a-capital-efficiency-problem-hundreds-of-billions-in-tokens-sit-idle-.html</loc>
-    <lastmod>2026-03-18T15:12:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
