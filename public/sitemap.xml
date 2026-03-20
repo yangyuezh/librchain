@@ -2,15 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-20T11:44:11.463Z</lastmod>
+    <lastmod>2026-03-20T13:22:49.343Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-20T11:44:11.463Z</lastmod>
+    <lastmod>2026-03-20T13:22:49.343Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-coindesk-20-performance-update-aptos-apt-gains-63-as-index-rises.html</loc>
+    <lastmod>2026-03-20T13:12:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-coinbase-introduces-stock-perpetual-futures-contracts-for-non-us-customers.html</loc>
+    <lastmod>2026-03-20T12:51:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-iran-war-volatility-is-driving-oil-trading-boom-on-hyperliquid-says-jpmorgan.html</loc>
+    <lastmod>2026-03-20T12:45:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-morning-minute-bitcoin-rebounds-as-oil-falls.html</loc>
+    <lastmod>2026-03-20T12:38:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-morgan-stanley-files-amended-s-1-for-msbt-bitcoin-etf.html</loc>
+    <lastmod>2026-03-20T12:34:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-coinbase-launches-247-stock-perps-for-non-us-traders.html</loc>
+    <lastmod>2026-03-20T11:57:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260320-bitcoin-holds-steady-with-one-analyst-seeing-the-upside-emerging.html</loc>
@@ -211,12 +247,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-etherfi-turns-to-real-world-assets-for-yield-with-25m-plume-allocation.html</loc>
-    <lastmod>2026-03-19T20:59:36.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-fake-fbi-crypto-tokens-are-being-used-to-threaten-tron-users-authorities-warn.html</loc>
     <lastmod>2026-03-19T20:53:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -289,12 +319,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-bybit-launches-yield-bearing-tokenized-gold-product-tied-to-xaut.html</loc>
-    <lastmod>2026-03-19T19:50:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-first-working-quantum-battery-proves-bigger-really-does-mean-faster.html</loc>
     <lastmod>2026-03-19T19:41:29.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -303,6 +327,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-wall-street-heavyweight-cantor-among-investment-banks-pitching-falconx-for-its-p.html</loc>
     <lastmod>2026-03-19T19:23:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-breaking-us-new-home-sales-crashed-176-mom-in-january-the-worst-januarys-decline.html</loc>
+    <lastmod>2026-03-19T18:40:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -343,12 +373,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-fbi-new-york-encourages-users-of-the-tron-blockchain-network-to-exercise-caution.html</loc>
-    <lastmod>2026-03-19T17:01:55.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-the-secs-interpretation-on-crypto-assets-is-just-the-beginning-and-serves-as-a-b.html</loc>
     <lastmod>2026-03-19T16:59:26.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -385,12 +409,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-extreme-fear-hits-crypto-markets-after-bitcoin-gives-up-75k-spike.html</loc>
-    <lastmod>2026-03-19T16:08:27.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-new-morgan-stanley-files-new-form-with-the-sec-for-its-spot-bitcoin-etf-revealin.html</loc>
     <lastmod>2026-03-19T16:02:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -405,24 +423,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrop.html</loc>
     <lastmod>2026-03-19T15:45:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-crypto-for-advisors-bitcoins-price-discovery.html</loc>
-    <lastmod>2026-03-19T15:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-ecb-seeks-experts-to-help-integrate-digital-euro-into-atms-card-payment-terminal.html</loc>
-    <lastmod>2026-03-19T14:46:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-bitcoin-20000-put-option-is-third-most-popular-strike-ahead-of-quarterly-expiry.html</loc>
-    <lastmod>2026-03-19T14:34:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -457,20 +457,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-ethereum-eth-has-entered-a-generational-buy-zone-the-mvrv-ratio-which-measures-t.html</loc>
-    <lastmod>2026-03-19T09:16:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-massive-crash-1380000000000-wiped-out-from-gold-and-silver-in-just-5-hours-xcom.html</loc>
     <lastmod>2026-03-19T08:29:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-crash-1350000000000-has-been-wiped-out-from-gold-and-silver-in-5-hours-xcom.html</loc>
-    <lastmod>2026-03-19T08:21:30.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -481,14 +469,26 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260318-crypto-market-momentum-is-accelerating-crypto-funds-recorded-106-billion-in-infl.html</loc>
-    <lastmod>2026-03-18T22:56:11.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260318-folks-if-you-get-crypto-emails-from-websites-claiming-to-be-associated-with-open.html</loc>
+    <lastmod>2026-03-18T16:08:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260318-excited-to-share-visa-cli-the-first-experimental-product-from-visa-crypto-labs-c.html</loc>
     <lastmod>2026-03-18T15:41:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260318-supply-cleared-conviction-pending-bitcoin-has-cleared-the-59k72k-supply-cluster-.html</loc>
+    <lastmod>2026-03-18T14:36:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260318-proud-to-announce-that-as-of-minutes-ago-american-bitcoin-abtc-has-passed-galaxy.html</loc>
+    <lastmod>2026-03-18T14:18:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
