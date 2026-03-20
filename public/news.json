@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-03-20T09:56:47.179Z",
+  "updatedAt": "2026-03-20T10:55:27.239Z",
   "total": 86,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto market steadies as derivatives signal caution, macro pressure builds",
+      "summary": "BTC holds near $70,500 as derivatives turn defensive, macro risks weigh on sentiment and altcoins show pockets of strength.",
+      "url": "https://www.coindesk.com/markets/2026/03/20/crypto-market-steadies-as-derivatives-signal-caution-macro-pressure-builds",
+      "publishedAt": "2026-03-20T10:49:32.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "Derivatives",
+        "Altcoins",
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260320-crypto-market-steadies-as-derivatives-signal-caution-macro-pressure-builds",
+      "localUrl": "/news/20260320-crypto-market-steadies-as-derivatives-signal-caution-macro-pressure-builds.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korea tax agency seeks private crypto custodian after security lapses",
+      "summary": "South Korea’s tax agency is seeking a private custodian for seized crypto after a wallet seed phrase leak exposed government-held assets.",
+      "url": "https://cointelegraph.com/news/south-korea-tax-agency-private-crypto-custody-seed-phrase-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-20T10:47:45.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260320-south-korea-tax-agency-seeks-private-crypto-custodian-after-security-lapses",
+      "localUrl": "/news/20260320-south-korea-tax-agency-seeks-private-crypto-custodian-after-security-lapses.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin vs gold shows potential bottom signals as BTC bulls defend $70K",
+      "summary": "Technical indicators hint at a possible reversal in BTC’s relative performance, as traders watch whether key support levels can hold.",
+      "url": "https://cointelegraph.com/news/bitcoin-vs-gold-flashes-multiple-bottom-signals-btc-bulls-defend-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-20T10:38:42.000Z",
+      "keywords": [
+        "Market Analysis"
+      ],
+      "category": "市场",
+      "slug": "20260320-bitcoin-vs-gold-shows-potential-bottom-signals-as-btc-bulls-defend-70k",
+      "localUrl": "/news/20260320-bitcoin-vs-gold-shows-potential-bottom-signals-as-btc-bulls-defend-70k.html"
+    },
     {
       "source": "Decrypt",
       "title": "Bitcoin Rallies to $71K as Bessent Mulls Lifting Some Iran Oil Sanctions",
@@ -634,19 +678,6 @@
       "localUrl": "/news/20260319-market-maker-imc-trading-hires-alex-casimo-as-chief-commercial-officer-for-its-c.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin shows early bull market signals, but confirmation is lacking: Glassnode",
-      "summary": "Bitcoin markets have started to turn bullish again, but data shows that a key “bull market threshold” has not been established yet.",
-      "url": "https://cointelegraph.com/news/bitcoin-bull-market-vibes-emerge-but-confirmation-is-missing-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-19T18:30:00.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "市场",
-      "slug": "20260319-bitcoin-shows-early-bull-market-signals-but-confirmation-is-lacking-glassnode",
-      "localUrl": "/news/20260319-bitcoin-shows-early-bull-market-signals-but-confirmation-is-lacking-glassnode.html"
-    },
-    {
       "source": "Decrypt",
       "title": "ETF Giant Challenges Tether and Paxos With Framework for Tokenized Gold",
       "summary": "The World Gold Council, established in 1987, counts 29 members across the gold mining industry.",
@@ -671,19 +702,6 @@
       "category": "基础设施",
       "slug": "20260319-blackrock-staked-ethereum-fund-tops-250-million-in-its-first-week",
       "localUrl": "/news/20260319-blackrock-staked-ethereum-fund-tops-250-million-in-its-first-week.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Singapore-based Ryde adopts crypto treasury strategy",
-      "summary": "The carpool and ride-sharing platform, which already accepts Bitcoin for customer payment, moves to crypto treasury despite challenges of price declines.",
-      "url": "https://cointelegraph.com/news/singapore-ryde-crypto-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-19T17:46:05.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260319-singapore-based-ryde-adopts-crypto-treasury-strategy",
-      "localUrl": "/news/20260319-singapore-based-ryde-adopts-crypto-treasury-strategy.html"
     },
     {
       "source": "Decrypt",
@@ -936,21 +954,6 @@
       "localUrl": "/news/20260319-just-in-a-testnet-for-bitcoin-improvement-proposal-360-has-been-deployed-which-a.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "CoinDesk 20 performance update: NEAR Protocol (NEAR) drops 3.3%, leading index lower",
-      "summary": "Hedera (HBAR), down 2.9% from Wednesday, was also an underperformer.",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/03/19/coindesk-20-performance-update-near-protocol-near-drops-3-3-leading-index-lower",
-      "publishedAt": "2026-03-19T13:16:07.000Z",
-      "keywords": [
-        "CoinDesk Indices",
-        "CoinDesk 20",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260319-coindesk-20-performance-update-near-protocol-near-drops-33-leading-index-lower",
-      "localUrl": "/news/20260319-coindesk-20-performance-update-near-protocol-near-drops-33-leading-index-lower.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Crypto.com Slashes Workforce by 12% in 'Enterprise-Wide AI' Pivot",
       "summary": "Cryptocurrency exchange Crypto.com is laying off around 180 employees as it shifts focus to AI-driven operations.",
@@ -1062,17 +1065,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Folks, if you get crypto emails from websites claiming to be associated with openclaw, it's ALWAYS a scam. We would never do that. The project is open source and non-commercial. Use the official website. Be sceptical of folks trying to build commercial wrapp - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE85WDNqVlFLbEgxUXVtWFliWDhqRTdpdHR3YXF5T0RSWEJENFJBaFBUaWtwRERBbldDV0V5Wkx5UnFiSnA1WEstMjFOb1BVaVFfb3FaNVJjVWFYa29YYVE?oc=5\" target=\"_blank\">Folks, if you get crypto emails from we…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85WDNqVlFLbEgxUXVtWFliWDhqRTdpdHR3YXF5T0RSWEJENFJBaFBUaWtwRERBbldDV0V5Wkx5UnFiSnA1WEstMjFOb1BVaVFfb3FaNVJjVWFYa29YYVE?oc=5",
-      "publishedAt": "2026-03-18T16:08:55.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260318-folks-if-you-get-crypto-emails-from-websites-claiming-to-be-associated-with-open",
-      "localUrl": "/news/20260318-folks-if-you-get-crypto-emails-from-websites-claiming-to-be-associated-with-open.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Excited to share Visa CLI, the first experimental product from Visa Crypto Labs. Check it out and request access here visacli.sh - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE50TktuX2llLUJJTnBTcVh0eTNyS1B6ZGRwdExkUzA0eDk1UU5vY0VXVmhDNDZiZmRKaWZVSVYyRUZZRFR1NGxjTzU2UnNaWjZKcXNfLVAxTTFUMGIxSTBfaVBnTQ?oc=5\" target=\"_blank\">Excited to share Visa CLI, the f…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50TktuX2llLUJJTnBTcVh0eTNyS1B6ZGRwdExkUzA0eDk1UU5vY0VXVmhDNDZiZmRKaWZVSVYyRUZZRFR1NGxjTzU2UnNaWjZKcXNfLVAxTTFUMGIxSTBfaVBnTQ?oc=5",
@@ -1092,6 +1084,17 @@
       "category": "X热点",
       "slug": "20260318-breaking-bitcoin-is-now-projected-to-crash-below-45000-by-the-end-of-this-year-5",
       "localUrl": "/news/20260318-breaking-bitcoin-is-now-projected-to-crash-below-45000-by-the-end-of-this-year-5.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Proud to announce that as of minutes ago, American Bitcoin ( @ABTC) has passed Galaxy Digital in BTC holdings! We now stand as the #16th largest Public Bitcoin Company on Earth! No company is climbing the ladder faster Up, up, up we go! 🚀🇺🇸💪 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BcTRPYmdpaUtkLXU2ZHpTeDFYSnExNXlUMnBvb19fdElXSmdHV18tY1FZTFMxUmpMd3o2c3pGbVRTbFJadUduWXBjdXNFcS0xWnF3N1ZaeEdzbVk3bFU0?oc=5\" target=\"_blank\">Proud to announce that as of minutes a…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BcTRPYmdpaUtkLXU2ZHpTeDFYSnExNXlUMnBvb19fdElXSmdHV18tY1FZTFMxUmpMd3o2c3pGbVRTbFJadUduWXBjdXNFcS0xWnF3N1ZaeEdzbVk3bFU0?oc=5",
+      "publishedAt": "2026-03-18T14:18:24.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260318-proud-to-announce-that-as-of-minutes-ago-american-bitcoin-abtc-has-passed-galaxy",
+      "localUrl": "/news/20260318-proud-to-announce-that-as-of-minutes-ago-american-bitcoin-abtc-has-passed-galaxy.html"
     },
     {
       "source": "X Wire",
