@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-19T23:42:18.305Z</lastmod>
+    <lastmod>2026-03-20T02:52:20.681Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-19T23:42:18.305Z</lastmod>
+    <lastmod>2026-03-20T02:52:20.681Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-solana-dapps-revenue-falls-to-18-month-low-as-sol-price-risks-80-retest.html</loc>
+    <lastmod>2026-03-20T02:44:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-coinbase-apex-group-tokenize-bitcoin-yield-fund-on-base.html</loc>
+    <lastmod>2026-03-20T02:03:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-bitcoin-trails-money-supply-growth-as-energy-costs-and-rates-bite.html</loc>
+    <lastmod>2026-03-20T01:56:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-execution-quality-is-the-missing-metric-in-bitcoin-and-ethereum-markets.html</loc>
+    <lastmod>2026-03-20T00:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260320-bits-to-bricks-can-stablecoins-prevent-de-dollarization.html</loc>
@@ -97,6 +121,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260319-just-in-north-carolina-introduces-bill-for-a-strategic-bitcoin-reserve-today-it-.html</loc>
+    <lastmod>2026-03-19T20:37:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260319-defi-risk-management-giant-gauntlet-sees-380-million-exit-as-okx-crypto-campaign.html</loc>
     <lastmod>2026-03-19T20:12:45.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -153,6 +183,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-wall-street-heavyweight-cantor-among-investment-banks-pitching-falconx-for-its-p.html</loc>
     <lastmod>2026-03-19T19:23:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-breaking-us-new-home-sales-crashed-176-mom-in-january-the-worst-januarys-decline.html</loc>
+    <lastmod>2026-03-19T18:40:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -271,12 +307,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-just-in-bitcoin-crashes-under-69000-xcom.html</loc>
-    <lastmod>2026-03-19T15:45:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrop.html</loc>
     <lastmod>2026-03-19T15:45:10.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -325,12 +355,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-coinbase-commerce-page-requests-seed-phrases-raising-security-concerns.html</loc>
-    <lastmod>2026-03-19T14:05:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-just-in-a-testnet-for-bitcoin-improvement-proposal-360-has-been-deployed-which-a.html</loc>
     <lastmod>2026-03-19T13:19:58.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -339,18 +363,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-coindesk-20-performance-update-near-protocol-near-drops-33-leading-index-lower.html</loc>
     <lastmod>2026-03-19T13:16:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-op_net-launches-bitcoin-defi-push-without-bridges-or-wrapped-btc.html</loc>
-    <lastmod>2026-03-19T13:00:23.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-hacked-crypto-tokens-drop-61-on-average-and-rarely-recover-immunefi-report-says.html</loc>
-    <lastmod>2026-03-19T13:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,12 +427,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-la-rideshare-driver-charged-with-using-2m-in-covid-relief-funds-to-buy-crypto.html</loc>
-    <lastmod>2026-03-19T11:45:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-global-fraud-summit-2026-from-fragmented-efforts-to-a-global-fraud-response.html</loc>
     <lastmod>2026-03-19T10:20:10.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -441,12 +447,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260318-crypto-market-momentum-is-accelerating-crypto-funds-recorded-106-billion-in-infl.html</loc>
     <lastmod>2026-03-18T22:56:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260318-just-in-sec-approves-nasdaq-rule-change-to-enable-tokenized-securities-trading-x.html</loc>
-    <lastmod>2026-03-18T20:14:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
