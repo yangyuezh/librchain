@@ -2,15 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-20T19:48:25.356Z</lastmod>
+    <lastmod>2026-03-20T20:48:55.151Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-20T19:48:25.356Z</lastmod>
+    <lastmod>2026-03-20T20:48:55.151Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-bitcoin-has-stabilized-but-investors-are-paying-up-for-downside-protection-vanec.html</loc>
+    <lastmod>2026-03-20T20:47:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-man-pleads-guilty-to-using-ai-to-generate-8-million-in-fraudulent-streaming-musi.html</loc>
+    <lastmod>2026-03-20T20:36:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-nevada-becomes-first-state-to-ban-prediction-market-kalshiat-least-for-now.html</loc>
+    <lastmod>2026-03-20T20:16:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-google-threat-intel-flags-ghostblade-crypto-stealing-malware.html</loc>
+    <lastmod>2026-03-20T20:10:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-sam-bankman-frieds-past-political-cash-gives-ai-pac-fuel-for-bashing-ny-candidat.html</loc>
+    <lastmod>2026-03-20T20:03:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-crypto-biz-institutions-arent-waiting-for-the-bottom.html</loc>
+    <lastmod>2026-03-20T20:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-ledger-hires-ex-circle-exec-as-cfo-opens-nyc-office-to-expand-us-business.html</loc>
+    <lastmod>2026-03-20T19:56:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260320-heres-what-happened-in-crypto-today.html</loc>
@@ -229,6 +271,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260320-also-gaming-on-a-blockchain-is-not-coming-back-xcom.html</loc>
+    <lastmod>2026-03-20T11:37:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260320-ripple-survey-finds-72-of-finance-leaders-see-digital-assets-as-essential.html</loc>
     <lastmod>2026-03-20T11:22:28.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -277,26 +325,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-super-micro-co-founder-arrested-over-alleged-25b-ai-chip-smuggling-scheme.html</loc>
-    <lastmod>2026-03-20T06:03:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260320-gemini-sued-over-post-ipo-strategy-shift-declining-stock-price.html</loc>
-    <lastmod>2026-03-20T05:58:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260320-bitcoin-jumps-to-70800-as-oil-retreats-ether-and-xrp-lag.html</loc>
     <lastmod>2026-03-20T05:43:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260320-appeals-court-denies-kalshi-request-to-block-nevada-enforcement-action.html</loc>
-    <lastmod>2026-03-20T05:21:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -379,12 +409,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-telling-your-chatbot-you-have-a-mental-health-condition-can-change-the-answer-yo.html</loc>
-    <lastmod>2026-03-19T20:38:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-just-in-north-carolina-introduces-bill-for-a-strategic-bitcoin-reserve-today-it-.html</loc>
     <lastmod>2026-03-19T20:37:56.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -409,32 +433,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-appeals-court-clears-way-for-nevada-to-temporarily-ban-prediction-market-kalshi.html</loc>
-    <lastmod>2026-03-19T20:12:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-morgan-stanley-prepares-bitcoin-etf-for-nyse-arca-launch-picking-msbt-ticker.html</loc>
-    <lastmod>2026-03-19T20:08:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-xrp-treasury-firm-evernorth-inches-closer-to-public-listing-with-685-million-sta.html</loc>
-    <lastmod>2026-03-19T19:51:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-breaking-us-new-home-sales-crashed-176-mom-in-january-the-worst-januarys-decline.html</loc>
     <lastmod>2026-03-19T18:40:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-new-tom-lee-explains-why-on-march-19th-2026-the-ethereum-bottom-is-likely-in-and.html</loc>
-    <lastmod>2026-03-19T18:39:43.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
