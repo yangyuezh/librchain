@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-20T06:04:52.233Z</lastmod>
+    <lastmod>2026-03-20T07:12:11.326Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-20T06:04:52.233Z</lastmod>
+    <lastmod>2026-03-20T07:12:11.326Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-quantum-risk-real-but-not-all-crypto-wallets-equally-vulnerable-galaxy.html</loc>
+    <lastmod>2026-03-20T06:27:16.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-super-micro-co-founder-arrested-over-alleged-25b-ai-chip-smuggling-scheme.html</loc>
+    <lastmod>2026-03-20T06:03:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260320-gemini-sued-over-post-ipo-strategy-shift-declining-stock-price.html</loc>
@@ -25,7 +37,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-appeals-court-denies-kalshis-bid-to-stave-off-ban-in-nevada.html</loc>
+    <loc>https://www.librchain.com/news/20260320-appeals-court-denies-kalshi-request-to-block-nevada-enforcement-action.html</loc>
     <lastmod>2026-03-20T05:21:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -103,6 +115,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260319-latest-blackrocks-staked-ethereum-trust-has-pulled-in-254-million-in-aum-in-its-.html</loc>
+    <lastmod>2026-03-19T22:23:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260319-crypto-clarity-act-inches-toward-senate-hearing-as-lawmakers-weigh-legislative-t.html</loc>
     <lastmod>2026-03-19T22:10:45.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -163,8 +181,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260319-21-questions-in-21-minutes-bitcoin-ai-and-innovation-in-the-digital-age-with-pre.html</loc>
+    <lastmod>2026-03-19T20:44:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260319-telling-your-chatbot-you-have-a-mental-health-condition-can-change-the-answer-yo.html</loc>
     <lastmod>2026-03-19T20:38:59.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-just-in-north-carolina-introduces-bill-for-a-strategic-bitcoin-reserve-today-it-.html</loc>
+    <lastmod>2026-03-19T20:37:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-just-in-north-carolina-introduces-bill-to-establish-a-strategic-bitcoin-reserve-.html</loc>
+    <lastmod>2026-03-19T20:29:25.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -205,7 +241,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-bybit-launches-yield-bearing-tokenized-gold-expanding-rwa-yield-market.html</loc>
+    <loc>https://www.librchain.com/news/20260319-bybit-launches-yield-bearing-tokenized-gold-product-tied-to-xaut.html</loc>
     <lastmod>2026-03-19T19:50:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -217,7 +253,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-animoca-invests-in-ava-labs-to-boost-avalanche-adoption-in-asia-middle-east.html</loc>
+    <loc>https://www.librchain.com/news/20260319-animoca-invests-in-ava-labs-to-expand-avalanche-in-asia-middle-east.html</loc>
     <lastmod>2026-03-19T19:31:48.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -225,6 +261,18 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-wall-street-heavyweight-cantor-among-investment-banks-pitching-falconx-for-its-p.html</loc>
     <lastmod>2026-03-19T19:23:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-breaking-us-new-home-sales-crashed-176-mom-in-january-the-worst-januarys-decline.html</loc>
+    <lastmod>2026-03-19T18:40:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-new-tom-lee-explains-why-on-march-19th-2026-the-ethereum-bottom-is-likely-in-and.html</loc>
+    <lastmod>2026-03-19T18:39:43.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -271,18 +319,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-bitcoin-drops-10-to-threaten-new-retest-of-unreliable-btc-price-support.html</loc>
-    <lastmod>2026-03-19T17:09:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-bitcoin-finance-protocol-hashi-launches-on-sui-with-bitgo-falconx-backing.html</loc>
-    <lastmod>2026-03-19T17:00:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-bitcoin-holds-69000-as-gold-tumbles-and-oil-spikes-but-one-analyst-says-stay-on-.html</loc>
     <lastmod>2026-03-19T16:54:28.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -319,6 +355,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260319-new-morgan-stanley-files-new-form-with-the-sec-for-its-spot-bitcoin-etf-revealin.html</loc>
+    <lastmod>2026-03-19T16:02:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-new-after-a-senate-republican-meeting-on-crypto-market-structure-attended-by-whi.html</loc>
+    <lastmod>2026-03-19T15:52:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260319-openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrop.html</loc>
     <lastmod>2026-03-19T15:45:10.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -345,6 +393,18 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-major-league-baseball-signs-prediction-markets-pacts-with-cftc-polymarket.html</loc>
     <lastmod>2026-03-19T14:20:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-bitcoin-still-dominates-digital-currencies-90-market-share-but-if-anythings-goin.html</loc>
+    <lastmod>2026-03-19T14:20:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-just-in-a-testnet-for-bitcoin-improvement-proposal-360-has-been-deployed-which-a.html</loc>
+    <lastmod>2026-03-19T13:19:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -379,6 +439,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260319-breaking-bitcoin-falls-5000-in-24-hours-and-drops-below-70000-as-the-broader-sel.html</loc>
+    <lastmod>2026-03-19T12:31:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260319-morning-minute-markets-tumble-as-iran-war-escalates.html</loc>
     <lastmod>2026-03-19T12:25:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -387,6 +453,60 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-global-fraud-summit-2026-from-fragmented-efforts-to-a-global-fraud-response.html</loc>
     <lastmod>2026-03-19T10:20:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-massive-crash-1380000000000-wiped-out-from-gold-and-silver-in-just-5-hours-xcom.html</loc>
+    <lastmod>2026-03-19T08:29:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-now-ethereum-leads-the-l1-market-by-ecosystem-tvl-followed-by-tron-solana-and-bn.html</loc>
+    <lastmod>2026-03-19T05:30:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260318-crypto-market-momentum-is-accelerating-crypto-funds-recorded-106-billion-in-infl.html</loc>
+    <lastmod>2026-03-18T22:56:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260318-a-guest-article-by-fredrik0x-soispoke-and-parithosh_j-from-the-ethereum-foundati.html</loc>
+    <lastmod>2026-03-18T16:32:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260318-excited-to-share-visa-cli-the-first-experimental-product-from-visa-crypto-labs-c.html</loc>
+    <lastmod>2026-03-18T15:41:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260318-breaking-bitcoin-is-now-projected-to-crash-below-45000-by-the-end-of-this-year-5.html</loc>
+    <lastmod>2026-03-18T15:17:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260318-crypto-has-a-capital-efficiency-problem-hundreds-of-billions-in-tokens-sit-idle-.html</loc>
+    <lastmod>2026-03-18T15:12:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260318-just-in-us-senator-cynthia-lummis-urges-lawmakers-to-pass-bitcoin-and-crypto-mar.html</loc>
+    <lastmod>2026-03-18T13:17:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260317-chairman-secpaulsatkins-on-todays-interpretation-on-crypto-assets-after-more-tha.html</loc>
+    <lastmod>2026-03-17T22:51:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
