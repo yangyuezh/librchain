@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-20T19:04:42.187Z</lastmod>
+    <lastmod>2026-03-20T19:48:25.356Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-20T19:04:42.187Z</lastmod>
+    <lastmod>2026-03-20T19:48:25.356Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-20T19:30:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-senators-say-theyve-reached-compromise-on-yield-to-advance-crypto-market-bill.html</loc>
+    <lastmod>2026-03-20T19:27:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-openai-plans-to-merge-chatgpt-codex-and-atlas-into-one-superapp-wsj.html</loc>
+    <lastmod>2026-03-20T19:07:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260320-kalshi-gets-temporary-nevada-ban-in-dispute-over-sports-betting.html</loc>
@@ -111,12 +129,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260320-crash-600000000000-has-been-wiped-out-of-the-us-stock-market-in-just-50-minutes-.html</loc>
     <lastmod>2026-03-20T14:23:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260320-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-03-20T14:11:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -249,12 +261,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260320-ripple-data-reveals-stablecoins-are-becoming-the-go-to-tool-for-corporate-treasu.html</loc>
     <lastmod>2026-03-20T08:48:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260320-just-in-bitcoin-hits-71000-xcom.html</loc>
-    <lastmod>2026-03-20T08:08:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -409,12 +415,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-coinbases-bitcoin-yield-fund-goes-onchain-with-apexs-tokenization-push.html</loc>
-    <lastmod>2026-03-19T20:09:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-morgan-stanley-prepares-bitcoin-etf-for-nyse-arca-launch-picking-msbt-ticker.html</loc>
     <lastmod>2026-03-19T20:08:19.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -423,12 +423,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-xrp-treasury-firm-evernorth-inches-closer-to-public-listing-with-685-million-sta.html</loc>
     <lastmod>2026-03-19T19:51:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-first-working-quantum-battery-proves-bigger-really-does-mean-faster.html</loc>
-    <lastmod>2026-03-19T19:41:29.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -447,6 +441,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-new-sui-has-launched-hashi-on-devnet-a-bitcoin-finance-protocol-backed-by-firms-.html</loc>
     <lastmod>2026-03-19T17:41:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-fbi-new-york-encourages-users-of-the-tron-blockchain-network-to-exercise-caution.html</loc>
+    <lastmod>2026-03-19T17:01:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -493,8 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260318-folks-if-you-get-crypto-emails-from-websites-claiming-to-be-associated-with-open.html</loc>
-    <lastmod>2026-03-18T16:08:55.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260318-crypto-market-momentum-is-accelerating-crypto-funds-recorded-106-billion-in-infl.html</loc>
+    <lastmod>2026-03-18T22:56:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
