@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-20T15:56:23.741Z</lastmod>
+    <lastmod>2026-03-20T16:59:41.665Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-20T15:56:23.741Z</lastmod>
+    <lastmod>2026-03-20T16:59:41.665Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-what-happens-to-bitcoin-if-bank-of-americas-three-conditions-for-fed-rate-hikes-.html</loc>
+    <lastmod>2026-03-20T16:54:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-market-analyst-sees-further-bitcoin-downside-flags-60k-as-key-level.html</loc>
+    <lastmod>2026-03-20T16:25:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-what-happens-to-bitcoin-if-oil-price-hits-180-per-barrel.html</loc>
+    <lastmod>2026-03-20T15:53:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260320-bitcoins-latest-fear-unlocked-as-rate-hike-bets-rise-and-bond-markets-crumble.html</loc>
@@ -247,18 +265,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-solana-dapps-revenue-falls-to-18-month-low-as-sol-price-risks-80-retest.html</loc>
-    <lastmod>2026-03-20T02:44:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260320-coinbase-apex-group-tokenize-bitcoin-yield-fund-on-base.html</loc>
-    <lastmod>2026-03-20T02:03:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260320-bitcoin-trails-money-supply-growth-as-energy-costs-and-rates-bite.html</loc>
     <lastmod>2026-03-20T01:56:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -421,20 +427,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-fbi-new-york-encourages-users-of-the-tron-blockchain-network-to-exercise-caution.html</loc>
-    <lastmod>2026-03-19T17:01:55.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-the-secs-interpretation-on-crypto-assets-is-just-the-beginning-and-serves-as-a-b.html</loc>
     <lastmod>2026-03-19T16:59:26.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-uk-to-dissolve-crypto-exchange-accused-of-aiding-iranian-sanctions-evasion.html</loc>
-    <lastmod>2026-03-19T16:49:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -487,8 +481,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-now-ethereum-leads-the-l1-market-by-ecosystem-tvl-followed-by-tron-solana-and-bn.html</loc>
-    <lastmod>2026-03-19T05:30:56.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260318-folks-if-you-get-crypto-emails-from-websites-claiming-to-be-associated-with-open.html</loc>
+    <lastmod>2026-03-18T16:08:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -501,6 +495,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260318-just-in-us-senator-cynthia-lummis-urges-lawmakers-to-pass-bitcoin-and-crypto-mar.html</loc>
     <lastmod>2026-03-18T13:17:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260317-our-interpretation-on-crypto-assetsgrounded-in-existing-law-and-informed-by-exte.html</loc>
+    <lastmod>2026-03-17T21:00:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
