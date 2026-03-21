@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-21T21:36:38.285Z</lastmod>
+    <lastmod>2026-03-21T22:40:40.756Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-21T21:36:38.285Z</lastmod>
+    <lastmod>2026-03-21T22:40:40.756Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260321-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-21T22:37:26.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260321-brazils-finance-minister-shelves-crypto-tax-policy-due-to-election-report.html</loc>
+    <lastmod>2026-03-21T22:22:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260321-bitcoin-options-signal-extreme-fear-as-downside-protection-premium-hits-new-all-.html</loc>
@@ -63,12 +75,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260321-the-5-cent-contract-that-debunked-a-wartime-death-conspiracy.html</loc>
     <lastmod>2026-03-21T16:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260321-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-03-21T14:08:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -339,12 +345,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260320-market-analyst-sees-further-bitcoin-downside-flags-60k-as-key-level.html</loc>
     <lastmod>2026-03-20T16:25:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260320-what-happens-to-bitcoin-if-oil-price-hits-180-per-barrel.html</loc>
-    <lastmod>2026-03-20T15:53:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
