@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-21T11:34:02.175Z</lastmod>
+    <lastmod>2026-03-21T13:10:54.154Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-21T11:34:02.175Z</lastmod>
+    <lastmod>2026-03-21T13:10:54.154Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260321-sam-bankman-fried-tries-to-get-on-donald-trumps-good-side-by-backing-his-iran-st.html</loc>
+    <lastmod>2026-03-21T12:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260321-bitcoin-mining-difficulty-falls-77-as-miner-pressure-persists.html</loc>
+    <lastmod>2026-03-21T11:58:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260321-early-ethereum-whale-rebuilds-stack-with-195m-in-eth-buys.html</loc>
@@ -81,6 +93,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260320-man-pleads-guilty-to-using-ai-to-generate-8-million-in-fraudulent-streaming-musi.html</loc>
     <lastmod>2026-03-20T20:36:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-bullish-brian-armstrong-says-bitcoin-acts-as-a-check-on-inflation-with-capital-f.html</loc>
+    <lastmod>2026-03-20T20:30:42.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -169,6 +187,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260320-secs-new-interpretive-guidance-released-this-week-categorizing-crypto-assets-int.html</loc>
+    <lastmod>2026-03-20T18:00:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260320-white-house-ai-proposal-seeks-to-override-state-laws-avoid-new-regulator.html</loc>
     <lastmod>2026-03-20T17:56:24.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -235,12 +259,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-morgan-stanley-wealth-management-oversees-about-8-trillion-in-aum-and-recommends.html</loc>
-    <lastmod>2026-03-20T15:25:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260320-just-in-cftc-announces-futures-commission-merchants-can-accept-bitcoin-as-margin.html</loc>
     <lastmod>2026-03-20T14:55:46.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -303,12 +321,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260320-altcoin-volume-slumps-80-amid-tighter-monetary-conditions.html</loc>
     <lastmod>2026-03-20T13:22:26.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260320-stablecoin-issuers-and-fintechs-race-to-own-payment-rails.html</loc>
-    <lastmod>2026-03-20T13:21:15.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,20 +463,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-just-in-north-carolina-introduces-bill-to-establish-a-strategic-bitcoin-reserve-.html</loc>
-    <lastmod>2026-03-19T20:29:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-defi-risk-management-giant-gauntlet-sees-380-million-exit-as-okx-crypto-campaign.html</loc>
     <lastmod>2026-03-19T20:12:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-crypto-markets-and-the-american-people-deserve-clarity.html</loc>
-    <lastmod>2026-03-19T20:12:30.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260319-bitcoin-down-to-270-a-pop-so-glad-i-didnt-buy-in-on-that-mess-this-is-why-we-buy.html</loc>
+    <lastmod>2026-03-19T19:45:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -477,12 +483,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-the-secs-interpretation-on-crypto-assets-is-just-the-beginning-and-serves-as-a-b.html</loc>
     <lastmod>2026-03-19T16:59:26.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-new-morgan-stanley-files-new-form-with-the-sec-for-its-spot-bitcoin-etf-revealin.html</loc>
-    <lastmod>2026-03-19T16:02:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
