@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-21T14:42:33.746Z</lastmod>
+    <lastmod>2026-03-21T15:37:48.744Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-21T14:42:33.746Z</lastmod>
+    <lastmod>2026-03-21T15:37:48.744Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -39,6 +39,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260321-hong-kong-retiree-loses-840k-in-triple-crypto-expert-scam.html</loc>
     <lastmod>2026-03-21T13:43:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260321-big-cftc-staff-issues-faqs-clarifying-crypto-asset-and-blockchain-activities-for.html</loc>
+    <lastmod>2026-03-21T13:00:15.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -117,12 +123,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260320-man-pleads-guilty-to-using-ai-to-generate-8-million-in-fraudulent-streaming-musi.html</loc>
     <lastmod>2026-03-20T20:36:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260320-bullish-brian-armstrong-says-bitcoin-acts-as-a-check-on-inflation-with-capital-f.html</loc>
-    <lastmod>2026-03-20T20:30:42.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
