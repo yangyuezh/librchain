@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-21T10:44:39.506Z</lastmod>
+    <lastmod>2026-03-21T11:34:02.175Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-21T10:44:39.506Z</lastmod>
+    <lastmod>2026-03-21T11:34:02.175Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260321-early-ethereum-whale-rebuilding-stack-with-195m-in-eth-buys.html</loc>
+    <loc>https://www.librchain.com/news/20260321-early-ethereum-whale-rebuilds-stack-with-195m-in-eth-buys.html</loc>
     <lastmod>2026-03-21T09:22:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -33,6 +33,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260321-gold-sees-biggest-weekly-fall-in-43-years-as-iran-war-rages-on.html</loc>
     <lastmod>2026-03-21T02:53:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260321-according-to-cryptoquant-data-altcoin-spot-trading-volume-has-seen-a-precipitous.html</loc>
+    <lastmod>2026-03-21T02:15:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -159,12 +165,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260320-kalshi-raises-1-billion-to-double-valuation-to-22-billion-reports.html</loc>
     <lastmod>2026-03-20T18:30:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260320-secs-new-interpretive-guidance-released-this-week-categorizing-crypto-assets-int.html</loc>
-    <lastmod>2026-03-20T18:00:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -403,12 +403,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-if-bitcoin-continues-to-follow-2014-then-the-next-leg-down-could-be-sooner-than-.html</loc>
-    <lastmod>2026-03-20T04:23:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260320-bitcoin-trails-money-supply-growth-as-energy-costs-and-rates-bite.html</loc>
     <lastmod>2026-03-20T01:56:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -453,6 +447,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-just-in-north-carolina-introduces-bill-for-a-strategic-bitcoin-reserve-today-it-.html</loc>
     <lastmod>2026-03-19T20:37:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-just-in-north-carolina-introduces-bill-to-establish-a-strategic-bitcoin-reserve-.html</loc>
+    <lastmod>2026-03-19T20:29:25.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
