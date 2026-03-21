@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-21T07:44:29.518Z</lastmod>
+    <lastmod>2026-03-21T08:49:07.049Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-21T07:44:29.518Z</lastmod>
+    <lastmod>2026-03-21T08:49:07.049Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260321-he-once-held-500m-in-crypto-now-hes-buying-back-ethereum-og-thomasg_eth-held-538.html</loc>
+    <lastmod>2026-03-21T05:11:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260321-bitcoin-weakness-deepens-as-war-pushes-traders-to-cut-risk-in-btc-and-stocks.html</loc>
@@ -67,12 +73,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-bullish-brian-armstrong-says-bitcoin-acts-as-a-check-on-inflation-with-capital-f.html</loc>
-    <lastmod>2026-03-20T20:30:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260320-nevada-becomes-first-state-to-ban-prediction-market-kalshiat-least-for-now.html</loc>
     <lastmod>2026-03-20T20:16:45.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -123,6 +123,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260320-openai-plans-to-merge-chatgpt-codex-and-atlas-into-one-superapp-wsj.html</loc>
     <lastmod>2026-03-20T19:07:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-just-in-key-us-senators-strike-an-agreement-with-the-white-house-on-stablecoin-y.html</loc>
+    <lastmod>2026-03-20T19:07:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -207,6 +213,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260320-what-happens-to-bitcoin-if-oil-price-hits-180-per-barrel.html</loc>
     <lastmod>2026-03-20T15:53:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260320-mpp-myths-mpp-only-works-with-tempo-no-its-payment-method-agnostic-works-with-cr.html</loc>
+    <lastmod>2026-03-20T15:36:13.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -391,12 +403,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-need-to-catch-up-on-the-news-heres-our-top-10-from-today-senate-republicans-are-.html</loc>
-    <lastmod>2026-03-20T02:30:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260320-bitcoin-trails-money-supply-growth-as-energy-costs-and-rates-bite.html</loc>
     <lastmod>2026-03-20T01:56:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -447,12 +453,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-just-in-north-carolina-introduces-bill-for-a-strategic-bitcoin-reserve-today-it-.html</loc>
     <lastmod>2026-03-19T20:37:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-just-in-north-carolina-introduces-bill-to-establish-a-strategic-bitcoin-reserve-.html</loc>
-    <lastmod>2026-03-19T20:29:25.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
