@@ -2,21 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-21T05:53:25.376Z</lastmod>
+    <lastmod>2026-03-21T07:01:01.523Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-21T05:53:25.376Z</lastmod>
+    <lastmod>2026-03-21T07:01:01.523Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260321-dormant-btc-wallet-wakes-up-after-14-years-with-11000x-paper-profit.html</loc>
-    <lastmod>2026-03-21T04:55:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260321-bitcoin-weakness-deepens-as-war-pushes-traders-to-cut-risk-in-btc-and-stocks.html</loc>
@@ -319,6 +313,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260320-morgan-stanley-files-amended-s-1-for-msbt-bitcoin-etf.html</loc>
+    <lastmod>2026-03-20T12:34:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260320-bitcoin-holds-steady-with-one-analyst-seeing-the-upside-emerging.html</loc>
     <lastmod>2026-03-20T11:41:48.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -507,12 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-global-fraud-summit-2026-from-fragmented-efforts-to-a-global-fraud-response.html</loc>
     <lastmod>2026-03-19T10:20:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260317-ofac-it-wmd.html</loc>
-    <lastmod>2026-03-17T05:56:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
