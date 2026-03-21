@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-21T18:52:50.188Z</lastmod>
+    <lastmod>2026-03-21T19:34:49.670Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-21T18:52:50.188Z</lastmod>
+    <lastmod>2026-03-21T19:34:49.670Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260321-bitcoin-options-signal-extreme-fear-as-downside-protection-premium-hits-new-all-.html</loc>
+    <lastmod>2026-03-21T18:54:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260321-crypto-firms-cut-hundreds-of-jobs-in-weeks-blaming-weak-markets-strong-ai.html</loc>
@@ -423,12 +429,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260320-also-gaming-on-a-blockchain-is-not-coming-back-xcom.html</loc>
     <lastmod>2026-03-20T11:37:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260320-crypto-market-steadies-as-derivatives-signal-caution-macro-pressure-builds.html</loc>
-    <lastmod>2026-03-20T10:49:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
