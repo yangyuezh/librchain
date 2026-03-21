@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-21T17:37:45.805Z</lastmod>
+    <lastmod>2026-03-21T18:52:50.188Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-21T17:37:45.805Z</lastmod>
+    <lastmod>2026-03-21T18:52:50.188Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260321-crypto-firms-cut-hundreds-of-jobs-in-weeks-blaming-weak-markets-strong-ai.html</loc>
+    <lastmod>2026-03-21T18:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260321-the-7-largest-publicly-traded-ethereum-treasury-firms.html</loc>
+    <lastmod>2026-03-21T17:49:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260321-sec-crypto-guidance-puts-the-final-nail-in-the-gensler-era-analyst.html</loc>
+    <lastmod>2026-03-21T17:41:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260321-how-defi-is-quietly-rebuilding-the-fixed-income-stack-for-institutional-capital.html</loc>
@@ -69,6 +87,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260321-hong-kong-retiree-loses-840k-in-triple-crypto-expert-scam.html</loc>
     <lastmod>2026-03-21T13:43:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260321-bitcoin-is-in-the-historic-bottom-zone-thats-the-same-as-in-2015-2018-2020-and-2.html</loc>
+    <lastmod>2026-03-21T13:40:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -337,12 +361,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-bitfufu-cuts-self-mined-bitcoin-in-2025-shifts-focus-to-cloud-mining.html</loc>
-    <lastmod>2026-03-20T14:03:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260320-bitcoin-has-been-very-resilient-in-recent-weeks-and-we-can-see-below-how-the-52-.html</loc>
     <lastmod>2026-03-20T14:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -421,12 +439,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-ripple-data-reveals-stablecoins-are-becoming-the-go-to-tool-for-corporate-treasu.html</loc>
-    <lastmod>2026-03-20T08:48:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260320-kentucky-senate-urged-to-strip-hardware-wallet-provision-from-crypto-bill.html</loc>
     <lastmod>2026-03-20T05:03:38.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -463,12 +475,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-fake-fbi-crypto-tokens-are-being-used-to-threaten-tron-users-authorities-warn.html</loc>
-    <lastmod>2026-03-19T20:53:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260319-just-in-north-carolina-introduces-bill-for-a-strategic-bitcoin-reserve-today-it-.html</loc>
     <lastmod>2026-03-19T20:37:56.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,20 +487,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-fbi-new-york-encourages-users-of-the-tron-blockchain-network-to-exercise-caution.html</loc>
-    <lastmod>2026-03-19T17:01:55.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260319-chairman-secpaulsatkins-regarding-the-commissions-interpretation-on-crypto-asset.html</loc>
+    <lastmod>2026-03-19T16:12:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260319-new-after-a-senate-republican-meeting-on-crypto-market-structure-attended-by-whi.html</loc>
     <lastmod>2026-03-19T15:52:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-just-in-a-testnet-for-bitcoin-improvement-proposal-360-has-been-deployed-which-a.html</loc>
-    <lastmod>2026-03-19T13:19:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
