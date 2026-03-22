@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-22T03:19:21.410Z</lastmod>
+    <lastmod>2026-03-22T05:31:11.582Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-22T03:19:21.410Z</lastmod>
+    <lastmod>2026-03-22T05:31:11.582Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-nevada-judge-temporarily-blocks-kalshi-from-operating-in-the-state.html</loc>
+    <lastmod>2026-03-22T03:33:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-latest-brazils-finance-minister-shelves-crypto-tax-policy-until-after-the-countr.html</loc>
+    <lastmod>2026-03-22T02:30:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260322-cftc-staff-clarify-expectations-on-using-crypto-as-collateral.html</loc>
@@ -27,6 +39,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260322-just-in-240000000-liquidated-from-the-crypto-market-in-the-past-15-minutes-xcom.html</loc>
     <lastmod>2026-03-22T00:05:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260321-breaking-bitcoin-collapses-below-68000-after-president-trump-threatens-to-oblite.html</loc>
+    <lastmod>2026-03-21T23:59:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -177,12 +195,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260321-gold-sees-biggest-weekly-fall-in-43-years-as-iran-war-rages-on.html</loc>
     <lastmod>2026-03-21T02:53:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260321-new-a-dormant-bitcoin-whale-holding-2100-btc-has-reactivated-after-14-years-with.html</loc>
-    <lastmod>2026-03-21T02:00:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -343,12 +355,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-white-house-outlines-national-ai-framework-calls-for-unified-federal-approach.html</loc>
-    <lastmod>2026-03-20T17:13:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260320-nasdaq-winning-sec-approval-to-move-stocks-onchain-shows-how-wall-street-is-taki.html</loc>
     <lastmod>2026-03-20T17:04:22.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -357,12 +363,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260320-what-happens-to-bitcoin-if-bank-of-americas-three-conditions-for-fed-rate-hikes-.html</loc>
     <lastmod>2026-03-20T16:54:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260320-bitcoin-has-reintegrated-its-range-after-a-short-lived-deviation-above-the-75k-l.html</loc>
-    <lastmod>2026-03-20T16:33:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -381,12 +381,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260320-why-coindesk-pitchfest-matters-heading-into-miami.html</loc>
     <lastmod>2026-03-20T14:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260320-bitcoin-has-been-very-resilient-in-recent-weeks-and-we-can-see-below-how-the-52-.html</loc>
-    <lastmod>2026-03-20T14:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -495,6 +489,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-just-in-north-carolina-introduces-bill-for-a-strategic-bitcoin-reserve-today-it-.html</loc>
     <lastmod>2026-03-19T20:37:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-chairman-secpaulsatkins-regarding-the-commissions-interpretation-on-crypto-asset.html</loc>
+    <lastmod>2026-03-19T16:12:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
