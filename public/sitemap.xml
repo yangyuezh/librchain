@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-22T21:37:44.924Z</lastmod>
+    <lastmod>2026-03-22T22:43:24.859Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-22T21:37:44.924Z</lastmod>
+    <lastmod>2026-03-22T22:43:24.859Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-the-resolv-hack-how-one-compromised-key-printed-23-million.html</loc>
+    <lastmod>2026-03-22T22:18:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-22T21:49:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-btc-and-gold-divergence-reflects-split-between-retail-and-central-banks-analyst.html</loc>
+    <lastmod>2026-03-22T21:48:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260322-if-one-trader-can-force-the-outcome-of-a-prediction-market-it-shouldnt-be-tradab.html</loc>
@@ -79,12 +97,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260322-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-03-22T14:16:26.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260322-resolv-says-no-assets-lost-as-defi-protocols-respond-to-24m-usr-exploit.html</loc>
     <lastmod>2026-03-22T14:06:37.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -99,6 +111,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260322-bitcoin-risks-50-drop-as-btcs-positive-correlation-with-us-stocks-grows.html</loc>
     <lastmod>2026-03-22T12:11:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-breaking-an-ai-system-broke-out-of-its-test-setup-and-started-using-its-own-reso.html</loc>
+    <lastmod>2026-03-22T11:06:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -327,18 +345,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260321-bitcoin-weakness-deepens-as-war-pushes-traders-to-cut-risk-in-btc-and-stocks.html</loc>
     <lastmod>2026-03-21T04:38:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260321-gold-sees-biggest-weekly-fall-in-43-years-as-iran-war-rages-on.html</loc>
-    <lastmod>2026-03-21T02:53:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260321-just-in-hawk-tuah-girl-haliey-welch-breaks-silence-on-her-crypto-meme-coin-that-.html</loc>
-    <lastmod>2026-03-21T01:03:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
