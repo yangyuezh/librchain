@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-22T11:34:56.604Z</lastmod>
+    <lastmod>2026-03-22T13:13:21.094Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-22T11:34:56.604Z</lastmod>
+    <lastmod>2026-03-22T13:13:21.094Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-how-ai-is-being-used-to-clear-court-backlogs-in-la.html</loc>
+    <lastmod>2026-03-22T13:01:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-bitcoin-risks-50-drop-as-btcs-positive-correlation-with-us-stocks-grows.html</loc>
+    <lastmod>2026-03-22T12:11:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260322-coinbase-backed-coindcx-founders-questioned-in-fraud-case-report.html</loc>
@@ -45,12 +57,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260322-resolv-labs-stablecoin-depegs-as-attacker-mints-millions-of-tokens.html</loc>
     <lastmod>2026-03-22T05:47:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260322-breaking-according-to-ai_9684xtpa-resolvlabs-stablecoin-usr-appears-to-have-suff.html</loc>
-    <lastmod>2026-03-22T04:09:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -217,12 +223,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260321-elon-musks-phonies-post-sparks-crypto-meme-wave-xcom.html</loc>
-    <lastmod>2026-03-21T11:25:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260321-early-ethereum-whale-rebuilds-stack-with-195m-in-eth-buys.html</loc>
     <lastmod>2026-03-21T09:22:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -247,14 +247,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260321-just-in-hawk-tuah-girl-haliey-welch-breaks-silence-on-her-crypto-meme-coin-that-.html</loc>
-    <lastmod>2026-03-21T01:03:07.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260321-grayscale-files-s-1-for-hyperliquid-etf-joining-bitwise-21shares.html</loc>
+    <lastmod>2026-03-21T00:36:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260321-grayscale-files-s-1-for-hyperliquid-etf-joining-bitwise-21shares.html</loc>
-    <lastmod>2026-03-21T00:36:00.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260320-insight-bitcoin-is-trading-just-above-historical-cycle-bottom-levels-based-on-re.html</loc>
+    <lastmod>2026-03-20T22:30:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -297,12 +297,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260320-sam-bankman-frieds-past-political-cash-gives-ai-pac-fuel-for-bashing-ny-candidat.html</loc>
     <lastmod>2026-03-20T20:03:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260320-crypto-biz-institutions-arent-waiting-for-the-bottom.html</loc>
-    <lastmod>2026-03-20T20:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -403,12 +397,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-bitcoin-has-been-very-resilient-in-recent-weeks-and-we-can-see-below-how-the-52-.html</loc>
-    <lastmod>2026-03-20T14:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260320-crypto-wallet-maker-ledger-taps-former-circle-exec-as-cfo-to-help-lead-ipo-push.html</loc>
     <lastmod>2026-03-20T13:57:14.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -487,14 +475,26 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-microsoft-launches-mai-image-2-text-to-image-modeland-its-better-than-expected.html</loc>
-    <lastmod>2026-03-19T21:14:17.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260319-just-in-north-carolina-introduces-bill-for-a-strategic-bitcoin-reserve-today-it-.html</loc>
+    <lastmod>2026-03-19T20:37:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260319-cz-recalls-the-2014-chicago-conference-19-year-old-vitalik-brought-up-ethereum-t.html</loc>
     <lastmod>2026-03-19T20:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-the-secs-interpretation-on-crypto-assets-is-just-the-beginning-and-serves-as-a-b.html</loc>
+    <lastmod>2026-03-19T16:59:26.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-chairman-secpaulsatkins-regarding-the-commissions-interpretation-on-crypto-asset.html</loc>
+    <lastmod>2026-03-19T16:12:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
