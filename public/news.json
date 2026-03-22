@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2026-03-22T05:31:11.347Z",
+  "updatedAt": "2026-03-22T07:06:25.308Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "XRP falls 3% as breakdown below $1.44 and bitcoin weakness caps recovery",
+      "summary": "Traders are watching support near $1.40 as repeated failures below $1.60 reinforce broader downtrend.",
+      "url": "https://www.coindesk.com/markets/2026/03/22/xrp-falls-3-as-breakdown-below-usd1-44-and-bitcoin-weakness-caps-recovery",
+      "publishedAt": "2026-03-22T06:47:52.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260322-xrp-falls-3-as-breakdown-below-144-and-bitcoin-weakness-caps-recovery",
+      "localUrl": "/news/20260322-xrp-falls-3-as-breakdown-below-144-and-bitcoin-weakness-caps-recovery.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin miners are losing $19,000 on every BTC produced as difficulty drops 7.8%",
+      "summary": "The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.",
+      "url": "https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8",
+      "publishedAt": "2026-03-22T06:26:48.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260322-bitcoin-miners-are-losing-19000-on-every-btc-produced-as-difficulty-drops-78",
+      "localUrl": "/news/20260322-bitcoin-miners-are-losing-19000-on-every-btc-produced-as-difficulty-drops-78.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin drops below $69,200 as Trump gives 48-hour ultimatum on Iran power plants",
+      "summary": "BTC fell 2.2% as $299 million in liquidations hit crypto markets, with long positions accounting for 85% of the damage.",
+      "url": "https://www.coindesk.com/markets/2026/03/22/bitcoin-drops-below-usd69-200-as-trump-gives-48-hour-ultimatum-on-iran-power-plants",
+      "publishedAt": "2026-03-22T06:00:08.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260322-bitcoin-drops-below-69200-as-trump-gives-48-hour-ultimatum-on-iran-power-plants",
+      "localUrl": "/news/20260322-bitcoin-drops-below-69200-as-trump-gives-48-hour-ultimatum-on-iran-power-plants.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Resolv Labs’ stablecoin depegs as attacker mints millions of tokens",
+      "summary": "An attacker has exploited the Resolv USR stablecoin to mint 80 million tokens and has reportedly been able to cash out at least $25 million.",
+      "url": "https://cointelegraph.com/news/resolv-labs-stablecoin-depegs-attacker-mints-millions-of-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-22T05:47:02.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260322-resolv-labs-stablecoin-depegs-as-attacker-mints-millions-of-tokens",
+      "localUrl": "/news/20260322-resolv-labs-stablecoin-depegs-as-attacker-mints-millions-of-tokens.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Breaking: According to @ai_9684xtpa, ResolvLabs’ stablecoin USR appears to have suffered a suspected exploit after an address minted 50 million USR with only about 100k USDC, sending USR down 74.2% to $0.257 before rebounding to around $0.78. Th - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zRG9fZGtaRzgxeE53T0ZCSU13dlZTYzh5YjVBWHpkSlUzb253SGYzVEtOczBjUng0ZE82ZVlLY0N0N0hQREdqdWs5VWVWSEJkeVBqcWZWek9ZMnRNemZmN0Z2bw?oc=5\" target=\"_blank\">Breaking: According to @ai_9684x…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zRG9fZGtaRzgxeE53T0ZCSU13dlZTYzh5YjVBWHpkSlUzb253SGYzVEtOczBjUng0ZE82ZVlLY0N0N0hQREdqdWs5VWVWSEJkeVBqcWZWek9ZMnRNemZmN0Z2bw?oc=5",
+      "publishedAt": "2026-03-22T04:09:03.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260322-breaking-according-to-ai_9684xtpa-resolvlabs-stablecoin-usr-appears-to-have-suff",
+      "localUrl": "/news/20260322-breaking-according-to-ai_9684xtpa-resolvlabs-stablecoin-usr-appears-to-have-suff.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Nevada judge temporarily blocks Kalshi from operating in the state",
@@ -251,6 +317,17 @@
       "localUrl": "/news/20260321-the-5-cent-contract-that-debunked-a-wartime-death-conspiracy.html"
     },
     {
+      "source": "X Wire",
+      "title": "💥BREAKING: OpenAI plans to double its workforce to 8,000 by 2026. Building AI still takes humans. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OQVRjLWlpQzFSbm45SUw3TW9oLXNURzVvd3A2aDN2Ui1QdGFrOHBKVFRnSFRxaGF6N3pSUXJPTHN5aEsxeTd2UTNVU2tYbUF5WFFyUnhtTk45Tk4yeGlpOGNR?oc=5\" target=\"_blank\">💥BREAKING: OpenAI plans to double…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OQVRjLWlpQzFSbm45SUw3TW9oLXNURzVvd3A2aDN2Ui1QdGFrOHBKVFRnSFRxaGF6N3pSUXJPTHN5aEsxeTd2UTNVU2tYbUF5WFFyUnhtTk45Tk4yeGlpOGNR?oc=5",
+      "publishedAt": "2026-03-21T15:18:10.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260321-breaking-openai-plans-to-double-its-workforce-to-8000-by-2026-building-ai-still-",
+      "localUrl": "/news/20260321-breaking-openai-plans-to-double-its-workforce-to-8000-by-2026-building-ai-still-.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Strategy Now Holds $54 Billion in Bitcoin—These Are Its Biggest Buys",
       "summary": "How did Michael Saylor's firm amass a record stash of Bitcoin? Here's a look back at how Strategy made such massive gains.",
@@ -262,6 +339,17 @@
       "category": "市场",
       "slug": "20260321-strategy-now-holds-54-billion-in-bitcointhese-are-its-biggest-buys",
       "localUrl": "/news/20260321-strategy-now-holds-54-billion-in-bitcointhese-are-its-biggest-buys.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: US Senator Cynthia Lummis says the Bitcoin and crypto market structure bill will \"make America the digital asset capital of the world.\" 🇺🇸 \"Let’s get it done, once and for all.\" 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJMEl6QXdZQlF0VGZGOV81eExVcjNmbEJDaFByQnJacTNfZl94Y2ZDM3VtaTVUWUplb3N1OWl1TlN1ei1qSDZnVlhrQWFGNlZ5aFUteDZnUFRmTXY2cy1UVjZMZDZuNkk?oc=5\" target=\"_blank\">JUST IN: US Senator Cynthia…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJMEl6QXdZQlF0VGZGOV81eExVcjNmbEJDaFByQnJacTNfZl94Y2ZDM3VtaTVUWUplb3N1OWl1TlN1ei1qSDZnVlhrQWFGNlZ5aFUteDZnUFRmTXY2cy1UVjZMZDZuNkk?oc=5",
+      "publishedAt": "2026-03-21T14:01:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260321-just-in-us-senator-cynthia-lummis-says-the-bitcoin-and-crypto-market-structure-b",
+      "localUrl": "/news/20260321-just-in-us-senator-cynthia-lummis-says-the-bitcoin-and-crypto-market-structure-b.html"
     },
     {
       "source": "CoinDesk",
@@ -306,17 +394,6 @@
       "category": "DeFi",
       "slug": "20260321-hong-kong-retiree-loses-840k-in-triple-crypto-expert-scam",
       "localUrl": "/news/20260321-hong-kong-retiree-loses-840k-in-triple-crypto-expert-scam.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "#Bitcoin is in the historic bottom zone. That's the same as in 2015, 2018, 2020 and 2022. Three out of those four cases, we didn't see new lows. In 2022, given that the collapse of FTX occurred, we did see one more drop. Moral of the story: time to accumulate y - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTV3lXbVFsd2VrZGVpNnFIaDN6WFFKVkNRZ0RGUmxkV09UYS16X01kLU9PQTIzRGppeXh2LWd3TVA3MjQwQ1N5SzRvWWxMQzNOR083MmtlQnYxUE16UXRlYWM3bw?oc=5\" target=\"_blank\">#Bitcoin is in the historic bott…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTV3lXbVFsd2VrZGVpNnFIaDN6WFFKVkNRZ0RGUmxkV09UYS16X01kLU9PQTIzRGppeXh2LWd3TVA3MjQwQ1N5SzRvWWxMQzNOR083MmtlQnYxUE16UXRlYWM3bw?oc=5",
-      "publishedAt": "2026-03-21T13:40:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260321-bitcoin-is-in-the-historic-bottom-zone-thats-the-same-as-in-2015-2018-2020-and-2",
-      "localUrl": "/news/20260321-bitcoin-is-in-the-historic-bottom-zone-thats-the-same-as-in-2015-2018-2020-and-2.html"
     },
     {
       "source": "X Wire",
@@ -440,17 +517,6 @@
       "category": "监管",
       "slug": "20260321-grayscale-files-s-1-for-hyperliquid-etf-joining-bitwise-21shares",
       "localUrl": "/news/20260321-grayscale-files-s-1-for-hyperliquid-etf-joining-bitwise-21shares.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 INSIGHT: Bitcoin is trading just above historical cycle bottom levels based on realized price and P&L metrics, according to a CryptoQuant analyst. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKbTNaQW1VVVRROHIzeWNJM0dnaU5BR3lJenpVVXRUUzlsNTJDVm1BaDdpWUQtbzQtTFNld2tXTWpZcHJCaGxjUm9tbmZ6R1dOZ3F5MkN1R1MyQ0VLVnlVMi1fbDU?oc=5\" target=\"_blank\">🚨 INSIGHT: Bitcoin is trading …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKbTNaQW1VVVRROHIzeWNJM0dnaU5BR3lJenpVVXRUUzlsNTJDVm1BaDdpWUQtbzQtTFNld2tXTWpZcHJCaGxjUm9tbmZ6R1dOZ3F5MkN1R1MyQ0VLVnlVMi1fbDU?oc=5",
-      "publishedAt": "2026-03-20T22:30:41.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260320-insight-bitcoin-is-trading-just-above-historical-cycle-bottom-levels-based-on-re",
-      "localUrl": "/news/20260320-insight-bitcoin-is-trading-just-above-historical-cycle-bottom-levels-based-on-re.html"
     },
     {
       "source": "Cointelegraph",
@@ -720,19 +786,6 @@
       "localUrl": "/news/20260320-eightco-boosts-openai-investment-after-bitmines-tom-lee-joins-board.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Traders pricing in TACO trade may be in for 'rude awakening' — Analyst",
-      "summary": "The disruption to the oil market and critical energy effects may have long-term economic effects that investors are not pricing in.",
-      "url": "https://cointelegraph.com/news/traders-taco-trade-rude-awakening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-20T17:35:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260320-traders-pricing-in-taco-trade-may-be-in-for-rude-awakening-analyst",
-      "localUrl": "/news/20260320-traders-pricing-in-taco-trade-may-be-in-for-rude-awakening-analyst.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Gemini Faces Class-Action Suit Over Prediction Market Pivot, Plummeting Stock Price",
       "summary": "Shareholders claim the Winklevoss twins failed to disclose plans to shift Gemini’s focus, and overstated the viability of its ambitions.",
@@ -876,37 +929,6 @@
       "localUrl": "/news/20260320-coindesk-20-performance-update-aptos-apt-gains-63-as-index-rises.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Coinbase introduces stock perpetual futures contracts for non-U.S. customers",
-      "summary": "The contracts trade 24/7, are cash-settled in USDC and allow for up to 10-times leverage on single-stock contracts and 20-times on ETF products.",
-      "url": "https://www.coindesk.com/markets/2026/03/20/coinbase-introduces-stock-perpetual-futures-contracts-for-non-u-s-customers",
-      "publishedAt": "2026-03-20T12:51:24.000Z",
-      "keywords": [
-        "Markets",
-        "Coinbase",
-        "Crypto News",
-        "Derivatives",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260320-coinbase-introduces-stock-perpetual-futures-contracts-for-non-us-customers",
-      "localUrl": "/news/20260320-coinbase-introduces-stock-perpetual-futures-contracts-for-non-us-customers.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Iran war volatility is driving oil trading boom on Hyperliquid, says JPMorgan",
-      "summary": "Round-the-clock oil trading on Hyperliquid is drawing investors beyond crypto as geopolitical shocks expose gaps in traditional markets, the bank said.",
-      "url": "https://www.coindesk.com/business/2026/03/20/iran-war-volatility-is-driving-oil-trading-boom-on-hyperliquid-says-jpmorgan",
-      "publishedAt": "2026-03-20T12:45:45.000Z",
-      "keywords": [
-        "Finance",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260320-iran-war-volatility-is-driving-oil-trading-boom-on-hyperliquid-says-jpmorgan",
-      "localUrl": "/news/20260320-iran-war-volatility-is-driving-oil-trading-boom-on-hyperliquid-says-jpmorgan.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Morning Minute: Bitcoin Rebounds as Oil Falls",
       "summary": "Crypto bounced as traders bet the Iran war may end sooner than feared, while prediction markets just had a blockbuster day.",
@@ -918,21 +940,6 @@
       "category": "市场",
       "slug": "20260320-morning-minute-bitcoin-rebounds-as-oil-falls",
       "localUrl": "/news/20260320-morning-minute-bitcoin-rebounds-as-oil-falls.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin holds steady, with one analyst seeing the upside emerging",
-      "summary": "Your day-ahead look for March 20, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/03/20/bitcoin-holds-steady-with-one-analyst-seeing-the-upside-emerging",
-      "publishedAt": "2026-03-20T11:41:48.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260320-bitcoin-holds-steady-with-one-analyst-seeing-the-upside-emerging",
-      "localUrl": "/news/20260320-bitcoin-holds-steady-with-one-analyst-seeing-the-upside-emerging.html"
     },
     {
       "source": "Decrypt",
@@ -1057,17 +1064,6 @@
       "category": "X热点",
       "slug": "20260319-just-in-north-carolina-introduces-bill-for-a-strategic-bitcoin-reserve-today-it-",
       "localUrl": "/news/20260319-just-in-north-carolina-introduces-bill-for-a-strategic-bitcoin-reserve-today-it-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Chairman @SECPaulSAtkins regarding the Commission’s interpretation on crypto assets: “We’re breaking from the past. We are now giving clarity from the SEC’s perspective as to what are and are not securities.” - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RSG5tMHE1RE9XcmZRbkptTVBTdE5KWjRXUzRTVFV4QjFLYlBjcmE5M2NZVE5TenZILV9OTVFQdF9CTFBiZ1hwR1d2bE9YdEluNUxDS1dMa21TdzA?oc=5\" target=\"_blank\">Chairman @SECPaulSAtkins regarding the Comm…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RSG5tMHE1RE9XcmZRbkptTVBTdE5KWjRXUzRTVFV4QjFLYlBjcmE5M2NZVE5TenZILV9OTVFQdF9CTFBiZ1hwR1d2bE9YdEluNUxDS1dMa21TdzA?oc=5",
-      "publishedAt": "2026-03-19T16:12:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260319-chairman-secpaulsatkins-regarding-the-commissions-interpretation-on-crypto-asset",
-      "localUrl": "/news/20260319-chairman-secpaulsatkins-regarding-the-commissions-interpretation-on-crypto-asset.html"
     },
     {
       "source": "Chainalysis Blog",
