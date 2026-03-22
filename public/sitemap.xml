@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-22T07:49:35.064Z</lastmod>
+    <lastmod>2026-03-22T08:50:40.832Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-22T07:49:35.064Z</lastmod>
+    <lastmod>2026-03-22T08:50:40.832Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-hawk-tuah-girl-hailey-welsh-says-memecoin-implosion-traumatized-her.html</loc>
+    <lastmod>2026-03-22T08:28:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260322-xrp-falls-3-as-breakdown-below-144-and-bitcoin-weakness-caps-recovery.html</loc>
@@ -301,12 +307,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-just-in-coinbase-ceo-brain-armstrong-says-bitcoin-will-help-preserve-us-dollar-d.html</loc>
-    <lastmod>2026-03-20T19:34:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260320-senators-say-theyve-reached-compromise-on-yield-to-advance-crypto-market-bill.html</loc>
     <lastmod>2026-03-20T19:27:20.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -339,12 +339,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260320-kalshi-gets-temporary-nevada-ban-in-dispute-over-sports-betting.html</loc>
     <lastmod>2026-03-20T18:45:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260320-ether-taker-volume-hits-3-year-high-will-eth-avoid-a-19-price-decline.html</loc>
-    <lastmod>2026-03-20T18:44:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -495,6 +489,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-microsoft-launches-mai-image-2-text-to-image-modeland-its-better-than-expected.html</loc>
     <lastmod>2026-03-19T21:14:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260319-cz-recalls-the-2014-chicago-conference-19-year-old-vitalik-brought-up-ethereum-t.html</loc>
+    <lastmod>2026-03-19T20:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
