@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-22T15:37:42.714Z</lastmod>
+    <lastmod>2026-03-22T16:46:28.515Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-22T15:37:42.714Z</lastmod>
+    <lastmod>2026-03-22T16:46:28.515Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-the-genius-and-the-danger-of-strc-how-strategys-new-funding-model-bends-so-it-do.html</loc>
+    <lastmod>2026-03-22T16:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260322-gold-falters-as-macro-pressures-build-bitcoin-holds-liquidity-trend.html</loc>
@@ -51,6 +57,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260322-hawk-tuah-girl-hailey-welsh-says-memecoin-implosion-traumatized-her.html</loc>
     <lastmod>2026-03-22T08:28:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-just-in-5000000000-in-crypto-short-positions-will-be-liquidation-if-bitcoin-pric.html</loc>
+    <lastmod>2026-03-22T07:52:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,12 +427,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-kalshi-valuation-doubles-to-22-billion-in-latest-funding-round-bloomberg.html</loc>
-    <lastmod>2026-03-20T13:25:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260320-altcoin-volume-slumps-80-amid-tighter-monetary-conditions.html</loc>
     <lastmod>2026-03-20T13:22:26.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -487,14 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-cz-recalls-the-2014-chicago-conference-19-year-old-vitalik-brought-up-ethereum-t.html</loc>
-    <lastmod>2026-03-19T20:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-chairman-secpaulsatkins-regarding-the-commissions-interpretation-on-crypto-asset.html</loc>
-    <lastmod>2026-03-19T16:12:02.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260319-the-secs-interpretation-on-crypto-assets-is-just-the-beginning-and-serves-as-a-b.html</loc>
+    <lastmod>2026-03-19T16:59:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
