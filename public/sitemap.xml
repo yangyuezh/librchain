@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-22T16:46:28.515Z</lastmod>
+    <lastmod>2026-03-22T17:37:53.824Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-22T16:46:28.515Z</lastmod>
+    <lastmod>2026-03-22T17:37:53.824Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-fidelity-urges-sec-to-move-further-on-crypto-activity-by-broker-dealers.html</loc>
+    <lastmod>2026-03-22T17:18:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-ethereum-faces-make-or-break-moment-in-high-stakes-balancing-act-as-scaling-quan.html</loc>
+    <lastmod>2026-03-22T17:00:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260322-the-genius-and-the-danger-of-strc-how-strategys-new-funding-model-bends-so-it-do.html</loc>
@@ -45,6 +57,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260322-bitcoin-risks-50-drop-as-btcs-positive-correlation-with-us-stocks-grows.html</loc>
     <lastmod>2026-03-22T12:11:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-breaking-benjamin-netanyahu-says-iran-proving-it-can-strike-europe-with-missiles.html</loc>
+    <lastmod>2026-03-22T10:43:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -277,20 +295,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-insight-bitcoin-is-trading-just-above-historical-cycle-bottom-levels-based-on-re.html</loc>
-    <lastmod>2026-03-20T22:30:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260320-rumors-emerge-of-a-clarity-act-deal-between-white-house-and-lawmakers.html</loc>
     <lastmod>2026-03-20T21:31:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260320-bitcoin-price-aims-to-hold-70k-amid-rising-inflation-concerns.html</loc>
-    <lastmod>2026-03-20T20:56:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -421,12 +427,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-crypto-wallet-maker-ledger-taps-former-circle-exec-as-cfo-to-help-lead-ipo-push.html</loc>
-    <lastmod>2026-03-20T13:57:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260320-altcoin-volume-slumps-80-amid-tighter-monetary-conditions.html</loc>
     <lastmod>2026-03-20T13:22:26.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -493,8 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260319-the-secs-interpretation-on-crypto-assets-is-just-the-beginning-and-serves-as-a-b.html</loc>
-    <lastmod>2026-03-19T16:59:26.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260319-bitcoin-down-to-270-a-pop-so-glad-i-didnt-buy-in-on-that-mess-this-is-why-we-buy.html</loc>
+    <lastmod>2026-03-19T19:45:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
