@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-22T08:50:40.832Z</lastmod>
+    <lastmod>2026-03-22T09:46:20.940Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-22T08:50:40.832Z</lastmod>
+    <lastmod>2026-03-22T09:46:20.940Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-coinbase-backed-coindcx-founders-questioned-in-fraud-case-report.html</loc>
+    <lastmod>2026-03-22T09:19:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260322-hawk-tuah-girl-hailey-welsh-says-memecoin-implosion-traumatized-her.html</loc>
@@ -301,8 +307,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-ledger-hires-ex-circle-exec-as-cfo-opens-nyc-office-to-expand-us-business.html</loc>
-    <lastmod>2026-03-20T19:56:52.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260320-just-in-coinbase-ceo-brain-armstrong-says-bitcoin-will-help-preserve-us-dollar-d.html</loc>
+    <lastmod>2026-03-20T19:34:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -399,12 +405,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260320-why-coindesk-pitchfest-matters-heading-into-miami.html</loc>
     <lastmod>2026-03-20T14:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260320-bitcoin-has-been-very-resilient-in-recent-weeks-and-we-can-see-below-how-the-52-.html</loc>
-    <lastmod>2026-03-20T14:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
