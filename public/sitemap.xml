@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-22T17:37:53.824Z</lastmod>
+    <lastmod>2026-03-22T18:54:12.511Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-22T17:37:53.824Z</lastmod>
+    <lastmod>2026-03-22T18:54:12.511Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-crypto-liquidations-near-400m-after-68k-bitcoin-price-dip.html</loc>
+    <lastmod>2026-03-22T18:32:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-the-sec-explains-how-its-viewing-a-crypto-security-state-of-crypto.html</loc>
+    <lastmod>2026-03-22T18:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260322-fidelity-urges-sec-to-move-further-on-crypto-activity-by-broker-dealers.html</loc>
@@ -27,6 +39,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260322-the-genius-and-the-danger-of-strc-how-strategys-new-funding-model-bends-so-it-do.html</loc>
     <lastmod>2026-03-22T16:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-bitcoin-slumps-as-war-fears-shake-crypto-bitcoin-fell-below-69000-hitting-its-lo.html</loc>
+    <lastmod>2026-03-22T15:46:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -289,14 +307,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260321-grayscale-files-s-1-for-hyperliquid-etf-joining-bitwise-21shares.html</loc>
-    <lastmod>2026-03-21T00:36:00.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260321-just-in-hawk-tuah-girl-haliey-welch-breaks-silence-on-her-crypto-meme-coin-that-.html</loc>
+    <lastmod>2026-03-21T01:03:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-rumors-emerge-of-a-clarity-act-deal-between-white-house-and-lawmakers.html</loc>
-    <lastmod>2026-03-20T21:31:14.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260321-grayscale-files-s-1-for-hyperliquid-etf-joining-bitwise-21shares.html</loc>
+    <lastmod>2026-03-21T00:36:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -333,12 +351,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260320-openai-plans-to-merge-chatgpt-codex-and-atlas-into-one-superapp-wsj.html</loc>
     <lastmod>2026-03-20T19:07:46.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260320-just-in-key-us-senators-strike-an-agreement-with-the-white-house-on-stablecoin-y.html</loc>
-    <lastmod>2026-03-20T19:07:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,12 +427,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-why-coindesk-pitchfest-matters-heading-into-miami.html</loc>
-    <lastmod>2026-03-20T14:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260320-bitcoin-has-been-very-resilient-in-recent-weeks-and-we-can-see-below-how-the-52-.html</loc>
     <lastmod>2026-03-20T14:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260319-just-in-north-carolina-introduces-bill-for-a-strategic-bitcoin-reserve-today-it-.html</loc>
     <lastmod>2026-03-19T20:37:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-bitcoin-down-to-270-a-pop-so-glad-i-didnt-buy-in-on-that-mess-this-is-why-we-buy.html</loc>
-    <lastmod>2026-03-19T19:45:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
