@@ -1,7 +1,75 @@
 {
-  "updatedAt": "2026-03-23T20:52:33.384Z",
+  "updatedAt": "2026-03-23T21:49:22.400Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holds above $70,000, but future direction hinges on Iran-U.S. 'talks'",
+      "summary": "Cryptos bounced on Trump’s five-day pause announcement, but the next move hinges on whether tensions between the U.S. and Iran ease or spiral, a Wintermute trader said.",
+      "url": "https://www.coindesk.com/markets/2026/03/23/bitcoin-holds-above-usd70-000-but-future-direction-hinges-on-iran-u-s-talks",
+      "publishedAt": "2026-03-23T21:14:08.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Market Wrap",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260323-bitcoin-holds-above-70000-but-future-direction-hinges-on-iran-us-talks",
+      "localUrl": "/news/20260323-bitcoin-holds-above-70000-but-future-direction-hinges-on-iran-us-talks.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Stripe protocol could mark turning point for micropayments, Forrester says",
+      "summary": "Forrester says Stripe’s Machine Payments Protocol reflects a shift toward automated transactions, as AI agents remove behavioral barriers that hindered micropayments.",
+      "url": "https://cointelegraph.com/news/stripe-mpp-ai-agents-micropayments-forrester?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-23T21:09:36.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260323-stripe-protocol-could-mark-turning-point-for-micropayments-forrester-says",
+      "localUrl": "/news/20260323-stripe-protocol-could-mark-turning-point-for-micropayments-forrester-says.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Polymarket, Kalshi Make Moves to Counter Insider Trading as Scrutiny Grows",
+      "summary": "Leading prediction market platforms Polymarket and Kalshi are taking new steps to try and counter insider trading.",
+      "url": "https://decrypt.co/362121/polymarket-kalshi-make-moves-counter-insider-trading",
+      "publishedAt": "2026-03-23T21:07:31.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260323-polymarket-kalshi-make-moves-to-counter-insider-trading-as-scrutiny-grows",
+      "localUrl": "/news/20260323-polymarket-kalshi-make-moves-to-counter-insider-trading-as-scrutiny-grows.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Price Recovery Paints Familiar Pattern—And That’s the Problem: Analysis",
+      "summary": "Bitcoin bulls are feeling it right now. But the BTC price chart is quietly drawing the same pattern it drew before two major crashes in a row.",
+      "url": "https://decrypt.co/362087/bitcoin-price-pattern-market-crash-analysis",
+      "publishedAt": "2026-03-23T20:54:30.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260323-bitcoin-price-recovery-paints-familiar-patternand-thats-the-problem-analysis",
+      "localUrl": "/news/20260323-bitcoin-price-recovery-paints-familiar-patternand-thats-the-problem-analysis.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Glider, Ondo launch platform for custom tokenized stock portfolios",
+      "summary": "The platform lets investors create and rebalance onchain equity portfolios while directly holding the underlying assets.",
+      "url": "https://cointelegraph.com/news/glider-ondo-launch-platform-for-custom-tokenized-stock-portfolios?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-23T20:48:31.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260323-glider-ondo-launch-platform-for-custom-tokenized-stock-portfolios",
+      "localUrl": "/news/20260323-glider-ondo-launch-platform-for-custom-tokenized-stock-portfolios.html"
+    },
     {
       "source": "Decrypt",
       "title": "Why Other Bitcoin Treasury Firms Are Betting on Strategy's 'iPhone Moment'",
@@ -746,19 +814,6 @@
       "localUrl": "/news/20260323-zachxbt-says-fake-x-accounts-used-viral-war-content-to-drive-crypto-scams.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Sweden’s H100 eyes Europe’s No. 2 Bitcoin treasury with 3,500 BTC deal",
-      "summary": "H100 signed a letter of intent to acquire two Bitcoin treasury companies and their BTC holdings, which could make it the second-largest Bitcoin treasury company in Europe.",
-      "url": "https://cointelegraph.com/news/h100-acquire-bitcoin-treasury-surpass-3-500-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-23T09:52:20.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260323-swedens-h100-eyes-europes-no-2-bitcoin-treasury-with-3500-btc-deal",
-      "localUrl": "/news/20260323-swedens-h100-eyes-europes-no-2-bitcoin-treasury-with-3500-btc-deal.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Fed's Miran speaks, Bitgo earnings, Casper hard fork: Crypto Week Ahead",
       "summary": "Your look at what's coming in the week starting March 23.",
@@ -771,6 +826,17 @@
       "category": "市场",
       "slug": "20260323-feds-miran-speaks-bitgo-earnings-casper-hard-fork-crypto-week-ahead",
       "localUrl": "/news/20260323-feds-miran-speaks-bitgo-earnings-casper-hard-fork-crypto-week-ahead.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 UPDATE: Market sentiment worsens as the Crypto Fear & Greed Index falls to 8, staying in extreme fear. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YcE02ZzhJVGo4aHdaMWhqMFA3U3M3aERtWHRxakVyU183b1J5RzM5RzJfSjdWejRZdWthQ0lTSkk4UW8zRHFvMFV2NmFjbXlzUW4wNHNJcmZzdC1zMFI0UjhTYzM?oc=5\" target=\"_blank\">🚨 UPDATE: Market sentiment wor…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YcE02ZzhJVGo4aHdaMWhqMFA3U3M3aERtWHRxakVyU183b1J5RzM5RzJfSjdWejRZdWthQ0lTSkk4UW8zRHFvMFV2NmFjbXlzUW4wNHNJcmZzdC1zMFI0UjhTYzM?oc=5",
+      "publishedAt": "2026-03-23T09:00:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260323-update-market-sentiment-worsens-as-the-crypto-fear-greed-index-falls-to-8-stayin",
+      "localUrl": "/news/20260323-update-market-sentiment-worsens-as-the-crypto-fear-greed-index-falls-to-8-stayin.html"
     },
     {
       "source": "CoinDesk",
@@ -787,33 +853,6 @@
       "category": "监管",
       "slug": "20260323-prosecutors-flag-mail-discrepancies-in-sam-bankman-frieds-retrial-motion-letter-",
       "localUrl": "/news/20260323-prosecutors-flag-mail-discrepancies-in-sam-bankman-frieds-retrial-motion-letter-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bithumb seeks to reappoint CEO despite recent controversies: Report",
-      "summary": "Bithumb was reportedly given a six-month partial suspension by South Korea’s Financial Intelligence Unit for alleged anti-money laundering failures.",
-      "url": "https://cointelegraph.com/news/bithumb-seeks-ceo-lee-jae-won-reappointment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-23T07:01:29.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260323-bithumb-seeks-to-reappoint-ceo-despite-recent-controversies-report",
-      "localUrl": "/news/20260323-bithumb-seeks-to-reappoint-ceo-despite-recent-controversies-report.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Resolv stablecoin crashes 70% as attacker extracts $25 million in ETH",
-      "summary": "The protocol holds $95 million in assets against $173 million in liabilities, leaving it functionally insolvent. USR is trading at $0.27, down 72% in a week.",
-      "url": "https://www.coindesk.com/markets/2026/03/23/resolv-stablecoin-drops-70-after-usd80-million-exploit-after-attacker-mints-usr",
-      "publishedAt": "2026-03-23T06:23:23.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260323-resolv-stablecoin-crashes-70-as-attacker-extracts-25-million-in-eth",
-      "localUrl": "/news/20260323-resolv-stablecoin-crashes-70-as-attacker-extracts-25-million-in-eth.html"
     },
     {
       "source": "X Wire",
@@ -873,6 +912,17 @@
       "category": "监管",
       "slug": "20260323-what-to-expect-from-this-weeks-house-committee-on-tokenization",
       "localUrl": "/news/20260323-what-to-expect-from-this-weeks-house-committee-on-tokenization.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "#Bitcoin LTF plan I think something happens this week which gives markets something to bounce off. That said, if $BTC loses 65.5K and takes out the March low then, I will have to concede lick my wounds. #Crypto #BTC - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXM0ZmekJhT3ozNF9xLWhZZnc2Q0g3Y1ZRNEdTZGRTZHVYa0tEX241d3l5ZjhCMnlWd05OT1NRVmRVQ1JWRHZvcTM5YjhuLXI4T0ZxcnR3S0ZpbXlsOTlOc2t3?oc=5\" target=\"_blank\">#Bitcoin LTF plan I think somethin…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXM0ZmekJhT3ozNF9xLWhZZnc2Q0g3Y1ZRNEdTZGRTZHVYa0tEX241d3l5ZjhCMnlWd05OT1NRVmRVQ1JWRHZvcTM5YjhuLXI4T0ZxcnR3S0ZpbXlsOTlOc2t3?oc=5",
+      "publishedAt": "2026-03-23T04:49:12.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260323-bitcoin-ltf-plan-i-think-something-happens-this-week-which-gives-markets-somethi",
+      "localUrl": "/news/20260323-bitcoin-ltf-plan-i-think-something-happens-this-week-which-gives-markets-somethi.html"
     },
     {
       "source": "X Wire",
@@ -944,17 +994,6 @@
     },
     {
       "source": "X Wire",
-      "title": "#BTC The Bitcoin retest of the 200-week EMA is now underway But given how unreliable this EMA was as a resistance in recent weeks... It's worth keeping at least a healthy dose of skepticism regarding this current retest of BTC trying to turn the EMA into new - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQOUotUmlUMktSemhwVDc2M1hUR01KZTNFMktDSXkyWnFRbUR6NmJhR3VtMWhnT3hQb2cyZl8xUzEtTURsalRlZWQ1TE9oajNrTDlHLU9rZ3dBc1RvYmJzM1Nn?oc=5\" target=\"_blank\">#BTC The Bitcoin retest of the 200…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQOUotUmlUMktSemhwVDc2M1hUR01KZTNFMktDSXkyWnFRbUR6NmJhR3VtMWhnT3hQb2cyZl8xUzEtTURsalRlZWQ1TE9oajNrTDlHLU9rZ3dBc1RvYmJzM1Nn?oc=5",
-      "publishedAt": "2026-03-22T18:45:03.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260322-btc-the-bitcoin-retest-of-the-200-week-ema-is-now-underway-but-given-how-unrelia",
-      "localUrl": "/news/20260322-btc-the-bitcoin-retest-of-the-200-week-ema-is-now-underway-but-given-how-unrelia.html"
-    },
-    {
-      "source": "X Wire",
       "title": "💥BREAKING: 🇮🇷 Iran is moving to charge up to $2M per tanker to pass through the Strait of Hormuz. The world’s most critical oil route... now a toll gate. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QVEtKQ3c5QkhaY0NCdVJUR0pDUWpNeHpTQTZsWXlDS096V3FaZUNBX0NZaW90ZFZqOTZPNW50eGk2RzdpUHZQZGlUOVowZ2xKVDJvbi0zMVlQTmdVVklqaEh3?oc=5\" target=\"_blank\">💥BREAKING: 🇮🇷 Iran is moving to…",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QVEtKQ3c5QkhaY0NCdVJUR0pDUWpNeHpTQTZsWXlDS096V3FaZUNBX0NZaW90ZFZqOTZPNW50eGk2RzdpUHZQZGlUOVowZ2xKVDJvbi0zMVlQTmdVVklqaEh3?oc=5",
@@ -974,17 +1013,6 @@
       "category": "X热点",
       "slug": "20260322-crypto-fans-share-2010-gaming-memories-amid-bitcoin-regret-xcom",
       "localUrl": "/news/20260322-crypto-fans-share-2010-gaming-memories-amid-bitcoin-regret-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BITCOIN SLUMPS AS WAR FEARS SHAKE CRYPTO Bitcoin fell below $69,000, hitting its lowest level since early March, as rising tensions between the U.S., Israel, and Iran rattled markets. The cryptocurrency is down about 20% since the conflict began, und - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CTkN4Q2Q1YlpHQktTYnlOWWNKTl9rQ1FZc1Q2b0t3T0kxNTdCaDRWN1BSVkdmWERVMGZXYVJlemZxckUxMmU2cWtUVURJNndYZ1J6V1hUdmpRcFZyR3c?oc=5\" target=\"_blank\">BITCOIN SLUMPS AS WAR FEARS SHAKE CRYPT…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CTkN4Q2Q1YlpHQktTYnlOWWNKTl9rQ1FZc1Q2b0t3T0kxNTdCaDRWN1BSVkdmWERVMGZXYVJlemZxckUxMmU2cWtUVURJNndYZ1J6V1hUdmpRcFZyR3c?oc=5",
-      "publishedAt": "2026-03-22T15:46:55.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260322-bitcoin-slumps-as-war-fears-shake-crypto-bitcoin-fell-below-69000-hitting-its-lo",
-      "localUrl": "/news/20260322-bitcoin-slumps-as-war-fears-shake-crypto-bitcoin-fell-below-69000-hitting-its-lo.html"
     },
     {
       "source": "Decrypt",
@@ -1012,28 +1040,6 @@
     },
     {
       "source": "X Wire",
-      "title": "BREAKING: Bitcoin is now more likely to crash below $45,000 than to reclaim $100,000 this year. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RZjgxTDVvM1VZN3pJNzNId3ROQ19Xd3hMejU1WjhVWFpEWVJxcXRISkJxMDA4SHQzeDNWSkxLdEs3Uzljc041VUFYWTY2aVU2VVNXd1gySGNraUFURWIxSA?oc=5\" target=\"_blank\">BREAKING: Bitcoin is now more likely…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RZjgxTDVvM1VZN3pJNzNId3ROQ19Xd3hMejU1WjhVWFpEWVJxcXRISkJxMDA4SHQzeDNWSkxLdEs3Uzljc041VUFYWTY2aVU2VVNXd1gySGNraUFURWIxSA?oc=5",
-      "publishedAt": "2026-03-22T00:19:18.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260322-breaking-bitcoin-is-now-more-likely-to-crash-below-45000-than-to-reclaim-100000-",
-      "localUrl": "/news/20260322-breaking-bitcoin-is-now-more-likely-to-crash-below-45000-than-to-reclaim-100000-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: Over $240 million worth of levered crypto positions are liquidated in 60 minutes after President Trump threatens to \"obliterate\" Iran's power plants. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sdko2UmdMV0ZWQ2FjdjJibUZ1YnhOdEpyOG1maVNDZWNLQjVZb0xvYVVWcXZjSThXbU9DNXpmTE5jV1F6R2VJTTYyLXpWb2psT3RUMWZVYkRaNmRtLVVldG15WHRWZw?oc=5\" target=\"_blank\">BREAKING: Over $240 million …",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sdko2UmdMV0ZWQ2FjdjJibUZ1YnhOdEpyOG1maVNDZWNLQjVZb0xvYVVWcXZjSThXbU9DNXpmTE5jV1F6R2VJTTYyLXpWb2psT3RUMWZVYkRaNmRtLVVldG15WHRWZw?oc=5",
-      "publishedAt": "2026-03-22T00:10:59.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260322-breaking-over-240-million-worth-of-levered-crypto-positions-are-liquidated-in-60",
-      "localUrl": "/news/20260322-breaking-over-240-million-worth-of-levered-crypto-positions-are-liquidated-in-60.html"
-    },
-    {
-      "source": "X Wire",
       "title": "BREAKING: Bitcoin collapses below $68,000 after President Trump threatens to \"obliterate\" Iran's power plants. Just 24 hours ago, President Trump said he was considering \"winding down\" the Iran War. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QcVk3ZVU4WmEwdFUyQmhkLVNORzB2U3FDUldsSGhlQmR1aEpHZmZJRHBYTjBkcHU0cG12TUJSLVlTSHJWLXNWNmlsaFJCYVV5ME5pUlVOXzBzVjUyUDh3cFRRbG1KZw?oc=5\" target=\"_blank\">BREAKING: Bitcoin collapses …",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QcVk3ZVU4WmEwdFUyQmhkLVNORzB2U3FDUldsSGhlQmR1aEpHZmZJRHBYTjBkcHU0cG12TUJSLVlTSHJWLXNWNmlsaFJCYVV5ME5pUlVOXzBzVjUyUDh3cFRRbG1KZw?oc=5",
@@ -1057,19 +1063,6 @@
       "localUrl": "/news/20260321-the-7-largest-publicly-traded-ethereum-treasury-firms.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Strategy Now Holds $54 Billion in Bitcoin—These Are Its Biggest Buys",
-      "summary": "How did Michael Saylor's firm amass a record stash of Bitcoin? Here's a look back at how Strategy made such massive gains.",
-      "url": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
-      "publishedAt": "2026-03-21T14:07:52.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "市场",
-      "slug": "20260321-strategy-now-holds-54-billion-in-bitcointhese-are-its-biggest-buys",
-      "localUrl": "/news/20260321-strategy-now-holds-54-billion-in-bitcointhese-are-its-biggest-buys.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: US Senator Cynthia Lummis says the Bitcoin and crypto market structure bill will \"make America the digital asset capital of the world.\" 🇺🇸 \"Let’s get it done, once and for all.\" 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJMEl6QXdZQlF0VGZGOV81eExVcjNmbEJDaFByQnJacTNfZl94Y2ZDM3VtaTVUWUplb3N1OWl1TlN1ei1qSDZnVlhrQWFGNlZ5aFUteDZnUFRmTXY2cy1UVjZMZDZuNkk?oc=5\" target=\"_blank\">JUST IN: US Senator Cynthia…",
@@ -1081,17 +1074,26 @@
       "localUrl": "/news/20260321-just-in-us-senator-cynthia-lummis-says-the-bitcoin-and-crypto-market-structure-b.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Bitcoin Has Stabilized, But Investors Are Paying Up for Downside Protection: VanEck",
-      "summary": "Bitcoin's volatility has subsided over the last month, but traders are still paying a premium for downside protection, VanEck said.",
-      "url": "https://decrypt.co/361939/bitcoin-stabilized-investors-paying-downside-protection-vaneck",
-      "publishedAt": "2026-03-20T20:47:07.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260320-bitcoin-has-stabilized-but-investors-are-paying-up-for-downside-protection-vanec",
-      "localUrl": "/news/20260320-bitcoin-has-stabilized-but-investors-are-paying-up-for-downside-protection-vanec.html"
+      "source": "X Wire",
+      "title": "Breaking: 🇮🇷🇯🇵Iran say it's ready to let Japanese ships to pass through the Strait of Hormuz. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ld21WcFlBbzNnMV9ZZ3N3bzVaMXZZZ3Z2R3lOOHhQTXF4S00tTGVUdGVackRIejUzMS1nR0VYMGVmcFBQeGFSbmdjUEVNUjlCUzMtWU1CSUNuNnlRNUZxYnktcw?oc=5\" target=\"_blank\">Breaking: 🇮🇷🇯🇵Iran say it's …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ld21WcFlBbzNnMV9ZZ3N3bzVaMXZZZ3Z2R3lOOHhQTXF4S00tTGVUdGVackRIejUzMS1nR0VYMGVmcFBQeGFSbmdjUEVNUjlCUzMtWU1CSUNuNnlRNUZxYnktcw?oc=5",
+      "publishedAt": "2026-03-21T06:35:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260321-breaking-iran-say-its-ready-to-let-japanese-ships-to-pass-through-the-strait-of-",
+      "localUrl": "/news/20260321-breaking-iran-say-its-ready-to-let-japanese-ships-to-pass-through-the-strait-of-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "HE ONCE HELD $500M IN CRYPTO - NOW HE’S BUYING BACK Ethereum OG @thomasg_eth held $538M in ETH, WBTC and DAI at the top of the market in 2021. Now, he’s buying back. He just bought $3M of ETH, and he’s bought a total of $19.5M this wee - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE90b2pEYU1faVM4UHlLZWVTRlduRWJ4Yl9YQlIwaTN4WHhQT1JNek1Kc2FhUFlNcXJzc3pFYnF0N0Iwb0tDVndBN3dTQ0lYYjlpb0RWWk5FSVRRNEU?oc=5\" target=\"_blank\">HE ONCE HELD $500M IN CRYPTO - NOW HE’S BUY…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90b2pEYU1faVM4UHlLZWVTRlduRWJ4Yl9YQlIwaTN4WHhQT1JNek1Kc2FhUFlNcXJzc3pFYnF0N0Iwb0tDVndBN3dTQ0lYYjlpb0RWWk5FSVRRNEU?oc=5",
+      "publishedAt": "2026-03-21T05:11:31.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260321-he-once-held-500m-in-crypto-now-hes-buying-back-ethereum-og-thomasg_eth-held-538",
+      "localUrl": "/news/20260321-he-once-held-500m-in-crypto-now-hes-buying-back-ethereum-og-thomasg_eth-held-538.html"
     },
     {
       "source": "Solana Blog",
