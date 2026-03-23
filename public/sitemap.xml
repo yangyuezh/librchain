@@ -2,15 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-22T23:41:42.410Z</lastmod>
+    <lastmod>2026-03-23T03:22:10.508Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-22T23:41:42.410Z</lastmod>
+    <lastmod>2026-03-23T03:22:10.508Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260323-michael-saylor-signals-btc-buy-as-strategys-stack-slips-10-into-the-red.html</loc>
+    <lastmod>2026-03-23T03:10:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260323-ethereum-builder-thomasg_eth-is-also-selling-low-and-buying-high-eth-on-march-3-.html</loc>
+    <lastmod>2026-03-23T01:10:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260323-nyse-exchanges-scrap-crypto-options-cap-on-11-bitcoin-ether-etfs.html</loc>
+    <lastmod>2026-03-23T00:46:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260323-bitcoin-price-slides-but-holds-up-better-than-stocks-as-oil-shock-continues.html</loc>
+    <lastmod>2026-03-23T00:41:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260323-banks-push-tokenized-deposits-as-onchain-cash-race-intensifies-report.html</loc>
+    <lastmod>2026-03-23T00:01:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260322-the-resolv-hack-how-one-compromised-key-printed-23-million.html</loc>
@@ -69,6 +99,18 @@
   <url>
     <loc>https://www.librchain.com/news/20260322-ethereum-faces-make-or-break-moment-in-high-stakes-balancing-act-as-scaling-quan.html</loc>
     <lastmod>2026-03-22T17:00:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-huge-warning-insiders-are-non-stop-selling-stocks-xcom.html</loc>
+    <lastmod>2026-03-22T16:36:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-huge-warning-insiders-are-non-stop-selling-stocks-xcom-2.html</loc>
+    <lastmod>2026-03-22T16:36:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -271,12 +313,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260321-breaking-openai-plans-to-double-its-workforce-to-8000-by-2026-building-ai-still-.html</loc>
-    <lastmod>2026-03-21T15:18:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260321-strategy-now-holds-54-billion-in-bitcointhese-are-its-biggest-buys.html</loc>
     <lastmod>2026-03-21T14:07:52.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -313,18 +349,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260321-bitcoin-mining-difficulty-falls-77-as-miner-pressure-persists.html</loc>
-    <lastmod>2026-03-21T11:58:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260321-early-ethereum-whale-rebuilds-stack-with-195m-in-eth-buys.html</loc>
-    <lastmod>2026-03-21T09:22:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260321-breaking-iran-say-its-ready-to-let-japanese-ships-to-pass-through-the-strait-of-.html</loc>
     <lastmod>2026-03-21T06:35:34.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -333,12 +357,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260321-he-once-held-500m-in-crypto-now-hes-buying-back-ethereum-og-thomasg_eth-held-538.html</loc>
     <lastmod>2026-03-21T05:11:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260321-bitcoin-weakness-deepens-as-war-pushes-traders-to-cut-risk-in-btc-and-stocks.html</loc>
-    <lastmod>2026-03-21T04:38:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -375,12 +393,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260320-openai-plans-to-merge-chatgpt-codex-and-atlas-into-one-superapp-wsj.html</loc>
     <lastmod>2026-03-20T19:07:46.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260320-senators-white-house-strike-agreement-in-principle-to-resolve-bank-crypto-clash-.html</loc>
-    <lastmod>2026-03-20T18:47:35.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -439,12 +451,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-bitcoin-has-been-very-resilient-in-recent-weeks-and-we-can-see-below-how-the-52-.html</loc>
-    <lastmod>2026-03-20T14:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260320-altcoin-volume-slumps-80-amid-tighter-monetary-conditions.html</loc>
     <lastmod>2026-03-20T13:22:26.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -495,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260320-bits-to-bricks-can-stablecoins-prevent-de-dollarization.html</loc>
     <lastmod>2026-03-20T00:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260319-gemini-shares-rise-after-hours-as-investors-back-shift-beyond-crypto-trading.html</loc>
-    <lastmod>2026-03-19T21:57:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
