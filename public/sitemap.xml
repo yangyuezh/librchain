@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-23T22:50:39.921Z</lastmod>
+    <lastmod>2026-03-23T23:46:09.965Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-23T22:50:39.921Z</lastmod>
+    <lastmod>2026-03-23T23:46:09.965Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260323-protesters-rally-outside-openai-anthropic-and-xai-offices-over-industry-concerns.html</loc>
+    <lastmod>2026-03-23T23:28:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260323-stablecoin-yield-in-crypto-clarity-act-wont-allow-rewards-on-balances-latest-tex.html</loc>
@@ -189,6 +195,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260323-pharmaceutical-firm-pivots-to-stablecoins-holds-nearly-9-of-skys-supply.html</loc>
     <lastmod>2026-03-23T14:25:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260323-massive-reversal-970000000000-has-been-added-to-the-us-stock-market-in-just-50-m.html</loc>
+    <lastmod>2026-03-23T14:19:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -477,18 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260322-according-to-the-economic-times-coindcx-one-of-indias-largest-crypto-exchanges-s.html</loc>
     <lastmod>2026-03-22T06:38:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260321-breaking-bitcoin-collapses-below-68000-after-president-trump-threatens-to-oblite.html</loc>
-    <lastmod>2026-03-21T23:59:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260321-the-7-largest-publicly-traded-ethereum-treasury-firms.html</loc>
-    <lastmod>2026-03-21T17:49:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
