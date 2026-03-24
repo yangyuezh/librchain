@@ -1,7 +1,314 @@
 {
-  "updatedAt": "2026-03-24T11:54:40.653Z",
-  "total": 82,
+  "updatedAt": "2026-03-24T13:48:25.294Z",
+  "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "CoinDesk 20 performance update: Polkadot (DOT) drops 2.3% as index trades lower",
+      "summary": "Ripple (XRP), down 1.3% since Monday, was also among the underperformers.",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/03/24/coindesk-20-performance-update-polkadot-dot-drops-2-3-as-index-trades-lower",
+      "publishedAt": "2026-03-24T13:27:14.000Z",
+      "keywords": [
+        "CoinDesk Indices",
+        "CoinDesk 20",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260324-coindesk-20-performance-update-polkadot-dot-drops-23-as-index-trades-lower",
+      "localUrl": "/news/20260324-coindesk-20-performance-update-polkadot-dot-drops-23-as-index-trades-lower.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tether hires a 'Big Four' firm for a full audit of USDT reserves",
+      "summary": "The audit aims to address long-standing questions over USDT reserves and push new disclosure standards.",
+      "url": "https://www.coindesk.com/business/2026/03/24/tether-hires-a-big-four-firm-for-a-full-audit-of-usdt-reserves",
+      "publishedAt": "2026-03-24T13:24:46.000Z",
+      "keywords": [
+        "Finance",
+        "Stablecoins",
+        "Breaking News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260324-tether-hires-a-big-four-firm-for-a-full-audit-of-usdt-reserves",
+      "localUrl": "/news/20260324-tether-hires-a-big-four-firm-for-a-full-audit-of-usdt-reserves.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin may have already bottomed out near $60,000. Here’s why.",
+      "summary": "Implied volatility indicators DVOL and BVIV suggest peak fear has passed, with crypto leading traditional markets in pricing risk.",
+      "url": "https://www.coindesk.com/markets/2026/03/24/bitcoin-volatility-signals-a-bottom-as-tradfi-reels-in-uncertainty",
+      "publishedAt": "2026-03-24T13:18:11.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Volatility",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260324-bitcoin-may-have-already-bottomed-out-near-60000-heres-why",
+      "localUrl": "/news/20260324-bitcoin-may-have-already-bottomed-out-near-60000-heres-why.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "NYSE taps Securitize for 24/7 tokenized securities platform",
+      "summary": "Securitize will become NYSE’s first digital transfer agent to mint blockchain-based shares of stocks and develop standards for compliant tokenized stock issuance.",
+      "url": "https://cointelegraph.com/news/nyse-securitize-24-7-tokenized-securities-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-24T13:12:22.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260324-nyse-taps-securitize-for-247-tokenized-securities-platform",
+      "localUrl": "/news/20260324-nyse-taps-securitize-for-247-tokenized-securities-platform.html"
+    },
+    {
+      "source": "Chainalysis Blog",
+      "title": "Chainalysis Joins Solana Developer Platform to Bring Real-Time Compliance to Every Builder",
+      "summary": "Chainalysis is proud to be a compliance partner for Solana Developer Platform (SDP), integrating Chainalysis KYT (Know Your Transaction) directly… The post Chainalysis Joins Solana Developer Platform to Bring Real-Time Compliance to Every …",
+      "url": "https://www.chainalysis.com/blog/solana-developer-platform-real-time-compliance/",
+      "publishedAt": "2026-03-24T13:10:51.000Z",
+      "keywords": [
+        "Uncategorized",
+        "artificial intelligence",
+        "Blockchain Compliance",
+        "Chainalysis KYT",
+        "Developers",
+        "Fungible Tokens",
+        "Partnership",
+        "Solana",
+        "transaction monitoring"
+      ],
+      "category": "监管",
+      "slug": "20260324-chainalysis-joins-solana-developer-platform-to-bring-real-time-compliance-to-eve",
+      "localUrl": "/news/20260324-chainalysis-joins-solana-developer-platform-to-bring-real-time-compliance-to-eve.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana Foundation taps Mastercard, Western Union, Worldpay for institutional developer platform",
+      "summary": "The platform is a toolkit that lets enterprises create and scale financial applications on Solana without deep crypto infrastructure expertise.",
+      "url": "https://www.coindesk.com/tech/2026/03/24/solana-foundation-taps-mastercard-western-union-worldpay-for-institutional-developer-platform",
+      "publishedAt": "2026-03-24T13:00:00.000Z",
+      "keywords": [
+        "Tech",
+        "Solana News",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260324-solana-foundation-taps-mastercard-western-union-worldpay-for-institutional-devel",
+      "localUrl": "/news/20260324-solana-foundation-taps-mastercard-western-union-worldpay-for-institutional-devel.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Solana lands Mastercard, Western Union on new dev platform",
+      "summary": "Solana is aiming to attract enterprises and financial institutions to its ecosystem through a new unified developer platform, which is focused on tokenization and stablecoins.",
+      "url": "https://cointelegraph.com/news/solana-brings-mastercard-western-union-new-dev-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-24T13:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260324-solana-lands-mastercard-western-union-on-new-dev-platform",
+      "localUrl": "/news/20260324-solana-lands-mastercard-western-union-on-new-dev-platform.html"
+    },
+    {
+      "source": "Solana Blog",
+      "title": "Solana Foundation Launches Solana Developer Platform",
+      "summary": "Solana Foundation launches Solana Developer Platform, a unified API platform for institutions and enterprises building on Solana.",
+      "url": "https://solana.com/news/solana-developer-platform",
+      "publishedAt": "2026-03-24T12:50:00.000Z",
+      "keywords": [],
+      "category": "基础设施",
+      "slug": "20260324-solana-foundation-launches-solana-developer-platform",
+      "localUrl": "/news/20260324-solana-foundation-launches-solana-developer-platform.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Why Mastercard is buying stablecoin infrastructure instead of a token",
+      "summary": "Mastercard’s planned BVNK acquisition highlights a shift toward infrastructure over token issuance, reflecting how major payment firms are approaching stablecoins.",
+      "url": "https://cointelegraph.com/explained/mastercard-bvnk-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-24T12:49:40.000Z",
+      "keywords": [
+        "Explained"
+      ],
+      "category": "综合",
+      "slug": "20260324-why-mastercard-is-buying-stablecoin-infrastructure-instead-of-a-token",
+      "localUrl": "/news/20260324-why-mastercard-is-buying-stablecoin-infrastructure-instead-of-a-token.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase says the 'second wave' of institutional money for crypto is here and it is all about yield",
+      "summary": "Coinbase’s head of institutional, Brett Tejpaul, says institutional priorities in crypto are evolving, and investors are increasingly hunting for yield.",
+      "url": "https://www.coindesk.com/markets/2026/03/24/coinbase-says-the-second-wave-of-institutional-money-for-crypto-is-here-and-it-is-all-about-yield",
+      "publishedAt": "2026-03-24T12:43:21.000Z",
+      "keywords": [
+        "Markets",
+        "Institutional Adoption",
+        "Coinbase",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260324-coinbase-says-the-second-wave-of-institutional-money-for-crypto-is-here-and-it-i",
+      "localUrl": "/news/20260324-coinbase-says-the-second-wave-of-institutional-money-for-crypto-is-here-and-it-i.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wall Street broker Bernstein calls bitcoin bottom, keeps $150,000 year-end target",
+      "summary": "The broker sees bitcoin rebounding from its recent lows, supported by ETF flows and expanding corporate treasury demand.",
+      "url": "https://www.coindesk.com/markets/2026/03/24/wall-street-broker-bernstein-calls-bitcoin-bottom-keeps-usd150-000-year-end-target",
+      "publishedAt": "2026-03-24T12:43:02.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "MicroStrategy",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260324-wall-street-broker-bernstein-calls-bitcoin-bottom-keeps-150000-year-end-target",
+      "localUrl": "/news/20260324-wall-street-broker-bernstein-calls-bitcoin-bottom-keeps-150000-year-end-target.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bittensor Leads AI Altcoin Surge as Short Squeeze, Conflicting Iran Talks Claims Fuel Volatility",
+      "summary": "AI altcoins notched double-digit gains amid conflict-related volatility, buoyed by last week's Nvidia GTC conference.",
+      "url": "https://decrypt.co/362170/bittensor-leads-ai-altcoin-surge-as-short-squeeze-conflicting-iran-talks-claims-fuel-volatility",
+      "publishedAt": "2026-03-24T12:40:46.000Z",
+      "keywords": [
+        "aptos",
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260324-bittensor-leads-ai-altcoin-surge-as-short-squeeze-conflicting-iran-talks-claims-",
+      "localUrl": "/news/20260324-bittensor-leads-ai-altcoin-surge-as-short-squeeze-conflicting-iran-talks-claims-.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Omnes, Apex to tokenize Bitcoin mining exposure via structured note on Base",
+      "summary": "Omnes and Apex plan to issue a tokenized Bitcoin mining debt note on Base, giving eligible non-US investors exposure to hashrate-linked returns.",
+      "url": "https://cointelegraph.com/news/omnes-apex-tokenized-bitcoin-mining-note-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-24T12:39:04.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260324-omnes-apex-to-tokenize-bitcoin-mining-exposure-via-structured-note-on-base",
+      "localUrl": "/news/20260324-omnes-apex-to-tokenize-bitcoin-mining-exposure-via-structured-note-on-base.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "ParaFi defies crypto market downturn with $125 million raise for new fund: Bloomberg",
+      "summary": "The firm now manages about $2 billion, having already raised an additional $325 million for existing crypto investment strategies since last year.",
+      "url": "https://www.coindesk.com/business/2026/03/24/parafi-defies-crypto-market-downturn-with-usd125-million-raise-for-new-fund-bloomberg",
+      "publishedAt": "2026-03-24T12:36:24.000Z",
+      "keywords": [
+        "Finance",
+        "DeFi",
+        "Crypto News",
+        "Funding Rounds",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260324-parafi-defies-crypto-market-downturn-with-125-million-raise-for-new-fund-bloombe",
+      "localUrl": "/news/20260324-parafi-defies-crypto-market-downturn-with-125-million-raise-for-new-fund-bloombe.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "New York Stock Exchange taps Securitize to build its tokenized stock platform",
+      "summary": "The move comes as the race to bring equities to always-on blockchain markets is heating up after Nasdaq obtained regulatory approval for its tokenization plan.",
+      "url": "https://www.coindesk.com/business/2026/03/24/new-york-stock-exchange-taps-securitize-to-build-its-tokenized-stock-platform",
+      "publishedAt": "2026-03-24T12:31:26.000Z",
+      "keywords": [
+        "Finance",
+        "Tokenization",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260324-new-york-stock-exchange-taps-securitize-to-build-its-tokenized-stock-platform",
+      "localUrl": "/news/20260324-new-york-stock-exchange-taps-securitize-to-build-its-tokenized-stock-platform.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Wall Street will eventually submit to the rules of DeFi",
+      "summary": "Wall Street won’t tame DeFi. Regulation creates compliant tiers atop permissionless liquidity, forcing TradFi to adopt DeFi’s superior speed and composability.",
+      "url": "https://cointelegraph.com/news/wall-street-will-submit-to-defi-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-24T12:30:00.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "监管",
+      "slug": "20260324-wall-street-will-eventually-submit-to-the-rules-of-defi",
+      "localUrl": "/news/20260324-wall-street-will-eventually-submit-to-the-rules-of-defi.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "AI and stablecoins are winning despite 2026 crypto market slump",
+      "summary": "Data shows AI tokens and stablecoins held up better than other crypto sectors in 2026, with growth tied to usage, liquidity and infrastructure demand.",
+      "url": "https://cointelegraph.com/news/ai-and-stablecoins-winning-despite-2026-crypto-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-24T12:29:36.000Z",
+      "keywords": [
+        "Market Analysis"
+      ],
+      "category": "监管",
+      "slug": "20260324-ai-and-stablecoins-are-winning-despite-2026-crypto-market-slump",
+      "localUrl": "/news/20260324-ai-and-stablecoins-are-winning-despite-2026-crypto-market-slump.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Saylor Gains Access to Another $44B to Buy Bitcoin",
+      "summary": "Strategy just unveiled a $44 billion war chest to keep buying Bitcoin, while Congress is moving to ban sports bets on prediction markets.",
+      "url": "https://decrypt.co/362169/morning-minute-saylor-gains-access-to-another-44b-to-buy-bitcoin",
+      "publishedAt": "2026-03-24T12:21:01.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "市场",
+      "slug": "20260324-morning-minute-saylor-gains-access-to-another-44b-to-buy-bitcoin",
+      "localUrl": "/news/20260324-morning-minute-saylor-gains-access-to-another-44b-to-buy-bitcoin.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "FSB flags dollar stablecoins as bigger risk for emerging markets in annual report",
+      "summary": "US dollar-denominated stablecoins may expose emerging economies to external macro shocks and financial stability risks, according to the Financial Stability Board.",
+      "url": "https://cointelegraph.com/news/fsb-dollar-stablecoins-risk-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-24T12:14:23.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260324-fsb-flags-dollar-stablecoins-as-bigger-risk-for-emerging-markets-in-annual-repor",
+      "localUrl": "/news/20260324-fsb-flags-dollar-stablecoins-as-bigger-risk-for-emerging-markets-in-annual-repor.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BitGo, Susquehanna Crypto offering institutional OTC access to prediction markets",
+      "summary": "New partnership lets hedge funds and other large investors trade event contracts using crypto collateral held on BitGo’s platform.",
+      "url": "https://www.coindesk.com/business/2026/03/24/bitgo-susquehanna-crypto-offering-institutional-otc-access-to-prediction-markets",
+      "publishedAt": "2026-03-24T12:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Prediction Markets",
+        "OTC Desks",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260324-bitgo-susquehanna-crypto-offering-institutional-otc-access-to-prediction-markets",
+      "localUrl": "/news/20260324-bitgo-susquehanna-crypto-offering-institutional-otc-access-to-prediction-markets.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin finds stability at 2023 investor cost basis, echoing past cycle",
+      "summary": "Onchain cost basis data suggests $60,000 is a critical support, with deeper historical support near $54,000.",
+      "url": "https://www.coindesk.com/markets/2026/03/24/bitcoin-finds-stability-at-2023-investor-cost-basis-echoing-past-cycle",
+      "publishedAt": "2026-03-24T11:58:08.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260324-bitcoin-finds-stability-at-2023-investor-cost-basis-echoing-past-cycle",
+      "localUrl": "/news/20260324-bitcoin-finds-stability-at-2023-investor-cost-basis-echoing-past-cycle.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Invesco joins tokenization race as it takes over Superstate’s $900 million onchain fund",
@@ -196,6 +503,17 @@
       "localUrl": "/news/20260324-aave-dao-backs-v4-mainnet-plan-in-near-unanimous-vote.html"
     },
     {
+      "source": "X Wire",
+      "title": "As the #crypto markets continue to remain volatile, SB Seker, head of APAC, @binance , said #India - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wT0hpOHMxZVRMUUVWbFZCZ3hNdWRQWExiSUhOUDEwVGJ2bmhaUkQ3a1pGbXdqbFc1NlBKN1JicXVSZTlmV1ZRYUVGRXhBYlJrUjBRMlQxeDJDb2hnTXpUNmln?oc=5\" target=\"_blank\">As the #crypto markets continue to…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wT0hpOHMxZVRMUUVWbFZCZ3hNdWRQWExiSUhOUDEwVGJ2bmhaUkQ3a1pGbXdqbFc1NlBKN1JicXVSZTlmV1ZRYUVGRXhBYlJrUjBRMlQxeDJDb2hnTXpUNmln?oc=5",
+      "publishedAt": "2026-03-24T08:14:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260324-as-the-crypto-markets-continue-to-remain-volatile-sb-seker-head-of-apac-binance-",
+      "localUrl": "/news/20260324-as-the-crypto-markets-continue-to-remain-volatile-sb-seker-head-of-apac-binance-.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "As mass adoption approaches, crypto has forgotten its roots",
       "summary": "Mass adoption risks crypto’s cypherpunk roots. Privacy as a permissionless foundation must reclaim DeFi from surveillance, TradFi and memecoin casinos.",
@@ -340,19 +658,6 @@
       "localUrl": "/news/20260324-delaware-eyes-stablecoin-licensing-framework-under-banking-laws.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitmine chair sees ‘mini-crypto winter’ thaw for ETH as it hits 77% of goal",
-      "summary": "Bitmine Immersion Technologies bought another $139 million in Ether last week, bringing its ETH holdings to 4.6 million.",
-      "url": "https://cointelegraph.com/news/tom-lee-bitmine-ether-77-percent-crypto-winter-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-24T04:56:59.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260324-bitmine-chair-sees-mini-crypto-winter-thaw-for-eth-as-it-hits-77-of-goal",
-      "localUrl": "/news/20260324-bitmine-chair-sees-mini-crypto-winter-thaw-for-eth-as-it-hits-77-of-goal.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Australian Pension Fund Weighs Crypto Access Amid Market Volatility",
       "summary": "Hostplus’s crypto ambition is attempting to meet rising investor demand, even as volatility keeps rivals on the sidelines.",
@@ -404,19 +709,6 @@
       "localUrl": "/news/20260324-new-new-details-are-emerging-about-the-latest-legislative-text-outlining-a-compr.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Balancer Labs shuts down 4 months after $100M+ exploit, protocol to continue",
-      "summary": "Executives at Balancer Labs are now pushing for the protocol to be managed by the Balancer Foundation and Balancer’s DAO.",
-      "url": "https://cointelegraph.com/news/balancer-labs-shuts-down-protocol-continues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-24T03:00:23.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "安全",
-      "slug": "20260324-balancer-labs-shuts-down-4-months-after-100m-exploit-protocol-to-continue",
-      "localUrl": "/news/20260324-balancer-labs-shuts-down-4-months-after-100m-exploit-protocol-to-continue.html"
-    },
-    {
       "source": "X Wire",
       "title": "🇺🇸 TODAY: The SEC submits proposed crypto interpretation framework to White House for review, seeking to clarify which digital assets qualify as securities under federal law. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBMzk3ZXl6ZUg0c1VGeEw1ZFNLT01XWDk5b0lTdFNkd1ZhN0JBRnRfenYxb08zZnhuc184MVBhLVdWeWFQU3ViOHJnd3NyV3hFNU5qMDVydFJPc1l6aVh0TkR6X3Q?oc=5\" target=\"_blank\">🇺🇸 TODAY: The SEC submits pro…",
@@ -437,45 +729,6 @@
       "category": "X热点",
       "slug": "20260324-new-ethereum-foundation-outlines-l1-l2-strategy-with-l1-serving-as-resilient-set",
       "localUrl": "/news/20260324-new-ethereum-foundation-outlines-l1-l2-strategy-with-l1-serving-as-resilient-set.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Kalshi joins Polymarket in sweeping user bans to head off insider trading",
-      "summary": "Kalshi and Polymarket have moved to restrict insider trading on the same day lawmakers introduced a bipartisan bill to ban popular sports event contracts.",
-      "url": "https://cointelegraph.com/news/kalshi-joins-polymarket-user-bans-head-off-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-24T02:17:57.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260324-kalshi-joins-polymarket-in-sweeping-user-bans-to-head-off-insider-trading",
-      "localUrl": "/news/20260324-kalshi-joins-polymarket-in-sweeping-user-bans-to-head-off-insider-trading.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Eyecare biotech jumps 19% after stablecoin-focused pivot",
-      "summary": "NovaBay Pharmaceuticals was founded in 2000 as a biopharmaceutical company developing eye care products and is now betting big on the Sky protocol and stablecoins.",
-      "url": "https://cointelegraph.com/news/eyecare-biotech-jumps-19-after-stablecoin-focused-rebrand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-24T01:38:44.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260324-eyecare-biotech-jumps-19-after-stablecoin-focused-pivot",
-      "localUrl": "/news/20260324-eyecare-biotech-jumps-19-after-stablecoin-focused-pivot.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Strategy unveils $44.1B capital-raising capacity to buy more Bitcoin",
-      "summary": "Strategy is increasingly turning to perpetual preferred stocks to fund its Bitcoin strategy, with the company adding 90,000 BTC to its balance sheet so far this year.",
-      "url": "https://cointelegraph.com/news/strategy-44-billion-plan-fund-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-24T00:20:11.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260324-strategy-unveils-441b-capital-raising-capacity-to-buy-more-bitcoin",
-      "localUrl": "/news/20260324-strategy-unveils-441b-capital-raising-capacity-to-buy-more-bitcoin.html"
     },
     {
       "source": "Decrypt",
@@ -505,59 +758,6 @@
       "category": "监管",
       "slug": "20260323-stablecoin-yield-in-crypto-clarity-act-wont-allow-rewards-on-balances-latest-tex",
       "localUrl": "/news/20260323-stablecoin-yield-in-crypto-clarity-act-wont-allow-rewards-on-balances-latest-tex.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin’s battle for $70K continues as data shows traders avoiding bullish positioning",
-      "summary": "Rising inflation concerns weigh on Bitcoin’s breakout as traders refuse to take on bullish positions, despite Monday’s 4% price bounce.",
-      "url": "https://cointelegraph.com/news/bitcoin-s-battle-for-70k-continues-as-data-shows-traders-avoiding-bullish-positioning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-23T22:26:40.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "市场",
-      "slug": "20260323-bitcoins-battle-for-70k-continues-as-data-shows-traders-avoiding-bullish-positio",
-      "localUrl": "/news/20260323-bitcoins-battle-for-70k-continues-as-data-shows-traders-avoiding-bullish-positio.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-23T22:03:19.000Z",
-      "keywords": [
-        "Trump memecoin",
-        "Solana memecoin",
-        "TRUMP token",
-        "Solana",
-        "SOL",
-        "Nova Labs",
-        "SEC",
-        "Securities and Exchange Commission",
-        "Crypto regulation",
-        "TRUMP rally",
-        "Bitcoin",
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260323-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260323-heres-what-happened-in-crypto-today.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin holds above $70,000, but future direction hinges on Iran-U.S. 'talks'",
-      "summary": "Cryptos bounced on Trump’s five-day pause announcement, but the next move hinges on whether tensions between the U.S. and Iran ease or spiral, a Wintermute trader said.",
-      "url": "https://www.coindesk.com/markets/2026/03/23/bitcoin-holds-above-usd70-000-but-future-direction-hinges-on-iran-u-s-talks",
-      "publishedAt": "2026-03-23T21:14:08.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Market Wrap",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260323-bitcoin-holds-above-70000-but-future-direction-hinges-on-iran-us-talks",
-      "localUrl": "/news/20260323-bitcoin-holds-above-70000-but-future-direction-hinges-on-iran-us-talks.html"
     },
     {
       "source": "Decrypt",
@@ -608,36 +808,6 @@
       "category": "X热点",
       "slug": "20260323-bitcoin-has-been-bleeding-to-gold-since-december-2024-a-single-green-monthly-can",
       "localUrl": "/news/20260323-bitcoin-has-been-bleeding-to-gold-since-december-2024-a-single-green-monthly-can.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Solana Foundation targets institutions with new privacy framework",
-      "summary": "The organization argued that the next phase of crypto adoption will depend less on transparency alone and more on giving companies control over what they reveal — and to whom.",
-      "url": "https://www.coindesk.com/tech/2026/03/23/solana-foundation-targets-institutions-with-new-privacy-framework",
-      "publishedAt": "2026-03-23T20:00:42.000Z",
-      "keywords": [
-        "Tech",
-        "Solana News",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260323-solana-foundation-targets-institutions-with-new-privacy-framework",
-      "localUrl": "/news/20260323-solana-foundation-targets-institutions-with-new-privacy-framework.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Prediction market boom spurs new VC fund backed by Polymarket, Kalshi CEOs",
-      "summary": "The fund, called 5c(c) Capital, is aiming to raise $35 million to fund startups tied to the rapid growth of event-based trading markets.",
-      "url": "https://www.coindesk.com/markets/2026/03/23/prediction-market-boom-spurs-new-vc-fund-backed-by-polymarket-kalshi-ceos",
-      "publishedAt": "2026-03-23T19:39:34.000Z",
-      "keywords": [
-        "Markets",
-        "Prediction Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260323-prediction-market-boom-spurs-new-vc-fund-backed-by-polymarket-kalshi-ceos",
-      "localUrl": "/news/20260323-prediction-market-boom-spurs-new-vc-fund-backed-by-polymarket-kalshi-ceos.html"
     },
     {
       "source": "Decrypt",
@@ -717,22 +887,6 @@
       "localUrl": "/news/20260323-european-bitcoin-treasury-h100-aims-to-triple-btc-stash-by-acquiring-two-firms.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "BlackRock is betting billions that tokenized funds will do for Wall Street what the internet did to mail",
-      "summary": "In his annual letter, BlackRock CEO Larry Fink argues that digital wallets and tokenized assets could modernize markets and expand investor access.",
-      "url": "https://www.coindesk.com/business/2026/03/23/blackrock-is-betting-billions-that-tokenized-funds-will-do-for-wall-street-what-the-internet-did-to-mail",
-      "publishedAt": "2026-03-23T16:12:09.000Z",
-      "keywords": [
-        "Finance",
-        "BlackRock",
-        "Tokenization",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260323-blackrock-is-betting-billions-that-tokenized-funds-will-do-for-wall-street-what-",
-      "localUrl": "/news/20260323-blackrock-is-betting-billions-that-tokenized-funds-will-do-for-wall-street-what-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Senators Reveal Bipartisan Bill to Outlaw Sports Prediction Markets",
       "summary": "The bill, from Adam Schiff (D-CA) and John Curtis (R-UT), has already been condemned by one of America’s top prediction market platforms.",
@@ -759,22 +913,6 @@
       "localUrl": "/news/20260323-ethereum-price-jumps-on-iran-optimism-as-tom-lees-bitmine-adds-to-10-billion-sta.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Strategy tops up capital-raising plans, bringing potential bitcoin buying power back to $42 billion",
-      "summary": "Expanded share issuance plans and new Wall Street partners boost capital raising firepower.",
-      "url": "https://www.coindesk.com/markets/2026/03/23/strategy-tops-up-capital-raising-plans-bringing-potential-bitcoin-buying-power-back-to-usd42-billion",
-      "publishedAt": "2026-03-23T14:58:25.000Z",
-      "keywords": [
-        "Markets",
-        "MicroStrategy",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260323-strategy-tops-up-capital-raising-plans-bringing-potential-bitcoin-buying-power-b",
-      "localUrl": "/news/20260323-strategy-tops-up-capital-raising-plans-bringing-potential-bitcoin-buying-power-b.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Strategy Unveils $44 Billion Plan to Buy More Bitcoin, Driven By MSTR and STRC Shares",
       "summary": "Strategy shared plans to issue $44 billion in equity, a move aimed at providing its Bitcoin-buying machine with fuel for future purchases.",
@@ -788,49 +926,6 @@
       "localUrl": "/news/20260323-strategy-unveils-44-billion-plan-to-buy-more-bitcoin-driven-by-mstr-and-strc-sha.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Pharmaceutical firm pivots to stablecoins, holds nearly 9% of SKY's supply",
-      "summary": "Nanocap NovaBay Pharmaceuticals changed its name to Stablecoin Development Corporation.",
-      "url": "https://www.coindesk.com/business/2026/03/23/pharmaceutical-firm-pivots-to-stablecoins-holds-nearly-9-of-sky-s-supply",
-      "publishedAt": "2026-03-23T14:25:29.000Z",
-      "keywords": [
-        "Finance",
-        "Altcoins",
-        "DeFi",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260323-pharmaceutical-firm-pivots-to-stablecoins-holds-nearly-9-of-skys-supply",
-      "localUrl": "/news/20260323-pharmaceutical-firm-pivots-to-stablecoins-holds-nearly-9-of-skys-supply.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "💥 MASSIVE REVERSAL: $970,000,000,000 has been added to the US stock market in just 50 MINUTES. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DSEZEM0s1cFlEeUVNY2pXbWticHNNeDNtYk1Rc3p2ZzlMNkV2TjhhU2o1VHM3U05HSXNRZXYzS2dUZzRhLTZBMTQxdEZBRENKZ3RLREwwanJlVVRxMkN3aWVR?oc=5\" target=\"_blank\">💥 MASSIVE REVERSAL: $970,000,000,…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DSEZEM0s1cFlEeUVNY2pXbWticHNNeDNtYk1Rc3p2ZzlMNkV2TjhhU2o1VHM3U05HSXNRZXYzS2dUZzRhLTZBMTQxdEZBRENKZ3RLREwwanJlVVRxMkN3aWVR?oc=5",
-      "publishedAt": "2026-03-23T14:19:38.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260323-massive-reversal-970000000000-has-been-added-to-the-us-stock-market-in-just-50-m",
-      "localUrl": "/news/20260323-massive-reversal-970000000000-has-been-added-to-the-us-stock-market-in-just-50-m.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Backpack launches BP token on Solana with 25% airdrop, no insider allocation",
-      "summary": "The remaining tokens are subject to long-term lockups tied to company milestones and a potential IPO.",
-      "url": "https://www.coindesk.com/business/2026/03/23/backpack-launches-bp-token-on-solana-with-25-airdrop-no-insider-allocation",
-      "publishedAt": "2026-03-23T13:52:21.000Z",
-      "keywords": [
-        "Finance",
-        "Solana News",
-        "Airdrops",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260323-backpack-launches-bp-token-on-solana-with-25-airdrop-no-insider-allocation",
-      "localUrl": "/news/20260323-backpack-launches-bp-token-on-solana-with-25-airdrop-no-insider-allocation.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Michael Saylor’s Strategy announces new $42 billion plan to buy more Bitcoin 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfM0czdmxuYnB4cUVmeEhXMFMwWkV5bVFpVkFpSkJBVS12ZlZic3pZSmtaQVJDZG9raXNOOVFlQmUyMUF2VkFyVmpwQ3g4RUhSSFBNdG81MFBHU1lXQjc4dlZ6aHZTSVk?oc=5\" target=\"_blank\">JUST IN: Michael Saylor’s S…",
@@ -840,21 +935,6 @@
       "category": "X热点",
       "slug": "20260323-just-in-michael-saylors-strategy-announces-new-42-billion-plan-to-buy-more-bitco",
       "localUrl": "/news/20260323-just-in-michael-saylors-strategy-announces-new-42-billion-plan-to-buy-more-bitco.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "CoinDesk 20 performance update: Bitcoin Cash (BCH) gains 2.3%, leading index higher",
-      "summary": "Solana (SOL), up 1% from Friday, was also a top performer.",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/03/23/coindesk-20-performance-update-bitcoin-cash-bch-gains-2-3-leading-index-higher",
-      "publishedAt": "2026-03-23T13:13:25.000Z",
-      "keywords": [
-        "CoinDesk Indices",
-        "CoinDesk 20",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260323-coindesk-20-performance-update-bitcoin-cash-bch-gains-23-leading-index-higher",
-      "localUrl": "/news/20260323-coindesk-20-performance-update-bitcoin-cash-bch-gains-23-leading-index-higher.html"
     },
     {
       "source": "Decrypt",
@@ -881,35 +961,6 @@
       "localUrl": "/news/20260323-new-crypto-and-bank-reps-head-to-capitol-hill-to-review-stablecoin-deal-as-detai.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Tom Lee's Bitmine extends buying streak with $138 million ETH purchase, betting on crypto slump ending",
-      "summary": "The Ethereum treasury firm led by Thomas Lee now has increased its buying pace for three consecutive weeks even as unrealized losses mount.",
-      "url": "https://www.coindesk.com/business/2026/03/23/tom-lee-s-bitmine-extends-buying-streak-with-usd138-million-eth-purchase-betting-on-crypto-slump-ending",
-      "publishedAt": "2026-03-23T12:57:17.000Z",
-      "keywords": [
-        "Finance",
-        "Ethereum News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260323-tom-lees-bitmine-extends-buying-streak-with-138-million-eth-purchase-betting-on-",
-      "localUrl": "/news/20260323-tom-lees-bitmine-extends-buying-streak-with-138-million-eth-purchase-betting-on-.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin's wild roller coaster ride leaves leveraged traders with $415 million in liquidations",
-      "summary": "Bitcoin swung from $67,500 to $71,200 and back to $70,000 in a single session as Trump said he was postponing Iran strikes, then Iran denied any communication was taking place.",
-      "url": "https://www.coindesk.com/markets/2026/03/23/bitcoin-s-wild-roller-coaster-ride-leaves-leveraged-traders-with-usd415-million-in-losses",
-      "publishedAt": "2026-03-23T12:42:06.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260323-bitcoins-wild-roller-coaster-ride-leaves-leveraged-traders-with-415-million-in-l",
-      "localUrl": "/news/20260323-bitcoins-wild-roller-coaster-ride-leaves-leveraged-traders-with-415-million-in-l.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Morning Minute: Bitcoin Rips as Iran Strikes Postponed",
       "summary": "Crypto is soaring on a major development in the Iran war, while A Senate deal could finally unlock the Clarity Act.",
@@ -921,19 +972,6 @@
       "category": "市场",
       "slug": "20260323-morning-minute-bitcoin-rips-as-iran-strikes-postponed",
       "localUrl": "/news/20260323-morning-minute-bitcoin-rips-as-iran-strikes-postponed.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin Tops $71,000 as Trump Postpones Iran Power Plant Strike Plans",
-      "summary": "The price move came after Donald Trump touted \"productive conversations\" regarding a cessation of hostilities in the Middle East.",
-      "url": "https://decrypt.co/361987/bitcoin-tops-71000-as-trump-postpones-iran-power-plant-strike-plans",
-      "publishedAt": "2026-03-23T12:11:15.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260323-bitcoin-tops-71000-as-trump-postpones-iran-power-plant-strike-plans",
-      "localUrl": "/news/20260323-bitcoin-tops-71000-as-trump-postpones-iran-power-plant-strike-plans.html"
     },
     {
       "source": "X Wire",
@@ -948,6 +986,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Dad, I'm long $100M. Tell the market ''Iran and you have good talks.'' Thanks. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWZjlrdW1QdHlmNXJWZU9wUElQTm1vLWtWUm9VbTBtUVJGOFV3Wm80dVFaZ0o5YkdidjlLWTNPeV9YMEVJcm5aOTFQUVFFcW51SUpxbHN2Y05iaTI0Q1dWNy1R?oc=5\" target=\"_blank\">Dad, I'm long $100M. Tell the mark…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWZjlrdW1QdHlmNXJWZU9wUElQTm1vLWtWUm9VbTBtUVJGOFV3Wm80dVFaZ0o5YkdidjlLWTNPeV9YMEVJcm5aOTFQUVFFcW51SUpxbHN2Y05iaTI0Q1dWNy1R?oc=5",
+      "publishedAt": "2026-03-23T11:45:35.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260323-dad-im-long-100m-tell-the-market-iran-and-you-have-good-talks-thanks-xcom",
+      "localUrl": "/news/20260323-dad-im-long-100m-tell-the-market-iran-and-you-have-good-talks-thanks-xcom.html"
+    },
+    {
+      "source": "X Wire",
       "title": "JUST IN: Bitcoin pumps above $71,000 following President Trump’s announcement of potentially ending the war with Iran 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tSlZyZ3RXS25tY3hPSGxXUFpvelppNnpxT3BYUzl5Q19nWVNXalJLUkY0cWl2dTlOX3lLc0hHTWVLc2VMbXI2Ym14a0ZlTVlyX1JOa3cyaDRseV9wMVhjMkZ2enRSNlk?oc=5\" target=\"_blank\">JUST IN: Bitcoin pumps abov…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tSlZyZ3RXS25tY3hPSGxXUFpvelppNnpxT3BYUzl5Q19nWVNXalJLUkY0cWl2dTlOX3lLc0hHTWVLc2VMbXI2Ym14a0ZlTVlyX1JOa3cyaDRseV9wMVhjMkZ2enRSNlk?oc=5",
@@ -956,30 +1005,6 @@
       "category": "X热点",
       "slug": "20260323-just-in-bitcoin-pumps-above-71000-following-president-trumps-announcement-of-pot",
       "localUrl": "/news/20260323-just-in-bitcoin-pumps-above-71000-following-president-trumps-announcement-of-pot.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "💥BREAKING: Trump says U.S. and Iran had “productive talks” and is postponing planned strikes for 5 days. De-escalation in play. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RMkt3dU90N011d3lnSU9RNndLbEh3bjJzWTBSTUtQZG1ZTUFQU1hKVE40Y2lIbV80bzU1WnFIVW5fQjBSclNaalJGOVVGYVNPTmNINlRidmpBd0ZBWE83TmxR?oc=5\" target=\"_blank\">💥BREAKING: Trump says U.S. and Ir…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RMkt3dU90N011d3lnSU9RNndLbEh3bjJzWTBSTUtQZG1ZTUFQU1hKVE40Y2lIbV80bzU1WnFIVW5fQjBSclNaalJGOVVGYVNPTmNINlRidmpBd0ZBWE83TmxR?oc=5",
-      "publishedAt": "2026-03-23T11:10:25.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260323-breaking-trump-says-us-and-iran-had-productive-talks-and-is-postponing-planned-s",
-      "localUrl": "/news/20260323-breaking-trump-says-us-and-iran-had-productive-talks-and-is-postponing-planned-s.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Resolv Labs Stablecoin Depegs, Plunges 74% After $25M Exploit",
-      "summary": "A compromised key enabled an attacker to illegally mint 80 million USR tokens, causing the stablecoin to lose its dollar peg.",
-      "url": "https://decrypt.co/361984/resolv-labs-stablecoin-depegs-plunges-74-after-25m-exploit",
-      "publishedAt": "2026-03-23T11:02:59.000Z",
-      "keywords": [
-        "DeFi"
-      ],
-      "category": "安全",
-      "slug": "20260323-resolv-labs-stablecoin-depegs-plunges-74-after-25m-exploit",
-      "localUrl": "/news/20260323-resolv-labs-stablecoin-depegs-plunges-74-after-25m-exploit.html"
     },
     {
       "source": "X Wire",
