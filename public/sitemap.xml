@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-23T23:46:09.965Z</lastmod>
+    <lastmod>2026-03-24T03:11:26.215Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-23T23:46:09.965Z</lastmod>
+    <lastmod>2026-03-24T03:11:26.215Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260324-kalshi-joins-polymarket-in-sweeping-user-bans-to-head-off-insider-trading.html</loc>
+    <lastmod>2026-03-24T02:17:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260324-eyecare-biotech-jumps-19-after-stablecoin-focused-rebrand.html</loc>
+    <lastmod>2026-03-24T01:38:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260324-strategy-seeks-another-441b-to-buy-more-bitcoin-amid-market-downturn.html</loc>
+    <lastmod>2026-03-24T00:20:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260323-protesters-rally-outside-openai-anthropic-and-xai-offices-over-industry-concerns.html</loc>
@@ -199,12 +217,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260323-massive-reversal-970000000000-has-been-added-to-the-us-stock-market-in-just-50-m.html</loc>
-    <lastmod>2026-03-23T14:19:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260323-senate-bill-to-target-sports-betting-ban-on-prediction-markets-wsj.html</loc>
     <lastmod>2026-03-23T14:12:46.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -289,18 +301,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260323-strategy-adds-1031-bitcoin-for-77m-as-holdings-top-762000-btc.html</loc>
-    <lastmod>2026-03-23T12:34:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260323-airdrops-rewarded-extraction-and-ended-real-communities.html</loc>
-    <lastmod>2026-03-23T12:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260323-strategy-returns-to-small-bitcoin-purchases-adding-766-million-in-btc-last-week.html</loc>
     <lastmod>2026-03-23T12:22:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -331,12 +331,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260323-stablecoins-seen-gaining-from-ai-payments-despite-slow-uptake-bernstein.html</loc>
-    <lastmod>2026-03-23T11:45:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260323-dad-im-long-100m-tell-the-market-iran-and-you-have-good-talks-thanks-xcom.html</loc>
     <lastmod>2026-03-23T11:45:35.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -351,12 +345,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260323-bitcoin-surges-above-71000-as-trump-postpones-iran-strikes-for-5-days.html</loc>
     <lastmod>2026-03-23T11:23:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260323-breaking-oil-prices-plunge-over-10-on-trumps-war-remarks-this-is-insane-xcom.html</loc>
-    <lastmod>2026-03-23T11:18:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -445,12 +433,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260323-ethereum-builder-thomasg_eth-is-also-selling-low-and-buying-high-eth-on-march-3-.html</loc>
-    <lastmod>2026-03-23T01:10:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260323-bitcoin-price-slides-but-holds-up-better-than-stocks-as-oil-shock-continues.html</loc>
     <lastmod>2026-03-23T00:41:36.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -459,6 +441,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260323-how-l1-and-l2s-can-build-the-strongest-possible-ethereum.html</loc>
     <lastmod>2026-03-23T00:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260322-from-a-technical-standpoint-ethereum-eth-appears-to-trade-within-a-well-defined-.html</loc>
+    <lastmod>2026-03-22T22:59:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -493,6 +481,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260322-crypto-hiring-demand-has-sharply-contracted-in-early-2026-with-new-job-postings-.html</loc>
+    <lastmod>2026-03-22T05:31:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260321-just-in-us-senator-cynthia-lummis-says-the-bitcoin-and-crypto-market-structure-b.html</loc>
     <lastmod>2026-03-21T14:01:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -505,8 +499,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260320-bits-to-bricks-can-stablecoins-prevent-de-dollarization.html</loc>
-    <lastmod>2026-03-20T00:00:00.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260321-he-once-held-500m-in-crypto-now-hes-buying-back-ethereum-og-thomasg_eth-held-538.html</loc>
+    <lastmod>2026-03-21T05:11:31.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
