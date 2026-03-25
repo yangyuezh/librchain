@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-25T07:16:45.195Z</lastmod>
+    <lastmod>2026-03-25T09:06:07.729Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-25T07:16:45.195Z</lastmod>
+    <lastmod>2026-03-25T09:06:07.729Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260325-crypto-broker-bitpanda-launches-blockchain-to-connect-eu-banks-with-tokenized-as.html</loc>
+    <lastmod>2026-03-25T09:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260325-ripple-joins-singapore-sandbox-to-test-rlusd-in-trade-finance.html</loc>
+    <lastmod>2026-03-25T08:12:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260325-theres-a-huge-14-billion-bitcoin-options-expiry-this-friday-and-it-points-to-750.html</loc>
+    <lastmod>2026-03-25T08:10:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260325-irish-police-open-bitcoin-wallet-years-after-keys-were-apparently-lost.html</loc>
@@ -127,6 +145,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260324-some-people-say-gaming-on-a-blockchain-isnt-coming-back-congrats-to-the-graveyar.html</loc>
+    <lastmod>2026-03-24T22:31:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260324-great-to-see-more-banks-leaning-into-crypto-and-stablecoins-xcom.html</loc>
+    <lastmod>2026-03-24T22:27:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260324-heres-what-happened-in-crypto-today.html</loc>
     <lastmod>2026-03-24T21:42:52.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -213,6 +243,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260324-bitcoin-holders-shift-from-panic-to-cash-buffer-discipline-as-volatility-deepens.html</loc>
     <lastmod>2026-03-24T17:44:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260324-software-horror-litellm-pypi-supply-chain-attack-simple-pip-install-litellm-was-.html</loc>
+    <lastmod>2026-03-24T16:56:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -325,12 +361,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260324-crash-bitcoin-breaks-below-70000-xcom.html</loc>
-    <lastmod>2026-03-24T13:59:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260324-resolv-temporarily-halts-protocol-to-contain-the-impact-of-80m-usr-exploit.html</loc>
     <lastmod>2026-03-24T13:57:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -339,12 +369,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260324-mastercard-western-union-worldpay-building-with-new-solana-enterprise-platform.html</loc>
     <lastmod>2026-03-24T13:55:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260324-federal-regulation-looms-as-11-states-go-after-prediction-markets.html</loc>
-    <lastmod>2026-03-24T13:53:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -373,12 +397,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260324-solana-foundation-taps-mastercard-western-union-worldpay-for-institutional-devel.html</loc>
-    <lastmod>2026-03-24T13:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260324-solana-foundation-launches-solana-developer-platform.html</loc>
     <lastmod>2026-03-24T12:50:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -387,12 +405,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260324-yeah-bitcoin-etfs-now-25b-for-month-and-one-good-day-away-from-completely-diggin.html</loc>
     <lastmod>2026-03-24T12:47:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260324-coinbase-says-the-second-wave-of-crypto-investors-are-prioritizing-income-over-p.html</loc>
-    <lastmod>2026-03-24T12:43:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -465,18 +477,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260324-new-new-details-are-emerging-about-the-latest-legislative-text-outlining-a-compr.html</loc>
     <lastmod>2026-03-24T03:09:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260324-today-the-sec-submits-proposed-crypto-interpretation-framework-to-white-house-fo.html</loc>
-    <lastmod>2026-03-24T03:00:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260324-new-ethereum-foundation-outlines-l1-l2-strategy-with-l1-serving-as-resilient-set.html</loc>
-    <lastmod>2026-03-24T02:45:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
