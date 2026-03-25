@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-03-25T11:07:54.336Z",
+  "updatedAt": "2026-03-25T11:56:36.786Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s refusal to fall signals crypto's underlying strength even as war risks linger",
+      "summary": "Your day-ahead look for March 25, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/03/25/bitcoin-s-refusal-to-fall-signals-crypto-s-underlying-strength-even-as-war-risks-linger",
+      "publishedAt": "2026-03-25T11:21:36.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260325-bitcoins-refusal-to-fall-signals-cryptos-underlying-strength-even-as-war-risks-l",
+      "localUrl": "/news/20260325-bitcoins-refusal-to-fall-signals-cryptos-underlying-strength-even-as-war-risks-l.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Irish Police Crack First of 12 Bitcoin Wallets in $418M Drug Seizure",
+      "summary": "Ireland’s Criminal Assets Bureau accessed 500 BTC worth $34 million with the help of Europol, breaking into wallets seized in 2019.",
+      "url": "https://decrypt.co/362295/irish-police-crack-first-of-12-bitcoin-wallets-in-418m-drug-seizure",
+      "publishedAt": "2026-03-25T11:20:48.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260325-irish-police-crack-first-of-12-bitcoin-wallets-in-418m-drug-seizure",
+      "localUrl": "/news/20260325-irish-police-crack-first-of-12-bitcoin-wallets-in-418m-drug-seizure.html"
+    },
     {
       "source": "CoinDesk",
       "title": "STS Digital unveils structured crypto platform with Kraken as distribution partner",
@@ -16,6 +44,32 @@
       "category": "市场",
       "slug": "20260325-sts-digital-unveils-structured-crypto-platform-with-kraken-as-distribution-partn",
       "localUrl": "/news/20260325-sts-digital-unveils-structured-crypto-platform-with-kraken-as-distribution-partn.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ECB targets summer for digital euro standards: Cipollone",
+      "summary": "The ECB’s Piero Cipollone said the central bank wants key technical standards for a possible digital euro locked in by this summer so banks and merchants can prepare for the rollout.",
+      "url": "https://cointelegraph.com/news/ecb-targets-summer-digital-euro-standards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-25T10:57:51.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260325-ecb-targets-summer-for-digital-euro-standards-cipollone",
+      "localUrl": "/news/20260325-ecb-targets-summer-for-digital-euro-standards-cipollone.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin retakes $71K as US sends Iran 15-point ceasefire plan",
+      "summary": "Bitcoin bounced back above $71,000 after US President Donald Trump’s administration sent a proposal to Iran aimed at ending the war.",
+      "url": "https://cointelegraph.com/news/bitcoin-retakes-71k-us-sends-iran-15-point-ceasefire-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-25T10:54:33.000Z",
+      "keywords": [
+        "Market Analysis"
+      ],
+      "category": "市场",
+      "slug": "20260325-bitcoin-retakes-71k-as-us-sends-iran-15-point-ceasefire-plan",
+      "localUrl": "/news/20260325-bitcoin-retakes-71k-as-us-sends-iran-15-point-ceasefire-plan.html"
     },
     {
       "source": "CoinDesk",
@@ -630,6 +684,17 @@
       "localUrl": "/news/20260324-bitcoin-holders-shift-from-panic-to-cash-buffer-discipline-as-volatility-deepens.html"
     },
     {
+      "source": "X Wire",
+      "title": "This is interesting because if you’ve been following this story, it’s been well reported that yield on passive stablecoin balances was a nonstarter from the beginning and unlikely to make it into the final deal. I think the @tether audit news may be playing into the - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zNlNKbjZZU2NzTXRiSm83RlJyNzNnMWNIeDlzUHZxWjl2djJDX0FnUXBUR0dDa3ZFVml1TDAwbUhlS3FEcmlsanY0S3hiai1jRFF5dzVkZ2JEVHF5OW41OUE0VWxmQQ?oc=5\" target=\"_blank\">This is interesting because …",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zNlNKbjZZU2NzTXRiSm83RlJyNzNnMWNIeDlzUHZxWjl2djJDX0FnUXBUR0dDa3ZFVml1TDAwbUhlS3FEcmlsanY0S3hiai1jRFF5dzVkZ2JEVHF5OW41OUE0VWxmQQ?oc=5",
+      "publishedAt": "2026-03-24T17:09:31.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260324-this-is-interesting-because-if-youve-been-following-this-story-its-been-well-rep",
+      "localUrl": "/news/20260324-this-is-interesting-because-if-youve-been-following-this-story-its-been-well-rep.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Tether says ‘Big Four‘ firm to handle first full audit of USDT reserves",
       "summary": "The long-anticipated audit could address years of scrutiny over Tether’s reserve disclosures, though the company has not named the accounting firm.",
@@ -654,19 +719,6 @@
       "category": "基础设施",
       "slug": "20260324-bmo-is-first-bank-to-join-cmes-tokenized-cash-platform-on-google-cloud",
       "localUrl": "/news/20260324-bmo-is-first-bank-to-join-cmes-tokenized-cash-platform-on-google-cloud.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BitGo, Susquehanna open OTC prediction markets trading to institutions",
-      "summary": "The offering allows institutional investors to trade event-based contracts using crypto collateral, as regulatory scrutiny of prediction markets intensifies in the United States.",
-      "url": "https://cointelegraph.com/news/bitgo-susquehanna-roll-out-institutional-otc-access-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-24T16:31:58.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260324-bitgo-susquehanna-open-otc-prediction-markets-trading-to-institutions",
-      "localUrl": "/news/20260324-bitgo-susquehanna-open-otc-prediction-markets-trading-to-institutions.html"
     },
     {
       "source": "Decrypt",
@@ -757,24 +809,6 @@
       "localUrl": "/news/20260324-why-cautious-tradfi-firms-love-staked-ether.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin slips below $70,000, Circle's 16% slide leads crypto stock sell-off",
-      "summary": "Market participants are now pricing in rate hikes, and it could be weighing on risk assets.",
-      "url": "https://www.coindesk.com/markets/2026/03/24/bitcoin-slips-below-usd70-000-circle-s-16-slide-leading-crypto-stock-sell-off",
-      "publishedAt": "2026-03-24T15:30:32.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Market Wrap",
-        "Circle",
-        "Coinbase",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260324-bitcoin-slips-below-70000-circles-16-slide-leads-crypto-stock-sell-off",
-      "localUrl": "/news/20260324-bitcoin-slips-below-70000-circles-16-slide-leads-crypto-stock-sell-off.html"
-    },
-    {
       "source": "X Wire",
       "title": "Today, several teams at the EF are launching pq.ethereum.org, a dedicated resource for Ethereum's post-quantum security effort. What started with early STARK-based signature aggregation research in 2018 has grown into a coordinated, multi-team effort, all - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tUTRJT045dERJUU96cEhuWUZwdlhqYXZON0xnWHF6QW1ZU2tkRUVvSUtQT3NyckQzOW1sNFIyektoUlJYYjhNVkNfdFpwdkZoMVpral9CWVhuM1BvVXFwRk43UQ?oc=5\" target=\"_blank\">Today, several teams at the EF a…",
@@ -784,19 +818,6 @@
       "category": "X热点",
       "slug": "20260324-today-several-teams-at-the-ef-are-launching-pqethereumorg-a-dedicated-resource-f",
       "localUrl": "/news/20260324-today-several-teams-at-the-ef-are-launching-pqethereumorg-a-dedicated-resource-f.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin hints at ‘regime shift’ as BTC price dips to $69.5K on Iran nerves",
-      "summary": "Bitcoin fell below $70,000 amid geopolitical tensions, while analysts pointed to early signs of a potential structural shift in market behavior.",
-      "url": "https://cointelegraph.com/news/bitcoin-hints-regime-shift-btc-price-dips-69-5k-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-24T15:09:50.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260324-bitcoin-hints-at-regime-shift-as-btc-price-dips-to-695k-on-iran-nerves",
-      "localUrl": "/news/20260324-bitcoin-hints-at-regime-shift-as-btc-price-dips-to-695k-on-iran-nerves.html"
     },
     {
       "source": "Decrypt",
@@ -1024,19 +1045,6 @@
       "localUrl": "/news/20260324-australian-pension-fund-weighs-crypto-access-amid-market-volatility.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Balancer Labs Winds Down Months After $128M DeFi Exploit",
-      "summary": "The restructuring comes as analysts say older DeFi models built on token incentives and emissions are increasingly under pressure.",
-      "url": "https://decrypt.co/362141/balancer-labs-winds-down-128m-defi-exploit",
-      "publishedAt": "2026-03-24T04:36:39.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "安全",
-      "slug": "20260324-balancer-labs-winds-down-months-after-128m-defi-exploit",
-      "localUrl": "/news/20260324-balancer-labs-winds-down-months-after-128m-defi-exploit.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨NEW: New details are emerging about the latest legislative text outlining a compromise on stablecoin yield and rewards, along with early reactions from crypto industry leaders who reviewed it today. According to an internal stakeholder email shared with me, - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwa0NGSHpLR1BjYTBFX0JJZk84TDRybHUzT1BwVVFSQ2hFR3RtcXNQYm8tMDVpVTRWSlJjal9BaVFWcEM1QU9zWjE4cldXZWhkbHdIdnJiNDc2am1IbXp0QUs3ZVlGQQ?oc=5\" target=\"_blank\">🚨NEW: New details are emerg…",
@@ -1079,17 +1087,6 @@
       "category": "X热点",
       "slug": "20260323-new-crypto-and-bank-reps-head-to-capitol-hill-to-review-stablecoin-deal-as-detai",
       "localUrl": "/news/20260323-new-crypto-and-bank-reps-head-to-capitol-hill-to-review-stablecoin-deal-as-detai.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Strategy has acquired 1,031 BTC for ~$76.6 million at ~$74,326 per bitcoin. As of 3/22/2026, we hodl 762,099 $BTC acquired for ~$57.69 billion at ~$75,694 per bitcoin. $MSTR $STRC - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGT3g2dnRtcDY3d1liQWdqQklBV1BLT0l1VzBsYTZyUWJKLTdybHNrRlA2akV5UmxnZmNEZ2VHRDdSUFRnMEpGeHdkM084S0hmTzI3ZndRS2phdjA?oc=5\" target=\"_blank\">Strategy has acquired 1,031 BTC for ~$76.6 …",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGT3g2dnRtcDY3d1liQWdqQklBV1BLT0l1VzBsYTZyUWJKLTdybHNrRlA2akV5UmxnZmNEZ2VHRDdSUFRnMEpGeHdkM084S0hmTzI3ZndRS2phdjA?oc=5",
-      "publishedAt": "2026-03-23T12:03:03.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260323-strategy-has-acquired-1031-btc-for-766-million-at-74326-per-bitcoin-as-of-322202",
-      "localUrl": "/news/20260323-strategy-has-acquired-1031-btc-for-766-million-at-74326-per-bitcoin-as-of-322202.html"
     },
     {
       "source": "Ethereum Blog",
