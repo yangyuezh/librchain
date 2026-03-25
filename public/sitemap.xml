@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-25T21:52:22.581Z</lastmod>
+    <lastmod>2026-03-25T22:53:59.479Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-25T21:52:22.581Z</lastmod>
+    <lastmod>2026-03-25T22:53:59.479Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260325-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-25T22:06:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260325-zachxbt-claims-circle-wrongfully-freezing-exchange-wallets.html</loc>
+    <lastmod>2026-03-25T21:52:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260325-google-sets-2029-deadline-to-deal-with-quantum-threatis-it-a-problem-for-bitcoin.html</loc>
@@ -241,12 +253,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260325-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-03-25T14:48:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260325-bitpanda-targets-banks-with-vision-chain-tokenization-platform.html</loc>
     <lastmod>2026-03-25T14:32:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -321,12 +327,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260325-strategy-is-hiring-a-bitcoin-security-director-to-coordinate-with-the-global-cyb.html</loc>
     <lastmod>2026-03-25T12:30:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260325-governments-need-cbdcs-to-improve-financial-inclusion-among-citizens.html</loc>
-    <lastmod>2026-03-25T12:30:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
