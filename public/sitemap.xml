@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-26T21:44:28.356Z</lastmod>
+    <lastmod>2026-03-26T22:49:07.055Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-26T21:44:28.356Z</lastmod>
+    <lastmod>2026-03-26T22:49:07.055Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260326-top-democrat-on-house-committee-questions-krakens-federal-reserve-account.html</loc>
+    <lastmod>2026-03-26T22:17:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260326-sec-is-no-longer-a-cop-on-the-beat-on-crypto-says-us-lawmaker.html</loc>
+    <lastmod>2026-03-26T21:58:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260326-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-26T21:53:16.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260326-trump-policy-has-crypto-privacy-developers-in-a-very-bad-state-says-coin-center.html</loc>
@@ -145,12 +163,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260326-just-in-3-trillion-goldman-sachs-says-bitcoin-and-crypto-prices-may-have-bottome.html</loc>
-    <lastmod>2026-03-26T17:11:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260326-mezo-taps-aerodrome-to-support-token-trading-on-base-in-bitcoin-defi-push.html</loc>
     <lastmod>2026-03-26T17:01:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -213,12 +225,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260326-active-treasury-is-a-dangerous-misnomer-that-must-not-be-ignored.html</loc>
     <lastmod>2026-03-26T15:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260326-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-03-26T14:57:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -331,12 +337,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260326-blockchain-philanthropy-fails-africas-real-world-test.html</loc>
-    <lastmod>2026-03-26T12:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260326-mara-holdings-higher-by-10-after-selling-11-billion-in-bitcoin-to-fund-debt-buyb.html</loc>
     <lastmod>2026-03-26T12:23:22.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -403,12 +403,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260326-bitcoin-dat-trade-is-concentrating-in-michael-saylors-strategy-as-treasury-deman.html</loc>
-    <lastmod>2026-03-26T09:20:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260326-latest-nvidia-faces-class-action-lawsuit-over-alleged-hidden-crypto-mining-gpu-s.html</loc>
     <lastmod>2026-03-26T07:50:57.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -441,6 +435,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260325-just-in-coinbase-block-river-and-the-bitcoin-policy-institute-will-advocate-for-.html</loc>
     <lastmod>2026-03-25T21:00:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260325-new-swan-bitcoin-files-in-sdny-to-subpoena-cantor-fitzgerald-and-its-former-ceo-.html</loc>
+    <lastmod>2026-03-25T19:52:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -519,12 +519,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260323-how-l1-and-l2s-can-build-the-strongest-possible-ethereum.html</loc>
     <lastmod>2026-03-23T00:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260322-the-resolv-hack-how-one-compromised-key-printed-23-million.html</loc>
-    <lastmod>2026-03-22T22:18:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
