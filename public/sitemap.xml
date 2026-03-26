@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-26T07:34:58.013Z</lastmod>
+    <lastmod>2026-03-26T09:11:49.998Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-26T07:34:58.013Z</lastmod>
+    <lastmod>2026-03-26T09:11:49.998Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260326-fenbushi-co-founder-offers-bounty-to-recover-42m-lost-in-2022-hack.html</loc>
+    <lastmod>2026-03-26T07:37:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260326-some-bitcoin-indicators-are-still-going-the-wrong-way-challenging-the-bullish-70.html</loc>
@@ -25,7 +31,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260326-coinbase-opposes-latest-crypto-bill-stablecoin-compromise-report.html</loc>
+    <loc>https://www.librchain.com/news/20260326-coinbase-opposes-stablecoin-compromise-in-senate-crypto-bill-report.html</loc>
     <lastmod>2026-03-26T06:03:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -283,12 +289,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260325-startale-raises-50m-from-sbi-to-complete-63m-series-a.html</loc>
-    <lastmod>2026-03-25T17:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260325-solana-bets-on-ai-agents-foundation-says-network-is-becoming-core-infrastructure.html</loc>
     <lastmod>2026-03-25T16:36:48.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -469,12 +469,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260324-just-in-morgan-stanleys-amy-oldenburg-said-banks-are-expanding-into-bitcoin-and-.html</loc>
-    <lastmod>2026-03-24T19:39:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260324-bitcoin-has-likely-reached-a-floor-and-could-rise-to-150000-by-the-end-of-2026-a.html</loc>
     <lastmod>2026-03-24T16:16:31.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,6 +483,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260324-solana-foundation-launches-solana-developer-platform.html</loc>
     <lastmod>2026-03-24T12:50:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260324-yeah-bitcoin-etfs-now-25b-for-month-and-one-good-day-away-from-completely-diggin.html</loc>
+    <lastmod>2026-03-24T12:47:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
