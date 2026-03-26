@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-26T22:49:07.055Z</lastmod>
+    <lastmod>2026-03-26T23:46:16.755Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-26T22:49:07.055Z</lastmod>
+    <lastmod>2026-03-26T23:46:16.755Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260326-david-sacks-leaves-white-house-crypto-role-with-key-legislation-still-unresolved.html</loc>
+    <lastmod>2026-03-26T22:57:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260326-top-democrat-on-house-committee-questions-krakens-federal-reserve-account.html</loc>
@@ -417,12 +423,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260326-nvidia-to-face-class-action-lawsuit-over-alleged-crypto-mining-revenue-gaps.html</loc>
     <lastmod>2026-03-26T04:56:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260326-crypto-case-over-money-transmitter-laws-dismissed-by-us-judge.html</loc>
-    <lastmod>2026-03-26T04:25:13.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
