@@ -1,7 +1,38 @@
 {
-  "updatedAt": "2026-03-27T11:06:30.040Z",
+  "updatedAt": "2026-03-27T11:55:40.571Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Retail investors drive widespread bitcoin selling as prices fall",
+      "summary": "Glassnode data shows distribution across cohorts as BTC falls below $67,000, with whales remaining largely neutral.",
+      "url": "https://www.coindesk.com/markets/2026/03/27/retail-investors-drive-widespread-bitcoin-selling-as-prices-fall",
+      "publishedAt": "2026-03-27T11:44:26.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Glassnode",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260327-retail-investors-drive-widespread-bitcoin-selling-as-prices-fall",
+      "localUrl": "/news/20260327-retail-investors-drive-widespread-bitcoin-selling-as-prices-fall.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ondo, canton sidestep macro concerns with institutional deals as bitcoin, ether slide",
+      "summary": "Your day-ahead look for March 27, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/03/27/ondo-canton-sidestep-macro-concerns-with-institutional-deals-as-bitcoin-ether-slide",
+      "publishedAt": "2026-03-27T11:36:18.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260327-ondo-canton-sidestep-macro-concerns-with-institutional-deals-as-bitcoin-ether-sl",
+      "localUrl": "/news/20260327-ondo-canton-sidestep-macro-concerns-with-institutional-deals-as-bitcoin-ether-sl.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin drops to two-week low as $300 million in longs are liquidated",
@@ -116,6 +147,17 @@
       "category": "市场",
       "slug": "20260327-tether-hires-kpmg-for-first-full-usdt-audit-ft-reports",
       "localUrl": "/news/20260327-tether-hires-kpmg-for-first-full-usdt-audit-ft-reports.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 $30,000,000,000 has been wiped out from Crypto market in just 60 minutes. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wZzZ4UjdwMThfRklqUjRsZXpBM2pweVl2TkR2R0JHMHdzU243SzQ4QnBkM0VmQ1NnYUJjWk9QdDlGbkJVWXZiOE5IeERmYmd3SEVJQVFNU3ZTWHYzYnhv?oc=5\" target=\"_blank\">🚨 $30,000,000,000 has been wiped out …",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wZzZ4UjdwMThfRklqUjRsZXpBM2pweVl2TkR2R0JHMHdzU243SzQ4QnBkM0VmQ1NnYUJjWk9QdDlGbkJVWXZiOE5IeERmYmd3SEVJQVFNU3ZTWHYzYnhv?oc=5",
+      "publishedAt": "2026-03-27T08:47:32.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260327-30000000000-has-been-wiped-out-from-crypto-market-in-just-60-minutes-xcom",
+      "localUrl": "/news/20260327-30000000000-has-been-wiped-out-from-crypto-market-in-just-60-minutes-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -829,24 +871,6 @@
       "localUrl": "/news/20260326-the-nyse-wants-to-bring-blockchain-to-wall-street-without-breaking-the-existing-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: The evolution of stablecoins",
-      "summary": "From niche trading instrument to global financial infrastructure: How stablecoins are extending the US dollar’s reach and what advisors need to know.",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/03/25/crypto-for-advisors-the-evolution-of-stablecoins",
-      "publishedAt": "2026-03-26T15:00:00.000Z",
-      "keywords": [
-        "CoinDesk Indices",
-        "Financial Advisors",
-        "Stablecoins",
-        "CoinDesk Indices",
-        "Crypto for Advisors",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260326-crypto-for-advisors-the-evolution-of-stablecoins",
-      "localUrl": "/news/20260326-crypto-for-advisors-the-evolution-of-stablecoins.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Stablecoin Giant Tether Expands Leading Gold-Backed Token to BNB Chain",
       "summary": "Tether’s gold-backed XAUT token, with a $2.5 billion market cap, is now available on BNB Chain following the precious metal’s recent surge.",
@@ -873,19 +897,15 @@
       "localUrl": "/news/20260326-mara-stock-pops-on-11-billion-bitcoin-sale-as-btc-miner-buys-back-convertible-de.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "The privacy paradox: regulating zero-knowledge finance in the EU and beyond",
-      "summary": "How regulators are balancing the \"untraceable\" promise of ZK-proofs with strict new anti-money laundering mandates – and what it means for the future of anonymous wealth.",
-      "url": "https://www.coindesk.com/opinion/2026/03/19/the-privacy-paradox-regulating-zero-knowledge-finance-in-the-eu-and-beyond",
-      "publishedAt": "2026-03-26T14:30:00.000Z",
-      "keywords": [
-        "Opinion",
-        "Binance",
-        "Opinion"
-      ],
-      "category": "监管",
-      "slug": "20260326-the-privacy-paradox-regulating-zero-knowledge-finance-in-the-eu-and-beyond",
-      "localUrl": "/news/20260326-the-privacy-paradox-regulating-zero-knowledge-finance-in-the-eu-and-beyond.html"
+      "source": "X Wire",
+      "title": "Get a mortgage backed by Bitcoin or USDC - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBNllCcFJ3d1dqZGNwSjh3Q2dsd3ZCX19FdlNOSUtZdWRwVkprb0dudVlWbUo0d3djTTQ5bG5pVXoyV2tWRU5vcHBOWnNORnZXLXo2VXRkeU5XdEZta25vTG56Mmk3QTQ?oc=5\" target=\"_blank\">Get a mortgage backed by Bi…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBNllCcFJ3d1dqZGNwSjh3Q2dsd3ZCX19FdlNOSUtZdWRwVkprb0dudVlWbUo0d3djTTQ5bG5pVXoyV2tWRU5vcHBOWnNORnZXLXo2VXRkeU5XdEZta25vTG56Mmk3QTQ?oc=5",
+      "publishedAt": "2026-03-26T14:07:46.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260326-get-a-mortgage-backed-by-bitcoin-or-usdc-xcom",
+      "localUrl": "/news/20260326-get-a-mortgage-backed-by-bitcoin-or-usdc-xcom.html"
     },
     {
       "source": "X Wire",
@@ -978,17 +998,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Get your house and keep your crypto. Crypto-backed mortgages are here - increasing access to homeownership for millions of Americans. Buy a home without converting your portfolio by using BTC or USDC as collateral for your down payment. Offered by Bet - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pZ1E0TzJyOUx3WG9BZExYVm5EYjdLMHd6TkNSZXh6V1F0U29kWEdDb01sV3QwYzlDNkNvdFNBSjNvNloyM3VHM2dFcnJ0YVF5eEp0NUFZWjhvazktSWc?oc=5\" target=\"_blank\">Get your house and keep your crypto. Cr…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pZ1E0TzJyOUx3WG9BZExYVm5EYjdLMHd6TkNSZXh6V1F0U29kWEdDb01sV3QwYzlDNkNvdFNBSjNvNloyM3VHM2dFcnJ0YVF5eEp0NUFZWjhvazktSWc?oc=5",
-      "publishedAt": "2026-03-26T12:35:44.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260326-get-your-house-and-keep-your-crypto-crypto-backed-mortgages-are-here-increasing-",
-      "localUrl": "/news/20260326-get-your-house-and-keep-your-crypto-crypto-backed-mortgages-are-here-increasing-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "BREAKING: 🇺🇸 $4 trillion Federal National Mortgage Association to accept bitcoin-backed mortgages for the first time — WSJ 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLOF9iRklmZS1GRVlOcDZ0Nk1QRzZTTXp0bm1wMWNjNGJCSDRXUkdRcERDMHZVNlZGUVd3bVBZYk5kaFc2NFp4a0I2bzZ2cFh2cFVhQktuSE9Kd2VEbE9lMk9kNUd3R3c?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 $4 trillion …",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLOF9iRklmZS1GRVlOcDZ0Nk1QRzZTTXp0bm1wMWNjNGJCSDRXUkdRcERDMHZVNlZGUVd3bVBZYk5kaFc2NFp4a0I2bzZ2cFh2cFVhQktuSE9Kd2VEbE9lMk9kNUd3R3c?oc=5",
@@ -1030,17 +1039,6 @@
       "category": "X热点",
       "slug": "20260326-latest-nvidia-faces-class-action-lawsuit-over-alleged-hidden-crypto-mining-gpu-s",
       "localUrl": "/news/20260326-latest-nvidia-faces-class-action-lawsuit-over-alleged-hidden-crypto-mining-gpu-s.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🇺🇸 NEW: CFTC Chair Michael Selig says, “Reshoring “true” crypto perpetual futures in the US is a key piece of the CFTC’s innovation policy agenda.” - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BZklJWkYyTmV1clF4QWxEM0VMQWdmSm9FWFJqQXVJMC1BUFg4aGlJX1FyR01wb2JROU9sdThqMDU1bFNBOC00QVdLdFZkV21xVVV3dURBUDk0bm42WEpOaTlPdVc?oc=5\" target=\"_blank\">🇺🇸 NEW: CFTC Chair Michael Se…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BZklJWkYyTmV1clF4QWxEM0VMQWdmSm9FWFJqQXVJMC1BUFg4aGlJX1FyR01wb2JROU9sdThqMDU1bFNBOC00QVdLdFZkV21xVVV3dURBUDk0bm42WEpOaTlPdVc?oc=5",
-      "publishedAt": "2026-03-26T01:30:59.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260326-new-cftc-chair-michael-selig-says-reshoring-true-crypto-perpetual-futures-in-the",
-      "localUrl": "/news/20260326-new-cftc-chair-michael-selig-says-reshoring-true-crypto-perpetual-futures-in-the.html"
     },
     {
       "source": "X Wire",
