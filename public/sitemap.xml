@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-27T09:06:30.949Z</lastmod>
+    <lastmod>2026-03-27T10:06:07.156Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-27T09:06:30.949Z</lastmod>
+    <lastmod>2026-03-27T10:06:07.156Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260327-tether-taps-kpmg-for-first-big-four-usdt-audit-amid-us-expansion-push.html</loc>
+    <lastmod>2026-03-27T09:41:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260327-bitcoin-etfs-log-biggest-outflows-in-3-weeks-as-iran-war-fears-rise.html</loc>
+    <lastmod>2026-03-27T09:36:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260327-bitcoin-falls-below-68000-as-us-10-year-treasury-yield-nears-1-year-high-of-45.html</loc>
+    <lastmod>2026-03-27T09:29:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260327-tether-hires-kpmg-for-first-full-usdt-audit-ft-reports.html</loc>
+    <lastmod>2026-03-27T09:18:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260327-investors-yank-171-million-from-bitcoin-etfs-in-largest-single-day-outflow-in-th.html</loc>
@@ -289,18 +313,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260326-cftc-chair-selig-says-blockchain-could-help-verify-ai-generated-content.html</loc>
-    <lastmod>2026-03-26T18:17:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260326-bittensors-tao-price-may-plunge-40-within-five-weeks-fractal-data.html</loc>
-    <lastmod>2026-03-26T18:15:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260326-what-is-bluesky-the-decentralized-social-media-rival-to-elon-musks-x.html</loc>
     <lastmod>2026-03-26T18:10:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -427,18 +439,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260326-mara-holdings-higher-by-10-after-selling-11-billion-in-bitcoin-to-fund-debt-buyb.html</loc>
-    <lastmod>2026-03-26T12:23:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260326-coinbase-fannie-mae-to-enable-crypto-backed-mortgages.html</loc>
-    <lastmod>2026-03-26T12:08:46.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260326-breaking-4-trillion-federal-national-mortgage-association-to-accept-bitcoin-back.html</loc>
     <lastmod>2026-03-26T11:49:05.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,6 +481,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260325-breaking-the-iran-war-could-accelerate-the-end-of-dollar-dominance-countries-may.html</loc>
+    <lastmod>2026-03-25T17:35:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260325-we-made-this-4ft-1000lb-marble-bitcoin-xcom.html</loc>
     <lastmod>2026-03-25T17:16:08.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260325-just-in-morgan-stanleys-spot-bitcoin-etf-got-an-official-listing-announcement-an.html</loc>
     <lastmod>2026-03-25T15:51:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260325-crypto-sectors-top-20-from-grayscale-research-highlights-the-top-index-eligible-.html</loc>
-    <lastmod>2026-03-25T13:00:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
