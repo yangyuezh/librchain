@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2026-03-26T23:46:16.694Z",
-  "total": 85,
+  "updatedAt": "2026-03-27T03:28:05.219Z",
+  "total": 84,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "US lawmaker presses Kansas Fed over Kraken master account approval",
+      "summary": "Kraken's Wyoming-chartered banking unit became the first crypto-native company to secure a Federal Reserve Master Account in March.",
+      "url": "https://cointelegraph.com/news/us-lawmaker-questions-kraken-fed-master-account-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-27T01:55:15.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260327-us-lawmaker-presses-kansas-fed-over-kraken-master-account-approval",
+      "localUrl": "/news/20260327-us-lawmaker-presses-kansas-fed-over-kraken-master-account-approval.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ether needs these 3 indicators to flip to trigger rally above $2.4K",
+      "summary": "Spot ETF outlflows, falling DEX volumes and a declining ETH futures premium may be preventing Ether from rallying, but flipping them could catalyze a rally to $2,400.",
+      "url": "https://cointelegraph.com/news/ether-needs-these-3-indicators-to-flip-to-trigger-rally-above-2-4k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-27T01:35:46.000Z",
+      "keywords": [
+        "Market Analysis"
+      ],
+      "category": "监管",
+      "slug": "20260327-ether-needs-these-3-indicators-to-flip-to-trigger-rally-above-24k",
+      "localUrl": "/news/20260327-ether-needs-these-3-indicators-to-flip-to-trigger-rally-above-24k.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trump to put his signature on US dollars, breaking a tradition since 1861",
+      "summary": "The Treasury Department announced plans to add US President Donald Trump’s signature to US currency, reportedly starting with the $100 bill in June.",
+      "url": "https://cointelegraph.com/news/trump-become-first-sitting-president-to-put-signature-on-us-currency?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-27T01:31:17.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260327-trump-to-put-his-signature-on-us-dollars-breaking-a-tradition-since-1861",
+      "localUrl": "/news/20260327-trump-to-put-his-signature-on-us-dollars-breaking-a-tradition-since-1861.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "GameStop didn't sell its 4,710 Bitcoin after all, filing shows",
+      "summary": "GameStop has revealed that it pledged nearly all of its Bitcoin, worth $325 million, as collateral on Coinbase as part of a covered-call strategy.",
+      "url": "https://cointelegraph.com/news/gamestop-didnt-sell-368m-bitcoin-after-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-27T00:19:48.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260327-gamestop-didnt-sell-its-4710-bitcoin-after-all-filing-shows",
+      "localUrl": "/news/20260327-gamestop-didnt-sell-its-4710-bitcoin-after-all-filing-shows.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "White House crypto czar David Sacks transfers to presidential advisory committee role",
+      "summary": "White House AI and Crypto Czar David Sacks said Thursday he was joining the President’s Council of Advisors on Science and Technology and leaving the czar role.",
+      "url": "https://www.coindesk.com/policy/2026/03/26/white-house-crypto-czar-david-sacks-transfers-to-presidential-advisory-committee-role",
+      "publishedAt": "2026-03-27T00:11:26.000Z",
+      "keywords": [
+        "Policy",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260327-white-house-crypto-czar-david-sacks-transfers-to-presidential-advisory-committee",
+      "localUrl": "/news/20260327-white-house-crypto-czar-david-sacks-transfers-to-presidential-advisory-committee.html"
+    },
     {
       "source": "Decrypt",
       "title": "David Sacks Leaves White House Crypto Role With Key Legislation Still Unresolved",
@@ -592,19 +658,6 @@
       "localUrl": "/news/20260326-the-privacy-paradox-regulating-zero-knowledge-finance-in-the-eu-and-beyond.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin dips 3% as analysis says $70K BTC price 'not obviously bearish'",
-      "summary": "Bitcoin lost its grip on $70,000 amid inflation and recession talk as analysis suggested that BTC price action lacked \"outright stress.\"",
-      "url": "https://cointelegraph.com/news/bitcoin-dips-3percent-analysis-70k-btc-price-not-obviously-bearish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-26T14:26:55.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260326-bitcoin-dips-3-as-analysis-says-70k-btc-price-not-obviously-bearish",
-      "localUrl": "/news/20260326-bitcoin-dips-3-as-analysis-says-70k-btc-price-not-obviously-bearish.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Stablecoin rewards restrictions can slow but not stop Circle's USDC, says Citigroup",
       "summary": "USDC adoption hinges on volume, not circulation, the bank said",
@@ -618,19 +671,6 @@
       "category": "监管",
       "slug": "20260326-stablecoin-rewards-restrictions-can-slow-but-not-stop-circles-usdc-says-citigrou",
       "localUrl": "/news/20260326-stablecoin-rewards-restrictions-can-slow-but-not-stop-circles-usdc-says-citigrou.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "MARA sells $1.1B in Bitcoin to buy back debt at 9% discount",
-      "summary": "MARA Holdings sold 15,133 Bitcoin for roughly $1.1 billion in March to buy back $1 billion of zero-coupon convertible notes at a discount, reducing its convertible debt by roughly 30%.",
-      "url": "https://cointelegraph.com/news/mara-sells-1-1b-btc-in-march-to-purchase-debt-at-a-discount?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-26T13:43:51.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260326-mara-sells-11b-in-bitcoin-to-buy-back-debt-at-9-discount",
-      "localUrl": "/news/20260326-mara-sells-11b-in-bitcoin-to-buy-back-debt-at-9-discount.html"
     },
     {
       "source": "X Wire",
@@ -703,43 +743,6 @@
       "category": "综合",
       "slug": "20260326-chainalysis-extends-sui-support-with-automatic-token-support",
       "localUrl": "/news/20260326-chainalysis-extends-sui-support-with-automatic-token-support.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "White House clears review of proposal to allow crypto in 401(k) retirement plans",
-      "summary": "A White House review has cleared a Labor Department proposal that could widen the path for crypto-linked exposure in 401(k) retirement plans.",
-      "url": "https://cointelegraph.com/news/white-house-review-greenlights-crypto-401-k-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-26T13:09:50.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260326-white-house-clears-review-of-proposal-to-allow-crypto-in-401k-retirement-plans",
-      "localUrl": "/news/20260326-white-house-clears-review-of-proposal-to-allow-crypto-in-401k-retirement-plans.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "How a seed phrase leak led to a $176M Bitcoin theft case",
-      "summary": "A $176 million Bitcoin theft tied to a seed phrase leak reveals how simple surveillance can bypass crypto security and drain entire wallets.",
-      "url": "https://cointelegraph.com/explained/uk-bitcoin-theft-seed-phrase-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-26T13:07:25.000Z",
-      "keywords": [
-        "Explained"
-      ],
-      "category": "监管",
-      "slug": "20260326-how-a-seed-phrase-leak-led-to-a-176m-bitcoin-theft-case",
-      "localUrl": "/news/20260326-how-a-seed-phrase-leak-led-to-a-176m-bitcoin-theft-case.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Last week, AI got eyes on crypto. Today, it gets hands 🤖👐 Trust Wallet Agent Kit is live ↓🧵 portal.trustwallet.com - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4NFhmenBLRWI0VnMtNUJ1d2pqRmJJRUxwNFN1RmswM291ZjNfMkxhNVJUMEp4THNMb25PcVViWDBPWjlPTmE5X3A4S3YwUldHeEhGQU5Pa204MzYzMldhZ2V3?oc=5\" target=\"_blank\">Last week, AI got eyes on crypto. …",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4NFhmenBLRWI0VnMtNUJ1d2pqRmJJRUxwNFN1RmswM291ZjNfMkxhNVJUMEp4THNMb25PcVViWDBPWjlPTmE5X3A4S3YwUldHeEhGQU5Pa204MzYzMldhZ2V3?oc=5",
-      "publishedAt": "2026-03-26T13:04:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260326-last-week-ai-got-eyes-on-crypto-today-it-gets-hands-trust-wallet-agent-kit-is-li",
-      "localUrl": "/news/20260326-last-week-ai-got-eyes-on-crypto-today-it-gets-hands-trust-wallet-agent-kit-is-li.html"
     },
     {
       "source": "Decrypt",
@@ -915,21 +918,6 @@
       "localUrl": "/news/20260326-uk-government-designates-xinbi-key-node-in-chinese-language-crypto-enabled-scam-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin has traded in a tight range for nearly 50 days – but this is not a \"bear flag\"",
-      "summary": "Extended range-bound price action signals structural consolidation rather than a textbook bearish continuation, despite rising downside risks.",
-      "url": "https://www.coindesk.com/markets/2026/03/26/bitcoin-has-traded-in-a-tight-range-for-nearly-50-days-but-this-is-not-a-bear-flag",
-      "publishedAt": "2026-03-26T10:09:10.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260326-bitcoin-has-traded-in-a-tight-range-for-nearly-50-days-but-this-is-not-a-bear-fl",
-      "localUrl": "/news/20260326-bitcoin-has-traded-in-a-tight-range-for-nearly-50-days-but-this-is-not-a-bear-fl.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨 LATEST: Nvidia faces class action lawsuit over alleged hidden crypto mining GPU sale revenue of over $1B. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE56cUV5V1NmQThQYlBtS2hhTUZCNkM3NzQ0NHJQaDF1cUxwc0Z3NkdERmd2LXZJX1djNWRDQUJIS1AzR2l1WGJwTDlSTHdrVUNrVUhMSEVMUmNUUjFWMkFZZkxmN3k?oc=5\" target=\"_blank\">🚨 LATEST: Nvidia faces class a…",
@@ -1045,6 +1033,17 @@
     },
     {
       "source": "X Wire",
+      "title": "First bank to do a bitcoin ETF (unthinkable couple yrs ago). But not just any bank, a big boy bank w the largest network of financial advisors. 16k advisors managing $6.2T (that’s double Merrill, Goldman, JPM). - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RZkJfZ2R4aXdnNVUtUk5iMnJJX3ZxMmZacDBJN1dWT3VRckl6b1ZyRGhxYmV5aXJpYWxOQ3A1WklwX095RG5URlZEMVNvYm0zdUllSDNkbFJYNjJZNXVORkFlWTE?oc=5\" target=\"_blank\">First bank to do a bitcoin ETF …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RZkJfZ2R4aXdnNVUtUk5iMnJJX3ZxMmZacDBJN1dWT3VRckl6b1ZyRGhxYmV5aXJpYWxOQ3A1WklwX095RG5URlZEMVNvYm0zdUllSDNkbFJYNjJZNXVORkFlWTE?oc=5",
+      "publishedAt": "2026-03-25T16:10:25.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260325-first-bank-to-do-a-bitcoin-etf-unthinkable-couple-yrs-ago-but-not-just-any-bank-",
+      "localUrl": "/news/20260325-first-bank-to-do-a-bitcoin-etf-unthinkable-couple-yrs-ago-but-not-just-any-bank-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "JUST IN: Morgan Stanley's spot Bitcoin ETF got an official listing announcement, and launch could be \"imminent\" — Bloomberg 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hNU83T2tOOGxFYVhLQmtNb1E2SjFTN2JjTFJSeWlIb19iNW1sSHRQRFUtd0w4OHVOQ18yNUY3SWRzRU93UGRnRVpLNjRZNXJER0ZwU3JIRXVxN2NYM0taRUhUdGVtODQ?oc=5\" target=\"_blank\">JUST IN: Morgan Stanley's s…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hNU83T2tOOGxFYVhLQmtNb1E2SjFTN2JjTFJSeWlIb19iNW1sSHRQRFUtd0w4OHVOQ18yNUY3SWRzRU93UGRnRVpLNjRZNXJER0ZwU3JIRXVxN2NYM0taRUhUdGVtODQ?oc=5",
@@ -1078,6 +1077,17 @@
     },
     {
       "source": "X Wire",
+      "title": "🆕 Crypto Sectors Top 20 from Grayscale Research highlights the top index-eligible tokens from Q1 '26 based on volatility-adjusted returns. $KITE $JST $DEXE $HYPE $ZRO $DCR $MORPHO $AKT $TRX $CC $RENDER $TAO $AXS $GRASS $COW $SKY $ - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZenZrenN6UUVLZ0h2QkZfREw4dWVXd3luemlTTkVNeWNKcTdtSlJDLVpCTGxzSlFGYk1kLXNvRjh5OEFMRExfcGRJd05SRFFycHZzV1MzUllJa0lyb1FR?oc=5\" target=\"_blank\">🆕 Crypto Sectors Top 20 from Grayscal…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZenZrenN6UUVLZ0h2QkZfREw4dWVXd3luemlTTkVNeWNKcTdtSlJDLVpCTGxzSlFGYk1kLXNvRjh5OEFMRExfcGRJd05SRFFycHZzV1MzUllJa0lyb1FR?oc=5",
+      "publishedAt": "2026-03-25T13:00:58.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260325-crypto-sectors-top-20-from-grayscale-research-highlights-the-top-index-eligible-",
+      "localUrl": "/news/20260325-crypto-sectors-top-20-from-grayscale-research-highlights-the-top-index-eligible-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Bitcoin spot ETFs swung to $167.23M in net inflows on Monday, snapping a 3-day outflow streak — only to reverse again Tuesday with $74.53M in outflows. Ethereum remains under pressure. Outflows have now stretched to 5 consecutive days, with another $ - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52aWZMV3BZX0NGaFpxRmVNeGJpWWpNY25uOVpxVTZOdjJLV1FnOVJoOUNjbkpoZ0RNdmNrWDNtV05VLWNiVG1Xd2dNUzl5NHlyQ2xXNmJvQWdYY2M4M1pldnJEZ20yd3M?oc=5\" target=\"_blank\">Bitcoin spot ETFs swung to …",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52aWZMV3BZX0NGaFpxRmVNeGJpWWpNY25uOVpxVTZOdjJLV1FnOVJoOUNjbkpoZ0RNdmNrWDNtV05VLWNiVG1Xd2dNUzl5NHlyQ2xXNmJvQWdYY2M4M1pldnJEZ20yd3M?oc=5",
@@ -1089,25 +1099,14 @@
     },
     {
       "source": "X Wire",
-      "title": "THIS GUY LOST $400M OF BITCOIN - BUT IT JUST MOVED Clifton Collins was an Irish drug dealer who bought 6,000 BTC in 2011-2012. In 2017, he was jailed and his belongings were sent to a dump by his landlord. Police never recovered the seed phrase. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBcVVzWlVIOEdQTVJkMnZwUFhUejZBUkNFalNKTDBXa21vRVhoUVFjQmNvY1JrU2JDWS0td3NvRFE3UWlfWGlvYWVmLW5GXy1kWVl3SEppbmt6LWM?oc=5\" target=\"_blank\">THIS GUY LOST $400M OF BITCOIN - BUT IT JUS…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBcVVzWlVIOEdQTVJkMnZwUFhUejZBUkNFalNKTDBXa21vRVhoUVFjQmNvY1JrU2JDWS0td3NvRFE3UWlfWGlvYWVmLW5GXy1kWVl3SEppbmt6LWM?oc=5",
-      "publishedAt": "2026-03-25T06:17:42.000Z",
+      "title": "Bitcoin has likely reached a floor and could rise to $150,000 by the end of 2026, according to Bernstein, which argues the cryptocurrency is being reshaped by a steady shift toward institutional ownership and financing - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RVnhEZDZWT1ZadlIwLTJUM0o2MW92OFdndXp4Sk1BR1RxeC01cWdmcll4VUhQTkUxaTRqOFZiM1MtaHVzVGtPaE13Y0puUjRxbUlXZzdFWFVwZnlJMnc?oc=5\" target=\"_blank\">Bitcoin has likely reached a floor and …",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RVnhEZDZWT1ZadlIwLTJUM0o2MW92OFdndXp4Sk1BR1RxeC01cWdmcll4VUhQTkUxaTRqOFZiM1MtaHVzVGtPaE13Y0puUjRxbUlXZzdFWFVwZnlJMnc?oc=5",
+      "publishedAt": "2026-03-24T16:16:31.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260325-this-guy-lost-400m-of-bitcoin-but-it-just-moved-clifton-collins-was-an-irish-dru",
-      "localUrl": "/news/20260325-this-guy-lost-400m-of-bitcoin-but-it-just-moved-clifton-collins-was-an-irish-dru.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Some people say gaming on a blockchain isn't coming back. Congrats to the Graveyard Hackathon winners: 1. Dungeons & Moles (a game on a blockchain) @Ailto_sAgent 2. Protocol - @MarchantDev 3. Dreamprint - @DreamprintApp 🪦🪦🪦 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fYVV6TldibGgtNENmVmZDc2tsRXJzbjMwS1FleW0wWGZEanhRMGNQSmlzdmxkZHhDTjhIYV9pX1RBSDZ5YkVSUThxYkVTYmFYRFQ0YVJuZWJsQXkyeWtn?oc=5\" target=\"_blank\">Some people say gaming on a blockchain…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fYVV6TldibGgtNENmVmZDc2tsRXJzbjMwS1FleW0wWGZEanhRMGNQSmlzdmxkZHhDTjhIYV9pX1RBSDZ5YkVSUThxYkVTYmFYRFQ0YVJuZWJsQXkyeWtn?oc=5",
-      "publishedAt": "2026-03-24T22:31:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260324-some-people-say-gaming-on-a-blockchain-isnt-coming-back-congrats-to-the-graveyar",
-      "localUrl": "/news/20260324-some-people-say-gaming-on-a-blockchain-isnt-coming-back-congrats-to-the-graveyar.html"
+      "slug": "20260324-bitcoin-has-likely-reached-a-floor-and-could-rise-to-150000-by-the-end-of-2026-a",
+      "localUrl": "/news/20260324-bitcoin-has-likely-reached-a-floor-and-could-rise-to-150000-by-the-end-of-2026-a.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -1140,19 +1139,6 @@
       "category": "基础设施",
       "slug": "20260324-solana-foundation-launches-solana-developer-platform",
       "localUrl": "/news/20260324-solana-foundation-launches-solana-developer-platform.html"
-    },
-    {
-      "source": "Ethereum Blog",
-      "title": "How L1 and L2s can build the strongest possible Ethereum",
-      "summary": "*The North Star of the Platform team is for Ethereum to scale as a cohesive system and enable confident adoption by all users. This post is intended to share our perspective on the L1 \\ L2 relationship, the roles of each layer, and how we …",
-      "url": "https://blog.ethereum.org/en/2026/03/23/l1-l2-ethereum",
-      "publishedAt": "2026-03-23T00:00:00.000Z",
-      "keywords": [
-        "Research & Development"
-      ],
-      "category": "基础设施",
-      "slug": "20260323-how-l1-and-l2s-can-build-the-strongest-possible-ethereum",
-      "localUrl": "/news/20260323-how-l1-and-l2s-can-build-the-strongest-possible-ethereum.html"
     }
   ]
 }
