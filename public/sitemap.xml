@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-27T21:49:24.610Z</lastmod>
+    <lastmod>2026-03-27T22:50:30.818Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-27T21:49:24.610Z</lastmod>
+    <lastmod>2026-03-27T22:50:30.818Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260327-california-governor-signs-order-banning-prediction-market-insider-trading.html</loc>
+    <lastmod>2026-03-27T21:37:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260327-bitcoin-traders-see-53-odds-of-sub-66k-btc-by-april-24.html</loc>
@@ -57,6 +63,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260327-anthropics-most-capable-ai-model-claude-mythos-leaks-deemed-major-cybersecurity-.html</loc>
     <lastmod>2026-03-27T18:27:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260327-the-indices-are-correcting-oil-continues-to-be-above-100-bitcoin-loses-the-trend.html</loc>
+    <lastmod>2026-03-27T18:22:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -259,18 +271,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260327-bitcoin-etfs-log-biggest-outflows-in-3-weeks-as-iran-war-fears-rise.html</loc>
-    <lastmod>2026-03-27T09:36:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260327-risk-hasnt-gone-away-its-just-being-repriced-into-the-weekend-trump-delayed-the-.html</loc>
-    <lastmod>2026-03-27T09:34:26.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260327-bitcoin-falls-below-67000-as-us-10-year-treasury-yield-nears-1-year-high-of-45.html</loc>
     <lastmod>2026-03-27T09:29:51.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -321,6 +321,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260327-tether-hires-kpmg-for-usdt-audit-brings-in-pwc-as-it-gears-up-for-us-expansion.html</loc>
     <lastmod>2026-03-27T04:16:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260327-today-bitcoin-policy-institutes-connor-brown-says-the-de-minimis-bitcoin-tax-exe.html</loc>
+    <lastmod>2026-03-27T02:50:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -459,12 +465,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260326-latest-nvidia-faces-class-action-lawsuit-over-alleged-hidden-crypto-mining-gpu-s.html</loc>
     <lastmod>2026-03-26T07:50:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260325-60-of-cryptos-market-cap-stuck-currently-bitcoin-holders-have-to-choose-custody-.html</loc>
-    <lastmod>2026-03-25T21:57:42.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
