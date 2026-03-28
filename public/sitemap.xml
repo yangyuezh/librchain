@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-28T20:47:34.322Z</lastmod>
+    <lastmod>2026-03-28T21:42:35.434Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-28T20:47:34.322Z</lastmod>
+    <lastmod>2026-03-28T21:42:35.434Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260328-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-28T20:57:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260328-kalshi-legal-woes-grow-with-washington-state-gambling-suit.html</loc>
@@ -85,8 +91,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260328-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-03-28T13:22:43.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260328-i-cant-wait-to-read-the-risks-section-of-your-ipo-prospectus-and-future-sec-fili.html</loc>
+    <lastmod>2026-03-28T13:53:15.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -117,6 +123,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260328-spot-bitcoin-etfs-break-4-week-inflow-streak-as-capital-avoids-directional-risk.html</loc>
     <lastmod>2026-03-28T07:30:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260328-who-owns-the-most-bitcoin-bitcoin-ownership-is-concentrated-across-exchanges-etf.html</loc>
+    <lastmod>2026-03-28T06:35:12.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -217,6 +229,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260327-canton-founders-claim-zk-proofs-are-too-risky-for-institutional-finance-they-hav.html</loc>
+    <lastmod>2026-03-27T19:29:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260327-just-in-us-lawmakers-unveiled-a-draft-crypto-tax-bill-proposing-a-stablecoin-exe.html</loc>
     <lastmod>2026-03-27T19:01:09.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -237,12 +255,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260327-us-lawmakers-publish-crypto-tax-proposal-without-bitcoin-tax-exemption.html</loc>
     <lastmod>2026-03-27T17:38:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260327-even-more-concerning-news-today-on-the-bitcoin-tax-front-were-going-to-need-the-.html</loc>
-    <lastmod>2026-03-27T17:22:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -313,12 +325,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260327-on-average-around-now-is-when-bitcoin-continues-its-decline-in-midterm-years-xco.html</loc>
-    <lastmod>2026-03-27T12:24:13.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260327-nyse-owner-doubles-down-on-polymarket-with-fresh-600-million-investment.html</loc>
     <lastmod>2026-03-27T12:23:17.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -367,12 +373,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260327-30000000000-has-been-wiped-out-from-crypto-market-in-just-60-minutes-xcom.html</loc>
-    <lastmod>2026-03-27T08:47:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260327-india-arrests-suspect-tied-to-myanmar-crypto-scam-compounds.html</loc>
     <lastmod>2026-03-27T06:05:55.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -387,6 +387,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260327-what-rising-us-bond-yields-mean-for-bitcoin.html</loc>
     <lastmod>2026-03-27T05:07:27.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260327-an-ethereum-ico-participant-0xd64a-sold-11552-eth2342m-at-2027-in-the-past-1-hou.html</loc>
+    <lastmod>2026-03-27T05:01:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -457,12 +463,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260326-anchorage-home-to-americas-first-federally-chartered-crypto-bank-today-announced.html</loc>
-    <lastmod>2026-03-26T17:20:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260326-latest-nic-carter-says-bitcoin-risks-lagging-ethereum-on-quantum-resistance-and-.html</loc>
     <lastmod>2026-03-26T14:16:12.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -493,14 +493,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260325-60-of-cryptos-market-cap-stuck-currently-bitcoin-holders-have-to-choose-custody-.html</loc>
-    <lastmod>2026-03-25T21:57:42.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260326-bullish-fidelity-just-bought-83000000-worth-of-bitcoin-xcom.html</loc>
+    <lastmod>2026-03-26T07:53:30.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260325-just-in-coinbase-block-river-and-the-bitcoin-policy-institute-will-advocate-for-.html</loc>
-    <lastmod>2026-03-25T21:00:32.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260325-60-of-cryptos-market-cap-stuck-currently-bitcoin-holders-have-to-choose-custody-.html</loc>
+    <lastmod>2026-03-25T21:57:42.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
