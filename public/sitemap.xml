@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-28T19:41:39.104Z</lastmod>
+    <lastmod>2026-03-28T20:47:34.322Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-28T19:41:39.104Z</lastmod>
+    <lastmod>2026-03-28T20:47:34.322Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260328-kalshi-legal-woes-grow-with-washington-state-gambling-suit.html</loc>
+    <lastmod>2026-03-28T20:39:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260328-tokenized-platform-xstocks-brings-new-private-shares-fund-on-chain.html</loc>
+    <lastmod>2026-03-28T19:43:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260328-crypto-needs-a-reset-before-the-next-bull-run.html</loc>
@@ -69,12 +81,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260328-how-ai-agents-can-reshape-arbitrage-in-prediction-markets.html</loc>
     <lastmod>2026-03-28T14:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260328-i-cant-wait-to-read-the-risks-section-of-your-ipo-prospectus-and-future-sec-fili.html</loc>
-    <lastmod>2026-03-28T13:53:15.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -235,6 +241,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260327-even-more-concerning-news-today-on-the-bitcoin-tax-front-were-going-to-need-the-.html</loc>
+    <lastmod>2026-03-27T17:22:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260327-strategy-bitmine-and-robinhood-shares-hit-monthly-lows-as-bitcoin-sinks-further.html</loc>
     <lastmod>2026-03-27T16:51:27.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -277,20 +289,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260327-ether-traders-see-further-decline-as-eth-price-slips-below-2k.html</loc>
-    <lastmod>2026-03-27T15:10:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260327-binance-australia-hit-with-69m-fine-after-investors-lose-millions-on-derivatives.html</loc>
     <lastmod>2026-03-27T15:00:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260327-incentive-design-could-change-retail-investors-fortunes.html</loc>
-    <lastmod>2026-03-27T15:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -363,6 +363,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260327-tether-taps-kpmg-for-first-big-four-usdt-audit-amid-us-expansion-push.html</loc>
     <lastmod>2026-03-27T09:41:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260327-30000000000-has-been-wiped-out-from-crypto-market-in-just-60-minutes-xcom.html</loc>
+    <lastmod>2026-03-27T08:47:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -453,12 +459,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260326-anchorage-home-to-americas-first-federally-chartered-crypto-bank-today-announced.html</loc>
     <lastmod>2026-03-26T17:20:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260326-coinbase-bitcoin-commercial-shows-how-houses-get-cheaper-when-priced-in-btc-over.html</loc>
-    <lastmod>2026-03-26T15:52:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
