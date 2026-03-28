@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-28T13:17:56.595Z</lastmod>
+    <lastmod>2026-03-28T14:48:58.955Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-28T13:17:56.595Z</lastmod>
+    <lastmod>2026-03-28T14:48:58.955Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260328-google-plans-to-back-5b-data-center-for-anthropic-report.html</loc>
+    <lastmod>2026-03-28T14:14:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260328-how-ai-agents-can-reshape-arbitrage-in-prediction-markets.html</loc>
+    <lastmod>2026-03-28T14:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260328-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-28T13:22:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260328-heres-what-next-as-anthropics-most-powerful-ai-model-leaked-via-unsecured-data-c.html</loc>
@@ -27,6 +45,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260328-warren-probes-china-based-bitmain-over-us-security-concerns-report.html</loc>
     <lastmod>2026-03-28T10:35:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260328-trump-has-started-to-panic-now-and-this-is-due-to-one-major-reason-bond-market-t.html</loc>
+    <lastmod>2026-03-28T08:19:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -139,8 +163,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260327-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-03-27T18:56:38.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260327-just-in-us-lawmakers-unveiled-a-draft-crypto-tax-bill-proposing-a-stablecoin-exe.html</loc>
+    <lastmod>2026-03-27T19:01:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -223,18 +247,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260327-bitcoin-dips-under-66k-as-oil-sparks-unsustainable-us-inflation-risk.html</loc>
-    <lastmod>2026-03-27T14:26:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260327-nyse-parent-ice-completes-new-600m-investment-in-polymarket.html</loc>
-    <lastmod>2026-03-27T14:07:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260327-anthropics-massive-claude-mythos-leak-sends-software-names-and-crypto-sharply-lo.html</loc>
     <lastmod>2026-03-27T13:56:39.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -307,6 +319,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260327-risk-hasnt-gone-away-its-just-being-repriced-into-the-weekend-trump-delayed-the-.html</loc>
+    <lastmod>2026-03-27T09:34:26.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260327-bitcoin-falls-below-67000-as-us-10-year-treasury-yield-nears-1-year-high-of-45.html</loc>
     <lastmod>2026-03-27T09:29:51.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -315,12 +333,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260327-investors-yank-171-million-from-bitcoin-etfs-in-largest-single-day-outflow-in-th.html</loc>
     <lastmod>2026-03-27T07:35:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260327-big-bitcoin-has-outperformed-the-sp-500-gold-and-oil-in-nearly-every-major-geopo.html</loc>
-    <lastmod>2026-03-27T06:40:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -369,12 +381,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260327-tether-hires-kpmg-for-usdt-audit-brings-in-pwc-as-it-gears-up-for-us-expansion.html</loc>
     <lastmod>2026-03-27T04:16:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260327-today-bitcoin-policy-institutes-connor-brown-says-the-de-minimis-bitcoin-tax-exe.html</loc>
-    <lastmod>2026-03-27T02:50:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,12 +457,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260326-coinbase-bitcoin-commercial-shows-how-houses-get-cheaper-when-priced-in-btc-over.html</loc>
-    <lastmod>2026-03-26T15:52:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260326-chainalysis-extends-sui-support-with-automatic-token-support.html</loc>
     <lastmod>2026-03-26T13:09:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,6 +481,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260326-latest-nvidia-faces-class-action-lawsuit-over-alleged-hidden-crypto-mining-gpu-s.html</loc>
+    <lastmod>2026-03-26T07:50:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260325-just-in-12-trillion-charles-schwab-says-bitcoin-volatility-has-calmed-down-as-it.html</loc>
     <lastmod>2026-03-25T19:07:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -495,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260325-by-pgarimidi-jneu_net-and-maxresnickblockchains-can-now-credibly-claim-to-have-t.html</loc>
     <lastmod>2026-03-25T15:48:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260325-just-in-k33-research-reports-that-bitcoin-may-have-found-a-market-bottom-and-is-.html</loc>
-    <lastmod>2026-03-25T13:57:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
