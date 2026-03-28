@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-28T09:51:45.577Z</lastmod>
+    <lastmod>2026-03-28T10:49:27.526Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-28T09:51:45.577Z</lastmod>
+    <lastmod>2026-03-28T10:49:27.526Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260328-warren-probes-china-based-bitmain-over-us-security-concerns-report.html</loc>
+    <lastmod>2026-03-28T10:35:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260328-potential-bitcoin-crash-below-60k-may-delay-recovery-to-2027-data.html</loc>
@@ -81,6 +87,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260327-crypto-biz-stablecoin-jitters-meet-institutional-momentum.html</loc>
     <lastmod>2026-03-27T20:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260327-crypto-mystery-whale-scoops-35m-in-xrp-in-under-an-hour-using-algorithmic-bot-an.html</loc>
+    <lastmod>2026-03-27T20:22:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -207,12 +219,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260327-anthropics-massive-claude-mythos-leak-sends-software-names-and-crypto-sharply-lo.html</loc>
     <lastmod>2026-03-27T13:56:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260327-ecb-paper-questions-if-defi-daos-are-decentralized-enough-to-sit-outside-mica.html</loc>
-    <lastmod>2026-03-27T13:36:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -463,14 +469,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260325-60-of-cryptos-market-cap-stuck-currently-bitcoin-holders-have-to-choose-custody-.html</loc>
-    <lastmod>2026-03-25T21:57:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260325-just-in-coinbase-block-river-and-the-bitcoin-policy-institute-will-advocate-for-.html</loc>
-    <lastmod>2026-03-25T21:00:32.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260326-latest-nvidia-faces-class-action-lawsuit-over-alleged-hidden-crypto-mining-gpu-s.html</loc>
+    <lastmod>2026-03-26T07:50:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
