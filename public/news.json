@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-03-28T11:38:41.076Z",
-  "total": 84,
+  "updatedAt": "2026-03-28T13:17:56.440Z",
+  "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Here's what next as Anthropic's most powerful AI model leaked via unsecured data cache",
+      "summary": "A draft blog post left in an unsecured data cache revealed a new model tier called Capybara that Anthropic says is more capable than anything it has built, with the company flagging \"unprecedented\" cybersecurity risks.",
+      "url": "https://www.coindesk.com/tech/2026/03/28/here-s-what-next-as-anthropic-s-most-powerful-ai-model-leaked-via-unsecured-data-cache",
+      "publishedAt": "2026-03-28T13:00:00.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260328-heres-what-next-as-anthropics-most-powerful-ai-model-leaked-via-unsecured-data-c",
+      "localUrl": "/news/20260328-heres-what-next-as-anthropics-most-powerful-ai-model-leaked-via-unsecured-data-c.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Watch out Bitcoin devs. Google says post-quantum migration needs to happen by 2029.",
+      "summary": "The search giant set a corporate deadline to migrate all authentication services to quantum-resistant cryptography, validating the timeline Ethereum has been building toward for eight years. Bitcoin's response so far has been silence.",
+      "url": "https://www.coindesk.com/tech/2026/03/28/watch-out-bitcoin-devs-google-says-post-quantum-migration-needs-to-happen-by-2029",
+      "publishedAt": "2026-03-28T12:00:00.000Z",
+      "keywords": [
+        "Tech",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260328-watch-out-bitcoin-devs-google-says-post-quantum-migration-needs-to-happen-by-202",
+      "localUrl": "/news/20260328-watch-out-bitcoin-devs-google-says-post-quantum-migration-needs-to-happen-by-202.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Warren probes China-based Bitmain over US security concerns: Report",
@@ -53,6 +82,17 @@
       "category": "市场",
       "slug": "20260328-xrp-risk-reward-improves-as-whale-accumulation-rises-will-price-follow",
       "localUrl": "/news/20260328-xrp-risk-reward-improves-as-whale-accumulation-rises-will-price-follow.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BHUTAN IS SELLING BITCOIN - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EZUZKMlg4RmZubE55dlM3LUJRVzQzQm5zWjZJTFlneUNnQVZiTXBfSEVtWkZzZEtpc01KUHVFVWk3Qk5JRUpKTGJ5R1MxZmpaWTQyTzdES2JwZ2c?oc=5\" target=\"_blank\">BHUTAN IS SELLING BITCOIN</a> <font color=\"…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EZUZKMlg4RmZubE55dlM3LUJRVzQzQm5zWjZJTFlneUNnQVZiTXBfSEVtWkZzZEtpc01KUHVFVWk3Qk5JRUpKTGJ5R1MxZmpaWTQyTzdES2JwZ2c?oc=5",
+      "publishedAt": "2026-03-28T05:41:32.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260328-bhutan-is-selling-bitcoin-xcom",
+      "localUrl": "/news/20260328-bhutan-is-selling-bitcoin-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -633,17 +673,6 @@
       "localUrl": "/news/20260327-tether-taps-kpmg-for-first-big-four-usdt-audit-amid-us-expansion-push.html"
     },
     {
-      "source": "X Wire",
-      "title": "Risk hasn’t gone away — it’s just being repriced into the weekend. Trump delayed the Iran decision by 10 days, but markets barely bounced. That tells you sentiment is still fragile. What to watch this weekend: • Any military escalation headlines • Hormuz-relate - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FZ0JSdm5pdkNrRHA5eXp6cDIxQV9hSldxeDlpb2paTU1sbkNZYkh5QzdabFBjUEo4aExwZFZYaU04amJybDkzQ0RyZVByczFTb2pYRnBBVFpqV3BvcFB2ZXFlVS0yTjA?oc=5\" target=\"_blank\">Risk hasn’t gone away — it’…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FZ0JSdm5pdkNrRHA5eXp6cDIxQV9hSldxeDlpb2paTU1sbkNZYkh5QzdabFBjUEo4aExwZFZYaU04amJybDkzQ0RyZVByczFTb2pYRnBBVFpqV3BvcFB2ZXFlVS0yTjA?oc=5",
-      "publishedAt": "2026-03-27T09:34:26.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260327-risk-hasnt-gone-away-its-just-being-repriced-into-the-weekend-trump-delayed-the-",
-      "localUrl": "/news/20260327-risk-hasnt-gone-away-its-just-being-repriced-into-the-weekend-trump-delayed-the-.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin falls below $67,000 as U.S. 10-year Treasury yield nears 1-year high of 4.5%",
       "summary": "Liquidation heatmap shows large liquidity cluster around $66,000, signaling potential downside target.",
@@ -661,17 +690,6 @@
       "localUrl": "/news/20260327-bitcoin-falls-below-67000-as-us-10-year-treasury-yield-nears-1-year-high-of-45.html"
     },
     {
-      "source": "X Wire",
-      "title": "🚨 $30,000,000,000 has been wiped out from Crypto market in just 60 minutes. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wZzZ4UjdwMThfRklqUjRsZXpBM2pweVl2TkR2R0JHMHdzU243SzQ4QnBkM0VmQ1NnYUJjWk9QdDlGbkJVWXZiOE5IeERmYmd3SEVJQVFNU3ZTWHYzYnhv?oc=5\" target=\"_blank\">🚨 $30,000,000,000 has been wiped out …",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wZzZ4UjdwMThfRklqUjRsZXpBM2pweVl2TkR2R0JHMHdzU243SzQ4QnBkM0VmQ1NnYUJjWk9QdDlGbkJVWXZiOE5IeERmYmd3SEVJQVFNU3ZTWHYzYnhv?oc=5",
-      "publishedAt": "2026-03-27T08:47:32.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260327-30000000000-has-been-wiped-out-from-crypto-market-in-just-60-minutes-xcom",
-      "localUrl": "/news/20260327-30000000000-has-been-wiped-out-from-crypto-market-in-just-60-minutes-xcom.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Investors yank $171 million from bitcoin ETFs in largest single-day outflow in three weeks",
       "summary": "ETFs show institutional demand for bitcoin is cooling after a strong start to the month.",
@@ -685,6 +703,17 @@
       "category": "监管",
       "slug": "20260327-investors-yank-171-million-from-bitcoin-etfs-in-largest-single-day-outflow-in-th",
       "localUrl": "/news/20260327-investors-yank-171-million-from-bitcoin-etfs-in-largest-single-day-outflow-in-th.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 BIG: Bitcoin has outperformed the S&P 500, gold, and oil in nearly every major geopolitical crisis over the past 6 years, per CryptoRank. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pU0IweXpKSGNnNVZGQndKQTlsWFV1VFhvandyU0JOREEtX3FpMXBvakhyRExrVVItNmtlVlUxUWl5R2k1WGllOG1sRHpMWGdXOXI1UnczaUg0YWJ2eld3NFB1ZG4?oc=5\" target=\"_blank\">🔥 BIG: Bitcoin has outperforme…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pU0IweXpKSGNnNVZGQndKQTlsWFV1VFhvandyU0JOREEtX3FpMXBvakhyRExrVVItNmtlVlUxUWl5R2k1WGllOG1sRHpMWGdXOXI1UnczaUg0YWJ2eld3NFB1ZG4?oc=5",
+      "publishedAt": "2026-03-27T06:40:56.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260327-big-bitcoin-has-outperformed-the-sp-500-gold-and-oil-in-nearly-every-major-geopo",
+      "localUrl": "/news/20260327-big-bitcoin-has-outperformed-the-sp-500-gold-and-oil-in-nearly-every-major-geopo.html"
     },
     {
       "source": "CoinDesk",
@@ -796,6 +825,17 @@
     },
     {
       "source": "X Wire",
+      "title": "🇺🇸 TODAY: Bitcoin Policy Institute's Connor Brown says the De Minimis Bitcoin tax exemption briefing was a success. Coinbase presented data showing the exemption could eliminate millions of unnecessary IRS filings. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HdHhSZzVGQzA0b3N2blBBcU0wU2JhZXpsYkdzSUx4QmdROG1nSldKM0UwRjFwR1RBeVBoS09nclNPaEZvc1d6TTh5SndLbzZOUk5oZ05nMHk0T2xwVFZ2TXJLbWE?oc=5\" target=\"_blank\">🇺🇸 TODAY: Bitcoin Policy Inst…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HdHhSZzVGQzA0b3N2blBBcU0wU2JhZXpsYkdzSUx4QmdROG1nSldKM0UwRjFwR1RBeVBoS09nclNPaEZvc1d6TTh5SndLbzZOUk5oZ05nMHk0T2xwVFZ2TXJLbWE?oc=5",
+      "publishedAt": "2026-03-27T02:50:58.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260327-today-bitcoin-policy-institutes-connor-brown-says-the-de-minimis-bitcoin-tax-exe",
+      "localUrl": "/news/20260327-today-bitcoin-policy-institutes-connor-brown-says-the-de-minimis-bitcoin-tax-exe.html"
+    },
+    {
+      "source": "X Wire",
       "title": "🚨NEW: With @DavidSacks’ time as a Special Government Employee now expired, it’s unclear whether there will be a replacement crypto czar as key policy initiatives like the Clarity Act and Strategic Bitcoin Reserve remain in the works, or whether he will conti - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2empJR2c1azVtaklPZ19sUUFJNFc0UTNYRGtCVU9TbEpsSEJWejlPcURpdHBtUXR2VHg0OU1WM1Z4bFJncGNpZE8yeVlIU1RPX3gxY3doT0FPMWQxLTlJY0xNa3BjZw?oc=5\" target=\"_blank\">🚨NEW: With @DavidSacks’ tim…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2empJR2c1azVtaklPZ19sUUFJNFc0UTNYRGtCVU9TbEpsSEJWejlPcURpdHBtUXR2VHg0OU1WM1Z4bFJncGNpZE8yeVlIU1RPX3gxY3doT0FPMWQxLTlJY0xNa3BjZw?oc=5",
@@ -804,20 +844,6 @@
       "category": "X热点",
       "slug": "20260327-new-with-davidsacks-time-as-a-special-government-employee-now-expired-its-unclea",
       "localUrl": "/news/20260327-new-with-davidsacks-time-as-a-special-government-employee-now-expired-its-unclea.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "White House crypto czar David Sacks transfers to presidential advisory committee role",
-      "summary": "White House AI and Crypto Czar David Sacks said Thursday he was joining the President’s Council of Advisors on Science and Technology and leaving the czar role.",
-      "url": "https://www.coindesk.com/policy/2026/03/26/white-house-crypto-czar-david-sacks-transfers-to-presidential-advisory-committee-role",
-      "publishedAt": "2026-03-27T00:11:26.000Z",
-      "keywords": [
-        "Policy",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260327-white-house-crypto-czar-david-sacks-transfers-to-presidential-advisory-committee",
-      "localUrl": "/news/20260327-white-house-crypto-czar-david-sacks-transfers-to-presidential-advisory-committee.html"
     },
     {
       "source": "Decrypt",
@@ -831,20 +857,6 @@
       "category": "监管",
       "slug": "20260326-david-sacks-leaves-white-house-crypto-role-with-key-legislation-still-unresolved",
       "localUrl": "/news/20260326-david-sacks-leaves-white-house-crypto-role-with-key-legislation-still-unresolved.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Top Democrat on House committee questions Kraken's Federal Reserve account",
-      "summary": "Maxine Waters, who would likely take the House Financial Services Committee gavel again if Democrats win the House, sent a letter to the Kansas City Fed.",
-      "url": "https://www.coindesk.com/policy/2026/03/26/top-democrat-on-house-committee-questions-kraken-s-federal-reserve-account",
-      "publishedAt": "2026-03-26T22:17:35.000Z",
-      "keywords": [
-        "Policy",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260326-top-democrat-on-house-committee-questions-krakens-federal-reserve-account",
-      "localUrl": "/news/20260326-top-democrat-on-house-committee-questions-krakens-federal-reserve-account.html"
     },
     {
       "source": "X Wire",
@@ -959,6 +971,17 @@
     },
     {
       "source": "X Wire",
+      "title": "🐳📈 Despite dipping to $68.1K today, Bitcoin's key stakeholders are accumulating. Whales and sharks with 10-10K $BTC have accumulated 61,568 BTC (+0.45%) in the past month, which is a promising sign of an eventual breakout from this range. 🤑 Besides t - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE85VjA1emR4LU4ta3lxN2lBaWxnZ1JkR1UyMTEya05YVV9fazNnUktKRlpVMkRwR3pzMVhuTWpqTWdGNlFsc0VIUGlKN3BQTkJSWHo4bDBJVEFFZlN0YjZOODJiNEo?oc=5\" target=\"_blank\">🐳📈 Despite dipping to $68.1K …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85VjA1emR4LU4ta3lxN2lBaWxnZ1JkR1UyMTEya05YVV9fazNnUktKRlpVMkRwR3pzMVhuTWpqTWdGNlFsc0VIUGlKN3BQTkJSWHo4bDBJVEFFZlN0YjZOODJiNEo?oc=5",
+      "publishedAt": "2026-03-26T18:56:11.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260326-despite-dipping-to-681k-today-bitcoins-key-stakeholders-are-accumulating-whales-",
+      "localUrl": "/news/20260326-despite-dipping-to-681k-today-bitcoins-key-stakeholders-are-accumulating-whales-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Coinbase #Bitcoin commercial shows how houses get cheaper when priced in BTC over time 👀 \"In 2012, you'd need 30,000 BTC to buy this house...today it could be yours for 5 BTC.\" You will now be able to buy a home with a bitcoin-backed mortgage 🙌 🇺🇸 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5meE5PVkh6c0RqS2RXeHdfZEsyZTJvOThLUlBLZWtsb3B1Nk9SazcxMEFvNUVaZEM5RzZxYlJheV94MjBjU2J1MFk5QWJMaFl4UUJqYzFUaGFyNGNfN3d1ZmgwVFlsdjQ?oc=5\" target=\"_blank\">Coinbase #Bitcoin commercia…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5meE5PVkh6c0RqS2RXeHdfZEsyZTJvOThLUlBLZWtsb3B1Nk9SazcxMEFvNUVaZEM5RzZxYlJheV94MjBjU2J1MFk5QWJMaFl4UUJqYzFUaGFyNGNfN3d1ZmgwVFlsdjQ?oc=5",
@@ -967,17 +990,6 @@
       "category": "X热点",
       "slug": "20260326-coinbase-bitcoin-commercial-shows-how-houses-get-cheaper-when-priced-in-btc-over",
       "localUrl": "/news/20260326-coinbase-bitcoin-commercial-shows-how-houses-get-cheaper-when-priced-in-btc-over.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "COINBASE: NO MARGIN CALLS FOR BITCOIN-BACKED MORTGAGES Coinbase says its crypto-backed mortgages will carry rates around 0.5% to 1.5% higher than a standard 30-year, depending on borrower profile. Loans feature no margin calls or collater - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HakR6WUh1M3BXYkN5MnprMnFYQlB4Z21rcUkxOHNLYzhzQ1NtN1JBWWxfbVkzVUtZVUotbXItT21GZVotUXd5bEZZbGd2REhMaE5sTTVoUDdFYThXYkRmRi1WdVdSZw?oc=5\" target=\"_blank\">COINBASE: NO MARGIN CALLS FO…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HakR6WUh1M3BXYkN5MnprMnFYQlB4Z21rcUkxOHNLYzhzQ1NtN1JBWWxfbVkzVUtZVUotbXItT21GZVotUXd5bEZZbGd2REhMaE5sTTVoUDdFYThXYkRmRi1WdVdSZw?oc=5",
-      "publishedAt": "2026-03-26T14:51:48.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260326-coinbase-no-margin-calls-for-bitcoin-backed-mortgages-coinbase-says-its-crypto-b",
-      "localUrl": "/news/20260326-coinbase-no-margin-calls-for-bitcoin-backed-mortgages-coinbase-says-its-crypto-b.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -1044,17 +1056,6 @@
     },
     {
       "source": "X Wire",
-      "title": "60% of crypto’s market cap. Stuck. Currently, Bitcoin holders have to choose: custody risk or no DeFi access. Hashi is here to change that by unlocking capital efficiency for trillions of dollars of idle BTC holdings. In-depth breakdown here 👇 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiRlViNnJGX0tYOWJjcGhjTTh5SzdEX3EydGkxZjJQeWdxTlJ1VHZncG1hNUVjeW54Q2Y3UWVnX0o3eDNERzVVbWZBdTNvZm5QYWREdERsZnhaNnVRb0JoZQ?oc=5\" target=\"_blank\">60% of crypto’s market cap. Stuck. C…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiRlViNnJGX0tYOWJjcGhjTTh5SzdEX3EydGkxZjJQeWdxTlJ1VHZncG1hNUVjeW54Q2Y3UWVnX0o3eDNERzVVbWZBdTNvZm5QYWREdERsZnhaNnVRb0JoZQ?oc=5",
-      "publishedAt": "2026-03-25T21:57:42.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260325-60-of-cryptos-market-cap-stuck-currently-bitcoin-holders-have-to-choose-custody-",
-      "localUrl": "/news/20260325-60-of-cryptos-market-cap-stuck-currently-bitcoin-holders-have-to-choose-custody-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "JUST IN: $12 trillion Charles Schwab says Bitcoin volatility \"has calmed down as it matured into a mainstream that trades on major exchanges around the world.\" 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Sb3ZPeGl6ZjQ2ay1QV3ktOHJvNHNzOVVmSWtwSkhVc0pHZE1ZMDdlQU4zbjI4NFZ4c2xaTVJZM3dQbG96N3pqbldJamxjdkcyQnV4U1RNaDJWLWI4UjhRaVFjcjVOeVk?oc=5\" target=\"_blank\">JUST IN: $12 trillion Charl…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Sb3ZPeGl6ZjQ2ay1QV3ktOHJvNHNzOVVmSWtwSkhVc0pHZE1ZMDdlQU4zbjI4NFZ4c2xaTVJZM3dQbG96N3pqbldJamxjdkcyQnV4U1RNaDJWLWI4UjhRaVFjcjVOeVk?oc=5",
@@ -1066,25 +1067,25 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: CFTC @ChairmanSelig says \"Crypto CLARITY is coming.\" - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE14akhOa3daSHpwZG96RWRSMzh1OG15Ty1GQ0xUQVpxZF9xRWZjVTRCV2VwanVyQmZHWFdRNWhJTlh0UjJVUlczclp6d2t2bVQ5THBqV1dLTlByZW4zdXc?oc=5\" target=\"_blank\">JUST IN: CFTC @ChairmanSelig says \"Cryp…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14akhOa3daSHpwZG96RWRSMzh1OG15Ty1GQ0xUQVpxZF9xRWZjVTRCV2VwanVyQmZHWFdRNWhJTlh0UjJVUlczclp6d2t2bVQ5THBqV1dLTlByZW4zdXc?oc=5",
-      "publishedAt": "2026-03-25T16:22:59.000Z",
+      "title": "JUST IN: US Senator Cynthia Lummis says lawmakers \"are working around the clock\" to advance Bitcoin & crypto market structure legislation 👏 \"America’s financial future is at stake now— we can’t wait until 2030 for another chance.\" 🇺🇸 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNcWZHUjlIMXQyUy1yQWsySGNpcDJsUFRBTzVzanlPblZyY1F2a2VpZVBWNjdzSG85SmstMDZQd3BZZEVrbEJZZXFxNnRZbXhILV9FTW04LVNoRi0xRGVSYnllZmlZWDA?oc=5\" target=\"_blank\">JUST IN: US Senator Cynthia…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNcWZHUjlIMXQyUy1yQWsySGNpcDJsUFRBTzVzanlPblZyY1F2a2VpZVBWNjdzSG85SmstMDZQd3BZZEVrbEJZZXFxNnRZbXhILV9FTW04LVNoRi0xRGVSYnllZmlZWDA?oc=5",
+      "publishedAt": "2026-03-25T17:47:40.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260325-just-in-cftc-chairmanselig-says-crypto-clarity-is-coming-xcom",
-      "localUrl": "/news/20260325-just-in-cftc-chairmanselig-says-crypto-clarity-is-coming-xcom.html"
+      "slug": "20260325-just-in-us-senator-cynthia-lummis-says-lawmakers-are-working-around-the-clock-to",
+      "localUrl": "/news/20260325-just-in-us-senator-cynthia-lummis-says-lawmakers-are-working-around-the-clock-to.html"
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: Morgan Stanley's spot Bitcoin ETF got an official listing announcement, and launch could be \"imminent\" — Bloomberg 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hNU83T2tOOGxFYVhLQmtNb1E2SjFTN2JjTFJSeWlIb19iNW1sSHRQRFUtd0w4OHVOQ18yNUY3SWRzRU93UGRnRVpLNjRZNXJER0ZwU3JIRXVxN2NYM0taRUhUdGVtODQ?oc=5\" target=\"_blank\">JUST IN: Morgan Stanley's s…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hNU83T2tOOGxFYVhLQmtNb1E2SjFTN2JjTFJSeWlIb19iNW1sSHRQRFUtd0w4OHVOQ18yNUY3SWRzRU93UGRnRVpLNjRZNXJER0ZwU3JIRXVxN2NYM0taRUhUdGVtODQ?oc=5",
-      "publishedAt": "2026-03-25T15:51:47.000Z",
+      "title": "By @PGarimidi, @jneu_net, and @MaxResnick:Blockchains can now credibly claim to have the capacity required to compete with existing financial infrastructure. Production systems today can process tens of thousands of transactions per second, with orders - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wUDlTbkk3YXczOVRnWGxwZDhGamtPNDl4NDNVVzY2M08yaDJFUXdhaGpBUjRjNmxnOGUzT1VpbFF0YmFPNzRfRndoa1E2anQ5Z1ozQTdXcDN4d2JUclVXWA?oc=5\" target=\"_blank\">By @PGarimidi, @jneu_net, and @MaxRe…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wUDlTbkk3YXczOVRnWGxwZDhGamtPNDl4NDNVVzY2M08yaDJFUXdhaGpBUjRjNmxnOGUzT1VpbFF0YmFPNzRfRndoa1E2anQ5Z1ozQTdXcDN4d2JUclVXWA?oc=5",
+      "publishedAt": "2026-03-25T15:48:08.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260325-just-in-morgan-stanleys-spot-bitcoin-etf-got-an-official-listing-announcement-an",
-      "localUrl": "/news/20260325-just-in-morgan-stanleys-spot-bitcoin-etf-got-an-official-listing-announcement-an.html"
+      "slug": "20260325-by-pgarimidi-jneu_net-and-maxresnickblockchains-can-now-credibly-claim-to-have-t",
+      "localUrl": "/news/20260325-by-pgarimidi-jneu_net-and-maxresnickblockchains-can-now-credibly-claim-to-have-t.html"
     },
     {
       "source": "X Wire",
@@ -1096,38 +1097,6 @@
       "category": "X热点",
       "slug": "20260325-just-in-k33-research-reports-that-bitcoin-may-have-found-a-market-bottom-and-is-",
       "localUrl": "/news/20260325-just-in-k33-research-reports-that-bitcoin-may-have-found-a-market-bottom-and-is-.html"
-    },
-    {
-      "source": "Chainalysis Blog",
-      "title": "Chainalysis Joins Solana Developer Platform to Bring Real-Time Compliance to Every Builder",
-      "summary": "Chainalysis is proud to be a compliance partner for Solana Developer Platform (SDP), integrating Chainalysis KYT (Know Your Transaction) directly… The post Chainalysis Joins Solana Developer Platform to Bring Real-Time Compliance to Every …",
-      "url": "https://www.chainalysis.com/blog/solana-developer-platform-real-time-compliance/",
-      "publishedAt": "2026-03-24T13:10:51.000Z",
-      "keywords": [
-        "Uncategorized",
-        "artificial intelligence",
-        "Blockchain Compliance",
-        "Chainalysis KYT",
-        "Developers",
-        "Fungible Tokens",
-        "Partnership",
-        "Solana",
-        "transaction monitoring"
-      ],
-      "category": "监管",
-      "slug": "20260324-chainalysis-joins-solana-developer-platform-to-bring-real-time-compliance-to-eve",
-      "localUrl": "/news/20260324-chainalysis-joins-solana-developer-platform-to-bring-real-time-compliance-to-eve.html"
-    },
-    {
-      "source": "Solana Blog",
-      "title": "Solana Foundation Launches Solana Developer Platform",
-      "summary": "Solana Foundation launches Solana Developer Platform, a unified API platform for institutions and enterprises building on Solana.",
-      "url": "https://solana.com/news/solana-developer-platform",
-      "publishedAt": "2026-03-24T12:50:00.000Z",
-      "keywords": [],
-      "category": "基础设施",
-      "slug": "20260324-solana-foundation-launches-solana-developer-platform",
-      "localUrl": "/news/20260324-solana-foundation-launches-solana-developer-platform.html"
     }
   ]
 }
