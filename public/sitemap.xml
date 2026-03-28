@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-28T08:55:22.156Z</lastmod>
+    <lastmod>2026-03-28T09:51:45.577Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-28T08:55:22.156Z</lastmod>
+    <lastmod>2026-03-28T09:51:45.577Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -63,6 +63,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260327-california-governor-signs-order-banning-prediction-market-insider-trading.html</loc>
     <lastmod>2026-03-27T21:37:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260327-wow-we-have-the-fee-on-morgan-stanleys-spot-bitcoin-etf-msbt-will-charge-just-01.html</loc>
+    <lastmod>2026-03-27T21:17:29.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,12 +421,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260326-bitcoin-setting-up-for-a-rising-wedge-sell-signal-btc-xcom.html</loc>
-    <lastmod>2026-03-26T19:08:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260326-just-in-coinbase-block-river-and-the-bitcoin-policy-institute-advocating-for-a-d.html</loc>
     <lastmod>2026-03-26T19:04:42.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -429,6 +429,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260326-coinbase-bitcoin-commercial-shows-how-houses-get-cheaper-when-priced-in-btc-over.html</loc>
     <lastmod>2026-03-26T15:52:59.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260326-latest-nic-carter-says-bitcoin-risks-lagging-ethereum-on-quantum-resistance-and-.html</loc>
+    <lastmod>2026-03-26T14:16:12.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -457,14 +463,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260326-latest-nvidia-faces-class-action-lawsuit-over-alleged-hidden-crypto-mining-gpu-s.html</loc>
-    <lastmod>2026-03-26T07:50:57.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260325-60-of-cryptos-market-cap-stuck-currently-bitcoin-holders-have-to-choose-custody-.html</loc>
+    <lastmod>2026-03-25T21:57:42.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260325-60-of-cryptos-market-cap-stuck-currently-bitcoin-holders-have-to-choose-custody-.html</loc>
-    <lastmod>2026-03-25T21:57:42.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260325-just-in-coinbase-block-river-and-the-bitcoin-policy-institute-will-advocate-for-.html</loc>
+    <lastmod>2026-03-25T21:00:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -495,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260325-just-in-k33-research-reports-that-bitcoin-may-have-found-a-market-bottom-and-is-.html</loc>
     <lastmod>2026-03-25T13:57:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260325-bitcoin-spot-etfs-swung-to-16723m-in-net-inflows-on-monday-snapping-a-3-day-outf.html</loc>
-    <lastmod>2026-03-25T12:43:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
