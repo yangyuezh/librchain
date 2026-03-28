@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-28T21:42:35.434Z</lastmod>
+    <lastmod>2026-03-28T22:46:50.673Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-28T21:42:35.434Z</lastmod>
+    <lastmod>2026-03-28T22:46:50.673Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -93,6 +93,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260328-i-cant-wait-to-read-the-risks-section-of-your-ipo-prospectus-and-future-sec-fili.html</loc>
     <lastmod>2026-03-28T13:53:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260328-market-the-crypto-market-gained-and-lost-300b-in-about-20-days-xcom.html</loc>
+    <lastmod>2026-03-28T13:31:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -225,12 +231,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260327-detroit-set-to-enter-michigans-battle-against-coinbase-prediction-markets.html</loc>
     <lastmod>2026-03-27T19:37:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260327-canton-founders-claim-zk-proofs-are-too-risky-for-institutional-finance-they-hav.html</loc>
-    <lastmod>2026-03-27T19:29:48.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -403,6 +403,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260327-today-bitcoin-policy-institutes-connor-brown-says-the-de-minimis-bitcoin-tax-exe.html</loc>
+    <lastmod>2026-03-27T02:50:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260327-new-with-davidsacks-time-as-a-special-government-employee-now-expired-its-unclea.html</loc>
     <lastmod>2026-03-27T02:34:20.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -493,14 +499,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260326-bullish-fidelity-just-bought-83000000-worth-of-bitcoin-xcom.html</loc>
-    <lastmod>2026-03-26T07:53:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260325-60-of-cryptos-market-cap-stuck-currently-bitcoin-holders-have-to-choose-custody-.html</loc>
-    <lastmod>2026-03-25T21:57:42.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260326-latest-nvidia-faces-class-action-lawsuit-over-alleged-hidden-crypto-mining-gpu-s.html</loc>
+    <lastmod>2026-03-26T07:50:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
