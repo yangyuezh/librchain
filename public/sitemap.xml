@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-28T16:49:40.776Z</lastmod>
+    <lastmod>2026-03-28T17:44:40.901Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-28T16:49:40.776Z</lastmod>
+    <lastmod>2026-03-28T17:44:40.901Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260328-washington-sues-kalshi-as-states-ramp-up-legal-pressure-against-prediction-marke.html</loc>
+    <lastmod>2026-03-28T17:43:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260328-kalshi-secures-license-to-offer-margin-trading-to-institutional-investors.html</loc>
+    <lastmod>2026-03-28T17:06:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260328-canada-moves-to-ban-crypto-donations-for-election-campaigns-following-uk.html</loc>
+    <lastmod>2026-03-28T16:56:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260328-why-bitcoins-compressed-valuation-offers-reduced-downside-risk-versus-stocks.html</loc>
@@ -147,12 +165,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260327-wow-we-have-the-fee-on-morgan-stanleys-spot-bitcoin-etf-msbt-will-charge-just-01.html</loc>
     <lastmod>2026-03-27T21:17:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260327-semi-shock-morgan-stanleys-bitcoin-etf-will-charge-14bps-making-it-the-cheapest-.html</loc>
-    <lastmod>2026-03-27T21:15:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -349,24 +361,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260327-bitcoin-falls-below-67000-as-us-10-year-treasury-yield-nears-1-year-high-of-45.html</loc>
-    <lastmod>2026-03-27T09:29:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260327-investors-yank-171-million-from-bitcoin-etfs-in-largest-single-day-outflow-in-th.html</loc>
-    <lastmod>2026-03-27T07:35:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260327-bitcoin-macro-risks-spike-as-ukraine-messes-with-trumps-plan-to-stabilize-oil-ma.html</loc>
-    <lastmod>2026-03-27T06:08:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260327-india-arrests-suspect-tied-to-myanmar-crypto-scam-compounds.html</loc>
     <lastmod>2026-03-27T06:05:55.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,6 +483,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260325-60-of-cryptos-market-cap-stuck-currently-bitcoin-holders-have-to-choose-custody-.html</loc>
     <lastmod>2026-03-25T21:57:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260325-just-in-coinbase-block-river-and-the-bitcoin-policy-institute-will-advocate-for-.html</loc>
+    <lastmod>2026-03-25T21:00:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
