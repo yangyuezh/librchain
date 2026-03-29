@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-29T19:02:04.779Z</lastmod>
+    <lastmod>2026-03-29T19:44:55.324Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-29T19:02:04.779Z</lastmod>
+    <lastmod>2026-03-29T19:44:55.324Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -63,6 +63,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260329-markets-move-to-price-in-rate-hikes-as-inflation-fears-and-geopolitics-reshape-f.html</loc>
     <lastmod>2026-03-29T15:46:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260329-bitcoin-rn-feels-like-when-your-parents-joined-facebook-on-one-hand-its-not-as-c.html</loc>
+    <lastmod>2026-03-29T15:18:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260326-bitcoin-ethereum-slip-as-trump-says-hes-not-desperate-to-end-iran-war.html</loc>
     <lastmod>2026-03-26T20:41:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260326-just-in-coinbase-block-river-and-the-bitcoin-policy-institute-advocating-for-a-d.html</loc>
-    <lastmod>2026-03-26T19:04:42.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
