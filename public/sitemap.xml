@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-29T16:50:09.649Z</lastmod>
+    <lastmod>2026-03-29T17:47:00.984Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-29T16:50:09.649Z</lastmod>
+    <lastmod>2026-03-29T17:47:00.984Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260329-walmart-backed-onepay-adds-tokens-in-push-to-serve-new-to-crypto-customers.html</loc>
+    <lastmod>2026-03-29T17:11:16.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260329-bitcoin-bullish-bets-hit-a-28-month-high-on-bitfinex-and-thats-music-to-bears-ea.html</loc>
+    <lastmod>2026-03-29T17:09:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260329-whats-on-the-ethereum-roadmap-glamsterdam-hegota-and-beyond.html</loc>
@@ -39,6 +51,18 @@
   <url>
     <loc>https://www.librchain.com/news/20260329-new-ethereum-project-aims-to-fix-network-fragmentation-and-improve-user-experien.html</loc>
     <lastmod>2026-03-29T15:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260329-real-world-blockchain-use-cases-xcom.html</loc>
+    <lastmod>2026-03-29T14:00:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260329-bitcoin-btc-in-danger-of-trading-red-for-6-consecutive-months-which-would-equal-.html</loc>
+    <lastmod>2026-03-29T13:40:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -133,6 +157,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260328-cz-said-bitcoin-reaching-200000-is-the-most-obvious-thing-in-the-world-to-me-xco.html</loc>
+    <lastmod>2026-03-28T20:18:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260328-tokenized-platform-xstocks-brings-new-private-shares-fund-on-chain.html</loc>
     <lastmod>2026-03-28T19:43:14.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -193,14 +223,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260328-cryptos-future-is-bright-in-the-context-of-ais-assault-on-software-firms-says-kr.html</loc>
-    <lastmod>2026-03-28T15:00:00.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260328-canton-is-not-a-blockchain-and-its-not-a-semantic-difference-this-materially-lim.html</loc>
+    <lastmod>2026-03-28T15:24:46.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260328-the-us-just-removed-the-chinese-from-el-guri-venezuelas-hydro-dam-and-the-third-.html</loc>
-    <lastmod>2026-03-28T14:25:27.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260328-cryptos-future-is-bright-in-the-context-of-ais-assault-on-software-firms-says-kr.html</loc>
+    <lastmod>2026-03-28T15:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -307,20 +337,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260328-morgan-stanley-sets-014-bitcoin-etf-fee-lowest-in-market-if-approved.html</loc>
-    <lastmod>2026-03-28T00:06:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260327-bullish-trump-says-us-will-be-the-undisputed-bitcoin-and-crypto-superpower-of-th.html</loc>
     <lastmod>2026-03-27T23:46:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260327-just-in-president-trump-says-bitcoin-is-very-powerful-so-many-people-now-want-to.html</loc>
-    <lastmod>2026-03-27T22:52:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -369,12 +387,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260327-all-to-play-for-walrus-hits-450tb-of-data-stored-amid-renewed-ai-push.html</loc>
     <lastmod>2026-03-27T16:01:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260327-crypto-stocks-battered-as-nasdaq-enters-correction-in-17-trillion-market-rout.html</loc>
-    <lastmod>2026-03-27T16:00:04.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -477,18 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260326-just-in-coinbase-block-river-and-the-bitcoin-policy-institute-advocating-for-a-d.html</loc>
     <lastmod>2026-03-26T19:04:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260326-anchorage-home-to-americas-first-federally-chartered-crypto-bank-today-announced.html</loc>
-    <lastmod>2026-03-26T17:20:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260326-just-in-3-trillion-goldman-sachs-says-bitcoin-and-crypto-prices-may-have-bottome.html</loc>
-    <lastmod>2026-03-26T17:11:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
