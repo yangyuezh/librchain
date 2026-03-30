@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-29T23:46:44.908Z</lastmod>
+    <lastmod>2026-03-30T03:36:05.671Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-29T23:46:44.908Z</lastmod>
+    <lastmod>2026-03-30T03:36:05.671Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260330-lido-dao-proposes-20m-ldo-buyback-to-reverse-historic-price-fall.html</loc>
+    <lastmod>2026-03-30T02:08:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260329-just-in-bitcoin-falls-under-65000-190000000-liquidated-from-the-crypto-market-in.html</loc>
+    <lastmod>2026-03-29T22:54:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260329-bitcoin-is-dumping-after-us-stock-market-futures-opened-in-the-red-and-oil-futur.html</loc>
+    <lastmod>2026-03-29T22:16:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260329-heres-what-happened-in-crypto-today.html</loc>
@@ -151,7 +169,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260329-future-us-governments-could-crack-down-on-crypto-without-clear-rules-coin-center.html</loc>
+    <loc>https://www.librchain.com/news/20260329-crypto-open-to-future-us-crackdowns-without-clear-rules-coin-center.html</loc>
     <lastmod>2026-03-29T06:11:46.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -217,12 +235,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260328-canada-to-ban-crypto-political-donations-canadas-bill-c-25-proposes-banning-cryp.html</loc>
-    <lastmod>2026-03-28T17:02:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260328-canada-moves-to-ban-crypto-donations-for-election-campaigns-following-uk.html</loc>
     <lastmod>2026-03-28T16:56:36.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -231,6 +243,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260328-why-bitcoins-compressed-valuation-offers-reduced-downside-risk-versus-stocks.html</loc>
     <lastmod>2026-03-28T16:39:16.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260328-weve-seen-it-once-in-2018-and-now-in-2026-bitcoin-is-heading-for-six-red-months-.html</loc>
+    <lastmod>2026-03-28T16:33:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -349,18 +367,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260328-ripple-ceo-says-stablecoins-could-be-cryptos-chatgpt-moment-for-businesses.html</loc>
-    <lastmod>2026-03-28T03:04:12.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260327-well-be-at-the-penn-blockchain-conference-for-the-next-two-days-meeting-the-bloc.html</loc>
-    <lastmod>2026-03-27T21:55:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260327-wow-we-have-the-fee-on-morgan-stanleys-spot-bitcoin-etf-msbt-will-charge-just-01.html</loc>
     <lastmod>2026-03-27T21:17:29.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -429,12 +435,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260327-bitcoin-dips-under-67k-as-geopolitical-uncertainty-treasury-yields-spook-traders.html</loc>
     <lastmod>2026-03-27T12:16:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260327-bitcoin-and-ethereum-are-dumping-172000000-worth-of-longs-have-been-liquidated-i.html</loc>
-    <lastmod>2026-03-27T10:58:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
