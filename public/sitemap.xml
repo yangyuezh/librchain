@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-30T21:55:14.746Z</lastmod>
+    <lastmod>2026-03-30T22:54:25.956Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-30T21:55:14.746Z</lastmod>
+    <lastmod>2026-03-30T22:54:25.956Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260330-us-rule-change-may-open-trillions-in-401k-funds-to-crypto.html</loc>
+    <lastmod>2026-03-30T22:00:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260330-price-predictions-330-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-hype.html</loc>
+    <lastmod>2026-03-30T22:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260330-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-30T21:59:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260330-democrats-urge-warnings-to-federal-officials-against-insider-bets-on-prediction-.html</loc>
@@ -187,6 +205,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260330-automatically-enabled-bitcoin-payments-are-rolling-out-to-eligible-us-square-sel.html</loc>
+    <lastmod>2026-03-30T16:00:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260330-just-in-eric-trumps-american-bitcoin-now-holds-7000-btc-worth-475000000-xcom.html</loc>
     <lastmod>2026-03-30T15:48:43.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -319,12 +343,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260330-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-03-30T13:20:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260330-coindesk-20-performance-update-ethereum-eth-price-rises-42-over-weekend.html</loc>
     <lastmod>2026-03-30T13:14:33.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -349,8 +367,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260330-aave-v4-goes-live-on-ethereum-after-governance-vote-clears-rollout.html</loc>
-    <lastmod>2026-03-30T13:00:00.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260330-elon-groks-bitcoin-xcom.html</loc>
+    <lastmod>2026-03-30T12:44:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -381,18 +399,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260330-midas-raises-50-million-to-tackle-pain-point-for-tokenized-asset-investors.html</loc>
     <lastmod>2026-03-30T11:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260330-coinbase-survey-finds-over-half-of-investors-dont-understand-crypto-tax.html</loc>
-    <lastmod>2026-03-30T10:30:23.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260330-the-next-crypto-crash-might-not-start-in-crypto-it-could-be-triggered-by-a-silen.html</loc>
-    <lastmod>2026-03-30T10:25:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260328-why-gamestop-put-315-million-in-bitcoin-into-a-covered-call-options-strategy.html</loc>
     <lastmod>2026-03-28T16:32:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260328-last-night-president-donald-trump-said-bitcoins-very-powerful-so-many-people-now.html</loc>
-    <lastmod>2026-03-28T13:12:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
