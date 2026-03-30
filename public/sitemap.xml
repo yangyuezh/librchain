@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-30T22:54:25.956Z</lastmod>
+    <lastmod>2026-03-30T23:49:06.897Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-30T22:54:25.956Z</lastmod>
+    <lastmod>2026-03-30T23:49:06.897Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260330-senator-questions-sec-over-treatment-of-trump-linked-crypto-businesses.html</loc>
+    <lastmod>2026-03-30T23:28:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260330-us-rule-change-may-open-trillions-in-401k-funds-to-crypto.html</loc>
@@ -127,12 +133,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260330-just-in-us-senators-introduce-the-mined-in-america-bill-to-promote-bitcoin-minin.html</loc>
-    <lastmod>2026-03-30T18:57:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260330-bitcoin-accumulation-addresses-absorb-67k-btc-as-miner-led-selling-falls-data.html</loc>
     <lastmod>2026-03-30T18:39:08.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -153,6 +153,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260330-jack-dorseys-square-auto-enables-bitcoin-payments-for-millions-of-us-businesses.html</loc>
     <lastmod>2026-03-30T18:15:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260330-the-crypto-market-structure-bill-is-coming-senators-are-expected-to-release-fina.html</loc>
+    <lastmod>2026-03-30T18:09:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -403,6 +409,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260330-anime-bitcoin-community-on-x-193-members-xcom.html</loc>
+    <lastmod>2026-03-30T08:35:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260330-great-bounce-upwards-but-nothing-confirmed-as-of-yet-on-bitcoin-all-depends-on-m.html</loc>
     <lastmod>2026-03-30T08:12:47.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -435,12 +447,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260330-now-ripple-ceo-brad-garlinghouse-says-crypto-has-gone-from-rat-poison-to-rewirin.html</loc>
     <lastmod>2026-03-30T01:20:55.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260330-bitcoin-just-hit-67000-eth-is-back-above-2000-this-came-after-trump-said-perform.html</loc>
-    <lastmod>2026-03-30T00:28:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -495,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260328-why-gamestop-put-315-million-in-bitcoin-into-a-covered-call-options-strategy.html</loc>
     <lastmod>2026-03-28T16:32:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260327-anthropics-most-capable-ai-model-claude-mythos-leaks-deemed-major-cybersecurity-.html</loc>
-    <lastmod>2026-03-27T18:27:12.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
