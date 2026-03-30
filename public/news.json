@@ -1,7 +1,86 @@
 {
-  "updatedAt": "2026-03-30T15:22:26.204Z",
+  "updatedAt": "2026-03-30T17:09:31.655Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Trump-backed American Bitcoin hits 7,000 BTC as holdings expand rapidly",
+      "summary": "Satoshis per share climbs past 660, reinforcing rapid treasury expansion since Nasdaq debut.",
+      "url": "https://www.coindesk.com/markets/2026/03/30/trump-backed-american-bitcoin-hits-7-000-btc-as-holdings-expand-rapidly",
+      "publishedAt": "2026-03-30T17:07:25.000Z",
+      "keywords": [
+        "Markets",
+        "Trump",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260330-trump-backed-american-bitcoin-hits-7000-btc-as-holdings-expand-rapidly",
+      "localUrl": "/news/20260330-trump-backed-american-bitcoin-hits-7000-btc-as-holdings-expand-rapidly.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Brothers' American Bitcoin Hits BTC Milestone as Stock Falls to Lowest Price Since IPO",
+      "summary": "The Trump brothers' Bitcoin mining firm, American Bitcoin, now holds over 7,000 BTC—but shares are down 94% from the post-IPO peak.",
+      "url": "https://decrypt.co/362712/trump-bros-american-bitcoin-milestone-stock-falls-lowest-price-ipo",
+      "publishedAt": "2026-03-30T16:52:43.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260330-trump-brothers-american-bitcoin-hits-btc-milestone-as-stock-falls-to-lowest-pric",
+      "localUrl": "/news/20260330-trump-brothers-american-bitcoin-hits-btc-milestone-as-stock-falls-to-lowest-pric.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ethereum Foundation Backs 'Economic Zone' to Solve Fragmentation Issues",
+      "summary": "Gnosis and Zisk proposed a framework for aligning infrastructure within the Ethereum ecosystem, specifically layer-2 scaling networks.",
+      "url": "https://decrypt.co/362711/ethereum-economic-zone-solve-layer-2-fragmentation",
+      "publishedAt": "2026-03-30T16:44:14.000Z",
+      "keywords": [
+        "DeFi"
+      ],
+      "category": "基础设施",
+      "slug": "20260330-ethereum-foundation-backs-economic-zone-to-solve-fragmentation-issues",
+      "localUrl": "/news/20260330-ethereum-foundation-backs-economic-zone-to-solve-fragmentation-issues.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BitGo expands Canton Coin services with trading, onchain settlement",
+      "summary": "BitGo broadens its Canton Coin offering beyond custody, reflecting efforts to build end-to-end infrastructure as tokenized assets move closer to real-world use cases.",
+      "url": "https://cointelegraph.com/news/bitgo-canton-coin-trading-settlement-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-30T16:22:50.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260330-bitgo-expands-canton-coin-services-with-trading-onchain-settlement",
+      "localUrl": "/news/20260330-bitgo-expands-canton-coin-services-with-trading-onchain-settlement.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "XRP price charts flash bottom signals as bulls defend $1.30",
+      "summary": "Technical indicators hinted at a possible reversal in XRP’s price, as traders watch whether key support levels can hold.",
+      "url": "https://cointelegraph.com/news/xrp-price-charts-flash-bottom-signals-bulls-defend-1-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-30T16:19:26.000Z",
+      "keywords": [
+        "Market Analysis"
+      ],
+      "category": "市场",
+      "slug": "20260330-xrp-price-charts-flash-bottom-signals-as-bulls-defend-130",
+      "localUrl": "/news/20260330-xrp-price-charts-flash-bottom-signals-as-bulls-defend-130.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Our plans to build a blockchain-based shared ledger have reached a major new milestone. After completing its design phase with a global group of banks, we are now shaping the ledger’s first MVP iteration, which will enable interoperability between banks’ to - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE15cmwwSTRITXREcHBIcjFxU1JNQU5wRWRFeHJQSG9QTWNuT0tjSS1HbkNESlZ3MlM0U01GN09mbWVUc19fckRvYmFFRjJPcjVWZllzZWJxeVRHWU0wcUJBb0pzeXlQZw?oc=5\" target=\"_blank\">Our plans to build a blockch…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15cmwwSTRITXREcHBIcjFxU1JNQU5wRWRFeHJQSG9QTWNuT0tjSS1HbkNESlZ3MlM0U01GN09mbWVUc19fckRvYmFFRjJPcjVWZllzZWJxeVRHWU0wcUJBb0pzeXlQZw?oc=5",
+      "publishedAt": "2026-03-30T15:28:11.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260330-our-plans-to-build-a-blockchain-based-shared-ledger-have-reached-a-major-new-mil",
+      "localUrl": "/news/20260330-our-plans-to-build-a-blockchain-based-shared-ledger-have-reached-a-major-new-mil.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin hashrate posts first-quarter drop for first time in 6 years as miners pivot to AI",
@@ -55,6 +134,32 @@
       "localUrl": "/news/20260330-the-secs-latest-crypto-guidance-still-leaves-too-much-unsaid.html"
     },
     {
+      "source": "Cointelegraph",
+      "title": "AI music needs blockchain infrastructure",
+      "summary": "AI music licensing breaks on remixes and ownership. Blockchains embed smart contract royalties and provenance, automating creator compensation at scale.",
+      "url": "https://cointelegraph.com/news/ai-music-blockchain-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-30T15:00:00.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "综合",
+      "slug": "20260330-ai-music-needs-blockchain-infrastructure",
+      "localUrl": "/news/20260330-ai-music-needs-blockchain-infrastructure.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Midas raises $50M to build instant liquidity layer for tokenized yield",
+      "summary": "Tokenization startup Midas's Series A round was led by RRE and Creandum to scale an “instant liquidity layer” for onchain yield products.",
+      "url": "https://cointelegraph.com/news/midas-raises-50-million-instant-liquidity-layer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-30T14:51:18.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260330-midas-raises-50m-to-build-instant-liquidity-layer-for-tokenized-yield",
+      "localUrl": "/news/20260330-midas-raises-50m-to-build-instant-liquidity-layer-for-tokenized-yield.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Tom Lee's BitMine Adds More Ethereum as Strategy Takes a Break From Bitcoin Buying",
       "summary": "BitMine continued its Ethereum accumulation, adding to its leading ETH treasury while Strategy took a week off from Bitcoin purchases.",
@@ -66,6 +171,19 @@
       "category": "基础设施",
       "slug": "20260330-tom-lees-bitmine-adds-more-ethereum-as-strategy-takes-a-break-from-bitcoin-buyin",
       "localUrl": "/news/20260330-tom-lees-bitmine-adds-more-ethereum-as-strategy-takes-a-break-from-bitcoin-buyin.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin analysis says $65K 'entry zone' with oil back above $100",
+      "summary": "Bitcoin continued to surprise some analysts as it held the lower end of its local range despite fresh Iran pressure on macro markets.",
+      "url": "https://cointelegraph.com/news/bitcoin-analysis-says-65k-entry-zone-with-oil-back-above-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-30T14:43:54.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260330-bitcoin-analysis-says-65k-entry-zone-with-oil-back-above-100",
+      "localUrl": "/news/20260330-bitcoin-analysis-says-65k-entry-zone-with-oil-back-above-100.html"
     },
     {
       "source": "CoinDesk",
@@ -330,6 +448,17 @@
       "localUrl": "/news/20260330-bernstein-sees-potential-bottom-for-crypto-stocks-ahead-of-q1-earnings.html"
     },
     {
+      "source": "X Wire",
+      "title": "Elon Groks Bitcoin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UZFBzMEM4dHQ1Smw5aDJvQlRIVDFQRTM2dklVTFpwcGhPVUdYdGxsRG0wNzZjd2hnSS1JSFRBTExudHpkVDFNSjdxY2YtY3VUcFFJemE4WnVicnc?oc=5\" target=\"_blank\">Elon Groks Bitcoin</a> <font color=\"#6f6f6f…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UZFBzMEM4dHQ1Smw5aDJvQlRIVDFQRTM2dklVTFpwcGhPVUdYdGxsRG0wNzZjd2hnSS1JSFRBTExudHpkVDFNSjdxY2YtY3VUcFFJemE4WnVicnc?oc=5",
+      "publishedAt": "2026-03-30T12:44:19.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260330-elon-groks-bitcoin-xcom",
+      "localUrl": "/news/20260330-elon-groks-bitcoin-xcom.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Women creators reclaim ownership through Web3 payment rails",
       "summary": "Women creators gain financial sovereignty through Web3 payment rails. Smart contracts deliver instant global payments without banks gatekeeping creative income.",
@@ -370,6 +499,17 @@
       "category": "市场",
       "slug": "20260330-bitcoin-rises-as-trump-says-us-in-talks-with-new-regime-in-iran-threatens-oil-in",
       "localUrl": "/news/20260330-bitcoin-rises-as-trump-says-us-in-talks-with-new-regime-in-iran-threatens-oil-in.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "7,000+ BTC and still climbing. Since our Nasdaq debut: ~3x growth in Bitcoin Reserve >2x growth in Satoshis per Share Currently ranked #16 globally among publicly-traded Bitcoin companies This is just the beginning. @ABTC - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwZHVsOGJIcklEM2tUYTV6cW9ZSEJ5T0lUQmVyNzh1bnlRWmQybTg3bDdSc0g4dkExU0ZXTm9sQzVsejhjV2luTnJJUkt6MDllS2RON3lMZV8?oc=5\" target=\"_blank\">7,000+ BTC and still climbing. Since our Nasdaq…",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwZHVsOGJIcklEM2tUYTV6cW9ZSEJ5T0lUQmVyNzh1bnlRWmQybTg3bDdSc0g4dkExU0ZXTm9sQzVsejhjV2luTnJJUkt6MDllS2RON3lMZV8?oc=5",
+      "publishedAt": "2026-03-30T11:45:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260330-7000-btc-and-still-climbing-since-our-nasdaq-debut-3x-growth-in-bitcoin-reserve-",
+      "localUrl": "/news/20260330-7000-btc-and-still-climbing-since-our-nasdaq-debut-3x-growth-in-bitcoin-reserve-.html"
     },
     {
       "source": "Cointelegraph",
@@ -595,34 +735,6 @@
       "localUrl": "/news/20260330-breaking-someone-has-opened-a-51553000-brent-oil-short-position-with-5x-leverage.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Yield-hungry bitcoin holders may be keeping BTC stuck in a sideways grind",
-      "summary": "Yield hungry investors seem to have influenced market flows such that they limit price swings.",
-      "url": "https://www.coindesk.com/markets/2026/03/30/the-bitcoin-market-remains-boring-investors-chasing-yields-may-be-partly-to-blame",
-      "publishedAt": "2026-03-30T06:15:30.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260330-yield-hungry-bitcoin-holders-may-be-keeping-btc-stuck-in-a-sideways-grind",
-      "localUrl": "/news/20260330-yield-hungry-bitcoin-holders-may-be-keeping-btc-stuck-in-a-sideways-grind.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ethereum price risks falling to $1.2K next, analyst warns",
-      "summary": "Ethereum is flashing a warning of a familiar bull trap that preceded 45% and 48% drops in the past, raising risks of a fresh breakdown.",
-      "url": "https://cointelegraph.com/news/eth-price-risks-falling-to-1-2k-next-analysis-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-30T06:10:46.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "基础设施",
-      "slug": "20260330-ethereum-price-risks-falling-to-12k-next-analyst-warns",
-      "localUrl": "/news/20260330-ethereum-price-risks-falling-to-12k-next-analyst-warns.html"
-    },
-    {
       "source": "X Wire",
       "title": "THE ETHEREUM FOUNDATION IS STAKING ETH The Ethereum Foundation just staked $46.2M of ETH. This is more ETH than they have EVER staked before. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zSnVpdWtnUEdtN2VkLVpnZjl2Y19kdWw3M3ZXUzI5MkdIRll4MEp1MEJsTlNkZjB0eFA0UnpPYlZzcGFzajhHbXI3ZVppdEVoVTlwLW9fVkhNaFU?oc=5\" target=\"_blank\">THE ETHEREUM FOUNDATION IS STAKING ETH The …",
@@ -647,19 +759,6 @@
       "localUrl": "/news/20260330-bitcoin-etfs-bleed-290m-as-risk-off-mood-deepens.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Polymarket trader makes $67K after UFC announcer briefly mixes up winner",
-      "summary": "The Polymarket trader quickly bought $676 worth of one-cent shares in Tyrell Fortune winning the fight after he realized the UFC announcer called out the wrong winner.",
-      "url": "https://cointelegraph.com/news/polymarket-trader-profits-67000-ufc-fight-announcement-blunder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-30T05:24:18.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260330-polymarket-trader-makes-67k-after-ufc-announcer-briefly-mixes-up-winner",
-      "localUrl": "/news/20260330-polymarket-trader-makes-67k-after-ufc-announcer-briefly-mixes-up-winner.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Three Reasons Why Circle’s Stock Is Under Pressure",
       "summary": "A yield ban, a rival's audit, and an unresolved legislative clock have left Circle's stock in limbo for the past week.",
@@ -673,43 +772,15 @@
       "localUrl": "/news/20260330-three-reasons-why-circles-stock-is-under-pressure.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "DeFi lender Aave launches on OKX’s Ethereum L2, X Layer",
-      "summary": "OKX’s X Layer is the 21st blockchain to integrate Aave, which recently surpassed the $1 trillion mark in cumulative lending volume.",
-      "url": "https://cointelegraph.com/news/okx-integrates-aave-on-eth-l2-x-layer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-30T04:15:20.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260330-defi-lender-aave-launches-on-okxs-ethereum-l2-x-layer",
-      "localUrl": "/news/20260330-defi-lender-aave-launches-on-okxs-ethereum-l2-x-layer.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Fed’s Warsh hearing could come as soon as week of April 13: Punchbowl",
-      "summary": "The Senate Banking Committee hearing for the Fed chair nominee is expected around mid-April. Senator Elizabeth Warren has pushed back against the proposed Fed appointment.",
-      "url": "https://cointelegraph.com/news/fed-nominee-kevin-warsh-nomination-hearing-as-soon-as-april-13-punchbowl?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-30T04:01:13.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260330-feds-warsh-hearing-could-come-as-soon-as-week-of-april-13-punchbowl",
-      "localUrl": "/news/20260330-feds-warsh-hearing-could-come-as-soon-as-week-of-april-13-punchbowl.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Prediction market transactions surge on geopolitical bets, media coverage",
-      "summary": "Monthly notional trading volume for prediction markets has reached roughly $23.7 billion so far in March, up sharply from $1.9 billion at the same time last year.",
-      "url": "https://cointelegraph.com/news/prediction-market-transactions-growth-march-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-30T03:35:41.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260330-prediction-market-transactions-surge-on-geopolitical-bets-media-coverage",
-      "localUrl": "/news/20260330-prediction-market-transactions-surge-on-geopolitical-bets-media-coverage.html"
+      "source": "X Wire",
+      "title": "🔥 NOW: Ripple CEO Brad Garlinghouse says crypto has gone from \"rat poison\" to rewiring the financial system as major companies race to adopt stablecoins and digital assets. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GdlVWQk5ZaWF4OUFkRVBsUnNCS1VLSjVPVGw2Nks5QlgzVlhMbGpCc0NBNGpNOGdYQk9Lel9jdmhUTVBidklqTzJnZVgtMnBxOVlCR1NEV2ExSlZBT2syM1VKRUo?oc=5\" target=\"_blank\">🔥 NOW: Ripple CEO Brad Garling…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GdlVWQk5ZaWF4OUFkRVBsUnNCS1VLSjVPVGw2Nks5QlgzVlhMbGpCc0NBNGpNOGdYQk9Lel9jdmhUTVBidklqTzJnZVgtMnBxOVlCR1NEV2ExSlZBT2syM1VKRUo?oc=5",
+      "publishedAt": "2026-03-30T01:20:55.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260330-now-ripple-ceo-brad-garlinghouse-says-crypto-has-gone-from-rat-poison-to-rewirin",
+      "localUrl": "/news/20260330-now-ripple-ceo-brad-garlinghouse-says-crypto-has-gone-from-rat-poison-to-rewirin.html"
     },
     {
       "source": "X Wire",
@@ -757,14 +828,14 @@
     },
     {
       "source": "X Wire",
-      "title": "🔥 ETH: Over 61% of all tokenized assets are on Ethereum, per Token Terminal. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kUEZCYUdSb3cxT21tazJGdGlwZkcta05QODRkaUdjc1QwZ3hROVIwcFNyWFlhY3p5Nkx0T1BZNE5mUEgydU01dGtwYlFSU24wdVlXT01qbG1YWGE2NVVuZDhaN2U?oc=5\" target=\"_blank\">🔥 ETH: Over 61% of all tokeniz…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kUEZCYUdSb3cxT21tazJGdGlwZkcta05QODRkaUdjc1QwZ3hROVIwcFNyWFlhY3p5Nkx0T1BZNE5mUEgydU01dGtwYlFSU24wdVlXT01qbG1YWGE2NVVuZDhaN2U?oc=5",
-      "publishedAt": "2026-03-29T18:30:37.000Z",
+      "title": "Bitcoin BTC/USD long positions on Bitfinex have risen to around 79,343, the highest since November 2023. Historically, this metric has acted as a contrarian indicator, with surges in longs often coinciding with price tops or preceding declines. Analysts suggest - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5ajdTR2JMMEVJY1lOOVhpaEJReVFDbWVwMUtqMmdVMFE0VTRTUHhzTVk2cGwxMmtjNC1TdTV1S2k1SHhlNWtIT19uNmJKcFZESG9DUGJ3TFZCM0pTc0FlUlR1Yw?oc=5\" target=\"_blank\">Bitcoin BTC/USD long positions o…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5ajdTR2JMMEVJY1lOOVhpaEJReVFDbWVwMUtqMmdVMFE0VTRTUHhzTVk2cGwxMmtjNC1TdTV1S2k1SHhlNWtIT19uNmJKcFZESG9DUGJ3TFZCM0pTc0FlUlR1Yw?oc=5",
+      "publishedAt": "2026-03-29T17:26:48.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260329-eth-over-61-of-all-tokenized-assets-are-on-ethereum-per-token-terminal-xcom",
-      "localUrl": "/news/20260329-eth-over-61-of-all-tokenized-assets-are-on-ethereum-per-token-terminal-xcom.html"
+      "slug": "20260329-bitcoin-btcusd-long-positions-on-bitfinex-have-risen-to-around-79343-the-highest",
+      "localUrl": "/news/20260329-bitcoin-btcusd-long-positions-on-bitfinex-have-risen-to-around-79343-the-highest.html"
     },
     {
       "source": "Decrypt",
@@ -791,17 +862,6 @@
       "localUrl": "/news/20260329-bitcoin-rn-feels-like-when-your-parents-joined-facebook-on-one-hand-its-not-as-c.html"
     },
     {
-      "source": "X Wire",
-      "title": "💥BREAKING: Several AI models have begun misbehaving, disobeying direct commands from humans, and bypassing safeguards. In just 6 months, AI misbehavior has increased by 500%. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nZHJqM2I2M2RDWWEwUjUwa3QyZjd0aHM1ZzA3eFQ2WDJDYllEenQ0RnZKOVI2V2g3dUFyZ0FKYUFtbmk3U1pRTEhBSGFhdVdiLWlqRVRoaEZCYnBCVDNZTlJR?oc=5\" target=\"_blank\">💥BREAKING: Several AI models have…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nZHJqM2I2M2RDWWEwUjUwa3QyZjd0aHM1ZzA3eFQ2WDJDYllEenQ0RnZKOVI2V2g3dUFyZ0FKYUFtbmk3U1pRTEhBSGFhdVdiLWlqRVRoaEZCYnBCVDNZTlJR?oc=5",
-      "publishedAt": "2026-03-29T13:09:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260329-breaking-several-ai-models-have-begun-misbehaving-disobeying-direct-commands-fro",
-      "localUrl": "/news/20260329-breaking-several-ai-models-have-begun-misbehaving-disobeying-direct-commands-fro.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Xiaomi MiMo v2 Pro Review: The AI Model So Good It Was Mistaken for DeepSeek V4",
       "summary": "Xiaomi's MiMo V2 family arrives quietly but lands hard—a trillion-parameter AI challenger that nobody in the West saw coming.",
@@ -824,17 +884,6 @@
       "category": "X热点",
       "slug": "20260329-breaking-president-trump-has-approved-plans-for-a-ground-invasion-into-iran-whic",
       "localUrl": "/news/20260329-breaking-president-trump-has-approved-plans-for-a-ground-invasion-into-iran-whic.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 NOW: Goldman Sachs CEO now personally owns Bitcoin after previously dismissing it. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rakRKMVpJdzhyczNfR1czZUN3ejhXTkF6cWpOcVhIb0xIOTg2UVJZQXpZWXcxSUQyLVVIQ0hBc3oydlpERHo1SkNFMWExTVdfckFSZDItNWw1aGE2Sk9LdURkLUI?oc=5\" target=\"_blank\">🚨 NOW: Goldman Sachs CEO now p…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rakRKMVpJdzhyczNfR1czZUN3ejhXTkF6cWpOcVhIb0xIOTg2UVJZQXpZWXcxSUQyLVVIQ0hBc3oydlpERHo1SkNFMWExTVdfckFSZDItNWw1aGE2Sk9LdURkLUI?oc=5",
-      "publishedAt": "2026-03-29T02:30:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260329-now-goldman-sachs-ceo-now-personally-owns-bitcoin-after-previously-dismissing-it",
-      "localUrl": "/news/20260329-now-goldman-sachs-ceo-now-personally-owns-bitcoin-after-previously-dismissing-it.html"
     },
     {
       "source": "X Wire",
@@ -895,25 +944,14 @@
     },
     {
       "source": "X Wire",
-      "title": "@solana - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiN0FVX3lxTE5hNVBrbk10b2M3Z3F1bjFlYnIydFRmdUtPLThvR1hzLUpHTW5rMTUyeVpwYVNIamc?oc=5\" target=\"_blank\">@solana</a> <font color=\"#6f6f6f\">x.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE5hNVBrbk10b2M3Z3F1bjFlYnIydFRmdUtPLThvR1hzLUpHTW5rMTUyeVpwYVNIamc?oc=5",
-      "publishedAt": "2026-03-28T10:44:27.000Z",
+      "title": "🔥 BIG: Crypto ATM spotted in South Africa. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE41dFZKUEdoS2NNVkNvNTk5OXl6X0RkZEV4RzlXSG91ZHhkSjFPVHZ1djVIZDYyX0k5NExyLWh3aFhlTTlJN0ZTNVl0RE5nUGFvMGZJZ1BEdnotdXFuWnhJdkllUXU?oc=5\" target=\"_blank\">🔥 BIG: Crypto ATM spotted in S…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41dFZKUEdoS2NNVkNvNTk5OXl6X0RkZEV4RzlXSG91ZHhkSjFPVHZ1djVIZDYyX0k5NExyLWh3aFhlTTlJN0ZTNVl0RE5nUGFvMGZJZ1BEdnotdXFuWnhJdkllUXU?oc=5",
+      "publishedAt": "2026-03-28T09:30:59.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260328-solana-xcom",
-      "localUrl": "/news/20260328-solana-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "We’ll be at the Penn Blockchain Conference for the next two days 🙌 Meeting the blockchain community at UPenn for sharings, open Q&As, booth and networking with @yzilabs. Come find us our booth 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XTTBGOXZFWGxlMFhfR0h2ZjA0akZFalNOWUhhbEluUFgyY2I1OXVfSEVWTExkaVk5c2dLTWVmZ0w4aHFZZU11Yzlobm4tcnljN0NfdGhUNlRveWdGcmc?oc=5\" target=\"_blank\">We’ll be at the Penn Blockchain Confere…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XTTBGOXZFWGxlMFhfR0h2ZjA0akZFalNOWUhhbEluUFgyY2I1OXVfSEVWTExkaVk5c2dLTWVmZ0w4aHFZZU11Yzlobm4tcnljN0NfdGhUNlRveWdGcmc?oc=5",
-      "publishedAt": "2026-03-27T21:55:47.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260327-well-be-at-the-penn-blockchain-conference-for-the-next-two-days-meeting-the-bloc",
-      "localUrl": "/news/20260327-well-be-at-the-penn-blockchain-conference-for-the-next-two-days-meeting-the-bloc.html"
+      "slug": "20260328-big-crypto-atm-spotted-in-south-africa-xcom",
+      "localUrl": "/news/20260328-big-crypto-atm-spotted-in-south-africa-xcom.html"
     },
     {
       "source": "X Wire",
@@ -925,17 +963,6 @@
       "category": "X热点",
       "slug": "20260327-just-in-morgan-stanleys-spot-bitcoin-etf-will-charge-the-cheapest-fee-on-the-mar",
       "localUrl": "/news/20260327-just-in-morgan-stanleys-spot-bitcoin-etf-will-charge-the-cheapest-fee-on-the-mar.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "WOW. We have the fee on Morgan Stanley's spot bitcoin ETF $MSBT. Will charge just 0.14% !!! Big move here. They are not messing around. Likely to launch in early April. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ReU0wcGhfVGZ1cHFiRE9WVmoyRTNIcFlYbEplT3d3Ymc1cGxJZ0RNaFlvLVp6bmwtWVdiekhwUXBwa1R6cExORDY4NjBMZW5lZ2hxcnQ0R2dIUXc?oc=5\" target=\"_blank\">WOW. We have the fee on Morgan Stanley's sp…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ReU0wcGhfVGZ1cHFiRE9WVmoyRTNIcFlYbEplT3d3Ymc1cGxJZ0RNaFlvLVp6bmwtWVdiekhwUXBwa1R6cExORDY4NjBMZW5lZ2hxcnQ0R2dIUXc?oc=5",
-      "publishedAt": "2026-03-27T21:17:29.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260327-wow-we-have-the-fee-on-morgan-stanleys-spot-bitcoin-etf-msbt-will-charge-just-01",
-      "localUrl": "/news/20260327-wow-we-have-the-fee-on-morgan-stanleys-spot-bitcoin-etf-msbt-will-charge-just-01.html"
     },
     {
       "source": "Decrypt",
@@ -1079,32 +1106,6 @@
       "category": "监管",
       "slug": "20260327-india-arrests-suspect-tied-to-myanmar-crypto-scam-compounds",
       "localUrl": "/news/20260327-india-arrests-suspect-tied-to-myanmar-crypto-scam-compounds.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "What Rising US Bond Yields Mean for Bitcoin",
-      "summary": "Oil-driven inflation fears and rising bond yields are tightening financial conditions and steering equities and cryptocurrencies.",
-      "url": "https://decrypt.co/362551/what-rising-us-bond-yields-mean-for-bitcoin",
-      "publishedAt": "2026-03-27T05:07:27.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "DeFi",
-      "slug": "20260327-what-rising-us-bond-yields-mean-for-bitcoin",
-      "localUrl": "/news/20260327-what-rising-us-bond-yields-mean-for-bitcoin.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Judge Blocks Pentagon From Branding Anthropic a National Security Threat",
-      "summary": "The move could raise limits on how agencies can penalize companies over policy disagreements in the future, experts say.",
-      "url": "https://decrypt.co/362548/judge-blocks-pentagon-anthropic-national-security-threat",
-      "publishedAt": "2026-03-27T04:16:49.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260327-judge-blocks-pentagon-from-branding-anthropic-a-national-security-threat",
-      "localUrl": "/news/20260327-judge-blocks-pentagon-from-branding-anthropic-a-national-security-threat.html"
     }
   ]
 }
