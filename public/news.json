@@ -1,7 +1,74 @@
 {
-  "updatedAt": "2026-03-31T05:51:58.924Z",
+  "updatedAt": "2026-03-31T07:43:00.992Z",
   "total": 82,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Democrats press CFTC, ethics watchdog on prediction market insider trading",
+      "summary": "Prediction markets are facing increasing scrutiny over allegations of insider trading, prompting Kalshi and Polymarket to plan guardrails to curb potential incidents.",
+      "url": "https://cointelegraph.com/news/us-lawmakers-insider-trading-prediction-markets-cftc-stock-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-31T07:11:55.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260331-democrats-press-cftc-ethics-watchdog-on-prediction-market-insider-trading",
+      "localUrl": "/news/20260331-democrats-press-cftc-ethics-watchdog-on-prediction-market-insider-trading.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin demand falters as 'real' interest rates surge",
+      "summary": "Rising U.S. real yields, especially on 10-year TIPS, pose a headwind to zero-yielding risk assets like bitcoin.",
+      "url": "https://www.coindesk.com/markets/2026/03/31/bitcoin-demand-falters-as-real-interest-rates-surge",
+      "publishedAt": "2026-03-31T06:52:33.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260331-bitcoin-demand-falters-as-real-interest-rates-surge",
+      "localUrl": "/news/20260331-bitcoin-demand-falters-as-real-interest-rates-surge.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto exchange KuCoin agrees to $500K settlement, ending CFTC case",
+      "summary": "KuCoin’s parent company will pay $500,000 to resolve CFTC charges, marking a fraction of the $300 million it previously agreed to pay the DOJ over similar charges.",
+      "url": "https://cointelegraph.com/news/kucoin-fined-500k-as-cftc-cases-ends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-31T06:49:14.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260331-crypto-exchange-kucoin-agrees-to-500k-settlement-ending-cftc-case",
+      "localUrl": "/news/20260331-crypto-exchange-kucoin-agrees-to-500k-settlement-ending-cftc-case.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Quantum computers need fewer qubits to crack crypto than thought: Google",
+      "summary": "Google has updated its estimates of the quantum computing resources needed to break elliptic curve cryptography.",
+      "url": "https://cointelegraph.com/news/quantum-computers-need-far-less-power-crack-crypto-says-google?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-31T06:27:02.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260331-quantum-computers-need-fewer-qubits-to-crack-crypto-than-thought-google",
+      "localUrl": "/news/20260331-quantum-computers-need-fewer-qubits-to-crack-crypto-than-thought-google.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Dubai sets formal rules for crypto exchange-traded derivatives",
+      "summary": "Dubai’s VARA has set formal rules for crypto exchange-traded derivatives, allowing retail access under suitability checks, margin controls and leverage limits.",
+      "url": "https://cointelegraph.com/news/dubai-vara-crypto-derivatives-framework-retail-leverage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-31T06:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260331-dubai-sets-formal-rules-for-crypto-exchange-traded-derivatives",
+      "localUrl": "/news/20260331-dubai-sets-formal-rules-for-crypto-exchange-traded-derivatives.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin holds $67,500 as Trump signals he may end Iran war with Hormuz still shut",
@@ -28,6 +95,19 @@
       "category": "监管",
       "slug": "20260331-new-us-rule-seeks-to-open-8t-retirement-market-to-crypto",
       "localUrl": "/news/20260331-new-us-rule-seeks-to-open-8t-retirement-market-to-crypto.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitmine scoops $147M of ETH in its biggest week of buying this year",
+      "summary": "Bitmine bought over 71,000 Ether over the past week, adding to the 238,244 Ether it acquired over the previous four weeks.",
+      "url": "https://cointelegraph.com/news/bitmine-extends-ether-buying-streak-five-weeks-147-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-31T05:45:55.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260331-bitmine-scoops-147m-of-eth-in-its-biggest-week-of-buying-this-year",
+      "localUrl": "/news/20260331-bitmine-scoops-147m-of-eth-in-its-biggest-week-of-buying-this-year.html"
     },
     {
       "source": "CoinDesk",
@@ -116,7 +196,7 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨 CRITICAL: Active supply chain attack on axios -- one of npm's most depended-on packages. The latest axios@1.14.1 now pulls in plain-crypto-js@4.2.1, a package that did not exist before today. This is a live compromise. This is textbook supply chain install - x.com",
+      "title": "🚨 CRITICAL: Active supply chain attack on axios -- one of npm's most depended-on packages. The latest [email protected] now pulls in [email protected], a package that did not exist before today. This is a live compromise. This is textbook supply chain installer - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE94U2pzTDVIdDRFbjdsQkVINjJ5Tjh1Y2JfZk5Ec0hHUVdGN0dfdFNsZWlCOVM5ODQzOTdrOTloVVJRY29OMXNrVVlRcUJNWHNqSDc3YjRHRGxjMGM?oc=5\" target=\"_blank\">🚨 CRITICAL: Active supply chain attack on …",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94U2pzTDVIdDRFbjdsQkVINjJ5Tjh1Y2JfZk5Ec0hHUVdGN0dfdFNsZWlCOVM5ODQzOTdrOTloVVJRY29OMXNrVVlRcUJNWHNqSDc3YjRHRGxjMGM?oc=5",
       "publishedAt": "2026-03-31T02:35:11.000Z",
@@ -166,7 +246,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Bitcoin data points to ‘rare’ trading setup for relief rally to $71K",
+      "title": "Bitcoin data points to rare trading setup for relief rally to $71K",
       "summary": "A notable bid-ask imbalance for Bitcoin exists near $66,000, possibly raising the chance for a relief rally to $71,000.",
       "url": "https://cointelegraph.com/news/bitcoin-data-points-to-rare-trading-setup-for-relief-rally-to-dollar71k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-30T23:48:42.000Z",
@@ -296,7 +376,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "NFL asks prediction markets to act on ‘easily manipulated‘ bets",
+      "title": "NFL asks prediction markets to act on ‘easily manipulated’ bets",
       "summary": "CFTC Chair Michael Selig signaled that the agency would defer to the football league in calling for changes to event contracts that could be manipulated by a single person.",
       "url": "https://cointelegraph.com/news/nfl-asks-prediction-markets-to-act-on-easily-manipulated-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-30T21:07:35.000Z",
@@ -338,13 +418,13 @@
     {
       "source": "Cointelegraph",
       "title": "Hyperliquid whale opens $53M Bitcoin short: Should traders take notice?",
-      "summary": "A $53 million Bitcoin short position from a trader on Hyperliquid DEX could be a sign that pro traders expect BTC downside this week.",
+      "summary": "A $53 million Bitcoin short on Hyperliquid highlights bearish positioning as traders navigate geopolitical risks, regulation concerns and macro data.",
       "url": "https://cointelegraph.com/news/hyperliquid-whale-opens-53m-bitcoin-short-should-traders-take-notice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-30T20:56:27.000Z",
       "keywords": [
         "Market Analysis"
       ],
-      "category": "DeFi",
+      "category": "监管",
       "slug": "20260330-hyperliquid-whale-opens-53m-bitcoin-short-should-traders-take-notice",
       "localUrl": "/news/20260330-hyperliquid-whale-opens-53m-bitcoin-short-should-traders-take-notice.html"
     },
@@ -418,7 +498,7 @@
     {
       "source": "Cointelegraph",
       "title": "Mitsubishi adopts JPMorgan blockchain for corporate payments",
-      "summary": "JPMorgan’s Kinexys network is gaining traction among corporations as blockchain-based payment rails scale toward $10 billion in daily transaction volume.",
+      "summary": "Mitsubishi plans to use JPMorgan’s Kinexys network for global payments as the bank targets $10 billion in daily blockchain transaction volume.",
       "url": "https://cointelegraph.com/news/mitsubishi-jpmorgan-kinexys-blockchain-corporate-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-30T19:39:32.000Z",
       "keywords": [
@@ -481,19 +561,6 @@
       "localUrl": "/news/20260330-bitcoin-accumulation-addresses-absorb-67k-btc-as-miner-led-selling-falls-data.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "“I’m Confused About What Bitcoin Actually Is” — Ran Neuner Questions Crypto’s Core Narrative",
-      "summary": "In a Cointelegraph interview, Ran Neuner ponders Bitcoin’s identity crisis, market risks and the growing impact of macro trends.",
-      "url": "https://cointelegraph.com/news/i-m-very-confused-about-what-bitcoin-actually-is-ran-neuner-questions-crypto-s-core-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-30T18:29:36.000Z",
-      "keywords": [
-        "Interview"
-      ],
-      "category": "市场",
-      "slug": "20260330-im-confused-about-what-bitcoin-actually-is-ran-neuner-questions-cryptos-core-nar",
-      "localUrl": "/news/20260330-im-confused-about-what-bitcoin-actually-is-ran-neuner-questions-cryptos-core-nar.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bluesky Users Revolt Against AI Tool Attie, Blocking It More Than ICE and White House Accounts",
       "summary": "Bluesky's new AI tool Attie drew swift backlash from users wary of automation—a very different vibe than on Elon Musk's X.",
@@ -521,19 +588,6 @@
       "localUrl": "/news/20260330-jack-dorseys-square-auto-enables-bitcoin-payments-for-millions-of-us-businesses.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Strategy pushes pause button on Bitcoin purchases, stock sales",
-      "summary": "For the first time in 13 weeks, the biggest public Bitcoin treasury company skipped a weekly purchase of the cryptocurrency without any word from Michael Saylor.",
-      "url": "https://cointelegraph.com/news/strategy-bitcoin-purchases-no-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-30T18:02:57.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260330-strategy-pushes-pause-button-on-bitcoin-purchases-stock-sales",
-      "localUrl": "/news/20260330-strategy-pushes-pause-button-on-bitcoin-purchases-stock-sales.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Ethereum Funds Shed $222 Million as Crypto Bill Fears Rattle Investors",
       "summary": "Ethereum funds took the biggest hit as Clarity Act fears and macro headwinds pushed crypto outflows to $414 million for the week.",
@@ -545,19 +599,6 @@
       "category": "基础设施",
       "slug": "20260330-ethereum-funds-shed-222-million-as-crypto-bill-fears-rattle-investors",
       "localUrl": "/news/20260330-ethereum-funds-shed-222-million-as-crypto-bill-fears-rattle-investors.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Nium launches stablecoin card issuance platform across Visa and Mastercard",
-      "summary": "The platform aims to help businesses issue stablecoin-funded cards is aimed at using digital dollar balances at the point of sale using existing card networks.",
-      "url": "https://cointelegraph.com/news/nium-launches-stablecoin-card-issuance-platform-across-visa-and-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-30T17:35:45.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260330-nium-launches-stablecoin-card-issuance-platform-across-visa-and-mastercard",
-      "localUrl": "/news/20260330-nium-launches-stablecoin-card-issuance-platform-across-visa-and-mastercard.html"
     },
     {
       "source": "CoinDesk",
@@ -600,32 +641,6 @@
       "category": "基础设施",
       "slug": "20260330-ethereum-foundation-backs-economic-zone-to-solve-fragmentation-issues",
       "localUrl": "/news/20260330-ethereum-foundation-backs-economic-zone-to-solve-fragmentation-issues.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BitGo expands Canton Coin services with trading, onchain settlement",
-      "summary": "BitGo broadens its Canton Coin offering beyond custody, reflecting efforts to build end-to-end infrastructure as tokenized assets move closer to real-world use cases.",
-      "url": "https://cointelegraph.com/news/bitgo-canton-coin-trading-settlement-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-30T16:22:50.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260330-bitgo-expands-canton-coin-services-with-trading-onchain-settlement",
-      "localUrl": "/news/20260330-bitgo-expands-canton-coin-services-with-trading-onchain-settlement.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "XRP price charts flash bottom signals as bulls defend $1.30",
-      "summary": "Technical indicators hinted at a possible reversal in XRP’s price, as traders watch whether key support levels can hold.",
-      "url": "https://cointelegraph.com/news/xrp-price-charts-flash-bottom-signals-bulls-defend-1-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-30T16:19:26.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "市场",
-      "slug": "20260330-xrp-price-charts-flash-bottom-signals-as-bulls-defend-130",
-      "localUrl": "/news/20260330-xrp-price-charts-flash-bottom-signals-as-bulls-defend-130.html"
     },
     {
       "source": "X Wire",
@@ -903,20 +918,15 @@
       "localUrl": "/news/20260330-coindesk-20-performance-update-ethereum-eth-price-rises-42-over-weekend.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Aave rolls out v4 on Ethereum, aiming to expand DeFi into real-world credit markets",
-      "summary": "The upgrade has been in development for about two years and is designed to make it easier to use Aave for a wider range of lending and borrowing activities.",
-      "url": "https://www.coindesk.com/tech/2026/03/30/aave-rolls-out-v4-on-ethereum-aiming-to-expand-defi-into-real-world-credit-markets",
-      "publishedAt": "2026-03-30T13:00:00.000Z",
-      "keywords": [
-        "Tech",
-        "Ethereum News",
-        "DeFi",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260330-aave-rolls-out-v4-on-ethereum-aiming-to-expand-defi-into-real-world-credit-marke",
-      "localUrl": "/news/20260330-aave-rolls-out-v4-on-ethereum-aiming-to-expand-defi-into-real-world-credit-marke.html"
+      "source": "X Wire",
+      "title": "Elon Groks Bitcoin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UZFBzMEM4dHQ1Smw5aDJvQlRIVDFQRTM2dklVTFpwcGhPVUdYdGxsRG0wNzZjd2hnSS1JSFRBTExudHpkVDFNSjdxY2YtY3VUcFFJemE4WnVicnc?oc=5\" target=\"_blank\">Elon Groks Bitcoin</a> <font color=\"#6f6f6f…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UZFBzMEM4dHQ1Smw5aDJvQlRIVDFQRTM2dklVTFpwcGhPVUdYdGxsRG0wNzZjd2hnSS1JSFRBTExudHpkVDFNSjdxY2YtY3VUcFFJemE4WnVicnc?oc=5",
+      "publishedAt": "2026-03-30T12:44:19.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260330-elon-groks-bitcoin-xcom",
+      "localUrl": "/news/20260330-elon-groks-bitcoin-xcom.html"
     },
     {
       "source": "X Wire",
@@ -928,17 +938,6 @@
       "category": "X热点",
       "slug": "20260330-7000-btc-and-still-climbing-since-our-nasdaq-debut-3x-growth-in-bitcoin-reserve-",
       "localUrl": "/news/20260330-7000-btc-and-still-climbing-since-our-nasdaq-debut-3x-growth-in-bitcoin-reserve-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The next crypto crash might not start in crypto. It could be triggered by a silent liquidity crisis unfolding in Japan. Japan’s economy has been built for decades on extremely low interest rates. This means its financial system struggles when long-term rates rise to - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hMnYtRXJiZlpNNUF0TlFrTWhxUWdRdzNkRmV2aXNFNjlSbHZOQ3VicUd2YkplLXkxOEF5YmpBX2dtQWFqa3liZ1BjbG1PQ201Z2JtZEJXa3lUTGxKMUxZdA?oc=5\" target=\"_blank\">The next crypto crash might not star…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hMnYtRXJiZlpNNUF0TlFrTWhxUWdRdzNkRmV2aXNFNjlSbHZOQ3VicUd2YkplLXkxOEF5YmpBX2dtQWFqa3liZ1BjbG1PQ201Z2JtZEJXa3lUTGxKMUxZdA?oc=5",
-      "publishedAt": "2026-03-30T10:25:32.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260330-the-next-crypto-crash-might-not-start-in-crypto-it-could-be-triggered-by-a-silen",
-      "localUrl": "/news/20260330-the-next-crypto-crash-might-not-start-in-crypto-it-could-be-triggered-by-a-silen.html"
     },
     {
       "source": "X Wire",
