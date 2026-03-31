@@ -1,7 +1,76 @@
 {
-  "updatedAt": "2026-03-31T13:59:52.916Z",
+  "updatedAt": "2026-03-31T15:20:43.978Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Mercado Libre shuts down Mercado Coin, ending its loyalty-driven crypto experiment",
+      "summary": "Starting April 17, users will no longer be able to buy, sell or earn cashback in Mercado Coin, but can sell, spend, or have the token converted to local currency.",
+      "url": "https://www.coindesk.com/business/2026/03/31/mercado-libre-shuts-down-mercado-coin-ending-its-loyalty-driven-crypto-experiment",
+      "publishedAt": "2026-03-31T14:49:19.000Z",
+      "keywords": [
+        "Finance",
+        "Stablecoins",
+        "Brazil",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260331-mercado-libre-shuts-down-mercado-coin-ending-its-loyalty-driven-crypto-experimen",
+      "localUrl": "/news/20260331-mercado-libre-shuts-down-mercado-coin-ending-its-loyalty-driven-crypto-experimen.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitfarms targets zero bitcoin on the balance sheet as it pivots to AI",
+      "summary": "The company is actively selling bitcoin and redeploying capital into AI-focused data centers as part of a broader transformation away from mining.",
+      "url": "https://www.coindesk.com/markets/2026/03/31/bitfarms-targets-zero-bitcoin-on-the-balance-sheet-as-it-pivots-to-ai",
+      "publishedAt": "2026-03-31T14:41:16.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Bitcoin Mining",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260331-bitfarms-targets-zero-bitcoin-on-the-balance-sheet-as-it-pivots-to-ai",
+      "localUrl": "/news/20260331-bitfarms-targets-zero-bitcoin-on-the-balance-sheet-as-it-pivots-to-ai.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-31T14:22:34.000Z",
+      "keywords": [
+        "Trump memecoin",
+        "Solana memecoin",
+        "TRUMP token",
+        "Solana",
+        "SOL",
+        "Nova Labs",
+        "SEC",
+        "Securities and Exchange Commission",
+        "Crypto regulation",
+        "TRUMP rally",
+        "Bitcoin",
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260331-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260331-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto gains political clout among 80% of UK young voters",
+      "summary": "A Coinbase Institute survey suggests crypto has become the financial starting point for most 16-25-year-olds in the UK, as digital assets become a powerful credibility test for political parties.",
+      "url": "https://cointelegraph.com/news/crypto-gains-political-clout-uk-young-voters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-31T14:12:52.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260331-crypto-gains-political-clout-among-80-of-uk-young-voters",
+      "localUrl": "/news/20260331-crypto-gains-political-clout-among-80-of-uk-young-voters.html"
+    },
     {
       "source": "Decrypt",
       "title": "US Users Barred From KuCoin After $500K CFTC Settlement",
@@ -306,6 +375,22 @@
       "localUrl": "/news/20260331-forex-startup-openfx-raises-94-million-to-expand-stablecoin-powered-cross-border.html"
     },
     {
+      "source": "CoinDesk",
+      "title": "Bitcoin bulls scramble for post-quantum protection as Google drops bombshell paper",
+      "summary": "Google's finding that breaking bitcoin's cryptography requires 20x fewer qubits than previously estimated has triggered the strongest industry response to quantum threats since the Willow chip in 2024. Here's how builders, investors, and r…",
+      "url": "https://www.coindesk.com/tech/2026/03/31/bitcoin-bulls-scramble-for-post-quantum-protection-as-google-drops-bombshell-paper",
+      "publishedAt": "2026-03-31T11:38:47.000Z",
+      "keywords": [
+        "Tech",
+        "Bitcoin News",
+        "Top Stories",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260331-bitcoin-bulls-scramble-for-post-quantum-protection-as-google-drops-bombshell-pap",
+      "localUrl": "/news/20260331-bitcoin-bulls-scramble-for-post-quantum-protection-as-google-drops-bombshell-pap.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "CoinDCX plans anti-fraud push after founders cleared in impersonation case",
       "summary": "After an Indian court found no case against CoinDCX’s founders, the Coinbase-backed exchange said it will roll out an anti-fraud network to tackle impersonation and cyber fraud.",
@@ -514,17 +599,6 @@
       "localUrl": "/news/20260331-crypto-investment-firm-keyrock-valued-at-11-billion-in-series-c-led-by-sc-ventur.html"
     },
     {
-      "source": "X Wire",
-      "title": "🚨 THIS IS ABSOLUTELY WILD Google just released a quantum paper, and it's really a nightmare. Here's what you need to know: - Breaking crypto encryption now only requires 500,000 qubits. That’s 20 times less than what experts previously thought was nee - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fXzJ1bjFkUDc1d09tcUt3SG96amxkVExORUhGaG16d2Z4N2FDLUxRTV9KclMzck5OUHRVNDFuSnNFdWVESFNzT0F3bHh0NjQwUUZEWERoeU9VZXRZVXpR?oc=5\" target=\"_blank\">🚨 THIS IS ABSOLUTELY WILD Google just…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fXzJ1bjFkUDc1d09tcUt3SG96amxkVExORUhGaG16d2Z4N2FDLUxRTV9KclMzck5OUHRVNDFuSnNFdWVESFNzT0F3bHh0NjQwUUZEWERoeU9VZXRZVXpR?oc=5",
-      "publishedAt": "2026-03-31T08:06:47.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260331-this-is-absolutely-wild-google-just-released-a-quantum-paper-and-its-really-a-ni",
-      "localUrl": "/news/20260331-this-is-absolutely-wild-google-just-released-a-quantum-paper-and-its-really-a-ni.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Democrats press CFTC, ethics watchdog on prediction market insider trading",
       "summary": "Prediction markets are facing increasing scrutiny over allegations of insider trading, prompting Kalshi and Polymarket to plan guardrails to curb potential incidents.",
@@ -551,32 +625,6 @@
       "category": "DeFi",
       "slug": "20260331-bitcoin-demand-falters-as-real-interest-rates-surge",
       "localUrl": "/news/20260331-bitcoin-demand-falters-as-real-interest-rates-surge.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto exchange KuCoin agrees to $500K settlement, ending CFTC case",
-      "summary": "KuCoin’s parent will pay $500,000 to settle CFTC charges following a separate $300 million penalty in a DOJ case over similar conduct.",
-      "url": "https://cointelegraph.com/news/kucoin-fined-500k-as-cftc-cases-ends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-31T06:49:14.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260331-crypto-exchange-kucoin-agrees-to-500k-settlement-ending-cftc-case",
-      "localUrl": "/news/20260331-crypto-exchange-kucoin-agrees-to-500k-settlement-ending-cftc-case.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Quantum computers need fewer qubits to crack crypto than thought: Google",
-      "summary": "Google has updated its estimates of the quantum computing resources needed to break elliptic curve cryptography.",
-      "url": "https://cointelegraph.com/news/quantum-computers-need-far-less-power-crack-crypto-says-google?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-31T06:27:02.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260331-quantum-computers-need-fewer-qubits-to-crack-crypto-than-thought-google",
-      "localUrl": "/news/20260331-quantum-computers-need-fewer-qubits-to-crack-crypto-than-thought-google.html"
     },
     {
       "source": "CoinDesk",
@@ -672,21 +720,6 @@
       "localUrl": "/news/20260331-us-charges-hacker-behind-53-million-uranium-finance-exploit.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Breaking Bitcoin with quantum may be easier than thought, with Taproot partly to blame, Google says",
-      "summary": "The findings suggest attackers could one day steal bitcoin mid-transaction, challenging assumptions that the threat is decades away.",
-      "url": "https://www.coindesk.com/markets/2026/03/31/bitcoin-s-taproot-could-make-quantum-attacks-easier-than-expected-new-google-research-says",
-      "publishedAt": "2026-03-31T04:57:32.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260331-breaking-bitcoin-with-quantum-may-be-easier-than-thought-with-taproot-partly-to-",
-      "localUrl": "/news/20260331-breaking-bitcoin-with-quantum-may-be-easier-than-thought-with-taproot-partly-to-.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨 CRITICAL: Active supply chain attack on axios -- one of npm's most depended-on packages. The latest axios@1.14.1 now pulls in plain-crypto-js@4.2.1, a package that did not exist before today. This is a live compromise. This is textbook supply chain install - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE94U2pzTDVIdDRFbjdsQkVINjJ5Tjh1Y2JfZk5Ec0hHUVdGN0dfdFNsZWlCOVM5ODQzOTdrOTloVVJRY29OMXNrVVlRcUJNWHNqSDc3YjRHRGxjMGM?oc=5\" target=\"_blank\">🚨 CRITICAL: Active supply chain attack on …",
@@ -711,32 +744,15 @@
       "localUrl": "/news/20260330-senator-questions-sec-over-treatment-of-trump-linked-crypto-businesses.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. rule change may open trillions in 401(k) funds to crypto",
-      "summary": "The Labor Department on Monday proposed a rule following an executive order from President Donald Trump that directed regulators to expand access to digital assets in retirement portfolios.",
-      "url": "https://www.coindesk.com/policy/2026/03/30/u-s-rule-change-may-open-trillions-in-401-k-funds-to-crypto",
-      "publishedAt": "2026-03-30T22:00:08.000Z",
-      "keywords": [
-        "Policy",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260330-us-rule-change-may-open-trillions-in-401k-funds-to-crypto",
-      "localUrl": "/news/20260330-us-rule-change-may-open-trillions-in-401k-funds-to-crypto.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Democrats urge warnings to federal officials against insider bets on prediction markets",
-      "summary": "Members of the House and Senate asked the CFTC and federal ethics office to remind government employees it's illegal to make insider derivatives trades.",
-      "url": "https://www.coindesk.com/policy/2026/03/30/democrats-urge-warnings-to-federal-officials-against-insider-bets-on-prediction-markets",
-      "publishedAt": "2026-03-30T21:37:35.000Z",
-      "keywords": [
-        "Policy",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260330-democrats-urge-warnings-to-federal-officials-against-insider-bets-on-prediction-",
-      "localUrl": "/news/20260330-democrats-urge-warnings-to-federal-officials-against-insider-bets-on-prediction-.html"
+      "source": "X Wire",
+      "title": "Bitcoin treasury company Nakamoto Inc. (NASDAQ: NAKA) disclosed in its 10-K filed on March 30, 2026, that it sold approximately 284 BTC in March for about $20 million, with an average selling price of around $70,422 per BTC. In 2025, the company net pur - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tWkd5NmpKWWVqay1ZV05GVVU3b19QM1pVaGdTYmRkUVJUZ3FZT0loaGlwd2V5WXd0ZjNnZGdFZ2Zkc2hfTjN6Y1FHYktMUzVVcU9jMmgzWktzNmU3SnY2bVhPUQ?oc=5\" target=\"_blank\">Bitcoin treasury company Nakamot…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tWkd5NmpKWWVqay1ZV05GVVU3b19QM1pVaGdTYmRkUVJUZ3FZT0loaGlwd2V5WXd0ZjNnZGdFZ2Zkc2hfTjN6Y1FHYktMUzVVcU9jMmgzWktzNmU3SnY2bVhPUQ?oc=5",
+      "publishedAt": "2026-03-30T22:51:18.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260330-bitcoin-treasury-company-nakamoto-inc-nasdaq-naka-disclosed-in-its-10-k-filed-on",
+      "localUrl": "/news/20260330-bitcoin-treasury-company-nakamoto-inc-nasdaq-naka-disclosed-in-its-10-k-filed-on.html"
     },
     {
       "source": "Decrypt",

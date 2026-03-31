@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-31T13:59:52.967Z</lastmod>
+    <lastmod>2026-03-31T15:20:44.029Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-31T13:59:52.967Z</lastmod>
+    <lastmod>2026-03-31T15:20:44.029Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260331-mercado-libre-shuts-down-mercado-coin-ending-its-loyalty-driven-crypto-experimen.html</loc>
+    <lastmod>2026-03-31T14:49:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260331-bitfarms-targets-zero-bitcoin-on-the-balance-sheet-as-it-pivots-to-ai.html</loc>
+    <lastmod>2026-03-31T14:41:16.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260331-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-31T14:22:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260331-crypto-gains-political-clout-among-80-of-uk-young-voters.html</loc>
+    <lastmod>2026-03-31T14:12:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260331-us-users-barred-from-kucoin-after-500k-cftc-settlement.html</loc>
@@ -145,6 +169,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260331-bitcoin-bulls-scramble-for-post-quantum-protection-as-google-drops-bombshell-pap.html</loc>
+    <lastmod>2026-03-31T11:38:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260331-coindcx-plans-anti-fraud-push-after-founders-cleared-in-impersonation-case.html</loc>
     <lastmod>2026-03-31T11:30:43.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -235,12 +265,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260331-this-is-absolutely-wild-google-just-released-a-quantum-paper-and-its-really-a-ni.html</loc>
-    <lastmod>2026-03-31T08:06:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260331-democrats-press-cftc-ethics-watchdog-on-prediction-market-insider-trading.html</loc>
     <lastmod>2026-03-31T07:11:55.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -249,18 +273,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260331-bitcoin-demand-falters-as-real-interest-rates-surge.html</loc>
     <lastmod>2026-03-31T06:52:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260331-crypto-exchange-kucoin-agrees-to-500k-settlement-ending-cftc-case.html</loc>
-    <lastmod>2026-03-31T06:49:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260331-quantum-computers-need-fewer-qubits-to-crack-crypto-than-thought-google.html</loc>
-    <lastmod>2026-03-31T06:27:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -307,12 +319,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260331-breaking-bitcoin-with-quantum-may-be-easier-than-thought-with-taproot-partly-to-.html</loc>
-    <lastmod>2026-03-31T04:57:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260331-critical-active-supply-chain-attack-on-axios-one-of-npms-most-depended-on-packag.html</loc>
     <lastmod>2026-03-31T02:35:11.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -325,14 +331,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260330-us-rule-change-may-open-trillions-in-401k-funds-to-crypto.html</loc>
-    <lastmod>2026-03-30T22:00:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260330-democrats-urge-warnings-to-federal-officials-against-insider-bets-on-prediction-.html</loc>
-    <lastmod>2026-03-30T21:37:35.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260330-bitcoin-treasury-company-nakamoto-inc-nasdaq-naka-disclosed-in-its-10-k-filed-on.html</loc>
+    <lastmod>2026-03-30T22:51:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
