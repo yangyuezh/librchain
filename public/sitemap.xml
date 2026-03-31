@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-31T21:53:08.548Z</lastmod>
+    <lastmod>2026-03-31T22:50:49.833Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-31T21:53:08.548Z</lastmod>
+    <lastmod>2026-03-31T22:50:49.833Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260331-texas-lt-gov-lists-crypto-prediction-markets-in-charges-for-lawmakers.html</loc>
+    <lastmod>2026-03-31T21:48:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260331-wall-street-moves-benchmarks-onchain-as-sp-tokenizes-treasury-index.html</loc>
+    <lastmod>2026-03-31T21:33:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260331-crypto-startup-uses-polymarket-to-bet-on-its-own-fundraise-blindsiding-backers.html</loc>
@@ -303,18 +315,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260331-saw-some-people-panicking-or-asking-about-quantum-computings-impact-on-crypto-at.html</loc>
     <lastmod>2026-03-31T12:32:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260331-faster-settlement-may-make-for-poorer-markets.html</loc>
-    <lastmod>2026-03-31T12:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260331-standard-chartered-says-faster-stablecoin-turnover-could-curb-demand.html</loc>
-    <lastmod>2026-03-31T12:28:14.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
