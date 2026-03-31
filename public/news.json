@@ -1,7 +1,131 @@
 {
-  "updatedAt": "2026-03-31T15:20:43.978Z",
+  "updatedAt": "2026-03-31T17:12:25.663Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, stocks rise, oil slides, after report of Iran's willingness to end conflict",
+      "summary": "Iran's President Masoud Pezeshkian said the country is prepared to end the conflict if it receives security guarantees.",
+      "url": "https://www.coindesk.com/markets/2026/03/31/bitcoin-stocks-rise-oil-slides-after-report-of-iran-s-willingness-to-end-conflict",
+      "publishedAt": "2026-03-31T16:59:03.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260331-bitcoin-stocks-rise-oil-slides-after-report-of-irans-willingness-to-end-conflict",
+      "localUrl": "/news/20260331-bitcoin-stocks-rise-oil-slides-after-report-of-irans-willingness-to-end-conflict.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Galaxy expands retail platform with SOL staking, targeting 6.5% yield",
+      "summary": "GalaxyOne adds Solana staking with variable rewards and zero-fee incentives, extending institutional validator infrastructure to retail users.",
+      "url": "https://cointelegraph.com/news/galaxy-solana-staking-galaxyone-retail-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-31T16:39:58.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260331-galaxy-expands-retail-platform-with-sol-staking-targeting-65-yield",
+      "localUrl": "/news/20260331-galaxy-expands-retail-platform-with-sol-staking-targeting-65-yield.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum bulls must hold $2K: Volatility metric hints at ‘strong’ move next",
+      "summary": "A sharp drop in Ether’s realized volatility could result in significant ETH price moves if history repeats, making $2,000 a key support level to keep an eye on.",
+      "url": "https://cointelegraph.com/news/ethereum-bulls-must-hold-2k-volatility-hints-strong-price-move?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-31T16:39:01.000Z",
+      "keywords": [
+        "Market Analysis"
+      ],
+      "category": "基础设施",
+      "slug": "20260331-ethereum-bulls-must-hold-2k-volatility-metric-hints-at-strong-move-next",
+      "localUrl": "/news/20260331-ethereum-bulls-must-hold-2k-volatility-metric-hints-at-strong-move-next.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "'Massive Disruptive Potential': Benchmark Initiates Securitize Coverage With Buy Rating",
+      "summary": "The BlackRock-backed firm has a clear path toward pressuring financial incumbents, according Benchmark’s Mark Palmer.",
+      "url": "https://decrypt.co/362904/massive-disruptive-potential-benchmark-securitize-coverage-buy-rating",
+      "publishedAt": "2026-03-31T16:31:42.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260331-massive-disruptive-potential-benchmark-initiates-securitize-coverage-with-buy-ra",
+      "localUrl": "/news/20260331-massive-disruptive-potential-benchmark-initiates-securitize-coverage-with-buy-ra.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Charles Hoskinson not a fan of CLARITY Act, warns of 'weaponization' by future lawmakers",
+      "summary": "The Cardano founder says post-FTX politics, flawed design and a narrow U.S.-only approach risk stifling new crypto projects while benefiting established players",
+      "url": "https://www.coindesk.com/policy/2026/03/31/charles-hoskinson-not-a-fan-of-u-s-clarity-act-warns-of-weaponization-by-future-lawmakers",
+      "publishedAt": "2026-03-31T16:21:32.000Z",
+      "keywords": [
+        "Policy",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260331-charles-hoskinson-not-a-fan-of-clarity-act-warns-of-weaponization-by-future-lawm",
+      "localUrl": "/news/20260331-charles-hoskinson-not-a-fan-of-clarity-act-warns-of-weaponization-by-future-lawm.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why 12 European banks are teaming up to save the euro from digital dollarization",
+      "summary": "In an interview with CoinDesk, the CEO of a 12-member consortium explains why Europe is racing to put the euro onchain and compete with dollar dominance in crypto markets.",
+      "url": "https://www.coindesk.com/business/2026/03/31/europe-faces-digital-dollarization-without-a-euro-stablecoin-of-its-own-warns-qivalis-ceo",
+      "publishedAt": "2026-03-31T15:50:38.000Z",
+      "keywords": [
+        "Finance",
+        "Stablecoins",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260331-why-12-european-banks-are-teaming-up-to-save-the-euro-from-digital-dollarization",
+      "localUrl": "/news/20260331-why-12-european-banks-are-teaming-up-to-save-the-euro-from-digital-dollarization.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The time for clear financial privacy rules is now",
+      "summary": "Despite recent regulatory progress in the industry, privacy remains an area that needs to be addressed, says Yelderman.",
+      "url": "https://www.coindesk.com/opinion/2026/03/31/the-time-for-clear-financial-privacy-rules-is-now",
+      "publishedAt": "2026-03-31T15:30:00.000Z",
+      "keywords": [
+        "Opinion",
+        "Regulation",
+        "Opinion"
+      ],
+      "category": "监管",
+      "slug": "20260331-the-time-for-clear-financial-privacy-rules-is-now",
+      "localUrl": "/news/20260331-the-time-for-clear-financial-privacy-rules-is-now.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nakamoto Shares Hit New Low After Bitcoin Treasury Firm Sells Off BTC",
+      "summary": "Shares in publicly traded Bitcoin treasury Nakamoto (NAKA) hit a new low after the firm announced it sold around $20 million of BTC.",
+      "url": "https://decrypt.co/362883/nakamoto-shares-new-low-bitcoin-treasury-firm-sells-btc",
+      "publishedAt": "2026-03-31T15:25:56.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "RWA",
+      "slug": "20260331-nakamoto-shares-hit-new-low-after-bitcoin-treasury-firm-sells-off-btc",
+      "localUrl": "/news/20260331-nakamoto-shares-hit-new-low-after-bitcoin-treasury-firm-sells-off-btc.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "The stablecoin question is: Who gets paid?",
+      "summary": "Stablecoin infrastructure delivers velocity but issuers and exchanges capture the rent. Velocity beats market cap as digital dollars become invisible financial plumbing.",
+      "url": "https://cointelegraph.com/news/stablecoins-who-gets-paid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-31T15:00:00.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "市场",
+      "slug": "20260331-the-stablecoin-question-is-who-gets-paid",
+      "localUrl": "/news/20260331-the-stablecoin-question-is-who-gets-paid.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Mercado Libre shuts down Mercado Coin, ending its loyalty-driven crypto experiment",
@@ -256,6 +380,17 @@
     },
     {
       "source": "X Wire",
+      "title": "💥BREAKING: Bitcoin developers are already working on upgrades like BIP360. Transition toward post quantum cryptography security is already underway. Quantum computers won’t kill Bitcoin, they’ll force it to evolve. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HZUpIVWRSakdTbWtTTjl2MVh0UF9ERlhZdURwZk9iVjZNLUNjOGZYWm5iMURPRzlDV0VaNVZ5MlZjWnc3cTd0NjluWEZKLWJpdDlydnluQzJPcjkzVU5wN1FR?oc=5\" target=\"_blank\">💥BREAKING: Bitcoin developers are…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HZUpIVWRSakdTbWtTTjl2MVh0UF9ERlhZdURwZk9iVjZNLUNjOGZYWm5iMURPRzlDV0VaNVZ5MlZjWnc3cTd0NjluWEZKLWJpdDlydnluQzJPcjkzVU5wN1FR?oc=5",
+      "publishedAt": "2026-03-31T12:41:54.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260331-breaking-bitcoin-developers-are-already-working-on-upgrades-like-bip360-transiti",
+      "localUrl": "/news/20260331-breaking-bitcoin-developers-are-already-working-on-upgrades-like-bip360-transiti.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Saw some people panicking or asking about quantum computing's impact on crypto. At a high level, all crypto has to do is to upgrade to Quantum-Resistant (Post-Quantum) Algorithms. So, no need to panic. 😂 In practice, there are some execution consideratio - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rZGxHYlVPNXdwZHJJMzdIaFk0RUxoUlQxOGRDLXpqS2FiMG9nUHU2ekZ0Ty1VdHEyQ253Y2szaEs0NDR3VzNYRWdmZDc0d05OekJYMG9MNXc2c1c3TVVmQQ?oc=5\" target=\"_blank\">Saw some people panicking or asking …",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rZGxHYlVPNXdwZHJJMzdIaFk0RUxoUlQxOGRDLXpqS2FiMG9nUHU2ekZ0Ty1VdHEyQ253Y2szaEs0NDR3VzNYRWdmZDc0d05OekJYMG9MNXc2c1c3TVVmQQ?oc=5",
@@ -331,6 +466,17 @@
       "category": "监管",
       "slug": "20260331-prediction-markets-backlash-builds-possible-stormcloud-for-2027",
       "localUrl": "/news/20260331-prediction-markets-backlash-builds-possible-stormcloud-for-2027.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Developers are currently working on a Bitcoin Improvement Proposal to strengthen Bitcoin against quantum, with a test net already deployed 👀 👏 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SME5CRVpveDBjVm45SnF0V280WFlhQXR5S1dsbE5IU0dxMjdLTWNrODNqTmt1LTBGTExlTUFQZ2xaNlRBbkZIQ2g3TFR1d0xBMnpEWWFaVU5nWWFUbHVCOTVvLWs1Sjg?oc=5\" target=\"_blank\">Developers are currently wo…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SME5CRVpveDBjVm45SnF0V280WFlhQXR5S1dsbE5IU0dxMjdLTWNrODNqTmt1LTBGTExlTUFQZ2xaNlRBbkZIQ2g3TFR1d0xBMnpEWWFaVU5nWWFUbHVCOTVvLWs1Sjg?oc=5",
+      "publishedAt": "2026-03-31T11:58:40.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260331-developers-are-currently-working-on-a-bitcoin-improvement-proposal-to-strengthen",
+      "localUrl": "/news/20260331-developers-are-currently-working-on-a-bitcoin-improvement-proposal-to-strengthen.html"
     },
     {
       "source": "Decrypt",
@@ -540,19 +686,6 @@
       "localUrl": "/news/20260331-david-baileys-nakamoto-sells-roughly-5-of-its-bitcoin-holdings-offloading-284-bt.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "F2Pool co-founder says Thailand condo bought for 2,900 Bitcoin sold for 7",
-      "summary": "F2Pool co-founder Wang Chun’s decision to sell a Thai condo once bought for 2,900 BTC for just 7 BTC illustrates the opportunity cost of spending Bitcoin early.",
-      "url": "https://cointelegraph.com/news/f2pool-co-founder-sells-home-7-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-31T09:04:21.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260331-f2pool-co-founder-says-thailand-condo-bought-for-2900-bitcoin-sold-for-7",
-      "localUrl": "/news/20260331-f2pool-co-founder-says-thailand-condo-bought-for-2900-bitcoin-sold-for-7.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Hashdex’s diversified crypto ETF adds options for hedging, income generation",
       "summary": "Options on Hashdex’s diversified NCIQ ETF now let investors hedge, generate income and manage risk across a broad basket of digital assets.",
@@ -566,19 +699,6 @@
       "category": "监管",
       "slug": "20260331-hashdexs-diversified-crypto-etf-adds-options-for-hedging-income-generation",
       "localUrl": "/news/20260331-hashdexs-diversified-crypto-etf-adds-options-for-hedging-income-generation.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Nakamoto sells $20 million in Bitcoin and cuts Metaplanet stake",
-      "summary": "David Bailey's Nakamoto plans to wind down healthcare operations as it shifts focus to integrating BTC Inc and UTXO Management.",
-      "url": "https://cointelegraph.com/news/nakamoto-sells-20m-bitcoin-metaplanet-loss-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-31T08:36:46.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260331-nakamoto-sells-20-million-in-bitcoin-and-cuts-metaplanet-stake",
-      "localUrl": "/news/20260331-nakamoto-sells-20-million-in-bitcoin-and-cuts-metaplanet-stake.html"
     },
     {
       "source": "CoinDesk",
@@ -599,46 +719,15 @@
       "localUrl": "/news/20260331-crypto-investment-firm-keyrock-valued-at-11-billion-in-series-c-led-by-sc-ventur.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Democrats press CFTC, ethics watchdog on prediction market insider trading",
-      "summary": "Prediction markets are facing increasing scrutiny over allegations of insider trading, prompting Kalshi and Polymarket to plan guardrails to curb potential incidents.",
-      "url": "https://cointelegraph.com/news/us-lawmakers-insider-trading-prediction-markets-cftc-stock-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-31T07:11:55.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260331-democrats-press-cftc-ethics-watchdog-on-prediction-market-insider-trading",
-      "localUrl": "/news/20260331-democrats-press-cftc-ethics-watchdog-on-prediction-market-insider-trading.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin demand falters as 'real' interest rates surge",
-      "summary": "Rising U.S. real yields, especially on 10-year TIPS, pose a headwind to zero-yielding risk assets like bitcoin.",
-      "url": "https://www.coindesk.com/markets/2026/03/31/bitcoin-demand-falters-as-real-interest-rates-surge",
-      "publishedAt": "2026-03-31T06:52:33.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260331-bitcoin-demand-falters-as-real-interest-rates-surge",
-      "localUrl": "/news/20260331-bitcoin-demand-falters-as-real-interest-rates-surge.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin holds $67,500 as Trump signals he may end Iran war with Hormuz still shut",
-      "summary": "Equity futures rallied and oil erased gains on the report, but the S&P 500 is on its longest losing streak since 2022 and MSCI Asia Pacific is heading for its worst month since 2008.",
-      "url": "https://www.coindesk.com/markets/2026/03/31/bitcoin-holds-usd67-500-as-trump-signals-he-may-end-iran-war-with-hormuz-still-shut",
-      "publishedAt": "2026-03-31T05:48:37.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260331-bitcoin-holds-67500-as-trump-signals-he-may-end-iran-war-with-hormuz-still-shut",
-      "localUrl": "/news/20260331-bitcoin-holds-67500-as-trump-signals-he-may-end-iran-war-with-hormuz-still-shut.html"
+      "source": "X Wire",
+      "title": "🚨 THIS IS ABSOLUTELY WILD Google just released a quantum paper, and it's really a nightmare. Here's what you need to know: - Breaking crypto encryption now only requires 500,000 qubits. That’s 20 times less than what experts previously thought was nee - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fXzJ1bjFkUDc1d09tcUt3SG96amxkVExORUhGaG16d2Z4N2FDLUxRTV9KclMzck5OUHRVNDFuSnNFdWVESFNzT0F3bHh0NjQwUUZEWERoeU9VZXRZVXpR?oc=5\" target=\"_blank\">🚨 THIS IS ABSOLUTELY WILD Google just…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fXzJ1bjFkUDc1d09tcUt3SG96amxkVExORUhGaG16d2Z4N2FDLUxRTV9KclMzck5OUHRVNDFuSnNFdWVESFNzT0F3bHh0NjQwUUZEWERoeU9VZXRZVXpR?oc=5",
+      "publishedAt": "2026-03-31T08:06:47.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260331-this-is-absolutely-wild-google-just-released-a-quantum-paper-and-its-really-a-ni",
+      "localUrl": "/news/20260331-this-is-absolutely-wild-google-just-released-a-quantum-paper-and-its-really-a-ni.html"
     },
     {
       "source": "Decrypt",
@@ -654,21 +743,6 @@
       "localUrl": "/news/20260331-new-us-rule-seeks-to-open-8t-retirement-market-to-crypto.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Maryland man charged in $50 million Uranium Finance hack after U.S. seized $31 million in crypto",
-      "summary": "Prosecutors say Jonathan Spalletta exploited smart contract bugs twice in April 2021, laundering funds through Tornado Cash and spending proceeds on rare collectibles.",
-      "url": "https://www.coindesk.com/policy/2026/03/31/maryland-man-charged-in-usd50-million-uranium-finance-hack-after-u-s-seized-usd31-million-in-crypto",
-      "publishedAt": "2026-03-31T05:33:03.000Z",
-      "keywords": [
-        "Policy",
-        "Crime",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260331-maryland-man-charged-in-50-million-uranium-finance-hack-after-us-seized-31-milli",
-      "localUrl": "/news/20260331-maryland-man-charged-in-50-million-uranium-finance-hack-after-us-seized-31-milli.html"
-    },
-    {
       "source": "X Wire",
       "title": "New supply chain attack this time for npm axios, the most popular HTTP client library with 300M weekly downloads. Scanning my system I found a use imported from googleworkspace/cli from a few days ago when I was experimenting with gmail/gcal cli. The in - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWbDh4SzYzbTlQSHZzYUl4M2k5LWt5UW54enRxNndUZ3ZGOXI0SHRMUVBzRzdFRzE1dW5BZjJwTFA3cnRwSEhfMkF6aXp6dEZxVEVXY3ZRazNWNEkyRWc?oc=5\" target=\"_blank\">New supply chain attack this time for n…",
@@ -678,33 +752,6 @@
       "category": "X热点",
       "slug": "20260331-new-supply-chain-attack-this-time-for-npm-axios-the-most-popular-http-client-lib",
       "localUrl": "/news/20260331-new-supply-chain-attack-this-time-for-npm-axios-the-most-popular-http-client-lib.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "KuCoin operator barred from U.S. after CFTC order, following $297 million DOJ case",
-      "summary": "KuCoin operator Peken Global Limited cannot cater to U.S. users on its platform unless it registers as a foreign board of trade.",
-      "url": "https://www.coindesk.com/policy/2026/03/31/kucoin-permanently-barred-from-u-s-after-cftc-order-following-usd297-million-doj-case",
-      "publishedAt": "2026-03-31T05:19:46.000Z",
-      "keywords": [
-        "Policy",
-        "Regulation",
-        "Crime",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260331-kucoin-operator-barred-from-us-after-cftc-order-following-297-million-doj-case",
-      "localUrl": "/news/20260331-kucoin-operator-barred-from-us-after-cftc-order-following-297-million-doj-case.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Today is a monumentous day for quantum computing and cryptography. Two breakthrough papers just landed (links in next tweet). Both papers improve Shor's algorithm, infamous for cracking RSA and elliptic curve cryptography. The two results compound, op - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1feXJMUGUydjV6S1ViUVJiU1U1YzNxcUxFWFpfZk9TMlZLQTc0X3NObkZZRHFCV0pDUEx6UmlRWnliNTRleVRpYnB2S1ZtdV9PSGpDclRBRWI4LWhBQXUtLWplOA?oc=5\" target=\"_blank\">Today is a monumentous day for q…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1feXJMUGUydjV6S1ViUVJiU1U1YzNxcUxFWFpfZk9TMlZLQTc0X3NObkZZRHFCV0pDUEx6UmlRWnliNTRleVRpYnB2S1ZtdV9PSGpDclRBRWI4LWhBQXUtLWplOA?oc=5",
-      "publishedAt": "2026-03-31T05:15:53.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260331-today-is-a-monumentous-day-for-quantum-computing-and-cryptography-two-breakthrou",
-      "localUrl": "/news/20260331-today-is-a-monumentous-day-for-quantum-computing-and-cryptography-two-breakthrou.html"
     },
     {
       "source": "Decrypt",
@@ -729,6 +776,17 @@
       "category": "X热点",
       "slug": "20260331-critical-active-supply-chain-attack-on-axios-one-of-npms-most-depended-on-packag",
       "localUrl": "/news/20260331-critical-active-supply-chain-attack-on-axios-one-of-npms-most-depended-on-packag.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Every time the 50 and 200 SMAs cross on the 3-day chart, it signals the final washout before the new Bitcoin $BTC bull market starts: • 2014 Cycle: Bitcoin had already dropped 72% from its peak before the cross appeared in December. Just 23 days later the G - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LZzRmYm5keElIT0VrME9CNW1leDVfd29xSkVBNlpGTTItQWxkaVVvbFdjSUs4YkdFOWxTNEpqc3BIV1J5RFNuNVh6MVhKZXlIX3ZJZE5pQjFjRUhxbXV3?oc=5\" target=\"_blank\">Every time the 50 and 200 SMAs cross o…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LZzRmYm5keElIT0VrME9CNW1leDVfd29xSkVBNlpGTTItQWxkaVVvbFdjSUs4YkdFOWxTNEpqc3BIV1J5RFNuNVh6MVhKZXlIX3ZJZE5pQjFjRUhxbXV3?oc=5",
+      "publishedAt": "2026-03-31T02:01:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260331-every-time-the-50-and-200-smas-cross-on-the-3-day-chart-it-signals-the-final-was",
+      "localUrl": "/news/20260331-every-time-the-50-and-200-smas-cross-on-the-3-day-chart-it-signals-the-final-was.html"
     },
     {
       "source": "Decrypt",
@@ -792,6 +850,17 @@
       "category": "监管",
       "slug": "20260330-chainlink-labs-anchorage-digital-back-new-crypto-super-pac-ahead-of-midterms",
       "localUrl": "/news/20260330-chainlink-labs-anchorage-digital-back-new-crypto-super-pac-ahead-of-midterms.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Scam Baiter Exposes Possible Deepfake in Crypto Recovery Call with Finger Test - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TTTFXdkxfTlJPTFB5S0VDY3MzdzBWRzdiSFI4UWxKU0U3bFdzeWtFbVN1dVFLWm5KaUg1eE81bnJnc0dPUVpicVFlTjhDZjdSM19seGRGdw?oc=5\" target=\"_blank\">Scam Baiter Exposes Possible Deepfake in Crypto …",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TTTFXdkxfTlJPTFB5S0VDY3MzdzBWRzdiSFI4UWxKU0U3bFdzeWtFbVN1dVFLWm5KaUg1eE81bnJnc0dPUVpicVFlTjhDZjdSM19seGRGdw?oc=5",
+      "publishedAt": "2026-03-30T20:25:54.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260330-scam-baiter-exposes-possible-deepfake-in-crypto-recovery-call-with-finger-test-x",
+      "localUrl": "/news/20260330-scam-baiter-exposes-possible-deepfake-in-crypto-recovery-call-with-finger-test-x.html"
     },
     {
       "source": "Decrypt",
@@ -920,19 +989,6 @@
       "localUrl": "/news/20260330-trump-brothers-american-bitcoin-hits-btc-milestone-as-stock-falls-to-lowest-pric.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Ethereum Foundation Backs 'Economic Zone' to Solve Fragmentation Issues",
-      "summary": "Gnosis and Zisk proposed a framework for aligning infrastructure within the Ethereum ecosystem, specifically layer-2 scaling networks.",
-      "url": "https://decrypt.co/362711/ethereum-economic-zone-solve-layer-2-fragmentation",
-      "publishedAt": "2026-03-30T16:44:14.000Z",
-      "keywords": [
-        "DeFi"
-      ],
-      "category": "基础设施",
-      "slug": "20260330-ethereum-foundation-backs-economic-zone-to-solve-fragmentation-issues",
-      "localUrl": "/news/20260330-ethereum-foundation-backs-economic-zone-to-solve-fragmentation-issues.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Bitcoin has now dipped below the \"Fire Sale!\" territory 👀 Buy the dip! 🙌 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02cmNiS1poQ09RdER5SHVQSDhIUWRrdkxXT25FOFI1emV5dmlrU2dzY0d5Qm5DdWg1NndIZ1N6VS00MURkWlZ3QjFxNGwwUTJDTnFaN0NxTXBQdFhsWDNVQTFsTXNJdmM?oc=5\" target=\"_blank\">JUST IN: Bitcoin has now di…",
@@ -997,19 +1053,6 @@
       "localUrl": "/news/20260330-from-the-battlefield-to-the-blockchain-how-cryptocurrency-is-helping-finance-the.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Tom Lee's BitMine Adds More Ethereum as Strategy Takes a Break From Bitcoin Buying",
-      "summary": "BitMine continued its Ethereum accumulation, adding to its leading ETH treasury while Strategy took a week off from Bitcoin purchases.",
-      "url": "https://decrypt.co/362702/tom-lee-bitmine-adds-ethereum-strategy-takes-break-bitcoin-buying",
-      "publishedAt": "2026-03-30T14:45:53.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "基础设施",
-      "slug": "20260330-tom-lees-bitmine-adds-more-ethereum-as-strategy-takes-a-break-from-bitcoin-buyin",
-      "localUrl": "/news/20260330-tom-lees-bitmine-adds-more-ethereum-as-strategy-takes-a-break-from-bitcoin-buyin.html"
-    },
-    {
       "source": "Chainalysis Blog",
       "title": "Chainalysis Supports Tempo with Automatic Token Coverage",
       "summary": "Chainalysis is excited to announce support for Tempo, an EVM-compatible Layer 1 blockchain purpose-built for stablecoin payments at scale. Tempo… The post Chainalysis Supports Tempo with Automatic Token Coverage appeared first on Chainalys…",
@@ -1065,39 +1108,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Great bounce upwards, but nothing confirmed as of yet on #Bitcoin. All depends on macroeconomic events; however, I'd rather see a breakout above $71K for confirmation. On the other hand, a classic little sweep to $65K just before the push upwards would si - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kUndtMVB2VnBQZm1JMUwyZlhRWjFBNFRNNlljOUZQTmxaaUNoZkd4WW1lbDdEVm5jUWJkUXBUX2NtSkt5Ym1aaFJaZFdsWFVoZUQ5Z3NyRFAyM252Nzc0QVZYaw?oc=5\" target=\"_blank\">Great bounce upwards, but nothin…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kUndtMVB2VnBQZm1JMUwyZlhRWjFBNFRNNlljOUZQTmxaaUNoZkd4WW1lbDdEVm5jUWJkUXBUX2NtSkt5Ym1aaFJaZFdsWFVoZUQ5Z3NyRFAyM252Nzc0QVZYaw?oc=5",
-      "publishedAt": "2026-03-30T08:12:47.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260330-great-bounce-upwards-but-nothing-confirmed-as-of-yet-on-bitcoin-all-depends-on-m",
-      "localUrl": "/news/20260330-great-bounce-upwards-but-nothing-confirmed-as-of-yet-on-bitcoin-all-depends-on-m.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "THE ETHEREUM FOUNDATION IS STAKING ETH The Ethereum Foundation just staked $46.2M of ETH. This is more ETH than they have EVER staked before. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zSnVpdWtnUEdtN2VkLVpnZjl2Y19kdWw3M3ZXUzI5MkdIRll4MEp1MEJsTlNkZjB0eFA0UnpPYlZzcGFzajhHbXI3ZVppdEVoVTlwLW9fVkhNaFU?oc=5\" target=\"_blank\">THE ETHEREUM FOUNDATION IS STAKING ETH The …",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zSnVpdWtnUEdtN2VkLVpnZjl2Y19kdWw3M3ZXUzI5MkdIRll4MEp1MEJsTlNkZjB0eFA0UnpPYlZzcGFzajhHbXI3ZVppdEVoVTlwLW9fVkhNaFU?oc=5",
-      "publishedAt": "2026-03-30T05:47:01.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260330-the-ethereum-foundation-is-staking-eth-the-ethereum-foundation-just-staked-462m-",
-      "localUrl": "/news/20260330-the-ethereum-foundation-is-staking-eth-the-ethereum-foundation-just-staked-462m-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Bitcoin falls under $65,000 $190,000,000 liquidated from the crypto market in the past 15 minutes. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yMXdpdzdfazFreXVLTVN4dEJRWkF3eGhUT2JKaEd4QV9FVjJmN3lJMmFBNXNneFJYTkg4bmxMQ2k1aTQwSXEwbTRlYkV6RTY4SDZWd0Y1ZWxNNjgxVjlGaHB3?oc=5\" target=\"_blank\">JUST IN: Bitcoin falls under $65,0…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yMXdpdzdfazFreXVLTVN4dEJRWkF3eGhUT2JKaEd4QV9FVjJmN3lJMmFBNXNneFJYTkg4bmxMQ2k1aTQwSXEwbTRlYkV6RTY4SDZWd0Y1ZWxNNjgxVjlGaHB3?oc=5",
-      "publishedAt": "2026-03-29T22:54:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260329-just-in-bitcoin-falls-under-65000-190000000-liquidated-from-the-crypto-market-in",
-      "localUrl": "/news/20260329-just-in-bitcoin-falls-under-65000-190000000-liquidated-from-the-crypto-market-in.html"
-    },
-    {
-      "source": "X Wire",
       "title": "How a 35-year-old self-described “crypto bro” from Pakistan helped his country win over Trump. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lVW5GT3BXNmpoUUo2eW5hVDhzbEc0N3dYdjhVR2FWdlZSNzlKRzhpMFBmUENSMmV5TGZhS2Z6Wk1Rc05qQjhxaEEzTXRRZXVRdm9qaENtQ0tzYk8xQ2c?oc=5\" target=\"_blank\">How a 35-year-old self-described “crypt…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lVW5GT3BXNmpoUUo2eW5hVDhzbEc0N3dYdjhVR2FWdlZSNzlKRzhpMFBmUENSMmV5TGZhS2Z6Wk1Rc05qQjhxaEEzTXRRZXVRdm9qaENtQ0tzYk8xQ2c?oc=5",
@@ -1106,17 +1116,6 @@
       "category": "X热点",
       "slug": "20260329-how-a-35-year-old-self-described-crypto-bro-from-pakistan-helped-his-country-win",
       "localUrl": "/news/20260329-how-a-35-year-old-self-described-crypto-bro-from-pakistan-helped-his-country-win.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "#Bitcoin was over 30 years of work. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByZG14c3duZUFTMWNnLUI3R2hQVFplNE1teC1VRmtnMWoya0d1WWZiT3MwbHJ0WXBGdE5nYVJDNGhGTHRBck9zcWpfd29kdjl1MVByWmg5dEFtbTBLMS11dzFXYWU5UDA?oc=5\" target=\"_blank\">#Bitcoin was over 30 years …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByZG14c3duZUFTMWNnLUI3R2hQVFplNE1teC1VRmtnMWoya0d1WWZiT3MwbHJ0WXBGdE5nYVJDNGhGTHRBck9zcWpfd29kdjl1MVByWmg5dEFtbTBLMS11dzFXYWU5UDA?oc=5",
-      "publishedAt": "2026-03-28T19:41:50.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260328-bitcoin-was-over-30-years-of-work-xcom",
-      "localUrl": "/news/20260328-bitcoin-was-over-30-years-of-work-xcom.html"
     }
   ]
 }
