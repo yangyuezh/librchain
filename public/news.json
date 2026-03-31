@@ -1,7 +1,117 @@
 {
-  "updatedAt": "2026-03-31T09:15:14.927Z",
+  "updatedAt": "2026-03-31T11:09:25.543Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Quantum computers could break crypto wallet encryption with just 10,000 qubits, researchers say",
+      "summary": "The research shows quantum computers may break bitcoin and ether wallet encryption with far fewer qubits than previously thought, accelerating the push toward post-quantum security.",
+      "url": "https://www.coindesk.com/markets/2026/03/31/quantum-computers-could-break-crypto-wallet-encryption-with-just-10-000-qubits-researchers-say",
+      "publishedAt": "2026-03-31T11:03:14.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260331-quantum-computers-could-break-crypto-wallet-encryption-with-just-10000-qubits-re",
+      "localUrl": "/news/20260331-quantum-computers-could-break-crypto-wallet-encryption-with-just-10000-qubits-re.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Dynamic adds embedded wallet infrastructure to TON for Telegram apps",
+      "summary": "The integration lets developers deploy TON wallets automatically inside Telegram Mini Apps, removing the need to build and manage wallet infrastructure.",
+      "url": "https://cointelegraph.com/news/fireblocks-backed-dynamic-adds-embedded-wallet-infrastructure-to-ton-for-telegram-apps-embargo-tues-march-31-7am-et?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-31T11:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260331-dynamic-adds-embedded-wallet-infrastructure-to-ton-for-telegram-apps",
+      "localUrl": "/news/20260331-dynamic-adds-embedded-wallet-infrastructure-to-ton-for-telegram-apps.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Russia moves to narrow crypto trading to regulated intermediaries",
+      "summary": "Russia approved a draft crypto bill package that would push trading through licensed intermediaries and cap retail purchases at $3,700 annually.",
+      "url": "https://cointelegraph.com/news/russia-limit-crypto-trade-regulated-intermediaries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-31T10:40:50.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260331-russia-moves-to-narrow-crypto-trading-to-regulated-intermediaries",
+      "localUrl": "/news/20260331-russia-moves-to-narrow-crypto-trading-to-regulated-intermediaries.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bearish sentiment builds in crypto as volatility and hedging rise",
+      "summary": "Bitcoin’s brief rally faded amid war-driven oil price surge, rising volatility and declining futures interest, signaling growing caution across crypto markets.",
+      "url": "https://www.coindesk.com/markets/2026/03/31/bearish-sentiment-builds-in-crypto-as-volatility-and-hedging-rise",
+      "publishedAt": "2026-03-31T10:34:58.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260331-bearish-sentiment-builds-in-crypto-as-volatility-and-hedging-rise",
+      "localUrl": "/news/20260331-bearish-sentiment-builds-in-crypto-as-volatility-and-hedging-rise.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price dips below $66K ahead of US Department of War press briefing",
+      "summary": "Bitcoin trapped late buyers at $68,000 with oil still above $100 ahead of a press briefing by US War Secretary Pete Hegseth.",
+      "url": "https://cointelegraph.com/news/bitcoin-price-dips-below-66k-ahead-us-department-of-war-press-briefing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-31T10:32:31.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260331-bitcoin-price-dips-below-66k-ahead-of-us-department-of-war-press-briefing",
+      "localUrl": "/news/20260331-bitcoin-price-dips-below-66k-ahead-of-us-department-of-war-press-briefing.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto market maker Keyrock reaches $1.1B valuation in SC Ventures-led round",
+      "summary": "Standard Chartered’s venture arm led the round as Keyrock looks to expand products, pursue acquisitions and scale its global footprint.",
+      "url": "https://cointelegraph.com/news/crypto-market-maker-keyrock-1-1b-valuation-sc-ventures-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-31T10:17:16.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260331-crypto-market-maker-keyrock-reaches-11b-valuation-in-sc-ventures-led-round",
+      "localUrl": "/news/20260331-crypto-market-maker-keyrock-reaches-11b-valuation-in-sc-ventures-led-round.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "David Bailey’s Nakamoto sells roughly 5% of its bitcoin holdings, offloading 284 BTC",
+      "summary": "The sale underscores liquidity pressures as the company continues its pivot to a bitcoin treasury strategy.",
+      "url": "https://www.coindesk.com/markets/2026/03/31/david-bailey-s-nakamoto-sells-roughly-5-of-its-bitcoin-holdings-offloading-284-btc",
+      "publishedAt": "2026-03-31T09:41:03.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Digital Asset Treasury",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260331-david-baileys-nakamoto-sells-roughly-5-of-its-bitcoin-holdings-offloading-284-bt",
+      "localUrl": "/news/20260331-david-baileys-nakamoto-sells-roughly-5-of-its-bitcoin-holdings-offloading-284-bt.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "F2Pool co-founder says Thailand condo bought for 2,900 Bitcoin sold for 7",
+      "summary": "F2Pool co-founder Wang Chun’s decision to sell a Thai condo once bought for 2,900 BTC for just 7 BTC illustrates the opportunity cost of spending Bitcoin early.",
+      "url": "https://cointelegraph.com/news/f2pool-co-founder-sells-home-7-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-31T09:04:21.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260331-f2pool-co-founder-says-thailand-condo-bought-for-2900-bitcoin-sold-for-7",
+      "localUrl": "/news/20260331-f2pool-co-founder-says-thailand-condo-bought-for-2900-bitcoin-sold-for-7.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Hashdex’s diversified crypto ETF adds options for hedging, income generation",
@@ -114,6 +224,17 @@
       "category": "综合",
       "slug": "20260331-dubai-sets-formal-rules-for-crypto-exchange-traded-derivatives",
       "localUrl": "/news/20260331-dubai-sets-formal-rules-for-crypto-exchange-traded-derivatives.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "⚠️GOOGLE SAYS A QUANTUM ATTACK ON BITCOIN TAKES JUST 9 MINS WITH A 41% SUCCESS RATE Google's quantum team now says cracking Bitcoin may require less than 500K qubits, far below the “millions” once assumed. Research suggests an - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nUEFSRlM0bVhyZGtaaVFKcURwVmhUVGJISk10UF9XY2ZKbkgyUEVtRDlsbERkQ2hxMUJBM1h0R01qX0tZNGtJczNORHlrOWlLWDFQd1lFZ1hkaWZydDZiNg?oc=5\" target=\"_blank\">⚠️GOOGLE SAYS A QUANTUM ATTACK ON BI…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nUEFSRlM0bVhyZGtaaVFKcURwVmhUVGJISk10UF9XY2ZKbkgyUEVtRDlsbERkQ2hxMUJBM1h0R01qX0tZNGtJczNORHlrOWlLWDFQd1lFZ1hkaWZydDZiNg?oc=5",
+      "publishedAt": "2026-03-31T05:49:32.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260331-google-says-a-quantum-attack-on-bitcoin-takes-just-9-mins-with-a-41-success-rate",
+      "localUrl": "/news/20260331-google-says-a-quantum-attack-on-bitcoin-takes-just-9-mins-with-a-41-success-rate.html"
     },
     {
       "source": "CoinDesk",
@@ -264,7 +385,7 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨 CRITICAL: Active supply chain attack on axios -- one of npm's most depended-on packages. The latest [email protected] now pulls in [email protected], a package that did not exist before today. This is a live compromise. This is textbook supply chain installer - x.com",
+      "title": "🚨 CRITICAL: Active supply chain attack on axios -- one of npm's most depended-on packages. The latest axios@1.14.1 now pulls in plain-crypto-js@4.2.1, a package that did not exist before today. This is a live compromise. This is textbook supply chain install - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE94U2pzTDVIdDRFbjdsQkVINjJ5Tjh1Y2JfZk5Ec0hHUVdGN0dfdFNsZWlCOVM5ODQzOTdrOTloVVJRY29OMXNrVVlRcUJNWHNqSDc3YjRHRGxjMGM?oc=5\" target=\"_blank\">🚨 CRITICAL: Active supply chain attack on …",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94U2pzTDVIdDRFbjdsQkVINjJ5Tjh1Y2JfZk5Ec0hHUVdGN0dfdFNsZWlCOVM5ODQzOTdrOTloVVJRY29OMXNrVVlRcUJNWHNqSDc3YjRHRGxjMGM?oc=5",
       "publishedAt": "2026-03-31T02:35:11.000Z",
@@ -443,19 +564,6 @@
       "localUrl": "/news/20260330-senators-reveal-mined-in-america-bill-to-boost-bitcoin-mining-support-trumps-res.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "NFL asks prediction markets to act on ‘easily manipulated’ bets",
-      "summary": "CFTC Chair Michael Selig signaled that the agency would defer to the football league in calling for changes to event contracts that could be manipulated by a single person.",
-      "url": "https://cointelegraph.com/news/nfl-asks-prediction-markets-to-act-on-easily-manipulated-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-30T21:07:35.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260330-nfl-asks-prediction-markets-to-act-on-easily-manipulated-bets",
-      "localUrl": "/news/20260330-nfl-asks-prediction-markets-to-act-on-easily-manipulated-bets.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Why Consensus is crypto’s new ground zero",
       "summary": "A decade of building is paying off. Massive Institutional presence, deep focus on agentic commerce make the event in Miami one for the ages.",
@@ -482,19 +590,6 @@
       "category": "监管",
       "slug": "20260330-chainlink-labs-anchorage-digital-back-new-crypto-super-pac-ahead-of-midterms",
       "localUrl": "/news/20260330-chainlink-labs-anchorage-digital-back-new-crypto-super-pac-ahead-of-midterms.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Hyperliquid whale opens $53M Bitcoin short: Should traders take notice?",
-      "summary": "A $53 million Bitcoin short on Hyperliquid highlights bearish positioning as traders navigate geopolitical risks, regulation concerns and macro data.",
-      "url": "https://cointelegraph.com/news/hyperliquid-whale-opens-53m-bitcoin-short-should-traders-take-notice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-30T20:56:27.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "监管",
-      "slug": "20260330-hyperliquid-whale-opens-53m-bitcoin-short-should-traders-take-notice",
-      "localUrl": "/news/20260330-hyperliquid-whale-opens-53m-bitcoin-short-should-traders-take-notice.html"
     },
     {
       "source": "CoinDesk",
@@ -525,19 +620,6 @@
       "localUrl": "/news/20260330-bitcoin-flashes-warning-sign-with-nearly-half-of-btc-supply-sitting-at-a-loss-re.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Square rolls out Bitcoin payments at POS for eligible US merchants",
-      "summary": "Rolling out over the coming month, a Block executive said Bitcoin payments at point-of-sale will be automatically enabled and settled in US dollars by default.",
-      "url": "https://cointelegraph.com/news/square-begins-auto-enabling-bitcoin-payments-for-eligible-us-sellers-exec-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-30T20:18:21.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260330-square-rolls-out-bitcoin-payments-at-pos-for-eligible-us-merchants",
-      "localUrl": "/news/20260330-square-rolls-out-bitcoin-payments-at-pos-for-eligible-us-merchants.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Ethereum Foundation Stakes More ETH, Boosting Total to $50 Million",
       "summary": "The Ethereum Foundation staked another $46 million ETH as part of its new treasury plan unveiled last year.",
@@ -562,32 +644,6 @@
       "category": "综合",
       "slug": "20260330-qwen-35-omni-alibabas-ai-model-can-now-hear-watch-and-clone-your-voice",
       "localUrl": "/news/20260330-qwen-35-omni-alibabas-ai-model-can-now-hear-watch-and-clone-your-voice.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Mitsubishi adopts JPMorgan blockchain for corporate payments",
-      "summary": "Mitsubishi plans to use JPMorgan’s Kinexys network for global payments as the bank targets $10 billion in daily blockchain transaction volume.",
-      "url": "https://cointelegraph.com/news/mitsubishi-jpmorgan-kinexys-blockchain-corporate-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-30T19:39:32.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260330-mitsubishi-adopts-jpmorgan-blockchain-for-corporate-payments",
-      "localUrl": "/news/20260330-mitsubishi-adopts-jpmorgan-blockchain-for-corporate-payments.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Chainlink and Anchorage Digital back launch of crypto-aligned PAC",
-      "summary": "Ahead of the November midterm elections, backers are lining up behind a new hybrid political action committee that allows contributions directly to candidates.",
-      "url": "https://cointelegraph.com/news/chainlink-anchorage-digital-crypto-pac-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-30T19:21:31.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260330-chainlink-and-anchorage-digital-back-launch-of-crypto-aligned-pac",
-      "localUrl": "/news/20260330-chainlink-and-anchorage-digital-back-launch-of-crypto-aligned-pac.html"
     },
     {
       "source": "Decrypt",
@@ -838,20 +894,6 @@
       "localUrl": "/news/20260330-bernstein-says-the-60-crash-in-crypto-stocks-is-a-rare-chance-to-buy-the-dip-at-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Zcash upside hinges on repricing financial privacy in an AI-driven world, Grayscale says",
-      "summary": "The crypto asset manager argued rising surveillance and AI could elevate demand for private digital money, positioning Zcash as a mispriced bet on confidentiality.",
-      "url": "https://www.coindesk.com/tech/2026/03/30/zcash-upside-hinges-on-repricing-financial-privacy-in-an-ai-driven-world-grayscale-says",
-      "publishedAt": "2026-03-30T14:18:22.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260330-zcash-upside-hinges-on-repricing-financial-privacy-in-an-ai-driven-world-graysca",
-      "localUrl": "/news/20260330-zcash-upside-hinges-on-repricing-financial-privacy-in-an-ai-driven-world-graysca.html"
-    },
-    {
       "source": "Chainalysis Blog",
       "title": "Chainalysis Supports Tempo with Automatic Token Coverage",
       "summary": "Chainalysis is excited to announce support for Tempo, an EVM-compatible Layer 1 blockchain purpose-built for stablecoin payments at scale. Tempo… The post Chainalysis Supports Tempo with Automatic Token Coverage appeared first on Chainalys…",
@@ -871,37 +913,6 @@
       "category": "综合",
       "slug": "20260330-chainalysis-supports-tempo-with-automatic-token-coverage",
       "localUrl": "/news/20260330-chainalysis-supports-tempo-with-automatic-token-coverage.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Nearly half of all circulating bitcoin is underwater as long-term holders sell at a loss",
-      "summary": "Nearly half of all bitcoin is now trading at a loss, with the Bitcoin Impact Index surging to 57.4, indicating high stress levels.",
-      "url": "https://www.coindesk.com/markets/2026/03/30/nearly-half-of-all-circulating-bitcoin-is-underwater-as-long-term-holders-sell-at-a-loss",
-      "publishedAt": "2026-03-30T13:53:45.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Prices",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260330-nearly-half-of-all-circulating-bitcoin-is-underwater-as-long-term-holders-sell-a",
-      "localUrl": "/news/20260330-nearly-half-of-all-circulating-bitcoin-is-underwater-as-long-term-holders-sell-a.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Charles Hoskinson’s $200 million bet: Midnight goes live to tackle crypto’s biggest flaws",
-      "summary": "The Cardano founder argues crypto is too public, complex and risky for mainstream use and is backing a privacy-focused network to change that.",
-      "url": "https://www.coindesk.com/tech/2026/03/30/charles-hoskinson-s-usd200-million-bet-midnight-goes-live-to-tackle-crypto-s-biggest-flaws",
-      "publishedAt": "2026-03-30T13:53:06.000Z",
-      "keywords": [
-        "Tech",
-        "Cardano",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260330-charles-hoskinsons-200-million-bet-midnight-goes-live-to-tackle-cryptos-biggest-",
-      "localUrl": "/news/20260330-charles-hoskinsons-200-million-bet-midnight-goes-live-to-tackle-cryptos-biggest-.html"
     },
     {
       "source": "X Wire",
@@ -929,14 +940,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Elon Groks Bitcoin - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UZFBzMEM4dHQ1Smw5aDJvQlRIVDFQRTM2dklVTFpwcGhPVUdYdGxsRG0wNzZjd2hnSS1JSFRBTExudHpkVDFNSjdxY2YtY3VUcFFJemE4WnVicnc?oc=5\" target=\"_blank\">Elon Groks Bitcoin</a> <font color=\"#6f6f6f…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UZFBzMEM4dHQ1Smw5aDJvQlRIVDFQRTM2dklVTFpwcGhPVUdYdGxsRG0wNzZjd2hnSS1JSFRBTExudHpkVDFNSjdxY2YtY3VUcFFJemE4WnVicnc?oc=5",
-      "publishedAt": "2026-03-30T12:44:19.000Z",
+      "title": "JUST IN: 🇺🇸 Eric Trump's \"American Bitcoin\" reaches a strategic reserve of over 7,000 BTC 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WbVA4OGR1NnNfeHhaVVp3ZXVpNG1SaHZfVzlGM25HV2JiVzF2XzQ0ZkZPX05EcjgybzBKdWNuYS1VYVhnMEFVbVRLRDhGTERrM19SWnozSkZSUjd0Uy1RMENyTEdwcms?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Eric Trump's …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WbVA4OGR1NnNfeHhaVVp3ZXVpNG1SaHZfVzlGM25HV2JiVzF2XzQ0ZkZPX05EcjgybzBKdWNuYS1VYVhnMEFVbVRLRDhGTERrM19SWnozSkZSUjd0Uy1RMENyTEdwcms?oc=5",
+      "publishedAt": "2026-03-30T12:11:48.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260330-elon-groks-bitcoin-xcom",
-      "localUrl": "/news/20260330-elon-groks-bitcoin-xcom.html"
+      "slug": "20260330-just-in-eric-trumps-american-bitcoin-reaches-a-strategic-reserve-of-over-7000-bt",
+      "localUrl": "/news/20260330-just-in-eric-trumps-american-bitcoin-reaches-a-strategic-reserve-of-over-7000-bt.html"
     },
     {
       "source": "X Wire",
@@ -959,17 +970,6 @@
       "category": "X热点",
       "slug": "20260330-great-bounce-upwards-but-nothing-confirmed-as-of-yet-on-bitcoin-all-depends-on-m",
       "localUrl": "/news/20260330-great-bounce-upwards-but-nothing-confirmed-as-of-yet-on-bitcoin-all-depends-on-m.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "💥BREAKING: Someone has opened a $51,553,000 Brent Oil short position with 5x leverage. Liquidation Price: $141.89 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKUmxfbTN6UzhTV2ltNDR2UHlseWx5SlJ3VmV4X0NCV0xLU3JRRlc4aDJhM19IbnVWMGlzUVdhN0F1ZmgtejVDd1lVckt6bjRxMjRodE5oc2VubGVQdGN0YXd3?oc=5\" target=\"_blank\">💥BREAKING: Someone has opened a $…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKUmxfbTN6UzhTV2ltNDR2UHlseWx5SlJ3VmV4X0NCV0xLU3JRRlc4aDJhM19IbnVWMGlzUVdhN0F1ZmgtejVDd1lVckt6bjRxMjRodE5oc2VubGVQdGN0YXd3?oc=5",
-      "publishedAt": "2026-03-30T06:36:55.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260330-breaking-someone-has-opened-a-51553000-brent-oil-short-position-with-5x-leverage",
-      "localUrl": "/news/20260330-breaking-someone-has-opened-a-51553000-brent-oil-short-position-with-5x-leverage.html"
     },
     {
       "source": "X Wire",
@@ -1054,14 +1054,14 @@
     },
     {
       "source": "X Wire",
-      "title": "💥BREAKING: This is a huge escalation. Israeli/American airforce has bombed the electricity grid in Tehran Iran causing large power outages. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXTlRwNDJfVTlYQ2p4UDRramxScTVoZUNxRC1NdkpBNjRqY1VhcGViR2RfakwxdHR4X3VLSElsa3dVNmpGbjdfeVRmd3BmdzE4TmxWaU5FV1BSRUVWN0c0RjVR?oc=5\" target=\"_blank\">💥BREAKING: This is a huge escalat…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXTlRwNDJfVTlYQ2p4UDRramxScTVoZUNxRC1NdkpBNjRqY1VhcGViR2RfakwxdHR4X3VLSElsa3dVNmpGbjdfeVRmd3BmdzE4TmxWaU5FV1BSRUVWN0c0RjVR?oc=5",
-      "publishedAt": "2026-03-29T18:41:07.000Z",
+      "title": "Bitcoin BTC/USD long positions on Bitfinex have risen to around 79,343, the highest since November 2023. Historically, this metric has acted as a contrarian indicator, with surges in longs often coinciding with price tops or preceding declines. Analysts suggest - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5ajdTR2JMMEVJY1lOOVhpaEJReVFDbWVwMUtqMmdVMFE0VTRTUHhzTVk2cGwxMmtjNC1TdTV1S2k1SHhlNWtIT19uNmJKcFZESG9DUGJ3TFZCM0pTc0FlUlR1Yw?oc=5\" target=\"_blank\">Bitcoin BTC/USD long positions o…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5ajdTR2JMMEVJY1lOOVhpaEJReVFDbWVwMUtqMmdVMFE0VTRTUHhzTVk2cGwxMmtjNC1TdTV1S2k1SHhlNWtIT19uNmJKcFZESG9DUGJ3TFZCM0pTc0FlUlR1Yw?oc=5",
+      "publishedAt": "2026-03-29T17:26:48.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260329-breaking-this-is-a-huge-escalation-israeliamerican-airforce-has-bombed-the-elect",
-      "localUrl": "/news/20260329-breaking-this-is-a-huge-escalation-israeliamerican-airforce-has-bombed-the-elect.html"
+      "slug": "20260329-bitcoin-btcusd-long-positions-on-bitfinex-have-risen-to-around-79343-the-highest",
+      "localUrl": "/news/20260329-bitcoin-btcusd-long-positions-on-bitfinex-have-risen-to-around-79343-the-highest.html"
     },
     {
       "source": "Decrypt",
