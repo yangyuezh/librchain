@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-03-31T22:50:49.833Z</lastmod>
+    <lastmod>2026-03-31T23:47:21.787Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-03-31T22:50:49.833Z</lastmod>
+    <lastmod>2026-03-31T23:47:21.787Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260331-bitcoin-enters-the-public-bond-market-as-moodys-gives-a-first-of-its-kind-crypto.html</loc>
+    <lastmod>2026-03-31T22:58:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260331-trump-says-us-will-leave-iran-within-2-to-3-weeks.html</loc>
+    <lastmod>2026-03-31T22:49:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260331-crypto-fear-and-greed-index-stuck-on-extreme-fear-but-is-there-a-silver-lining.html</loc>
+    <lastmod>2026-03-31T22:29:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260331-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-03-31T22:01:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260331-texas-lt-gov-lists-crypto-prediction-markets-in-charges-for-lawmakers.html</loc>
@@ -19,7 +43,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260331-wall-street-moves-benchmarks-onchain-as-sp-tokenizes-treasury-index.html</loc>
+    <loc>https://www.librchain.com/news/20260331-wall-street-moves-benchmarks-onchain-as-sp-tokenizes-treasurys-index.html</loc>
     <lastmod>2026-03-31T21:33:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -133,12 +157,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260331-just-in-bitcoin-reclaims-68000-xcom.html</loc>
-    <lastmod>2026-03-31T17:17:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260331-massachusetts-city-to-weigh-crypto-atm-ban-citing-financial-risks.html</loc>
     <lastmod>2026-03-31T17:12:55.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -207,12 +225,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260331-bitfarms-targets-zero-bitcoin-on-the-balance-sheet-as-it-pivots-to-ai.html</loc>
     <lastmod>2026-03-31T14:41:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260331-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-03-31T14:22:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -295,18 +307,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260331-crypto-dispute-over-resupply-exploit-lands-in-singapore-harassment-court.html</loc>
-    <lastmod>2026-03-31T12:46:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260331-is-450b-in-bitcoin-vulnerable-to-the-quantum-threat-analysts-weigh-in.html</loc>
-    <lastmod>2026-03-31T12:42:46.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260331-breaking-bitcoin-developers-are-already-working-on-upgrades-like-bip360-transiti.html</loc>
     <lastmod>2026-03-31T12:41:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -379,12 +379,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260331-bearish-sentiment-builds-in-crypto-as-volatility-and-hedging-rise.html</loc>
-    <lastmod>2026-03-31T10:34:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260331-bitcoin-needs-to-get-ready-for-the-quantum-era-we-need-to-strengthen-initiatives.html</loc>
     <lastmod>2026-03-31T06:01:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -441,6 +435,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260330-senators-reveal-mined-in-america-bill-to-boost-bitcoin-mining-support-trumps-res.html</loc>
     <lastmod>2026-03-30T21:15:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260330-scam-baiter-exposes-possible-deepfake-in-crypto-recovery-call-with-finger-test-x.html</loc>
+    <lastmod>2026-03-30T20:25:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
