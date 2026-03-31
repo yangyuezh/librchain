@@ -1,7 +1,53 @@
 {
-  "updatedAt": "2026-03-31T07:43:00.992Z",
+  "updatedAt": "2026-03-31T09:15:14.927Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Hashdex’s diversified crypto ETF adds options for hedging, income generation",
+      "summary": "Options on Hashdex’s diversified NCIQ ETF now let investors hedge, generate income and manage risk across a broad basket of digital assets.",
+      "url": "https://www.coindesk.com/markets/2026/03/31/hashdex-s-diversified-crypto-etf-adds-options-for-hedging-income-generation",
+      "publishedAt": "2026-03-31T09:02:07.000Z",
+      "keywords": [
+        "Markets",
+        "Options",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260331-hashdexs-diversified-crypto-etf-adds-options-for-hedging-income-generation",
+      "localUrl": "/news/20260331-hashdexs-diversified-crypto-etf-adds-options-for-hedging-income-generation.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Nakamoto sells $20 million in Bitcoin and cuts Metaplanet stake",
+      "summary": "David Bailey's Nakamoto plans to wind down healthcare operations as it shifts focus to integrating BTC Inc and UTXO Management.",
+      "url": "https://cointelegraph.com/news/nakamoto-sells-20m-bitcoin-metaplanet-loss-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-03-31T08:36:46.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260331-nakamoto-sells-20-million-in-bitcoin-and-cuts-metaplanet-stake",
+      "localUrl": "/news/20260331-nakamoto-sells-20-million-in-bitcoin-and-cuts-metaplanet-stake.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto investment firm Keyrock valued at $1.1 billion in Series C led by SC Ventures",
+      "summary": "The Brussels-based digital asset firm said the new capital will bolster its balance sheet and support expansion and acquisitions.",
+      "url": "https://www.coindesk.com/business/2026/03/31/crypto-investment-firm-keyrock-valued-at-usd1-1-billion-in-series-c-led-by-sc-ventures",
+      "publishedAt": "2026-03-31T08:30:00.000Z",
+      "keywords": [
+        "Finance",
+        "Exclusive",
+        "Crypto Trading",
+        "Market Makers",
+        "Keyrock",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260331-crypto-investment-firm-keyrock-valued-at-11-billion-in-series-c-led-by-sc-ventur",
+      "localUrl": "/news/20260331-crypto-investment-firm-keyrock-valued-at-11-billion-in-series-c-led-by-sc-ventur.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Democrats press CFTC, ethics watchdog on prediction market insider trading",
@@ -33,7 +79,7 @@
     {
       "source": "Cointelegraph",
       "title": "Crypto exchange KuCoin agrees to $500K settlement, ending CFTC case",
-      "summary": "KuCoin’s parent company will pay $500,000 to resolve CFTC charges, marking a fraction of the $300 million it previously agreed to pay the DOJ over similar charges.",
+      "summary": "KuCoin’s parent will pay $500,000 to settle CFTC charges following a separate $300 million penalty in a DOJ case over similar conduct.",
       "url": "https://cointelegraph.com/news/kucoin-fined-500k-as-cftc-cases-ends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-31T06:49:14.000Z",
       "keywords": [
@@ -125,8 +171,19 @@
       "localUrl": "/news/20260331-maryland-man-charged-in-50-million-uranium-finance-hack-after-us-seized-31-milli.html"
     },
     {
+      "source": "X Wire",
+      "title": "New supply chain attack this time for npm axios, the most popular HTTP client library with 300M weekly downloads. Scanning my system I found a use imported from googleworkspace/cli from a few days ago when I was experimenting with gmail/gcal cli. The in - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWbDh4SzYzbTlQSHZzYUl4M2k5LWt5UW54enRxNndUZ3ZGOXI0SHRMUVBzRzdFRzE1dW5BZjJwTFA3cnRwSEhfMkF6aXp6dEZxVEVXY3ZRazNWNEkyRWc?oc=5\" target=\"_blank\">New supply chain attack this time for n…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWbDh4SzYzbTlQSHZzYUl4M2k5LWt5UW54enRxNndUZ3ZGOXI0SHRMUVBzRzdFRzE1dW5BZjJwTFA3cnRwSEhfMkF6aXp6dEZxVEVXY3ZRazNWNEkyRWc?oc=5",
+      "publishedAt": "2026-03-31T05:23:32.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260331-new-supply-chain-attack-this-time-for-npm-axios-the-most-popular-http-client-lib",
+      "localUrl": "/news/20260331-new-supply-chain-attack-this-time-for-npm-axios-the-most-popular-http-client-lib.html"
+    },
+    {
       "source": "CoinDesk",
-      "title": "KuCoin operator barred from U.S. after CFTC order, following $297 Million DOJ case",
+      "title": "KuCoin operator barred from U.S. after CFTC order, following $297 million DOJ case",
       "summary": "KuCoin operator Peken Global Limited cannot cater to U.S. users on its platform unless it registers as a foreign board of trade.",
       "url": "https://www.coindesk.com/policy/2026/03/31/kucoin-permanently-barred-from-u-s-after-cftc-order-following-usd297-million-doj-case",
       "publishedAt": "2026-03-31T05:19:46.000Z",
@@ -139,6 +196,17 @@
       "category": "监管",
       "slug": "20260331-kucoin-operator-barred-from-us-after-cftc-order-following-297-million-doj-case",
       "localUrl": "/news/20260331-kucoin-operator-barred-from-us-after-cftc-order-following-297-million-doj-case.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Today is a monumentous day for quantum computing and cryptography. Two breakthrough papers just landed (links in next tweet). Both papers improve Shor's algorithm, infamous for cracking RSA and elliptic curve cryptography. The two results compound, op - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1feXJMUGUydjV6S1ViUVJiU1U1YzNxcUxFWFpfZk9TMlZLQTc0X3NObkZZRHFCV0pDUEx6UmlRWnliNTRleVRpYnB2S1ZtdV9PSGpDclRBRWI4LWhBQXUtLWplOA?oc=5\" target=\"_blank\">Today is a monumentous day for q…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1feXJMUGUydjV6S1ViUVJiU1U1YzNxcUxFWFpfZk9TMlZLQTc0X3NObkZZRHFCV0pDUEx6UmlRWnliNTRleVRpYnB2S1ZtdV9PSGpDclRBRWI4LWhBQXUtLWplOA?oc=5",
+      "publishedAt": "2026-03-31T05:15:53.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260331-today-is-a-monumentous-day-for-quantum-computing-and-cryptography-two-breakthrou",
+      "localUrl": "/news/20260331-today-is-a-monumentous-day-for-quantum-computing-and-cryptography-two-breakthrou.html"
     },
     {
       "source": "Decrypt",
@@ -183,7 +251,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "US senators press SEC over enforcement chief exit, Justin Sun’s case",
+      "title": "US senators question SEC over enforcement chief exit, Justin Sun case",
       "summary": "A report from Reuters earlier this month claimed that the SEC's former chief of enforcement clashed with agency leadership over cases involving those in Trump's orbit before resigning.",
       "url": "https://cointelegraph.com/news/us-senators-seek-probe-sec-enforcement-chief-s-exit-amid-trump-linked-crypto-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-31T03:46:55.000Z",
@@ -191,8 +259,8 @@
         "Latest News"
       ],
       "category": "监管",
-      "slug": "20260331-us-senators-press-sec-over-enforcement-chief-exit-justin-suns-case",
-      "localUrl": "/news/20260331-us-senators-press-sec-over-enforcement-chief-exit-justin-suns-case.html"
+      "slug": "20260331-us-senators-question-sec-over-enforcement-chief-exit-justin-sun-case",
+      "localUrl": "/news/20260331-us-senators-question-sec-over-enforcement-chief-exit-justin-sun-case.html"
     },
     {
       "source": "X Wire",
@@ -233,7 +301,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "US senators float ‘Mined in America Act’ to boost BTC mining, codify reserve",
+      "title": "US senators float ‘Mined in America Act’ to boost BTC mining manufacturing",
       "summary": "While the US hosts 38% of Bitcoin’s hashrate, 97% of mining machines are made by two Chinese companies, according to a Bitcoin policy advocate.",
       "url": "https://cointelegraph.com/news/senators-bill-bitcoin-mining-manufacturing-usa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-03-31T00:35:01.000Z",
@@ -241,8 +309,8 @@
         "Latest News"
       ],
       "category": "监管",
-      "slug": "20260331-us-senators-float-mined-in-america-act-to-boost-btc-mining-codify-reserve",
-      "localUrl": "/news/20260331-us-senators-float-mined-in-america-act-to-boost-btc-mining-codify-reserve.html"
+      "slug": "20260331-us-senators-float-mined-in-america-act-to-boost-btc-mining-manufacturing",
+      "localUrl": "/news/20260331-us-senators-float-mined-in-america-act-to-boost-btc-mining-manufacturing.html"
     },
     {
       "source": "Cointelegraph",
@@ -548,19 +616,6 @@
       "localUrl": "/news/20260330-coinbase-robinhood-and-figure-stocks-are-60-off-their-peaksbernstein-says-buy-th.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin accumulation addresses absorb 67K BTC as miner-led selling falls: Data",
-      "summary": "Onchain data shows inflows to accumulation addresses topping 67,000 BTC, while total outflows from Bitcoin miners fell to levels not seen since 2024.",
-      "url": "https://cointelegraph.com/news/bitcoin-accumulators-buy-67k-btc-as-miners-slow-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-03-30T18:39:08.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "市场",
-      "slug": "20260330-bitcoin-accumulation-addresses-absorb-67k-btc-as-miner-led-selling-falls-data",
-      "localUrl": "/news/20260330-bitcoin-accumulation-addresses-absorb-67k-btc-as-miner-led-selling-falls-data.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bluesky Users Revolt Against AI Tool Attie, Blocking It More Than ICE and White House Accounts",
       "summary": "Bluesky's new AI tool Attie drew swift backlash from users wary of automation—a very different vibe than on Elon Musk's X.",
@@ -797,17 +852,6 @@
       "localUrl": "/news/20260330-zcash-upside-hinges-on-repricing-financial-privacy-in-an-ai-driven-world-graysca.html"
     },
     {
-      "source": "X Wire",
-      "title": "We’re making it easier for millions of businesses to accept bitcoin. Starting today, eligible U.S. @Square sellers will begin having Bitcoin payments automatically enabled. Sellers who accept bitcoin will receive USD as default. This is how bitcoin as everyday m - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqTGU2SERTSmJkcGVXRWpGZEg1QXdSTmc2bW9nRU1GcTNxdG5TanlhVUdLY0hLTk52RU9CdUN5Q3FjNWhyaDBWaUliTG9CWVlWdzNlZnRFR0FSal81YmNHdg?oc=5\" target=\"_blank\">We’re making it easier for millions …",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqTGU2SERTSmJkcGVXRWpGZEg1QXdSTmc2bW9nRU1GcTNxdG5TanlhVUdLY0hLTk52RU9CdUN5Q3FjNWhyaDBWaUliTG9CWVlWdzNlZnRFR0FSal81YmNHdg?oc=5",
-      "publishedAt": "2026-03-30T14:11:04.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260330-were-making-it-easier-for-millions-of-businesses-to-accept-bitcoin-starting-toda",
-      "localUrl": "/news/20260330-were-making-it-easier-for-millions-of-businesses-to-accept-bitcoin-starting-toda.html"
-    },
-    {
       "source": "Chainalysis Blog",
       "title": "Chainalysis Supports Tempo with Automatic Token Coverage",
       "summary": "Chainalysis is excited to announce support for Tempo, an EVM-compatible Layer 1 blockchain purpose-built for stablecoin payments at scale. Tempo… The post Chainalysis Supports Tempo with Automatic Token Coverage appeared first on Chainalys…",
@@ -882,40 +926,6 @@
       "category": "市场",
       "slug": "20260330-bitcoin-dives-as-trump-weighs-us-ground-operation-in-iranbut-its-rising-again",
       "localUrl": "/news/20260330-bitcoin-dives-as-trump-weighs-us-ground-operation-in-iranbut-its-rising-again.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Lido DAO proposes $20 million LDO buyback to boost price after 95% slide",
-      "summary": "A proposed treasury buyback of up to 10,000 stETH for LDO highlights how thin DeFi governance token liquidity has become, forcing the DAO to route through centralized exchanges.",
-      "url": "https://www.coindesk.com/markets/2026/03/30/lido-dao-proposes-usd20-million-ldo-buyback-to-boost-price-after-95-slide",
-      "publishedAt": "2026-03-30T13:26:33.000Z",
-      "keywords": [
-        "Markets",
-        "DeFi",
-        "Staking",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260330-lido-dao-proposes-20-million-ldo-buyback-to-boost-price-after-95-slide",
-      "localUrl": "/news/20260330-lido-dao-proposes-20-million-ldo-buyback-to-boost-price-after-95-slide.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "CoinDesk 20 performance update: Ethereum (ETH) price rises 4.2% over weekend",
-      "summary": "Chainlink (LINK) joined Ethereum (ETH) as a top performer, up 4.1% since Friday.",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/03/30/coindesk-20-performance-update-ethereum-eth-price-rises-4-2-over-weekend",
-      "publishedAt": "2026-03-30T13:14:33.000Z",
-      "keywords": [
-        "CoinDesk Indices",
-        "CoinDesk Indices",
-        "CoinDesk 20",
-        "charts",
-        "Prices",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260330-coindesk-20-performance-update-ethereum-eth-price-rises-42-over-weekend",
-      "localUrl": "/news/20260330-coindesk-20-performance-update-ethereum-eth-price-rises-42-over-weekend.html"
     },
     {
       "source": "X Wire",
@@ -1052,17 +1062,6 @@
       "category": "X热点",
       "slug": "20260329-breaking-this-is-a-huge-escalation-israeliamerican-airforce-has-bombed-the-elect",
       "localUrl": "/news/20260329-breaking-this-is-a-huge-escalation-israeliamerican-airforce-has-bombed-the-elect.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin BTC/USD long positions on Bitfinex have risen to around 79,343, the highest since November 2023. Historically, this metric has acted as a contrarian indicator, with surges in longs often coinciding with price tops or preceding declines. Analysts suggest - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5ajdTR2JMMEVJY1lOOVhpaEJReVFDbWVwMUtqMmdVMFE0VTRTUHhzTVk2cGwxMmtjNC1TdTV1S2k1SHhlNWtIT19uNmJKcFZESG9DUGJ3TFZCM0pTc0FlUlR1Yw?oc=5\" target=\"_blank\">Bitcoin BTC/USD long positions o…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5ajdTR2JMMEVJY1lOOVhpaEJReVFDbWVwMUtqMmdVMFE0VTRTUHhzTVk2cGwxMmtjNC1TdTV1S2k1SHhlNWtIT19uNmJKcFZESG9DUGJ3TFZCM0pTc0FlUlR1Yw?oc=5",
-      "publishedAt": "2026-03-29T17:26:48.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260329-bitcoin-btcusd-long-positions-on-bitfinex-have-risen-to-around-79343-the-highest",
-      "localUrl": "/news/20260329-bitcoin-btcusd-long-positions-on-bitfinex-have-risen-to-around-79343-the-highest.html"
     },
     {
       "source": "Decrypt",
