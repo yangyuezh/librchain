@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2026-04-01T19:19:13.553Z",
+  "updatedAt": "2026-04-01T20:59:42.683Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen",
+      "summary": "Solana-based perpetuals DEX Drift Protocol has suffered an exploit impacting more than $200 million in funds.",
+      "url": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million",
+      "publishedAt": "2026-04-01T20:13:38.000Z",
+      "keywords": [
+        "DeFi"
+      ],
+      "category": "安全",
+      "slug": "20260401-solana-defi-exchange-drift-protocol-exploited-upwards-of-285-million-stolen",
+      "localUrl": "/news/20260401-solana-defi-exchange-drift-protocol-exploited-upwards-of-285-million-stolen.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Pro-crypto PAC to be headed by Tether executive ahead of US midterms",
+      "summary": "A debate over stablecoin yield, likely to impact Tether, is underway in the US government as lawmakers consider a market structure bill.",
+      "url": "https://cointelegraph.com/news/crypto-pactether-exec-us-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-01T20:08:05.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260401-pro-crypto-pac-to-be-headed-by-tether-executive-ahead-of-us-midterms",
+      "localUrl": "/news/20260401-pro-crypto-pac-to-be-headed-by-tether-executive-ahead-of-us-midterms.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Google's Veo 3.1 Lite Cuts API Costs in Half as OpenAI's Sora Exits the Market",
+      "summary": "Google's cheapest video model yet targets developers burned by high generation costs, arriving just days after OpenAI pulled the plug on Sora.",
+      "url": "https://decrypt.co/363077/google-veo-3-1-lite-cuts-api-costs-half-openai-sora",
+      "publishedAt": "2026-04-01T19:47:28.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "市场",
+      "slug": "20260401-googles-veo-31-lite-cuts-api-costs-in-half-as-openais-sora-exits-the-market",
+      "localUrl": "/news/20260401-googles-veo-31-lite-cuts-api-costs-in-half-as-openais-sora-exits-the-market.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-01T19:37:31.000Z",
+      "keywords": [
+        "Trump memecoin",
+        "Solana memecoin",
+        "TRUMP token",
+        "Solana",
+        "SOL",
+        "Nova Labs",
+        "SEC",
+        "Securities and Exchange Commission",
+        "Crypto regulation",
+        "TRUMP rally",
+        "Bitcoin",
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260401-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260401-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Citadel-backed EDX Markets applies for U.S. trust charter to expand institutional crypto services",
+      "summary": "The Citadel-backed exchange is seeking approval to offer custody and asset services as institutional demand grows.",
+      "url": "https://www.coindesk.com/markets/2026/04/01/citadel-backed-edx-markets-applies-for-u-s-trust-charter-to-expand-institutional-crypto-services",
+      "publishedAt": "2026-04-01T19:36:22.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260401-citadel-backed-edx-markets-applies-for-us-trust-charter-to-expand-institutional-",
+      "localUrl": "/news/20260401-citadel-backed-edx-markets-applies-for-us-trust-charter-to-expand-institutional-.html"
+    },
     {
       "source": "Decrypt",
       "title": "Elon Musk’s SpaceX Files Confidentially for Record-Breaking $1.75 Trillion IPO",
@@ -43,7 +120,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Solana DeFi platform Drift investigates suspicious activity, tells users to halt deposits",
+      "title": "Solana DeFi platform Drift confirms 'active attack' as $200M+ leaves platform",
       "summary": "The platform halted deposits while it investigates suspicious activity and urges users to proceed with caution.",
       "url": "https://www.coindesk.com/tech/2026/04/01/solana-defi-platform-drift-investigates-suspicious-activity-tells-users-to-halt-deposits",
       "publishedAt": "2026-04-01T18:35:27.000Z",
@@ -55,8 +132,8 @@
         "News"
       ],
       "category": "基础设施",
-      "slug": "20260401-solana-defi-platform-drift-investigates-suspicious-activity-tells-users-to-halt-",
-      "localUrl": "/news/20260401-solana-defi-platform-drift-investigates-suspicious-activity-tells-users-to-halt-.html"
+      "slug": "20260401-solana-defi-platform-drift-confirms-active-attack-as-200m-leaves-platform",
+      "localUrl": "/news/20260401-solana-defi-platform-drift-confirms-active-attack-as-200m-leaves-platform.html"
     },
     {
       "source": "Decrypt",
@@ -178,6 +255,17 @@
       "category": "市场",
       "slug": "20260401-the-quantum-threat-to-bitcoin-dividing-crypto",
       "localUrl": "/news/20260401-the-quantum-threat-to-bitcoin-dividing-crypto.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨🗞️NEW: Bitcoin-Backed Muni Bond Gets First Moody’s Rating; Stablecoin Yield Text Delayed Lots of news this Wednesday. Read it all in today’s @CryptoAmerica_ newsletter from yours truly. ⬇️ - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE16b3pUaHkwa2ZFVHFtZWZnczB2TjRhWnRIUlc4MUxGbFBoWXFhX3RyN0R4UDNWZmYxYWVvbnpITF85YkFQVTVkcEhzc25pMG5DNG41TllaT1ZJUTRoLVRRU3dxUDZuQQ?oc=5\" target=\"_blank\">🚨🗞️NEW: Bitcoin-Backed Mun…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16b3pUaHkwa2ZFVHFtZWZnczB2TjRhWnRIUlc4MUxGbFBoWXFhX3RyN0R4UDNWZmYxYWVvbnpITF85YkFQVTVkcEhzc25pMG5DNG41TllaT1ZJUTRoLVRRU3dxUDZuQQ?oc=5",
+      "publishedAt": "2026-04-01T16:25:44.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260401-new-bitcoin-backed-muni-bond-gets-first-moodys-rating-stablecoin-yield-text-dela",
+      "localUrl": "/news/20260401-new-bitcoin-backed-muni-bond-gets-first-moodys-rating-stablecoin-yield-text-dela.html"
     },
     {
       "source": "CoinDesk",
@@ -339,6 +427,17 @@
       "localUrl": "/news/20260401-franklin-templeton-deepens-crypto-push-with-coinfund-spinoff-deal.html"
     },
     {
+      "source": "X Wire",
+      "title": "As one of the leading crypto companies, we care deeply about innovation. With innovation comes change - sometimes unwelcome change. In a rapidly evolving world, it's important that the pump fun brand stays not only in touch with culture, but continues to sh - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jZTJwM1c5MTJjdDRMWGhJX05fYmYxUXFrQmVValNLSFlQWkZVQmtGZjNtWVpYTV9DUG9sTWx5WEZHQURSQThycW1zbU85TVl5NXhFNUVhbEJZV1Vz?oc=5\" target=\"_blank\">As one of the leading crypto companies, we…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jZTJwM1c5MTJjdDRMWGhJX05fYmYxUXFrQmVValNLSFlQWkZVQmtGZjNtWVpYTV9DUG9sTWx5WEZHQURSQThycW1zbU85TVl5NXhFNUVhbEJZV1Vz?oc=5",
+      "publishedAt": "2026-04-01T13:54:48.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260401-as-one-of-the-leading-crypto-companies-we-care-deeply-about-innovation-with-inno",
+      "localUrl": "/news/20260401-as-one-of-the-leading-crypto-companies-we-care-deeply-about-innovation-with-inno.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Strategy set to resume buying Bitcoin via STRC: Will BTC price hit $80K?",
       "summary": "Michael Saylor's Strategy has raised funds to purchase at least 1,111 BTC this week, increasing the odds of sending prices higher in April.",
@@ -364,30 +463,6 @@
       "category": "监管",
       "slug": "20260401-franklin-templeton-launches-crypto-division-with-250-digital-acquisition",
       "localUrl": "/news/20260401-franklin-templeton-launches-crypto-division-with-250-digital-acquisition.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-01T13:38:01.000Z",
-      "keywords": [
-        "Trump memecoin",
-        "Solana memecoin",
-        "TRUMP token",
-        "Solana",
-        "SOL",
-        "Nova Labs",
-        "SEC",
-        "Securities and Exchange Commission",
-        "Crypto regulation",
-        "TRUMP rally",
-        "Bitcoin",
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260401-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260401-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "CoinDesk",
@@ -595,6 +670,17 @@
       "localUrl": "/news/20260401-jack-dorsey-says-ai-should-replace-the-middle-manager-after-block-cuts-4000-jobs.html"
     },
     {
+      "source": "X Wire",
+      "title": "We got a ticker for the upcoming iShares Bitcoin Premium Income ETF: $BITA They just filed an amended S-1 for this highly anticipated sequel. No fee yet tho. My over/under is 38bps. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1idVFpT3d4Q3NtMEllUWo2WFJlSzl2eVp1d2g4VFNjZmVtOGIxVTBoT01sWkgyczc3UEkyUFN2bVJpcFNBLXhkLUFodndrWFdtZUpVc1psZnJPZ1g2OFRXeWl1LWo?oc=5\" target=\"_blank\">We got a ticker for the upcomin…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1idVFpT3d4Q3NtMEllUWo2WFJlSzl2eVp1d2g4VFNjZmVtOGIxVTBoT01sWkgyczc3UEkyUFN2bVJpcFNBLXhkLUFodndrWFdtZUpVc1psZnJPZ1g2OFRXeWl1LWo?oc=5",
+      "publishedAt": "2026-04-01T11:17:09.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260401-we-got-a-ticker-for-the-upcoming-ishares-bitcoin-premium-income-etf-bita-they-ju",
+      "localUrl": "/news/20260401-we-got-a-ticker-for-the-upcoming-ishares-bitcoin-premium-income-etf-bita-they-ju.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Smart money is hedging bitcoin more aggressively than ether :Crypto Daybook Americas",
       "summary": "Your day-ahead look for April 1, 2026",
@@ -719,19 +805,6 @@
       "localUrl": "/news/20260401-feds-barr-backs-stablecoin-clarity-but-warns-of-run-risks.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "US crypto wash trading case reaches court as 3 extradited, 10 charged",
-      "summary": "Extraditions of executives from market makers Vortex, Contrarian, Gotbit and Antier mark the latest step in a multi‑agency effort targeting alleged “market‑manipulation‑as‑a‑service.”",
-      "url": "https://cointelegraph.com/news/us-brings-10-alleged-crypto-market-manipulators-oakland-court?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-01T09:36:24.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260401-us-crypto-wash-trading-case-reaches-court-as-3-extradited-10-charged",
-      "localUrl": "/news/20260401-us-crypto-wash-trading-case-reaches-court-as-3-extradited-10-charged.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin’s old price peaks aren’t sacred – and the parabolic era may be over",
       "summary": "Bitcoin’s price retraces to old highs, signaling slower growth and a maturing market.",
@@ -763,22 +836,6 @@
       "localUrl": "/news/20260401-crypto-asset-manager-coinshares-to-list-on-nasdaq-stock-market-after-12-billion-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Strategy's STRC keeps dividend payout steady at 11.5% after seven straight increases",
-      "summary": "The perpetual preferred yield holds at 11.5% for April as the 30-day volume weighted average price stabilizes near $100.",
-      "url": "https://www.coindesk.com/markets/2026/04/01/strc-keeps-dividend-payout-steady-at-11-5-after-seven-straight-increases",
-      "publishedAt": "2026-04-01T08:19:21.000Z",
-      "keywords": [
-        "Markets",
-        "MicroStrategy",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260401-strategys-strc-keeps-dividend-payout-steady-at-115-after-seven-straight-increase",
-      "localUrl": "/news/20260401-strategys-strc-keeps-dividend-payout-steady-at-115-after-seven-straight-increase.html"
-    },
-    {
       "source": "X Wire",
       "title": "Multiple Crypto Influencers and Users Announce Departures from Cryptocurrency on April 1 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LSGNHSXR6XzRfZFJqblctVldGT3oyeWxZUVBzN2x3R3hlNXVWcnVpTnpWZnIxSTFETlhoU1M4V1RxVVcxM0x0VTVId0JVYUNUQmhuYzUyNA?oc=5\" target=\"_blank\">Multiple Crypto Influencers and Users Announce D…",
@@ -799,6 +856,17 @@
       "category": "X热点",
       "slug": "20260401-just-in-malta-says-eus-crypto-regulation-plans-will-push-firms-away-to-us-uae-as",
       "localUrl": "/news/20260401-just-in-malta-says-eus-crypto-regulation-plans-will-push-firms-away-to-us-uae-as.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "FUN FACT: 13 years ago today, Bitcoin reached $100 for the first time. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GRF9TZTFqdHhMNngyaFhhclRwMzF2OXBCOE4zUUtoVXc0RWlqVzlzVHV2YXlHdWlUd1FTYjZONlo5bzNsRHZwRDRvREk3cVpyZlJpbVZzRkVhSE9SdUgybDNB?oc=5\" target=\"_blank\">FUN FACT: 13 years ago today, Bitc…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GRF9TZTFqdHhMNngyaFhhclRwMzF2OXBCOE4zUUtoVXc0RWlqVzlzVHV2YXlHdWlUd1FTYjZONlo5bzNsRHZwRDRvREk3cVpyZlJpbVZzRkVhSE9SdUgybDNB?oc=5",
+      "publishedAt": "2026-04-01T04:10:16.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260401-fun-fact-13-years-ago-today-bitcoin-reached-100-for-the-first-time-xcom",
+      "localUrl": "/news/20260401-fun-fact-13-years-ago-today-bitcoin-reached-100-for-the-first-time-xcom.html"
     },
     {
       "source": "X Wire",
@@ -926,32 +994,6 @@
       "localUrl": "/news/20260331-bitcoin-crypto-stocks-climb-on-reports-that-irans-president-is-ready-to-end-war.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Tether's USAT Stablecoin Expands Beyond Ethereum Mainnet to Celo",
-      "summary": "The Tether-backed USAT stablecoin built for the U.S. market is expanding to Ethereum layer-2 network Celo with help from Google Cloud.",
-      "url": "https://decrypt.co/362941/tethers-usat-stablecoin-expands-ethereum-mainnet-celo",
-      "publishedAt": "2026-03-31T18:35:41.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "基础设施",
-      "slug": "20260331-tethers-usat-stablecoin-expands-beyond-ethereum-mainnet-to-celo",
-      "localUrl": "/news/20260331-tethers-usat-stablecoin-expands-beyond-ethereum-mainnet-to-celo.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Anthropic Accidentally Leaked Claude Code's Source—The Internet Is Keeping It Forever",
-      "summary": "Claude Code exposed: Anthropic is scrambling to contain the leak, but the AI coding agent is spreading far and wide and being picked apart.",
-      "url": "https://decrypt.co/362917/anthropic-accidentally-leaked-claude-code-source-internet-keeping-forever",
-      "publishedAt": "2026-03-31T18:02:56.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260331-anthropic-accidentally-leaked-claude-codes-sourcethe-internet-is-keeping-it-fore",
-      "localUrl": "/news/20260331-anthropic-accidentally-leaked-claude-codes-sourcethe-internet-is-keeping-it-fore.html"
-    },
-    {
       "source": "X Wire",
       "title": "I mentioned this last year on @theallinpod and the crypto bros freaked out. Two things are true about crypto bros: they are extremely technical and extremely belief oriented. Sometimes, though, the latter clouds the former. This paper from Google, though, is qui - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NMzdBSGFaTi1qZldrR2hoQkZNbTdRcGpKZ091N2xoc3ZLUzlwTkQ1WVFPMnQyYWhMN1Mwc0NvMDRleVpET0N4VkFMYmVBbjhrTzR1Ukd3UGRtNDkz?oc=5\" target=\"_blank\">I mentioned this last year on @theallinpod…",
@@ -1002,17 +1044,6 @@
     },
     {
       "source": "X Wire",
-      "title": "INSIGHT: @Google says breaking Bitcoin's cryptography may require far fewer qubits than previously thought, with 6.9 million $BTC already sitting in wallets where public keys have been exposed and vulnerable to attack. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQbEU0M0tvWTREYlpuZUlIbDVQNERjRVdmTHRQQ3VobTRINURoN29fRTZnMWN5ZmtfcE9oMGE4dXQ4NWhkdXd6Q3RJSFBqTU1POXJrZnU3SGtwZVNKYmc?oc=5\" target=\"_blank\">INSIGHT: @Google says breaking Bitcoin'…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQbEU0M0tvWTREYlpuZUlIbDVQNERjRVdmTHRQQ3VobTRINURoN29fRTZnMWN5ZmtfcE9oMGE4dXQ4NWhkdXd6Q3RJSFBqTU1POXJrZnU3SGtwZVNKYmc?oc=5",
-      "publishedAt": "2026-03-31T10:06:52.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260331-insight-google-says-breaking-bitcoins-cryptography-may-require-far-fewer-qubits-",
-      "localUrl": "/news/20260331-insight-google-says-breaking-bitcoins-cryptography-may-require-far-fewer-qubits-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "🚨 BIG: Google research shows a future quantum computer could crack Bitcoin's private keys in just 9 mins, 1 min short of Bitcoin's average block time. The research warns mempool attacks could become a real threat, urging immediate migration to post-quantu - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE90Q01pVEU2X01FMTRKeEJsT2tZSkNVd2tCM2lzeXBaYjc4ODlYMy1FVjRnVzNaOF9OTl9RQUZnS2NobXNKQWZvczBsNS13aHZZV3VXNDJHWUc3UzQ4M1BfTmpGNGg?oc=5\" target=\"_blank\">🚨 BIG: Google research shows a…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90Q01pVEU2X01FMTRKeEJsT2tZSkNVd2tCM2lzeXBaYjc4ODlYMy1FVjRnVzNaOF9OTl9RQUZnS2NobXNKQWZvczBsNS13aHZZV3VXNDJHWUc3UzQ4M1BfTmpGNGg?oc=5",
@@ -1056,17 +1087,6 @@
       "localUrl": "/news/20260330-just-in-bitcoin-has-now-dipped-below-the-fire-sale-territory-buy-the-dip-xcom.html"
     },
     {
-      "source": "X Wire",
-      "title": "Our plans to build a blockchain-based shared ledger have reached a major new milestone. After completing its design phase with a global group of banks, we are now shaping the ledger’s first MVP iteration, which will enable interoperability between banks’ to - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE15cmwwSTRITXREcHBIcjFxU1JNQU5wRWRFeHJQSG9QTWNuT0tjSS1HbkNESlZ3MlM0U01GN09mbWVUc19fckRvYmFFRjJPcjVWZllzZWJxeVRHWU0wcUJBb0pzeXlQZw?oc=5\" target=\"_blank\">Our plans to build a blockch…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15cmwwSTRITXREcHBIcjFxU1JNQU5wRWRFeHJQSG9QTWNuT0tjSS1HbkNESlZ3MlM0U01GN09mbWVUc19fckRvYmFFRjJPcjVWZllzZWJxeVRHWU0wcUJBb0pzeXlQZw?oc=5",
-      "publishedAt": "2026-03-30T15:28:11.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260330-our-plans-to-build-a-blockchain-based-shared-ledger-have-reached-a-major-new-mil",
-      "localUrl": "/news/20260330-our-plans-to-build-a-blockchain-based-shared-ledger-have-reached-a-major-new-mil.html"
-    },
-    {
       "source": "Chainalysis Blog",
       "title": "From the Battlefield to the Blockchain: How Cryptocurrency Is Helping Finance the Drone Revolution",
       "summary": "TL;DR Low-cost, commercially available drones have become central to modern conflict, allowing state and non-state actors, such as pro-Russia militias… The post From the Battlefield to the Blockchain: How Cryptocurrency Is Helping Finance …",
@@ -1085,17 +1105,6 @@
       "category": "综合",
       "slug": "20260330-from-the-battlefield-to-the-blockchain-how-cryptocurrency-is-helping-finance-the",
       "localUrl": "/news/20260330-from-the-battlefield-to-the-blockchain-how-cryptocurrency-is-helping-finance-the.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Today, millions of Square merchants \"will begin having Bitcoin payments automatically enabled.\" 👀 Adoption! 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvTTByUFdmMkhzSVp4aVZEajBkZXpGVW9maGZQR3d6UGNpQ0ZkRUNSckxVeV9MbVlVRG11M3RYTGR3NnlMZXh5WEVOQWZueWdFa3hOWThSSnBJd0ppc25FZnQ2cklOUTQ?oc=5\" target=\"_blank\">JUST IN: Today, millions of…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvTTByUFdmMkhzSVp4aVZEajBkZXpGVW9maGZQR3d6UGNpQ0ZkRUNSckxVeV9MbVlVRG11M3RYTGR3NnlMZXh5WEVOQWZueWdFa3hOWThSSnBJd0ppc25FZnQ2cklOUTQ?oc=5",
-      "publishedAt": "2026-03-30T14:40:24.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260330-just-in-today-millions-of-square-merchants-will-begin-having-bitcoin-payments-au",
-      "localUrl": "/news/20260330-just-in-today-millions-of-square-merchants-will-begin-having-bitcoin-payments-au.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -1117,17 +1126,6 @@
       "category": "综合",
       "slug": "20260330-chainalysis-supports-tempo-with-automatic-token-coverage",
       "localUrl": "/news/20260330-chainalysis-supports-tempo-with-automatic-token-coverage.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "How a 35-year-old self-described “crypto bro” from Pakistan helped his country win over Trump. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lVW5GT3BXNmpoUUo2eW5hVDhzbEc0N3dYdjhVR2FWdlZSNzlKRzhpMFBmUENSMmV5TGZhS2Z6Wk1Rc05qQjhxaEEzTXRRZXVRdm9qaENtQ0tzYk8xQ2c?oc=5\" target=\"_blank\">How a 35-year-old self-described “crypt…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lVW5GT3BXNmpoUUo2eW5hVDhzbEc0N3dYdjhVR2FWdlZSNzlKRzhpMFBmUENSMmV5TGZhS2Z6Wk1Rc05qQjhxaEEzTXRRZXVRdm9qaENtQ0tzYk8xQ2c?oc=5",
-      "publishedAt": "2026-03-29T22:04:12.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260329-how-a-35-year-old-self-described-crypto-bro-from-pakistan-helped-his-country-win",
-      "localUrl": "/news/20260329-how-a-35-year-old-self-described-crypto-bro-from-pakistan-helped-his-country-win.html"
     }
   ]
 }
