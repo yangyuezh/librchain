@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-01T07:51:46.345Z</lastmod>
+    <lastmod>2026-04-01T09:20:27.725Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-01T07:51:46.345Z</lastmod>
+    <lastmod>2026-04-01T09:20:27.725Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260401-crypto-asset-manager-coinshares-to-list-on-nasdaq-after-12-billion-spac-deal.html</loc>
+    <lastmod>2026-04-01T09:17:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260401-strategys-strc-keeps-dividend-payout-steady-at-115-after-seven-straight-increase.html</loc>
+    <lastmod>2026-04-01T08:19:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260401-australia-passes-crypto-regulation-requiring-exchanges-to-obtain-financial-servi.html</loc>
@@ -157,7 +169,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260331-texas-lt-gov-orders-study-of-crypto-prediction-markets-by-lawmakers.html</loc>
+    <loc>https://www.librchain.com/news/20260331-texas-lt-gov-calls-for-study-of-crypto-prediction-markets.html</loc>
     <lastmod>2026-03-31T21:48:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -217,7 +229,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260331-interactive-brokers-expands-crypto-trading-to-retail-investors-in-europe.html</loc>
+    <loc>https://www.librchain.com/news/20260331-interactive-brokers-launches-crypto-trading-for-retail-investors-in-europe.html</loc>
     <lastmod>2026-03-31T19:48:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -361,18 +373,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260331-coinbases-base-to-focus-on-tokenized-markets-stablecoins-developers-this-year.html</loc>
-    <lastmod>2026-03-31T13:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260331-downside-risk-remains-as-bitcoin-nears-record-tying-six-month-losing-streak.html</loc>
-    <lastmod>2026-03-31T12:58:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260331-breaking-bitcoin-developers-are-already-working-on-upgrades-like-bip360-transiti.html</loc>
     <lastmod>2026-03-31T12:41:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -423,6 +423,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260331-insight-google-says-breaking-bitcoins-cryptography-may-require-far-fewer-qubits-.html</loc>
     <lastmod>2026-03-31T10:06:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260331-will-this-happen-again-for-bitcoin-another-rejection-here-could-be-dangerous-xco.html</loc>
+    <lastmod>2026-03-31T09:58:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260330-from-the-battlefield-to-the-blockchain-how-cryptocurrency-is-helping-finance-the.html</loc>
     <lastmod>2026-03-30T15:00:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260330-just-in-today-millions-of-square-merchants-will-begin-having-bitcoin-payments-au.html</loc>
-    <lastmod>2026-03-30T14:40:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
