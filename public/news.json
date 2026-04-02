@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-04-02T11:07:48.952Z",
+  "updatedAt": "2026-04-02T11:57:43.793Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Europe's first blockchain IPO is here: France’s new exchange is taking aerospace firm public onchain",
+      "summary": "The move positions Lise and ST Group as an early test case for going public directly on blockchain rails within EU rules.",
+      "url": "https://www.coindesk.com/business/2026/04/02/france-s-new-stock-exchange-is-taking-an-aerospace-giant-public-onchain",
+      "publishedAt": "2026-04-02T11:45:45.000Z",
+      "keywords": [
+        "Finance",
+        "Tokenization",
+        "Real World Assets",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260402-europes-first-blockchain-ipo-is-here-frances-new-exchange-is-taking-aerospace-fi",
+      "localUrl": "/news/20260402-europes-first-blockchain-ipo-is-here-frances-new-exchange-is-taking-aerospace-fi.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase CLO: Clarity Act Deal on Stablecoin Yield 'Very Close'",
+      "summary": "The crypto exchange's top lawyer dismissed banking industry concerns about deposit flight as lawmakers work to finalize stablecoin provisions.",
+      "url": "https://decrypt.co/363115/coinbase-clo-clarity-act-deal-on-stablecoin-yield-very-close",
+      "publishedAt": "2026-04-02T11:26:57.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "监管",
+      "slug": "20260402-coinbase-clo-clarity-act-deal-on-stablecoin-yield-very-close",
+      "localUrl": "/news/20260402-coinbase-clo-clarity-act-deal-on-stablecoin-yield-very-close.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Audit admin keys, not just code, expert says after $200 million Drift exploit",
+      "summary": "Your day-ahead look for April 2, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/04/02/audit-admin-keys-not-just-code-expert-says-after-usd200-million-drift-exploit-crypto-daybook-americas",
+      "publishedAt": "2026-04-02T11:15:00.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260402-audit-admin-keys-not-just-code-expert-says-after-200-million-drift-exploit",
+      "localUrl": "/news/20260402-audit-admin-keys-not-just-code-expert-says-after-200-million-drift-exploit.html"
+    },
     {
       "source": "CoinDesk",
       "title": "The ‘wash trading’ bust: Why the feds are finally calling out crypto’s dirty little liquidity secret",
@@ -169,17 +213,6 @@
       "localUrl": "/news/20260402-bitcoin-risks-new-lows-as-us-dollar-targets-highest-level-since-april-2025.html"
     },
     {
-      "source": "X Wire",
-      "title": "🇹🇼 TODAY: The Bitcoin Policy Institute says Taiwan should build a Bitcoin reserve to hedge against global turmoil and the risk of war. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wN2ZuQ2JqNEhPWWF1MTVKdXRYQ1BUWmphdUt2WGcza2V4eGRpSnhDdDJZYUR2WFhpTmpNbFJSUnVXTWRleHo4OGRKbGl4RlBxOVB0S25iM1JPcTc5T0RUUGtSYWk?oc=5\" target=\"_blank\">🇹🇼 TODAY: The Bitcoin Policy …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wN2ZuQ2JqNEhPWWF1MTVKdXRYQ1BUWmphdUt2WGcza2V4eGRpSnhDdDJZYUR2WFhpTmpNbFJSUnVXTWRleHo4OGRKbGl4RlBxOVB0S25iM1JPcTc5T0RUUGtSYWk?oc=5",
-      "publishedAt": "2026-04-02T07:01:06.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260402-today-the-bitcoin-policy-institute-says-taiwan-should-build-a-bitcoin-reserve-to",
-      "localUrl": "/news/20260402-today-the-bitcoin-policy-institute-says-taiwan-should-build-a-bitcoin-reserve-to.html"
-    },
-    {
       "source": "Chainalysis Blog",
       "title": "Chainalysis、初のブロックチェーン・インテリジェンス・エージェントを発表",
       "summary": "※この記事は自動翻訳されています。正確な内容につきましては原文をご参照ください。 悪意のあるアクターはすでに AI を駆使し、詐欺、窃盗、マネーロンダリングを加速させています。対抗する側には、それを上回るスピードが求められます。 本日、イベント Links にて、Chainalysis の新たなステージとなる「ブロックチェーン・インテリジェンス・エージェント」を発表しました。新製品でも、後付けのチャットボット機能でもありません。数十億件のスクリーニング済みトランザクション、…",
@@ -238,7 +271,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin traders keep chasing Trump’s Iran noise. The real signals are elsewhere.",
+      "title": "Three key signals to watch as bitcoin whipsaws on Trump’s Iran rhetoric",
       "summary": "Bitcoin and other risk assets have been whipsawed by President Donald J. Trump’s shifting rhetoric on Iran. Here are some indicators that help cut through the noise.",
       "url": "https://www.coindesk.com/markets/2026/04/02/bitcoin-traders-keep-chasing-trump-s-iran-noise-the-real-signals-are-elsewhere",
       "publishedAt": "2026-04-02T05:24:47.000Z",
@@ -249,8 +282,8 @@
         "News"
       ],
       "category": "市场",
-      "slug": "20260402-bitcoin-traders-keep-chasing-trumps-iran-noise-the-real-signals-are-elsewhere",
-      "localUrl": "/news/20260402-bitcoin-traders-keep-chasing-trumps-iran-noise-the-real-signals-are-elsewhere.html"
+      "slug": "20260402-three-key-signals-to-watch-as-bitcoin-whipsaws-on-trumps-iran-rhetoric",
+      "localUrl": "/news/20260402-three-key-signals-to-watch-as-bitcoin-whipsaws-on-trumps-iran-rhetoric.html"
     },
     {
       "source": "Cointelegraph",
@@ -377,6 +410,17 @@
       "category": "X热点",
       "slug": "20260402-just-in-bitcoin-falls-under-67000-after-president-trump-says-he-will-finish-the-",
       "localUrl": "/news/20260402-just-in-bitcoin-falls-under-67000-after-president-trump-says-he-will-finish-the-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "I lost $65,000 on crypto shit coins and made this movie as a result. Please enjoy the trailer. $POSITIONS - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UYXRKRGVGOW1CNllkYjQ2NjhSRnlNWUFnNEZjMWZJc0JqOEFFTl9fWW43WGFGMU1KVW1aQXRCaUo5aV9EM2lEeENxaGpBUUdxS3YxZDAxZ1VlWVdvQVRVYUdaOA?oc=5\" target=\"_blank\">I lost $65,000 on crypto shit co…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UYXRKRGVGOW1CNllkYjQ2NjhSRnlNWUFnNEZjMWZJc0JqOEFFTl9fWW43WGFGMU1KVW1aQXRCaUo5aV9EM2lEeENxaGpBUUdxS3YxZDAxZ1VlWVdvQVRVYUdaOA?oc=5",
+      "publishedAt": "2026-04-02T00:33:04.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260402-i-lost-65000-on-crypto-shit-coins-and-made-this-movie-as-a-result-please-enjoy-t",
+      "localUrl": "/news/20260402-i-lost-65000-on-crypto-shit-coins-and-made-this-movie-as-a-result-please-enjoy-t.html"
     },
     {
       "source": "X Wire",
@@ -849,35 +893,6 @@
       "localUrl": "/news/20260401-today-we-launched-franklin-crypto-a-new-dedicated-institutional-grade-crypto-inv.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s crashes are shrinking, and Wall Street is starting to notice",
-      "summary": "Not all analysts agree that further drawdowns are over, as Bloomberg Analyst Mike McGlone insists the crypto bubble is over and bitcoin could still revisit $10,000.",
-      "url": "https://www.coindesk.com/markets/2026/04/01/bitcoin-s-crashes-are-shrinking-and-wall-street-is-starting-to-notice",
-      "publishedAt": "2026-04-01T12:59:22.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260401-bitcoins-crashes-are-shrinking-and-wall-street-is-starting-to-notice",
-      "localUrl": "/news/20260401-bitcoins-crashes-are-shrinking-and-wall-street-is-starting-to-notice.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "OpenAI raises a record $122 billion as revenue crosses $2 billion per month",
-      "summary": "The funding round, anchored by Amazon, Nvidia, and SoftBank, is the largest private funding in history.",
-      "url": "https://www.coindesk.com/tech/2026/04/01/openai-raises-a-record-usd122-billion-at-as-revenue-crosses-usd2-billion-per-month",
-      "publishedAt": "2026-04-01T12:15:03.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260401-openai-raises-a-record-122-billion-as-revenue-crosses-2-billion-per-month",
-      "localUrl": "/news/20260401-openai-raises-a-record-122-billion-as-revenue-crosses-2-billion-per-month.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Bitcoin has closed its first green month after 5 months of red 👀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yVDBrWnAwMEdwdGNmT2JsanZiUm8xUVBtNzM4OVFmdDlSYWhhU1h2R2l5eEp5WU5oZUpaUjVGcng2SW80QnM0akF0ZTZib3ZmYTA1amVtTmJDRS1CcEsyV2tVREpCSkk?oc=5\" target=\"_blank\">JUST IN: Bitcoin has closed…",
@@ -963,6 +978,17 @@
     },
     {
       "source": "X Wire",
+      "title": "🚨 LATEST: US DOJ charges 10 foreign nationals across four crypto firms for running pump-and-dump schemes on cryptocurrency markets. Three executives, including two CEOs, were arrested and extradited from Singapore to face trial. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVHQ1M19VN3dTSklzd1VVX1E1c2lZby0yb2dYd1lxdWM4UTB6QlMtZFVCNW1ONjZVUXN3UnVZZkxSVmVrY2tfWDNMMndPajlaM21Ld3RKc0pXbjhCV3UxYlJGVG4?oc=5\" target=\"_blank\">🚨 LATEST: US DOJ charges 10 fo…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVHQ1M19VN3dTSklzd1VVX1E1c2lZby0yb2dYd1lxdWM4UTB6QlMtZFVCNW1ONjZVUXN3UnVZZkxSVmVrY2tfWDNMMndPajlaM21Ld3RKc0pXbjhCV3UxYlJGVG4?oc=5",
+      "publishedAt": "2026-04-01T04:00:38.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260401-latest-us-doj-charges-10-foreign-nationals-across-four-crypto-firms-for-running-",
+      "localUrl": "/news/20260401-latest-us-doj-charges-10-foreign-nationals-across-four-crypto-firms-for-running-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "🔥 BIG: Arizona's crypto bills clear the House Rules Committee, putting them on a fast track to a full House vote. SB1042 would allow state funds to invest up to 10% in crypto, while SB1649 would establish a digital assets reserve fund. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE02R2RqYVJudmlGQTgzUC16ME1nc3lET1JFZUFzdFgtWFFON2tWVGxYRlZmdFRrQmwzSTNRMUkzVDRjNWVlVi1mVHFsZVc1NVpHZjE0WXZvdjc5cE5xSmZQNlZtTk4?oc=5\" target=\"_blank\">🔥 BIG: Arizona's crypto bills …",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02R2RqYVJudmlGQTgzUC16ME1nc3lET1JFZUFzdFgtWFFON2tWVGxYRlZmdFRrQmwzSTNRMUkzVDRjNWVlVi1mVHFsZVc1NVpHZjE0WXZvdjc5cE5xSmZQNlZtTk4?oc=5",
@@ -1025,19 +1051,6 @@
       "localUrl": "/news/20260331-california-tightens-ai-contract-rules-as-fight-with-trump-admin-grows.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Latin America’s Mercado Libre Pulls the Plug on Its Crypto Coin",
-      "summary": "Latin America's e-commerce giant Mercado Libre quietly killed its Mercado Coin loyalty token—pivoting to its own stablecoin.",
-      "url": "https://decrypt.co/362958/latin-america-mercado-libre-pulls-plug-crypto-coin",
-      "publishedAt": "2026-03-31T20:12:38.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "综合",
-      "slug": "20260331-latin-americas-mercado-libre-pulls-the-plug-on-its-crypto-coin",
-      "localUrl": "/news/20260331-latin-americas-mercado-libre-pulls-the-plug-on-its-crypto-coin.html"
-    },
-    {
       "source": "X Wire",
       "title": "I mentioned this last year on @theallinpod and the crypto bros freaked out. Two things are true about crypto bros: they are extremely technical and extremely belief oriented. Sometimes, though, the latter clouds the former. This paper from Google, though, is qui - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NMzdBSGFaTi1qZldrR2hoQkZNbTdRcGpKZ091N2xoc3ZLUzlwTkQ1WVFPMnQyYWhMN1Mwc0NvMDRleVpET0N4VkFMYmVBbjhrTzR1Ukd3UGRtNDkz?oc=5\" target=\"_blank\">I mentioned this last year on @theallinpod…",
@@ -1085,17 +1098,6 @@
       "category": "X热点",
       "slug": "20260331-developers-are-currently-working-on-a-bitcoin-improvement-proposal-to-strengthen",
       "localUrl": "/news/20260331-developers-are-currently-working-on-a-bitcoin-improvement-proposal-to-strengthen.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Today is a monumentous day for quantum computing and cryptography. Two breakthrough papers just landed (links in next tweet). Both papers improve Shor's algorithm, infamous for cracking RSA and elliptic curve cryptography. The two results compound, op - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1feXJMUGUydjV6S1ViUVJiU1U1YzNxcUxFWFpfZk9TMlZLQTc0X3NObkZZRHFCV0pDUEx6UmlRWnliNTRleVRpYnB2S1ZtdV9PSGpDclRBRWI4LWhBQXUtLWplOA?oc=5\" target=\"_blank\">Today is a monumentous day for q…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1feXJMUGUydjV6S1ViUVJiU1U1YzNxcUxFWFpfZk9TMlZLQTc0X3NObkZZRHFCV0pDUEx6UmlRWnliNTRleVRpYnB2S1ZtdV9PSGpDclRBRWI4LWhBQXUtLWplOA?oc=5",
-      "publishedAt": "2026-03-31T05:15:53.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260331-today-is-a-monumentous-day-for-quantum-computing-and-cryptography-two-breakthrou",
-      "localUrl": "/news/20260331-today-is-a-monumentous-day-for-quantum-computing-and-cryptography-two-breakthrou.html"
     },
     {
       "source": "Chainalysis Blog",
