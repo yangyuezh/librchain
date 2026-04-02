@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-02T21:51:02.723Z</lastmod>
+    <lastmod>2026-04-02T22:49:16.021Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-02T21:51:02.723Z</lastmod>
+    <lastmod>2026-04-02T22:49:16.021Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260402-crypto-market-structure-bill-release-pushed-back-as-industries-view-revised-stab.html</loc>
+    <lastmod>2026-04-02T22:12:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260402-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-04-02T21:47:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260402-stablecoin-supply-reaches-315b-in-q1-as-usdc-rises-usdt-declines.html</loc>
+    <lastmod>2026-04-02T21:29:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260402-rocky-us-economy-private-credit-stress-war-impact-bitcoins-odds-for-75k-rally.html</loc>
+    <lastmod>2026-04-02T21:24:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260402-usdc-stablecoin-issuer-circle-unveils-new-token-to-give-bitcoin-more-utility.html</loc>
@@ -205,12 +229,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260402-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-04-02T14:43:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260402-bitcoin-hits-weekly-low-on-oil-fears-as-analyst-teases-10k-btc-price-target.html</loc>
     <lastmod>2026-04-02T14:40:19.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -361,18 +379,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260402-polymarket-fee-expansion-boosts-revenue-amid-regulatory-pressure.html</loc>
-    <lastmod>2026-04-02T10:26:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260402-drift-explains-280m-exploit-as-critics-question-circle-over-usdc-freeze.html</loc>
-    <lastmod>2026-04-02T10:13:27.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260402-bitcoin-gold-and-us-stocks-dive-as-trump-pledges-to-hit-iran-extremely-hard.html</loc>
     <lastmod>2026-04-02T09:53:19.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -385,8 +391,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260402-beyond-t-bills-openeden-introduces-tokenized-high-yield-corporate-bond.html</loc>
-    <lastmod>2026-04-02T09:10:16.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260402-breaking-ethereum-activity-is-near-all-time-highs-with-788k-active-addresses-and.html</loc>
+    <lastmod>2026-04-02T06:48:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260402-going-to-start-spending-time-on-this-personally-seems-like-we-all-need-to-solve-.html</loc>
+    <lastmod>2026-04-02T06:45:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -397,8 +409,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260402-update-230m-usdc-bridged-via-cctp-from-solana-to-ethereum-across-100-txns-6-hour.html</loc>
-    <lastmod>2026-04-02T04:53:58.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260402-latest-peter-schiff-says-stocks-bonds-gold-and-bitcoin-are-all-selling-off-as-oi.html</loc>
+    <lastmod>2026-04-02T03:00:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -411,12 +423,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260402-just-in-bitcoin-falls-under-67000-after-president-trump-says-he-will-finish-the-.html</loc>
     <lastmod>2026-04-02T02:15:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260402-cryptoquant-data-shows-that-as-of-the-end-of-march-apparent-demand-for-bitcoin-a.html</loc>
-    <lastmod>2026-04-02T01:47:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,12 +481,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260401-as-one-of-the-leading-crypto-companies-we-care-deeply-about-innovation-with-inno.html</loc>
-    <lastmod>2026-04-01T13:54:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260401-today-we-launched-franklin-crypto-a-new-dedicated-institutional-grade-crypto-inv.html</loc>
     <lastmod>2026-04-01T13:04:55.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -493,8 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260401-bitcoin-closed-march-at-68215-rsi-44-as-said-before-i-would-not-be-surprised-if-.html</loc>
-    <lastmod>2026-04-01T07:49:00.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260331-i-mentioned-this-last-year-on-theallinpod-and-the-crypto-bros-freaked-out-two-th.html</loc>
+    <lastmod>2026-03-31T16:56:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -505,8 +505,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260331-developers-are-currently-working-on-a-bitcoin-improvement-proposal-to-strengthen.html</loc>
-    <lastmod>2026-03-31T11:58:40.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260331-saw-some-people-panicking-or-asking-about-quantum-computings-impact-on-crypto-at.html</loc>
+    <lastmod>2026-03-31T12:32:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
