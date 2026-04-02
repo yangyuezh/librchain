@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-01T23:48:46.137Z</lastmod>
+    <lastmod>2026-04-02T03:23:45.247Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-01T23:48:46.137Z</lastmod>
+    <lastmod>2026-04-02T03:23:45.247Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260402-bitcoin-dips-oil-rises-as-trump-addresses-nation-on-war-in-iran.html</loc>
+    <lastmod>2026-04-02T02:53:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260402-breaking-bitcoin-falls-below-67000-as-us-stock-market-futures-hit-a-new-low-of-d.html</loc>
+    <lastmod>2026-04-02T02:16:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260402-elon-musks-spacex-quietly-files-for-ipo-seeking-mammoth-debut.html</loc>
+    <lastmod>2026-04-02T00:02:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260401-crypto-exchange-bithumb-to-delay-ipo-until-after-2028-report.html</loc>
@@ -235,6 +253,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260401-as-one-of-the-leading-crypto-companies-we-care-deeply-about-innovation-with-inno.html</loc>
+    <lastmod>2026-04-01T13:54:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260401-strategy-set-to-resume-buying-bitcoin-via-strc-will-btc-price-hit-80k.html</loc>
     <lastmod>2026-04-01T13:53:53.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -267,18 +291,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260401-bitcoins-crashes-are-shrinking-and-wall-street-is-starting-to-notice.html</loc>
     <lastmod>2026-04-01T12:59:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260401-who-is-kevin-warsh-trumps-fed-pick-wants-regime-change-at-central-bank.html</loc>
-    <lastmod>2026-04-01T12:49:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260401-gen-z-turns-bitcoin-into-a-solid-portfolio-diversifier.html</loc>
-    <lastmod>2026-04-01T12:30:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -481,20 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260331-big-google-research-shows-a-future-quantum-computer-could-crack-bitcoins-private.html</loc>
-    <lastmod>2026-03-31T05:45:55.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260331-today-is-a-monumentous-day-for-quantum-computing-and-cryptography-two-breakthrou.html</loc>
     <lastmod>2026-03-31T05:15:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260330-just-in-bitcoin-has-now-dipped-below-the-fire-sale-territory-buy-the-dip-xcom.html</loc>
-    <lastmod>2026-03-30T16:32:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
