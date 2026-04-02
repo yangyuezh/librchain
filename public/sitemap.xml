@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-02T22:49:16.021Z</lastmod>
+    <lastmod>2026-04-02T23:48:32.817Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-02T22:49:16.021Z</lastmod>
+    <lastmod>2026-04-02T23:48:32.817Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260402-naoris-launches-post-quantum-blockchain-as-bitcoin-ethereum-devs-scramble-to-fac.html</loc>
+    <lastmod>2026-04-02T23:00:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260402-new-bitcoin-price-lows-on-the-table-until-76k-becomes-support.html</loc>
+    <lastmod>2026-04-02T22:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260402-crypto-market-structure-bill-release-pushed-back-as-industries-view-revised-stab.html</loc>
@@ -313,20 +325,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260402-liquidity-not-novelty-determines-tokenizations-value.html</loc>
-    <lastmod>2026-04-02T12:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260402-metaplanet-adds-5075-btc-in-q1-becomes-third-largest-bitcoin-treasury.html</loc>
     <lastmod>2026-04-02T12:24:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260402-bitcoin-tends-to-find-a-low-in-february-lower-high-in-march-then-it-drops-back-d.html</loc>
-    <lastmod>2026-04-02T12:20:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -427,6 +427,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260402-cryptoquant-data-shows-that-as-of-the-end-of-march-apparent-demand-for-bitcoin-a.html</loc>
+    <lastmod>2026-04-02T01:47:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260402-i-lost-65000-on-crypto-shit-coins-and-made-this-movie-as-a-result-please-enjoy-t.html</loc>
     <lastmod>2026-04-02T00:33:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -463,20 +469,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260401-googles-veo-31-lite-cuts-api-costs-in-half-as-openais-sora-exits-the-market.html</loc>
-    <lastmod>2026-04-01T19:47:28.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260401-just-in-bitcoin-reclaims-69000-xcom.html</loc>
+    <lastmod>2026-04-01T17:06:48.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260401-just-in-a-bitcoin-crypto-exchange-backed-by-citadel-securities-applied-to-be-a-n.html</loc>
     <lastmod>2026-04-01T16:35:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260401-new-bitcoin-backed-muni-bond-gets-first-moodys-rating-stablecoin-yield-text-dela.html</loc>
-    <lastmod>2026-04-01T16:25:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
