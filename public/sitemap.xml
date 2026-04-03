@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-03T05:47:45.143Z</lastmod>
+    <lastmod>2026-04-03T07:35:41.267Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-03T05:47:45.143Z</lastmod>
+    <lastmod>2026-04-03T07:35:41.267Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260403-crypto-hackers-steal-169m-from-34-defi-protocols-in-q1-defillama.html</loc>
+    <lastmod>2026-04-03T06:40:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260403-bitcoin-supply-in-profit-heads-to-true-bear-market-levels.html</loc>
@@ -295,12 +301,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260402-bitcoin-hits-weekly-low-on-oil-fears-as-analyst-teases-10k-btc-price-target.html</loc>
-    <lastmod>2026-04-02T14:40:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260402-us-attorneys-office-recovers-600k-in-crypto-fraud-scheme-targeting-ledger-wallet.html</loc>
     <lastmod>2026-04-02T14:39:31.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -339,6 +339,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260402-metaplanet-adds-5075-btc-in-q1-becomes-third-largest-bitcoin-treasury.html</loc>
     <lastmod>2026-04-02T12:24:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260402-bitcoin-tends-to-find-a-low-in-february-lower-high-in-march-then-it-drops-back-d.html</loc>
+    <lastmod>2026-04-02T12:20:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -397,12 +403,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260402-going-to-start-spending-time-on-this-personally-seems-like-we-all-need-to-solve-.html</loc>
-    <lastmod>2026-04-02T06:45:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260402-chainalysis.html</loc>
     <lastmod>2026-04-02T06:39:21.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -411,6 +411,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260402-california-just-passed-a-bill-to-seize-bitcoin-left-idle-on-exchanges-after-3-ye.html</loc>
     <lastmod>2026-04-02T06:03:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260402-update-230m-usdc-bridged-via-cctp-from-solana-to-ethereum-across-100-txns-6-hour.html</loc>
+    <lastmod>2026-04-02T04:53:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -457,14 +463,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260401-solana-defi-exchange-drift-protocol-exploited-upwards-of-285-million-stolen.html</loc>
-    <lastmod>2026-04-01T20:13:38.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260401-just-in-solana-based-crypto-dex-drift-protocol-says-270000000-hack-is-not-an-apr.html</loc>
+    <lastmod>2026-04-01T20:37:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260401-just-in-bitcoin-reclaims-69000-xcom.html</loc>
-    <lastmod>2026-04-01T17:06:48.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260401-solana-defi-exchange-drift-protocol-exploited-upwards-of-285-million-stolen.html</loc>
+    <lastmod>2026-04-01T20:13:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -487,8 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260401-big-arizonas-crypto-bills-clear-the-house-rules-committee-putting-them-on-a-fast.html</loc>
-    <lastmod>2026-04-01T03:40:33.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260331-just-in-michael-saylors-strategy-is-now-estimated-to-have-bought-over-2174-btc-t.html</loc>
+    <lastmod>2026-03-31T21:00:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -501,12 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260331-chainalysis-introduces-the-first-blockchain-intelligence-agents.html</loc>
     <lastmod>2026-03-31T13:00:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260331-saw-some-people-panicking-or-asking-about-quantum-computings-impact-on-crypto-at.html</loc>
-    <lastmod>2026-03-31T12:32:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
