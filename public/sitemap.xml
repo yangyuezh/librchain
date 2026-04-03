@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-03T07:35:41.267Z</lastmod>
+    <lastmod>2026-04-03T09:08:18.324Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-03T07:35:41.267Z</lastmod>
+    <lastmod>2026-04-03T09:08:18.324Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260403-south-korean-brokerage-korea-investment-securities-eyes-coinone-stake-report.html</loc>
+    <lastmod>2026-04-03T08:58:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260403-crypto-hackers-steal-169m-from-34-defi-protocols-in-q1-defillama.html</loc>
@@ -283,12 +289,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260402-defi-is-optimizing-for-gas-not-for-markets.html</loc>
-    <lastmod>2026-04-02T15:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260402-cftc-settles-with-former-ftx-engineer-for-37m-closing-first-individual-case.html</loc>
     <lastmod>2026-04-02T14:59:27.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -303,6 +303,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260402-us-attorneys-office-recovers-600k-in-crypto-fraud-scheme-targeting-ledger-wallet.html</loc>
     <lastmod>2026-04-02T14:39:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260402-every-ai-agent-deserves-a-crypto-wallet-in-fact-there-will-be-more-ai-agents-tra.html</loc>
+    <lastmod>2026-04-02T14:21:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -397,8 +403,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260402-breaking-ethereum-activity-is-near-all-time-highs-with-788k-active-addresses-and.html</loc>
-    <lastmod>2026-04-02T06:48:43.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260402-update-brian-armstrong-to-personally-research-bitcoin-quantum-resistance-as-indu.html</loc>
+    <lastmod>2026-04-02T08:40:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -457,6 +463,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260401-the-worlds-oldest-tortoise-has-gone-viral-after-a-suspected-crypto-scammer-posin.html</loc>
+    <lastmod>2026-04-01T22:47:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260401-these-three-altcoins-just-got-leveraged-crypto-etfs.html</loc>
     <lastmod>2026-04-01T21:08:22.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -487,20 +499,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260401-bitcoin-closed-march-at-68215-rsi-44-as-said-before-i-would-not-be-surprised-if-.html</loc>
-    <lastmod>2026-04-01T07:49:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260331-just-in-michael-saylors-strategy-is-now-estimated-to-have-bought-over-2174-btc-t.html</loc>
-    <lastmod>2026-03-31T21:00:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260331-i-mentioned-this-last-year-on-theallinpod-and-the-crypto-bros-freaked-out-two-th.html</loc>
-    <lastmod>2026-03-31T16:56:50.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260331-satoshi-nakamoto-in-2010-on-quantum-computers-if-it-happens-gradually-we-can-sti.html</loc>
+    <lastmod>2026-03-31T16:15:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
