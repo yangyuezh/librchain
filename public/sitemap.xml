@@ -2,19 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-03T09:08:18.324Z</lastmod>
+    <lastmod>2026-04-03T11:01:19.726Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-03T09:08:18.324Z</lastmod>
+    <lastmod>2026-04-03T11:01:19.726Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260403-the-first-bitcoin-cat-community-on-x-34-members-xcom.html</loc>
+    <lastmod>2026-04-03T10:52:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260403-crypto-consolidates-as-volatility-cools-and-futures-markets-tilt-bearish.html</loc>
+    <lastmod>2026-04-03T10:31:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260403-drift-sends-onchain-message-to-wallets-tied-to-280m-exploit.html</loc>
+    <lastmod>2026-04-03T10:26:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260403-polymarket-inks-us-canada-deal-with-european-soccer-league-laliga.html</loc>
+    <lastmod>2026-04-03T10:11:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260403-naoris-protocols-quantum-resistant-blockchain-goes-live-as-bitcoin-and-ethereum-.html</loc>
+    <lastmod>2026-04-03T09:22:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260403-south-korean-brokerage-korea-investment-securities-eyes-coinone-stake-report.html</loc>
     <lastmod>2026-04-03T08:58:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260403-the-ethereum-foundation-just-staked-4664m-eth-the-ethereum-foundation-just-stake.html</loc>
+    <lastmod>2026-04-03T08:07:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -187,6 +223,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260402-from-2018-to-today-top-crypto-assets-by-market-cap-whos-missing-2018-btc-xrp-eth.html</loc>
+    <lastmod>2026-04-02T17:19:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260402-ai-could-become-2000-times-more-efficient-by-copying-the-brain-study.html</loc>
     <lastmod>2026-04-02T17:00:32.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -249,12 +291,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260402-solana-meme-coin-linked-to-death-hoax-for-194-year-old-tortoisewho-is-very-much-.html</loc>
     <lastmod>2026-04-02T15:57:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260402-bitcoin-holders-face-600b-in-unrealized-losses-as-btc-price-slips-to-66k.html</loc>
-    <lastmod>2026-04-02T15:47:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -385,18 +421,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260402-audit-admin-keys-not-just-code-expert-says-after-200-million-drift-exploit.html</loc>
-    <lastmod>2026-04-02T11:15:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260402-the-wash-trading-bust-why-the-feds-are-finally-calling-out-cryptos-dirty-little-.html</loc>
-    <lastmod>2026-04-02T11:03:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260402-bitcoin-gold-and-us-stocks-dive-as-trump-pledges-to-hit-iran-extremely-hard.html</loc>
     <lastmod>2026-04-02T09:53:19.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -423,18 +447,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260402-update-230m-usdc-bridged-via-cctp-from-solana-to-ethereum-across-100-txns-6-hour.html</loc>
     <lastmod>2026-04-02T04:53:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260402-latest-peter-schiff-says-stocks-bonds-gold-and-bitcoin-are-all-selling-off-as-oi.html</loc>
-    <lastmod>2026-04-02T03:00:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260402-breaking-bitcoin-falls-below-67000-as-us-stock-market-futures-hit-a-new-low-of-d.html</loc>
-    <lastmod>2026-04-02T02:16:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,14 +487,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260401-just-in-solana-based-crypto-dex-drift-protocol-says-270000000-hack-is-not-an-apr.html</loc>
-    <lastmod>2026-04-01T20:37:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260401-solana-defi-exchange-drift-protocol-exploited-upwards-of-285-million-stolen.html</loc>
-    <lastmod>2026-04-01T20:13:38.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260401-fun-fact-paying-in-bitcoin-lightning-is-faster-than-mastercard-xcom.html</loc>
+    <lastmod>2026-04-01T15:03:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -495,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260401-just-in-bitcoin-has-closed-its-first-green-month-after-5-months-of-red-xcom.html</loc>
     <lastmod>2026-04-01T12:14:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260331-satoshi-nakamoto-in-2010-on-quantum-computers-if-it-happens-gradually-we-can-sti.html</loc>
-    <lastmod>2026-03-31T16:15:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
