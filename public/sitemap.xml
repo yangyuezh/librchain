@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-03T22:51:52.894Z</lastmod>
+    <lastmod>2026-04-03T23:47:42.903Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-03T22:51:52.894Z</lastmod>
+    <lastmod>2026-04-03T23:47:42.903Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -319,12 +319,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260402-the-last-time-brian-spent-time-on-solving-something-personally-in-bitcoin-we-got.html</loc>
-    <lastmod>2026-04-02T21:48:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260402-usdc-stablecoin-issuer-circle-unveils-new-token-to-give-bitcoin-more-utility.html</loc>
     <lastmod>2026-04-02T21:04:47.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -453,6 +447,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260402-bitcoin-tends-to-find-a-low-in-february-lower-high-in-march-then-it-drops-back-d.html</loc>
     <lastmod>2026-04-02T12:20:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260402-just-in-japanese-public-company-metaplanet-purchases-5075-bitcoin-and-is-now-the.html</loc>
+    <lastmod>2026-04-02T11:30:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
