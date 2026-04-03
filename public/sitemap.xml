@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-03T21:48:02.361Z</lastmod>
+    <lastmod>2026-04-03T22:51:52.894Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-03T21:48:02.361Z</lastmod>
+    <lastmod>2026-04-03T22:51:52.894Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260403-ethereum-foundation-nearly-reaches-70000-staked-eth-goal.html</loc>
+    <lastmod>2026-04-03T21:31:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260403-charles-schwab-is-gearing-up-to-offer-bitcoin-ethereum-spot-trading.html</loc>
@@ -289,20 +295,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260403-bitcoin-supply-in-profit-heads-to-true-bear-market-levels.html</loc>
-    <lastmod>2026-04-03T05:38:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260403-bitcoin-heads-into-holiday-weekend-exposed-as-etf-and-cme-flows-go-offline.html</loc>
     <lastmod>2026-04-03T04:15:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260403-new-kentucky-defeats-a-backdoor-ban-on-bitcoin-self-custody-with-anti-self-custo.html</loc>
-    <lastmod>2026-04-03T03:20:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -321,6 +315,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260402-crypto-market-structure-bill-release-pushed-back-as-industries-view-revised-stab.html</loc>
     <lastmod>2026-04-02T22:12:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260402-the-last-time-brian-spent-time-on-solving-something-personally-in-bitcoin-we-got.html</loc>
+    <lastmod>2026-04-02T21:48:15.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,8 +451,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260402-made-strategic-investment-with-leading-global-digital-asset-trading-firm-backing.html</loc>
-    <lastmod>2026-04-02T13:00:03.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260402-bitcoin-tends-to-find-a-low-in-february-lower-high-in-march-then-it-drops-back-d.html</loc>
+    <lastmod>2026-04-02T12:20:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
