@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-04T19:42:06.515Z</lastmod>
+    <lastmod>2026-04-04T20:48:32.581Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-04T19:42:06.515Z</lastmod>
+    <lastmod>2026-04-04T20:48:32.581Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260404-telegram-founder-pavel-durov-says-iranian-governments-ban-backfired.html</loc>
+    <lastmod>2026-04-04T19:30:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260404-bitcoin-tends-to-outperform-gold-and-stocks-after-global-shocks-mercado-bitcoin-.html</loc>
@@ -217,6 +223,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260403-just-in-michael-saylor-say-its-a-good-friday-to-buy-bitcoin-xcom.html</loc>
+    <lastmod>2026-04-03T17:55:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260403-just-in-12-trillion-charles-schwab-to-launch-bitcoin-and-ethereum-trading-for-us.html</loc>
     <lastmod>2026-04-03T17:49:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -339,12 +351,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260403-ethereum-foundation-stakes-93m-worth-of-eth-nears-strategic-target.html</loc>
     <lastmod>2026-04-03T14:35:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260403-binance-led-q1-crypto-derivatives-as-hyperliquid-cracked-top-10-coinglass.html</loc>
-    <lastmod>2026-04-03T13:56:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -477,12 +483,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260402-every-ai-agent-deserves-a-crypto-wallet-in-fact-there-will-be-more-ai-agents-tra.html</loc>
     <lastmod>2026-04-02T14:21:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260402-just-in-the-governor-of-the-czech-national-bank-will-speak-at-the-worlds-largest.html</loc>
-    <lastmod>2026-04-02T12:50:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
