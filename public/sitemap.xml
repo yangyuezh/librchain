@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-04T08:56:35.903Z</lastmod>
+    <lastmod>2026-04-04T09:52:40.255Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-04T08:56:35.903Z</lastmod>
+    <lastmod>2026-04-04T09:52:40.255Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260404-polymarket-takes-down-market-on-missing-us-pilot-after-backlash.html</loc>
+    <lastmod>2026-04-04T09:32:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260404-rich-bitcoin-traders-lost-337m-daily-in-first-quarter-of-2026.html</loc>
@@ -199,6 +205,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260403-just-in-166b-charles-schwab-to-launch-schwab-crypto-account-supporting-direct-bi.html</loc>
+    <lastmod>2026-04-03T16:01:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260403-where-next-for-bitcoin-after-worst-quarter-since-2018.html</loc>
     <lastmod>2026-04-03T15:51:25.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -297,12 +309,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260403-cambodia-advances-law-targeting-crypto-scam-compound-kingpins-with-life-in-jail.html</loc>
     <lastmod>2026-04-03T12:12:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260403-aave-avoided-bad-debt-by-shifting-risk-to-borrowers-bank-of-canada-study.html</loc>
-    <lastmod>2026-04-03T11:51:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260402-i-lost-65000-on-crypto-shit-coins-and-made-this-movie-as-a-result-please-enjoy-t.html</loc>
     <lastmod>2026-04-02T00:33:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260401-the-worlds-oldest-tortoise-has-gone-viral-after-a-suspected-crypto-scammer-posin.html</loc>
-    <lastmod>2026-04-01T22:47:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
