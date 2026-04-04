@@ -1,7 +1,60 @@
 {
-  "updatedAt": "2026-04-04T13:19:01.061Z",
+  "updatedAt": "2026-04-04T14:49:52.995Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Traders are the big winners as 24/7 stocks will finally end the after-hours price 'manipulation'",
+      "summary": "Round-the-clock markets promise freedom for investors and pressure for intermediaries who traditionally wielded immense power during off-hours",
+      "url": "https://www.coindesk.com/markets/2026/04/04/traders-are-the-big-winners-as-24-7-stocks-will-finally-end-the-after-hours-price-manipulation",
+      "publishedAt": "2026-04-04T14:00:00.000Z",
+      "keywords": [
+        "Markets",
+        "NYSE",
+        "DeFi",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260404-traders-are-the-big-winners-as-247-stocks-will-finally-end-the-after-hours-price",
+      "localUrl": "/news/20260404-traders-are-the-big-winners-as-247-stocks-will-finally-end-the-after-hours-price.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-04T13:27:29.000Z",
+      "keywords": [
+        "Trump memecoin",
+        "Solana memecoin",
+        "TRUMP token",
+        "Solana",
+        "SOL",
+        "Nova Labs",
+        "SEC",
+        "Securities and Exchange Commission",
+        "Crypto regulation",
+        "TRUMP rally",
+        "Bitcoin",
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260404-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260404-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Nevada judge extends ban on Kalshi, rejects event contract defense",
+      "summary": "The judge said Kalshi’s event contracts are indistinguishable from sports betting, supporting the state’s position that the platform requires a gaming license.",
+      "url": "https://cointelegraph.com/news/nevada-judge-extends-kalshi-ban-unlicensed-gambling-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-04T13:21:54.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260404-nevada-judge-extends-ban-on-kalshi-rejects-event-contract-defense",
+      "localUrl": "/news/20260404-nevada-judge-extends-ban-on-kalshi-rejects-event-contract-defense.html"
+    },
     {
       "source": "Decrypt",
       "title": "Anthropic Spots 'Emotion Vectors' Inside Claude That Influence AI Behavior",
@@ -630,43 +683,6 @@
       "localUrl": "/news/20260403-ethereum-l2s-need-responsive-pricing-to-scale-says-offchain-labs.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Solo Bitcoin miner bags $210K Bitcoin block reward",
-      "summary": "A CKPool-connected solo miner just landed a $210,000 Bitcoin block reward, one of only 20 solo‑mined blocks in the past year, as listed miners sell BTC to stay afloat.",
-      "url": "https://cointelegraph.com/news/solo-bitcoin-miner-bags-210k-bitcoin-block?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-03T13:45:10.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260403-solo-bitcoin-miner-bags-210k-bitcoin-block-reward",
-      "localUrl": "/news/20260403-solo-bitcoin-miner-bags-210k-bitcoin-block-reward.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-03T13:19:48.000Z",
-      "keywords": [
-        "Trump memecoin",
-        "Solana memecoin",
-        "TRUMP token",
-        "Solana",
-        "SOL",
-        "Nova Labs",
-        "SEC",
-        "Securities and Exchange Commission",
-        "Crypto regulation",
-        "TRUMP rally",
-        "Bitcoin",
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260403-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260403-heres-what-happened-in-crypto-today.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "CoinDesk 20 performance update: Bitcoin (BTC) trades flat while altcoins rise",
       "summary": "NEAR Protocol (NEAR) gained 5.8% and Avalanche (AVAX) climbed 3.6%.",
@@ -1017,21 +1033,6 @@
       "category": "监管",
       "slug": "20260402-coinbase-wins-initial-bank-regulator-nod-for-trust-charter-boosting-custody-push",
       "localUrl": "/news/20260402-coinbase-wins-initial-bank-regulator-nod-for-trust-charter-boosting-custody-push.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Elon Musk's X to deploy scam kill switch by auto-locking first-time crypto mentioners",
-      "summary": "The move comes in response to a wave of phishing attacks using fake copyright emails and is the latest in an attempt to shut down crypto-linked scams on the platform.",
-      "url": "https://www.coindesk.com/web3/2026/04/02/elon-musk-s-x-to-deploy-scam-kill-switch-by-auto-locking-first-time-crypto-mentioners",
-      "publishedAt": "2026-04-02T15:28:49.000Z",
-      "keywords": [
-        "Web3",
-        "Crypto Twitter",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260402-elon-musks-x-to-deploy-scam-kill-switch-by-auto-locking-first-time-crypto-mentio",
-      "localUrl": "/news/20260402-elon-musks-x-to-deploy-scam-kill-switch-by-auto-locking-first-time-crypto-mentio.html"
     },
     {
       "source": "X Wire",
