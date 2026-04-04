@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-04T05:34:07.674Z</lastmod>
+    <lastmod>2026-04-04T07:14:38.715Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-04T05:34:07.674Z</lastmod>
+    <lastmod>2026-04-04T07:14:38.715Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260404-judge-continues-nevada-ban-on-kalshi-sports-markets.html</loc>
+    <lastmod>2026-04-04T07:04:16.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260404-bitcoins-no-direction-action-may-lead-to-heavier-breakout-analyst.html</loc>
+    <lastmod>2026-04-04T06:16:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260404-bitcoin-etfs-will-be-larger-than-gold-etfs-analyst.html</loc>
@@ -181,6 +193,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260403-gold-has-seen-such-a-tremendous-outlier-to-the-upside-in-terms-of-volatility-tha.html</loc>
+    <lastmod>2026-04-03T15:14:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260403-execution-risk-in-crypto-is-the-new-custody-risk.html</loc>
     <lastmod>2026-04-03T15:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -201,12 +219,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260403-ethereum-foundation-stakes-93m-worth-of-eth-nears-strategic-target.html</loc>
     <lastmod>2026-04-03T14:35:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260403-perpetual-futures-trading-in-crypto-began-with-crypto-traders-trading-crypto-ass.html</loc>
-    <lastmod>2026-04-03T14:06:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -331,12 +343,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260403-south-korean-brokerage-korea-investment-securities-eyes-coinone-stake-report.html</loc>
-    <lastmod>2026-04-03T08:58:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260403-the-ethereum-foundation-just-staked-4664m-eth-the-ethereum-foundation-just-stake.html</loc>
     <lastmod>2026-04-03T08:07:20.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -453,12 +459,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260402-bitcoin-trims-big-loss-stocks-erase-2-decline-as-iran-signals-cooperation-on-key.html</loc>
     <lastmod>2026-04-02T15:08:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260402-crypto-for-advisors-crypto-custodys-evolution.html</loc>
-    <lastmod>2026-04-02T15:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
