@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-04T15:46:23.859Z</lastmod>
+    <lastmod>2026-04-04T16:51:20.056Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-04T15:46:23.859Z</lastmod>
+    <lastmod>2026-04-04T16:51:20.056Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260404-ex-uk-chancellor-backs-bitcoin-as-alternative-to-failing-systems.html</loc>
+    <lastmod>2026-04-04T16:44:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260404-digital-asset-treasuries-must-now-earn-their-keep.html</loc>
+    <lastmod>2026-04-04T16:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260404-ai-giant-anthropic-files-to-launch-anthropac-amid-clash-with-trump-administratio.html</loc>
+    <lastmod>2026-04-04T16:01:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260404-bitcoin-has-won-global-consensus-is-that-btc-is-digital-capital-the-four-year-cy.html</loc>
@@ -439,12 +457,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260402-drift-protocols-285-million-exploit-on-solana-raises-questions-over-defi-securit.html</loc>
-    <lastmod>2026-04-02T19:04:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260402-heres-why-bitcoins-drop-below-68000-raises-the-risk-of-a-crash-under-60000.html</loc>
     <lastmod>2026-04-02T18:27:29.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -457,20 +469,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260402-cftc-sues-illinois-arizona-connecticut-over-states-sports-prediction-market-effo.html</loc>
-    <lastmod>2026-04-02T16:24:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260402-update-us-authorities-seize-600k-in-crypto-linked-to-hardware-wallet-phishing-at.html</loc>
     <lastmod>2026-04-02T16:20:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260402-coinbase-wins-initial-bank-regulator-nod-for-trust-charter-boosting-custody-push.html</loc>
-    <lastmod>2026-04-02T16:18:15.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

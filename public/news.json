@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-04-04T15:46:23.740Z",
+  "updatedAt": "2026-04-04T16:51:20.009Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ex-UK Chancellor backs bitcoin as alternative to failing systems",
+      "summary": "Kwasi Kwarteng reflects on current UK market turmoil, fiscal “doom loop,” and his move into bitcoin with Stack BTC.",
+      "url": "https://www.coindesk.com/markets/2026/04/03/ex-uk-chancellor-backs-bitcoin-as-alternative-to-failing-systems",
+      "publishedAt": "2026-04-04T16:44:48.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260404-ex-uk-chancellor-backs-bitcoin-as-alternative-to-failing-systems",
+      "localUrl": "/news/20260404-ex-uk-chancellor-backs-bitcoin-as-alternative-to-failing-systems.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Digital asset treasuries must now earn their keep",
+      "summary": "For treasuries to do so and stay competitive, Kiernan unpacks three broad strategies that are emerging.",
+      "url": "https://www.coindesk.com/opinion/2026/04/04/digital-asset-treasuries-must-now-earn-their-keep",
+      "publishedAt": "2026-04-04T16:30:00.000Z",
+      "keywords": [
+        "Opinion",
+        "Digital Asset Treasury",
+        "Opinion"
+      ],
+      "category": "RWA",
+      "slug": "20260404-digital-asset-treasuries-must-now-earn-their-keep",
+      "localUrl": "/news/20260404-digital-asset-treasuries-must-now-earn-their-keep.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Giant Anthropic Files to Launch 'AnthroPAC' Amid Clash With Trump Administration",
+      "summary": "Claude developer Anthropic registered an employee-funded PAC amid a legal battle with the White House and rising election-year scrutiny of AI.",
+      "url": "https://decrypt.co/363355/ai-giant-anthropic-anthropac-clash-trump-administration",
+      "publishedAt": "2026-04-04T16:01:03.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260404-ai-giant-anthropic-files-to-launch-anthropac-amid-clash-with-trump-administratio",
+      "localUrl": "/news/20260404-ai-giant-anthropic-files-to-launch-anthropac-amid-clash-with-trump-administratio.html"
+    },
     {
       "source": "X Wire",
       "title": "Bitcoin has won. Global consensus is that $BTC is digital capital. The four-year cycle is dead. Price is now driven by capital flows. Bank and digital credit will determine Bitcoin’s growth trajectory. The biggest risk is bad ideas driving iatrogenic protocol changes. - x.com",
@@ -945,19 +988,6 @@
       "localUrl": "/news/20260402-elon-musks-x-is-making-big-changes-to-combat-crypto-scams.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Drift Protocol's $285 Million Exploit on Solana Raises Questions Over DeFi Security",
-      "summary": "A blockchain security expert compared Drift’s lapse in security to Ethereum network Ronin's $625 million loss in 2022.",
-      "url": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security",
-      "publishedAt": "2026-04-02T19:04:39.000Z",
-      "keywords": [
-        "DeFi"
-      ],
-      "category": "监管",
-      "slug": "20260402-drift-protocols-285-million-exploit-on-solana-raises-questions-over-defi-securit",
-      "localUrl": "/news/20260402-drift-protocols-285-million-exploit-on-solana-raises-questions-over-defi-securit.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Here’s why bitcoin’s drop below $68,000 raises the risk of a crash under $60,000",
       "summary": "The negative gamma zone below $68,000 can trigger a self-reinforcing sell-off, leading to an ever larger slump.",
@@ -993,22 +1023,6 @@
       "localUrl": "/news/20260402-chainalysis-links-nyc-2026-ai-amplification-tradfi-convergence-and-the-power-of-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "CFTC sues Illinois, Arizona, Connecticut over states' sports prediction market efforts",
-      "summary": "The CFTC argued in a lawsuit that the Commodity Exchange Act gave it \"exclusive jurisdiction\" over all swaps, which include prediction markets.",
-      "url": "https://www.coindesk.com/policy/2026/04/02/cftc-sues-illinois-over-state-s-cease-and-desist-letters-against-prediction-markets",
-      "publishedAt": "2026-04-02T16:24:42.000Z",
-      "keywords": [
-        "Policy",
-        "Prediction Markets",
-        "CFTC",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260402-cftc-sues-illinois-arizona-connecticut-over-states-sports-prediction-market-effo",
-      "localUrl": "/news/20260402-cftc-sues-illinois-arizona-connecticut-over-states-sports-prediction-market-effo.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨 UPDATE: US Authorities seize $600K in crypto linked to hardware wallet phishing attack targeting Ledger users. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pLWdBRVlhd2hGWU5PUWNtQUw4SWJVckpkNE52aUo1UTA1MkxyLWp2WjNqdDBYeWplQy1pZG90ZFZuVWNJbHN1a25JRUJac0x5NWZsMGNsamhDX2x0S2dpaHhqalY?oc=5\" target=\"_blank\">🚨 UPDATE: US Authorities seize…",
@@ -1018,21 +1032,6 @@
       "category": "X热点",
       "slug": "20260402-update-us-authorities-seize-600k-in-crypto-linked-to-hardware-wallet-phishing-at",
       "localUrl": "/news/20260402-update-us-authorities-seize-600k-in-crypto-linked-to-hardware-wallet-phishing-at.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Coinbase wins initial bank regulator nod for trust charter, boosting custody push",
-      "summary": "Coinbase’s conditional OCC approval moves it closer to operating as a federally regulated crypto custodian, pending compliance and final review.",
-      "url": "https://www.coindesk.com/policy/2026/04/02/coinbase-wins-initial-occ-nod-for-trust-charter-boosting-sustody-push",
-      "publishedAt": "2026-04-02T16:18:15.000Z",
-      "keywords": [
-        "Policy",
-        "Coinbase",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260402-coinbase-wins-initial-bank-regulator-nod-for-trust-charter-boosting-custody-push",
-      "localUrl": "/news/20260402-coinbase-wins-initial-bank-regulator-nod-for-trust-charter-boosting-custody-push.html"
     },
     {
       "source": "X Wire",
