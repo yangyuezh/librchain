@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-04T03:13:24.766Z</lastmod>
+    <lastmod>2026-04-04T05:34:07.674Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-04T03:13:24.766Z</lastmod>
+    <lastmod>2026-04-04T05:34:07.674Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260404-bitcoin-etfs-will-be-larger-than-gold-etfs-analyst.html</loc>
+    <lastmod>2026-04-04T03:35:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260404-heres-what-cracking-bitcoin-in-9-minutes-by-quantum-computers-actually-means.html</loc>
@@ -127,6 +133,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260403-bitcoin-continues-to-hold-on-to-the-65-70k-range-as-it-is-trying-to-form-a-base-.html</loc>
+    <lastmod>2026-04-03T17:00:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260403-we-are-ready-to-speak-drift-beckons-north-korea-linked-hackers-following-285m-ex.html</loc>
     <lastmod>2026-04-03T16:34:12.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -141,6 +153,18 @@
   <url>
     <loc>https://www.librchain.com/news/20260403-what-next-as-xrp-rises-to-133-but-fails-to-break-out.html</loc>
     <lastmod>2026-04-03T16:32:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260403-just-in-jack-dorseys-block-is-launching-a-btc-faucet-to-allow-people-to-earn-fre.html</loc>
+    <lastmod>2026-04-03T16:21:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260403-jack-jack-on-x-xcom.html</loc>
+    <lastmod>2026-04-03T16:14:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -177,6 +201,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260403-ethereum-foundation-stakes-93m-worth-of-eth-nears-strategic-target.html</loc>
     <lastmod>2026-04-03T14:35:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260403-perpetual-futures-trading-in-crypto-began-with-crypto-traders-trading-crypto-ass.html</loc>
+    <lastmod>2026-04-03T14:06:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -313,12 +343,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260403-crypto-hackers-steal-169m-from-34-defi-protocols-in-q1-defillama.html</loc>
-    <lastmod>2026-04-03T06:40:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260403-bitcoin-heads-into-holiday-weekend-exposed-as-etf-and-cme-flows-go-offline.html</loc>
     <lastmod>2026-04-03T04:15:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -351,12 +375,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260402-google-researchers-reveal-every-way-hackers-can-trap-hijack-ai-agents.html</loc>
     <lastmod>2026-04-02T21:01:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260402-bitcoin-has-152-trillion-in-market-value-theres-no-way-to-swap-a-single-dollar-o.html</loc>
-    <lastmod>2026-04-02T20:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,12 +433,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260402-circle-wrapped-bitcoin-is-coming-backed-11-by-btc-and-readily-verifiable-onchain.html</loc>
-    <lastmod>2026-04-02T16:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260402-elon-musks-x-to-deploy-scam-kill-switch-by-auto-locking-first-time-crypto-mentio.html</loc>
     <lastmod>2026-04-02T15:28:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -457,26 +469,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260402-made-strategic-investment-with-leading-global-digital-asset-trading-firm-backing.html</loc>
+    <lastmod>2026-04-02T13:00:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260402-just-in-japanese-public-company-metaplanet-purchases-5075-bitcoin-and-is-now-the.html</loc>
     <lastmod>2026-04-02T11:30:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260402-going-to-start-spending-time-on-this-personally-seems-like-we-all-need-to-solve-.html</loc>
-    <lastmod>2026-04-02T06:45:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260402-chainalysis.html</loc>
     <lastmod>2026-04-02T06:39:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260402-update-230m-usdc-bridged-via-cctp-from-solana-to-ethereum-across-100-txns-6-hour.html</loc>
-    <lastmod>2026-04-02T04:53:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260401-the-worlds-oldest-tortoise-has-gone-viral-after-a-suspected-crypto-scammer-posin.html</loc>
     <lastmod>2026-04-01T22:47:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260401-fun-fact-paying-in-bitcoin-lightning-is-faster-than-mastercard-xcom.html</loc>
-    <lastmod>2026-04-01T15:03:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
