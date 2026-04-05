@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-05T10:52:51.630Z</lastmod>
+    <lastmod>2026-04-05T11:42:09.113Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-05T10:52:51.630Z</lastmod>
+    <lastmod>2026-04-05T11:42:09.113Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260405-this-message-was-embedded-in-bitcoins-666666th-block-xcom.html</loc>
+    <lastmod>2026-04-05T11:00:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260405-crypto-twitter-community-on-x-261-members-xcom.html</loc>
@@ -25,8 +31,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260405-now-bitcoin-bearish-chatter-hits-5-week-high-per-santiment-xcom.html</loc>
+    <lastmod>2026-04-05T08:30:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260405-anthropic-launches-pac-amid-tensions-with-trump-administration-over-ai-policy.html</loc>
     <lastmod>2026-04-05T08:10:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260405-dragonfly-just-moved-212m-mnt-to-bybit-it-was-their-first-outflow-from-their-kno.html</loc>
+    <lastmod>2026-04-05T07:40:04.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -153,12 +171,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260404-five-data-sources-say-the-same-thing-about-bitcoin-market-its-thinning-from-the-.html</loc>
     <lastmod>2026-04-04T11:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260404-a-streamer-accidentally-revealed-his-crypto-wallet-private-key-100000-was-taken-.html</loc>
-    <lastmod>2026-04-04T10:12:14.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -481,20 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260402-update-us-authorities-seize-600k-in-crypto-linked-to-hardware-wallet-phishing-at.html</loc>
-    <lastmod>2026-04-02T16:20:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260402-just-in-crypto-and-banking-industry-representatives-to-review-a-revised-stableco.html</loc>
     <lastmod>2026-04-02T15:13:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260402-just-in-the-governor-of-the-czech-national-bank-will-speak-at-the-worlds-largest.html</loc>
-    <lastmod>2026-04-02T12:50:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
