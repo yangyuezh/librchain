@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-05T05:51:33.343Z</lastmod>
+    <lastmod>2026-04-05T07:21:12.958Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-05T05:51:33.343Z</lastmod>
+    <lastmod>2026-04-05T07:21:12.958Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260405-drift-protocol-280m-exploit-took-months-of-deliberate-preparation.html</loc>
+    <lastmod>2026-04-05T07:00:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260405-update-the-uk-governments-bitcoin-wallet-has-now-lost-around-35b-since-october-6.html</loc>
@@ -19,7 +25,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260405-bitcoin-reaches-highest-level-of-bearish-chatter-in-5-weeks-santiment.html</loc>
+    <loc>https://www.librchain.com/news/20260405-bitcoin-bearish-social-chatter-reaches-5-week-high-santiment.html</loc>
     <lastmod>2026-04-05T04:25:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -27,6 +33,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260405-bitcoins-13-trillion-security-race-key-initiatives-aimed-at-quantum-proofing-the.html</loc>
     <lastmod>2026-04-05T03:31:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260405-just-in-probe-into-the-285-million-drift-protocol-crypto-hack-found-team-members.html</loc>
+    <lastmod>2026-04-05T03:05:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -69,6 +81,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260404-ai-giant-anthropic-files-to-launch-anthropac-amid-clash-with-trump-administratio.html</loc>
     <lastmod>2026-04-04T16:01:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260404-breaking-michael-saylor-says-bitcoin-has-already-won-he-believes-btc-is-now-seen.html</loc>
+    <lastmod>2026-04-04T14:51:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -355,12 +373,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260403-execution-risk-in-crypto-is-the-new-custody-risk.html</loc>
-    <lastmod>2026-04-03T15:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260403-bitcoin-miner-riot-platforms-sells-over-250-million-worth-of-btc.html</loc>
     <lastmod>2026-04-03T14:53:57.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,20 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260402-update-us-authorities-seize-600k-in-crypto-linked-to-hardware-wallet-phishing-at.html</loc>
-    <lastmod>2026-04-02T16:20:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260402-just-in-crypto-and-banking-industry-representatives-to-review-a-revised-stableco.html</loc>
     <lastmod>2026-04-02T15:13:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260402-every-ai-agent-deserves-a-crypto-wallet-in-fact-there-will-be-more-ai-agents-tra.html</loc>
-    <lastmod>2026-04-02T14:21:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
