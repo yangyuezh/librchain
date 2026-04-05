@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-05T22:49:52.216Z</lastmod>
+    <lastmod>2026-04-05T23:48:17.671Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-05T22:49:52.216Z</lastmod>
+    <lastmod>2026-04-05T23:48:17.671Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260405-just-in-bitcoin-reclaims-68000-xcom.html</loc>
+    <lastmod>2026-04-05T22:51:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260405-heres-what-happened-in-crypto-today.html</loc>
@@ -45,12 +51,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260405-polymarket-pulls-controversial-iran-rescue-markets-after-intense-backlash.html</loc>
     <lastmod>2026-04-05T19:20:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260405-weekly-recap-1-iran-demands-ships-transiting-through-the-strait-of-hormuz-to-pay.html</loc>
-    <lastmod>2026-04-05T17:41:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -223,12 +223,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260404-the-ultimate-support-for-bitcoin-btc-is-at-47960-one-of-the-most-powerful-tools-.html</loc>
-    <lastmod>2026-04-04T15:25:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260404-bitcoin-has-won-global-consensus-is-that-btc-is-digital-capital-the-four-year-cy.html</loc>
     <lastmod>2026-04-04T14:37:46.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -279,6 +273,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260404-polymarket-takes-down-market-on-missing-us-pilot-after-backlash.html</loc>
     <lastmod>2026-04-04T09:32:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260404-bitcoin-etfs-will-be-larger-than-gold-etfs-analyst-says-etf-analyst-james-seyffa.html</loc>
+    <lastmod>2026-04-04T09:15:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
