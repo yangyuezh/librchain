@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-05T15:46:15.944Z</lastmod>
+    <lastmod>2026-04-05T16:51:32.500Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-05T15:46:15.944Z</lastmod>
+    <lastmod>2026-04-05T16:51:32.500Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260405-bitcoin-is-now-front-running-the-fed-rather-than-reacting-to-it-etfs-are-the-cau.html</loc>
+    <lastmod>2026-04-05T16:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260405-ai-is-making-cryptos-security-problem-even-worse-ledger-cto-warns.html</loc>
@@ -177,6 +183,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260404-ai-giant-anthropic-files-to-launch-anthropac-amid-clash-with-trump-administratio.html</loc>
     <lastmod>2026-04-04T16:01:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260404-the-ultimate-support-for-bitcoin-btc-is-at-47960-one-of-the-most-powerful-tools-.html</loc>
+    <lastmod>2026-04-04T15:25:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,12 +463,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260403-crypto-snoozes-into-good-friday-as-oil-and-macro-stir-crypto-daybook-americas.html</loc>
-    <lastmod>2026-04-03T11:15:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260403-polymarket-inks-us-canada-deal-with-european-soccer-league-laliga.html</loc>
     <lastmod>2026-04-03T10:11:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260402-chainalysis-links-nyc-2026-ai-amplification-tradfi-convergence-and-the-power-of-.html</loc>
     <lastmod>2026-04-02T18:24:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260402-update-us-authorities-seize-600k-in-crypto-linked-to-hardware-wallet-phishing-at.html</loc>
-    <lastmod>2026-04-02T16:20:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
