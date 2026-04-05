@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-05T19:01:56.577Z</lastmod>
+    <lastmod>2026-04-05T19:46:42.921Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-05T19:01:56.577Z</lastmod>
+    <lastmod>2026-04-05T19:46:42.921Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260405-polymarket-pulls-controversial-iran-rescue-markets-after-intense-backlash.html</loc>
+    <lastmod>2026-04-05T19:20:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260405-weekly-recap-1-iran-demands-ships-transiting-through-the-strait-of-hormuz-to-pay.html</loc>
+    <lastmod>2026-04-05T17:41:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260405-bitcoin-and-the-us-dollar-have-a-symbiotic-relationship-bpi-exec.html</loc>
@@ -349,12 +361,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260403-block-is-bringing-back-the-bitcoin-faucet-launched-by-gavin-andresen-in-2010-it-.html</loc>
-    <lastmod>2026-04-03T17:41:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260403-decentralized-email-service-dmail-to-shut-down-token-hits-new-low.html</loc>
     <lastmod>2026-04-03T17:28:08.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -447,12 +453,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260403-cambodia-advances-law-targeting-crypto-scam-compound-kingpins-with-life-in-jail.html</loc>
     <lastmod>2026-04-03T12:12:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260403-ethereum-foundation-stakes-another-93-million-ether-reaching-its-70000-eth-targe.html</loc>
-    <lastmod>2026-04-03T11:38:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
