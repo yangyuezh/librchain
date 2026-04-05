@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-05T13:19:41.606Z</lastmod>
+    <lastmod>2026-04-05T14:51:49.236Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-05T13:19:41.606Z</lastmod>
+    <lastmod>2026-04-05T14:51:49.236Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260405-ai-is-making-cryptos-security-problem-even-worse-ledger-cto-warns.html</loc>
+    <lastmod>2026-04-05T14:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260405-timeframes-matter-since-aug-2020-bitcoin-is-the-top-performing-major-asset-and-i.html</loc>
+    <lastmod>2026-04-05T13:32:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260405-crypto-twitter-community-on-x-291-members-xcom.html</loc>
@@ -79,6 +91,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260405-crypto-community-on-x-discusses-favorite-memecoins-for-bu-xcom.html</loc>
+    <lastmod>2026-04-05T09:24:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260405-anthropic-launches-pac-amid-tensions-with-trump-administration-over-ai-policy.html</loc>
     <lastmod>2026-04-05T08:10:28.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -141,6 +159,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260404-ex-uk-chancellor-backs-bitcoin-as-alternative-to-failing-systems.html</loc>
     <lastmod>2026-04-04T17:00:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260404-just-in-michael-saylor-says-the-four-year-bitcoin-cycle-is-dead-xcom.html</loc>
+    <lastmod>2026-04-04T16:42:04.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -385,12 +409,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260403-utreexo-accumulate-bitcoin-a-bitcoin-twitter-thread-19-xcom.html</loc>
-    <lastmod>2026-04-03T15:15:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260403-bitcoin-miner-riot-platforms-sells-over-250-million-worth-of-btc.html</loc>
     <lastmod>2026-04-03T14:53:57.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -439,20 +457,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260403-crypto-consolidates-as-volatility-cools-and-futures-markets-tilt-bearish.html</loc>
-    <lastmod>2026-04-03T10:31:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260403-polymarket-inks-us-canada-deal-with-european-soccer-league-laliga.html</loc>
     <lastmod>2026-04-03T10:11:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260403-the-ethereum-foundation-just-staked-4664m-eth-the-ethereum-foundation-just-stake.html</loc>
-    <lastmod>2026-04-03T08:07:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260402-chainalysis-links-nyc-2026-ai-amplification-tradfi-convergence-and-the-power-of-.html</loc>
     <lastmod>2026-04-02T18:24:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260402-update-us-authorities-seize-600k-in-crypto-linked-to-hardware-wallet-phishing-at.html</loc>
-    <lastmod>2026-04-02T16:20:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
