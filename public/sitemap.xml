@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-05T17:47:31.075Z</lastmod>
+    <lastmod>2026-04-05T19:01:56.577Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-05T17:47:31.075Z</lastmod>
+    <lastmod>2026-04-05T19:01:56.577Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260405-bitcoin-and-the-us-dollar-have-a-symbiotic-relationship-bpi-exec.html</loc>
+    <lastmod>2026-04-05T17:17:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260405-bitcoin-is-now-front-running-the-fed-rather-than-reacting-to-it-etfs-are-the-cau.html</loc>
@@ -85,7 +91,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260405-existential-token-problem-seen-as-supply-outpaces-value-creation.html</loc>
+    <loc>https://www.librchain.com/news/20260405-existential-token-problem-seen-as-supply-outpaces-value-creation-blockworks-exec.html</loc>
     <lastmod>2026-04-05T09:46:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -253,12 +259,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260404-bitcoin-etfs-will-be-larger-than-gold-etfs-analyst-says-etf-analyst-james-seyffa.html</loc>
-    <lastmod>2026-04-04T09:15:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260404-rich-bitcoin-traders-lost-337m-daily-in-first-quarter-of-2026.html</loc>
     <lastmod>2026-04-04T08:31:42.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -331,12 +331,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260403-is-bitcoin-mispricing-a-prolonged-iran-war-ex-hedge-fund-manager-weighs-in.html</loc>
-    <lastmod>2026-04-03T19:04:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260403-circle-under-fire-after-285-million-drift-hack-over-inaction-to-freeze-stolen-us.html</loc>
     <lastmod>2026-04-03T19:02:51.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -405,6 +399,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260403-just-in-jack-dorseys-block-is-launching-a-btc-faucet-to-allow-people-to-earn-fre.html</loc>
     <lastmod>2026-04-03T16:21:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260403-just-in-166b-charles-schwab-to-launch-schwab-crypto-account-supporting-direct-bi.html</loc>
+    <lastmod>2026-04-03T16:01:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
