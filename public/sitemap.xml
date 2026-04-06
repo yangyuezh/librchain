@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-06T21:50:03.564Z</lastmod>
+    <lastmod>2026-04-06T22:54:09.601Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-06T21:50:03.564Z</lastmod>
+    <lastmod>2026-04-06T22:54:09.601Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260406-jamie-dimon-says-ai-will-impact-virtually-every-function-at-jpmorgan-chase.html</loc>
+    <lastmod>2026-04-06T21:56:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260406-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-04-06T21:51:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260406-polymarket-drops-usdce-for-usdc-backed-token-in-exchange-overhaul.html</loc>
@@ -229,12 +241,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260406-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-04-06T12:34:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260406-morning-minute-north-korea-hacks-drift-for-285m.html</loc>
     <lastmod>2026-04-06T12:18:33.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -337,12 +343,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260406-17-has-bitcoin-btc-bottomed-after-analyzing-multiple-historical-patterns-and-on-.html</loc>
-    <lastmod>2026-04-06T08:34:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260406-inflation-takes-center-stage-crypto-week-ahead.html</loc>
     <lastmod>2026-04-06T08:28:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -387,6 +387,18 @@
   <url>
     <loc>https://www.librchain.com/news/20260406-bitcoin-reclaims-69000-as-ceasefire-talks-surface-and-crypto-shorts-get-squeezed.html</loc>
     <lastmod>2026-04-06T05:11:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260406-binance-announced-that-starting-april-6-2026-at-0000-utc-the-following-trading-p.html</loc>
+    <lastmod>2026-04-06T04:50:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260406-according-to-our-on-chain-data-bitcoin-finished-the-weekend-with-a-ratio-of-295-.html</loc>
+    <lastmod>2026-04-06T04:42:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -445,12 +457,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260405-potential-10000-bitcoin-in-2026-prove-me-wrong-stay-above-75000-before-the-bigge.html</loc>
-    <lastmod>2026-04-05T16:37:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260405-timeframes-matter-since-aug-2020-bitcoin-is-the-top-performing-major-asset-and-i.html</loc>
     <lastmod>2026-04-05T13:32:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -495,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260403-fifa-inks-world-cup-prediction-market-deal-with-adi-predictstreet.html</loc>
     <lastmod>2026-04-03T21:00:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260403-bitcoin-miner-mara-slashes-15-of-workforce-after-selling-11-billion-in-btc.html</loc>
-    <lastmod>2026-04-03T18:29:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
