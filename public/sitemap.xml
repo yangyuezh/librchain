@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-06T22:54:09.601Z</lastmod>
+    <lastmod>2026-04-06T23:49:52.346Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-06T22:54:09.601Z</lastmod>
+    <lastmod>2026-04-06T23:49:52.346Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -397,12 +397,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260406-according-to-our-on-chain-data-bitcoin-finished-the-weekend-with-a-ratio-of-295-.html</loc>
-    <lastmod>2026-04-06T04:42:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260406-bitcoin-meltdown-to-10000-remains-likely-unless-prices-reclaim-75000-analyst-say.html</loc>
     <lastmod>2026-04-06T04:20:57.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -435,6 +429,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260405-just-in-69000-bitcoin-100000000-worth-of-crypto-shorts-liquidated-in-the-past-90.html</loc>
     <lastmod>2026-04-05T23:35:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260405-just-in-bitcoin-reclaims-68000-xcom.html</loc>
+    <lastmod>2026-04-05T22:51:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
