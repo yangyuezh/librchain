@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-05T23:48:17.671Z</lastmod>
+    <lastmod>2026-04-06T03:37:17.961Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-05T23:48:17.671Z</lastmod>
+    <lastmod>2026-04-06T03:37:17.961Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260406-rwanda-swats-bybits-p2p-platform-offering-franc-to-crypto-trading.html</loc>
+    <lastmod>2026-04-06T03:06:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260405-just-in-bitcoin-reclaims-68000-xcom.html</loc>
@@ -145,7 +151,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260405-drift-protocol-280m-exploit-took-months-of-deliberate-preparation.html</loc>
+    <loc>https://www.librchain.com/news/20260405-crypto-twitter-community-on-x-291-members-xcom.html</loc>
+    <lastmod>2026-04-05T07:16:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260405-drift-protocol-says-280m-exploit-took-months-of-deliberate-preparation.html</loc>
     <lastmod>2026-04-05T07:00:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -175,12 +187,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260404-bitcoin-whales-turn-major-sellers-wallets-holding-100010000-btc-have-shifted-fro.html</loc>
-    <lastmod>2026-04-04T21:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260404-telegram-founder-pavel-durov-says-iranian-governments-ban-backfired.html</loc>
     <lastmod>2026-04-04T19:30:05.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -205,12 +211,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260404-just-in-michael-saylor-says-the-four-year-bitcoin-cycle-is-dead-xcom.html</loc>
-    <lastmod>2026-04-04T16:42:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260404-digital-asset-treasuries-must-now-earn-their-keep.html</loc>
     <lastmod>2026-04-04T16:30:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -219,6 +219,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260404-ai-giant-anthropic-files-to-launch-anthropac-amid-clash-with-trump-administratio.html</loc>
     <lastmod>2026-04-04T16:01:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260404-the-ultimate-support-for-bitcoin-btc-is-at-47960-one-of-the-most-powerful-tools-.html</loc>
+    <lastmod>2026-04-04T15:25:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -303,12 +309,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260404-bitcoins-no-direction-action-may-lead-to-heavier-breakout-analyst.html</loc>
     <lastmod>2026-04-04T06:16:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260404-bitcoin-etfs-will-be-larger-than-gold-etfs-analyst.html</loc>
-    <lastmod>2026-04-04T03:35:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
