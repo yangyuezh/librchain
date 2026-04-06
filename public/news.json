@@ -1,7 +1,74 @@
 {
-  "updatedAt": "2026-04-06T09:21:44.013Z",
+  "updatedAt": "2026-04-06T11:10:54.559Z",
   "total": 81,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin rallies on report of Iran ceasefire talks, Algorand extends gains",
+      "summary": "If a ceasefire materializes, a relief rally could further benefit risk assets. For now, traders appear to be treating the headlines with skepticism.",
+      "url": "https://www.coindesk.com/markets/2026/04/06/bitcoin-rallies-on-report-of-iran-ceasefire-talks-algorand-extends-gains",
+      "publishedAt": "2026-04-06T10:30:00.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260406-bitcoin-rallies-on-report-of-iran-ceasefire-talks-algorand-extends-gains",
+      "localUrl": "/news/20260406-bitcoin-rallies-on-report-of-iran-ceasefire-talks-algorand-extends-gains.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "China's tax authority urges banks to implement blockchain for lending services",
+      "summary": "China’s leading tax and financial authorities are urging banks to incorporate blockchain technology to bolster their credit facilities and data transparency.",
+      "url": "https://cointelegraph.com/news/china-tax-authority-banks-implement-blockchain-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-06T10:10:35.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260406-chinas-tax-authority-urges-banks-to-implement-blockchain-for-lending-services",
+      "localUrl": "/news/20260406-chinas-tax-authority-urges-banks-to-implement-blockchain-for-lending-services.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "North Korean Hackers Spent Six Months Infiltrating Drift Before $285M Exploit",
+      "summary": "Drift Protocol said the attackers posed as traders, met contributors in person, and spent months infiltrating before draining the platform.",
+      "url": "https://decrypt.co/363364/north-korean-hackers-spent-six-months-infiltrating-drift-before-285m-exploit",
+      "publishedAt": "2026-04-06T09:52:05.000Z",
+      "keywords": [
+        "DeFi"
+      ],
+      "category": "安全",
+      "slug": "20260406-north-korean-hackers-spent-six-months-infiltrating-drift-before-285m-exploit",
+      "localUrl": "/news/20260406-north-korean-hackers-spent-six-months-infiltrating-drift-before-285m-exploit.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "First real bull signal since 2025? Five things to know in Bitcoin this week",
+      "summary": "Bitcoin hinted at a long-term bullish trend change as BTC neared an MACD cross that last resulted in $25,000 gains over two months.",
+      "url": "https://cointelegraph.com/news/first-bull-signal-since-2025-five-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-06T09:43:28.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260406-first-real-bull-signal-since-2025-five-things-to-know-in-bitcoin-this-week",
+      "localUrl": "/news/20260406-first-real-bull-signal-since-2025-five-things-to-know-in-bitcoin-this-week.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Iran war bets turn prediction markets into real-time macro radar: Sygnum",
+      "summary": "As Iran war odds swing on Polymarket and Kalshi, Sygnum’s Fabian Dori says prediction markets are fast becoming macro tools for crypto desks.",
+      "url": "https://cointelegraph.com/news/iran-war-bets-turn-crypto-prediction-markets-real-time-macro-radar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-06T09:30:10.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260406-iran-war-bets-turn-prediction-markets-into-real-time-macro-radar-sygnum",
+      "localUrl": "/news/20260406-iran-war-bets-turn-prediction-markets-into-real-time-macro-radar-sygnum.html"
+    },
     {
       "source": "CoinDesk",
       "title": "IMF warns tokenization could bring crypto risks into global financial markets",
@@ -62,7 +129,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Circle future-proofs Arc blockchain against quantum threats",
+      "title": "Circle future-proofs Arc blockchain against quantum computing threats",
       "summary": "Circle’s Arc blockchain said users will be able to create wallets that withstand future quantum computer attacks from day one.",
       "url": "https://www.coindesk.com/markets/2026/04/06/stablecoin-issuer-circle-s-arc-blockchain-to-debut-with-quantum-era-features",
       "publishedAt": "2026-04-06T07:17:26.000Z",
@@ -72,8 +139,19 @@
         "News"
       ],
       "category": "市场",
-      "slug": "20260406-circle-future-proofs-arc-blockchain-against-quantum-threats",
-      "localUrl": "/news/20260406-circle-future-proofs-arc-blockchain-against-quantum-threats.html"
+      "slug": "20260406-circle-future-proofs-arc-blockchain-against-quantum-computing-threats",
+      "localUrl": "/news/20260406-circle-future-proofs-arc-blockchain-against-quantum-computing-threats.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 UPDATE: Bitcoin's profit-to-loss transaction ratio has hit 2.95, its highest in 12 weeks and a historically reliable short-term price top signal, per Santiment. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iZWNaSlJoejVRM3g0VHgzQkdPQWdmSzBmcWhqRWdlNlUwdjI5Q3RBUlROYWlTem9YWEp0VmdWV2NpRHpIU0tNQV92WWMtd1dYRGVUQ1NyQzNuX3R2a2FDX29NeGY?oc=5\" target=\"_blank\">🚨 UPDATE: Bitcoin's profit-to-…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iZWNaSlJoejVRM3g0VHgzQkdPQWdmSzBmcWhqRWdlNlUwdjI5Q3RBUlROYWlTem9YWEp0VmdWV2NpRHpIU0tNQV92WWMtd1dYRGVUQ1NyQzNuX3R2a2FDX29NeGY?oc=5",
+      "publishedAt": "2026-04-06T07:00:39.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260406-update-bitcoins-profit-to-loss-transaction-ratio-has-hit-295-its-highest-in-12-w",
+      "localUrl": "/news/20260406-update-bitcoins-profit-to-loss-transaction-ratio-has-hit-295-its-highest-in-12-w.html"
     },
     {
       "source": "Cointelegraph",
@@ -141,6 +219,17 @@
       "category": "市场",
       "slug": "20260406-bitcoin-reclaims-69000-as-ceasefire-talks-surface-and-crypto-shorts-get-squeezed",
       "localUrl": "/news/20260406-bitcoin-reclaims-69000-as-ceasefire-talks-surface-and-crypto-shorts-get-squeezed.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 BIG: A solo Bitcoin miner beat 1-in-28,000 odds to win a $210,000 block reward, collecting 3.139 $BTC despite running a relatively small mining setup. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfczFlbUxZWjFaUWRmMl9tb3JiWkFWNVVKbjUzN2l6YTlhckhwdzNEQm9fZERUQnJzcWQ2LXB6SEZGdUNHSHY5N2FkYTJ0eEhXUWpsRUFyQXoyTWtCS2o2MW1VNnE?oc=5\" target=\"_blank\">🔥 BIG: A solo Bitcoin miner be…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfczFlbUxZWjFaUWRmMl9tb3JiWkFWNVVKbjUzN2l6YTlhckhwdzNEQm9fZERUQnJzcWQ2LXB6SEZGdUNHSHY5N2FkYTJ0eEhXUWpsRUFyQXoyTWtCS2o2MW1VNnE?oc=5",
+      "publishedAt": "2026-04-06T04:40:27.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260406-big-a-solo-bitcoin-miner-beat-1-in-28000-odds-to-win-a-210000-block-reward-colle",
+      "localUrl": "/news/20260406-big-a-solo-bitcoin-miner-beat-1-in-28000-odds-to-win-a-210000-block-reward-colle.html"
     },
     {
       "source": "Cointelegraph",
@@ -358,6 +447,17 @@
       "localUrl": "/news/20260405-bitcoin-and-the-us-dollar-have-a-symbiotic-relationship-bpi-exec.html"
     },
     {
+      "source": "X Wire",
+      "title": "Potential $10,000 Bitcoin in 2026 Prove me wrong - stay above $75,000. Before the biggest money pump in history in 2020-21, Bitcoin hovered around $10,000, and it may be reverting. Roughly $10,000 is also the first-born crypto's most traded price since 201 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DNUd3NXpWV0thYWFodTlrNWVTX0dpNGMycXI5ZjhtQXpZQ1lYbk84bHZGSklobktpQS1xMkgyU3ZMMGozWGNOenNBbEYtMnBxdnZMV0FMRFR5dlhMeXZfY2VYMEw?oc=5\" target=\"_blank\">Potential $10,000 Bitcoin in 20…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DNUd3NXpWV0thYWFodTlrNWVTX0dpNGMycXI5ZjhtQXpZQ1lYbk84bHZGSklobktpQS1xMkgyU3ZMMGozWGNOenNBbEYtMnBxdnZMV0FMRFR5dlhMeXZfY2VYMEw?oc=5",
+      "publishedAt": "2026-04-05T16:37:38.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260405-potential-10000-bitcoin-in-2026-prove-me-wrong-stay-above-75000-before-the-bigge",
+      "localUrl": "/news/20260405-potential-10000-bitcoin-in-2026-prove-me-wrong-stay-above-75000-before-the-bigge.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Bitcoin is now front-running the Fed rather than reacting to it. ETFs are the cause",
       "summary": "Bitcoin's correlation with global central bank easing has turned strongly negative since 2024, suggesting BTC now leads rather than lags monetary policy signals.",
@@ -429,7 +529,7 @@
     {
       "source": "Cointelegraph",
       "title": "Robert Kiyosaki recommends Bitcoin, gold as 1974 shift comes full circle",
-      "summary": "The Rich Dad Poor Dad author continues to back Bitcoin, gold and silver as alternatives to traditional money.",
+      "summary": "The \"Rich Dad Poor Dad\" author continues to back Bitcoin, gold and silver as alternatives to traditional money.",
       "url": "https://cointelegraph.com/news/robert-kiyosaki-1974-shift-bitcoin-gold-real-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-04-05T12:17:50.000Z",
       "keywords": [
@@ -491,17 +591,6 @@
       "category": "市场",
       "slug": "20260405-new-bitcoin-price-lows-matter-of-time-says-trader-with-btc-stuck-at-67k",
       "localUrl": "/news/20260405-new-bitcoin-price-lows-matter-of-time-says-trader-with-btc-stuck-at-67k.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin Price on Easter 🐣 2012: $5 2013: $93 2014: $500 2015: $255 2016: $418 2017: $1,195 2018: $6,850 2019: $5,325 2020: $7,050 2021: $58,000 2022: $40,000 2023: $28,500 2024: $70,000 2025: $84,500 2026: $67,000 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zSFdLdXA1aWI1SllETW0yMXM4czJVN0pxeEt3bWhJbTQ4dEJBejg5N2h0QnlGSTRGTlJ2QXA5enZOSzR0RHY5MHVRN0J4YUM2YmQwY3FUTzRwTTBWcGdoZ1hR?oc=5\" target=\"_blank\">Bitcoin Price on Easter 🐣 2012: $…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zSFdLdXA1aWI1SllETW0yMXM4czJVN0pxeEt3bWhJbTQ4dEJBejg5N2h0QnlGSTRGTlJ2QXA5enZOSzR0RHY5MHVRN0J4YUM2YmQwY3FUTzRwTTBWcGdoZ1hR?oc=5",
-      "publishedAt": "2026-04-05T11:23:16.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260405-bitcoin-price-on-easter-2012-5-2013-93-2014-500-2015-255-2016-418-2017-1195-2018",
-      "localUrl": "/news/20260405-bitcoin-price-on-easter-2012-5-2013-93-2014-500-2015-255-2016-418-2017-1195-2018.html"
     },
     {
       "source": "X Wire",
@@ -615,19 +704,6 @@
       "localUrl": "/news/20260405-just-in-probe-into-the-285-million-drift-protocol-crypto-hack-found-team-members.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Telegram founder Pavel Durov says Iranian government's ban backfired",
-      "summary": "Thousands of software developers are currently developing virtual private networks to circumvent Tehran's control of local internet access, Durov said.",
-      "url": "https://cointelegraph.com/news/telegram-durov-iran-ban-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-04T19:30:05.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260404-telegram-founder-pavel-durov-says-iranian-governments-ban-backfired",
-      "localUrl": "/news/20260404-telegram-founder-pavel-durov-says-iranian-governments-ban-backfired.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin tends to outperform gold and stocks after global shocks, Mercado Bitcoin finds",
       "summary": "The study analyzed 60-day windows after economic or geopolitical shocks and found that Bitcoin posted stronger returns than gold and the S&P 500 in each period.",
@@ -642,19 +718,6 @@
       "category": "市场",
       "slug": "20260404-bitcoin-tends-to-outperform-gold-and-stocks-after-global-shocks-mercado-bitcoin-",
       "localUrl": "/news/20260404-bitcoin-tends-to-outperform-gold-and-stocks-after-global-shocks-mercado-bitcoin-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Jimmy Song explains why Bitcoin needs a ‘conservative’ node client",
-      "summary": "The Bitcoin advocate is the co-founder of ProductionReady, a non-profit initiative to fund open source development of BTC software and education.",
-      "url": "https://cointelegraph.com/news/jimmy-song-bitcoin-conservative-node-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-04T17:59:25.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260404-jimmy-song-explains-why-bitcoin-needs-a-conservative-node-client",
-      "localUrl": "/news/20260404-jimmy-song-explains-why-bitcoin-needs-a-conservative-node-client.html"
     },
     {
       "source": "CoinDesk",
@@ -701,17 +764,6 @@
     },
     {
       "source": "X Wire",
-      "title": "The \"Ultimate Support\" for Bitcoin $BTC is at $47,960. One of the most powerful tools for identifying a macro bottom is CVDD. It tracks when \"Diamond Hands\" finally pass their coins to new buyers, effectively \"destroying\" coin days to create a new price floor. • C - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kbjdfOXBxTkVIMjVzQktzVDYxUFJXUk9rQmtCdXNjOW9FaXgxcmgtcFRsZzdBaG5wWUVjU0VsazZGRE1LY1ExOUhVVmRtTjZ2WGc2YWcwTG9VdDdoTnBj?oc=5\" target=\"_blank\">The \"Ultimate Support\" for Bitcoin $BT…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kbjdfOXBxTkVIMjVzQktzVDYxUFJXUk9rQmtCdXNjOW9FaXgxcmgtcFRsZzdBaG5wWUVjU0VsazZGRE1LY1ExOUhVVmRtTjZ2WGc2YWcwTG9VdDdoTnBj?oc=5",
-      "publishedAt": "2026-04-04T15:25:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260404-the-ultimate-support-for-bitcoin-btc-is-at-47960-one-of-the-most-powerful-tools-",
-      "localUrl": "/news/20260404-the-ultimate-support-for-bitcoin-btc-is-at-47960-one-of-the-most-powerful-tools-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Bitcoin has won. Global consensus is that $BTC is digital capital. The four-year cycle is dead. Price is now driven by capital flows. Bank and digital credit will determine Bitcoin’s growth trajectory. The biggest risk is bad ideas driving iatrogenic protocol changes. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wSEV4eWhmYmRGVFZieTI5Vm1FYUs3VVptaXdTa09DbmJ5bW9kVXhLaGJGRTFoamlaVjZWT0ZVRkN2ZjZhVkdHRTBJYTJtS2xiS1NaYmRXTldIMjg?oc=5\" target=\"_blank\">Bitcoin has won. Global consensus is that $…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wSEV4eWhmYmRGVFZieTI5Vm1FYUs3VVptaXdTa09DbmJ5bW9kVXhLaGJGRTFoamlaVjZWT0ZVRkN2ZjZhVkdHRTBJYTJtS2xiS1NaYmRXTldIMjg?oc=5",
@@ -738,19 +790,6 @@
       "localUrl": "/news/20260404-traders-are-the-big-winners-as-247-stocks-will-finally-end-the-after-hours-price.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Nevada judge extends ban on Kalshi, rejects event contract defense",
-      "summary": "The judge said Kalshi’s event contracts are indistinguishable from sports betting, supporting the state’s position that the platform requires a gaming license.",
-      "url": "https://cointelegraph.com/news/nevada-judge-extends-kalshi-ban-unlicensed-gambling-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-04T13:21:54.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260404-nevada-judge-extends-ban-on-kalshi-rejects-event-contract-defense",
-      "localUrl": "/news/20260404-nevada-judge-extends-ban-on-kalshi-rejects-event-contract-defense.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Anthropic Spots 'Emotion Vectors' Inside Claude That Influence AI Behavior",
       "summary": "Researchers say internal emotion-like signals shape how large language models make decisions.",
@@ -762,21 +801,6 @@
       "category": "综合",
       "slug": "20260404-anthropic-spots-emotion-vectors-inside-claude-that-influence-ai-behavior",
       "localUrl": "/news/20260404-anthropic-spots-emotion-vectors-inside-claude-that-influence-ai-behavior.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Solana's quantum-threat readiness reveals harsh tradeoff: security vs speed",
-      "summary": "While Bitcoin developers scramble to find a solution and Ethereum prepares for 'Q-day,' Solana is trying to get ahead of that scenario.",
-      "url": "https://www.coindesk.com/tech/2026/04/04/solana-s-quantum-threat-readiness-reveals-harsh-tradeoff-security-vs-speed",
-      "publishedAt": "2026-04-04T12:00:00.000Z",
-      "keywords": [
-        "Tech",
-        "Solana News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260404-solanas-quantum-threat-readiness-reveals-harsh-tradeoff-security-vs-speed",
-      "localUrl": "/news/20260404-solanas-quantum-threat-readiness-reveals-harsh-tradeoff-security-vs-speed.html"
     },
     {
       "source": "X Wire",
@@ -917,17 +941,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🔥 JUST IN: $166B Charles Schwab to launch “Schwab Crypto” account supporting direct Bitcoin and Ethereum trading. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFByOE80aTQzMUZaZVItd0IzNTBTX2pablBjallCRXJ5bmZPZUJGZWhFbGVsSXBUcTJPbDl6MHlnQUpSc25WVloyNTZ6bVJRdUZ0WmJQNm5lU3F6TEJxQ09NRmFwZWM?oc=5\" target=\"_blank\">🔥 JUST IN: $166B Charles Schwa…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByOE80aTQzMUZaZVItd0IzNTBTX2pablBjallCRXJ5bmZPZUJGZWhFbGVsSXBUcTJPbDl6MHlnQUpSc25WVloyNTZ6bVJRdUZ0WmJQNm5lU3F6TEJxQ09NRmFwZWM?oc=5",
-      "publishedAt": "2026-04-03T16:01:24.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260403-just-in-166b-charles-schwab-to-launch-schwab-crypto-account-supporting-direct-bi",
-      "localUrl": "/news/20260403-just-in-166b-charles-schwab-to-launch-schwab-crypto-account-supporting-direct-bi.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Below we can see that when Bitcoin peaked last October, the ETP flows left Bitcoin and jumped on the gold bandwagon. Now that gold has lost its mojo while Bitcoin is finding its footing, the flows have reversed. To me this is a good way to think about why gold - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVUFU4OE5DMWNmV2NGanBGbXlFMUhhRTZuSmV6aVVOUUdHeXlKb2tvZzJ2Y2x5R0JkUjhwczRDNHo5WjFmbkZTaTZUcVlJeU9fdVE2bUhrQkxjdUdLaXVvcGdHUXBsUQ?oc=5\" target=\"_blank\">Below we can see that when B…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVUFU4OE5DMWNmV2NGanBGbXlFMUhhRTZuSmV6aVVOUUdHeXlKb2tvZzJ2Y2x5R0JkUjhwczRDNHo5WjFmbkZTaTZUcVlJeU9fdVE2bUhrQkxjdUdLaXVvcGdHUXBsUQ?oc=5",
@@ -1042,19 +1055,6 @@
       "category": "市场",
       "slug": "20260402-usdc-stablecoin-issuer-circle-unveils-new-token-to-give-bitcoin-more-utility",
       "localUrl": "/news/20260402-usdc-stablecoin-issuer-circle-unveils-new-token-to-give-bitcoin-more-utility.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Google Researchers Reveal Every Way Hackers Can Trap, Hijack AI Agents",
-      "summary": "A Google DeepMind paper maps six attack categories against autonomous AI agents—from invisible HTML commands to multi-agent flash crashes.",
-      "url": "https://decrypt.co/363201/google-researchers-reveal-every-way-hackers-can-trap-hijack-ai-agents",
-      "publishedAt": "2026-04-02T21:01:09.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "安全",
-      "slug": "20260402-google-researchers-reveal-every-way-hackers-can-trap-hijack-ai-agents",
-      "localUrl": "/news/20260402-google-researchers-reveal-every-way-hackers-can-trap-hijack-ai-agents.html"
     },
     {
       "source": "Chainalysis Blog",
