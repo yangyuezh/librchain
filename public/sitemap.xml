@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-06T08:00:29.280Z</lastmod>
+    <lastmod>2026-04-06T09:21:44.060Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-06T08:00:29.280Z</lastmod>
+    <lastmod>2026-04-06T09:21:44.060Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260406-imf-warns-tokenization-could-bring-crypto-risks-into-global-financial-markets.html</loc>
+    <lastmod>2026-04-06T09:17:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260406-bitcoin-hits-weekly-high-over-69k-on-us-iran-ceasefire-hopes-as-oil-slides.html</loc>
+    <lastmod>2026-04-06T09:08:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260406-inflation-takes-center-stage-crypto-week-ahead.html</loc>
+    <lastmod>2026-04-06T08:28:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260406-china-orders-apple-to-pull-dorseys-bitchat-the-messaging-app-used-during-iran-pr.html</loc>
@@ -85,8 +103,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260406-circle-announced-the-quantum-resistant-roadmap-for-its-l1-blockchain-arc-adoptin.html</loc>
+    <lastmod>2026-04-06T03:28:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260406-rwanda-swats-bybits-p2p-platform-offering-franc-to-crypto-trading.html</loc>
     <lastmod>2026-04-06T03:06:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260406-james-wynn-hyperliquidated-james-wynn-has-just-been-liquidated-shorting-bitcoin-.html</loc>
+    <lastmod>2026-04-06T02:29:29.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -325,26 +355,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260404-bitcoin-could-reach-1-million-by-2027-and-5-million-by-2031-according-to-a-peer-.html</loc>
-    <lastmod>2026-04-04T12:25:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260404-solanas-quantum-threat-readiness-reveals-harsh-tradeoff-security-vs-speed.html</loc>
     <lastmod>2026-04-04T12:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260404-five-data-sources-say-the-same-thing-about-bitcoin-market-its-thinning-from-the-.html</loc>
-    <lastmod>2026-04-04T11:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260404-judge-continues-nevada-ban-on-kalshi-sports-markets.html</loc>
-    <lastmod>2026-04-04T07:04:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -433,12 +445,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260403-utreexo-accumulate-bitcoin-a-bitcoin-twitter-thread-19-xcom.html</loc>
-    <lastmod>2026-04-03T15:15:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260403-bitcoin-miner-riot-platforms-sells-over-250-million-worth-of-btc.html</loc>
     <lastmod>2026-04-03T14:53:57.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260402-google-researchers-reveal-every-way-hackers-can-trap-hijack-ai-agents.html</loc>
     <lastmod>2026-04-02T21:01:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260402-elon-musks-x-is-making-big-changes-to-combat-crypto-scams.html</loc>
-    <lastmod>2026-04-02T19:21:15.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
