@@ -1,7 +1,75 @@
 {
-  "updatedAt": "2026-04-06T06:05:30.142Z",
-  "total": 82,
+  "updatedAt": "2026-04-06T08:00:29.233Z",
+  "total": 81,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "China orders Apple to pull Dorsey's Bitchat, the messaging app used during Iran protests",
+      "summary": "The peer-to-peer app runs entirely over Bluetooth and mesh networks without an internet connection, making it popular with protesters and incompatible with Beijing's censorship regime.",
+      "url": "https://www.coindesk.com/tech/2026/04/06/china-orders-apple-to-pull-dorsey-s-bitchat-the-messaging-app-used-during-iran-protests",
+      "publishedAt": "2026-04-06T07:47:51.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260406-china-orders-apple-to-pull-dorseys-bitchat-the-messaging-app-used-during-iran-pr",
+      "localUrl": "/news/20260406-china-orders-apple-to-pull-dorseys-bitchat-the-messaging-app-used-during-iran-pr.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle future-proofs Arc blockchain against quantum threats",
+      "summary": "Circle’s Arc blockchain said users will be able to create wallets that withstand future quantum computer attacks from day one.",
+      "url": "https://www.coindesk.com/markets/2026/04/06/stablecoin-issuer-circle-s-arc-blockchain-to-debut-with-quantum-era-features",
+      "publishedAt": "2026-04-06T07:17:26.000Z",
+      "keywords": [
+        "Markets",
+        "Circle",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260406-circle-future-proofs-arc-blockchain-against-quantum-threats",
+      "localUrl": "/news/20260406-circle-future-proofs-arc-blockchain-against-quantum-threats.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Anthropic says one of its Claude models was pressured to lie, cheat and blackmail",
+      "summary": "In one of the experiments, the chatbot resorted to blackmail after it found an email about replacing it, while in another, it cheated to complete a task with a tight deadline.",
+      "url": "https://cointelegraph.com/news/anthropic-claude-ai-deception-cheating-blackmail-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-06T06:14:27.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260406-anthropic-says-one-of-its-claude-models-was-pressured-to-lie-cheat-and-blackmail",
+      "localUrl": "/news/20260406-anthropic-says-one-of-its-claude-models-was-pressured-to-lie-cheat-and-blackmail.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Circle unveils quantum-resistant roadmap for its layer-1 blockchain Arc",
+      "summary": "Circle’s plan to make Arc quantum-resistant comes amid increasing fears that \"Q-Day\" may come sooner than anticipated.",
+      "url": "https://cointelegraph.com/news/circle-quantum-proof-roadmap-layer-1-arc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-06T06:09:38.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260406-circle-unveils-quantum-resistant-roadmap-for-its-layer-1-blockchain-arc",
+      "localUrl": "/news/20260406-circle-unveils-quantum-resistant-roadmap-for-its-layer-1-blockchain-arc.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "North Korean workers have been infiltrating DeFi for 7 years: Researcher",
+      "summary": "Security researcher Taylor Monahan listed at least 40 decentralized finance platforms she claims have been infiltrated by North Korean IT workers at some stage of their lives.",
+      "url": "https://cointelegraph.com/news/dprk-workers-have-worked-on-countless-protocols-since-defi-summer-cybersec-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-06T06:04:46.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260406-north-korean-workers-have-been-infiltrating-defi-for-7-years-researcher",
+      "localUrl": "/news/20260406-north-korean-workers-have-been-infiltrating-defi-for-7-years-researcher.html"
+    },
     {
       "source": "CoinDesk",
       "title": "XRP drifts higher to $1.33, but range-bound trade still dominates",
@@ -84,7 +152,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Trump-Iran deadline chaos sends crypto higher while cease-fire hopes rise",
+      "title": "Trump-Iran deadline chaos sends crypto higher while ceasefire hopes rise",
       "summary": "US President Donald Trump threatened Iran could be \"living in Hell\" if it doesn't open the Strait of Hormuz, though he also told reporters that a deal with Iran is getting close.",
       "url": "https://cointelegraph.com/news/crypto-markets-bounce-trump-delays-deadline-for-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-04-06T04:06:39.000Z",
@@ -92,13 +160,13 @@
         "Latest News"
       ],
       "category": "综合",
-      "slug": "20260406-trump-iran-deadline-chaos-sends-crypto-higher-while-cease-fire-hopes-rise",
-      "localUrl": "/news/20260406-trump-iran-deadline-chaos-sends-crypto-higher-while-cease-fire-hopes-rise.html"
+      "slug": "20260406-trump-iran-deadline-chaos-sends-crypto-higher-while-ceasefire-hopes-rise",
+      "localUrl": "/news/20260406-trump-iran-deadline-chaos-sends-crypto-higher-while-ceasefire-hopes-rise.html"
     },
     {
       "source": "Cointelegraph",
       "title": "Rwanda swats Bybit’s P2P platform offering franc-to-crypto trading",
-      "summary": "The Rwanda central bank's warning came after Bybit added the Rwanda Franc to its list of assets that its peer-to-peer platform can use to trade for crypto.",
+      "summary": "The Rwanda central bank's warning came after Bybit added the Rwanda franc to its list of assets that its peer-to-peer platform can use to trade for crypto.",
       "url": "https://cointelegraph.com/news/rwanda-swats-bybit-p2p-platform-offering-franc-to-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-04-06T03:06:34.000Z",
       "keywords": [
@@ -306,6 +374,17 @@
       "localUrl": "/news/20260405-robert-kiyosaki-recommends-bitcoin-gold-as-1974-shift-comes-full-circle.html"
     },
     {
+      "source": "X Wire",
+      "title": "The volatility is extremely low on the markets for #Bitcoin. It has hit the lowest point (on the 4-hour) since the entire breakdown. If you put this in context, then we're at the end of the vol squeeze currently. It doesn't usually last any longer than this when markets a - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CTkhZM0J0ekdJRDU2VjUwS1dCazdLT2o2ZnpBc2tlb3R2M3M3aE9mVXdYbXJ2aTBNVjYzbDFYOEV0U0ZGWUdOOGNIeHBOSlhMNmFCd1FHU2ZSX1UzZTZEM2xIZw?oc=5\" target=\"_blank\">The volatility is extremely low …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CTkhZM0J0ekdJRDU2VjUwS1dCazdLT2o2ZnpBc2tlb3R2M3M3aE9mVXdYbXJ2aTBNVjYzbDFYOEV0U0ZGWUdOOGNIeHBOSlhMNmFCd1FHU2ZSX1UzZTZEM2xIZw?oc=5",
+      "publishedAt": "2026-04-05T12:17:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260405-the-volatility-is-extremely-low-on-the-markets-for-bitcoin-it-has-hit-the-lowest",
+      "localUrl": "/news/20260405-the-volatility-is-extremely-low-on-the-markets-for-bitcoin-it-has-hit-the-lowest.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Ant Group’s blockchain arm unveils platform for AI agents to transact on crypto rails",
       "summary": "Anvita includes tokenization services and a platform for agents to coordinate tasks and settle payments in real time using stablecoins.",
@@ -407,17 +486,6 @@
       "localUrl": "/news/20260405-anthropic-launches-pac-amid-tensions-with-trump-administration-over-ai-policy.html"
     },
     {
-      "source": "X Wire",
-      "title": "Crypto Twitter Community on X - 291 Members - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RVHZpbHlZOWFqMXI4a2VfWHZ0MTVUZFAtbmJOeTdaSl9peGd0TnNsQ0kwVWJJamU2c1ZVUjVuNlR0cGpWMHNjOFlMMTJoWUF2VGV0a0hrZHNvVms?oc=5\" target=\"_blank\">Crypto Twitter Community on X - 291 Members…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RVHZpbHlZOWFqMXI4a2VfWHZ0MTVUZFAtbmJOeTdaSl9peGd0TnNsQ0kwVWJJamU2c1ZVUjVuNlR0cGpWMHNjOFlMMTJoWUF2VGV0a0hrZHNvVms?oc=5",
-      "publishedAt": "2026-04-05T07:16:04.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260405-crypto-twitter-community-on-x-291-members-xcom",
-      "localUrl": "/news/20260405-crypto-twitter-community-on-x-291-members-xcom.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Drift Protocol says $280M exploit took 'months of deliberate preparation'",
       "summary": "Drift Protocol said with “medium-high confidence” that the recent attack was carried out by the same actors responsible for the $58 million Radiant Capital hack in October 2024.",
@@ -481,17 +549,6 @@
       "localUrl": "/news/20260405-just-in-probe-into-the-285-million-drift-protocol-crypto-hack-found-team-members.html"
     },
     {
-      "source": "X Wire",
-      "title": "There is no technology in the world that could ever fix the spam replies of a crypto account — because 80% of crypto is simply bots. The only path out is to enable the 2nd degree reply restrictions. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1SWpmOXUwT2MyVGtMc0NzcnVzX1Nwc2MxRlZhaTFTS2stbUtsMmhMTEtrQkhEc3B0cGp3WlBGTFgwSDlWamtRcVdlU1FJc2RVUDl2bDNhRnJKRGx1Z1g5Tw?oc=5\" target=\"_blank\">There is no technology in the world …",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1SWpmOXUwT2MyVGtMc0NzcnVzX1Nwc2MxRlZhaTFTS2stbUtsMmhMTEtrQkhEc3B0cGp3WlBGTFgwSDlWamtRcVdlU1FJc2RVUDl2bDNhRnJKRGx1Z1g5Tw?oc=5",
-      "publishedAt": "2026-04-05T03:03:27.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260405-there-is-no-technology-in-the-world-that-could-ever-fix-the-spam-replies-of-a-cr",
-      "localUrl": "/news/20260405-there-is-no-technology-in-the-world-that-could-ever-fix-the-spam-replies-of-a-cr.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Telegram founder Pavel Durov says Iranian government's ban backfired",
       "summary": "Thousands of software developers are currently developing virtual private networks to circumvent Tehran's control of local internet access, Durov said.",
@@ -522,7 +579,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Jimmy Song explains why Bitcoin needs a 'conservative' node client",
+      "title": "Jimmy Song explains why Bitcoin needs a ‘conservative’ node client",
       "summary": "The Bitcoin advocate is the co-founder of ProductionReady, a non-profit initiative to fund open source development of BTC software and education.",
       "url": "https://cointelegraph.com/news/jimmy-song-bitcoin-conservative-node-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-04-04T17:59:25.000Z",
@@ -578,6 +635,17 @@
     },
     {
       "source": "X Wire",
+      "title": "The \"Ultimate Support\" for Bitcoin $BTC is at $47,960. One of the most powerful tools for identifying a macro bottom is CVDD. It tracks when \"Diamond Hands\" finally pass their coins to new buyers, effectively \"destroying\" coin days to create a new price floor. • C - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kbjdfOXBxTkVIMjVzQktzVDYxUFJXUk9rQmtCdXNjOW9FaXgxcmgtcFRsZzdBaG5wWUVjU0VsazZGRE1LY1ExOUhVVmRtTjZ2WGc2YWcwTG9VdDdoTnBj?oc=5\" target=\"_blank\">The \"Ultimate Support\" for Bitcoin $BT…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kbjdfOXBxTkVIMjVzQktzVDYxUFJXUk9rQmtCdXNjOW9FaXgxcmgtcFRsZzdBaG5wWUVjU0VsazZGRE1LY1ExOUhVVmRtTjZ2WGc2YWcwTG9VdDdoTnBj?oc=5",
+      "publishedAt": "2026-04-04T15:25:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260404-the-ultimate-support-for-bitcoin-btc-is-at-47960-one-of-the-most-powerful-tools-",
+      "localUrl": "/news/20260404-the-ultimate-support-for-bitcoin-btc-is-at-47960-one-of-the-most-powerful-tools-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Bitcoin has won. Global consensus is that $BTC is digital capital. The four-year cycle is dead. Price is now driven by capital flows. Bank and digital credit will determine Bitcoin’s growth trajectory. The biggest risk is bad ideas driving iatrogenic protocol changes. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wSEV4eWhmYmRGVFZieTI5Vm1FYUs3VVptaXdTa09DbmJ5bW9kVXhLaGJGRTFoamlaVjZWT0ZVRkN2ZjZhVkdHRTBJYTJtS2xiS1NaYmRXTldIMjg?oc=5\" target=\"_blank\">Bitcoin has won. Global consensus is that $…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wSEV4eWhmYmRGVFZieTI5Vm1FYUs3VVptaXdTa09DbmJ5bW9kVXhLaGJGRTFoamlaVjZWT0ZVRkN2ZjZhVkdHRTBJYTJtS2xiS1NaYmRXTldIMjg?oc=5",
@@ -630,6 +698,17 @@
       "localUrl": "/news/20260404-anthropic-spots-emotion-vectors-inside-claude-that-influence-ai-behavior.html"
     },
     {
+      "source": "X Wire",
+      "title": "\"Bitcoin could reach $1 million by 2027 and $5 million by 2031.\" According to a peer-reviewed pricing model published in the Journal of Risk and Financial Management. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wcllOc0lNY0lWYVU5bmRvMXFKZUJMWmhCLURSSzZGRlh0d084ZTlIRnZYUllkanZ2NlRVSmxHWUJZOV9wOU8zclJQdExnVnRYTDNBUzY2T3dmWWN2TzJzNnRYMEMzdw?oc=5\" target=\"_blank\">\"Bitcoin could reach $1 mill…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wcllOc0lNY0lWYVU5bmRvMXFKZUJMWmhCLURSSzZGRlh0d084ZTlIRnZYUllkanZ2NlRVSmxHWUJZOV9wOU8zclJQdExnVnRYTDNBUzY2T3dmWWN2TzJzNnRYMEMzdw?oc=5",
+      "publishedAt": "2026-04-04T12:25:10.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260404-bitcoin-could-reach-1-million-by-2027-and-5-million-by-2031-according-to-a-peer-",
+      "localUrl": "/news/20260404-bitcoin-could-reach-1-million-by-2027-and-5-million-by-2031-according-to-a-peer-.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Solana's quantum-threat readiness reveals harsh tradeoff: security vs speed",
       "summary": "While Bitcoin developers scramble to find a solution and Ethereum prepares for 'Q-day,' Solana is trying to get ahead of that scenario.",
@@ -643,32 +722,6 @@
       "category": "监管",
       "slug": "20260404-solanas-quantum-threat-readiness-reveals-harsh-tradeoff-security-vs-speed",
       "localUrl": "/news/20260404-solanas-quantum-threat-readiness-reveals-harsh-tradeoff-security-vs-speed.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Prediction markets are testing legal limits in strict Asian markets",
-      "summary": "Prediction markets are expanding into Asia’s largest economies, but unclear legal definitions and strict gambling laws may limit how far they can go.",
-      "url": "https://cointelegraph.com/news/prediction-markets-testing-legal-limits-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-04T12:00:00.000Z",
-      "keywords": [
-        "Features"
-      ],
-      "category": "监管",
-      "slug": "20260404-prediction-markets-are-testing-legal-limits-in-strict-asian-markets",
-      "localUrl": "/news/20260404-prediction-markets-are-testing-legal-limits-in-strict-asian-markets.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin shorts risk $2.5 billion liquidation at $72K: Are bears in danger?",
-      "summary": "Bitcoin is poised for a reversal if ETF demand returns or a ceasefire occurs, potentially crushing short sellers in a massive price squeeze.",
-      "url": "https://cointelegraph.com/news/bitcoin-shorts-risk-2-5-billion-liquidation-72k-are-bears-in-danger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-04T11:58:24.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "监管",
-      "slug": "20260404-bitcoin-shorts-risk-25-billion-liquidation-at-72k-are-bears-in-danger",
-      "localUrl": "/news/20260404-bitcoin-shorts-risk-25-billion-liquidation-at-72k-are-bears-in-danger.html"
     },
     {
       "source": "CoinDesk",
@@ -685,19 +738,6 @@
       "localUrl": "/news/20260404-five-data-sources-say-the-same-thing-about-bitcoin-market-its-thinning-from-the-.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Polymarket takes down market on missing US pilot after backlash",
-      "summary": "Polymarket cited “integrity standards” for removing the market but did not specify which rule was broken, drawing scrutiny from users who questioned how its policies are applied.",
-      "url": "https://cointelegraph.com/news/polymarket-removes-missing-us-pilot-market-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-04T09:32:42.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260404-polymarket-takes-down-market-on-missing-us-pilot-after-backlash",
-      "localUrl": "/news/20260404-polymarket-takes-down-market-on-missing-us-pilot-after-backlash.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Judge continues Nevada ban on Kalshi sports markets",
       "summary": "A state judge ruled that Kalshi's prediction markets offering sports bets were \"indistinguishable\" from gambling, and extended a temporary ban in Nevada.",
@@ -711,20 +751,6 @@
       "category": "监管",
       "slug": "20260404-judge-continues-nevada-ban-on-kalshi-sports-markets",
       "localUrl": "/news/20260404-judge-continues-nevada-ban-on-kalshi-sports-markets.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Here's what 'cracking' bitcoin in 9 minutes by quantum computers actually means",
-      "summary": "Google's quantum paper made headlines with that number. Here's what it means, what's actually at risk, and why 6.9 million bitcoin are more exposed than the rest.",
-      "url": "https://www.coindesk.com/tech/2026/03/31/what-does-cracking-bitcoin-in-9-minutes-by-quantum-computers-actually-mean",
-      "publishedAt": "2026-04-04T02:30:00.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260404-heres-what-cracking-bitcoin-in-9-minutes-by-quantum-computers-actually-means",
-      "localUrl": "/news/20260404-heres-what-cracking-bitcoin-in-9-minutes-by-quantum-computers-actually-means.html"
     },
     {
       "source": "X Wire",
@@ -764,22 +790,6 @@
       "localUrl": "/news/20260403-fifa-inks-world-cup-prediction-market-deal-with-adi-predictstreet.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Schwab plans spot bitcoin, ether trading launch in first half of 2026",
-      "summary": "The financial services giant with almost $12 trillion in client assets is moving closer to direct crypto trading, offering subscription for early access to the Schwab Crypto account.",
-      "url": "https://www.coindesk.com/business/2026/04/03/schwab-plans-spot-bitcoin-ether-trading-launch-in-first-half-of-2026",
-      "publishedAt": "2026-04-03T19:18:00.000Z",
-      "keywords": [
-        "Finance",
-        "Bitcoin News",
-        "Ethereum News",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260403-schwab-plans-spot-bitcoin-ether-trading-launch-in-first-half-of-2026",
-      "localUrl": "/news/20260403-schwab-plans-spot-bitcoin-ether-trading-launch-in-first-half-of-2026.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin Miner MARA Slashes 15% of Workforce After Selling $1.1 Billion in BTC",
       "summary": "Publicly traded Bitcoin miner MARA cut 15% of its staff this week after selling $1.1 billion in Bitcoin to fuel an AI push.",
@@ -806,17 +816,6 @@
       "localUrl": "/news/20260403-myriad-traders-predict-us-boots-in-iran-after-downed-fighter-jet-prompts-rescue-.html"
     },
     {
-      "source": "X Wire",
-      "title": "Block is bringing back the #Bitcoin faucet. 🟠 Launched by Gavin Andresen in 2010, it originally gave away 5 $BTC per person, worth $500,000 today. The website currently shows a countdown to April 6. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IMjBERGVPbk9lYkZ0cjhxOXdFeE1QZEZNUVpMZFV2ZkQ2U2hLNmJqTTgwNVpQbGVybnpvX3FOX2VUMzJEM2pNekljRFVBbkxkNUx4N3E5Ml9QWHdyWXpmcVJ3?oc=5\" target=\"_blank\">Block is bringing back the #Bitcoi…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IMjBERGVPbk9lYkZ0cjhxOXdFeE1QZEZNUVpMZFV2ZkQ2U2hLNmJqTTgwNVpQbGVybnpvX3FOX2VUMzJEM2pNekljRFVBbkxkNUx4N3E5Ml9QWHdyWXpmcVJ3?oc=5",
-      "publishedAt": "2026-04-03T17:41:45.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260403-block-is-bringing-back-the-bitcoin-faucet-launched-by-gavin-andresen-in-2010-it-",
-      "localUrl": "/news/20260403-block-is-bringing-back-the-bitcoin-faucet-launched-by-gavin-andresen-in-2010-it-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Decentralized Email Service Dmail to Shut Down, Token Hits New Low",
       "summary": "Dmail’s team said it struggled with infrastructure costs and failed monetization attempts despite five years of development.",
@@ -828,17 +827,6 @@
       "category": "综合",
       "slug": "20260403-decentralized-email-service-dmail-to-shut-down-token-hits-new-low",
       "localUrl": "/news/20260403-decentralized-email-service-dmail-to-shut-down-token-hits-new-low.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: $12 trillion Charles Schwab is launching its crypto vertical allowing users to buy Bitcoin \"soon\" 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HSUc4ZWVQa2NJcmItcF92TFJvaVpZNGNURDBDc1A1ZldIaFc1RzBZTzgzb1ZUVlNWNzFqbVVha3R0dkpHTThnTkdqRWhHeldMUDd2TkpnSm1abUdrczlkRWN6YTlkN3c?oc=5\" target=\"_blank\">JUST IN: $12 trillion Charl…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HSUc4ZWVQa2NJcmItcF92TFJvaVpZNGNURDBDc1A1ZldIaFc1RzBZTzgzb1ZUVlNWNzFqbVVha3R0dkpHTThnTkdqRWhHeldMUDd2TkpnSm1abUdrczlkRWN6YTlkN3c?oc=5",
-      "publishedAt": "2026-04-03T17:22:44.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260403-just-in-12-trillion-charles-schwab-is-launching-its-crypto-vertical-allowing-use",
-      "localUrl": "/news/20260403-just-in-12-trillion-charles-schwab-is-launching-its-crypto-vertical-allowing-use.html"
     },
     {
       "source": "Decrypt",
@@ -935,6 +923,17 @@
       "category": "市场",
       "slug": "20260403-where-next-for-bitcoin-after-worst-quarter-since-2018",
       "localUrl": "/news/20260403-where-next-for-bitcoin-after-worst-quarter-since-2018.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Utreexo: Accumulate Bitcoin. A Bitcoin Twitter Thread 🧵 1/9 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE12aE1PTWJmR1lfWnF0dlpBRHkxZzZoMk1IMWhrRjlFZEhidXc0c1VocnZUOUNTV3FDSGctb3pFdDVaOEVqYUtiLVdHNFhZYWV3SHFfblI1TmJpNUE?oc=5\" target=\"_blank\">Utreexo: Accumulate Bitcoin. A Bitcoin Twit…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12aE1PTWJmR1lfWnF0dlpBRHkxZzZoMk1IMWhrRjlFZEhidXc0c1VocnZUOUNTV3FDSGctb3pFdDVaOEVqYUtiLVdHNFhZYWV3SHFfblI1TmJpNUE?oc=5",
+      "publishedAt": "2026-04-03T15:15:31.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260403-utreexo-accumulate-bitcoin-a-bitcoin-twitter-thread-19-xcom",
+      "localUrl": "/news/20260403-utreexo-accumulate-bitcoin-a-bitcoin-twitter-thread-19-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -1074,24 +1073,6 @@
       "category": "监管",
       "slug": "20260402-chainalysis-links-nyc-2026-ai-amplification-tradfi-convergence-and-the-power-of-",
       "localUrl": "/news/20260402-chainalysis-links-nyc-2026-ai-amplification-tradfi-convergence-and-the-power-of-.html"
-    },
-    {
-      "source": "Chainalysis Blog",
-      "title": "Chainalysis、初のブロックチェーン・インテリジェンス・エージェントを発表",
-      "summary": "※この記事は自動翻訳されています。正確な内容につきましては原文をご参照ください。 悪意のあるアクターはすでに AI を駆使し、詐欺、窃盗、マネーロンダリングを加速させています。対抗する側には、それを上回るスピードが求められます。 本日、イベント Links にて、Chainalysis の新たなステージとなるブロックチェーン・インテリジェンス・エージェント、「Chainalysis Agent（エージェント）」を発表しました。単独の新製品でも、後付けのチャットボット機能でも…",
-      "url": "https://www.chainalysis.com/blog/introducing-first-blockchain-intelligence-agents-2026-japanese/",
-      "publishedAt": "2026-04-02T06:39:21.000Z",
-      "keywords": [
-        "お知らせ",
-        "日本語",
-        "AI (人工知能)",
-        "AIエージェント",
-        "Chainalysisエージェント",
-        "ブロックチェーンインテリジェンス"
-      ],
-      "category": "安全",
-      "slug": "20260402-chainalysis",
-      "localUrl": "/news/20260402-chainalysis.html"
     }
   ]
 }
