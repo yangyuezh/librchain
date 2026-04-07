@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-07T21:01:36.797Z</lastmod>
+    <lastmod>2026-04-07T21:55:49.597Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-07T21:01:36.797Z</lastmod>
+    <lastmod>2026-04-07T21:55:49.597Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260407-solana-exchange-stabble-warns-users-to-pull-liquidity-after-north-korean-hacker-.html</loc>
+    <lastmod>2026-04-07T21:20:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260407-bitcoin-wallets-absorb-437m-btc-as-network-activity-flips-to-bull-phase.html</loc>
+    <lastmod>2026-04-07T21:16:16.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260407-democrats-question-cftc-chair-on-insider-trading-in-prediction-markets.html</loc>
+    <lastmod>2026-04-07T21:11:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260407-trump-doj-rejects-tornado-cash-developers-newest-argument-for-dismissal.html</loc>
+    <lastmod>2026-04-07T21:10:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260407-aave-token-falls-near-2-year-low-as-risk-management-firm-becomes-latest-to-depar.html</loc>
@@ -289,6 +313,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260407-the-decision-for-the-direction-isnt-far-away-for-bitcoin-why-well-because-it-did.html</loc>
+    <lastmod>2026-04-07T11:42:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260407-bitcoin-whale-moves-20m-to-binance-amid-broader-selling-pressure.html</loc>
     <lastmod>2026-04-07T11:41:43.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -361,12 +391,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260407-bitcoin-etf-inflows-hit-471m-highest-since-late-february.html</loc>
-    <lastmod>2026-04-07T08:55:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260407-just-one-more-trade-is-the-crypto-version-of-just-one-more-level-in-a-video-game.html</loc>
     <lastmod>2026-04-07T06:24:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -375,12 +399,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260407-bitcoin-etf-inflows-hit-highest-level-since-february.html</loc>
     <lastmod>2026-04-07T05:56:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260407-bitcoins-quantum-challenges-are-more-social-than-technical-grayscale.html</loc>
-    <lastmod>2026-04-07T05:46:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -427,32 +445,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260406-tokenized-stocks-take-next-step-with-first-on-chain-vote-for-galaxy-shareholders.html</loc>
-    <lastmod>2026-04-06T19:01:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260406-bitcoin-starts-to-go-up-and-starts-to-look-significantly-better-to-be-fair-i-ass.html</loc>
     <lastmod>2026-04-06T18:54:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260406-altcoin-resilience-signals-compelling-entry-points-for-crypto-markets-grayscale.html</loc>
-    <lastmod>2026-04-06T18:27:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260406-just-in-polymarket-to-launch-11-usdc-backed-crypto-collateral-token-xcom.html</loc>
     <lastmod>2026-04-06T16:28:12.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260406-just-in-us-m2-money-supply-hits-a-new-all-time-high-buy-bitcoin-prepare-accordin.html</loc>
-    <lastmod>2026-04-06T14:56:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
