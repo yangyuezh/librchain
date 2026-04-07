@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-06T23:49:52.346Z</lastmod>
+    <lastmod>2026-04-07T03:28:20.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-06T23:49:52.346Z</lastmod>
+    <lastmod>2026-04-07T03:28:20.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260407-chaos-labs-taps-out-as-aaves-risk-provider-decision-not-made-in-haste.html</loc>
+    <lastmod>2026-04-07T02:04:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260406-today-sec-chair-paul-atkins-says-the-crypto-safe-harbor-proposal-has-advanced-to.html</loc>
+    <lastmod>2026-04-06T23:41:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260406-jamie-dimon-says-ai-will-impact-virtually-every-function-at-jpmorgan-chase.html</loc>
@@ -81,6 +93,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260406-altcoin-resilience-signals-compelling-entry-points-for-crypto-markets-grayscale.html</loc>
     <lastmod>2026-04-06T18:27:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260406-breaking-banks-and-crypto-firms-have-privately-reached-a-deal-on-crypto-market-s.html</loc>
+    <lastmod>2026-04-06T18:13:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -367,12 +385,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260406-anthropic-says-one-of-its-claude-models-was-pressured-to-lie-cheat-and-blackmail.html</loc>
-    <lastmod>2026-04-06T06:14:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260406-breaking-jack-dorseys-block-is-giving-away-1000000-in-free-bitcoin-starting-toda.html</loc>
     <lastmod>2026-04-06T05:53:38.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -409,20 +421,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260406-circle-announced-the-quantum-resistant-roadmap-for-its-l1-blockchain-arc-adoptin.html</loc>
-    <lastmod>2026-04-06T03:28:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260406-james-wynn-hyperliquidated-james-wynn-has-just-been-liquidated-shorting-bitcoin-.html</loc>
     <lastmod>2026-04-06T02:29:29.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260406-new-ark-invest-ceo-cathie-wood-says-the-days-of-bitcoin-drawing-down-85-are-done.html</loc>
-    <lastmod>2026-04-06T02:20:28.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260406-art-is-not-dead-art-on-blockchain-is-scarce-it-is-also-not-dead-art-that-reflect.html</loc>
+    <lastmod>2026-04-06T02:27:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -447,12 +453,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260405-solana-ecosystem-roundup-march-2026.html</loc>
     <lastmod>2026-04-05T19:03:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260405-weekly-recap-1-iran-demands-ships-transiting-through-the-strait-of-hormuz-to-pay.html</loc>
-    <lastmod>2026-04-05T17:41:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
