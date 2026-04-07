@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-07T15:40:36.143Z</lastmod>
+    <lastmod>2026-04-07T17:14:38.488Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-07T15:40:36.143Z</lastmod>
+    <lastmod>2026-04-07T17:14:38.488Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260407-us-prosecutors-reject-tornado-cash-co-founders-argument-for-dismissal.html</loc>
+    <lastmod>2026-04-07T16:48:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260407-defi-yields-are-crashing-so-hard-that-they-cant-compete-with-a-traditional-savin.html</loc>
@@ -31,6 +37,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260407-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-04-07T15:00:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260407-regulation-by-hostility-the-real-legacy-of-biden-era-crypto-policy.html</loc>
     <lastmod>2026-04-07T15:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -39,6 +51,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260407-xrp-etfs-outpace-bitcoin-as-crypto-funds-bounce-back-after-down-week.html</loc>
     <lastmod>2026-04-07T14:56:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260407-split-capital-winds-down-as-founder-joins-stablecoin-startup-plasma.html</loc>
+    <lastmod>2026-04-07T14:50:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -81,6 +99,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260407-breaking-morgan-stanleys-spot-bitcoin-etf-to-go-live-tomorrow-bloombergs-eric-ba.html</loc>
     <lastmod>2026-04-07T14:12:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260407-morgan-stanley-bitcoin-etf-mbst-going-effective-tomorrow-looks-like-wed-48-via-n.html</loc>
+    <lastmod>2026-04-07T14:07:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -217,6 +241,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260407-if-bitcoin-ends-2026-at-10000-it-will-still-be-the-best-performing-asset-over-te.html</loc>
+    <lastmod>2026-04-07T11:01:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260407-bitcoin-price-drop-speculation-spurred-by-familiar-price-pattern.html</loc>
     <lastmod>2026-04-07T10:53:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -277,6 +307,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260407-breaking-sec-chair-atkins-says-crypto-safe-harbor-proposal-now-at-white-house-fo.html</loc>
+    <lastmod>2026-04-07T05:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260407-bitcoin-miners-face-a-new-rival-for-cheap-power-as-anthropic-signs-multi-gigawat.html</loc>
     <lastmod>2026-04-07T05:01:18.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -301,26 +337,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260407-new-evidence-in-libra-probe-renews-questions-about-milei-involvement.html</loc>
-    <lastmod>2026-04-07T04:11:26.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260407-solana-foundation-looks-to-beef-up-defi-security-as-attacks-continue.html</loc>
-    <lastmod>2026-04-07T04:04:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260407-sec-close-to-putting-out-reg-crypto-for-fundraising-questions-chair-atkins-says.html</loc>
     <lastmod>2026-04-07T03:59:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260407-chaos-labs-taps-out-as-aaves-risk-provider-decision-not-made-in-haste.html</loc>
-    <lastmod>2026-04-07T02:04:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -433,26 +451,20 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260406-big-chinas-tax-authority-urges-banks-to-use-blockchain-to-boost-sme-lending-and-.html</loc>
-    <lastmod>2026-04-06T13:06:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260406-the-market-is-overpricing-bitcoin-s-supply-the-real-hard-cap-isnt-21m-its-17m-an.html</loc>
     <lastmod>2026-04-06T12:59:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260406-strategy-has-acquired-4871-btc-for-3299-million-at-67718-per-bitcoin-as-of-45202.html</loc>
-    <lastmod>2026-04-06T12:05:37.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260406-just-in-bitmine-immersion-tech-buys-71252-ethereum-bringing-its-total-to-4803m-e.html</loc>
+    <lastmod>2026-04-06T12:45:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260406-just-in-michael-saylors-strategy-buys-4871-bitcoin-worth-330-million-xcom.html</loc>
-    <lastmod>2026-04-06T12:05:26.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260406-strategy-has-acquired-4871-btc-for-3299-million-at-67718-per-bitcoin-as-of-45202.html</loc>
+    <lastmod>2026-04-06T12:05:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -481,20 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260405-just-in-bitcoin-rises-above-69000-xcom.html</loc>
-    <lastmod>2026-04-05T23:36:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260405-solana-ecosystem-roundup-march-2026.html</loc>
     <lastmod>2026-04-05T19:03:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260405-timeframes-matter-since-aug-2020-bitcoin-is-the-top-performing-major-asset-and-i.html</loc>
-    <lastmod>2026-04-05T13:32:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
