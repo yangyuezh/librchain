@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-08T07:51:19.002Z</lastmod>
+    <lastmod>2026-04-08T09:16:48.421Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-08T07:51:19.002Z</lastmod>
+    <lastmod>2026-04-08T09:16:48.421Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260408-will-quantum-safe-cryptography-slow-ethereum-down-the-performance-tradeoff-expla.html</loc>
+    <lastmod>2026-04-08T08:49:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260408-cryptos-aws-alchemy-unveils-tool-to-make-ai-payment-systems-talk-to-each-other.html</loc>
+    <lastmod>2026-04-08T08:43:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260408-crypto-whale-holding-oil-shorts-walks-away-with-2-million-in-profit.html</loc>
+    <lastmod>2026-04-08T08:42:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260408-ethereum-stablecoin-supply-hits-180b-all-time-high-token-terminal.html</loc>
@@ -63,6 +81,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260408-morgan-stanleys-bitcoin-etf-set-to-launch-on-wednesday.html</loc>
     <lastmod>2026-04-08T04:42:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260408-the-mystery-of-satoshi-nakamoto-the-pseudonymous-inventor-of-bitcoin-has-remaine.html</loc>
+    <lastmod>2026-04-08T04:40:29.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -313,12 +337,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260407-polymarket-bags-97-of-onchain-prediction-market-fees-after-pricing-overhaul.html</loc>
-    <lastmod>2026-04-07T14:20:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260407-breaking-morgan-stanleys-spot-bitcoin-etf-to-go-live-tomorrow-bloombergs-eric-ba.html</loc>
     <lastmod>2026-04-07T14:12:17.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -369,18 +387,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260407-114b-lost-to-crypto-scams-in-2025-fbi-internet-crime-report.html</loc>
     <lastmod>2026-04-07T12:51:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260407-bitcoin-quantum-threat-is-real-and-closer-than-it-looks-says-nobel-prize-winning.html</loc>
-    <lastmod>2026-04-07T12:44:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260407-how-north-koreas-6-month-long-secret-espionage-program-has-crypto-community-reth.html</loc>
-    <lastmod>2026-04-07T12:30:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -487,20 +493,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260405-just-in-bitcoin-rises-above-69000-xcom.html</loc>
-    <lastmod>2026-04-05T23:36:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260405-solana-ecosystem-roundup-march-2026.html</loc>
     <lastmod>2026-04-05T19:03:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260405-this-message-was-embedded-in-bitcoins-666666th-block-xcom.html</loc>
-    <lastmod>2026-04-05T11:00:03.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260405-timeframes-matter-since-aug-2020-bitcoin-is-the-top-performing-major-asset-and-i.html</loc>
+    <lastmod>2026-04-05T13:32:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
