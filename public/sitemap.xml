@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-08T21:57:33.930Z</lastmod>
+    <lastmod>2026-04-08T22:58:43.520Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-08T21:57:33.930Z</lastmod>
+    <lastmod>2026-04-08T22:58:43.520Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260408-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-04-08T21:34:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260408-bitcoin-depot-atm-operator-says-36-million-in-btc-stolen-in-corporate-hack.html</loc>
@@ -211,12 +217,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260408-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-04-08T14:45:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260408-bitcoin-fades-three-week-highs-as-btc-price-shrugs-off-iran-war-ceasefire.html</loc>
     <lastmod>2026-04-08T14:44:17.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -319,6 +319,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260408-breaking-iran-announces-that-their-cryptocurrency-of-choice-is-bitcoin-xcom.html</loc>
+    <lastmod>2026-04-08T13:20:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260408-breaking-iran-is-accepting-bitcoin-for-transit-toll-payments-financial-times-xco.html</loc>
     <lastmod>2026-04-08T13:14:57.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -351,12 +357,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260408-bitcoins-quantum-threat-is-distant-but-migration-clock-is-ticking-says-adam-back.html</loc>
     <lastmod>2026-04-08T13:08:46.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260408-just-in-iran-reportedly-charging-1-per-barrel-of-oil-passing-through-the-strait-.html</loc>
-    <lastmod>2026-04-08T13:07:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -469,14 +469,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260408-new-bitcoin-long-term-holders-have-expanded-their-holdings-to-437-million-btc-as.html</loc>
-    <lastmod>2026-04-08T04:40:02.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260407-breaking-bitcoin-surges-above-71000-as-president-trump-announces-a-2-week-ceasef.html</loc>
+    <lastmod>2026-04-07T22:47:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260407-breaking-bitcoin-surges-above-71000-as-president-trump-announces-a-2-week-ceasef.html</loc>
-    <lastmod>2026-04-07T22:47:11.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260407-just-in-bitcoin-reclaims-71000-after-president-trump-agrees-to-ceasefire-with-ir.html</loc>
+    <lastmod>2026-04-07T22:45:46.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
