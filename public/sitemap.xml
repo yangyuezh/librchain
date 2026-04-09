@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-08T23:51:14.785Z</lastmod>
+    <lastmod>2026-04-09T03:25:56.969Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-08T23:51:14.785Z</lastmod>
+    <lastmod>2026-04-09T03:25:56.969Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260409-counterhacker-exposes-dprk-unit-that-made-1m-a-month-working-it-jobs.html</loc>
+    <lastmod>2026-04-09T02:52:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260409-bitcoin-tops-72k-after-280m-liquidation-targets-bears-will-the-fragile-truce-hol.html</loc>
+    <lastmod>2026-04-09T00:16:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260408-heres-what-happened-in-crypto-today.html</loc>
@@ -337,12 +349,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260408-just-in-morgan-stanley-announces-launch-of-its-own-spot-bitcoin-etf-xcom.html</loc>
-    <lastmod>2026-04-08T13:13:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260408-big-boy-launch-morgan-stanley-bitcoin-etf-mbst-hits-the-market-today-arguably-bi.html</loc>
     <lastmod>2026-04-08T13:09:12.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -421,32 +427,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260408-thailand-proposes-tighter-scrutiny-of-funders-behind-crypto-firms.html</loc>
-    <lastmod>2026-04-08T11:26:28.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260408-ceasefire-lifts-bitcoin-but-animal-spirits-may-not-return-just-yet.html</loc>
     <lastmod>2026-04-08T11:15:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260408-nyt-revives-adam-back-theory-in-latest-bid-to-identify-bitcoin-creator.html</loc>
-    <lastmod>2026-04-08T11:03:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260408-bitcoins-founder-satoshi-nakamoto-has-remained-hidden-for-17-years-a-trail-of-cl.html</loc>
     <lastmod>2026-04-08T10:25:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260408-breaking-new-york-times-article-published-today-concludes-that-adam-back-a-55-ye.html</loc>
-    <lastmod>2026-04-08T09:12:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -465,6 +453,18 @@
   <url>
     <loc>https://www.librchain.com/news/20260408-the-mystery-of-satoshi-nakamoto-the-pseudonymous-inventor-of-bitcoin-has-remaine.html</loc>
     <lastmod>2026-04-08T04:40:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260408-new-bitcoin-long-term-holders-have-expanded-their-holdings-to-437-million-btc-as.html</loc>
+    <lastmod>2026-04-08T04:40:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260408-adam-back-just-absolutely-destroyed-bitcoin-quantum-fud-live-on-bloomberg-quantu.html</loc>
+    <lastmod>2026-04-08T01:31:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
