@@ -1,7 +1,103 @@
 {
-  "updatedAt": "2026-04-09T03:25:56.802Z",
+  "updatedAt": "2026-04-09T05:55:53.102Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "XRP slips 4% as selling pressure builds despite ETF inflows",
+      "summary": "Elevated volume and modest institutional buying fail to support price, with sellers continuing to dominate near resistance.",
+      "url": "https://www.coindesk.com/markets/2026/04/09/xrp-slips-4-as-selling-pressure-builds-despite-etf-inflows",
+      "publishedAt": "2026-04-09T05:40:10.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260409-xrp-slips-4-as-selling-pressure-builds-despite-etf-inflows",
+      "localUrl": "/news/20260409-xrp-slips-4-as-selling-pressure-builds-despite-etf-inflows.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's next big move hinges on oil, and right now it's a total coin flip",
+      "summary": "Analysts say a sustained 15%–16% decline in crude could revive Fed rate cut bets, sending BTC higher.",
+      "url": "https://www.coindesk.com/markets/2026/04/09/bitcoin-s-next-big-move-hinges-on-oil-and-right-now-it-s-a-total-coin-flip",
+      "publishedAt": "2026-04-09T05:22:58.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260409-bitcoins-next-big-move-hinges-on-oil-and-right-now-its-a-total-coin-flip",
+      "localUrl": "/news/20260409-bitcoins-next-big-move-hinges-on-oil-and-right-now-its-a-total-coin-flip.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Chainalysis claims stablecoin volumes could hit over a quadrillion by 2035",
+      "summary": "Adjusted stablecoin volume could reach $719 trillion by 2035, but the projection could be far higher if two macro catalysts come to pass, said Chainalysis.",
+      "url": "https://cointelegraph.com/news/stablecoin-volumes-1-5-quadrillion-2035-how?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-09T04:57:42.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260409-chainalysis-claims-stablecoin-volumes-could-hit-over-a-quadrillion-by-2035",
+      "localUrl": "/news/20260409-chainalysis-claims-stablecoin-volumes-could-hit-over-a-quadrillion-by-2035.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Fed minutes open door to further rate cuts amid Iran war",
+      "summary": "Some officials cautiously eyed a year-end rate cut, but others warned that upward adjustments might be needed if inflation remains above target levels.",
+      "url": "https://cointelegraph.com/news/many-officials-still-see-rate-cuts-coming-in-2026-despite-war-risks-fed-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-09T04:51:46.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260409-fed-minutes-open-door-to-further-rate-cuts-amid-iran-war",
+      "localUrl": "/news/20260409-fed-minutes-open-door-to-further-rate-cuts-amid-iran-war.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Visa unveils commerce platform enabling autonomous AI shopping",
+      "summary": "Visa is rolling out a platform that helps merchants make their product inventories discoverable and purchasable by AI agents.",
+      "url": "https://cointelegraph.com/news/visa-launches-ai-commerce-platform-to-power-autonomous-agent-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-09T04:18:27.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260409-visa-unveils-commerce-platform-enabling-autonomous-ai-shopping",
+      "localUrl": "/news/20260409-visa-unveils-commerce-platform-enabling-autonomous-ai-shopping.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin under $71,000, ETH, SOL, XRP drop as Iran ceasefire frays within 48 hours of being signed",
+      "summary": "Tehran says three clauses of the ceasefire have been breached, oil is rebounding toward $97, and the Strait of Hormuz remains effectively closed despite the deal.",
+      "url": "https://www.coindesk.com/markets/2026/04/09/bitcoin-under-usd71-000-eth-sol-xrp-drop-as-iran-ceasefire-frays-within-48-hours-of-being-signed",
+      "publishedAt": "2026-04-09T04:13:40.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260409-bitcoin-under-71000-eth-sol-xrp-drop-as-iran-ceasefire-frays-within-48-hours-of-",
+      "localUrl": "/news/20260409-bitcoin-under-71000-eth-sol-xrp-drop-as-iran-ceasefire-frays-within-48-hours-of-.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin gets its first working prototype of quantum-resistant wallet rescue tool",
+      "summary": "Lightning Labs CTO Olaoluwa Osuntokun demos a prototype that could prevent millions of wallets from being frozen under a future quantum-defense upgrade",
+      "url": "https://www.coindesk.com/tech/2026/04/09/bitcoin-gets-first-working-prototype-of-quantum-resistant-wallet-rescue-tool",
+      "publishedAt": "2026-04-09T03:40:44.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260409-bitcoin-gets-its-first-working-prototype-of-quantum-resistant-wallet-rescue-tool",
+      "localUrl": "/news/20260409-bitcoin-gets-its-first-working-prototype-of-quantum-resistant-wallet-rescue-tool.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Counterhacker exposes DPRK unit that made $1M a month working IT jobs",
@@ -522,6 +618,17 @@
       "localUrl": "/news/20260408-rwa-network-pharos-lands-a-1-billion-valuation-in-44m-funding-round-ahead-of-mai.html"
     },
     {
+      "source": "X Wire",
+      "title": "Crypto markets are recovering:: Crypto funds recorded +$224 million in inflows last week, posting the 4th weekly intake over the last 5. This was led by XRP, at +$120 million, the largest weekly inflow since December 2025, bringing year-to-date inflows to +$15 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SMmxPYXViUlBnbGpKQ2laTGhvV3NaUXJrQTVROVhXcDh3UGJfcHYtbzlYeDhUUVJzNE9vMVo3c0J4cUF4c2hIdnYtTDhwdFRFWDZqOEVmcFIwRWlmeThZMkRvbXJLQQ?oc=5\" target=\"_blank\">Crypto markets are recoverin…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SMmxPYXViUlBnbGpKQ2laTGhvV3NaUXJrQTVROVhXcDh3UGJfcHYtbzlYeDhUUVJzNE9vMVo3c0J4cUF4c2hIdnYtTDhwdFRFWDZqOEVmcFIwRWlmeThZMkRvbXJLQQ?oc=5",
+      "publishedAt": "2026-04-08T14:33:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260408-crypto-markets-are-recovering-crypto-funds-recorded-224-million-in-inflows-last-",
+      "localUrl": "/news/20260408-crypto-markets-are-recovering-crypto-funds-recorded-224-million-in-inflows-last-.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Iran Wants Bitcoin Payments From Oil Ships Seeking Hormuz Passage: FT",
       "summary": "Iranian officials said Bitcoin payments would ensure the tolls “can’t be traced or confiscated due to sanctions.”",
@@ -603,17 +710,6 @@
       "category": "X热点",
       "slug": "20260408-just-in-morgan-stanleys-spot-bitcoin-etf-is-officially-trading-on-the-nyse-xcom",
       "localUrl": "/news/20260408-just-in-morgan-stanleys-spot-bitcoin-etf-is-officially-trading-on-the-nyse-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: YouTube deletes Bitcoin .com’s YouTube channel, claiming it was “harmful and dangerous” - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wZEJGQndvcmVaQUVnbDJiR3c4aGJGdlFHVnpFaXBLWWhwekVTZDJjZFJfVHhHdU41T1p6RTc2eUZNb29EOWZsYjQ3Ni02SWpadHc4aHA3TDRMbWI0UEhtbQ?oc=5\" target=\"_blank\">JUST IN: YouTube deletes Bitcoin .co…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wZEJGQndvcmVaQUVnbDJiR3c4aGJGdlFHVnpFaXBLWWhwekVTZDJjZFJfVHhHdU41T1p6RTc2eUZNb29EOWZsYjQ3Ni02SWpadHc4aHA3TDRMbWI0UEhtbQ?oc=5",
-      "publishedAt": "2026-04-08T14:03:32.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260408-just-in-youtube-deletes-bitcoin-coms-youtube-channel-claiming-it-was-harmful-and",
-      "localUrl": "/news/20260408-just-in-youtube-deletes-bitcoin-coms-youtube-channel-claiming-it-was-harmful-and.html"
     },
     {
       "source": "X Wire",
@@ -792,21 +888,6 @@
       "localUrl": "/news/20260408-big-boy-launch-morgan-stanley-bitcoin-etf-mbst-hits-the-market-today-arguably-bi.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s quantum threat is distant, but migration clock is ticking, says Adam Back",
-      "summary": "Researchers are advancing post-quantum protections even as current hardware remains far from breaking crypto systems",
-      "url": "https://www.coindesk.com/tech/2026/04/08/bitcoin-s-quantum-threat-is-distant-but-migration-clock-is-ticking-says-adam-back-says",
-      "publishedAt": "2026-04-08T13:08:46.000Z",
-      "keywords": [
-        "Tech",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260408-bitcoins-quantum-threat-is-distant-but-migration-clock-is-ticking-says-adam-back",
-      "localUrl": "/news/20260408-bitcoins-quantum-threat-is-distant-but-migration-clock-is-ticking-says-adam-back.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Iran reportedly charging $1 per barrel of oil passing through the Strait of Hormuz, to be paid in crypto. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZSkRiR1BuSl8zQTE1MWNFeDNKUE5xTlFxQjEyQmxVQThiOTFyQ1plTmsxQV8tVWgxRF8yVjFpZTZkblhfTmxpZUpKeGJyS1dxVDBNOWJUbldWRmV5THFvNw?oc=5\" target=\"_blank\">JUST IN: Iran reportedly charging $1…",
@@ -831,34 +912,6 @@
       "localUrl": "/news/20260408-white-house-council-of-economic-advisers-stablecoin-yield-doesnt-threaten-small-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Morgan Stanley's bitcoin ETF opens today, giving BlackRock’s $55 billion IBIT fund its toughest rival yet",
-      "summary": "While BlackRock’s spot bitcoin ETF currently reigns as the liquidity king of crypto, Morgan Stanley’s MSBT will leverage a market-low 0.14% fee and $7 trillion wealth management engine to possibly challenge that dominance.",
-      "url": "https://www.coindesk.com/markets/2026/04/08/morgan-stanley-s-bitcoin-etf-opens-today-giving-blackrock-s-usd55-billion-ibit-fund-its-toughest-rival-yet",
-      "publishedAt": "2026-04-08T12:45:00.000Z",
-      "keywords": [
-        "Markets",
-        "BlackRock",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260408-morgan-stanleys-bitcoin-etf-opens-today-giving-blackrocks-55-billion-ibit-fund-i",
-      "localUrl": "/news/20260408-morgan-stanleys-bitcoin-etf-opens-today-giving-blackrocks-55-billion-ibit-fund-i.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "South Korea tightens crypto withdrawal-delay exemptions after scam losses",
-      "summary": "The Financial Services Commission said inconsistent exemption rules created loopholes that allowed funds to move quickly with minimal account history.",
-      "url": "https://cointelegraph.com/news/south-korea-tightens-crypto-withdrawal-delay-exemptions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-08T12:37:42.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260408-south-korea-tightens-crypto-withdrawal-delay-exemptions-after-scam-losses",
-      "localUrl": "/news/20260408-south-korea-tightens-crypto-withdrawal-delay-exemptions-after-scam-losses.html"
-    },
-    {
       "source": "X Wire",
       "title": "Prior to Bitcoin’s development, Back was probably closest (among the cypherpunks) to assembling the ingredients to make it work. That is well known, and would explain why he became such an enthusiastic proponent once it got on his radar. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLU1NuT3NBMmJYZjVfNUVCQ3VZMjFVcWJIclFRY1RQcXY5d2gtZmNjX3JHRDBaTnlyck5uR1BNSy1NTWRmQm1QQjhkNzJwSHE3RlhpOV9NNHNhM25UcUFtNXlR?oc=5\" target=\"_blank\">Prior to Bitcoin’s development, Ba…",
@@ -868,30 +921,6 @@
       "category": "X热点",
       "slug": "20260408-prior-to-bitcoins-development-back-was-probably-closest-among-the-cypherpunks-to",
       "localUrl": "/news/20260408-prior-to-bitcoins-development-back-was-probably-closest-among-the-cypherpunks-to.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Stablecoin yields won’t harm banks, White House economists say",
-      "summary": "White House economists say banning stablecoin yield would add little to bank lending while imposing significant costs on users.",
-      "url": "https://cointelegraph.com/news/white-house-stablecoin-yield-ban-little-impact-bank-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-08T12:29:20.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "DeFi",
-      "slug": "20260408-stablecoin-yields-wont-harm-banks-white-house-economists-say",
-      "localUrl": "/news/20260408-stablecoin-yields-wont-harm-banks-white-house-economists-say.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 White House releases study saying that banning stablecoin yield \"would do very little to protect bank lending\" and that concerns around bank deposit flight are exaggerated. Bullish for the Bitcoin & crypto market structure bill! 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aLUNrTEdjWTlwOUdhTDhqWFVQeHJkYTdiakYxU2RTMnh5blFUei1HczdFQjg0b0NJamcyeENVa1dWSlhEM0s3T2pUbDNLUDhMMWlPODJjTkM0ejByYVZhNTFtcE9QWFU?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 White House r…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aLUNrTEdjWTlwOUdhTDhqWFVQeHJkYTdiakYxU2RTMnh5blFUei1HczdFQjg0b0NJamcyeENVa1dWSlhEM0s3T2pUbDNLUDhMMWlPODJjTkM0ejByYVZhNTFtcE9QWFU?oc=5",
-      "publishedAt": "2026-04-08T12:24:34.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260408-just-in-white-house-releases-study-saying-that-banning-stablecoin-yield-would-do",
-      "localUrl": "/news/20260408-just-in-white-house-releases-study-saying-that-banning-stablecoin-yield-would-do.html"
     },
     {
       "source": "Decrypt",
@@ -925,50 +954,6 @@
       "localUrl": "/news/20260408-the-100-trillion-wealth-shift-stablecoin-utility-and-the-future-of-payments.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin buyers gobbled up nearly 850,000 BTC between $60,000 and $70,000",
-      "summary": "A ton of BTC was recently traded below $70,000 in a sign of strong dip demand.",
-      "url": "https://www.coindesk.com/markets/2026/04/08/bitcoin-buyers-gobbled-up-nearly-850-000-btc-between-usd60-000-and-usd70-000",
-      "publishedAt": "2026-04-08T11:36:11.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Glassnode",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260408-bitcoin-buyers-gobbled-up-nearly-850000-btc-between-60000-and-70000",
-      "localUrl": "/news/20260408-bitcoin-buyers-gobbled-up-nearly-850000-btc-between-60000-and-70000.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "South Korea draft bill puts stablecoins, RWAs under finance laws: Report",
-      "summary": "The draft proposal from South Korea’s ruling party reportedly bars stablecoin interest and calls for technical standards to ensure interoperability across blockchain networks.",
-      "url": "https://cointelegraph.com/news/south-korea-stablecoin-fx-law-rwa-trust-draft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-08T11:34:40.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260408-south-korea-draft-bill-puts-stablecoins-rwas-under-finance-laws-report",
-      "localUrl": "/news/20260408-south-korea-draft-bill-puts-stablecoins-rwas-under-finance-laws-report.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ceasefire lifts bitcoin, but animal spirits may not return just yet",
-      "summary": "Bitcoin clears a key technical hurdle and eyes $76,000 as a temporary ceasefire with Iran and Morgan Stanley’s landmark ETF debut restore market confidence.",
-      "url": "https://www.coindesk.com/markets/2026/04/08/ceasefire-lifts-bitcoin-but-animal-spirits-may-not-return-just-yet",
-      "publishedAt": "2026-04-08T11:15:00.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260408-ceasefire-lifts-bitcoin-but-animal-spirits-may-not-return-just-yet",
-      "localUrl": "/news/20260408-ceasefire-lifts-bitcoin-but-animal-spirits-may-not-return-just-yet.html"
-    },
-    {
       "source": "X Wire",
       "title": "Bitcoin’s founder, Satoshi Nakamoto, has remained hidden for 17 years. A trail of clues — and a year of digging by our reporter, John Carreyrou — led us to a 55-year-old computer scientist in El Salvador named Adam Back. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFByVU4tVkJ0VmwzeG96Nm51Z3RYWkdWSkFvWGhnb29leU1jS1VtRnVLc21LSElRVEdXUF94LThGWnozd005N0J0WWhnTUFFR0tORFNIelZhV3lMVldS?oc=5\" target=\"_blank\">Bitcoin’s founder, Satoshi Nakamoto, has r…",
@@ -978,6 +963,28 @@
       "category": "X热点",
       "slug": "20260408-bitcoins-founder-satoshi-nakamoto-has-remained-hidden-for-17-years-a-trail-of-cl",
       "localUrl": "/news/20260408-bitcoins-founder-satoshi-nakamoto-has-remained-hidden-for-17-years-a-trail-of-cl.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "not enough bitcoin! sadly. ofc kicking myself for not mining in anger in 2009. hindsight is always 20:20 in trading, so i'm relaxed about that \"could-have should-have\" as a trader. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE15M09uUjVjdTdUWXZ6ckI5V1NPZUM4NkNJaFpyZVR6NFRDdGVaT2VtYWxCS3RiYjY3WkJZZnYzUkpxXzI0Ym8yY0wyck9NSkFKb3JpOE1VdGtFazNL?oc=5\" target=\"_blank\">not enough bitcoin! sadly. ofc kicking mys…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15M09uUjVjdTdUWXZ6ckI5V1NPZUM4NkNJaFpyZVR6NFRDdGVaT2VtYWxCS3RiYjY3WkJZZnYzUkpxXzI0Ym8yY0wyck9NSkFKb3JpOE1VdGtFazNL?oc=5",
+      "publishedAt": "2026-04-08T09:58:42.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260408-not-enough-bitcoin-sadly-ofc-kicking-myself-for-not-mining-in-anger-in-2009-hind",
+      "localUrl": "/news/20260408-not-enough-bitcoin-sadly-ofc-kicking-myself-for-not-mining-in-anger-in-2009-hind.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 LATEST: The New York Times points to Adam Back as Bitcoin creator Satoshi Nakamoto. Do you agree? - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSZjI3WHg5LUg5NHJGSHZxUEFyMFdNYTN3MDBKQWoxUk91TXpZSXVCdGFxeVFuSDBBa2tyVS1yNzRfVlpWY2VtOWsyQ01zdkE1T09lR1Q4Yk5CblU4RDQ5TGNiOXY?oc=5\" target=\"_blank\">🚨 LATEST: The New York Times p…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSZjI3WHg5LUg5NHJGSHZxUEFyMFdNYTN3MDBKQWoxUk91TXpZSXVCdGFxeVFuSDBBa2tyVS1yNzRfVlpWY2VtOWsyQ01zdkE1T09lR1Q4Yk5CblU4RDQ5TGNiOXY?oc=5",
+      "publishedAt": "2026-04-08T08:30:08.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260408-latest-the-new-york-times-points-to-adam-back-as-bitcoin-creator-satoshi-nakamot",
+      "localUrl": "/news/20260408-latest-the-new-york-times-points-to-adam-back-as-bitcoin-creator-satoshi-nakamot.html"
     },
     {
       "source": "X Wire",
@@ -1022,17 +1029,6 @@
       "category": "X热点",
       "slug": "20260408-new-bitcoin-long-term-holders-have-expanded-their-holdings-to-437-million-btc-as",
       "localUrl": "/news/20260408-new-bitcoin-long-term-holders-have-expanded-their-holdings-to-437-million-btc-as.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "ADAM BACK JUST ABSOLUTELY DESTROYED #BITCOIN QUANTUM FUD LIVE ON BLOOMBERG QUANTUM COMPUTERS ARE \"EXTREMELY BASIC\" WE STILL HAVE \"A DECADE\" TO PREPARE DON'T BELIEVE THE FUD. HODL 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sTFdNdXRNS25IVGhtUV85RENMcGxiVHVPMlhfSVo5dzBNRk1qT1ktZk1vTERCTm9Zd1Y1RkpZbUtPX3Fpc1lmTjRfNGd1Zmx1RldJcEpMZkstMW5VMGZtWWhn?oc=5\" target=\"_blank\">ADAM BACK JUST ABSOLUTELY DESTROYE…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sTFdNdXRNS25IVGhtUV85RENMcGxiVHVPMlhfSVo5dzBNRk1qT1ktZk1vTERCTm9Zd1Y1RkpZbUtPX3Fpc1lmTjRfNGd1Zmx1RldJcEpMZkstMW5VMGZtWWhn?oc=5",
-      "publishedAt": "2026-04-08T01:31:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260408-adam-back-just-absolutely-destroyed-bitcoin-quantum-fud-live-on-bloomberg-quantu",
-      "localUrl": "/news/20260408-adam-back-just-absolutely-destroyed-bitcoin-quantum-fud-live-on-bloomberg-quantu.html"
     },
     {
       "source": "X Wire",
