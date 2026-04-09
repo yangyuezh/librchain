@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-09T21:02:52.022Z</lastmod>
+    <lastmod>2026-04-09T21:55:55.847Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-09T21:02:52.022Z</lastmod>
+    <lastmod>2026-04-09T21:55:55.847Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260409-pepe-may-follow-dogecoin-to-wall-streetbut-etf-investors-arent-buying-meme-hype.html</loc>
+    <lastmod>2026-04-09T21:19:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260409-bitcoin-tops-72000-but-circle-and-bullish-drop-sharply-after-downgrades.html</loc>
+    <lastmod>2026-04-09T21:10:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260409-these-3-crypto-stocks-could-actually-beat-bitcoin-etfs-says-td-cowen.html</loc>
@@ -385,12 +397,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-bitcoin-stalls-below-key-resistance-as-analysts-clash-over-next-move.html</loc>
-    <lastmod>2026-04-09T10:31:26.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260409-bitmex-co-founder-ben-delo-reveals-54m-donation-to-farages-reform-uk.html</loc>
     <lastmod>2026-04-09T10:26:40.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -421,12 +427,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260408-bitcoin-depot-atm-operator-says-36-million-in-btc-stolen-in-corporate-hack.html</loc>
-    <lastmod>2026-04-08T21:14:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260408-elon-musk-said-the-us-government-deleted-a-terabyte-of-financial-data-to-cover-t.html</loc>
     <lastmod>2026-04-08T20:03:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -435,6 +435,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260408-introducing-the-morgan-stanley-bitcoin-trust-msbt-designed-with-transparent-repo.html</loc>
     <lastmod>2026-04-08T16:00:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260408-crypto-markets-are-recovering-crypto-funds-recorded-224-million-in-inflows-last-.html</loc>
+    <lastmod>2026-04-08T14:33:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,20 +457,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260408-iran-is-charging-2m-per-ship-to-cross-the-strait-of-hormuz-and-they-want-it-in-b.html</loc>
-    <lastmod>2026-04-08T13:54:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260408-iran-to-collect-bitcoin-as-payment-for-hormuz-passage-ft-xcom.html</loc>
     <lastmod>2026-04-08T13:23:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260408-breaking-iran-announces-that-their-cryptocurrency-of-choice-is-bitcoin-xcom.html</loc>
-    <lastmod>2026-04-08T13:20:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -507,6 +501,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260408-the-mystery-of-satoshi-nakamoto-the-pseudonymous-inventor-of-bitcoin-has-remaine.html</loc>
     <lastmod>2026-04-08T04:40:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260407-cz_binance-built-the-worlds-largest-crypto-exchange-from-zero-then-lost-his-free.html</loc>
+    <lastmod>2026-04-07T15:12:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
