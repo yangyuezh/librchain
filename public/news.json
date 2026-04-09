@@ -1,7 +1,237 @@
 {
-  "updatedAt": "2026-04-09T14:09:15.077Z",
+  "updatedAt": "2026-04-09T16:41:24.157Z",
   "total": 85,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Treasury Secretary Bessent Slams Crypto Industry 'Nihilists' as Clarity Act Remains in Limbo",
+      "summary": "Several obstacles to the Clarity Act, which have remained unsolved for months, stand in the way of its passage before a looming deadline.",
+      "url": "https://decrypt.co/363821/treasury-secretary-bessent-slams-crypto-industry-nihilists-as-clarity-act-remains-in-limbo",
+      "publishedAt": "2026-04-09T16:18:37.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260409-treasury-secretary-bessent-slams-crypto-industry-nihilists-as-clarity-act-remain",
+      "localUrl": "/news/20260409-treasury-secretary-bessent-slams-crypto-industry-nihilists-as-clarity-act-remain.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin shoots above $72,000 as optimism grows over Middle East ceasefire",
+      "summary": "Israeli Prime Minister Netanyahu reportedly has signaled a willingness to negotiate with Lebanon.",
+      "url": "https://www.coindesk.com/markets/2026/04/09/bitcoin-shoots-above-usd72-000-as-optimism-grows-over-middle-east-ceasefire",
+      "publishedAt": "2026-04-09T16:06:29.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Top Stories",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260409-bitcoin-shoots-above-72000-as-optimism-grows-over-middle-east-ceasefire",
+      "localUrl": "/news/20260409-bitcoin-shoots-above-72000-as-optimism-grows-over-middle-east-ceasefire.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tom Lee's BitMine Uplisted to NYSE as Ethereum Firm Expands Buyback Program to $4 Billion",
+      "summary": "Ethereum treasury giant BitMine Immersion Technologies upped its share buyback program to $4 billion and was uplisted to the NYSE on Thursday.",
+      "url": "https://decrypt.co/363823/tom-lee-bitmine-uplisted-nyse-ethereum-firm-expands-buybacks-4-billion",
+      "publishedAt": "2026-04-09T15:58:26.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "基础设施",
+      "slug": "20260409-tom-lees-bitmine-uplisted-to-nyse-as-ethereum-firm-expands-buyback-program-to-4-",
+      "localUrl": "/news/20260409-tom-lees-bitmine-uplisted-to-nyse-as-ethereum-firm-expands-buyback-program-to-4-.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Pauses UK AI Tech Team-Up With Nvidia Over Energy Costs, Regulation",
+      "summary": "OpenAI's planned Stargate project with Nvidia and Nscale aimed to deploy thousands of GPUs to support AI workloads in Britain.",
+      "url": "https://decrypt.co/363818/openai-pauses-uk-ai-tech-nvidia-energy-costs-regulation",
+      "publishedAt": "2026-04-09T15:39:32.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260409-openai-pauses-uk-ai-tech-team-up-with-nvidia-over-energy-costs-regulation",
+      "localUrl": "/news/20260409-openai-pauses-uk-ai-tech-team-up-with-nvidia-over-energy-costs-regulation.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Stablecoin Giant Tether Launches Toolkit for Building Local, Offline AI Apps",
+      "summary": "Tether’s new toolkit lets developers build AI applications that run entirely on-device, marking an expanded push into decentralized AI.",
+      "url": "https://decrypt.co/363809/stablecoin-giant-tether-launches-toolkit-for-building-local-offline-ai-apps",
+      "publishedAt": "2026-04-09T15:09:32.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "市场",
+      "slug": "20260409-stablecoin-giant-tether-launches-toolkit-for-building-local-offline-ai-apps",
+      "localUrl": "/news/20260409-stablecoin-giant-tether-launches-toolkit-for-building-local-offline-ai-apps.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bithumb Files to Seize Bitcoin From Holdouts After $43B Blunder",
+      "summary": "The South Korean exchange is pursuing formal legal remedies to recover 7 BTC after voluntary return requests failed.",
+      "url": "https://decrypt.co/363804/bithumb-files-to-seize-bitcoin-from-holdouts-after-43b-blunder",
+      "publishedAt": "2026-04-09T15:02:22.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "市场",
+      "slug": "20260409-bithumb-files-to-seize-bitcoin-from-holdouts-after-43b-blunder",
+      "localUrl": "/news/20260409-bithumb-files-to-seize-bitcoin-from-holdouts-after-43b-blunder.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Crypto’s Performance Q1",
+      "summary": "Q1 digital asset review: geopolitical conflict and Fed caution led to declines, but institutional flows and regulatory clarity returned in March, building a durable foundation for Q2",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/04/08/crypto-for-advisors-crypto-s-performance-q1",
+      "publishedAt": "2026-04-09T15:00:00.000Z",
+      "keywords": [
+        "CoinDesk Indices",
+        "CoinDesk Indices",
+        "Financial Advisors",
+        "Crypto for Advisors",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260409-crypto-for-advisors-cryptos-performance-q1",
+      "localUrl": "/news/20260409-crypto-for-advisors-cryptos-performance-q1.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nunchuk Launches Open-Source Bitcoin Tools for AI Agents With 'Bounded Authority'",
+      "summary": "Nunchuk releases open-source tools that allow AI agents to interact with Bitcoin wallets while keeping humans in control over spending.",
+      "url": "https://decrypt.co/363737/nunchuk-open-source-bitcoin-tools-ai-agents-bounded-authority",
+      "publishedAt": "2026-04-09T14:57:29.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "市场",
+      "slug": "20260409-nunchuk-launches-open-source-bitcoin-tools-for-ai-agents-with-bounded-authority",
+      "localUrl": "/news/20260409-nunchuk-launches-open-source-bitcoin-tools-for-ai-agents-with-bounded-authority.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stablecoin volumes to reach $719T by 2035 as generational wealth shift speeds up crypto adoption",
+      "summary": "Massive transfer of wealth to younger, crypto-native users and rising payment volumes challenge dominance of Visa and Mastercard",
+      "url": "https://www.coindesk.com/business/2026/04/09/stablecoin-volumes-to-reach-usd719t-by-2035-as-generational-wealth-shift-speeds-up-crypto-adoption",
+      "publishedAt": "2026-04-09T14:57:10.000Z",
+      "keywords": [
+        "Finance",
+        "Stablecoins",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260409-stablecoin-volumes-to-reach-719t-by-2035-as-generational-wealth-shift-speeds-up-",
+      "localUrl": "/news/20260409-stablecoin-volumes-to-reach-719t-by-2035-as-generational-wealth-shift-speeds-up-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Project Crypto is designed so once Congress acts, @SECGov & @CFTC are ready to implement the CLARITY Act. @SecScottBessent is right. It's time for Congress to future-proof against rogue regulators & advance comprehensive market structure legislation - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aLVNzQk9xcWJlSjRtZUQtRGJMcjl1Mlg1T21peldWQWx0cWo3RVE3UHJySTRDT2dfRUdQQnpVMmRWMjRFbmFDZE84bWRYaUVvb3U1SWQ5YmlZZEZtbXVKM2NmUTBuUQ?oc=5\" target=\"_blank\">Project Crypto is designed s…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aLVNzQk9xcWJlSjRtZUQtRGJMcjl1Mlg1T21peldWQWx0cWo3RVE3UHJySTRDT2dfRUdQQnpVMmRWMjRFbmFDZE84bWRYaUVvb3U1SWQ5YmlZZEZtbXVKM2NmUTBuUQ?oc=5",
+      "publishedAt": "2026-04-09T14:53:59.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260409-project-crypto-is-designed-so-once-congress-acts-secgov-cftc-are-ready-to-implem",
+      "localUrl": "/news/20260409-project-crypto-is-designed-so-once-congress-acts-secgov-cftc-are-ready-to-implem.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tom Lee's Bitmine uplists to NYSE, expands buyback authorization to $4 billion",
+      "summary": "The company holds nearly 4% of ether's (ETH) total supply, but shares have struggled alongside that crypto.",
+      "url": "https://www.coindesk.com/markets/2026/04/09/tom-lee-s-bitmine-lists-on-nyse-expands-usd4-billion-buyback-as-eth-bet-deepens",
+      "publishedAt": "2026-04-09T14:50:48.000Z",
+      "keywords": [
+        "Markets",
+        "Ethereum News",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260409-tom-lees-bitmine-uplists-to-nyse-expands-buyback-authorization-to-4-billion",
+      "localUrl": "/news/20260409-tom-lees-bitmine-uplists-to-nyse-expands-buyback-authorization-to-4-billion.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "UK-led Operation Atlantic freezes $12M in crypto scam proceeds",
+      "summary": "Operation Atlantic, a joint US, UK and Canadian operation, froze more than $12 million tied to crypto approval phishing and identified over 20,000 victims.",
+      "url": "https://cointelegraph.com/news/operation-atlantic-crypto-approval-phishing-freezes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-09T14:49:52.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260409-uk-led-operation-atlantic-freezes-12m-in-crypto-scam-proceeds",
+      "localUrl": "/news/20260409-uk-led-operation-atlantic-freezes-12m-in-crypto-scam-proceeds.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🐋 WHALE ALERT: Whale opens 20x leveraged shorts on Bitcoin and Ethereum worth $80M, per Lookonchain. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oQnU4bThzQThKTm5IWGY1ZG1sYTRpVGl3NVVORXBLWXd3ZHRxQTBZcmVGcnVPNjhDN0RzSGFscl9IVEMwaTVVVGdyYWRhV291TmVUWTlsaWZyN3huRlpyOGN2cWE?oc=5\" target=\"_blank\">🐋 WHALE ALERT: Whale opens 20x…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oQnU4bThzQThKTm5IWGY1ZG1sYTRpVGl3NVVORXBLWXd3ZHRxQTBZcmVGcnVPNjhDN0RzSGFscl9IVEMwaTVVVGdyYWRhV291TmVUWTlsaWZyN3huRlpyOGN2cWE?oc=5",
+      "publishedAt": "2026-04-09T14:40:45.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260409-whale-alert-whale-opens-20x-leveraged-shorts-on-bitcoin-and-ethereum-worth-80m-p",
+      "localUrl": "/news/20260409-whale-alert-whale-opens-20x-leveraged-shorts-on-bitcoin-and-ethereum-worth-80m-p.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump's World Liberty Financial borrowed millions from a protocol its own advisor co-founded",
+      "summary": "Onchain data shows WLFI deposited 5 billion of its own tokens as collateral to borrow stablecoins it then sent to Coinbase Prime, pushing a lending pool to 100% utilization and leaving depositors unable to withdraw.",
+      "url": "https://www.coindesk.com/markets/2026/04/09/trump-s-world-liberty-financial-borrows-usd75-million-against-its-own-token-trapping-depositors-on-dolomite",
+      "publishedAt": "2026-04-09T14:40:36.000Z",
+      "keywords": [
+        "Markets",
+        "Donald Trump",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260409-trumps-world-liberty-financial-borrowed-millions-from-a-protocol-its-own-advisor",
+      "localUrl": "/news/20260409-trumps-world-liberty-financial-borrowed-millions-from-a-protocol-its-own-advisor.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BitMEX co-founder donates $5 million to Nigel Farage’s Reform UK party",
+      "summary": "Delo did not specify whether he made the donation in fiat currency or crypto, but he expressed support for a proposed U.K. government moratorium on political donations made in cryptoassets",
+      "url": "https://www.coindesk.com/business/2026/04/09/bitmex-co-founder-donates-usd5-million-to-nigel-farage-s-reform-uk-party",
+      "publishedAt": "2026-04-09T14:33:08.000Z",
+      "keywords": [
+        "Finance",
+        "UK",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260409-bitmex-co-founder-donates-5-million-to-nigel-farages-reform-uk-party",
+      "localUrl": "/news/20260409-bitmex-co-founder-donates-5-million-to-nigel-farages-reform-uk-party.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-09T14:11:08.000Z",
+      "keywords": [
+        "Trump memecoin",
+        "Solana memecoin",
+        "TRUMP token",
+        "Solana",
+        "SOL",
+        "Nova Labs",
+        "SEC",
+        "Securities and Exchange Commission",
+        "Crypto regulation",
+        "TRUMP rally",
+        "Bitcoin",
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260409-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260409-heres-what-happened-in-crypto-today.html"
+    },
     {
       "source": "Chainalysis Blog",
       "title": "Operation Atlantic: How Public-Private Collaboration Is Freezing Millions in Crypto Scam Proceeds",
@@ -21,6 +251,19 @@
       "category": "监管",
       "slug": "20260409-operation-atlantic-how-public-private-collaboration-is-freezing-millions-in-cryp",
       "localUrl": "/news/20260409-operation-atlantic-how-public-private-collaboration-is-freezing-millions-in-cryp.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price surfs US PCE inflation as trader keeps $80K BTC price target",
+      "summary": "Bitcoin avoids major volatility after the first of the week's two key US inflation reports, while a trader sees a \"new upwards leg\" coming for BTC price action.",
+      "url": "https://cointelegraph.com/news/bitcoin-price-surfs-us-pce-inflation-data-shifts-wartime-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-09T13:57:14.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260409-bitcoin-price-surfs-us-pce-inflation-as-trader-keeps-80k-btc-price-target",
+      "localUrl": "/news/20260409-bitcoin-price-surfs-us-pce-inflation-as-trader-keeps-80k-btc-price-target.html"
     },
     {
       "source": "CoinDesk",
@@ -123,6 +366,17 @@
       "category": "监管",
       "slug": "20260409-meet-the-anti-trump-crypto-developer-running-for-congress-in-virginia",
       "localUrl": "/news/20260409-meet-the-anti-trump-crypto-developer-running-for-congress-in-virginia.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Treasury Secretary Scott Bessent demands lawmakers to send the Bitcoin and crypto market structure legislation to President Trump to sign into law. \"Senate time is precious, and now is the time to act.\" - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ONGtkUnZzOWMzMzk4QzhxaHJERDAyN25ELVVRdWFZNlhpMkVpR25HUnVaQ3lpVjVHWXdtRUR4VWRMSThUSjdBQTZtODRDaW1PYnQxeXpXdlpHSGprSGJYcTdYd1Q5ZlE?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Treasury Secr…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ONGtkUnZzOWMzMzk4QzhxaHJERDAyN25ELVVRdWFZNlhpMkVpR25HUnVaQ3lpVjVHWXdtRUR4VWRMSThUSjdBQTZtODRDaW1PYnQxeXpXdlpHSGprSGJYcTdYd1Q5ZlE?oc=5",
+      "publishedAt": "2026-04-09T12:45:52.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260409-just-in-treasury-secretary-scott-bessent-demands-lawmakers-to-send-the-bitcoin-a",
+      "localUrl": "/news/20260409-just-in-treasury-secretary-scott-bessent-demands-lawmakers-to-send-the-bitcoin-a.html"
     },
     {
       "source": "CoinDesk",
@@ -528,20 +782,6 @@
       "localUrl": "/news/20260409-coinbase-has-been-named-as-a-custodian-for-the-morganstanley-bitcoin-trust-insti.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "CFTC presses case that sports betting is finance, seeks to block Arizona enforcement",
-      "summary": "Federal lawsuit argues event contracts are swaps under U.S. law, not state-level gaming law, deepening a split with states that view the products as illegal gambling",
-      "url": "https://www.coindesk.com/policy/2026/04/09/cftc-presses-case-that-sports-betting-is-finance-seeks-to-block-arizona-enforcement",
-      "publishedAt": "2026-04-09T06:29:54.000Z",
-      "keywords": [
-        "Policy",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260409-cftc-presses-case-that-sports-betting-is-finance-seeks-to-block-arizona-enforcem",
-      "localUrl": "/news/20260409-cftc-presses-case-that-sports-betting-is-finance-seeks-to-block-arizona-enforcem.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Yuga Labs settles lawsuit against artists accused of copying its NFTs",
       "summary": "Yuga Labs first filed a lawsuit in June 2022, accusing Ripps and Cahen of copying its Bored Ape Yacht Club cartoon ape images and selling lookalike NFTs.",
@@ -594,102 +834,6 @@
       "localUrl": "/news/20260409-9999-of-polymarket-traders-shouldnt-quit-their-day-jobs-data-suggests.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "XRP slips 4% as selling pressure builds despite ETF inflows",
-      "summary": "Elevated volume and modest institutional buying fail to support price, with sellers continuing to dominate near resistance.",
-      "url": "https://www.coindesk.com/markets/2026/04/09/xrp-slips-4-as-selling-pressure-builds-despite-etf-inflows",
-      "publishedAt": "2026-04-09T05:40:10.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260409-xrp-slips-4-as-selling-pressure-builds-despite-etf-inflows",
-      "localUrl": "/news/20260409-xrp-slips-4-as-selling-pressure-builds-despite-etf-inflows.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin's next big move hinges on oil, and right now it's a total coin flip",
-      "summary": "Analysts say a sustained 15%–16% decline in crude could revive Fed rate cut bets, sending BTC higher.",
-      "url": "https://www.coindesk.com/markets/2026/04/09/bitcoin-s-next-big-move-hinges-on-oil-and-right-now-it-s-a-total-coin-flip",
-      "publishedAt": "2026-04-09T05:22:58.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260409-bitcoins-next-big-move-hinges-on-oil-and-right-now-its-a-total-coin-flip",
-      "localUrl": "/news/20260409-bitcoins-next-big-move-hinges-on-oil-and-right-now-its-a-total-coin-flip.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Chainalysis claims stablecoin volumes could reach $1.5 quadrillion by 2035",
-      "summary": "Two macro catalysts — wealth transfer and payment disruption — could push stablecoin usage far beyond baseline growth forecasts, analysts say.",
-      "url": "https://cointelegraph.com/news/stablecoin-volumes-1-5-quadrillion-2035-how?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-09T04:57:42.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260409-chainalysis-claims-stablecoin-volumes-could-reach-15-quadrillion-by-2035",
-      "localUrl": "/news/20260409-chainalysis-claims-stablecoin-volumes-could-reach-15-quadrillion-by-2035.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Fed minutes crack door to further rate cuts amid Iran war",
-      "summary": "Some officials cautiously eyed a year-end rate cut, but others warned that upward adjustments might be needed if inflation remains above target levels.",
-      "url": "https://cointelegraph.com/news/many-officials-still-see-rate-cuts-coming-in-2026-despite-war-risks-fed-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-09T04:51:46.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260409-fed-minutes-crack-door-to-further-rate-cuts-amid-iran-war",
-      "localUrl": "/news/20260409-fed-minutes-crack-door-to-further-rate-cuts-amid-iran-war.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Visa unveils commerce platform enabling autonomous AI shopping",
-      "summary": "Visa is rolling out a platform that helps merchants make their product inventories discoverable and purchasable by AI agents.",
-      "url": "https://cointelegraph.com/news/visa-launches-ai-commerce-platform-to-power-autonomous-agent-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-09T04:18:27.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260409-visa-unveils-commerce-platform-enabling-autonomous-ai-shopping",
-      "localUrl": "/news/20260409-visa-unveils-commerce-platform-enabling-autonomous-ai-shopping.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin under $71,000, ETH, SOL, XRP drop as Iran ceasefire frays within 48 hours of being signed",
-      "summary": "Tehran says three clauses of the ceasefire have been breached, oil is rebounding toward $97, and the Strait of Hormuz remains effectively closed despite the deal.",
-      "url": "https://www.coindesk.com/markets/2026/04/09/bitcoin-under-usd71-000-eth-sol-xrp-drop-as-iran-ceasefire-frays-within-48-hours-of-being-signed",
-      "publishedAt": "2026-04-09T04:13:40.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260409-bitcoin-under-71000-eth-sol-xrp-drop-as-iran-ceasefire-frays-within-48-hours-of-",
-      "localUrl": "/news/20260409-bitcoin-under-71000-eth-sol-xrp-drop-as-iran-ceasefire-frays-within-48-hours-of-.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin gets its first working prototype of quantum-resistant wallet rescue tool",
-      "summary": "Lightning Labs CTO Olaoluwa Osuntokun demos a prototype that could prevent millions of wallets from being frozen under a future quantum-defense upgrade",
-      "url": "https://www.coindesk.com/tech/2026/04/09/bitcoin-gets-first-working-prototype-of-quantum-resistant-wallet-rescue-tool",
-      "publishedAt": "2026-04-09T03:40:44.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260409-bitcoin-gets-its-first-working-prototype-of-quantum-resistant-wallet-rescue-tool",
-      "localUrl": "/news/20260409-bitcoin-gets-its-first-working-prototype-of-quantum-resistant-wallet-rescue-tool.html"
-    },
-    {
       "source": "X Wire",
       "title": "Hi. Professional C/C++ programmer here. The open-source code I can find written by Adam Back and Satoshi Nakamoto don't look remotely similar. Back's code looks typical of academic Unix programmers who also hack their code to run on Windows. Satoshi - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lLUk1eHFTSDRwT2hzYVlZaXJVaWtacEJNLVlQOVhqc2dBUE9XTF9ndmJyWXpZWjZ1aFBHekFwUkh4d1RLaWZtVFg0a3VKTXkzNFQxMnM0REJGZkNNWGxiNzJpTQ?oc=5\" target=\"_blank\">Hi. Professional C/C++ programme…",
@@ -725,21 +869,6 @@
       "category": "综合",
       "slug": "20260408-researchers-propose-new-way-to-manage-financial-risk-when-ai-agents-fumble-trade",
       "localUrl": "/news/20260408-researchers-propose-new-way-to-manage-financial-risk-when-ai-agents-fumble-trade.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Morgan Stanley’s bitcoin ETF draws $34 million on day one",
-      "summary": "Morgan Stanley’s low-fee bitcoin ETF debuted with strong early trading, signaling demand as competition shifts to cost and distribution.",
-      "url": "https://www.coindesk.com/markets/2026/04/08/morgan-stanley-s-bitcoin-etf-draws-usd34-million-on-day-one",
-      "publishedAt": "2026-04-08T20:51:31.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260408-morgan-stanleys-bitcoin-etf-draws-34-million-on-day-one",
-      "localUrl": "/news/20260408-morgan-stanleys-bitcoin-etf-draws-34-million-on-day-one.html"
     },
     {
       "source": "Decrypt",
@@ -844,106 +973,6 @@
       "localUrl": "/news/20260408-openai-publishes-child-safety-blueprint-to-address-ai-enabled-exploitation.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Hyperliquid Traders Face Widespread Liquidations as Oil Prices Collapse",
-      "summary": "Brent crude oil prices were on track for their biggest daily decline since the start of the COVID-19 pandemic in early 2020.",
-      "url": "https://decrypt.co/363660/hyperliquid-traders-face-widespread-liquidations-oil-prices-collapse",
-      "publishedAt": "2026-04-08T18:01:17.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260408-hyperliquid-traders-face-widespread-liquidations-as-oil-prices-collapse",
-      "localUrl": "/news/20260408-hyperliquid-traders-face-widespread-liquidations-as-oil-prices-collapse.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Cloudflare Targets 2029 for Quantum-Safe Internet as Threat to Bitcoin Looms",
-      "summary": "New research and industry timelines are accelerating efforts to replace cryptography that quantum computers could eventually break.",
-      "url": "https://decrypt.co/363654/cloudflare-targets-2029-quantum-safe-internet-threat-bitcoin-looms",
-      "publishedAt": "2026-04-08T17:44:54.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "市场",
-      "slug": "20260408-cloudflare-targets-2029-for-quantum-safe-internet-as-threat-to-bitcoin-looms",
-      "localUrl": "/news/20260408-cloudflare-targets-2029-for-quantum-safe-internet-as-threat-to-bitcoin-looms.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 BREAKING: Claude can now analyze and grow your Bitcoin portfolio like Jack Dorsey's $100M team (for free). Here are 5 insane Claude prompts that replace your crypto advisor, security consultant, and portfolio tracker. (Save for later.) - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FMlRORDdJTkFyMVpxQkZabVBpN2ZoZjUwdnMyQU9IUjBadlA0MERVbUlQNTFjMWNNVDhOeHhzYVBMcVpQLWFpQjlCb3ZreGNlb0hJUGc2d0FLTlRyV3dsTGxR?oc=5\" target=\"_blank\">🚨 BREAKING: Claude can now analyz…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FMlRORDdJTkFyMVpxQkZabVBpN2ZoZjUwdnMyQU9IUjBadlA0MERVbUlQNTFjMWNNVDhOeHhzYVBMcVpQLWFpQjlCb3ZreGNlb0hJUGc2d0FLTlRyV3dsTGxR?oc=5",
-      "publishedAt": "2026-04-08T17:22:51.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260408-breaking-claude-can-now-analyze-and-grow-your-bitcoin-portfolio-like-jack-dorsey",
-      "localUrl": "/news/20260408-breaking-claude-can-now-analyze-and-grow-your-bitcoin-portfolio-like-jack-dorsey.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Potential Insiders Made $600K Predicting US and Iran Ceasefire on Polymarket: Bubblemaps",
-      "summary": "A trio of accounts on Polymarket made more than $600,000 on U.S./Iran ceasefire markets, drawing attention as potential insiders.",
-      "url": "https://decrypt.co/363656/potential-insiders-600k-predicting-us-iran-ceasefire-polymarket-bubblemaps",
-      "publishedAt": "2026-04-08T17:17:31.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260408-potential-insiders-made-600k-predicting-us-and-iran-ceasefire-on-polymarket-bubb",
-      "localUrl": "/news/20260408-potential-insiders-made-600k-predicting-us-and-iran-ceasefire-on-polymarket-bubb.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "If you are in crypto, get all of the devices in your org on EDR. This is literally the one weird trick North Korea doesn't want you to do. It's table stakes security, but vast majority of teams still don't do this. Yeah you can do all sorts of fancy clean room offline transact - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2X1d4d1ZBVHdrTVZ6ajZaekJoTnJraHI0dkxsQmlGYkhPc3NTRl9lWGNQTWJHVVpTUGk2UkZRVjMzTkpFN01kdXQ0NnA5VTdMb2FXdmFJUVpmN0VZ?oc=5\" target=\"_blank\">If you are in crypto, get all of the devic…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2X1d4d1ZBVHdrTVZ6ajZaekJoTnJraHI0dkxsQmlGYkhPc3NTRl9lWGNQTWJHVVpTUGk2UkZRVjMzTkpFN01kdXQ0NnA5VTdMb2FXdmFJUVpmN0VZ?oc=5",
-      "publishedAt": "2026-04-08T16:17:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260408-if-you-are-in-crypto-get-all-of-the-devices-in-your-org-on-edr-this-is-literally",
-      "localUrl": "/news/20260408-if-you-are-in-crypto-get-all-of-the-devices-in-your-org-on-edr-this-is-literally.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Partner of Trump-Backed World Liberty Linked to Sanctioned Cambodian Scam Company: Report",
-      "summary": "AB network’s planned “blockchain theme resort” involved individuals sanctioned by the U.S. Treasury over ties to the Prince Group.",
-      "url": "https://decrypt.co/363617/partner-trump-backed-world-liberty-sanctioned-cambodian-scam-company",
-      "publishedAt": "2026-04-08T16:10:22.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "RWA",
-      "slug": "20260408-partner-of-trump-backed-world-liberty-linked-to-sanctioned-cambodian-scam-compan",
-      "localUrl": "/news/20260408-partner-of-trump-backed-world-liberty-linked-to-sanctioned-cambodian-scam-compan.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Adam Back Denies He's Satoshi Nakamoto After NYT Names Him as Bitcoin Creator",
-      "summary": "John Carreyrou isn’t the first person to link Adam Back and Satoshi Nakamoto based on their writing styles.",
-      "url": "https://decrypt.co/363649/adam-back-denies-bitcoin-creator-satoshi-nakamoto-nyt-expose",
-      "publishedAt": "2026-04-08T16:00:34.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "市场",
-      "slug": "20260408-adam-back-denies-hes-satoshi-nakamoto-after-nyt-names-him-as-bitcoin-creator",
-      "localUrl": "/news/20260408-adam-back-denies-hes-satoshi-nakamoto-after-nyt-names-him-as-bitcoin-creator.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Moo Deng Meme Coin Rises After Man Fined for Entering Viral Pygmy Hippo's Den",
-      "summary": "The Solana meme coin based on the viral pygmy hippo Moo Deng gained after a man was fined for entering the animal's enclosure.",
-      "url": "https://decrypt.co/363645/moo-deng-meme-coin-rises-man-fined-entering-pygmy-hippo-den",
-      "publishedAt": "2026-04-08T15:01:24.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "基础设施",
-      "slug": "20260408-moo-deng-meme-coin-rises-after-man-fined-for-entering-viral-pygmy-hippos-den",
-      "localUrl": "/news/20260408-moo-deng-meme-coin-rises-after-man-fined-for-entering-viral-pygmy-hippos-den.html"
-    },
-    {
       "source": "X Wire",
       "title": "Crypto markets are recovering:: Crypto funds recorded +$224 million in inflows last week, posting the 4th weekly intake over the last 5. This was led by XRP, at +$120 million, the largest weekly inflow since December 2025, bringing year-to-date inflows to +$15 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SMmxPYXViUlBnbGpKQ2laTGhvV3NaUXJrQTVROVhXcDh3UGJfcHYtbzlYeDhUUVJzNE9vMVo3c0J4cUF4c2hIdnYtTDhwdFRFWDZqOEVmcFIwRWlmeThZMkRvbXJLQQ?oc=5\" target=\"_blank\">Crypto markets are recoverin…",
@@ -989,6 +1018,17 @@
     },
     {
       "source": "X Wire",
+      "title": "🇮🇷 Iran is charging $2M per ship to cross the Strait of Hormuz and they want it in Bitcoin. 😳 At $72,000 per $BTC, each ship = 27.7 BTC. Pre-crisis, 130 ships crossed daily. • Daily: 3,611 BTC • Monthly: 108,333 BTC • Yearly: 1.3 million BTC The entire Bitcoin n - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LSVNqMnlxaFhjbDM1NklKNWtLSFJIRnZMQVYtV1RMMldqZEEyT05SODNhUzJ0WEZvb200aUJ1eFE5dDU2RGN2X1B6R3JFdG5kaUpmN0ItZFRueWx0bHJiWmVHNHl2OG8?oc=5\" target=\"_blank\">🇮🇷 Iran is charging $2M p…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LSVNqMnlxaFhjbDM1NklKNWtLSFJIRnZMQVYtV1RMMldqZEEyT05SODNhUzJ0WEZvb200aUJ1eFE5dDU2RGN2X1B6R3JFdG5kaUpmN0ItZFRueWx0bHJiWmVHNHl2OG8?oc=5",
+      "publishedAt": "2026-04-08T13:54:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260408-iran-is-charging-2m-per-ship-to-cross-the-strait-of-hormuz-and-they-want-it-in-b",
+      "localUrl": "/news/20260408-iran-is-charging-2m-per-ship-to-cross-the-strait-of-hormuz-and-they-want-it-in-b.html"
+    },
+    {
+      "source": "X Wire",
       "title": "🚨Iran to collect Bitcoin as payment for Hormuz passage: FT - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBURTRQblFZS1FMNmg1bWY1ZnE1RTN3RmtYMENKQ0Jwd19zN1pEazlCS0NKNUFkRkNxZW5xVU15RFg5bVFKcTc5cWFvNU9tUFgzQ00tdWl2eUllSkZGRkYzZEZiUV8?oc=5\" target=\"_blank\">🚨Iran to collect Bitcoin as pa…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBURTRQblFZS1FMNmg1bWY1ZnE1RTN3RmtYMENKQ0Jwd19zN1pEazlCS0NKNUFkRkNxZW5xVU15RFg5bVFKcTc5cWFvNU9tUFgzQ00tdWl2eUllSkZGRkYzZEZiUV8?oc=5",
@@ -1019,28 +1059,6 @@
       "category": "X热点",
       "slug": "20260408-breaking-iran-is-accepting-bitcoin-for-transit-toll-payments-financial-times-xco",
       "localUrl": "/news/20260408-breaking-iran-is-accepting-bitcoin-for-transit-toll-payments-financial-times-xco.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BIG BOY LAUNCH: Morgan Stanley Bitcoin ETF $MBST hits the market today, arguably biggest btc launch since they began. Here are our predictions: $5b in aum in first year and $30m in Day One volume. What do you think? Winner gets a QT and a feeling of - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kSFJLWm5KVEhKbmJDbXllbTgtVEh5NEtUcnlEZTktMk1VY3NLNUZpaE1wU3A1SkdWYUU3RGwwQ0ZiSHZGWnpoZDdvcHNHWjlsUXM5am9qX2dOeC1FcktndEM3VEE?oc=5\" target=\"_blank\">BIG BOY LAUNCH: Morgan Stanley …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kSFJLWm5KVEhKbmJDbXllbTgtVEh5NEtUcnlEZTktMk1VY3NLNUZpaE1wU3A1SkdWYUU3RGwwQ0ZiSHZGWnpoZDdvcHNHWjlsUXM5am9qX2dOeC1FcktndEM3VEE?oc=5",
-      "publishedAt": "2026-04-08T13:09:12.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260408-big-boy-launch-morgan-stanley-bitcoin-etf-mbst-hits-the-market-today-arguably-bi",
-      "localUrl": "/news/20260408-big-boy-launch-morgan-stanley-bitcoin-etf-mbst-hits-the-market-today-arguably-bi.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Prior to Bitcoin’s development, Back was probably closest (among the cypherpunks) to assembling the ingredients to make it work. That is well known, and would explain why he became such an enthusiastic proponent once it got on his radar. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLU1NuT3NBMmJYZjVfNUVCQ3VZMjFVcWJIclFRY1RQcXY5d2gtZmNjX3JHRDBaTnlyck5uR1BNSy1NTWRmQm1QQjhkNzJwSHE3RlhpOV9NNHNhM25UcUFtNXlR?oc=5\" target=\"_blank\">Prior to Bitcoin’s development, Ba…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLU1NuT3NBMmJYZjVfNUVCQ3VZMjFVcWJIclFRY1RQcXY5d2gtZmNjX3JHRDBaTnlyck5uR1BNSy1NTWRmQm1QQjhkNzJwSHE3RlhpOV9NNHNhM25UcUFtNXlR?oc=5",
-      "publishedAt": "2026-04-08T12:34:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260408-prior-to-bitcoins-development-back-was-probably-closest-among-the-cypherpunks-to",
-      "localUrl": "/news/20260408-prior-to-bitcoins-development-back-was-probably-closest-among-the-cypherpunks-to.html"
     },
     {
       "source": "X Wire",
