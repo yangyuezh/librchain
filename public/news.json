@@ -1,7 +1,89 @@
 {
-  "updatedAt": "2026-04-10T03:37:46.347Z",
+  "updatedAt": "2026-04-10T06:05:30.963Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "XRP edges higher to $1.35 on breakout, but bullish momentum still lacks",
+      "summary": "Strong volume pushed price above $1.34, though weak fundamentals and overhead resistance continue to cap follow-through.",
+      "url": "https://www.coindesk.com/markets/2026/04/10/xrp-edges-higher-to-usd1-35-on-breakout-but-bullish-momentum-still-lacks",
+      "publishedAt": "2026-04-10T05:01:38.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260410-xrp-edges-higher-to-135-on-breakout-but-bullish-momentum-still-lacks",
+      "localUrl": "/news/20260410-xrp-edges-higher-to-135-on-breakout-but-bullish-momentum-still-lacks.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "ETH, SOL, DOGE slide as Bitcoin fails to break $73,000 for the third time since the ceasefire",
+      "summary": "The level that has capped every rally during the six-week war remains intact, with analysts saying $75,000 needs to break before the market enters a genuine bullish phase.",
+      "url": "https://www.coindesk.com/markets/2026/04/10/eth-sol-doge-slide-as-bitcoin-fails-to-break-usd73-000-for-the-third-time-since-the-ceasefire",
+      "publishedAt": "2026-04-10T04:55:41.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260410-eth-sol-doge-slide-as-bitcoin-fails-to-break-73000-for-the-third-time-since-the-",
+      "localUrl": "/news/20260410-eth-sol-doge-slide-as-bitcoin-fails-to-break-73000-for-the-third-time-since-the-.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Elon Musk’s xAI sues Colorado arguing its AI rules restrict speech",
+      "summary": "The AI company argued that such rules would force it to feed its AI chatbot Grok with data aligned with Colorado’s political views rather than striving to be “maximally truth seeking.”",
+      "url": "https://cointelegraph.com/news/xai-sues-colorado-over-ai-law-restricting-free-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-10T04:50:28.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260410-elon-musks-xai-sues-colorado-arguing-its-ai-rules-restrict-speech",
+      "localUrl": "/news/20260410-elon-musks-xai-sues-colorado-arguing-its-ai-rules-restrict-speech.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "x402 protocol adds usage-based pricing for AI compute requests",
+      "summary": "The upgrade from flat fees to variable pricing is designed to support the use of AI agents for LLM inference, compute and data queries.",
+      "url": "https://cointelegraph.com/news/coinbase-x402-rolls-out-usage-based-pricing-agentic-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-10T04:41:19.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260410-x402-protocol-adds-usage-based-pricing-for-ai-compute-requests",
+      "localUrl": "/news/20260410-x402-protocol-adds-usage-based-pricing-for-ai-compute-requests.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Quantum-safe bitcoin now possible without a soft fork, but costs $200 a pop, new research shows",
+      "summary": "A new scheme from a StarkWare researcher works under existing consensus rules, offering an emergency fallback while BIP-360 awaits activation.",
+      "url": "https://www.coindesk.com/markets/2026/04/10/quantum-safe-bitcoin-now-possible-without-a-soft-fork-but-costs-usd200-a-pop",
+      "publishedAt": "2026-04-10T03:54:27.000Z",
+      "keywords": [
+        "Markets",
+        "quantum computing",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260410-quantum-safe-bitcoin-now-possible-without-a-soft-fork-but-costs-200-a-pop-new-re",
+      "localUrl": "/news/20260410-quantum-safe-bitcoin-now-possible-without-a-soft-fork-but-costs-200-a-pop-new-re.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin can be made quantum-safe without a protocol upgrade: Researcher",
+      "summary": "However, it could cost users between $75 and $150 per transaction in GPU computing power, limiting its practical use.",
+      "url": "https://cointelegraph.com/news/researchers-say-bitcoin-can-be-made-quantum-safe-without-protocol-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-10T03:44:27.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260410-bitcoin-can-be-made-quantum-safe-without-a-protocol-upgrade-researcher",
+      "localUrl": "/news/20260410-bitcoin-can-be-made-quantum-safe-without-a-protocol-upgrade-researcher.html"
+    },
     {
       "source": "CoinDesk",
       "title": "OKX and HashKey invest in new Vietnam exchange ahead of crypto licensing push",
@@ -375,6 +457,17 @@
       "localUrl": "/news/20260409-kalshi-now-controls-89-of-the-us-prediction-market-as-regulated-trading-takes-ov.html"
     },
     {
+      "source": "X Wire",
+      "title": "🔥 LATEST: TON blockchain is now 10× faster with a 6× higher block rate and subsecond transactions, the first step in its MTONGA roadmap, Pavel Durov said - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LZDlMamExeGN4a0t4LVVzZ1hqNUpkRmhnX0YyQWFENEd1VE1OYWFUS1NTZmhiLWkya0tMOFdoNk5yQUFhU19UU2pzYkN2eUMxOU9wSllQM0dkeEtpUmlPS2JncVI?oc=5\" target=\"_blank\">🔥 LATEST: TON blockchain is no…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LZDlMamExeGN4a0t4LVVzZ1hqNUpkRmhnX0YyQWFENEd1VE1OYWFUS1NTZmhiLWkya0tMOFdoNk5yQUFhU19UU2pzYkN2eUMxOU9wSllQM0dkeEtpUmlPS2JncVI?oc=5",
+      "publishedAt": "2026-04-09T18:00:51.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260409-latest-ton-blockchain-is-now-10-faster-with-a-6-higher-block-rate-and-subsecond-",
+      "localUrl": "/news/20260409-latest-ton-blockchain-is-now-10-faster-with-a-6-higher-block-rate-and-subsecond-.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Meta, CoreWeave Shares Rise After Expanding $21 Billion AI Cloud Deal",
       "summary": "Both Meta and CoreWeave logged stock gains Thursday after expanding their existing AI deal, now valued at $21 billion.",
@@ -680,19 +773,6 @@
       "localUrl": "/news/20260409-tom-lees-bitmine-uplists-to-nyse-expands-buyback-authorization-to-4-billion.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "UK-led Operation Atlantic freezes $12M in crypto scam proceeds",
-      "summary": "Operation Atlantic, a joint US, UK and Canadian operation, froze more than $12 million tied to crypto approval phishing and identified over 20,000 victims.",
-      "url": "https://cointelegraph.com/news/operation-atlantic-crypto-approval-phishing-freezes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-09T14:49:52.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "安全",
-      "slug": "20260409-uk-led-operation-atlantic-freezes-12m-in-crypto-scam-proceeds",
-      "localUrl": "/news/20260409-uk-led-operation-atlantic-freezes-12m-in-crypto-scam-proceeds.html"
-    },
-    {
       "source": "X Wire",
       "title": "🐋 WHALE ALERT: Whale opens 20x leveraged shorts on Bitcoin and Ethereum worth $80M, per Lookonchain. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oQnU4bThzQThKTm5IWGY1ZG1sYTRpVGl3NVVORXBLWXd3ZHRxQTBZcmVGcnVPNjhDN0RzSGFscl9IVEMwaTVVVGdyYWRhV291TmVUWTlsaWZyN3huRlpyOGN2cWE?oc=5\" target=\"_blank\">🐋 WHALE ALERT: Whale opens 20x…",
@@ -705,7 +785,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Trump's World Liberty Financial borrowed millions from a protocol its own advisor co-founded",
+      "title": "Trump's World Liberty Financial uses 5 billion WLFI to borrow $75 million from a platform its advisor co-founded",
       "summary": "Onchain data shows WLFI deposited 5 billion of its own tokens as collateral to borrow stablecoins it then sent to Coinbase Prime, pushing a lending pool to 100% utilization and leaving depositors unable to withdraw.",
       "url": "https://www.coindesk.com/markets/2026/04/09/trump-s-world-liberty-financial-borrows-usd75-million-against-its-own-token-trapping-depositors-on-dolomite",
       "publishedAt": "2026-04-09T14:40:36.000Z",
@@ -714,9 +794,9 @@
         "Donald Trump",
         "News"
       ],
-      "category": "基础设施",
-      "slug": "20260409-trumps-world-liberty-financial-borrowed-millions-from-a-protocol-its-own-advisor",
-      "localUrl": "/news/20260409-trumps-world-liberty-financial-borrowed-millions-from-a-protocol-its-own-advisor.html"
+      "category": "DeFi",
+      "slug": "20260409-trumps-world-liberty-financial-uses-5-billion-wlfi-to-borrow-75-million-from-a-p",
+      "localUrl": "/news/20260409-trumps-world-liberty-financial-uses-5-billion-wlfi-to-borrow-75-million-from-a-p.html"
     },
     {
       "source": "CoinDesk",
@@ -765,19 +845,6 @@
       "localUrl": "/news/20260409-operation-atlantic-how-public-private-collaboration-is-freezing-millions-in-cryp.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price surfs US PCE inflation as trader keeps $80K BTC price target",
-      "summary": "Bitcoin avoids major volatility after the first of the week's two key US inflation reports, while a trader sees a \"new upwards leg\" coming for BTC price action.",
-      "url": "https://cointelegraph.com/news/bitcoin-price-surfs-us-pce-inflation-data-shifts-wartime-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-09T13:57:14.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260409-bitcoin-price-surfs-us-pce-inflation-as-trader-keeps-80k-btc-price-target",
-      "localUrl": "/news/20260409-bitcoin-price-surfs-us-pce-inflation-as-trader-keeps-80k-btc-price-target.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Mike Novogratz spotlights Helios as $15 billion powerhouse in Galaxy Digital annual report",
       "summary": "The company's Nasdaq debut was a turning point toward infrastructure-led growth in the digital economy, said Novogratz.",
@@ -807,19 +874,6 @@
       "category": "市场",
       "slug": "20260409-binance-adds-prediction-market-to-its-app-for-millions-of-users",
       "localUrl": "/news/20260409-binance-adds-prediction-market-to-its-app-for-millions-of-users.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid",
-      "summary": "Hyperliquid data showed a 145 million Fartcoin position unwound across wallets, with the platform redistributing about $849,000 in gains to opposing traders.",
-      "url": "https://cointelegraph.com/news/trader-loses-3m-fartcoin-hyperliquid-adl-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-09T13:36:45.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260409-trader-loses-3m-as-leveraged-fartcoin-position-unwinds-on-hyperliquid",
-      "localUrl": "/news/20260409-trader-loses-3m-as-leveraged-fartcoin-position-unwinds-on-hyperliquid.html"
     },
     {
       "source": "X Wire",
@@ -865,37 +919,6 @@
       "localUrl": "/news/20260409-meet-the-anti-trump-crypto-developer-running-for-congress-in-virginia.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Banks are treading carefully on stablecoins despite market growth, S&P Global says",
-      "summary": "Most U.S. lenders remain in a wait-and-see mode as deposit risks, regulatory shifts and new competition complicate strategy, according to the report.",
-      "url": "https://www.coindesk.com/business/2026/04/09/banks-are-treading-carefully-on-stablecoins-despite-market-growth-s-and-p-global-says",
-      "publishedAt": "2026-04-09T12:35:23.000Z",
-      "keywords": [
-        "Finance",
-        "Stablecoins",
-        "banks",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260409-banks-are-treading-carefully-on-stablecoins-despite-market-growth-sp-global-says",
-      "localUrl": "/news/20260409-banks-are-treading-carefully-on-stablecoins-despite-market-growth-sp-global-says.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The $21 billion AI bet: Meta and CoreWeave ink deal for NVIDIA’s next-gen superchips",
-      "summary": "Long-term agreement between Meta and CoreWeave signals growing demand for scalable AI compute and inference capacity.",
-      "url": "https://www.coindesk.com/markets/2026/04/09/meta-expands-ai-infrastructure-bet-with-usd21-billion-coreweave-deal",
-      "publishedAt": "2026-04-09T12:19:55.000Z",
-      "keywords": [
-        "Markets",
-        "Artificial Intelligence",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260409-the-21-billion-ai-bet-meta-and-coreweave-ink-deal-for-nvidias-next-gen-superchip",
-      "localUrl": "/news/20260409-the-21-billion-ai-bet-meta-and-coreweave-ink-deal-for-nvidias-next-gen-superchip.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: 🇺🇸 Treasury Secretary Bessent says crypto is a \"technology the world is adopting.\" - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jRHhJRVFFaWtaZkRKWm1OMm5yZDVMeTNPYUZNQTdwNW91eGJOUU1sZWNlQm16bmtaWUpEeW1zblM3czZaNWY5N1NsbUtSel9jQWE3OTRDYUNmbGlUa0ItSTJR?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Treasury Secretary B…",
@@ -925,22 +948,6 @@
       "category": "监管",
       "slug": "20260409-the-drift-protocol-hack-how-privileged-access-led-to-a-285-million-loss",
       "localUrl": "/news/20260409-the-drift-protocol-hack-how-privileged-access-led-to-a-285-million-loss.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tokenized perpetual swaps hit $31 billion weekly volume on commodities volatility",
-      "summary": "Commodities led the growth, with oil trading reaching $6.9 billion in weekly volume after geopolitical tensions, while stock perpetual swaps grew 908% to roughly $4.9 billion.",
-      "url": "https://www.coindesk.com/markets/2026/04/09/tokenized-perpetual-swaps-hit-usd31-billion-weekly-volume-on-commodities-volatility",
-      "publishedAt": "2026-04-09T12:00:00.000Z",
-      "keywords": [
-        "Markets",
-        "Tokenization",
-        "Derivatives",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260409-tokenized-perpetual-swaps-hit-31-billion-weekly-volume-on-commodities-volatility",
-      "localUrl": "/news/20260409-tokenized-perpetual-swaps-hit-31-billion-weekly-volume-on-commodities-volatility.html"
     },
     {
       "source": "Decrypt",
@@ -1001,17 +1008,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Crypto markets are recovering:: Crypto funds recorded +$224 million in inflows last week, posting the 4th weekly intake over the last 5. This was led by XRP, at +$120 million, the largest weekly inflow since December 2025, bringing year-to-date inflows to +$15 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SMmxPYXViUlBnbGpKQ2laTGhvV3NaUXJrQTVROVhXcDh3UGJfcHYtbzlYeDhUUVJzNE9vMVo3c0J4cUF4c2hIdnYtTDhwdFRFWDZqOEVmcFIwRWlmeThZMkRvbXJLQQ?oc=5\" target=\"_blank\">Crypto markets are recoverin…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SMmxPYXViUlBnbGpKQ2laTGhvV3NaUXJrQTVROVhXcDh3UGJfcHYtbzlYeDhUUVJzNE9vMVo3c0J4cUF4c2hIdnYtTDhwdFRFWDZqOEVmcFIwRWlmeThZMkRvbXJLQQ?oc=5",
-      "publishedAt": "2026-04-08T14:33:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260408-crypto-markets-are-recovering-crypto-funds-recorded-224-million-in-inflows-last-",
-      "localUrl": "/news/20260408-crypto-markets-are-recovering-crypto-funds-recorded-224-million-in-inflows-last-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "JUST IN: Morgan Stanley's spot Bitcoin ETF is officially trading on the NYSE 🇺🇸 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzcy1udjk5Q2kzUW5XQkFKYTNmcmNrdGMwT0ZpVTRMNDZRYWQyYnJfc1Fkb0l4RWgwa2l3c0xRMXFHRE9DWF9rY2V4RGwybHFpNXlOa2NUVXVJNjB5Unp3RkI1ZV9JWEU?oc=5\" target=\"_blank\">JUST IN: Morgan Stanley's s…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzcy1udjk5Q2kzUW5XQkFKYTNmcmNrdGMwT0ZpVTRMNDZRYWQyYnJfc1Fkb0l4RWgwa2l3c0xRMXFHRE9DWF9rY2V4RGwybHFpNXlOa2NUVXVJNjB5Unp3RkI1ZV9JWEU?oc=5",
@@ -1031,17 +1027,6 @@
       "category": "X热点",
       "slug": "20260408-1-today-the-ethereum-foundation-will-convert-5000-eth-to-stablecoins-via-cowswap",
       "localUrl": "/news/20260408-1-today-the-ethereum-foundation-will-convert-5000-eth-to-stablecoins-via-cowswap.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: Iran announces that their cryptocurrency of choice is Bitcoin. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE11VGpCR3cwd2pYek5vUkFsWGlrbF8tZE9TMktRdks1ZngxNEozbGd0aE9ZMFpkUlI2Nm5ZRm1hcXlQTU5HWDk3NzFVdm42NzBSUWdWS0FvdVZLVU5ORzFXRg?oc=5\" target=\"_blank\">BREAKING: Iran announces that their …",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11VGpCR3cwd2pYek5vUkFsWGlrbF8tZE9TMktRdks1ZngxNEozbGd0aE9ZMFpkUlI2Nm5ZRm1hcXlQTU5HWDk3NzFVdm42NzBSUWdWS0FvdVZLVU5ORzFXRg?oc=5",
-      "publishedAt": "2026-04-08T13:20:24.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260408-breaking-iran-announces-that-their-cryptocurrency-of-choice-is-bitcoin-xcom",
-      "localUrl": "/news/20260408-breaking-iran-announces-that-their-cryptocurrency-of-choice-is-bitcoin-xcom.html"
     },
     {
       "source": "X Wire",
@@ -1126,6 +1111,17 @@
       "category": "X热点",
       "slug": "20260408-the-mystery-of-satoshi-nakamoto-the-pseudonymous-inventor-of-bitcoin-has-remaine",
       "localUrl": "/news/20260408-the-mystery-of-satoshi-nakamoto-the-pseudonymous-inventor-of-bitcoin-has-remaine.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin critics are in shambles because the digital currency has been one of the big winners of the geopolitical conflict. While investors have been dumping other assets, bitcoin continues have a positive return. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qM0xQRXVsYVVCa2txYjc5MlpRVWQ4SVlPNkV0UkVGUmFBUkI2a256S2tQTU9KYzhjQkQ0b1k4dmFnUHJwai0wZGJOaXhFVXdXcFBwbnVCd3JtZVZTeGpJLQ?oc=5\" target=\"_blank\">Bitcoin critics are in shambles beca…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qM0xQRXVsYVVCa2txYjc5MlpRVWQ4SVlPNkV0UkVGUmFBUkI2a256S2tQTU9KYzhjQkQ0b1k4dmFnUHJwai0wZGJOaXhFVXdXcFBwbnVCd3JtZVZTeGpJLQ?oc=5",
+      "publishedAt": "2026-04-07T16:18:24.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260407-bitcoin-critics-are-in-shambles-because-the-digital-currency-has-been-one-of-the",
+      "localUrl": "/news/20260407-bitcoin-critics-are-in-shambles-because-the-digital-currency-has-been-one-of-the.html"
     },
     {
       "source": "Solana Blog",
