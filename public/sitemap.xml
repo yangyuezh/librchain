@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-10T22:54:01.064Z</lastmod>
+    <lastmod>2026-04-10T23:49:33.696Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-10T22:54:01.064Z</lastmod>
+    <lastmod>2026-04-10T23:49:33.696Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260410-federal-judge-blocks-arizona-from-bringing-criminal-charges-against-kalshi.html</loc>
+    <lastmod>2026-04-10T23:31:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260410-bitcoin-community-weighs-in-on-reports-of-irans-crypto-toll-for-oil-ships.html</loc>
@@ -403,12 +409,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-these-3-crypto-stocks-could-actually-beat-bitcoin-etfs-says-td-cowen.html</loc>
-    <lastmod>2026-04-09T20:48:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260409-openai-plans-advanced-cybersecurity-productwith-trusted-access-only.html</loc>
     <lastmod>2026-04-09T20:27:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -445,12 +445,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-bullish-sentiment-is-emerging-in-the-bitcoin-options-market-with-call-options-at.html</loc>
-    <lastmod>2026-04-09T14:51:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260409-operation-atlantic-how-public-private-collaboration-is-freezing-millions-in-cryp.html</loc>
     <lastmod>2026-04-09T14:06:22.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -459,12 +453,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260409-the-drift-protocol-hack-how-privileged-access-led-to-a-285-million-loss.html</loc>
     <lastmod>2026-04-09T12:14:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260409-coinbase-has-been-named-as-a-custodian-for-the-morganstanley-bitcoin-trust-insti.html</loc>
-    <lastmod>2026-04-09T07:21:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -481,12 +469,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260408-just-in-morgan-stanleys-spot-bitcoin-etf-is-officially-trading-on-the-nyse-xcom.html</loc>
-    <lastmod>2026-04-08T14:06:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260408-1-today-the-ethereum-foundation-will-convert-5000-eth-to-stablecoins-via-cowswap.html</loc>
     <lastmod>2026-04-08T13:59:32.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -495,6 +477,18 @@
   <url>
     <loc>https://www.librchain.com/news/20260408-breaking-iran-is-accepting-bitcoin-for-transit-toll-payments-financial-times-xco.html</loc>
     <lastmod>2026-04-08T13:14:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260408-breaking-morgan-stanley-announces-the-launch-of-its-spot-bitcoin-etf-xcom.html</loc>
+    <lastmod>2026-04-08T12:56:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260408-prior-to-bitcoins-development-back-was-probably-closest-among-the-cypherpunks-to.html</loc>
+    <lastmod>2026-04-08T12:34:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -513,6 +507,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260408-bitcoins-founder-satoshi-nakamoto-has-remained-hidden-for-17-years-a-trail-of-cl.html</loc>
     <lastmod>2026-04-08T10:25:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260408-youtube-deleted-our-channel-for-being-harmful-and-dangerous-our-content-since-20.html</loc>
+    <lastmod>2026-04-08T05:54:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
