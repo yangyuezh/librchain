@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-10T07:58:13.525Z</lastmod>
+    <lastmod>2026-04-10T09:22:16.336Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-10T07:58:13.525Z</lastmod>
+    <lastmod>2026-04-10T09:22:16.336Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260410-hsbc-and-standard-chartered-led-group-land-hong-kongs-first-stablecoin-licenses.html</loc>
+    <lastmod>2026-04-10T09:19:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260410-david-baileys-bitcoin-holder-nakamoto-is-trying-to-stay-on-nasdaq-with-a-reverse.html</loc>
+    <lastmod>2026-04-10T08:58:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260410-japan-moves-to-classify-cryptocurrencies-as-financial-products.html</loc>
+    <lastmod>2026-04-10T08:58:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260410-cz-hopes-in-5-years-people-stop-talking-about-crypto-and-just-use-it.html</loc>
@@ -31,7 +49,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-blackrocks-bitcoin-etf-inflows-269m-marking-a-5-week-high.html</loc>
+    <loc>https://www.librchain.com/news/20260410-blackrock-bitcoin-etf-sees-269m-inflows-best-day-since-early-march.html</loc>
     <lastmod>2026-04-10T06:12:29.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -67,7 +85,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-bitcoin-can-be-made-quantum-safe-without-a-protocol-upgrade-researcher.html</loc>
+    <loc>https://www.librchain.com/news/20260410-bitcoin-can-be-made-quantum-safe-without-protocol-upgrade-researcher.html</loc>
     <lastmod>2026-04-10T03:44:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -91,7 +109,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-bitmine-uplists-to-the-nyse-share-buyback-increased-to-4b.html</loc>
+    <loc>https://www.librchain.com/news/20260410-bitmine-uplists-to-nyse-as-share-buyback-is-increased-to-4b.html</loc>
     <lastmod>2026-04-10T01:38:25.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -139,7 +157,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-bitcoin-rally-extends-toward-73k-despite-concerning-us-economic-data.html</loc>
+    <loc>https://www.librchain.com/news/20260409-bitcoin-nears-73k-as-recession-risks-and-weaker-dollar-support-demand.html</loc>
     <lastmod>2026-04-09T21:21:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -205,7 +223,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-pyth-network-looks-to-disrupt-data-hegemony-with-new-marketplace.html</loc>
+    <loc>https://www.librchain.com/news/20260409-pyth-network-targets-traditional-data-distribution-with-new-marketplace.html</loc>
     <lastmod>2026-04-09T19:32:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -213,12 +231,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260409-youtube-now-lets-you-create-your-own-ai-deepfakes.html</loc>
     <lastmod>2026-04-09T19:18:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260409-just-in-bitcoin-developer-avihu-levy-introduces-quantum-safe-bitcoin-transaction.html</loc>
-    <lastmod>2026-04-09T18:42:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -373,12 +385,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-bitmex-co-founder-donates-5-million-to-nigel-farages-reform-uk-party.html</loc>
-    <lastmod>2026-04-09T14:33:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260409-the-ton-blockchain-just-got-upgraded-and-is-now-10-faster-block-rate-increased-6.html</loc>
     <lastmod>2026-04-09T14:27:08.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -387,18 +393,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260409-operation-atlantic-how-public-private-collaboration-is-freezing-millions-in-cryp.html</loc>
     <lastmod>2026-04-09T14:06:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260409-mike-novogratz-spotlights-helios-as-15-billion-powerhouse-in-galaxy-digital-annu.html</loc>
-    <lastmod>2026-04-09T13:54:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260409-binance-adds-prediction-market-to-its-app-for-millions-of-users.html</loc>
-    <lastmod>2026-04-09T13:46:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -427,6 +421,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260409-cz-constantly-talks-about-the-story-of-selling-a-house-to-buy-bitcoin-but-what-i.html</loc>
+    <lastmod>2026-04-09T11:08:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260409-stake-your-take-across-crypto-politics-sports-and-more-prediction-markets-are-no.html</loc>
     <lastmod>2026-04-09T10:02:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -439,8 +439,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-hi-professional-cc-programmer-here-the-open-source-code-i-can-find-written-by-ad.html</loc>
-    <lastmod>2026-04-09T00:39:23.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260408-if-you-are-in-crypto-get-all-of-the-devices-in-your-org-on-edr-this-is-literally.html</loc>
+    <lastmod>2026-04-08T16:17:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
