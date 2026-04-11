@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2026-04-11T16:52:56.649Z",
+  "updatedAt": "2026-04-11T17:47:29.215Z",
   "total": 85,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "The crypto honeymoon is over for now as analysts warn of a major first-quarter profit squeeze",
+      "summary": "Several major investment firms have preemptively downgraded Coinbase and other platforms as a sharp drop in trading activity and falling token prices threaten to derail upcoming first-quarter earnings results.",
+      "url": "https://www.coindesk.com/markets/2026/04/11/the-crypto-honeymoon-is-over-for-now-as-analysts-warn-of-a-major-first-quarter-profit-squeeze",
+      "publishedAt": "2026-04-11T17:00:00.000Z",
+      "keywords": [
+        "Markets",
+        "Coinbase",
+        "Circle",
+        "Bullish",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260411-the-crypto-honeymoon-is-over-for-now-as-analysts-warn-of-a-major-first-quarter-p",
+      "localUrl": "/news/20260411-the-crypto-honeymoon-is-over-for-now-as-analysts-warn-of-a-major-first-quarter-p.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "$1.6 billion Ether Machine SPAC deal collapses over unfavorable market",
+      "summary": "The Ether Machine, an ether treasury firm, currently has more than $1 billion in ether in its treasury.",
+      "url": "https://www.coindesk.com/business/2026/04/11/usd1-6-billion-ether-machine-spac-deal-collapses-over-unfavorable-market",
+      "publishedAt": "2026-04-11T16:58:59.000Z",
+      "keywords": [
+        "Finance",
+        "Ethereum News",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260411-16-billion-ether-machine-spac-deal-collapses-over-unfavorable-market",
+      "localUrl": "/news/20260411-16-billion-ether-machine-spac-deal-collapses-over-unfavorable-market.html"
+    },
     {
       "source": "Decrypt",
       "title": "'Not Going to Stop at Bitcoin': Morgan Stanley Weighs Tokenization, Tax Solutions in Crypto Push",
@@ -872,6 +904,17 @@
       "localUrl": "/news/20260410-bitcoin-holds-steady-as-inflation-data-looms-bittensor-drama-unfolds.html"
     },
     {
+      "source": "X Wire",
+      "title": "BITCOIN JUST GOT TWO NEW DEFENSES AGAINST QUANTUM ATTACKS IN LAST 48 HOURS. On April 8, Lightning Labs CTO Olaoluwa Osuntokun published a working prototype that solves a critical problem. If Bitcoin ever activates an emergency shutdo - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XMVBmbU50X3k2VVlaNU4tSlc3d2JQSDJqaXZQSXR3aVlFM3VaZmNFSFRzdnVRcjBWY1lueGlxU3NvZElWYk5UNTdWWElUYlhRSW1YTHdTNUlsRFozOHBQV3ZWUQ?oc=5\" target=\"_blank\">BITCOIN JUST GOT TWO NEW DEFENSE…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XMVBmbU50X3k2VVlaNU4tSlc3d2JQSDJqaXZQSXR3aVlFM3VaZmNFSFRzdnVRcjBWY1lueGlxU3NvZElWYk5UNTdWWElUYlhRSW1YTHdTNUlsRFozOHBQV3ZWUQ?oc=5",
+      "publishedAt": "2026-04-10T09:47:22.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260410-bitcoin-just-got-two-new-defenses-against-quantum-attacks-in-last-48-hours-on-ap",
+      "localUrl": "/news/20260410-bitcoin-just-got-two-new-defenses-against-quantum-attacks-in-last-48-hours-on-ap.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "HSBC and Standard Chartered-led group land Hong Kong’s first stablecoin licenses",
       "summary": "The approvals by the Hong Kong Monetary Authority, the territory's central bank, mark the first batch under the Stablecoins Ordinance, which took effect in August 2025.",
@@ -902,38 +945,6 @@
       "localUrl": "/news/20260410-xrp-adjacent-flare-proposes-protocol-level-mev-capture-and-40-inflation-cut.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "David Bailey’s bitcoin holder Nakamoto is trying to stay on Nasdaq with a reverse stock split",
-      "summary": "The stock has plunged roughly 99% from its May 2025 peak as pressure builds on the bitcoin treasury firm.",
-      "url": "https://www.coindesk.com/markets/2026/04/10/david-bailey-s-nakamoto-is-trying-to-stay-on-nasdaq-and-it-s-turning-to-a-reverse-stock-split",
-      "publishedAt": "2026-04-10T08:58:48.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260410-david-baileys-bitcoin-holder-nakamoto-is-trying-to-stay-on-nasdaq-with-a-reverse",
-      "localUrl": "/news/20260410-david-baileys-bitcoin-holder-nakamoto-is-trying-to-stay-on-nasdaq-with-a-reverse.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Japan moves to classify cryptocurrencies as financial products",
-      "summary": "The new rules ban insider trading, require issuers to publish annual disclosures, and impose stricter penalties: up to 10 years in prison and 10 million yen in fines for operating without registration.",
-      "url": "https://www.coindesk.com/policy/2026/04/10/japan-moves-to-classify-cryptocurrencies-as-financial-products",
-      "publishedAt": "2026-04-10T08:58:19.000Z",
-      "keywords": [
-        "Policy",
-        "Cryptocurrency",
-        "Regulation",
-        "Japan",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260410-japan-moves-to-classify-cryptocurrencies-as-financial-products",
-      "localUrl": "/news/20260410-japan-moves-to-classify-cryptocurrencies-as-financial-products.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨BREAKING: JAPAN CLASSIFIES CRYPTO AS FINANCIAL INSTRUMENTS Japan has approved a bill to classify crypto assets as financial instruments. The move amends the Financial Instruments and Exchange Act. Crypto now sits alongside traditional fina - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE15VVg0NE1MMGNTaVRnMmcweGxzeHhqVDFINll0RzdPMGhCSmxKVDc4RXl4THMtY1NKOHBuM0hYblZkOVB3QlY0Wm9IcWgyeU9EOG4tR1JlWmxwT1dJ?oc=5\" target=\"_blank\">🚨BREAKING: JAPAN CLASSIFIES CRYPTO AS FIN…",
@@ -943,17 +954,6 @@
       "category": "X热点",
       "slug": "20260410-breaking-japan-classifies-crypto-as-financial-instruments-japan-has-approved-a-b",
       "localUrl": "/news/20260410-breaking-japan-classifies-crypto-as-financial-instruments-japan-has-approved-a-b.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "70 TH/s Solo Miner Hits “300-Year” Bitcoin Block, Earns 3.128 BTC With this level of hashrate, the chance of mining a block in a single day is roughly 1 in 100,000—equivalent to about once every 300 years. In one such rare instance, mempool data shows that - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE10U3hzV0RFQ2JUcVNuSjllTVhQZ3JrSy1CaWFWdGM0UEdWdDBibVgyUVJESjl1eDYwZlYwWHIyWC02OFEyOVJrandnQ0J2QmRJcGRHdjQ2SUJnVnNwcUx3R3ZxVQ?oc=5\" target=\"_blank\">70 TH/s Solo Miner Hits “300-Yea…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10U3hzV0RFQ2JUcVNuSjllTVhQZ3JrSy1CaWFWdGM0UEdWdDBibVgyUVJESjl1eDYwZlYwWHIyWC02OFEyOVJrandnQ0J2QmRJcGRHdjQ2SUJnVnNwcUx3R3ZxVQ?oc=5",
-      "publishedAt": "2026-04-10T02:04:53.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260410-70-ths-solo-miner-hits-300-year-bitcoin-block-earns-3128-btc-with-this-level-of-",
-      "localUrl": "/news/20260410-70-ths-solo-miner-hits-300-year-bitcoin-block-earns-3128-btc-with-this-level-of-.html"
     },
     {
       "source": "Decrypt",
@@ -1048,6 +1048,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Bitcoin \"benefits\" from being \"truly decentralized and chaotic,\" @adam3us says. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGLS1manVJLXg3QlduVk82WmlDSWMwTUdVNVhVY2tjRFhPaEd6UkpHcm8tbjdQVndOM01PODgzaWxjVEpYcEIyTFpWTWtYRkNmQ1NaOG42SFMxTzBMMVpidWxIaw?oc=5\" target=\"_blank\">Bitcoin \"benefits\" from being \"t…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGLS1manVJLXg3QlduVk82WmlDSWMwTUdVNVhVY2tjRFhPaEd6UkpHcm8tbjdQVndOM01PODgzaWxjVEpYcEIyTFpWTWtYRkNmQ1NaOG42SFMxTzBMMVpidWxIaw?oc=5",
+      "publishedAt": "2026-04-09T15:32:16.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260409-bitcoin-benefits-from-being-truly-decentralized-and-chaotic-adam3us-says-xcom",
+      "localUrl": "/news/20260409-bitcoin-benefits-from-being-truly-decentralized-and-chaotic-adam3us-says-xcom.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Project Crypto is designed so once Congress acts, @SECGov & @CFTC are ready to implement the CLARITY Act. @SecScottBessent is right. It's time for Congress to future-proof against rogue regulators & advance comprehensive market structure legislation - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aLVNzQk9xcWJlSjRtZUQtRGJMcjl1Mlg1T21peldWQWx0cWo3RVE3UHJySTRDT2dfRUdQQnpVMmRWMjRFbmFDZE84bWRYaUVvb3U1SWQ5YmlZZEZtbXVKM2NmUTBuUQ?oc=5\" target=\"_blank\">Project Crypto is designed s…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aLVNzQk9xcWJlSjRtZUQtRGJMcjl1Mlg1T21peldWQWx0cWo3RVE3UHJySTRDT2dfRUdQQnpVMmRWMjRFbmFDZE84bWRYaUVvb3U1SWQ5YmlZZEZtbXVKM2NmUTBuUQ?oc=5",
@@ -1056,17 +1067,6 @@
       "category": "X热点",
       "slug": "20260409-project-crypto-is-designed-so-once-congress-acts-secgov-cftc-are-ready-to-implem",
       "localUrl": "/news/20260409-project-crypto-is-designed-so-once-congress-acts-secgov-cftc-are-ready-to-implem.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🐋 WHALE ALERT: Whale opens 20x leveraged shorts on Bitcoin and Ethereum worth $80M, per Lookonchain. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oQnU4bThzQThKTm5IWGY1ZG1sYTRpVGl3NVVORXBLWXd3ZHRxQTBZcmVGcnVPNjhDN0RzSGFscl9IVEMwaTVVVGdyYWRhV291TmVUWTlsaWZyN3huRlpyOGN2cWE?oc=5\" target=\"_blank\">🐋 WHALE ALERT: Whale opens 20x…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oQnU4bThzQThKTm5IWGY1ZG1sYTRpVGl3NVVORXBLWXd3ZHRxQTBZcmVGcnVPNjhDN0RzSGFscl9IVEMwaTVVVGdyYWRhV291TmVUWTlsaWZyN3huRlpyOGN2cWE?oc=5",
-      "publishedAt": "2026-04-09T14:40:45.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260409-whale-alert-whale-opens-20x-leveraged-shorts-on-bitcoin-and-ethereum-worth-80m-p",
-      "localUrl": "/news/20260409-whale-alert-whale-opens-20x-leveraged-shorts-on-bitcoin-and-ethereum-worth-80m-p.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -1121,25 +1121,25 @@
     },
     {
       "source": "X Wire",
-      "title": "Stake your take across crypto, politics, sports, and more. Prediction Markets are now live, thanks to @predictdotfun’s seamless integration with Binance Wallet. Learn more 👉 binance.com/en/support/ann… - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PaW1ZS0RvTk1Od0hzNk94UDA4Nk5BRmFMMU9lVUViQUx1TW9lU2JpN3VRMkRqNEdkMzk1M200M3E0R1IxSktBb2tSZUtVYXZHWmxJblQtUkFBSjFt?oc=5\" target=\"_blank\">Stake your take across crypto, politics, s…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PaW1ZS0RvTk1Od0hzNk94UDA4Nk5BRmFMMU9lVUViQUx1TW9lU2JpN3VRMkRqNEdkMzk1M200M3E0R1IxSktBb2tSZUtVYXZHWmxJblQtUkFBSjFt?oc=5",
-      "publishedAt": "2026-04-09T10:02:01.000Z",
+      "title": "Binance - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiOEFVX3lxTE1zdk9MQTRVWHpGbk9LbDRVcW5VSXFQSTlWZnJacldkRWNkYzU3X1hWdzFwcm9NdWZ6?oc=5\" target=\"_blank\">Binance</a> <font color=\"#6f6f6f\">x.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE1zdk9MQTRVWHpGbk9LbDRVcW5VSXFQSTlWZnJacldkRWNkYzU3X1hWdzFwcm9NdWZ6?oc=5",
+      "publishedAt": "2026-04-09T09:01:56.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260409-stake-your-take-across-crypto-politics-sports-and-more-prediction-markets-are-no",
-      "localUrl": "/news/20260409-stake-your-take-across-crypto-politics-sports-and-more-prediction-markets-are-no.html"
+      "slug": "20260409-binance-xcom",
+      "localUrl": "/news/20260409-binance-xcom.html"
     },
     {
       "source": "X Wire",
-      "title": "Coinbase has been named as a custodian for the @MorganStanley Bitcoin Trust. Institutional adoption continues, regardless of short term price effects. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZWmxpRVpmaUNrWDRxRFVaZVdQUkVoYS02U2VUeFcyQ1NEc0t6RDNtZ1BRQVZGVzduWWVQNUNXeGl1ejRuMzVGTHVLU1pWRmdqbFRuYlJVdHJlOWZQUktmaGJucWJUX00?oc=5\" target=\"_blank\">Coinbase has been named as …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZWmxpRVpmaUNrWDRxRFVaZVdQUkVoYS02U2VUeFcyQ1NEc0t6RDNtZ1BRQVZGVzduWWVQNUNXeGl1ejRuMzVGTHVLU1pWRmdqbFRuYlJVdHJlOWZQUktmaGJucWJUX00?oc=5",
-      "publishedAt": "2026-04-09T07:21:54.000Z",
+      "title": "BREAKING: Ethereum Foundation sells $8,300,000 worth of $ETH... - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QYl9haUxtRHhXZkhqTmdleWUxZTJYVU82R1UwV0dYd0MtQnJhU1M3S3lwZ0V2eHRUWVRXX2VfS3NmRkxOY1M4Q1prMlBPTi1uMHVHQ3NhSHAwQUR4NnUycWxn?oc=5\" target=\"_blank\">BREAKING: Ethereum Foundation sell…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QYl9haUxtRHhXZkhqTmdleWUxZTJYVU82R1UwV0dYd0MtQnJhU1M3S3lwZ0V2eHRUWVRXX2VfS3NmRkxOY1M4Q1prMlBPTi1uMHVHQ3NhSHAwQUR4NnUycWxn?oc=5",
+      "publishedAt": "2026-04-09T07:18:37.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260409-coinbase-has-been-named-as-a-custodian-for-the-morganstanley-bitcoin-trust-insti",
-      "localUrl": "/news/20260409-coinbase-has-been-named-as-a-custodian-for-the-morganstanley-bitcoin-trust-insti.html"
+      "slug": "20260409-breaking-ethereum-foundation-sells-8300000-worth-of-eth-xcom",
+      "localUrl": "/news/20260409-breaking-ethereum-foundation-sells-8300000-worth-of-eth-xcom.html"
     },
     {
       "source": "Chainalysis Blog",
