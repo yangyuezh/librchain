@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-11T15:46:16.289Z</lastmod>
+    <lastmod>2026-04-11T16:52:56.698Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-11T15:46:16.289Z</lastmod>
+    <lastmod>2026-04-11T16:52:56.698Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260411-not-going-to-stop-at-bitcoin-morgan-stanley-weighs-tokenization-tax-solutions-in.html</loc>
+    <lastmod>2026-04-11T16:33:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260411-bitcoin-broader-market-flat-as-us-iran-negotiations-begin.html</loc>
+    <lastmod>2026-04-11T16:25:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260411-iran-war-oil-price-shock-revives-inflation-trade-and-a-new-stablecoin-play.html</loc>
+    <lastmod>2026-04-11T16:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260411-new-tools-aim-to-make-ai-vibe-coding-safer-for-crypto.html</loc>
@@ -105,6 +123,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260411-bhutan-has-sold-70-of-its-bitcoin-holdings-over-the-past-18-months-bhutan-has-so.html</loc>
     <lastmod>2026-04-11T04:31:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260411-the-ethereum-foundation-is-selling-the-ethereum-foundation-just-sold-1250-eth-fo.html</loc>
+    <lastmod>2026-04-11T03:29:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -313,12 +337,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-the-dragon-king-is-selling-bitcoin-the-fifth-dragon-king-of-bhutan-druk-gyalpo-j.html</loc>
-    <lastmod>2026-04-10T13:34:28.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260410-coindesk-20-performance-update-hedera-hbar-drops-19-leading-index-lower.html</loc>
     <lastmod>2026-04-10T13:14:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -379,12 +397,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-bitcoin-just-got-two-new-defenses-against-quantum-attacks-in-last-48-hours-on-ap.html</loc>
-    <lastmod>2026-04-10T09:47:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260410-hsbc-and-standard-chartered-led-group-land-hong-kongs-first-stablecoin-licenses.html</loc>
     <lastmod>2026-04-10T09:19:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -415,14 +427,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-xrp-may-be-less-exposed-to-quantum-computer-threats-than-bitcoin-experts-say.html</loc>
-    <lastmod>2026-04-10T06:24:28.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260410-xrp-edges-higher-to-135-on-breakout-but-bullish-momentum-still-lacks.html</loc>
-    <lastmod>2026-04-10T05:01:38.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260410-70-ths-solo-miner-hits-300-year-bitcoin-block-earns-3128-btc-with-this-level-of-.html</loc>
+    <lastmod>2026-04-10T02:04:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -463,12 +469,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-bitcoin-and-ethereum-open-interest-rises-signaling-renewed-risk-appetite-cryptoq.html</loc>
-    <lastmod>2026-04-09T20:12:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260409-just-in-bitcoin-developer-avihu-levy-introduces-quantum-safe-bitcoin-transaction.html</loc>
     <lastmod>2026-04-09T18:42:19.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,8 +481,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260409-whale-alert-whale-opens-20x-leveraged-shorts-on-bitcoin-and-ethereum-worth-80m-p.html</loc>
+    <lastmod>2026-04-09T14:40:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260409-operation-atlantic-how-public-private-collaboration-is-freezing-millions-in-cryp.html</loc>
     <lastmod>2026-04-09T14:06:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260409-just-in-a-solo-miner-mined-a-bitcoin-block-receiving-3128-btc-worth-222012-the-o.html</loc>
+    <lastmod>2026-04-09T12:16:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -493,26 +505,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-iran-demands-tolls-in-bitcoin-iran-plans-to-require-oil-tankers-to-pay-a-1barrel.html</loc>
-    <lastmod>2026-04-09T10:24:31.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260409-stake-your-take-across-crypto-politics-sports-and-more-prediction-markets-are-no.html</loc>
+    <lastmod>2026-04-09T10:02:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-binance-xcom.html</loc>
-    <lastmod>2026-04-09T09:01:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260408-breaking-claude-can-now-analyze-and-grow-your-bitcoin-portfolio-like-jack-dorsey.html</loc>
-    <lastmod>2026-04-08T17:22:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260408-just-in-morgan-stanleys-spot-bitcoin-etf-is-on-track-to-be-in-the-top-1-of-etf-l.html</loc>
-    <lastmod>2026-04-08T16:32:09.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260409-coinbase-has-been-named-as-a-custodian-for-the-morganstanley-bitcoin-trust-insti.html</loc>
+    <lastmod>2026-04-09T07:21:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
