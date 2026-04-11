@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-11T07:15:16.018Z</lastmod>
+    <lastmod>2026-04-11T09:00:06.697Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-11T07:15:16.018Z</lastmod>
+    <lastmod>2026-04-11T09:00:06.697Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260411-federal-court-blocks-arizona-crackdown-on-kalshis-event-contracts.html</loc>
+    <lastmod>2026-04-11T07:07:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260411-bitwise-edges-closer-to-hyperliquid-etf-launch-with-second-amended-filing.html</loc>
@@ -307,12 +313,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-world-liberty-signals-phased-wlfi-unlock-vote-after-early-holder-backlash.html</loc>
-    <lastmod>2026-04-10T11:19:28.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260410-bitcoin-holds-steady-as-inflation-data-looms-bittensor-drama-unfolds.html</loc>
     <lastmod>2026-04-10T10:34:25.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -381,6 +381,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260410-okx-and-hashkey-invest-in-new-vietnam-exchange-ahead-of-crypto-licensing-push.html</loc>
     <lastmod>2026-04-10T02:35:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260410-70-ths-solo-miner-hits-300-year-bitcoin-block-earns-3128-btc-with-this-level-of-.html</loc>
+    <lastmod>2026-04-10T02:04:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -495,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260408-just-in-morgan-stanleys-spot-bitcoin-etf-is-officially-trading-on-the-nyse-xcom.html</loc>
     <lastmod>2026-04-08T14:06:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260408-breaking-iran-is-accepting-bitcoin-for-transit-toll-payments-financial-times-xco.html</loc>
-    <lastmod>2026-04-08T13:14:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
