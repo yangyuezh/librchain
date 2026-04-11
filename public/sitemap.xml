@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-11T14:52:30.219Z</lastmod>
+    <lastmod>2026-04-11T15:46:16.289Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-11T14:52:30.219Z</lastmod>
+    <lastmod>2026-04-11T15:46:16.289Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260411-new-tools-aim-to-make-ai-vibe-coding-safer-for-crypto.html</loc>
+    <lastmod>2026-04-11T15:01:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260411-crypto-perpetuals-predict-the-direction-of-wall-streets-monday-open-with-89-accu.html</loc>
@@ -307,6 +313,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260410-the-dragon-king-is-selling-bitcoin-the-fifth-dragon-king-of-bhutan-druk-gyalpo-j.html</loc>
+    <lastmod>2026-04-10T13:34:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260410-coindesk-20-performance-update-hedera-hbar-drops-19-leading-index-lower.html</loc>
     <lastmod>2026-04-10T13:14:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -415,12 +427,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-70-ths-solo-miner-hits-300-year-bitcoin-block-earns-3128-btc-with-this-level-of-.html</loc>
-    <lastmod>2026-04-10T02:04:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260410-operation-atlantic-us-and-uk-team-with-firms-to-trace-freeze-millions-in-stolen-.html</loc>
     <lastmod>2026-04-10T00:01:18.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -463,12 +469,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-youtube-now-lets-you-create-your-own-ai-deepfakes.html</loc>
-    <lastmod>2026-04-09T19:18:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260409-just-in-bitcoin-developer-avihu-levy-introduces-quantum-safe-bitcoin-transaction.html</loc>
     <lastmod>2026-04-09T18:42:19.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -477,18 +477,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260409-project-crypto-is-designed-so-once-congress-acts-secgov-cftc-are-ready-to-implem.html</loc>
     <lastmod>2026-04-09T14:53:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260409-bullish-sentiment-is-emerging-in-the-bitcoin-options-market-with-call-options-at.html</loc>
-    <lastmod>2026-04-09T14:51:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260409-whale-alert-whale-opens-20x-leveraged-shorts-on-bitcoin-and-ethereum-worth-80m-p.html</loc>
-    <lastmod>2026-04-09T14:40:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -505,8 +493,20 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-coinbase-has-been-named-as-a-custodian-for-the-morganstanley-bitcoin-trust-insti.html</loc>
-    <lastmod>2026-04-09T07:21:54.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260409-iran-demands-tolls-in-bitcoin-iran-plans-to-require-oil-tankers-to-pay-a-1barrel.html</loc>
+    <lastmod>2026-04-09T10:24:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260409-binance-xcom.html</loc>
+    <lastmod>2026-04-09T09:01:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260408-breaking-claude-can-now-analyze-and-grow-your-bitcoin-portfolio-like-jack-dorsey.html</loc>
+    <lastmod>2026-04-08T17:22:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
