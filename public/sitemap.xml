@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-11T19:03:23.570Z</lastmod>
+    <lastmod>2026-04-11T19:47:38.002Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-11T19:03:23.570Z</lastmod>
+    <lastmod>2026-04-11T19:47:38.002Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260411-musks-spacex-holds-603-million-in-bitcoin-despite-5-billion-loss-stemming-from-x.html</loc>
+    <lastmod>2026-04-11T19:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260411-bitcoin-price-analysis-sees-new-short-squeeze-as-open-interest-nears-25b.html</loc>
@@ -115,8 +121,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260411-interesting-the-majority-of-bitcoins-supply-hasnt-moved-in-years-xcom.html</loc>
+    <lastmod>2026-04-11T11:30:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260411-trump-linked-wlfi-hits-new-low-as-token-backed-loan-triggers-concern.html</loc>
     <lastmod>2026-04-11T09:30:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260411-breaking-blackrock-buys-612000000-worth-of-bitcoin-huge-buys-xcom.html</loc>
+    <lastmod>2026-04-11T08:29:12.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,12 +433,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-hsbc-and-standard-chartered-led-group-land-hong-kongs-first-stablecoin-licenses.html</loc>
-    <lastmod>2026-04-10T09:19:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260410-breaking-japan-classifies-crypto-as-financial-instruments-japan-has-approved-a-b.html</loc>
     <lastmod>2026-04-10T07:39:24.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,12 +493,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-bullish-sentiment-is-emerging-in-the-bitcoin-options-market-with-call-options-at.html</loc>
-    <lastmod>2026-04-09T14:51:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260409-operation-atlantic-how-public-private-collaboration-is-freezing-millions-in-cryp.html</loc>
     <lastmod>2026-04-09T14:06:22.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -507,12 +513,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260409-coinbase-has-been-named-as-a-custodian-for-the-morganstanley-bitcoin-trust-insti.html</loc>
     <lastmod>2026-04-09T07:21:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260409-breaking-ethereum-foundation-sells-8300000-worth-of-eth-xcom.html</loc>
-    <lastmod>2026-04-09T07:18:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
