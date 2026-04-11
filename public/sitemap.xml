@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-11T20:49:56.405Z</lastmod>
+    <lastmod>2026-04-11T21:46:59.489Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-11T20:49:56.405Z</lastmod>
+    <lastmod>2026-04-11T21:46:59.489Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -27,6 +27,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260411-bitcoin-price-analysis-sees-new-short-squeeze-as-open-interest-nears-25b.html</loc>
     <lastmod>2026-04-11T18:28:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260411-bitcoin-got-us-to-126000-so-now-we-feel-terrible-at-72000-but-heres-the-thing-yo.html</loc>
+    <lastmod>2026-04-11T18:00:25.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -361,12 +367,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-latest-bitcoin-can-be-made-quantum-safe-today-without-a-protocol-upgrade-though-.html</loc>
-    <lastmod>2026-04-10T14:35:12.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260410-morning-minute-bitcoin-breaks-73k-as-strategys-strc-bid-grows.html</loc>
     <lastmod>2026-04-10T14:04:43.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -433,12 +433,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-70-ths-solo-miner-hits-300-year-bitcoin-block-earns-3128-btc-with-this-level-of-.html</loc>
-    <lastmod>2026-04-10T02:04:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260410-operation-atlantic-us-and-uk-team-with-firms-to-trace-freeze-millions-in-stolen-.html</loc>
     <lastmod>2026-04-10T00:01:18.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -469,6 +463,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260409-just-in-morgan-stanleys-amy-oldenburg-announces-their-spot-bitcoin-etf-launch-ha.html</loc>
+    <lastmod>2026-04-09T20:30:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260409-openai-plans-advanced-cybersecurity-productwith-trusted-access-only.html</loc>
     <lastmod>2026-04-09T20:27:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,14 +481,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-project-crypto-is-designed-so-once-congress-acts-secgov-cftc-are-ready-to-implem.html</loc>
-    <lastmod>2026-04-09T14:53:59.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260409-hopium-for-the-first-time-since-the-october-10-crash-bitcoins-1-week-rsi-has-bro.html</loc>
+    <lastmod>2026-04-09T17:26:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-whale-alert-whale-opens-20x-leveraged-shorts-on-bitcoin-and-ethereum-worth-80m-p.html</loc>
-    <lastmod>2026-04-09T14:40:45.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260409-project-crypto-is-designed-so-once-congress-acts-secgov-cftc-are-ready-to-implem.html</loc>
+    <lastmod>2026-04-09T14:53:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -511,8 +511,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-coinbase-has-been-named-as-a-custodian-for-the-morganstanley-bitcoin-trust-insti.html</loc>
-    <lastmod>2026-04-09T07:21:54.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260409-breaking-ethereum-foundation-sells-8300000-worth-of-eth-xcom.html</loc>
+    <lastmod>2026-04-09T07:18:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
