@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-11T09:00:06.697Z</lastmod>
+    <lastmod>2026-04-11T09:54:22.618Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-11T09:00:06.697Z</lastmod>
+    <lastmod>2026-04-11T09:54:22.618Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260411-trump-linked-wlfi-hits-new-low-as-token-backed-loan-triggers-concern.html</loc>
+    <lastmod>2026-04-11T09:30:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260411-federal-court-blocks-arizona-crackdown-on-kalshis-event-contracts.html</loc>
@@ -295,12 +301,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-bitget-rolls-out-spacex-linked-pre-ipo-proxy-with-republic.html</loc>
-    <lastmod>2026-04-10T11:47:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260410-bitcoin-remains-looking-for-higher-levels-if-i-see-this-chart-then-from-a-techni.html</loc>
     <lastmod>2026-04-10T11:45:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -463,12 +463,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-bullish-sentiment-is-emerging-in-the-bitcoin-options-market-with-call-options-at.html</loc>
-    <lastmod>2026-04-09T14:51:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260409-whale-alert-whale-opens-20x-leveraged-shorts-on-bitcoin-and-ethereum-worth-80m-p.html</loc>
     <lastmod>2026-04-09T14:40:45.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -487,8 +481,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260409-stake-your-take-across-crypto-politics-sports-and-more-prediction-markets-are-no.html</loc>
+    <lastmod>2026-04-09T10:02:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260409-coinbase-has-been-named-as-a-custodian-for-the-morganstanley-bitcoin-trust-insti.html</loc>
     <lastmod>2026-04-09T07:21:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260408-just-in-morgan-stanleys-spot-bitcoin-etf-is-on-track-to-be-in-the-top-1-of-etf-l.html</loc>
+    <lastmod>2026-04-08T16:32:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -499,14 +505,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260408-just-in-morgan-stanleys-spot-bitcoin-etf-is-officially-trading-on-the-nyse-xcom.html</loc>
-    <lastmod>2026-04-08T14:06:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260408-just-in-white-house-releases-study-saying-that-banning-stablecoin-yield-would-do.html</loc>
-    <lastmod>2026-04-08T12:24:34.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260408-breaking-iran-is-accepting-bitcoin-for-transit-toll-payments-financial-times-xco.html</loc>
+    <lastmod>2026-04-08T13:14:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
