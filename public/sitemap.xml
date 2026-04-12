@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-12T03:43:56.406Z</lastmod>
+    <lastmod>2026-04-12T06:01:29.758Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-12T03:43:56.406Z</lastmod>
+    <lastmod>2026-04-12T06:01:29.758Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260412-xrp-drops-to-133-as-bitcoin-weakness-pulls-down-majors.html</loc>
+    <lastmod>2026-04-12T05:57:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260412-just-in-115000000-liquidated-from-the-crypto-market-in-the-past-60-minutes-xcom.html</loc>
@@ -45,6 +51,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260411-interesting-bitcoins-whitepaper-is-on-wall-street-xcom.html</loc>
     <lastmod>2026-04-11T21:30:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260411-one-time-i-was-dead-broke-and-indebted-too-my-friends-bitcoin-wallet-was-on-my-p.html</loc>
+    <lastmod>2026-04-11T20:53:31.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -433,12 +445,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-institutions-bitcoin-positioning-lacks-conviction-cpi-iran-talks-might-help.html</loc>
-    <lastmod>2026-04-10T11:29:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260410-operation-atlantic-us-and-uk-team-with-firms-to-trace-freeze-millions-in-stolen-.html</loc>
     <lastmod>2026-04-10T00:01:18.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260409-project-crypto-is-designed-so-once-congress-acts-secgov-cftc-are-ready-to-implem.html</loc>
     <lastmod>2026-04-09T14:53:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260409-the-ton-blockchain-just-got-upgraded-and-is-now-10-faster-block-rate-increased-6.html</loc>
-    <lastmod>2026-04-09T14:27:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
