@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-12T15:49:51.981Z</lastmod>
+    <lastmod>2026-04-12T16:55:55.848Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-12T15:49:51.981Z</lastmod>
+    <lastmod>2026-04-12T16:55:55.848Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260412-strategys-michael-saylor-signals-impending-bitcoin-purchase.html</loc>
+    <lastmod>2026-04-12T16:35:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260412-bitcoin-may-be-forming-a-base-at-65000-as-paper-hands-have-been-flushed-out.html</loc>
@@ -37,7 +43,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260412-bitcoin-slips-below-71000-as-trump-orders-blockade-of-strait-of-hormuz.html</loc>
+    <loc>https://www.librchain.com/news/20260412-bitcoin-slips-below-71000-as-trump-orders-us-to-join-iran-in-blockade-of-strait-.html</loc>
     <lastmod>2026-04-12T13:46:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -123,6 +129,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260412-bitcoin-may-go-quantum-safe-without-any-upgrade-a-new-proposal-introduces-quantu.html</loc>
     <lastmod>2026-04-12T08:20:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260412-warning-bitcoin-now-has-more-longs-than-shorts-crowded-longs-increase-the-risk-o.html</loc>
+    <lastmod>2026-04-12T08:15:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -213,6 +225,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260411-bitcoin-price-analysis-sees-new-short-squeeze-as-open-interest-nears-25b.html</loc>
     <lastmod>2026-04-11T18:28:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260411-bitcoin-got-us-to-126000-so-now-we-feel-terrible-at-72000-but-heres-the-thing-yo.html</loc>
+    <lastmod>2026-04-11T18:00:25.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -367,12 +385,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-prediction-market-users-await-artemis-ii-mission-splashdown.html</loc>
-    <lastmod>2026-04-10T20:52:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260410-suspect-arrested-after-molotov-cocktail-thrown-at-sam-altmans-san-francisco-home.html</loc>
     <lastmod>2026-04-10T18:44:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -463,12 +475,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-lost-in-all-the-fanfare-of-msbt-launching-was-that-the-bitcoin-after-dark-etf-ng.html</loc>
-    <lastmod>2026-04-10T11:56:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260410-operation-atlantic-us-and-uk-team-with-firms-to-trace-freeze-millions-in-stolen-.html</loc>
     <lastmod>2026-04-10T00:01:18.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -495,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260409-pepe-may-follow-dogecoin-to-wall-streetbut-etf-investors-arent-buying-meme-hype.html</loc>
     <lastmod>2026-04-09T21:19:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260409-just-in-bitcoin-developer-avihu-levy-introduces-quantum-safe-bitcoin-transaction.html</loc>
-    <lastmod>2026-04-09T18:42:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
