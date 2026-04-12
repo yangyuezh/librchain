@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-12T10:56:57.768Z</lastmod>
+    <lastmod>2026-04-12T11:46:56.501Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-12T10:56:57.768Z</lastmod>
+    <lastmod>2026-04-12T11:46:56.501Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -39,6 +39,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260412-quick-history-lesson-bitcoin-logo-was-spotted-in-a-1991-game-the-lore-goes-deepe.html</loc>
     <lastmod>2026-04-12T09:00:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260412-warning-bitcoin-now-has-more-longs-than-shorts-crowded-longs-increase-the-risk-o.html</loc>
+    <lastmod>2026-04-12T08:15:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -495,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260409-project-crypto-is-designed-so-once-congress-acts-secgov-cftc-are-ready-to-implem.html</loc>
     <lastmod>2026-04-09T14:53:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260409-the-ton-blockchain-just-got-upgraded-and-is-now-10-faster-block-rate-increased-6.html</loc>
-    <lastmod>2026-04-09T14:27:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
