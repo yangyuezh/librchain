@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-04-12T16:55:55.799Z",
+  "updatedAt": "2026-04-12T17:50:38.470Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "DeFi’s shakeout is a stress test, not a death sentence",
+      "summary": "Novozhenov argues that despite lingering governance, security and regulatory hurdles that have shuttered several protocols, DeFi remains resilient.",
+      "url": "https://www.coindesk.com/opinion/2026/04/10/defi-s-shakeout-is-a-stress-test-not-a-death-sentence",
+      "publishedAt": "2026-04-12T17:30:00.000Z",
+      "keywords": [
+        "Opinion",
+        "DeFi",
+        "Opinion"
+      ],
+      "category": "监管",
+      "slug": "20260412-defis-shakeout-is-a-stress-test-not-a-death-sentence",
+      "localUrl": "/news/20260412-defis-shakeout-is-a-stress-test-not-a-death-sentence.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Want Claude Opus AI on Your Potato PC? This Is Your Next-Best Bet",
+      "summary": "A developer distilled Claude Opus 4.6's reasoning into a local Qwen model anyone can run. The result is Qwopus—and it's surprisingly close to the real thing.",
+      "url": "https://decrypt.co/364047/want-claude-opus-ai-potato-pc-next-best-bet",
+      "publishedAt": "2026-04-12T17:13:01.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260412-want-claude-opus-ai-on-your-potato-pc-this-is-your-next-best-bet",
+      "localUrl": "/news/20260412-want-claude-opus-ai-on-your-potato-pc-this-is-your-next-best-bet.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Strategy's Michael Saylor signals impending Bitcoin purchase",
@@ -414,17 +442,6 @@
     },
     {
       "source": "X Wire",
-      "title": "⚡ INTERESTING: Bitcoin's whitepaper is on Wall Street. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE92LWExSEo0MkZ2NFBtTDI4dEprVGY3c0pnUmJSU1ZicTZHRDdGemJxUW1EMmlyLUhSbjVvek9KU0tXTktrcE1sMFMtY3kzYzUyQU5PRWFoNnExSGFqSThqcWFQdVU?oc=5\" target=\"_blank\">⚡ INTERESTING: Bitcoin's whitep…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92LWExSEo0MkZ2NFBtTDI4dEprVGY3c0pnUmJSU1ZicTZHRDdGemJxUW1EMmlyLUhSbjVvek9KU0tXTktrcE1sMFMtY3kzYzUyQU5PRWFoNnExSGFqSThqcWFQdVU?oc=5",
-      "publishedAt": "2026-04-11T21:30:05.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260411-interesting-bitcoins-whitepaper-is-on-wall-street-xcom",
-      "localUrl": "/news/20260411-interesting-bitcoins-whitepaper-is-on-wall-street-xcom.html"
-    },
-    {
-      "source": "X Wire",
       "title": "one time i was dead broke, and indebted too,, my friends bitcoin wallet was on my phone, (he had given me his passphrase a long while back to check something and had forgotten), i kept sawing deposit notifications from his wallet on my phone, I'm talking 3k - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtV29vcGs4TVNFUFdTSndlWGdpQ2xfQlhUSmRwOUNiUnp0bDhlYk1Ka2hHcnBGdS0wdVdKOGc0Vk1jWUpPV25HR1RxN3JyTjBLZlN6RjBSQmFfZDV5dTZONTBR?oc=5\" target=\"_blank\">one time i was dead broke, and ind…",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtV29vcGs4TVNFUFdTSndlWGdpQ2xfQlhUSmRwOUNiUnp0bDhlYk1Ka2hHcnBGdS0wdVdKOGc0Vk1jWUpPV25HR1RxN3JyTjBLZlN6RjBSQmFfZDV5dTZONTBR?oc=5",
@@ -554,6 +571,21 @@
     },
     {
       "source": "CoinDesk",
+      "title": "How U.S. sports teams can launch their fan-token strategies right now",
+      "summary": "Dreyfus, CEO of Chiliz, examines the implications of the SEC and CFTC’s recent joint guidance on digital assets and what the regulatory clarity means for the future of blockchain fan engagement.",
+      "url": "https://www.coindesk.com/opinion/2026/04/10/how-u-s-sports-teams-can-launch-their-fan-token-strategies-right-now",
+      "publishedAt": "2026-04-11T17:00:00.000Z",
+      "keywords": [
+        "Opinion",
+        "Tokenization",
+        "Opinion"
+      ],
+      "category": "监管",
+      "slug": "20260411-how-us-sports-teams-can-launch-their-fan-token-strategies-right-now",
+      "localUrl": "/news/20260411-how-us-sports-teams-can-launch-their-fan-token-strategies-right-now.html"
+    },
+    {
+      "source": "CoinDesk",
       "title": "$1.6 billion Ether Machine SPAC deal collapses over unfavorable market",
       "summary": "The Ether Machine, an ether treasury firm, currently has more than $1 billion in ether in its treasury.",
       "url": "https://www.coindesk.com/business/2026/04/11/usd1-6-billion-ether-machine-spac-deal-collapses-over-unfavorable-market",
@@ -626,51 +658,6 @@
       "category": "综合",
       "slug": "20260411-new-tools-aim-to-make-ai-vibe-coding-safer-for-crypto",
       "localUrl": "/news/20260411-new-tools-aim-to-make-ai-vibe-coding-safer-for-crypto.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto perpetuals predict the direction of Wall Street’s Monday open with 89% accuracy, data shows",
-      "summary": "Over half (57%) of Monday market opens is s already reflected in crypto markets' perpetual futures products.",
-      "url": "https://www.coindesk.com/markets/2026/04/11/crypto-perpetuals-predict-the-direction-of-wall-street-s-monday-open-with-89-accuracy-data-shows",
-      "publishedAt": "2026-04-11T14:46:55.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Trading",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260411-crypto-perpetuals-predict-the-direction-of-wall-streets-monday-open-with-89-accu",
-      "localUrl": "/news/20260411-crypto-perpetuals-predict-the-direction-of-wall-streets-monday-open-with-89-accu.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto Clarity bill has 30% chance of passing this year, Wintermute’s Hammond says",
-      "summary": "Wintermute’s head of policy Ron Hammond pegs chances at 30%, citing political friction, stalled negotiations and shifting timelines despite signs of progress.",
-      "url": "https://www.coindesk.com/policy/2026/04/11/crypto-clarity-bill-has-30-chance-of-passing-this-year-wintermute-s-hammond-says",
-      "publishedAt": "2026-04-11T14:00:00.000Z",
-      "keywords": [
-        "Policy",
-        "Consensus Miami 2026",
-        "Exclusive",
-        "Wintermute",
-        "Regulation",
-        "Clarity Act",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260411-crypto-clarity-bill-has-30-chance-of-passing-this-year-wintermutes-hammond-says",
-      "localUrl": "/news/20260411-crypto-clarity-bill-has-30-chance-of-passing-this-year-wintermutes-hammond-says.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin works in space. $BTC - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OMUxoanhUSDNXUDRVVjVHUGQwZkRVRmFWN2Y3YzAtYklVYUJSZ2QwT1FoUElkTlo0WG1lRkVCYmZ3SGRMSDBzOGd6TGNpamVrX1I0UXJ3RTc5YTg?oc=5\" target=\"_blank\">Bitcoin works in space. $BTC</a> <font colo…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OMUxoanhUSDNXUDRVVjVHUGQwZkRVRmFWN2Y3YzAtYklVYUJSZ2QwT1FoUElkTlo0WG1lRkVCYmZ3SGRMSDBzOGd6TGNpamVrX1I0UXJ3RTc5YTg?oc=5",
-      "publishedAt": "2026-04-11T13:07:06.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260411-bitcoin-works-in-space-btc-xcom",
-      "localUrl": "/news/20260411-bitcoin-works-in-space-btc-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -1043,6 +1030,17 @@
       "localUrl": "/news/20260410-introducing-buildwithyou-crypto-confession-whats-one-lesson-crypto-taught-you-3-.html"
     },
     {
+      "source": "X Wire",
+      "title": "Lost in all the fanfare of $MSBT launching was that The Bitcoin After Dark ETF $NGHT also launched Wed. And it was meh volume first day but big jump on Day Two. Will be fun to compare these two, Day vs Night over the months and years. Our research via - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xd1k2YUY3NVRuQjFsTVdNTFRQalloVU80Yi1TNVI2Z0lGaW9qLXJKTzctRm1LVTIzNGYwV1BBQVFzb3ZWb2QzOGJPYzFwUFgxa0JqZnFsS0pjUjNlTkxDdWVYdXk?oc=5\" target=\"_blank\">Lost in all the fanfare of $MSB…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xd1k2YUY3NVRuQjFsTVdNTFRQalloVU80Yi1TNVI2Z0lGaW9qLXJKTzctRm1LVTIzNGYwV1BBQVFzb3ZWb2QzOGJPYzFwUFgxa0JqZnFsS0pjUjNlTkxDdWVYdXk?oc=5",
+      "publishedAt": "2026-04-10T11:56:54.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260410-lost-in-all-the-fanfare-of-msbt-launching-was-that-the-bitcoin-after-dark-etf-ng",
+      "localUrl": "/news/20260410-lost-in-all-the-fanfare-of-msbt-launching-was-that-the-bitcoin-after-dark-etf-ng.html"
+    },
+    {
       "source": "Decrypt",
       "title": "'Operation Atlantic': US and UK Team With Firms to Trace, Freeze Millions in Stolen Crypto",
       "summary": "Crypto firms like Coinbase and Kraken teamed up with government agencies to trace and freeze millions in funds tied to crypto scams and fraud.",
@@ -1095,19 +1093,15 @@
       "localUrl": "/news/20260409-ai-should-advance-mankind-not-destroy-it-why-florida-is-taking-aim-at-openai.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Pepe May Follow Dogecoin to Wall Street—But ETF Investors Aren't Buying Meme Hype",
-      "summary": "There's now an application for a Pepe ETF, but Dogecoin funds have generated tepid inflows, according to CoinShares' James Butterfill",
-      "url": "https://decrypt.co/363869/pepe-follow-dogecoin-wall-street-etf-investors-arent-buying-meme-hype",
-      "publishedAt": "2026-04-09T21:19:39.000Z",
-      "keywords": [
-        "dogecoin",
-        "pepe",
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260409-pepe-may-follow-dogecoin-to-wall-streetbut-etf-investors-arent-buying-meme-hype",
-      "localUrl": "/news/20260409-pepe-may-follow-dogecoin-to-wall-streetbut-etf-investors-arent-buying-meme-hype.html"
+      "source": "X Wire",
+      "title": "JUST IN: Bitcoin developer Avihu Levy introduces \"Quantum-Safe Bitcoin Transactions Without Softforks\" 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NYU9HeXp2TFBPVkpUNGFCVmV5dmNlYlNCNW4zR0ZqNXh1ajJoS3RkYVpZaXJ4NkIzTk1YU0FFYnVUY1o0a3dUb2ZsQm9XUWJILWQ0NHRWYTNSMzVkMTNGWjdVZTdPdjA?oc=5\" target=\"_blank\">JUST IN: Bitcoin developer …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NYU9HeXp2TFBPVkpUNGFCVmV5dmNlYlNCNW4zR0ZqNXh1ajJoS3RkYVpZaXJ4NkIzTk1YU0FFYnVUY1o0a3dUb2ZsQm9XUWJILWQ0NHRWYTNSMzVkMTNGWjdVZTdPdjA?oc=5",
+      "publishedAt": "2026-04-09T18:42:19.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260409-just-in-bitcoin-developer-avihu-levy-introduces-quantum-safe-bitcoin-transaction",
+      "localUrl": "/news/20260409-just-in-bitcoin-developer-avihu-levy-introduces-quantum-safe-bitcoin-transaction.html"
     },
     {
       "source": "Chainalysis Blog",

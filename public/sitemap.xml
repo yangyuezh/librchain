@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-12T16:55:55.848Z</lastmod>
+    <lastmod>2026-04-12T17:50:38.521Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-12T16:55:55.848Z</lastmod>
+    <lastmod>2026-04-12T17:50:38.521Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260412-defis-shakeout-is-a-stress-test-not-a-death-sentence.html</loc>
+    <lastmod>2026-04-12T17:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260412-want-claude-opus-ai-on-your-potato-pc-this-is-your-next-best-bet.html</loc>
+    <lastmod>2026-04-12T17:13:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260412-strategys-michael-saylor-signals-impending-bitcoin-purchase.html</loc>
@@ -187,12 +199,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260411-interesting-bitcoins-whitepaper-is-on-wall-street-xcom.html</loc>
-    <lastmod>2026-04-11T21:30:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260411-one-time-i-was-dead-broke-and-indebted-too-my-friends-bitcoin-wallet-was-on-my-p.html</loc>
     <lastmod>2026-04-11T20:53:31.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -253,6 +259,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260411-how-us-sports-teams-can-launch-their-fan-token-strategies-right-now.html</loc>
+    <lastmod>2026-04-11T17:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260411-16-billion-ether-machine-spac-deal-collapses-over-unfavorable-market.html</loc>
     <lastmod>2026-04-11T16:58:59.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -279,24 +291,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260411-new-tools-aim-to-make-ai-vibe-coding-safer-for-crypto.html</loc>
     <lastmod>2026-04-11T15:01:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260411-crypto-perpetuals-predict-the-direction-of-wall-streets-monday-open-with-89-accu.html</loc>
-    <lastmod>2026-04-11T14:46:55.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260411-crypto-clarity-bill-has-30-chance-of-passing-this-year-wintermutes-hammond-says.html</loc>
-    <lastmod>2026-04-11T14:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260411-bitcoin-works-in-space-btc-xcom.html</loc>
-    <lastmod>2026-04-11T13:07:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,6 +469,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260410-lost-in-all-the-fanfare-of-msbt-launching-was-that-the-bitcoin-after-dark-etf-ng.html</loc>
+    <lastmod>2026-04-10T11:56:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260410-operation-atlantic-us-and-uk-team-with-firms-to-trace-freeze-millions-in-stolen-.html</loc>
     <lastmod>2026-04-10T00:01:18.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -499,8 +499,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-pepe-may-follow-dogecoin-to-wall-streetbut-etf-investors-arent-buying-meme-hype.html</loc>
-    <lastmod>2026-04-09T21:19:39.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260409-just-in-bitcoin-developer-avihu-levy-introduces-quantum-safe-bitcoin-transaction.html</loc>
+    <lastmod>2026-04-09T18:42:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
