@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-12T14:55:30.993Z</lastmod>
+    <lastmod>2026-04-12T15:49:51.981Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-12T14:55:30.993Z</lastmod>
+    <lastmod>2026-04-12T15:49:51.981Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260412-bitcoin-may-be-forming-a-base-at-65000-as-paper-hands-have-been-flushed-out.html</loc>
+    <lastmod>2026-04-12T15:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260412-oil-futures-up-7-on-hyperliquid-as-trump-orders-naval-blockade-of-hormuz.html</loc>
@@ -271,12 +277,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260411-bitwise-files-updated-s-1-for-hyperliquid-etf-as-hype-fund-race-heats-up.html</loc>
-    <lastmod>2026-04-11T13:59:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260411-bitcoin-works-in-space-btc-xcom.html</loc>
     <lastmod>2026-04-11T13:07:06.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -303,6 +303,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260411-paying-iran-in-crypto-could-put-shippers-at-sanctions-risk-chainalysis.html</loc>
     <lastmod>2026-04-11T12:25:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260411-this-is-perhaps-the-most-respected-technical-line-in-bitcoin-btc-history-for-nea.html</loc>
+    <lastmod>2026-04-11T11:35:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -393,12 +399,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260410-the-cia-let-ai-write-its-first-intelligence-reportand-ai-coworkers-are-up-next.html</loc>
     <lastmod>2026-04-10T17:14:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260410-just-in-michael-saylors-strategy-could-surpass-blackrocks-btc-holdings-in-the-ne.html</loc>
-    <lastmod>2026-04-10T17:06:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
