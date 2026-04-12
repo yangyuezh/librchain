@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-12T06:01:29.758Z</lastmod>
+    <lastmod>2026-04-12T07:42:43.170Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-12T06:01:29.758Z</lastmod>
+    <lastmod>2026-04-12T07:42:43.170Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260412-xrp-drops-to-133-as-bitcoin-weakness-pulls-down-majors.html</loc>
     <lastmod>2026-04-12T05:57:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260412-pain-donald-trump-linked-crypto-tokens-collapse-with-trump-down-91-and-world-lib.html</loc>
+    <lastmod>2026-04-12T05:30:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260412-bitcoin-ether-near-levels-that-could-signal-trend-reversal-analyst.html</loc>
+    <lastmod>2026-04-12T05:26:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -343,12 +355,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-bitcoin-traders-set-88k-target-as-market-bias-finally-tilts-toward-bulls.html</loc>
-    <lastmod>2026-04-10T16:47:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260410-irans-strait-of-hormuz-crypto-toll-an-evolution-of-tehrans-expanding-use-of-digi.html</loc>
     <lastmod>2026-04-10T16:46:24.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -433,12 +439,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-introducing-buildwithyou-crypto-confession-whats-one-lesson-crypto-taught-you-3-.html</loc>
-    <lastmod>2026-04-10T12:00:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260410-lost-in-all-the-fanfare-of-msbt-launching-was-that-the-bitcoin-after-dark-etf-ng.html</loc>
     <lastmod>2026-04-10T11:56:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -499,8 +499,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-just-in-a-solo-miner-mined-a-bitcoin-block-receiving-3128-btc-worth-222012-the-o.html</loc>
-    <lastmod>2026-04-09T12:16:22.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260409-just-in-treasury-secretary-scott-bessent-demands-lawmakers-to-send-the-bitcoin-a.html</loc>
+    <lastmod>2026-04-09T12:45:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -511,8 +511,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-coinbase-has-been-named-as-a-custodian-for-the-morganstanley-bitcoin-trust-insti.html</loc>
-    <lastmod>2026-04-09T07:21:54.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260409-binance-xcom.html</loc>
+    <lastmod>2026-04-09T09:01:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
