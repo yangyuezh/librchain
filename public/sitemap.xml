@@ -2,15 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-12T11:46:56.501Z</lastmod>
+    <lastmod>2026-04-12T13:32:39.538Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-12T11:46:56.501Z</lastmod>
+    <lastmod>2026-04-12T13:32:39.538Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260412-bitcoin-analysts-flag-triggers-for-a-massive-surge-to-88000-even-as-war-risks-li.html</loc>
+    <lastmod>2026-04-12T13:21:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260412-theres-a-way-to-make-bitcoin-safe-from-quantum-without-a-fork-researchers-say.html</loc>
+    <lastmod>2026-04-12T13:01:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260412-super-pac-tied-to-tether-makes-first-ad-buy-from-firm-founded-by-tethers-us-ceo.html</loc>
+    <lastmod>2026-04-12T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260412-commodity-traders-are-getting-debanked-due-to-iran-war-pushing-them-to-rely-on-s.html</loc>
+    <lastmod>2026-04-12T12:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260412-trons-justin-sun-slams-trump-backed-wlfi-for-treating-users-as-personal-atm-afte.html</loc>
+    <lastmod>2026-04-12T11:49:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260412-trump-token-sees-whale-accumulation-ahead-of-mar-a-lago-gala-senators-raise-ques.html</loc>
@@ -43,8 +73,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260412-market-bitcoin-market-liquidity-has-dropped-roughly-50-since-sept-2025-xcom.html</loc>
+    <lastmod>2026-04-12T08:30:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260412-warning-bitcoin-now-has-more-longs-than-shorts-crowded-longs-increase-the-risk-o.html</loc>
     <lastmod>2026-04-12T08:15:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260412-i-have-always-been-an-ardent-supporter-of-president-trump-and-his-crypto-friendl.html</loc>
+    <lastmod>2026-04-12T07:46:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -175,12 +217,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260411-just-a-reminder-that-the-bitcoin-mempool-is-empty-xcom.html</loc>
-    <lastmod>2026-04-11T16:20:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260411-iran-war-oil-price-shock-revives-inflation-trade-and-a-new-stablecoin-play.html</loc>
     <lastmod>2026-04-11T16:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -267,12 +303,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260411-bitwise-edges-closer-to-hyperliquid-etf-launch-with-second-amended-filing.html</loc>
     <lastmod>2026-04-11T05:31:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260411-breaking-bitcoin-etfs-bought-3350-btc-worth-240m-yesterday-total-holdings-now-at.html</loc>
-    <lastmod>2026-04-11T05:26:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -403,38 +433,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-star-xu-calls-cz-a-liar-as-founders-of-worlds-largest-crypto-exchanges-argue-ove.html</loc>
-    <lastmod>2026-04-10T15:38:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260410-bittensor-ai-token-plunges-as-top-builder-departs-over-decentralization-doubts.html</loc>
     <lastmod>2026-04-10T15:30:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-the-magic-word-for-digital-assets-adoption-and-success-choice.html</loc>
-    <lastmod>2026-04-10T15:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260410-morning-minute-bitcoin-breaks-73k-as-strategys-strc-bid-grows.html</loc>
     <lastmod>2026-04-10T14:04:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260410-coindesk-20-performance-update-hedera-hbar-drops-19-leading-index-lower.html</loc>
-    <lastmod>2026-04-10T13:14:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260410-trump-backed-wlfi-token-drops-12-to-record-lows-after-team-defends-multi-million.html</loc>
-    <lastmod>2026-04-10T13:14:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -487,12 +493,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260409-openai-plans-advanced-cybersecurity-productwith-trusted-access-only.html</loc>
-    <lastmod>2026-04-09T20:27:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260409-just-in-bitcoin-developer-avihu-levy-introduces-quantum-safe-bitcoin-transaction.html</loc>
     <lastmod>2026-04-09T18:42:19.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -513,12 +513,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260409-the-drift-protocol-hack-how-privileged-access-led-to-a-285-million-loss.html</loc>
     <lastmod>2026-04-09T12:14:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260408-the-100-trillion-wealth-shift-stablecoin-utility-and-the-future-of-payments.html</loc>
-    <lastmod>2026-04-08T11:50:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
