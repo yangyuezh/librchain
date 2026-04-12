@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-12T09:02:34.856Z</lastmod>
+    <lastmod>2026-04-12T09:57:29.172Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-12T09:02:34.856Z</lastmod>
+    <lastmod>2026-04-12T09:57:29.172Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260412-polymarket-bets-removed-from-google-news-after-brief-appearance-report.html</loc>
+    <lastmod>2026-04-12T09:26:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260412-quick-history-lesson-bitcoin-logo-was-spotted-in-a-1991-game-the-lore-goes-deepe.html</loc>
+    <lastmod>2026-04-12T09:00:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260412-ether-machine-scraps-spac-merger-with-dynamix-citing-market-conditions.html</loc>
@@ -63,6 +75,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260411-interesting-bitcoins-whitepaper-is-on-wall-street-xcom.html</loc>
     <lastmod>2026-04-11T21:30:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260411-one-time-i-was-dead-broke-and-indebted-too-my-friends-bitcoin-wallet-was-on-my-p.html</loc>
+    <lastmod>2026-04-11T20:53:31.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -123,12 +141,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260411-bitcoin-broader-market-flat-as-us-iran-negotiations-begin.html</loc>
     <lastmod>2026-04-11T16:25:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260411-just-a-reminder-that-the-bitcoin-mempool-is-empty-xcom.html</loc>
-    <lastmod>2026-04-11T16:20:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -265,12 +277,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260411-anti-bitcoin-community-community-on-x-37-members-xcom.html</loc>
-    <lastmod>2026-04-11T01:43:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260410-federal-judge-blocks-arizona-from-bringing-criminal-charges-against-kalshi.html</loc>
     <lastmod>2026-04-10T23:31:34.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -315,12 +321,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260410-suspect-arrested-after-molotov-cocktail-thrown-at-sam-altmans-san-francisco-home.html</loc>
     <lastmod>2026-04-10T18:44:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260410-coinbase-ceo-backs-us-treasury-secretarys-push-to-pass-clarity-act.html</loc>
-    <lastmod>2026-04-10T18:11:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,12 +451,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260410-cz-quantum-may-break-current-crypto-encryption-but-quantum-proof-algorithms-alre.html</loc>
-    <lastmod>2026-04-10T10:00:46.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260410-operation-atlantic-us-and-uk-team-with-firms-to-trace-freeze-millions-in-stolen-.html</loc>
     <lastmod>2026-04-10T00:01:18.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -501,6 +495,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260409-project-crypto-is-designed-so-once-congress-acts-secgov-cftc-are-ready-to-implem.html</loc>
     <lastmod>2026-04-09T14:53:59.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260409-whale-alert-whale-opens-20x-leveraged-shorts-on-bitcoin-and-ethereum-worth-80m-p.html</loc>
+    <lastmod>2026-04-09T14:40:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
