@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-04-13T10:55:46.090Z",
+  "updatedAt": "2026-04-13T12:09:01.748Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "AI agents are set to power crypto payments, but a hidden flaw could expose wallets",
+      "summary": "Researchers say a largely invisible layer of AI infrastructure can intercept sensitive data and has already been linked to stolen credentials and a $500,000 wallet drain",
+      "url": "https://www.coindesk.com/tech/2026/04/13/ai-agents-are-set-to-power-crypto-payments-but-a-hidden-flaw-could-expose-wallets",
+      "publishedAt": "2026-04-13T11:32:16.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260413-ai-agents-are-set-to-power-crypto-payments-but-a-hidden-flaw-could-expose-wallet",
+      "localUrl": "/news/20260413-ai-agents-are-set-to-power-crypto-payments-but-a-hidden-flaw-could-expose-wallet.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin anchors near $70,000 as RAVE's 3,400% surge signals speculative froth",
+      "summary": "Bitcoin and major cryptocurrencies remain relatively resilient. Surges in some smaller tokens showed there's still froth left in the market.",
+      "url": "https://www.coindesk.com/daybook-us/2026/04/13/bitcoin-anchors-near-usd70-000-as-rave-s-3-400-surge-signals-speculative-froth",
+      "publishedAt": "2026-04-13T11:20:15.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260413-bitcoin-anchors-near-70000-as-raves-3400-surge-signals-speculative-froth",
+      "localUrl": "/news/20260413-bitcoin-anchors-near-70000-as-raves-3400-surge-signals-speculative-froth.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto ETPs see $1.1B inflows, strongest gains since January",
+      "summary": "Crypto ETPs recorded $1.1 billion in inflows last week, led by Bitcoin and US spot ETFs, as easing US inflation data and geopolitical tensions supported demand.",
+      "url": "https://cointelegraph.com/news/crypto-etp-1-1-billion-inflows-strongest-gains-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-13T11:06:51.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260413-crypto-etps-see-11b-inflows-strongest-gains-since-january",
+      "localUrl": "/news/20260413-crypto-etps-see-11b-inflows-strongest-gains-since-january.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Justin Sun presses WLFI to identify wallets behind freeze powers",
+      "summary": "Sun urged the Trump-linked WLFi platform to disclose who controls the multi-sig and smart contract behind the platform, days after its governance token hit a new low.",
+      "url": "https://cointelegraph.com/news/justin-sun-urges-trump-wlfi-disclose-multi-sig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-13T10:52:49.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260413-justin-sun-presses-wlfi-to-identify-wallets-behind-freeze-powers",
+      "localUrl": "/news/20260413-justin-sun-presses-wlfi-to-identify-wallets-behind-freeze-powers.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto markets stall as oil surges past $100 on Strait of Hormuz blockade",
@@ -16,6 +71,21 @@
       "category": "市场",
       "slug": "20260413-crypto-markets-stall-as-oil-surges-past-100-on-strait-of-hormuz-blockade",
       "localUrl": "/news/20260413-crypto-markets-stall-as-oil-surges-past-100-on-strait-of-hormuz-blockade.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bank of Korea calls for stock-style circuit breakers on BTC exchanges",
+      "summary": "Crypto's 24/7 global trading across hundreds of venues makes it difficult for any single country to halt the market.",
+      "url": "https://www.coindesk.com/markets/2026/04/13/bank-of-korea-calls-for-stock-style-circuit-breakers-on-btc-exchanges",
+      "publishedAt": "2026-04-13T10:31:59.000Z",
+      "keywords": [
+        "Markets",
+        "South Korea",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260413-bank-of-korea-calls-for-stock-style-circuit-breakers-on-btc-exchanges",
+      "localUrl": "/news/20260413-bank-of-korea-calls-for-stock-style-circuit-breakers-on-btc-exchanges.html"
     },
     {
       "source": "CoinDesk",
@@ -78,7 +148,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Clarity Act returns to U.S. Senate, Bank earnings: Crypto Week Ahead",
+      "title": "Clarity Act returns to U.S. Senate, bank earnings: Crypto Week Ahead",
       "summary": "Your look at what's coming in the week starting April 13.",
       "url": "https://www.coindesk.com/markets/2026/04/13/clarity-act-returns-to-u-s-senate-bank-earnings-crypto-week-ahead",
       "publishedAt": "2026-04-13T08:18:00.000Z",
@@ -108,6 +178,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Bridge update! An exploit affected one of our Ethereum contracts. We've paused all bridging and advised partners to halt related transactions while the team contains the issue. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zVnN0d3lUbFBiYVBXSDd4U2RxMm1ETXRsRjgyek4zVEtBaXdqM2xTTS04aTZVUHhEVnRHWnRJU213eTU1MjFjQXdnRFFyaVpBSlRsZDZFdFhodVRoRVVUcDln?oc=5\" target=\"_blank\">Bridge update! An exploit affected…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zVnN0d3lUbFBiYVBXSDd4U2RxMm1ETXRsRjgyek4zVEtBaXdqM2xTTS04aTZVUHhEVnRHWnRJU213eTU1MjFjQXdnRFFyaVpBSlRsZDZFdFhodVRoRVVUcDln?oc=5",
+      "publishedAt": "2026-04-13T07:47:21.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260413-bridge-update-an-exploit-affected-one-of-our-ethereum-contracts-weve-paused-all-",
+      "localUrl": "/news/20260413-bridge-update-an-exploit-affected-one-of-our-ethereum-contracts-weve-paused-all-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "We’re aware of an issue affecting @hyperbridge's Ethereum gateway contract. The exploit only affects DOT on Ethereum that is bridged through Hyperbridge and does not affect DOT in the Polkadot ecosystem, or DOT bridged through other bridges. Polkadot, i - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wTXYwdHN1ajNDcF9TUUpVYV9XaXhHZm85elhfMEp3V3piQ0NTS250Q1kzaWZvN3FRdmRuQVdFOVB3Z3hlaUJ1QTJab3BfVk5ETXlfajZCUDBYRmVacVE?oc=5\" target=\"_blank\">We’re aware of an issue affecting @hype…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wTXYwdHN1ajNDcF9TUUpVYV9XaXhHZm85elhfMEp3V3piQ0NTS250Q1kzaWZvN3FRdmRuQVdFOVB3Z3hlaUJ1QTJab3BfVk5ETXlfajZCUDBYRmVacVE?oc=5",
@@ -130,6 +211,17 @@
       "category": "基础设施",
       "slug": "20260413-attacker-mints-1-billion-polkadot-tokens-on-ethereum-ends-up-stealing-just-25000",
       "localUrl": "/news/20260413-attacker-mints-1-billion-polkadot-tokens-on-ethereum-ends-up-stealing-just-25000.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "ALERT: Polkadot's bridged DOT token on Ethereum was just exploited. An attacker just minted 1 BILLION $DOT and sold everything in a single transaction for 108.2 $ETH worth $238K. $DOT dropped 4.8% to $1.15 on the news. No official statement from the t - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KZlVCVjFha2lWMjBKVXMydkhZOUttYXVUMzJkdDFSRTlhU2YyQXd2VW4tLUdCWl9XQmN3dE1CTUhaa3IzT2hTYm9JWjM4UHp2djZHaWRUWU1OR0tkZHhucg?oc=5\" target=\"_blank\">ALERT: Polkadot's bridged DOT token …",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KZlVCVjFha2lWMjBKVXMydkhZOUttYXVUMzJkdDFSRTlhU2YyQXd2VW4tLUdCWl9XQmN3dE1CTUhaa3IzT2hTYm9JWjM4UHp2djZHaWRUWU1OR0tkZHhucg?oc=5",
+      "publishedAt": "2026-04-13T07:07:54.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260413-alert-polkadots-bridged-dot-token-on-ethereum-was-just-exploited-an-attacker-jus",
+      "localUrl": "/news/20260413-alert-polkadots-bridged-dot-token-on-ethereum-was-just-exploited-an-attacker-jus.html"
     },
     {
       "source": "CoinDesk",
@@ -349,6 +441,17 @@
     },
     {
       "source": "X Wire",
+      "title": "This might be the first cycle in crypto history where institutions are in a bull market and retail doesn't even know it. Stablecoins at $319B. Morgan Stanley launched a Bitcoin ETF. Schwab opened a waitlist for spot bitcoin trading. Franklin Templeton announced - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE53bkpBcldTOGdDVFFNNjhPRG5zSXdpNUQ5Q08wazN1VF9SclNtTmxxTnFVTWtCbUJRRURGS1psWV9MYWVwdWFmMlJpTGFTVzNYbHljR054YkV6V2Fyek53ajlLcw?oc=5\" target=\"_blank\">This might be the first cycle in…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53bkpBcldTOGdDVFFNNjhPRG5zSXdpNUQ5Q08wazN1VF9SclNtTmxxTnFVTWtCbUJRRURGS1psWV9MYWVwdWFmMlJpTGFTVzNYbHljR054YkV6V2Fyek53ajlLcw?oc=5",
+      "publishedAt": "2026-04-13T00:14:21.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260413-this-might-be-the-first-cycle-in-crypto-history-where-institutions-are-in-a-bull",
+      "localUrl": "/news/20260413-this-might-be-the-first-cycle-in-crypto-history-where-institutions-are-in-a-bull.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Standard Chartered’s Geoffrey Kendrick explains his $40,000 ETH price target by 2030 “I think a lot of [tradfi activity] happens on Ethereum Layer 1. I think about how BlackRock rolled out BUIDL, for example — all on layer 1 Ethereum… which I think is a more l - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4M1NyRndvWFE4RnZIY0dudjMzN0lldDZDWm04cWQtZGd3SDN4SVp3Z0t6OFgxTkJ0Nlh5V1RqNXV0dm9paGQ1RWFxOEZoUF81NmZac29zdUR1WFlMNXdEZnlWVTdwZw?oc=5\" target=\"_blank\">Standard Chartered’s Geoffre…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4M1NyRndvWFE4RnZIY0dudjMzN0lldDZDWm04cWQtZGd3SDN4SVp3Z0t6OFgxTkJ0Nlh5V1RqNXV0dm9paGQ1RWFxOEZoUF81NmZac29zdUR1WFlMNXdEZnlWVTdwZw?oc=5",
@@ -452,6 +555,17 @@
       "category": "监管",
       "slug": "20260412-cftc-chair-mike-selig-argues-for-agencys-exclusive-regulatory-authority-in-predi",
       "localUrl": "/news/20260412-cftc-chair-mike-selig-argues-for-agencys-exclusive-regulatory-authority-in-predi.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "High Risk, Correlation, Poor Performance - Bitcoin, IBIT The crypto bear market may be in its early days if performance since Bitcoin ETFs began trading in January 2024 is a guide. My graphic shows the flat total return of the iShares Bitcoin Trust ETF (IBIT) vs. t - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE91QVBNWW5hRnd2RXFpX1FQQS1zamNmUEZ2eEQzMDZ2TUVkc3dmc25FSTB1cGloSGhtWnpxQ1k5WTR3Y0ZDS1MyeDdIM0NpNWc2dEZIOU9WaU5UNmlDX2k4VGVhOXg?oc=5\" target=\"_blank\">High Risk, Correlation, Poor Pe…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91QVBNWW5hRnd2RXFpX1FQQS1zamNmUEZ2eEQzMDZ2TUVkc3dmc25FSTB1cGloSGhtWnpxQ1k5WTR3Y0ZDS1MyeDdIM0NpNWc2dEZIOU9WaU5UNmlDX2k4VGVhOXg?oc=5",
+      "publishedAt": "2026-04-12T17:54:18.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260412-high-risk-correlation-poor-performance-bitcoin-ibit-the-crypto-bear-market-may-b",
+      "localUrl": "/news/20260412-high-risk-correlation-poor-performance-bitcoin-ibit-the-crypto-bear-market-may-b.html"
     },
     {
       "source": "CoinDesk",
@@ -585,21 +699,6 @@
       "localUrl": "/news/20260412-bitcoin-slips-below-71000-as-trump-orders-us-to-join-iran-in-blockade-of-strait-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin analysts flag triggers for a massive surge to $88,000 even as war risks linger",
-      "summary": "Key factors, such as ETF flows, macro factors and on-chain supply favor a rally in bitcoin even as war risks linger.",
-      "url": "https://www.coindesk.com/markets/2026/04/12/bitcoin-analysts-flag-triggers-for-a-massive-surge-to-usd88-000-even-as-war-risks-linger",
-      "publishedAt": "2026-04-12T13:21:19.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260412-bitcoin-analysts-flag-triggers-for-a-massive-surge-to-88000-even-as-war-risks-li",
-      "localUrl": "/news/20260412-bitcoin-analysts-flag-triggers-for-a-massive-surge-to-88000-even-as-war-risks-li.html"
-    },
-    {
       "source": "Decrypt",
       "title": "There’s a Way to Make Bitcoin Safe From Quantum Without a Fork, Researchers Say",
       "summary": "A new proposal suggests Bitcoin users could defend against future quantum attacks using a transaction design that works within the network’s existing rules.",
@@ -613,22 +712,6 @@
       "localUrl": "/news/20260412-theres-a-way-to-make-bitcoin-safe-from-quantum-without-a-fork-researchers-say.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Super PAC tied to Tether makes first ad buy from firm founded by Tether's U.S. CEO",
-      "summary": "The Fellowship PAC spent $300,000 with Nxum Group that was co-founded by Bo Hines, the chief of Tether's U.S. arm and former adviser to President Donald Trump.",
-      "url": "https://www.coindesk.com/policy/2026/04/10/super-pac-tied-to-tether-makes-first-ad-buy-from-firm-founded-by-tether-s-u-s-ceo",
-      "publishedAt": "2026-04-12T13:00:00.000Z",
-      "keywords": [
-        "Policy",
-        "Tether",
-        "Donald Trump",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260412-super-pac-tied-to-tether-makes-first-ad-buy-from-firm-founded-by-tethers-us-ceo",
-      "localUrl": "/news/20260412-super-pac-tied-to-tether-makes-first-ad-buy-from-firm-founded-by-tethers-us-ceo.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Banks, corporates in Europe ‘actively selecting partners’ for stablecoin push",
       "summary": "Stablecoin adoption in Europe is shifting from strategy to execution, with demand increasingly driven by real-world needs.",
@@ -640,51 +723,6 @@
       "category": "综合",
       "slug": "20260412-banks-corporates-in-europe-actively-selecting-partners-for-stablecoin-push",
       "localUrl": "/news/20260412-banks-corporates-in-europe-actively-selecting-partners-for-stablecoin-push.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Commodity traders are getting debanked due to Iran war, pushing them to rely on stablecoins",
-      "summary": "As banks retreat from trade finance amid Iran-linked risk fears, non-bank lenders and traders are increasingly turning to stablecoins for settlement, according to Haycen’s Luke Sully.",
-      "url": "https://www.coindesk.com/business/2026/04/12/commodity-traders-are-getting-debanked-due-to-iran-war-pushing-them-to-rely-on-stablecoins",
-      "publishedAt": "2026-04-12T12:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Stablecoins",
-        "Exclusive",
-        "Iran",
-        "Trade Finance",
-        "Commodities",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260412-commodity-traders-are-getting-debanked-due-to-iran-war-pushing-them-to-rely-on-s",
-      "localUrl": "/news/20260412-commodity-traders-are-getting-debanked-due-to-iran-war-pushing-them-to-rely-on-s.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US down to ‘last chance’ to pass CLARITY Act before 2030: Lummis",
-      "summary": "Crypto advocate Senator Cynthia Lummis said the country should not risk its financial future by further delaying the CLARITY Act.",
-      "url": "https://cointelegraph.com/news/us-clarity-act-crypto-regulations-cynthia-lummis-senator?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-12T09:44:46.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260412-us-down-to-last-chance-to-pass-clarity-act-before-2030-lummis",
-      "localUrl": "/news/20260412-us-down-to-last-chance-to-pass-clarity-act-before-2030-lummis.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Polymarket bets removed from Google News after brief appearance: Report",
-      "summary": "Polymarket links briefly appeared under mainstream outlets in Google News results for event-driven queries but were later removed.",
-      "url": "https://cointelegraph.com/news/polymarket-google-news-removed-error-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-12T09:26:41.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260412-polymarket-bets-removed-from-google-news-after-brief-appearance-report",
-      "localUrl": "/news/20260412-polymarket-bets-removed-from-google-news-after-brief-appearance-report.html"
     },
     {
       "source": "X Wire",
@@ -718,17 +756,6 @@
       "category": "X热点",
       "slug": "20260412-bitcoin-has-been-declared-dead-472-times-if-you-invested-1000-every-time-youd-ha",
       "localUrl": "/news/20260412-bitcoin-has-been-declared-dead-472-times-if-you-invested-1000-every-time-youd-ha.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Bitcoin falls under $72,000 after Vice President JD Vance says the US failed to reach a deal with Iran during negotiations in Pakistan. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wSFNZYmxsOG9UNDh1Nm0waXVlY1JlUzNXVFpLNGFGM0VmOU1nRllBbkc2a3pidXZUVEh0dHdQR0dDelZNWlFETUdhUVVaUVhiZ0NfYjVzd1NxWUhXX0M4TnJn?oc=5\" target=\"_blank\">JUST IN: Bitcoin falls under $72,0…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wSFNZYmxsOG9UNDh1Nm0waXVlY1JlUzNXVFpLNGFGM0VmOU1nRllBbkc2a3pidXZUVEh0dHdQR0dDelZNWlFETUdhUVVaUVhiZ0NfYjVzd1NxWUhXX0M4TnJn?oc=5",
-      "publishedAt": "2026-04-12T01:44:28.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260412-just-in-bitcoin-falls-under-72000-after-vice-president-jd-vance-says-the-us-fail",
-      "localUrl": "/news/20260412-just-in-bitcoin-falls-under-72000-after-vice-president-jd-vance-says-the-us-fail.html"
     },
     {
       "source": "X Wire",
@@ -812,28 +839,6 @@
       "category": "综合",
       "slug": "20260411-economists-said-ai-wouldnt-take-jobssome-now-admit-they-got-it-wrong",
       "localUrl": "/news/20260411-economists-said-ai-wouldnt-take-jobssome-now-admit-they-got-it-wrong.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Ethereum is the center of crypto capital. Applications on @ethereum hold ~$310B in user deposits. A chart to follow 👇 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxdUFzcVlqNEptai1ZakhnUTMyeTBkM1dUTVl4QW5xTUFjRGZBU0txRmdtQ1FCUVNGRU1HMW13VWQzOHdzS3ppck5ZZHBSMGRHMDl4UlVJQnNFNE9KYlRKUDlhMi0?oc=5\" target=\"_blank\">Ethereum is the center of crypt…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxdUFzcVlqNEptai1ZakhnUTMyeTBkM1dUTVl4QW5xTUFjRGZBU0txRmdtQ1FCUVNGRU1HMW13VWQzOHdzS3ppck5ZZHBSMGRHMDl4UlVJQnNFNE9KYlRKUDlhMi0?oc=5",
-      "publishedAt": "2026-04-11T11:07:41.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260411-ethereum-is-the-center-of-crypto-capital-applications-on-ethereum-hold-310b-in-u",
-      "localUrl": "/news/20260411-ethereum-is-the-center-of-crypto-capital-applications-on-ethereum-hold-310b-in-u.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "THE ETHEREUM FOUNDATION IS SELLING The Ethereum Foundation just sold 1250 ETH for $2.80M in DAI. The Ethereum Foundation has stopped staking ETH and has started selling ETH. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPWHRYOWttSFBpS0otdVlJcDI0bXY5YmNHMURMX3U1aU1WZEI5V3JSWU9VSzdoaFNubmhuNXdscGVnaVVlV2N6V3JEcTFjLV9jaHBMYnVWWDNEOHM?oc=5\" target=\"_blank\">THE ETHEREUM FOUNDATION IS SELLING The Ethe…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPWHRYOWttSFBpS0otdVlJcDI0bXY5YmNHMURMX3U1aU1WZEI5V3JSWU9VSzdoaFNubmhuNXdscGVnaVVlV2N6V3JEcTFjLV9jaHBMYnVWWDNEOHM?oc=5",
-      "publishedAt": "2026-04-11T03:29:54.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260411-the-ethereum-foundation-is-selling-the-ethereum-foundation-just-sold-1250-eth-fo",
-      "localUrl": "/news/20260411-the-ethereum-foundation-is-selling-the-ethereum-foundation-just-sold-1250-eth-fo.html"
     },
     {
       "source": "X Wire",
@@ -1043,17 +1048,6 @@
       "category": "X热点",
       "slug": "20260410-just-in-japan-approves-bill-that-will-regulate-bitcoin-crypto-as-financial-instr",
       "localUrl": "/news/20260410-just-in-japan-approves-bill-that-will-regulate-bitcoin-crypto-as-financial-instr.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Introducing, #BuildWithYou: Crypto Confession What’s one lesson crypto taught you? 3 simple steps: 👉 Follow @binance + RT this 👉 Share one lesson crypto has taught you with #BuildWithYou 👉 Complete the survey → binance.com/en/survey/b597… Top 20 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE85NWJ1MU15aTI3Y3Y4bHNCX2U2bUwzT0Rrb1dqNjRjeml5N05LaEk1OVFYbGNUZXVOdGdJb3FpMGpKdFpxVWZLalhrUnRkN0p2VmRpdGNrSzBOU2pS?oc=5\" target=\"_blank\">Introducing, #BuildWithYou: Crypto Confess…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85NWJ1MU15aTI3Y3Y4bHNCX2U2bUwzT0Rrb1dqNjRjeml5N05LaEk1OVFYbGNUZXVOdGdJb3FpMGpKdFpxVWZLalhrUnRkN0p2VmRpdGNrSzBOU2pS?oc=5",
-      "publishedAt": "2026-04-10T12:00:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260410-introducing-buildwithyou-crypto-confession-whats-one-lesson-crypto-taught-you-3-",
-      "localUrl": "/news/20260410-introducing-buildwithyou-crypto-confession-whats-one-lesson-crypto-taught-you-3-.html"
     },
     {
       "source": "Decrypt",
