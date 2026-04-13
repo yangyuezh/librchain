@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-12T23:49:29.229Z</lastmod>
+    <lastmod>2026-04-13T03:50:34.225Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-12T23:49:29.229Z</lastmod>
+    <lastmod>2026-04-13T03:50:34.225Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260413-eu-central-bank-backs-plan-for-crypto-supervision-under-eu-markets-watchdog.html</loc>
+    <lastmod>2026-04-13T03:25:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260413-researchers-discover-malicious-ai-agent-routers-that-can-steal-crypto.html</loc>
+    <lastmod>2026-04-13T02:47:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260413-bitcoin-dips-to-706k-oil-rises-after-us-announces-hormuz-blockade.html</loc>
+    <lastmod>2026-04-13T01:48:59.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260412-heres-what-happened-in-crypto-today.html</loc>
@@ -199,6 +217,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260412-bitcoin-has-been-declared-dead-472-times-if-you-invested-1000-every-time-youd-ha.html</loc>
+    <lastmod>2026-04-12T04:17:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260412-just-in-115000000-liquidated-from-the-crypto-market-in-the-past-60-minutes-xcom.html</loc>
     <lastmod>2026-04-12T02:24:47.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -295,6 +319,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260411-is-this-a-real-ethereum-price-prediction-from-vaneck-xcom.html</loc>
+    <lastmod>2026-04-11T16:40:26.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260411-not-going-to-stop-at-bitcoin-morgan-stanley-weighs-tokenization-tax-solutions-in.html</loc>
     <lastmod>2026-04-11T16:33:12.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -339,30 +369,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260411-this-is-perhaps-the-most-respected-technical-line-in-bitcoin-btc-history-for-nea.html</loc>
     <lastmod>2026-04-11T11:35:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260411-trump-linked-wlfi-hits-new-low-as-token-backed-loan-triggers-concern.html</loc>
-    <lastmod>2026-04-11T09:30:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260411-federal-court-blocks-arizona-crackdown-on-kalshis-event-contracts.html</loc>
-    <lastmod>2026-04-11T07:07:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260411-unpopular-opinion-it-doesnt-make-sense-to-call-a-bitcoin-bottom-just-yet-the-4-y.html</loc>
-    <lastmod>2026-04-11T06:47:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260411-bitwise-edges-closer-to-hyperliquid-etf-launch-with-second-amended-filing.html</loc>
-    <lastmod>2026-04-11T05:31:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -471,12 +477,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260410-introducing-buildwithyou-crypto-confession-whats-one-lesson-crypto-taught-you-3-.html</loc>
     <lastmod>2026-04-10T12:00:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260410-lost-in-all-the-fanfare-of-msbt-launching-was-that-the-bitcoin-after-dark-etf-ng.html</loc>
-    <lastmod>2026-04-10T11:56:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
