@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-13T23:00:01.228Z</lastmod>
+    <lastmod>2026-04-13T23:56:37.502Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-13T23:00:01.228Z</lastmod>
+    <lastmod>2026-04-13T23:56:37.502Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260413-just-in-175000000-worth-of-shorts-liquidated-from-the-crypto-market-in-the-past-.html</loc>
+    <lastmod>2026-04-13T23:02:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260413-bitcoin-reclaims-74k-as-spot-etf-demand-clashes-with-btc-miner-sell-pressure.html</loc>
+    <lastmod>2026-04-13T22:48:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260413-broadridge-rolls-out-crypto-tokenized-asset-platform-for-canada-wealth-managers.html</loc>
@@ -307,12 +319,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260413-new-blackrock-is-launching-its-bitcoin-income-etf-ticker-bita-it-sells-call-opti.html</loc>
-    <lastmod>2026-04-13T13:17:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260413-coindesk-20-performance-update-index-falls-29-as-all-constituents-trade-lower.html</loc>
     <lastmod>2026-04-13T13:12:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -361,12 +367,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260413-breaking-michael-saylors-strategy-buys-13927-bitcoin-worth-1-billion-xcom.html</loc>
-    <lastmod>2026-04-13T12:03:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260413-strategy-has-acquired-13927-btc-for-100-billion-at-71902-per-bitcoin-and-has-ach.html</loc>
     <lastmod>2026-04-13T12:02:34.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -409,12 +409,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260413-justin-sun-presses-wlfi-to-identify-wallets-behind-freeze-powers.html</loc>
-    <lastmod>2026-04-13T10:52:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260413-crypto-markets-stall-as-oil-surges-past-100-on-strait-of-hormuz-blockade.html</loc>
     <lastmod>2026-04-13T10:36:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -423,12 +417,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260413-were-aware-of-an-issue-affecting-hyperbridges-ethereum-gateway-contract-the-expl.html</loc>
     <lastmod>2026-04-13T07:37:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260413-alert-bridged-dot-on-ethereum-has-been-exploited-an-attacker-minted-1b-dot-and-d.html</loc>
-    <lastmod>2026-04-13T05:34:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,6 +477,18 @@
   <url>
     <loc>https://www.librchain.com/news/20260411-new-tools-aim-to-make-ai-vibe-coding-safer-for-crypto.html</loc>
     <lastmod>2026-04-11T15:01:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260411-ethereum-is-the-center-of-crypto-capital-applications-on-ethereum-hold-310b-in-u.html</loc>
+    <lastmod>2026-04-11T11:07:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260411-the-ethereum-foundation-is-selling-the-ethereum-foundation-just-sold-1250-eth-fo.html</loc>
+    <lastmod>2026-04-11T03:29:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
