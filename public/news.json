@@ -1,10 +1,88 @@
 {
-  "updatedAt": "2026-04-13T14:55:26.089Z",
+  "updatedAt": "2026-04-13T16:20:53.531Z",
   "total": 82,
   "items": [
     {
+      "source": "Decrypt",
+      "title": "Crypto Hacker Mints $1.1 Billion in Polkadot via Ethereum Bridge, But Can Only Cash Out $237K",
+      "summary": "A hacker exploited a Polkadot bridge, minting $1.1 billion worth of DOT tokens before making a tiny fraction of that tally by selling it.",
+      "url": "https://decrypt.co/364131/crypto-hacker-mints-billion-polkadot-ethereum-bridge-cashes-out-237k",
+      "publishedAt": "2026-04-13T16:09:57.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "安全",
+      "slug": "20260413-crypto-hacker-mints-11-billion-in-polkadot-via-ethereum-bridge-but-can-only-cash",
+      "localUrl": "/news/20260413-crypto-hacker-mints-11-billion-in-polkadot-via-ethereum-bridge-but-can-only-cash.html"
+    },
+    {
       "source": "CoinDesk",
-      "title": "Bitcoin moves off lowest level as worst of weekend fears slip away",
+      "title": "Crypto exchange Kraken targeted in extortion attempt but says there was no breach and no client funds at risk",
+      "summary": "The firm said a criminal group is attempting to extort it over limited insider-related data access incidents affecting about 2,000 accounts. Kraken says it will not pay and is working with law enforcement.",
+      "url": "https://www.coindesk.com/business/2026/04/13/crypto-exchange-kraken-targeted-in-extortion-attempt-but-says-there-was-no-breach-and-no-client-funds-at-risk",
+      "publishedAt": "2026-04-13T15:58:20.000Z",
+      "keywords": [
+        "Finance",
+        "Exclusive",
+        "Hack",
+        "Kraken",
+        "Crime",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260413-crypto-exchange-kraken-targeted-in-extortion-attempt-but-says-there-was-no-breac",
+      "localUrl": "/news/20260413-crypto-exchange-kraken-targeted-in-extortion-attempt-but-says-there-was-no-breac.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle CEO says he won’t freeze USDC without a court order even as hackers walk away with millions",
+      "summary": "Circle defends its hands-off approach to freezing funds as critics point to hundreds of millions in losses tied to delayed action.",
+      "url": "https://www.coindesk.com/business/2026/04/13/circle-ceo-says-he-won-t-freeze-usdc-without-a-court-order-even-as-hackers-walk-away-with-millions",
+      "publishedAt": "2026-04-13T15:37:58.000Z",
+      "keywords": [
+        "Finance",
+        "Circle",
+        "Stablecoins",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260413-circle-ceo-says-he-wont-freeze-usdc-without-a-court-order-even-as-hackers-walk-a",
+      "localUrl": "/news/20260413-circle-ceo-says-he-wont-freeze-usdc-without-a-court-order-even-as-hackers-walk-a.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bankers rebuff White House claim that stablecoin yield doesn't threaten deposits",
+      "summary": "A new study from the American Bankers Association says the White House economists went after the wrong premise in their recent look at the issue.",
+      "url": "https://www.coindesk.com/policy/2026/04/13/bankers-rebuff-white-house-claim-that-stablecoin-yield-doesn-t-threaten-deposits",
+      "publishedAt": "2026-04-13T15:35:11.000Z",
+      "keywords": [
+        "Policy",
+        "White House",
+        "banks",
+        "Stablecoins",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260413-bankers-rebuff-white-house-claim-that-stablecoin-yield-doesnt-threaten-deposits",
+      "localUrl": "/news/20260413-bankers-rebuff-white-house-claim-that-stablecoin-yield-doesnt-threaten-deposits.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Foundry Launches Zcash Mining Pool Alongside Industry-Leading Bitcoin Pool",
+      "summary": "The world's largest Bitcoin mining pool operator expands into the privacy-focused Zcash token with rapid network adoption.",
+      "url": "https://decrypt.co/364124/foundry-launches-zcash-mining-pool-bitcoin",
+      "publishedAt": "2026-04-13T15:21:38.000Z",
+      "keywords": [
+        "zcash",
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260413-foundry-launches-zcash-mining-pool-alongside-industry-leading-bitcoin-pool",
+      "localUrl": "/news/20260413-foundry-launches-zcash-mining-pool-alongside-industry-leading-bitcoin-pool.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin moves off lowest levels as worst of weekend fears slip away",
       "summary": "As the U.S. blockade of the Strait of Hormuz goes into effect, reports say Iran is considering the abandonment of uranium enrichment as a way to end the war.",
       "url": "https://www.coindesk.com/markets/2026/04/13/bitcoin-moves-off-lowest-level-as-worst-of-weekend-fears-slip-away",
       "publishedAt": "2026-04-13T14:53:52.000Z",
@@ -14,8 +92,8 @@
         "News"
       ],
       "category": "市场",
-      "slug": "20260413-bitcoin-moves-off-lowest-level-as-worst-of-weekend-fears-slip-away",
-      "localUrl": "/news/20260413-bitcoin-moves-off-lowest-level-as-worst-of-weekend-fears-slip-away.html"
+      "slug": "20260413-bitcoin-moves-off-lowest-levels-as-worst-of-weekend-fears-slip-away",
+      "localUrl": "/news/20260413-bitcoin-moves-off-lowest-levels-as-worst-of-weekend-fears-slip-away.html"
     },
     {
       "source": "Decrypt",
@@ -66,6 +144,17 @@
       "category": "市场",
       "slug": "20260413-morning-minute-relentless-sellers-war-volatility-keep-bitcoin-down",
       "localUrl": "/news/20260413-morning-minute-relentless-sellers-war-volatility-keep-bitcoin-down.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Michael Saylor's Strategy is estimated to have already bought over 1,391 BTC today via STRC 🤯 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rMXgtMXcyWDlUbXdNeEJ0XzlfRFhtdHZPSkJnLVZsRXZWMm5ZNDliYmZhVGdjUFF3QkNHVkdRWURabHFaZWRZVnJVdllZUFZodEltQVZZdjg4R0hhcG1VWWxpVl9RUkk?oc=5\" target=\"_blank\">JUST IN: Michael Saylor's S…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rMXgtMXcyWDlUbXdNeEJ0XzlfRFhtdHZPSkJnLVZsRXZWMm5ZNDliYmZhVGdjUFF3QkNHVkdRWURabHFaZWRZVnJVdllZUFZodEltQVZZdjg4R0hhcG1VWWxpVl9RUkk?oc=5",
+      "publishedAt": "2026-04-13T14:04:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260413-just-in-michael-saylors-strategy-is-estimated-to-have-already-bought-over-1391-b",
+      "localUrl": "/news/20260413-just-in-michael-saylors-strategy-is-estimated-to-have-already-bought-over-1391-b.html"
     },
     {
       "source": "Cointelegraph",
@@ -125,14 +214,14 @@
     },
     {
       "source": "X Wire",
-      "title": "One of the Trump family’s crypto operation’s biggest investors accused the company of “treating the crypto community as a personal ATM.” - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE56d2hKcXB6WlZqZHBfY1ZvZWRxWTg0NllRejVZek9IZk1OdnpNVUFLYXlWd2pHT093NGJfVkxRRWl5U1R1bFluaXdzLXplVExWczREZXhVcTBwWHREYWY5VHR0czU?oc=5\" target=\"_blank\">One of the Trump family’s crypt…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56d2hKcXB6WlZqZHBfY1ZvZWRxWTg0NllRejVZek9IZk1OdnpNVUFLYXlWd2pHT093NGJfVkxRRWl5U1R1bFluaXdzLXplVExWczREZXhVcTBwWHREYWY5VHR0czU?oc=5",
-      "publishedAt": "2026-04-13T13:21:03.000Z",
+      "title": "SEC Clarifies Certain DeFi UIs Can Operate Without Broker-Dealer Registration The SEC’s Division of Trading and Markets said certain crypto trading interfaces, including DeFi front-ends, wallet extensions, and mobile apps, may operate without broker-dealer - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3cEg2anlJa01tZUt3RW9HTThlN1BOSkNDN3hMTlg4cG1pWkxGdC01NjhvRnl6VTA0QkViQ2ZEVFpxOC1YRWJvNEhmQTRoRTdLeFMtUmFRLV85NWt1Rnoza2F6WQ?oc=5\" target=\"_blank\">SEC Clarifies Certain DeFi UIs C…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3cEg2anlJa01tZUt3RW9HTThlN1BOSkNDN3hMTlg4cG1pWkxGdC01NjhvRnl6VTA0QkViQ2ZEVFpxOC1YRWJvNEhmQTRoRTdLeFMtUmFRLV85NWt1Rnoza2F6WQ?oc=5",
+      "publishedAt": "2026-04-13T13:38:40.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260413-one-of-the-trump-familys-crypto-operations-biggest-investors-accused-the-company",
-      "localUrl": "/news/20260413-one-of-the-trump-familys-crypto-operations-biggest-investors-accused-the-company.html"
+      "slug": "20260413-sec-clarifies-certain-defi-uis-can-operate-without-broker-dealer-registration-th",
+      "localUrl": "/news/20260413-sec-clarifies-certain-defi-uis-can-operate-without-broker-dealer-registration-th.html"
     },
     {
       "source": "CoinDesk",
@@ -310,6 +399,17 @@
       "category": "市场",
       "slug": "20260413-south-korea-says-api-crypto-trading-now-makes-up-30-of-market-report",
       "localUrl": "/news/20260413-south-korea-says-api-crypto-trading-now-makes-up-30-of-market-report.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "RaveDAO's price has surged 3765% in the last 7 days, with major trading volume concentrated in Binance and OKX Futures, exceeding $13 billion. Analysts have described this as a potential “deception tactic” or classic pump-and-dump setup, where the depo - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtbDJxbUJrSkFSTWFIb0Q3R3VVcGFzU1k1VmdTcUZHN3RnWmVobE5WQXVLazZrbG1UcGNzYVE1WVdkaHRWS1FaVVU5a3JyZXY0Z0wyTk9ybUZBZzJVdWtVSlR3Yw?oc=5\" target=\"_blank\">RaveDAO's price has surged 3765%…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtbDJxbUJrSkFSTWFIb0Q3R3VVcGFzU1k1VmdTcUZHN3RnWmVobE5WQXVLazZrbG1UcGNzYVE1WVdkaHRWS1FaVVU5a3JyZXY0Z0wyTk9ybUZBZzJVdWtVSlR3Yw?oc=5",
+      "publishedAt": "2026-04-13T11:43:23.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260413-ravedaos-price-has-surged-3765-in-the-last-7-days-with-major-trading-volume-conc",
+      "localUrl": "/news/20260413-ravedaos-price-has-surged-3765-in-the-last-7-days-with-major-trading-volume-conc.html"
     },
     {
       "source": "CoinDesk",
@@ -511,36 +611,6 @@
       "localUrl": "/news/20260413-attacker-mints-1-billion-polkadot-tokens-on-ethereum-ends-up-stealing-just-25000.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Alameda moves $16 million in Solana's SOL token for possible creditor distribution",
-      "summary": "Alameda unstakes $16 million worth of Solana's SOL token, according to Arkham.",
-      "url": "https://www.coindesk.com/markets/2026/04/13/alameda-moves-usd16-million-in-solana-s-sol-token-for-possible-creditor-distribution",
-      "publishedAt": "2026-04-13T06:58:56.000Z",
-      "keywords": [
-        "Markets",
-        "Solana News",
-        "Sam Bankman-Fried",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260413-alameda-moves-16-million-in-solanas-sol-token-for-possible-creditor-distribution",
-      "localUrl": "/news/20260413-alameda-moves-16-million-in-solanas-sol-token-for-possible-creditor-distribution.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Aave passes landmark vote ending months-long fight over protocol revenue control",
-      "summary": "The proposal directs 100% of application and product revenue back to AAVE token holders, resolving a governance dispute that began when swap fees were quietly redirected away from the DAO treasury in late 2025.",
-      "url": "https://www.coindesk.com/tech/2026/04/13/aave-passes-landmark-vote-ending-months-long-fight-over-who-controls-protocol-revenue",
-      "publishedAt": "2026-04-13T06:46:20.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260413-aave-passes-landmark-vote-ending-months-long-fight-over-protocol-revenue-control",
-      "localUrl": "/news/20260413-aave-passes-landmark-vote-ending-months-long-fight-over-protocol-revenue-control.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "TRUMP whales load up as Mar-a-Lago luncheon approaches",
       "summary": "Large holders are accumulating TRUMP ahead of a Mar-a-Lago event for top token holders, even as the memecoin trades down over 30% since March.",
@@ -591,23 +661,6 @@
       "category": "市场",
       "slug": "20260413-musician-loses-420k-bitcoin-retirement-fund-via-fake-ledger-app",
       "localUrl": "/news/20260413-musician-loses-420k-bitcoin-retirement-fund-via-fake-ledger-app.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "WLFI threatens legal action against Justin Sun after he accuses Trump-linked project of deceptive DeFi deals",
-      "summary": "Trump-backed crypto project says it has ‘contracts’ and ‘evidence’ after Sun accused it of exploiting users.",
-      "url": "https://www.coindesk.com/markets/2026/04/13/see-you-in-court-wlfi-threatens-justin-sun-as-feud-over-usd75-million-defi-loan-escalates",
-      "publishedAt": "2026-04-13T05:56:30.000Z",
-      "keywords": [
-        "Markets",
-        "Trump",
-        "Donald Trump",
-        "Tron",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260413-wlfi-threatens-legal-action-against-justin-sun-after-he-accuses-trump-linked-pro",
-      "localUrl": "/news/20260413-wlfi-threatens-legal-action-against-justin-sun-after-he-accuses-trump-linked-pro.html"
     },
     {
       "source": "X Wire",
@@ -779,28 +832,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Bitcoin has been declared dead 472 times. If you invested $1,000 every time, you’d have over $75M today. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wN0hscGhyOGI3TDk1QWNFdUx1UzFBc2IzcXBpRWY0X0ZWTFdVVnpveGRhcTBNcE9FRUd2Qk5MRTRZUmJjVElyajUwbHYyMlNRX1dCZlRBUzkxOW9OSk5fZ0ZBd1NyUQ?oc=5\" target=\"_blank\">Bitcoin has been declared de…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wN0hscGhyOGI3TDk1QWNFdUx1UzFBc2IzcXBpRWY0X0ZWTFdVVnpveGRhcTBNcE9FRUd2Qk5MRTRZUmJjVElyajUwbHYyMlNRX1dCZlRBUzkxOW9OSk5fZ0ZBd1NyUQ?oc=5",
-      "publishedAt": "2026-04-12T04:17:41.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260412-bitcoin-has-been-declared-dead-472-times-if-you-invested-1000-every-time-youd-ha",
-      "localUrl": "/news/20260412-bitcoin-has-been-declared-dead-472-times-if-you-invested-1000-every-time-youd-ha.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "⚡ INTERESTING: Bitcoin's whitepaper is on Wall Street. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE92LWExSEo0MkZ2NFBtTDI4dEprVGY3c0pnUmJSU1ZicTZHRDdGemJxUW1EMmlyLUhSbjVvek9KU0tXTktrcE1sMFMtY3kzYzUyQU5PRWFoNnExSGFqSThqcWFQdVU?oc=5\" target=\"_blank\">⚡ INTERESTING: Bitcoin's whitep…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92LWExSEo0MkZ2NFBtTDI4dEprVGY3c0pnUmJSU1ZicTZHRDdGemJxUW1EMmlyLUhSbjVvek9KU0tXTktrcE1sMFMtY3kzYzUyQU5PRWFoNnExSGFqSThqcWFQdVU?oc=5",
-      "publishedAt": "2026-04-11T21:30:05.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260411-interesting-bitcoins-whitepaper-is-on-wall-street-xcom",
-      "localUrl": "/news/20260411-interesting-bitcoins-whitepaper-is-on-wall-street-xcom.html"
-    },
-    {
-      "source": "X Wire",
       "title": "JUST IN: Bitcoin pumping above $73,700, nearing $74,000 👀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFclpSbnkzeW9JOGFydEE1NXRMLU4zajZXaWczMmZZOGd5SW9SQlFSdTB5dVd3eUZVOWpMV3NvOGhIc1NHNXplcjNXWEZVVnQxakJYbFo2LU1TSm1IeW1KQWliTWJrQW8?oc=5\" target=\"_blank\">JUST IN: Bitcoin pumping ab…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFclpSbnkzeW9JOGFydEE1NXRMLU4zajZXaWczMmZZOGd5SW9SQlFSdTB5dVd3eUZVOWpMV3NvOGhIc1NHNXplcjNXWEZVVnQxakJYbFo2LU1TSm1IeW1KQWliTWJrQW8?oc=5",
@@ -920,17 +951,6 @@
       "localUrl": "/news/20260410-suspect-arrested-after-molotov-cocktail-thrown-at-sam-altmans-san-francisco-home.html"
     },
     {
-      "source": "X Wire",
-      "title": "NEW: Investment bank giant TD Cowen predicts Bitcoin to hit $140,000 this year and issues \"BUY\" rating for BTC treasury companies Nakamoto and Strive. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WMjlwNlJIVVNOMmFuVW5QQkpIb213RVVkOVliOVlfOTZVYWxKQm9xNG5tOWRSODZXT2FySWtlZm8xN3hqcDg4cFJIOUN4c1VxSjJoR0VwTllBZkhuY3hNNjNFNzJTbGM?oc=5\" target=\"_blank\">NEW: Investment bank giant …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WMjlwNlJIVVNOMmFuVW5QQkpIb213RVVkOVliOVlfOTZVYWxKQm9xNG5tOWRSODZXT2FySWtlZm8xN3hqcDg4cFJIOUN4c1VxSjJoR0VwTllBZkhuY3hNNjNFNzJTbGM?oc=5",
-      "publishedAt": "2026-04-10T18:06:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260410-new-investment-bank-giant-td-cowen-predicts-bitcoin-to-hit-140000-this-year-and-",
-      "localUrl": "/news/20260410-new-investment-bank-giant-td-cowen-predicts-bitcoin-to-hit-140000-this-year-and-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Gen Z Thinks AI Is Rotting Their Brains, But Can't Stop Using It: Survey",
       "summary": "AI usage among Gen Z is up, but excitement over the technology is way down—so are feelings of “hopefulness.”",
@@ -981,6 +1001,17 @@
       "category": "监管",
       "slug": "20260410-elon-musks-xai-sues-colorado-over-ai-law-as-fight-over-state-regulation-intensif",
       "localUrl": "/news/20260410-elon-musks-xai-sues-colorado-over-ai-law-as-fight-over-state-regulation-intensif.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Senator Lummis calls for Congress to pass crypto market structure legislation. \"This is our last chance to pass the Clarity Act until at least 2030.\" - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE13RDRHODVGb2ZXQUs4N2pmM2pydkFjXy1POXZGb2RTNEhvdVE1ZkpaSVptTDBtN2JMaFNHMkFqejFIaGQ1SUFCSFMyOXFXNHEzcmkwRkplVzY3cGdKekdzS0pn?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Senator Lummis calls…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13RDRHODVGb2ZXQUs4N2pmM2pydkFjXy1POXZGb2RTNEhvdVE1ZkpaSVptTDBtN2JMaFNHMkFqejFIaGQ1SUFCSFMyOXFXNHEzcmkwRkplVzY3cGdKekdzS0pn?oc=5",
+      "publishedAt": "2026-04-10T16:49:08.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260410-just-in-senator-lummis-calls-for-congress-to-pass-crypto-market-structure-legisl",
+      "localUrl": "/news/20260410-just-in-senator-lummis-calls-for-congress-to-pass-crypto-market-structure-legisl.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -1053,32 +1084,6 @@
       "category": "基础设施",
       "slug": "20260410-trump-linked-wlfi-erases-427-million-from-market-cap-on-defi-loan-token-unlock-p",
       "localUrl": "/news/20260410-trump-linked-wlfi-erases-427-million-from-market-cap-on-defi-loan-token-unlock-p.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "BitTensor AI Token Plunges as Top Builder Departs Over Decentralization Doubts",
-      "summary": "BitTensor's native token, TAO, has fallen more than 18% amid public fallout between a leading subnet operator and the AI network's founder.",
-      "url": "https://decrypt.co/363926/bittensor-token-plunges-builder-departs-decentralization-doubts",
-      "publishedAt": "2026-04-10T15:30:44.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260410-bittensor-ai-token-plunges-as-top-builder-departs-over-decentralization-doubts",
-      "localUrl": "/news/20260410-bittensor-ai-token-plunges-as-top-builder-departs-over-decentralization-doubts.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Bitcoin Breaks $73K as Strategy's STRC Bid Grows",
-      "summary": "Strategy's STRC is buoying the Bitcoin bid, Galaxy stock is ripping, and Scott Bessent told the Senate to pass the Clarity Act—with Brian Armstrong chiming in.",
-      "url": "https://decrypt.co/363923/morning-minute-bitcoin-breaks-73k-strategy-strc-bid-grows",
-      "publishedAt": "2026-04-10T14:04:43.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "市场",
-      "slug": "20260410-morning-minute-bitcoin-breaks-73k-as-strategys-strc-bid-grows",
-      "localUrl": "/news/20260410-morning-minute-bitcoin-breaks-73k-as-strategys-strc-bid-grows.html"
     },
     {
       "source": "Ethereum Blog",
