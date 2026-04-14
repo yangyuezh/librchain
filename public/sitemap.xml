@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-14T21:05:29.054Z</lastmod>
+    <lastmod>2026-04-14T22:04:09.914Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-14T21:05:29.054Z</lastmod>
+    <lastmod>2026-04-14T22:04:09.914Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260414-ethereum-defi-exchange-cow-swap-pauses-protocol-following-website-compromise.html</loc>
+    <lastmod>2026-04-14T21:37:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260414-visa-joins-stripes-tempo-payments-network-as-anchor-validator.html</loc>
@@ -385,12 +391,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260414-rns-announcement-bitcoin-purchase-the-smarter-web-company-announces-the-purchase.html</loc>
-    <lastmod>2026-04-14T06:00:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260414-just-in-x-head-of-product-nikita-bier-says-crypto-has-had-a-rough-year-maybe-we-.html</loc>
     <lastmod>2026-04-14T03:38:17.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -399,6 +399,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260414-crypto-has-had-a-rough-year-maybe-we-should-launch-something-to-fix-it-xcom.html</loc>
     <lastmod>2026-04-14T03:27:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260413-bitcoin-breaks-out-above-the-post-october-high-resistance-retest-of-90k-next-xco.html</loc>
+    <lastmod>2026-04-13T23:01:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -435,12 +441,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260413-minimax-drops-state-of-the-art-ai-agent-modelthen-quietly-changes-the-license.html</loc>
     <lastmod>2026-04-13T20:24:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260413-new-pro-defi-policies-show-the-sec-isnt-waiting-for-congress-to-act-on-crypto.html</loc>
-    <lastmod>2026-04-13T20:18:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
