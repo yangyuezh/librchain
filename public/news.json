@@ -1,10 +1,91 @@
 {
-  "updatedAt": "2026-04-14T19:39:13.714Z",
+  "updatedAt": "2026-04-14T21:05:29.014Z",
   "total": 80,
   "items": [
     {
+      "source": "Decrypt",
+      "title": "Visa Joins Stripe's Tempo Payments Network as 'Anchor' Validator",
+      "summary": "Visa joins Stripe and Zodia Custody by Standard Chartered as the first external validators for the Stripe-backed Tempo blockchain.",
+      "url": "https://decrypt.co/364369/visa-backs-stripes-tempo-payments-network-anchor-validator",
+      "publishedAt": "2026-04-14T20:26:14.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "综合",
+      "slug": "20260414-visa-joins-stripes-tempo-payments-network-as-anchor-validator",
+      "localUrl": "/news/20260414-visa-joins-stripes-tempo-payments-network-as-anchor-validator.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "DAO behind CoW Swap urges users to stay off platform after ‘hijacking‘",
+      "summary": "The decentralized exchange aggregator said users should refrain from visiting its website after a frontend exploit.",
+      "url": "https://cointelegraph.com/news/cow-swap-dao-domain-hijacking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-14T20:14:59.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260414-dao-behind-cow-swap-urges-users-to-stay-off-platform-after-hijacking",
+      "localUrl": "/news/20260414-dao-behind-cow-swap-urges-users-to-stay-off-platform-after-hijacking.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "HYPE hits 2026 high as Hyperliquid volumes soar: Is the rally sustainable?",
+      "summary": "HYPE's price soared to $45, but data show weak spot volumes and rising leverage use as signs that market momentum may fade.",
+      "url": "https://cointelegraph.com/news/hype-hits-2026-high-as-hyperliquid-volumes-soar-is-the-rally-sustainable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-14T20:14:59.000Z",
+      "keywords": [
+        "Market Analysis"
+      ],
+      "category": "市场",
+      "slug": "20260414-hype-hits-2026-high-as-hyperliquid-volumes-soar-is-the-rally-sustainable",
+      "localUrl": "/news/20260414-hype-hits-2026-high-as-hyperliquid-volumes-soar-is-the-rally-sustainable.html"
+    },
+    {
       "source": "CoinDesk",
-      "title": "The next Fed chair has crypto exposure in portfolio. Here are the details",
+      "title": "Bitcoin's $76,000 breakout fails but a rare signal is hinting at major market bottom",
+      "summary": "Derivatives funding rates have now remained negative for 46 days, a streak last seen following the FTX crash which marked the bottom of 2022's crypto winter.",
+      "url": "https://www.coindesk.com/markets/2026/04/14/bitcoin-usd75-000-breakout-fails-but-a-rare-signal-is-hinting-at-major-market-bottom",
+      "publishedAt": "2026-04-14T20:09:28.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Derivatives",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260414-bitcoins-76000-breakout-fails-but-a-rare-signal-is-hinting-at-major-market-botto",
+      "localUrl": "/news/20260414-bitcoins-76000-breakout-fails-but-a-rare-signal-is-hinting-at-major-market-botto.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Federal Reserve chair nominee's disclosure includes crypto and AI holdings",
+      "summary": "Kevin Warsh did not include the value of several crypto and AI investments among his disclosures as he awaits his confirmation hearing before the Senate Banking Committee.",
+      "url": "https://cointelegraph.com/news/federal-reserve-chair-nominee-discloses-holdings-in-crypto-and-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-14T19:55:56.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260414-federal-reserve-chair-nominees-disclosure-includes-crypto-and-ai-holdings",
+      "localUrl": "/news/20260414-federal-reserve-chair-nominees-disclosure-includes-crypto-and-ai-holdings.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Goldman Sachs to use options strategy for planned Bitcoin income ETF",
+      "summary": "The proposed fund would invest in Bitcoin ETPs and sell call options to generate income while limiting exposure to price swings.",
+      "url": "https://cointelegraph.com/news/goldman-sachs-files-for-bitcoin-income-etf-using-options-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-14T19:27:54.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260414-goldman-sachs-to-use-options-strategy-for-planned-bitcoin-income-etf",
+      "localUrl": "/news/20260414-goldman-sachs-to-use-options-strategy-for-planned-bitcoin-income-etf.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The next Fed chair has crypto exposure in his portfolio. Here are the details",
       "summary": "Kevin Warsh's financial disclosure reveals stakes in DeFi protocols, Ethereum scaling networks, a Bitcoin Lightning startup, and prediction markets — all of which he's promised to sell.",
       "url": "https://www.coindesk.com/policy/2026/04/14/the-next-fed-chair-has-a-crypto-portfolio-here-s-everything-that-s-in-it",
       "publishedAt": "2026-04-14T18:57:56.000Z",
@@ -13,8 +94,8 @@
         "News"
       ],
       "category": "监管",
-      "slug": "20260414-the-next-fed-chair-has-crypto-exposure-in-portfolio-here-are-the-details",
-      "localUrl": "/news/20260414-the-next-fed-chair-has-crypto-exposure-in-portfolio-here-are-the-details.html"
+      "slug": "20260414-the-next-fed-chair-has-crypto-exposure-in-his-portfolio-here-are-the-details",
+      "localUrl": "/news/20260414-the-next-fed-chair-has-crypto-exposure-in-his-portfolio-here-are-the-details.html"
     },
     {
       "source": "CoinDesk",
@@ -215,19 +296,6 @@
       "category": "监管",
       "slug": "20260414-what-is-hermes-the-self-improving-ai-agent-coming-for-openclaw",
       "localUrl": "/news/20260414-what-is-hermes-the-self-improving-ai-agent-coming-for-openclaw.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Federal Reserve chair nominee's disclosure includes crypto and AI holdings",
-      "summary": "Kevin Warsh did not include the value of several crypto and AI investments among his disclosures as he awaits his confirmation hearing before the Senate Banking Committee.",
-      "url": "https://cointelegraph.com/news/federal-reserve-chair-nominee-discloses-holdings-in-crypto-and-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-14T15:37:27.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260414-federal-reserve-chair-nominees-disclosure-includes-crypto-and-ai-holdings",
-      "localUrl": "/news/20260414-federal-reserve-chair-nominees-disclosure-includes-crypto-and-ai-holdings.html"
     },
     {
       "source": "Decrypt",
@@ -710,21 +778,6 @@
       "localUrl": "/news/20260414-onecoin-victims-get-a-40-million-lifeline-more-than-a-decade-after-the-scam-bega.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "A fake Ledger app on the Apple App Store drained $9.5 million in crypto",
-      "summary": "A malicious Ledger Live clone slipped onto Apple’s App Store, draining millions from dozens of victims across multiple blockchains in a week-long phishing campaign.",
-      "url": "https://www.coindesk.com/business/2026/04/14/a-fake-ledger-app-on-the-apple-app-store-just-drained-usd9-5-million-in-crypto",
-      "publishedAt": "2026-04-14T11:12:37.000Z",
-      "keywords": [
-        "Finance",
-        "Hack",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260414-a-fake-ledger-app-on-the-apple-app-store-drained-95-million-in-crypto",
-      "localUrl": "/news/20260414-a-fake-ledger-app-on-the-apple-app-store-drained-95-million-in-crypto.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin Nears $75K As Risk-on Sentiment, Geopolitical Landscape Improves",
       "summary": "Bitcoin’s push towards $75K comes amid declining bearish options flow and spot buying, with analysts leaning slightly bullish.",
@@ -790,30 +843,15 @@
       "localUrl": "/news/20260414-web3-hacks-cost-482m-in-q1-as-phishing-drove-majority-of-losses-hacken.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "UK Liberal Democrats call for Farage probe in $2.7M Stack BTC promotion",
-      "summary": "UK Liberal Democrats called on the FCA to examine Nigel Farage’s promotion of Stack BTC as scrutiny grows over crypto conflicts and political donations.",
-      "url": "https://cointelegraph.com/news/uk-lib-dems-fca-probe-farage-stack-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-14T08:32:25.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260414-uk-liberal-democrats-call-for-farage-probe-in-27m-stack-btc-promotion",
-      "localUrl": "/news/20260414-uk-liberal-democrats-call-for-farage-probe-in-27m-stack-btc-promotion.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US Justice Department opens compensation for victims of $4B OneCoin crypto fraud",
-      "summary": "OneCoin was launched by Ruja Ignatova and Karl Sebastian Greenwood in Bulgaria. Ignatova has been missing since 2017, and Greenwood was sentenced to 20 years in prison.",
-      "url": "https://cointelegraph.com/news/doj-onecoin-compensation-victims-crypto-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-14T06:05:49.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260414-us-justice-department-opens-compensation-for-victims-of-4b-onecoin-crypto-fraud",
-      "localUrl": "/news/20260414-us-justice-department-opens-compensation-for-victims-of-4b-onecoin-crypto-fraud.html"
+      "source": "X Wire",
+      "title": "THIS CAT IS LONG $7.45 MILLION OF CRYPTO This cat CL207 is currently up $709,000 longing BTC, ETH, HYPE, MON and PEPE. He’s up $1.27M in the last week. Will his streak continue? - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGRDdKa3RoZnRFQThBVzI2cWsxdXZSblJfRzBvTmZMVXRVX2FrYWlSY3pXRE1ZU0I1dldtSmoyeHg3a3RHNWFMaV9mODdXRUEtZkQ0djFqekZmLTg?oc=5\" target=\"_blank\">THIS CAT IS LONG $7.45 MILLION OF CRYPTO Th…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGRDdKa3RoZnRFQThBVzI2cWsxdXZSblJfRzBvTmZMVXRVX2FrYWlSY3pXRE1ZU0I1dldtSmoyeHg3a3RHNWFMaV9mODdXRUEtZkQ0djFqekZmLTg?oc=5",
+      "publishedAt": "2026-04-14T07:09:13.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260414-this-cat-is-long-745-million-of-crypto-this-cat-cl207-is-currently-up-709000-lon",
+      "localUrl": "/news/20260414-this-cat-is-long-745-million-of-crypto-this-cat-cl207-is-currently-up-709000-lon.html"
     },
     {
       "source": "X Wire",
@@ -825,19 +863,6 @@
       "category": "X热点",
       "slug": "20260414-rns-announcement-bitcoin-purchase-the-smarter-web-company-announces-the-purchase",
       "localUrl": "/news/20260414-rns-announcement-bitcoin-purchase-the-smarter-web-company-announces-the-purchase.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin bears eye $50K bottom as analysts claim final flush still to come",
-      "summary": "Bitcoin falling to the $50,000 level is being seen as the “last significant accumulation zone” before any sustained recovery, says LVRG Research director Nick Ruck.",
-      "url": "https://cointelegraph.com/news/analysts-still-see-final-flush-to-50k-despite-current-market-hopium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-14T05:41:03.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260414-bitcoin-bears-eye-50k-bottom-as-analysts-claim-final-flush-still-to-come",
-      "localUrl": "/news/20260414-bitcoin-bears-eye-50k-bottom-as-analysts-claim-final-flush-still-to-come.html"
     },
     {
       "source": "X Wire",
@@ -860,17 +885,6 @@
       "category": "X热点",
       "slug": "20260414-crypto-has-had-a-rough-year-maybe-we-should-launch-something-to-fix-it-xcom",
       "localUrl": "/news/20260414-crypto-has-had-a-rough-year-maybe-we-should-launch-something-to-fix-it-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin breaks out above the post-October high resistance. Retest of $90K next - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMRWZmbUc4VXJqVE5rTGZpYkNPVW94VWhqakFiVmVNNU9HVF9lZzc4TVV2cDhUWVE3NU1NQkZRZ3lKQm5ZQnNuQzdCQnV3MkV6NkplQ1R0T2s4YkZUTTZB?oc=5\" target=\"_blank\">Bitcoin breaks out above the post-Octo…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMRWZmbUc4VXJqVE5rTGZpYkNPVW94VWhqakFiVmVNNU9HVF9lZzc4TVV2cDhUWVE3NU1NQkZRZ3lKQm5ZQnNuQzdCQnV3MkV6NkplQ1R0T2s4YkZUTTZB?oc=5",
-      "publishedAt": "2026-04-13T23:01:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260413-bitcoin-breaks-out-above-the-post-october-high-resistance-retest-of-90k-next-xco",
-      "localUrl": "/news/20260413-bitcoin-breaks-out-above-the-post-october-high-resistance-retest-of-90k-next-xco.html"
     },
     {
       "source": "X Wire",
@@ -971,19 +985,6 @@
       "localUrl": "/news/20260413-just-in-bitcoin-pumps-back-above-73007-xcom.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Polymarket Trader Turns $500 Into $252K After UFC Makes Yet Another Scoring Error",
-      "summary": "A Polymarket trader walked away with $252,000 in profits after taking advantage of the UFC’s latest “scoring error.”",
-      "url": "https://decrypt.co/364143/polymarket-trader-turns-500-250k-ufc-scoring-error",
-      "publishedAt": "2026-04-13T18:19:49.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260413-polymarket-trader-turns-500-into-252k-after-ufc-makes-yet-another-scoring-error",
-      "localUrl": "/news/20260413-polymarket-trader-turns-500-into-252k-after-ufc-makes-yet-another-scoring-error.html"
-    },
-    {
       "source": "X Wire",
       "title": "NEW 🚨: As part of Project Crypto, the Division of Trading and Markets issued a staff statement providing its views on broker-dealer registration requirements in connection with certain interfaces used to prepare transactions in crypto asset securities. ow.ly/fiGs5 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE96Z1FTRFI5RDVlOHBmOE5YV1dGNGNWTjZSTHdOWW5XeUFQV0FkLThTQUliZXctWU9iemlNZW1weVdzVzJDZnU3YzliUl9QR3h3WWRJT2pYUVRFR3M?oc=5\" target=\"_blank\">NEW 🚨: As part of Project Crypto, the Divi…",
@@ -1018,17 +1019,6 @@
     },
     {
       "source": "X Wire",
-      "title": "SEC Clarifies Certain DeFi UIs Can Operate Without Broker-Dealer Registration The SEC’s Division of Trading and Markets said certain crypto trading interfaces, including DeFi front-ends, wallet extensions, and mobile apps, may operate without broker-dealer - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3cEg2anlJa01tZUt3RW9HTThlN1BOSkNDN3hMTlg4cG1pWkxGdC01NjhvRnl6VTA0QkViQ2ZEVFpxOC1YRWJvNEhmQTRoRTdLeFMtUmFRLV85NWt1Rnoza2F6WQ?oc=5\" target=\"_blank\">SEC Clarifies Certain DeFi UIs C…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3cEg2anlJa01tZUt3RW9HTThlN1BOSkNDN3hMTlg4cG1pWkxGdC01NjhvRnl6VTA0QkViQ2ZEVFpxOC1YRWJvNEhmQTRoRTdLeFMtUmFRLV85NWt1Rnoza2F6WQ?oc=5",
-      "publishedAt": "2026-04-13T13:38:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260413-sec-clarifies-certain-defi-uis-can-operate-without-broker-dealer-registration-th",
-      "localUrl": "/news/20260413-sec-clarifies-certain-defi-uis-can-operate-without-broker-dealer-registration-th.html"
-    },
-    {
-      "source": "X Wire",
       "title": "JUST IN: Michael Saylor's Strategy announces it bought 13,927 bitcoin for $1 billion! 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aMTRsTkhGRU9DU1VscmlGQUkzaTVYY1lxRU9SUmZRNnJtWDVRRE9xVXRpTXFTYUVIYW00cDRKdXA4OXU3WFY5R0p1aUVqM0dDSmNYZG85cXJRUm5OOXpHLWtvNFNEMG8?oc=5\" target=\"_blank\">JUST IN: Michael Saylor's S…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aMTRsTkhGRU9DU1VscmlGQUkzaTVYY1lxRU9SUmZRNnJtWDVRRE9xVXRpTXFTYUVIYW00cDRKdXA4OXU3WFY5R0p1aUVqM0dDSmNYZG85cXJRUm5OOXpHLWtvNFNEMG8?oc=5",
@@ -1048,6 +1038,17 @@
       "category": "X热点",
       "slug": "20260413-strategy-has-acquired-13927-btc-for-100-billion-at-71902-per-bitcoin-and-has-ach",
       "localUrl": "/news/20260413-strategy-has-acquired-13927-btc-for-100-billion-at-71902-per-bitcoin-and-has-ach.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BITCOIN WEAKENS AS US–IRAN TALKS COLLAPSE Bitcoin remains under pressure after U.S.–Iran peace talks failed. Donald Trump announced a blockade on vessels tied to Iranian ports, raising fears of disruption at a key energy chokepoint. Analysts say r - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjU21lU3QtZTh2eThmQV9JdkFIME1kN1NOSVBRcWRfWVJCb2YtQXdRRmpzdVhEeFZNbkoxNkV4QnNuNlJjYkMyajM3c1JmTEUtNEFWZkFPMWxXbjVqZWc?oc=5\" target=\"_blank\">BITCOIN WEAKENS AS US–IRAN TALKS COLLAP…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjU21lU3QtZTh2eThmQV9JdkFIME1kN1NOSVBRcWRfWVJCb2YtQXdRRmpzdVhEeFZNbkoxNkV4QnNuNlJjYkMyajM3c1JmTEUtNEFWZkFPMWxXbjVqZWc?oc=5",
+      "publishedAt": "2026-04-13T11:57:17.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260413-bitcoin-weakens-as-usiran-talks-collapse-bitcoin-remains-under-pressure-after-us",
+      "localUrl": "/news/20260413-bitcoin-weakens-as-usiran-talks-collapse-bitcoin-remains-under-pressure-after-us.html"
     },
     {
       "source": "X Wire",
