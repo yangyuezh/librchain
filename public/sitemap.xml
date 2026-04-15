@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-15T22:02:27.417Z</lastmod>
+    <lastmod>2026-04-15T22:59:10.432Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-15T22:02:27.417Z</lastmod>
+    <lastmod>2026-04-15T22:59:10.432Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260415-bitcoin-capped-at-75000-as-nasdaq-and-sp-500-fly-to-new-record-highs.html</loc>
+    <lastmod>2026-04-15T22:57:59.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260415-justin-sun-blasts-trump-linked-wlfis-absurd-governance-vote-escalating-feud.html</loc>
+    <lastmod>2026-04-15T22:17:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260415-ether-open-interest-sees-26-increase-as-markets-rally-are-traders-into-eth-again.html</loc>
+    <lastmod>2026-04-15T22:15:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260415-crypto-pac-fellowship-discloses-11m-from-cantor-fitzgerald-and-anchorage-digital.html</loc>
@@ -45,6 +63,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260415-bitnomial-launches-injective-futures-in-us-with-eyes-on-etf-eligibility.html</loc>
     <lastmod>2026-04-15T21:13:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260415-just-in-popular-chinese-commentator-professor-jiang-claims-bitcoin-is-a-cia-oper.html</loc>
+    <lastmod>2026-04-15T20:55:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -271,6 +295,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260415-cz-lasting-crypto-narratives-are-backed-by-real-activity-strong-developer-ecosys.html</loc>
+    <lastmod>2026-04-15T13:40:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260415-terawulf-stock-declines-on-900-million-share-sale-to-fund-ai-data-center-expansi.html</loc>
     <lastmod>2026-04-15T13:34:29.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -337,12 +367,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260415-fireblocks-launches-tool-for-institutions-to-earn-yield-on-stablecoins.html</loc>
-    <lastmod>2026-04-15T11:39:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260415-virginia-governor-signs-law-protecting-dormant-crypto-from-forced-liquidation.html</loc>
     <lastmod>2026-04-15T11:13:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -373,18 +397,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260415-a-new-class-of-crypto-treasury-companies-is-forming-around-strategys-high-yield-.html</loc>
-    <lastmod>2026-04-15T09:48:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260415-why-this-ex-solana-exec-is-using-a-wall-street-trick-to-level-the-playing-field-.html</loc>
-    <lastmod>2026-04-15T09:47:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260415-morgan-stanley-is-buying-bitcoin-morgan-stanley-is-now-on-arkham-the-msbt-etf-ha.html</loc>
     <lastmod>2026-04-15T08:32:39.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -409,8 +421,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260415-breaking-a-whale-has-opened-a-19878000-btc-long-with-20x-leverage-if-btc-drops-t.html</loc>
+    <lastmod>2026-04-15T06:51:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260415-bmnr-the-largest-ethereum-treasury-company-reported-a-net-loss-of-382-billion-in.html</loc>
     <lastmod>2026-04-15T04:52:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260415-latest-ethereum-foundation-launches-a-1m-security-subsidy-program-covering-up-to.html</loc>
+    <lastmod>2026-04-15T02:20:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -445,44 +469,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260414-shock-goldman-jumping-into-the-bitcoin-etf-game-with-a-filing-for-a-bitcoin-prem.html</loc>
+    <lastmod>2026-04-14T14:58:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260414-about-45-of-gen-z-and-millennial-investors-own-crypto-only-18-of-gen-x-and-baby-.html</loc>
     <lastmod>2026-04-14T14:02:23.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260414-7438177-bitcoin-xcom.html</loc>
-    <lastmod>2026-04-14T12:44:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260414-rns-announcement-bitcoin-purchase-the-smarter-web-company-announces-the-purchase.html</loc>
-    <lastmod>2026-04-14T06:00:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260414-crypto-has-had-a-rough-year-maybe-we-should-launch-something-to-fix-it-xcom.html</loc>
     <lastmod>2026-04-14T03:27:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260413-just-in-bitcoin-pumps-back-above-73007-xcom.html</loc>
-    <lastmod>2026-04-13T19:31:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260413-from-privacy-breakthroughs-to-ai-agents-and-institutional-rails-the-ethereum-eco.html</loc>
-    <lastmod>2026-04-13T16:09:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260413-just-in-michael-saylors-strategy-announces-it-bought-13927-bitcoin-for-1-billion.html</loc>
-    <lastmod>2026-04-13T12:04:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
