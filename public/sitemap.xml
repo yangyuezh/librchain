@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-15T22:59:10.432Z</lastmod>
+    <lastmod>2026-04-15T23:56:38.625Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-15T22:59:10.432Z</lastmod>
+    <lastmod>2026-04-15T23:56:38.625Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260415-solana-policy-institute-backed-pac-spends-millions-to-jam-sherrod-browns-senate-.html</loc>
+    <lastmod>2026-04-15T23:08:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260415-bitcoin-capped-at-75000-as-nasdaq-and-sp-500-fly-to-new-record-highs.html</loc>
@@ -385,12 +391,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260415-the-100-debt-trap-why-the-imfs-latest-warning-is-a-massive-long-term-signal-for-.html</loc>
-    <lastmod>2026-04-15T10:38:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260415-this-bear-market-wont-go-to-30k-for-bitcoin-the-current-market-sentiment-has-see.html</loc>
     <lastmod>2026-04-15T10:31:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -469,12 +469,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260414-shock-goldman-jumping-into-the-bitcoin-etf-game-with-a-filing-for-a-bitcoin-prem.html</loc>
-    <lastmod>2026-04-14T14:58:46.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260414-about-45-of-gen-z-and-millennial-investors-own-crypto-only-18-of-gen-x-and-baby-.html</loc>
     <lastmod>2026-04-14T14:02:23.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,6 +477,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260414-crypto-has-had-a-rough-year-maybe-we-should-launch-something-to-fix-it-xcom.html</loc>
     <lastmod>2026-04-14T03:27:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260413-strategy-has-acquired-13927-btc-for-100-billion-at-71902-per-bitcoin-and-has-ach.html</loc>
+    <lastmod>2026-04-13T12:02:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
