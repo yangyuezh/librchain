@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-15T08:04:08.575Z</lastmod>
+    <lastmod>2026-04-15T09:48:32.299Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-15T08:04:08.575Z</lastmod>
+    <lastmod>2026-04-15T09:48:32.299Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260415-etoro-to-acquire-crypto-wallet-zengo-in-70-million-deal.html</loc>
+    <lastmod>2026-04-15T09:34:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260415-morgan-stanley-is-buying-bitcoin-morgan-stanley-is-now-on-arkham-the-msbt-etf-ha.html</loc>
+    <lastmod>2026-04-15T08:32:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260415-socgen-brings-mica-compliant-usdcv-dollar-stablecoin-to-metamask.html</loc>
+    <lastmod>2026-04-15T07:58:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260415-north-korean-hackers-used-ai-enabled-social-engineering-in-zerion-attack.html</loc>
@@ -223,12 +241,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260414-ether-replays-2025-fractal-that-sparked-250-eth-price-rally.html</loc>
-    <lastmod>2026-04-14T17:45:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260414-fed-chair-nominee-kevin-warsh-discloses-vast-wealth-investments-in-polymarket-an.html</loc>
     <lastmod>2026-04-14T17:39:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -243,12 +255,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260414-stablecoin-giant-tether-launches-wallet-for-usdt-bitcoin-and-gold-backed-tokens.html</loc>
     <lastmod>2026-04-14T16:54:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260414-bitcoin-has-performed-well-since-the-start-of-the-iran-conflict-since-us-and-isr.html</loc>
-    <lastmod>2026-04-14T16:50:25.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -385,12 +391,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260414-bitcoin-rises-to-one-month-high-above-75000-as-analysts-eye-major-breakout.html</loc>
-    <lastmod>2026-04-14T12:38:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260414-deutsche-borse-acquires-kraken-stake-in-200m-deal.html</loc>
     <lastmod>2026-04-14T11:56:10.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -469,14 +469,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260413-new-as-part-of-project-crypto-the-division-of-trading-and-markets-issued-a-staff.html</loc>
-    <lastmod>2026-04-13T17:14:21.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260413-just-in-bitcoin-pumps-back-above-73007-xcom.html</loc>
+    <lastmod>2026-04-13T19:31:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260413-from-privacy-breakthroughs-to-ai-agents-and-institutional-rails-the-ethereum-eco.html</loc>
-    <lastmod>2026-04-13T16:09:20.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260413-new-as-part-of-project-crypto-the-division-of-trading-and-markets-issued-a-staff.html</loc>
+    <lastmod>2026-04-13T17:14:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
