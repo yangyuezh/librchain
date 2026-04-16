@@ -2,15 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-16T08:53:09.512Z</lastmod>
+    <lastmod>2026-04-16T10:39:15.420Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-16T08:53:09.512Z</lastmod>
+    <lastmod>2026-04-16T10:39:15.420Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260416-south-korea-to-test-blockchain-deposit-tokens-for-government-spending-in-q4.html</loc>
+    <lastmod>2026-04-16T09:37:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260416-the-cheapest-bitcoin-etf-yet-morgan-stanley-uses-014-fee-to-draw-100-million-in-.html</loc>
+    <lastmod>2026-04-16T09:37:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260416-crypto-fund-manager-probed-in-the-suspicious-death-of-his-fiances-death-in-zanzi.html</loc>
+    <lastmod>2026-04-16T09:21:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260416-circle-ceo-says-china-could-launch-yuan-stablecoin-within-3-to-5-years-as-curren.html</loc>
+    <lastmod>2026-04-16T09:12:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260416-south-korea-to-pilot-tokenized-deposits-for-government-spending.html</loc>
+    <lastmod>2026-04-16T08:50:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260416-buying-coffee-with-bitcoin-is-easy-the-resulting-tax-burden-is-not.html</loc>
@@ -31,7 +61,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260416-us-should-scrap-crypto-capital-gains-tax-to-fuel-competition-cato.html</loc>
+    <loc>https://www.librchain.com/news/20260416-us-should-scrap-crypto-capital-gains-tax-to-fuel-currency-competition-cato.html</loc>
     <lastmod>2026-04-16T06:30:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -115,8 +145,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260416-update-bitcoin-exchange-inflows-surged-to-11k-btchour-as-price-hit-76k-resistanc.html</loc>
+    <lastmod>2026-04-16T02:20:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260416-bitcoin-should-prepare-now-even-if-quantum-is-lab-experiment-adam-back-says.html</loc>
     <lastmod>2026-04-16T01:14:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260416-latest-white-house-crypto-advisor-patrick-witt-warns-the-us-will-keep-losing-gro.html</loc>
+    <lastmod>2026-04-16T01:00:35.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -289,12 +331,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260415-lg-brings-50b-liquidity-funds-onchain-via-calastone-tokenized-network.html</loc>
-    <lastmod>2026-04-15T17:32:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260415-tom-lees-bitmine-posts-38-billion-quarterly-loss-due-to-ethereum-price-plunge.html</loc>
     <lastmod>2026-04-15T17:17:41.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -307,38 +343,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260415-wall-street-wont-buy-trustless-security-promises.html</loc>
-    <lastmod>2026-04-15T16:35:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260415-pakistan-lifts-8-year-crypto-banking-ban-following-trump-family-binance-deals.html</loc>
     <lastmod>2026-04-15T16:15:48.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260415-crypto-long-short-fighting-fraud-in-the-digital-age-why-state-led-identity-is-th.html</loc>
-    <lastmod>2026-04-15T16:00:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260415-online-casino-operators-stock-surges-on-cryptocom-prediction-market-deal.html</loc>
     <lastmod>2026-04-15T15:43:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260415-bitcoin-developer-jameson-lopp-says-its-better-to-freeze-56-million-btc-than-let.html</loc>
-    <lastmod>2026-04-15T15:37:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260415-why-morgan-stanleys-cfo-sees-tokenization-as-the-next-big-step-for-its-multi-tri.html</loc>
-    <lastmod>2026-04-15T15:17:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -463,12 +475,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260414-7438177-bitcoin-xcom.html</loc>
-    <lastmod>2026-04-14T12:44:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260414-okay-first-idea-bring-back-bitcoin-xcom.html</loc>
     <lastmod>2026-04-14T08:27:26.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260413-new-as-part-of-project-crypto-the-division-of-trading-and-markets-issued-a-staff.html</loc>
     <lastmod>2026-04-13T17:14:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260413-from-privacy-breakthroughs-to-ai-agents-and-institutional-rails-the-ethereum-eco.html</loc>
-    <lastmod>2026-04-13T16:09:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

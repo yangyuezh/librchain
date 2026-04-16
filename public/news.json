@@ -1,7 +1,80 @@
 {
-  "updatedAt": "2026-04-16T08:53:09.464Z",
+  "updatedAt": "2026-04-16T10:39:15.315Z",
   "total": 80,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "South Korea to test blockchain deposit tokens for government spending in Q4",
+      "summary": "Token-based payments can be programmed with spending limits and which industries can use them, reducing audits and lowering transaction fees by removing intermediaries.",
+      "url": "https://www.coindesk.com/policy/2026/04/16/south-korea-to-test-blockchain-deposit-tokens-for-government-spending-in-q4",
+      "publishedAt": "2026-04-16T09:37:48.000Z",
+      "keywords": [
+        "Policy",
+        "tokenized deposits",
+        "South Korea",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260416-south-korea-to-test-blockchain-deposit-tokens-for-government-spending-in-q4",
+      "localUrl": "/news/20260416-south-korea-to-test-blockchain-deposit-tokens-for-government-spending-in-q4.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The cheapest bitcoin ETF yet: Morgan Stanley uses 0.14% fee to draw $100 million in first week",
+      "summary": "Morgan Stanley’s new MSBT fund has quickly attracted over $100 million by offering the market's lowest fees, sparking a fresh wave of competition from rivals like Goldman Sachs.",
+      "url": "https://www.coindesk.com/markets/2026/04/16/morgan-stanley-s-bitcoin-etf-reaches-usd100m-in-first-week-marking-the-bank-s-strongest-launch",
+      "publishedAt": "2026-04-16T09:37:33.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260416-the-cheapest-bitcoin-etf-yet-morgan-stanley-uses-014-fee-to-draw-100-million-in-",
+      "localUrl": "/news/20260416-the-cheapest-bitcoin-etf-yet-morgan-stanley-uses-014-fee-to-draw-100-million-in-.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto fund manager probed in the suspicious death of his fiancé’s death in Zanzibar",
+      "summary": "The couple argued according to hotel staff and were separated. Despite confirming Ashly Robinson died by suicide, police said they are still investigating her death.",
+      "url": "https://www.coindesk.com/business/2026/04/16/crypto-fund-manager-probed-in-the-suspicious-death-of-his-fiance-s-death-in-zanzibar",
+      "publishedAt": "2026-04-16T09:21:09.000Z",
+      "keywords": [
+        "Finance",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260416-crypto-fund-manager-probed-in-the-suspicious-death-of-his-fiances-death-in-zanzi",
+      "localUrl": "/news/20260416-crypto-fund-manager-probed-in-the-suspicious-death-of-his-fiances-death-in-zanzi.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle CEO says China could launch yuan stablecoin within 3 to 5 years as currency race heats up",
+      "summary": "The pitch is global scale for the yuan, but capital controls, offshore limits and convertibility gaps still stand in the way",
+      "url": "https://www.coindesk.com/policy/2026/04/16/circle-ceo-says-china-could-launch-yuan-stablecoin-within-3-to-5-years-as-currency-race-heats-up",
+      "publishedAt": "2026-04-16T09:12:40.000Z",
+      "keywords": [
+        "Policy",
+        "Circle",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260416-circle-ceo-says-china-could-launch-yuan-stablecoin-within-3-to-5-years-as-curren",
+      "localUrl": "/news/20260416-circle-ceo-says-china-could-launch-yuan-stablecoin-within-3-to-5-years-as-curren.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korea to pilot tokenized deposits for government spending",
+      "summary": "The sandbox will test preset spending limits, timing controls and category restrictions for public sector expense payments.",
+      "url": "https://cointelegraph.com/news/south-korea-pilot-tokenized-deposits-government-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-16T08:50:58.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260416-south-korea-to-pilot-tokenized-deposits-for-government-spending",
+      "localUrl": "/news/20260416-south-korea-to-pilot-tokenized-deposits-for-government-spending.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Buying coffee with bitcoin is easy, the resulting tax burden is not",
@@ -50,7 +123,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "US should scrap crypto capital gains tax to fuel competition: Cato",
+      "title": "US should scrap crypto capital gains tax to fuel currency competition: Cato",
       "summary": "Crypto users in the US are required to pay capital gains taxes on cryptocurrencies, stifling their usefulness as a currency, argued a Washington DC-based think tank.",
       "url": "https://cointelegraph.com/news/congress-remove-bitcoin-capital-gains-tax-currency-competition-cato?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-04-16T06:30:37.000Z",
@@ -58,8 +131,8 @@
         "Latest News"
       ],
       "category": "综合",
-      "slug": "20260416-us-should-scrap-crypto-capital-gains-tax-to-fuel-competition-cato",
-      "localUrl": "/news/20260416-us-should-scrap-crypto-capital-gains-tax-to-fuel-competition-cato.html"
+      "slug": "20260416-us-should-scrap-crypto-capital-gains-tax-to-fuel-currency-competition-cato",
+      "localUrl": "/news/20260416-us-should-scrap-crypto-capital-gains-tax-to-fuel-currency-competition-cato.html"
     },
     {
       "source": "Cointelegraph",
@@ -244,6 +317,17 @@
       "localUrl": "/news/20260416-bitcoin-hits-near-term-selling-pressure-after-rally-to-76k-cryptoquant.html"
     },
     {
+      "source": "X Wire",
+      "title": "🚨 UPDATE: Bitcoin exchange inflows surged to ~11K BTC/hour as price hit $76K resistance, the highest rate since December 2025. This signals potential selling pressure from large holders, per CryptoQuant. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wMWd2NHdvQWNSbEVuOFcxRldhblhsUTB4ak55T2tkZEYzVFB3Ti15ZWhXUGdEZGhqVDc1U05sRnJuWTNHbmRCLWVOMFpCM2VmVXV3ZV9JOUVTaVhFZGVvQU1QN2Q?oc=5\" target=\"_blank\">🚨 UPDATE: Bitcoin exchange inf…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wMWd2NHdvQWNSbEVuOFcxRldhblhsUTB4ak55T2tkZEYzVFB3Ti15ZWhXUGdEZGhqVDc1U05sRnJuWTNHbmRCLWVOMFpCM2VmVXV3ZV9JOUVTaVhFZGVvQU1QN2Q?oc=5",
+      "publishedAt": "2026-04-16T02:20:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260416-update-bitcoin-exchange-inflows-surged-to-11k-btchour-as-price-hit-76k-resistanc",
+      "localUrl": "/news/20260416-update-bitcoin-exchange-inflows-surged-to-11k-btchour-as-price-hit-76k-resistanc.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Bitcoin should prepare now, even if quantum is 'lab experiment,’ Adam Back says",
       "summary": "Back said the safest approach is to build optional upgrades that would allow Bitcoin to migrate to quantum-resistant cryptography once it's needed.",
@@ -255,6 +339,17 @@
       "category": "基础设施",
       "slug": "20260416-bitcoin-should-prepare-now-even-if-quantum-is-lab-experiment-adam-back-says",
       "localUrl": "/news/20260416-bitcoin-should-prepare-now-even-if-quantum-is-lab-experiment-adam-back-says.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇺🇸 LATEST: White House crypto advisor Patrick Witt warns the US will keep losing ground in the digital assets race without a durable market structure framework in place. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIUnF3RkRfenl6ekZGZlhSQTBqYkRqQ0dSX2JyWGFVYUtjdTFvRUxManhKdDg4dDduYzd1aFNHWXRmTEt5cFZCZVFMdTlCM1VRRG9LN0xwZFJicjZOcnZMWVVFNUo?oc=5\" target=\"_blank\">🇺🇸 LATEST: White House crypto…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIUnF3RkRfenl6ekZGZlhSQTBqYkRqQ0dSX2JyWGFVYUtjdTFvRUxManhKdDg4dDduYzd1aFNHWXRmTEt5cFZCZVFMdTlCM1VRRG9LN0xwZFJicjZOcnZMWVVFNUo?oc=5",
+      "publishedAt": "2026-04-16T01:00:35.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260416-latest-white-house-crypto-advisor-patrick-witt-warns-the-us-will-keep-losing-gro",
+      "localUrl": "/news/20260416-latest-white-house-crypto-advisor-patrick-witt-warns-the-us-will-keep-losing-gro.html"
     },
     {
       "source": "CoinDesk",
@@ -647,19 +742,6 @@
       "localUrl": "/news/20260415-us-midterm-election-mirrors-2024-as-crypto-pacs-move-into-ohio-races.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "L&G brings £50B liquidity funds onchain via Calastone tokenized network",
-      "summary": "London-based Legal & General Asset Management is the latest global asset manager to expand distribution across blockchain networks and trading models.",
-      "url": "https://cointelegraph.com/news/london-based-legal-general-asset-management-has-made-its-liquidity-funds-available-in-tokenized-form-through-calastone-s-blockchain-based-distribution-network-enabling-investors-to-access-and-transfer-fund-shares-via-digital-infrastructure-rather-than?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-15T17:32:53.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "DeFi",
-      "slug": "20260415-lg-brings-50b-liquidity-funds-onchain-via-calastone-tokenized-network",
-      "localUrl": "/news/20260415-lg-brings-50b-liquidity-funds-onchain-via-calastone-tokenized-network.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Tom Lee's BitMine Posts $3.8 Billion Quarterly Loss Due to Ethereum Price Plunge",
       "summary": "Leading Ethereum treasury firm BitMine Immersion Technologies posted a major loss thanks to unrealized losses on its ETH.",
@@ -686,21 +768,6 @@
       "localUrl": "/news/20260415-etoro-acquires-self-custody-crypto-wallet-firm-zengo-for-70-million.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Wall Street won’t buy ‘trustless’ security promises",
-      "summary": "Chen argues that crypto exchange security is still mostly theater, and that stricter enforcement is essential.",
-      "url": "https://www.coindesk.com/opinion/2026/04/15/wall-street-won-t-buy-trustless-security-promises",
-      "publishedAt": "2026-04-15T16:35:00.000Z",
-      "keywords": [
-        "Opinion",
-        "Opinion",
-        "Opinion"
-      ],
-      "category": "监管",
-      "slug": "20260415-wall-street-wont-buy-trustless-security-promises",
-      "localUrl": "/news/20260415-wall-street-wont-buy-trustless-security-promises.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Pakistan Lifts 8-Year Crypto Banking Ban Following Trump Family, Binance Deals",
       "summary": "Banks in Pakistan can now provide services to registered crypto firms—but not trade crypto themselves—after a 2018 ban was rescinded.",
@@ -714,24 +781,6 @@
       "localUrl": "/news/20260415-pakistan-lifts-8-year-crypto-banking-ban-following-trump-family-binance-deals.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: Fighting fraud in the digital age: why state-led identity is the future",
-      "summary": "In this week’s Crypto Long & Short Newsletter, Tricia Gallagher writes how the fix for broken digital identity systems will need to be state-led and user-controlled.",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/04/15/crypto-long-and-short-fighting-fraud-in-the-digital-age-why-state-led-identity-is-the-future",
-      "publishedAt": "2026-04-15T16:00:44.000Z",
-      "keywords": [
-        "CoinDesk Indices",
-        "Institutional Investors",
-        "Institutional Adoption",
-        "Crypto Long & Short",
-        "CoinDesk Indices",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260415-crypto-long-short-fighting-fraud-in-the-digital-age-why-state-led-identity-is-th",
-      "localUrl": "/news/20260415-crypto-long-short-fighting-fraud-in-the-digital-age-why-state-led-identity-is-th.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Online Casino Operator's Stock Surges on Crypto.com Prediction Market Deal",
       "summary": "Shares in High Roller Technologies nearly doubled Tuesday after the firm announced it was entering the prediction markets space.",
@@ -743,37 +792,6 @@
       "category": "市场",
       "slug": "20260415-online-casino-operators-stock-surges-on-cryptocom-prediction-market-deal",
       "localUrl": "/news/20260415-online-casino-operators-stock-surges-on-cryptocom-prediction-market-deal.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin developer Jameson Lopp says it's better to freeze 5.6 million BTC than let hackers have them",
-      "summary": "Lopp says dormant coins could pose systemic risk if quantum computing gives attackers the ability to grab them, intensifying the growing “freeze or not freeze” debate.",
-      "url": "https://www.coindesk.com/business/2026/04/15/bitcoin-developer-jameson-lopp-says-it-s-better-to-freeze-5-6-million-btc-than-let-hackers-have-them",
-      "publishedAt": "2026-04-15T15:37:34.000Z",
-      "keywords": [
-        "Finance",
-        "Bitcoin News",
-        "quantum computing",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260415-bitcoin-developer-jameson-lopp-says-its-better-to-freeze-56-million-btc-than-let",
-      "localUrl": "/news/20260415-bitcoin-developer-jameson-lopp-says-its-better-to-freeze-56-million-btc-than-let.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why Morgan Stanley's CFO sees tokenization as the next big step for its multi-trillion wealth business",
-      "summary": "Morgan Stanley CFO Sharon Yeshaya says the bank is eyeing a \"tokenized world\" where blockchain technology allows client assets and liabilities to move more efficiently across its wealth management platform.",
-      "url": "https://www.coindesk.com/business/2026/04/15/why-morgan-stanley-s-cfo-thinks-tokenization-is-the-next-big-step-for-its-multi-trillion-wealth-business",
-      "publishedAt": "2026-04-15T15:17:03.000Z",
-      "keywords": [
-        "Finance",
-        "Tokenization",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260415-why-morgan-stanleys-cfo-sees-tokenization-as-the-next-big-step-for-its-multi-tri",
-      "localUrl": "/news/20260415-why-morgan-stanleys-cfo-sees-tokenization-as-the-next-big-step-for-its-multi-tri.html"
     },
     {
       "source": "Decrypt",
@@ -1014,17 +1032,6 @@
     },
     {
       "source": "X Wire",
-      "title": "$74,381.77 #Bitcoin - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMMVlRWE5jVjZmQjFUSWJfZWpTaTFId2pHLWtDTFFqb2xKVTFveFd4UVJ5dld6aWRZVkFTSmVFU1czbExtQVhEcmFBQ1VqRHBzclA2N19aMVJHZnpK?oc=5\" target=\"_blank\">$74,381.77 #Bitcoin</a> <font color=\"#6f6f…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMMVlRWE5jVjZmQjFUSWJfZWpTaTFId2pHLWtDTFFqb2xKVTFveFd4UVJ5dld6aWRZVkFTSmVFU1czbExtQVhEcmFBQ1VqRHBzclA2N19aMVJHZnpK?oc=5",
-      "publishedAt": "2026-04-14T12:44:49.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260414-7438177-bitcoin-xcom",
-      "localUrl": "/news/20260414-7438177-bitcoin-xcom.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Okay, first idea: Bring back #Bitcoin - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE80MzFsQnRzMnJWSEV0cXBiclJENEtDeEdRSGR4NTQtZHpkUTlkMnZvWHlpZWRjaW1fYUFTdmhCdXJVRWR4LWJQM2pCMzlKcFZFaDR4QXpkeFdXanZHRHc?oc=5\" target=\"_blank\">Okay, first idea: Bring back #Bitcoin</…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80MzFsQnRzMnJWSEV0cXBiclJENEtDeEdRSGR4NTQtZHpkUTlkMnZvWHlpZWRjaW1fYUFTdmhCdXJVRWR4LWJQM2pCMzlKcFZFaDR4QXpkeFdXanZHRHc?oc=5",
@@ -1055,17 +1062,6 @@
       "category": "X热点",
       "slug": "20260413-new-as-part-of-project-crypto-the-division-of-trading-and-markets-issued-a-staff",
       "localUrl": "/news/20260413-new-as-part-of-project-crypto-the-division-of-trading-and-markets-issued-a-staff.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "From privacy breakthroughs to AI agents and institutional rails, the Ethereum ecosystem keeps shipping. Here are 22 things the ecosystem delivered over the past few weeks. 0/ @gnosis_ and partners introduced The Ethereum Economic Zone ( @etheconomi - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oVDNnbHQyM1ZGenNHV0k1cmlfaDY0Rnc0WW5yazY0NkhfVUZaRE1EQU85RDRKWkJEUVU1M2VPdlBXNTFYZ21Hd3BvWE9fTHFlN3M0YzhfUXdEdUlDR0E?oc=5\" target=\"_blank\">From privacy breakthroughs to AI agents…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oVDNnbHQyM1ZGenNHV0k1cmlfaDY0Rnc0WW5yazY0NkhfVUZaRE1EQU85RDRKWkJEUVU1M2VPdlBXNTFYZ21Hd3BvWE9fTHFlN3M0YzhfUXdEdUlDR0E?oc=5",
-      "publishedAt": "2026-04-13T16:09:20.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260413-from-privacy-breakthroughs-to-ai-agents-and-institutional-rails-the-ethereum-eco",
-      "localUrl": "/news/20260413-from-privacy-breakthroughs-to-ai-agents-and-institutional-rails-the-ethereum-eco.html"
     }
   ]
 }
