@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-15T23:56:38.625Z</lastmod>
+    <lastmod>2026-04-16T03:44:31.041Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-15T23:56:38.625Z</lastmod>
+    <lastmod>2026-04-16T03:44:31.041Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260416-bitcoin-should-prepare-now-even-if-quantum-is-a-lab-experiment-adam-back.html</loc>
+    <lastmod>2026-04-16T01:14:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260415-solana-policy-institute-backed-pac-spends-millions-to-jam-sherrod-browns-senate-.html</loc>
@@ -123,6 +129,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260415-uk-asset-manager-puts-68-billion-of-funds-on-chain-via-calastone-token-network.html</loc>
     <lastmod>2026-04-15T19:17:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260415-just-in-coffeezilla-publishes-video-taking-on-bitcoin-believer-michael-saylor-st.html</loc>
+    <lastmod>2026-04-15T19:07:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -319,12 +331,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260415-only-4-of-danish-citizens-hold-crypto-far-below-other-european-countries.html</loc>
-    <lastmod>2026-04-15T13:23:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260415-beyond-digital-gold-iran-conflict-forces-a-rethink-of-the-nature-of-bitcoin.html</loc>
     <lastmod>2026-04-15T13:03:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -363,6 +369,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260415-morning-minute-the-next-fed-chair-has-a-crypto-portfolio.html</loc>
     <lastmod>2026-04-15T12:14:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260415-the-only-chat-crypto-users-actually-need-connect-instantly-transfer-crypto-in-ch.html</loc>
+    <lastmod>2026-04-15T12:00:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -421,18 +433,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260415-breaking-a-whale-has-opened-a-19878000-btc-long-with-20x-leverage-if-btc-drops-t.html</loc>
-    <lastmod>2026-04-15T06:51:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260415-bmnr-the-largest-ethereum-treasury-company-reported-a-net-loss-of-382-billion-in.html</loc>
-    <lastmod>2026-04-15T04:52:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260415-latest-ethereum-foundation-launches-a-1m-security-subsidy-program-covering-up-to.html</loc>
     <lastmod>2026-04-15T02:20:05.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,8 +481,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260413-strategy-has-acquired-13927-btc-for-100-billion-at-71902-per-bitcoin-and-has-ach.html</loc>
-    <lastmod>2026-04-13T12:02:34.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260413-new-as-part-of-project-crypto-the-division-of-trading-and-markets-issued-a-staff.html</loc>
+    <lastmod>2026-04-13T17:14:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
