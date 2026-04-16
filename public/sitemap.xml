@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-16T21:02:26.615Z</lastmod>
+    <lastmod>2026-04-16T21:56:54.561Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-16T21:02:26.615Z</lastmod>
+    <lastmod>2026-04-16T21:56:54.561Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260416-quantum-proposal-wont-save-satoshis-bitcoin-says-cardano-founder-hoskinson.html</loc>
+    <lastmod>2026-04-16T21:52:27.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260416-ethereum-foundation-helps-expose-north-korean-workers-that-infiltrated-crypto-fi.html</loc>
+    <lastmod>2026-04-16T21:07:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260416-after-kalshi-appeal-prediction-markets-fight-could-head-to-us-supreme-court.html</loc>
@@ -441,18 +453,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260416-eth-rangers-program-recap.html</loc>
     <lastmod>2026-04-16T00:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260415-googles-latest-ai-update-makes-industrial-robots-way-smarterheres-how.html</loc>
-    <lastmod>2026-04-15T21:31:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260415-will-maine-governor-janet-mills-sign-nations-first-ai-data-center-ban-into-law.html</loc>
-    <lastmod>2026-04-15T21:14:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
