@@ -1,7 +1,131 @@
 {
-  "updatedAt": "2026-04-16T10:39:15.315Z",
+  "updatedAt": "2026-04-16T12:07:37.207Z",
   "total": 80,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Bitcoin Devs Propose New Quantum Solution",
+      "summary": "BIP-361 would freeze the Bitcoin most at risk of seizure from quantum exploits. But will the community go for it?",
+      "url": "https://decrypt.co/364570/morning-minute-bitcoin-devs-propose-new-quantum-solution",
+      "publishedAt": "2026-04-16T12:04:17.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "安全",
+      "slug": "20260416-morning-minute-bitcoin-devs-propose-new-quantum-solution",
+      "localUrl": "/news/20260416-morning-minute-bitcoin-devs-propose-new-quantum-solution.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "UK Sets Path to Crypto Regulation With FCA Consultation",
+      "summary": "The regulator is seeking feedback on its interpretation of regulated cryptoasset activities under rules set to take effect in October 2027.",
+      "url": "https://decrypt.co/364568/uk-sets-path-to-crypto-regulation-with-fca-consultation",
+      "publishedAt": "2026-04-16T11:57:45.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "监管",
+      "slug": "20260416-uk-sets-path-to-crypto-regulation-with-fca-consultation",
+      "localUrl": "/news/20260416-uk-sets-path-to-crypto-regulation-with-fca-consultation.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Exchange Inflows Spike as Bitcoin Faces $76K Headwinds",
+      "summary": "On-chain data show increased selling pressure, with Bitcoin exchange inflows and large-holder deposits spiking to multi-month highs.",
+      "url": "https://decrypt.co/364565/exchange-inflows-spike-as-bitcoin-faces-76k-headwinds",
+      "publishedAt": "2026-04-16T11:33:43.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260416-exchange-inflows-spike-as-bitcoin-faces-76k-headwinds",
+      "localUrl": "/news/20260416-exchange-inflows-spike-as-bitcoin-faces-76k-headwinds.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Keep an eye on XRP, Plasma, DOGE as bitcoin drifts",
+      "summary": "What you need to know for April 16, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/04/16/keep-an-eye-on-xrp-plasma-doge-as-bitcoin-drifts",
+      "publishedAt": "2026-04-16T11:22:36.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260416-keep-an-eye-on-xrp-plasma-doge-as-bitcoin-drifts",
+      "localUrl": "/news/20260416-keep-an-eye-on-xrp-plasma-doge-as-bitcoin-drifts.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin funding rates hit most negative since 2023, history suggests bottom is in",
+      "summary": "Despite a surge in short positioning, bitcoin has climbed toward $75,000, with past episodes of negative funding rates often aligning with local market bottoms.",
+      "url": "https://www.coindesk.com/markets/2026/04/16/bitcoin-funding-rates-hit-most-negative-since-2023-history-suggests-bottom-is-in",
+      "publishedAt": "2026-04-16T11:14:46.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Glassnode",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260416-bitcoin-funding-rates-hit-most-negative-since-2023-history-suggests-bottom-is-in",
+      "localUrl": "/news/20260416-bitcoin-funding-rates-hit-most-negative-since-2023-history-suggests-bottom-is-in.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "French minister says new measures are coming after crypto kidnappings",
+      "summary": "Jean-Didier Berger said at Paris Blockchain Week that France is preparing new steps to protect crypto holders as wrench attacks and kidnappings keep mounting.",
+      "url": "https://cointelegraph.com/news/french-minister-measures-crypto-wrench-attacks-kidnappings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-16T10:53:04.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260416-french-minister-says-new-measures-are-coming-after-crypto-kidnappings",
+      "localUrl": "/news/20260416-french-minister-says-new-measures-are-coming-after-crypto-kidnappings.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holds near $75,000 as short-term holders look for profit opportunities",
+      "summary": "Bitcoin is hovering near $75,000 as steady institutional demand meets a wall of supply, while the options market is biased toward downside hedges.",
+      "url": "https://www.coindesk.com/markets/2026/04/16/bitcoin-holds-near-usd75-000-as-short-term-holders-look-for-profit-opportunities",
+      "publishedAt": "2026-04-16T10:49:59.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260416-bitcoin-holds-near-75000-as-short-term-holders-look-for-profit-opportunities",
+      "localUrl": "/news/20260416-bitcoin-holds-near-75000-as-short-term-holders-look-for-profit-opportunities.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Adam Back Pushes for Optional Upgrades to Quantum-Proof Bitcoin",
+      "summary": "The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would implement mandatory freezes of quantum-vulnerable Bitcoin.",
+      "url": "https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin",
+      "publishedAt": "2026-04-16T10:45:27.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "基础设施",
+      "slug": "20260416-adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin",
+      "localUrl": "/news/20260416-adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Study finds almost no crypto protocols disclose market-maker terms",
+      "summary": "A review of over 150 crypto protocols finds fewer than 1% disclose market-making arrangements, revealing a major transparency gap in token trading structures.",
+      "url": "https://cointelegraph.com/news/crypto-market-maker-disclosure-study-novora-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-16T09:58:54.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260416-study-finds-almost-no-crypto-protocols-disclose-market-maker-terms",
+      "localUrl": "/news/20260416-study-finds-almost-no-crypto-protocols-disclose-market-maker-terms.html"
+    },
     {
       "source": "CoinDesk",
       "title": "South Korea to test blockchain deposit tokens for government spending in Q4",
@@ -61,6 +185,17 @@
       "category": "监管",
       "slug": "20260416-circle-ceo-says-china-could-launch-yuan-stablecoin-within-3-to-5-years-as-curren",
       "localUrl": "/news/20260416-circle-ceo-says-china-could-launch-yuan-stablecoin-within-3-to-5-years-as-curren.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇰🇷 TODAY: South Korea is piloting blockchain deposit tokens for government spending. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE03WEwxQ2gtN2JOUlpfWjVBRUV4VEdpdEtsS3RMbGZOR0R0aEpBcV9lc3VycEJwM1o2aUh5alNTNDd0SXowdGNYOGdDVU1ZRFBZYmExSEZWWkFuZ25PZEZ0TFUxYks?oc=5\" target=\"_blank\">🇰🇷 TODAY: South Korea is pilo…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03WEwxQ2gtN2JOUlpfWjVBRUV4VEdpdEtsS3RMbGZOR0R0aEpBcV9lc3VycEJwM1o2aUh5alNTNDd0SXowdGNYOGdDVU1ZRFBZYmExSEZWWkFuZ25PZEZ0TFUxYks?oc=5",
+      "publishedAt": "2026-04-16T09:10:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260416-today-south-korea-is-piloting-blockchain-deposit-tokens-for-government-spending-",
+      "localUrl": "/news/20260416-today-south-korea-is-piloting-blockchain-deposit-tokens-for-government-spending-.html"
     },
     {
       "source": "Cointelegraph",
@@ -162,7 +297,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "China already has the compute to train its own Mythos-like AI: Nvidia CEO",
+      "title": "China already has compute to train its own Mythos-like AI: Nvidia CEO",
       "summary": "The amount of capacity and the type of compute it was trained on is “abundantly available in China,” said the Nvidia CEO.",
       "url": "https://cointelegraph.com/news/china-has-compute-train-its-own-mythos-ai-nvidia-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-04-16T05:53:02.000Z",
@@ -170,8 +305,8 @@
         "Latest News"
       ],
       "category": "综合",
-      "slug": "20260416-china-already-has-the-compute-to-train-its-own-mythos-like-ai-nvidia-ceo",
-      "localUrl": "/news/20260416-china-already-has-the-compute-to-train-its-own-mythos-like-ai-nvidia-ceo.html"
+      "slug": "20260416-china-already-has-compute-to-train-its-own-mythos-like-ai-nvidia-ceo",
+      "localUrl": "/news/20260416-china-already-has-compute-to-train-its-own-mythos-like-ai-nvidia-ceo.html"
     },
     {
       "source": "CoinDesk",
@@ -339,17 +474,6 @@
       "category": "基础设施",
       "slug": "20260416-bitcoin-should-prepare-now-even-if-quantum-is-lab-experiment-adam-back-says",
       "localUrl": "/news/20260416-bitcoin-should-prepare-now-even-if-quantum-is-lab-experiment-adam-back-says.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🇺🇸 LATEST: White House crypto advisor Patrick Witt warns the US will keep losing ground in the digital assets race without a durable market structure framework in place. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIUnF3RkRfenl6ekZGZlhSQTBqYkRqQ0dSX2JyWGFVYUtjdTFvRUxManhKdDg4dDduYzd1aFNHWXRmTEt5cFZCZVFMdTlCM1VRRG9LN0xwZFJicjZOcnZMWVVFNUo?oc=5\" target=\"_blank\">🇺🇸 LATEST: White House crypto…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIUnF3RkRfenl6ekZGZlhSQTBqYkRqQ0dSX2JyWGFVYUtjdTFvRUxManhKdDg4dDduYzd1aFNHWXRmTEt5cFZCZVFMdTlCM1VRRG9LN0xwZFJicjZOcnZMWVVFNUo?oc=5",
-      "publishedAt": "2026-04-16T01:00:35.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260416-latest-white-house-crypto-advisor-patrick-witt-warns-the-us-will-keep-losing-gro",
-      "localUrl": "/news/20260416-latest-white-house-crypto-advisor-patrick-witt-warns-the-us-will-keep-losing-gro.html"
     },
     {
       "source": "CoinDesk",
@@ -550,17 +674,6 @@
       "localUrl": "/news/20260415-world-liberty-wants-wlfi-locked-beyond-trumps-second-terminvestors-arent-thrille.html"
     },
     {
-      "source": "X Wire",
-      "title": "Binance Launches In-App Chatroom Enabling Real-Time Messaging and Crypto Transfers Binance has launched a “Chatroom” feature integrated within its platform, enabling users to interact in real time and transfer crypto assets directly within chats; users ca - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvYUh6bjJQeExPLWp0MmJxc09wUmxheW43R1hpeTJTdVpQa1dZbXh1d2REWTdwbVlyLXlzckE0Z2pteWN6VUZMWDF1ejdhSlJNUWZmZEQySzVGUDNxc0gtVVc4dw?oc=5\" target=\"_blank\">Binance Launches In-App Chatroom…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvYUh6bjJQeExPLWp0MmJxc09wUmxheW43R1hpeTJTdVpQa1dZbXh1d2REWTdwbVlyLXlzckE0Z2pteWN6VUZMWDF1ejdhSlJNUWZmZEQySzVGUDNxc0gtVVc4dw?oc=5",
-      "publishedAt": "2026-04-15T20:15:49.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260415-binance-launches-in-app-chatroom-enabling-real-time-messaging-and-crypto-transfe",
-      "localUrl": "/news/20260415-binance-launches-in-app-chatroom-enabling-real-time-messaging-and-crypto-transfe.html"
-    },
-    {
       "source": "Decrypt",
       "title": "'Killing Satoshi': $70M Bitcoin Film Starring Casey Affleck Will Make Heavy Use of AI",
       "summary": "A $70 million feature film focusing on Bitcoin and the hunt for creator Satoshi Nakamoto will lean heavily on AI tools.",
@@ -618,20 +731,6 @@
       "localUrl": "/news/20260415-coreweave-signs-6b-deal-with-jane-street-to-provide-ai-compute-power.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "UK asset manager puts $68 billion of funds on-chain via Calastone token network",
-      "summary": "Legal & General Asset Management brings decades-old money market funds onto blockchain rails to expand access and enable faster settlement.",
-      "url": "https://www.coindesk.com/business/2026/04/15/uk-asset-manager-puts-usd68-billion-of-liquidity-funds-onchain-via-calastone-token-network",
-      "publishedAt": "2026-04-15T19:17:10.000Z",
-      "keywords": [
-        "Finance",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260415-uk-asset-manager-puts-68-billion-of-funds-on-chain-via-calastone-token-network",
-      "localUrl": "/news/20260415-uk-asset-manager-puts-68-billion-of-funds-on-chain-via-calastone-token-network.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Coffeezilla publishes video taking on Bitcoin believer Michael Saylor & Strategy's $STRC. Coffee says Saylor's STRC preferred-stock pitch is too simple & the risks are not properly explained. \"It's been compared to the iPhone. It's been compared to a - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE04QVdtdl9CVWVEX25mSDFkTFo5b1BoMWQzcHYxdmRYa1R0ZXlKN0xmRk5pRHhOMENHR2JxVVc3cmhXVTVlLU9jWUR0bmt3eVBJcXM4WDdsV01mLUpUcTdORGlIZw?oc=5\" target=\"_blank\">JUST IN: Coffeezilla publishes v…",
@@ -641,23 +740,6 @@
       "category": "X热点",
       "slug": "20260415-just-in-coffeezilla-publishes-video-taking-on-bitcoin-believer-michael-saylor-st",
       "localUrl": "/news/20260415-just-in-coffeezilla-publishes-video-taking-on-bitcoin-believer-michael-saylor-st.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tether adds $70 million in bitcoin to reserves, bringing holdings above 97,000 BTC",
-      "summary": "The USDT stablecoin issuer has now accumulated over $7.1 billion in bitcoin as part of its strategy to recycle up 15% of its profit into BTC.",
-      "url": "https://www.coindesk.com/business/2026/04/15/tether-adds-usd70-million-in-bitcoin-to-reserves-bringing-holdings-above-97-000-btc",
-      "publishedAt": "2026-04-15T19:02:12.000Z",
-      "keywords": [
-        "Finance",
-        "Tether",
-        "Bitcoin News",
-        "Stablecoins",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260415-tether-adds-70-million-in-bitcoin-to-reserves-bringing-holdings-above-97000-btc",
-      "localUrl": "/news/20260415-tether-adds-70-million-in-bitcoin-to-reserves-bringing-holdings-above-97000-btc.html"
     },
     {
       "source": "Decrypt",
@@ -671,36 +753,6 @@
       "category": "综合",
       "slug": "20260415-free-qwen-is-dead-alibaba-shuts-down-qwen-code-free-tier",
       "localUrl": "/news/20260415-free-qwen-is-dead-alibaba-shuts-down-qwen-code-free-tier.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Price predictions 4/15: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, LINK",
-      "summary": "A Bitcoin daily candlestick close above $76,000 would complete a bullish trend reversal and shift the bulls’ short-term price target to $84,000. Will altcoins follow the rally?",
-      "url": "https://cointelegraph.com/news/price-predictions-4-15-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-15T18:51:43.000Z",
-      "keywords": [
-        "Top 10 Cryptocurrencies"
-      ],
-      "category": "市场",
-      "slug": "20260415-price-predictions-415-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-link",
-      "localUrl": "/news/20260415-price-predictions-415-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-link.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The Protocol: Bitcoin proposal that could freeze quantum-related coins",
-      "summary": "Also: AI agents & crypto payments, CoW Swap hijack, ZK proofs on XRPL.",
-      "url": "https://www.coindesk.com/tech/2026/04/15/the-protocol-bitcoin-proposal-that-could-freeze-quantum-related-coins",
-      "publishedAt": "2026-04-15T18:06:56.000Z",
-      "keywords": [
-        "Tech",
-        "Bitcoin News",
-        "Newsletters",
-        "Ethereum News",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260415-the-protocol-bitcoin-proposal-that-could-freeze-quantum-related-coins",
-      "localUrl": "/news/20260415-the-protocol-bitcoin-proposal-that-could-freeze-quantum-related-coins.html"
     },
     {
       "source": "Decrypt",
@@ -727,19 +779,6 @@
       "category": "市场",
       "slug": "20260415-anthropic-preps-opus-47-and-full-stack-ai-studiowhile-sitting-on-something-much-",
       "localUrl": "/news/20260415-anthropic-preps-opus-47-and-full-stack-ai-studiowhile-sitting-on-something-much-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US midterm election mirrors 2024 as crypto PACs move into Ohio races",
-      "summary": "Potential conflicts of interest in the state’s gubernatorial race and a pro-crypto Super PAC endorsing a Republican candidate for Senate could cloud the 2026 race.",
-      "url": "https://cointelegraph.com/news/us-election-mirrors-2024-crypto-ohio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-15T17:52:37.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260415-us-midterm-election-mirrors-2024-as-crypto-pacs-move-into-ohio-races",
-      "localUrl": "/news/20260415-us-midterm-election-mirrors-2024-as-crypto-pacs-move-into-ohio-races.html"
     },
     {
       "source": "Decrypt",
@@ -846,20 +885,6 @@
       "localUrl": "/news/20260415-allbirds-stock-spikes-400-on-pivot-from-shoe-brand-to-ai-computeyes-really.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Elizabeth Warren Warns Elon Musk's X Money Threatens 'Stability of the Financial System'",
-      "summary": "The Massachusetts Senator warned of consumer protection gaps as Musk's payment platform launches amid weakened federal oversight.",
-      "url": "https://decrypt.co/364430/elizabeth-warren-warns-elon-musks-x-money-threatens-stability-of-the-financial-system",
-      "publishedAt": "2026-04-15T12:26:42.000Z",
-      "keywords": [
-        "dogecoin",
-        "Business"
-      ],
-      "category": "市场",
-      "slug": "20260415-elizabeth-warren-warns-elon-musks-x-money-threatens-stability-of-the-financial-s",
-      "localUrl": "/news/20260415-elizabeth-warren-warns-elon-musks-x-money-threatens-stability-of-the-financial-s.html"
-    },
-    {
       "source": "X Wire",
       "title": "🔥 TOM LEE: “Ethereum is on its run to $60,000. You can get 25x for Ethereum,” at @ParisBlockWeek. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE43cE00Slp2UUtZREp1ZU43VURUNWgyS0NGZzBGa1Z5dGdGZTRnb3JPOWVBUF8tYnZ3TDRQTlo4RmhMTURQQkkyR2hPeW5ReXIta3ktal9qNUJPbEtiWVYwRFZrc0o?oc=5\" target=\"_blank\">🔥 TOM LEE: “Ethereum is on its…",
@@ -869,19 +894,6 @@
       "category": "X热点",
       "slug": "20260415-tom-lee-ethereum-is-on-its-run-to-60000-you-can-get-25x-for-ethereum-at-parisblo",
       "localUrl": "/news/20260415-tom-lee-ethereum-is-on-its-run-to-60000-you-can-get-25x-for-ethereum-at-parisblo.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: The Next Fed Chair Has a Crypto Portfolio",
-      "summary": "Kevin Warsh is holding Solana, Polymarket and more. Goldman Sachs is filing for a BTC ETF. And Circle stock is jumping on news of a token.",
-      "url": "https://decrypt.co/364429/morning-minute-the-next-fed-chair-has-a-crypto-portfolio",
-      "publishedAt": "2026-04-15T12:14:40.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "监管",
-      "slug": "20260415-morning-minute-the-next-fed-chair-has-a-crypto-portfolio",
-      "localUrl": "/news/20260415-morning-minute-the-next-fed-chair-has-a-crypto-portfolio.html"
     },
     {
       "source": "X Wire",
@@ -904,32 +916,6 @@
       "category": "X热点",
       "slug": "20260415-the-only-chat-crypto-users-actually-need-connect-instantly-transfer-crypto-in-ch",
       "localUrl": "/news/20260415-the-only-chat-crypto-users-actually-need-connect-instantly-transfer-crypto-in-ch.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Virginia Governor Signs Law Protecting Dormant Crypto From Forced Liquidation",
-      "summary": "The legislation ensures unclaimed digital assets are held in their native form for at least one year before the state can move to sell them.",
-      "url": "https://decrypt.co/364426/virginia-governor-signs-law-protecting-dormant-crypto-from-forced-liquidation",
-      "publishedAt": "2026-04-15T11:13:03.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260415-virginia-governor-signs-law-protecting-dormant-crypto-from-forced-liquidation",
-      "localUrl": "/news/20260415-virginia-governor-signs-law-protecting-dormant-crypto-from-forced-liquidation.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin ETFs Draw $411M After BTC Hits $75K, But Analysts Urge Caution",
-      "summary": "Analysts cited easing geopolitical tensions and improving liquidity as driving Bitcoin’s uptick, but warned of a “weak and unstable” market.",
-      "url": "https://decrypt.co/364423/bitcoin-etfs-draw-411m-after-btc-hits-75k-but-analysts-urge-caution",
-      "publishedAt": "2026-04-15T10:42:06.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260415-bitcoin-etfs-draw-411m-after-btc-hits-75k-but-analysts-urge-caution",
-      "localUrl": "/news/20260415-bitcoin-etfs-draw-411m-after-btc-hits-75k-but-analysts-urge-caution.html"
     },
     {
       "source": "X Wire",
@@ -1029,6 +1015,17 @@
       "category": "X热点",
       "slug": "20260414-about-45-of-gen-z-and-millennial-investors-own-crypto-only-18-of-gen-x-and-baby-",
       "localUrl": "/news/20260414-about-45-of-gen-z-and-millennial-investors-own-crypto-only-18-of-gen-x-and-baby-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "$74,381.77 #Bitcoin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMMVlRWE5jVjZmQjFUSWJfZWpTaTFId2pHLWtDTFFqb2xKVTFveFd4UVJ5dld6aWRZVkFTSmVFU1czbExtQVhEcmFBQ1VqRHBzclA2N19aMVJHZnpK?oc=5\" target=\"_blank\">$74,381.77 #Bitcoin</a> <font color=\"#6f6f…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMMVlRWE5jVjZmQjFUSWJfZWpTaTFId2pHLWtDTFFqb2xKVTFveFd4UVJ5dld6aWRZVkFTSmVFU1czbExtQVhEcmFBQ1VqRHBzclA2N19aMVJHZnpK?oc=5",
+      "publishedAt": "2026-04-14T12:44:49.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260414-7438177-bitcoin-xcom",
+      "localUrl": "/news/20260414-7438177-bitcoin-xcom.html"
     },
     {
       "source": "X Wire",
