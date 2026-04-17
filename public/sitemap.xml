@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-17T13:56:17.557Z</lastmod>
+    <lastmod>2026-04-17T15:12:34.525Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-17T13:56:17.557Z</lastmod>
+    <lastmod>2026-04-17T15:12:34.525Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260417-ai-agents-already-run-a-fifth-of-defi-but-still-lose-to-humans-at-trading.html</loc>
+    <lastmod>2026-04-17T14:48:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260417-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-04-17T14:14:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260417-bitcoin-stocks-surge-as-iran-says-strait-of-hormuz-is-completely-open.html</loc>
+    <lastmod>2026-04-17T14:10:16.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260417-kraken-parent-payward-agrees-to-acquire-derivatives-exchange-bitnomial-for-550-m.html</loc>
+    <lastmod>2026-04-17T14:01:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260417-bitcoin-price-quietly-sets-new-10-week-high-as-trader-sees-88k-in-weeks.html</loc>
@@ -31,7 +55,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260417-back-in-the-black-strategys-returns-to-profit-on-bitcoin-holdings-after-76000-su.html</loc>
+    <loc>https://www.librchain.com/news/20260417-back-in-the-black-strategy-surges-8-as-bitcoins-rise-to-77000-puts-holdings-in-p.html</loc>
     <lastmod>2026-04-17T13:38:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -135,6 +159,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260417-5-trillion-jpmorgan-says-the-clarity-act-is-close-to-completion-key-issues-have-.html</loc>
     <lastmod>2026-04-17T10:24:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260417-breaking-jpmorgan-says-the-crypto-market-structure-bill-is-close-to-completion-c.html</loc>
+    <lastmod>2026-04-17T10:15:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -249,12 +279,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260417-three-things-bitcoin-must-do-to-hold-highs-above-76k-analysts.html</loc>
     <lastmod>2026-04-17T02:00:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260417-stablecoin-issuer-circle-faces-lawsuit-over-280m-drift-protocol-hack.html</loc>
-    <lastmod>2026-04-17T01:35:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -379,12 +403,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260416-polkadot-ethereum-bridge-hack-losses-were-10x-worse-than-reported-team-admits.html</loc>
-    <lastmod>2026-04-16T15:28:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260416-crypto-for-advisors-tokenizations-evolution.html</loc>
     <lastmod>2026-04-16T15:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -397,20 +415,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260416-french-police-rescue-mother-and-child-after-400k-crypto-ransom-kidnapping.html</loc>
-    <lastmod>2026-04-16T14:46:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260416-the-24-hour-trap-why-the-uks-new-crypto-rules-could-catch-some-firms-off-guard.html</loc>
     <lastmod>2026-04-16T14:40:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260416-snap-cuts-1000-jobs-aims-to-save-500-million-as-ai-reshapes-operations.html</loc>
-    <lastmod>2026-04-16T14:28:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,12 +457,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260416-a-look-at-doug-limans-70m-bitcoin-killing-satoshi-movie-which-uses-ai-for-sets-l.html</loc>
-    <lastmod>2026-04-16T11:55:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260416-bitcoin-is-about-to-follow-nasdaq-the-reason-for-this-is-quite-simple-the-correl.html</loc>
     <lastmod>2026-04-16T08:09:58.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,14 +481,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260415-just-in-popular-chinese-commentator-professor-jiang-claims-bitcoin-is-a-cia-oper.html</loc>
-    <lastmod>2026-04-15T20:55:40.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260415-korea-accounts-for-30-of-global-crypto-trading-volume-with-altcoins-representing.html</loc>
+    <lastmod>2026-04-15T07:50:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260415-korea-accounts-for-30-of-global-crypto-trading-volume-with-altcoins-representing.html</loc>
-    <lastmod>2026-04-15T07:50:40.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260415-bip-361-proposes-freezing-quantum-vulnerable-bitcoin-addresses-bitcoin-developer.html</loc>
+    <lastmod>2026-04-15T07:08:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
