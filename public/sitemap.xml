@@ -2,15 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-17T06:12:29.043Z</lastmod>
+    <lastmod>2026-04-17T08:51:48.104Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-17T06:12:29.043Z</lastmod>
+    <lastmod>2026-04-17T08:51:48.104Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260417-ethereum-just-had-its-busiest-quarter-ever-capping-a-three-year-comeback.html</loc>
+    <lastmod>2026-04-17T07:27:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260417-this-simple-indicator-has-called-every-bottom-since-2015-it-hasnt-triggered-yet.html</loc>
+    <lastmod>2026-04-17T07:18:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260417-texas-man-in-20m-meta-1-coin-fraud-sentenced-to-23-years-in-prison.html</loc>
+    <lastmod>2026-04-17T06:25:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260417-crypto-in-sustained-winter-as-cex-volumes-drop-39-in-q1-coingecko.html</loc>
+    <lastmod>2026-04-17T06:16:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260417-cybersecurity-researcher-uncovers-fake-ledger-sold-on-chinese-marketplace.html</loc>
+    <lastmod>2026-04-17T06:02:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260417-ethereum-foundation-funded-program-exposes-100-dprk-workers-in-crypto.html</loc>
+    <lastmod>2026-04-17T05:20:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260417-at-least-a-dozen-crypto-entities-attacked-since-drift-protocol-hack.html</loc>
@@ -175,6 +211,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260416-raoul-pal-the-entire-banking-system-will-go-to-eth-raoul-explains-i-find-it-hila.html</loc>
+    <lastmod>2026-04-16T19:07:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260416-public-crypto-miners-sold-more-btc-in-q1-2026-than-all-of-2025-report.html</loc>
     <lastmod>2026-04-16T18:48:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -217,20 +259,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260416-charles-schwab-to-roll-out-spot-bitcoin-ether-trading-for-retail-clients.html</loc>
-    <lastmod>2026-04-16T17:18:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260416-cftc-chair-mike-selig-faces-bipartisan-pushback-on-prediction-markets-hyperliqui.html</loc>
     <lastmod>2026-04-16T16:57:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260416-bitcoin-bull-run-still-too-early-to-call-as-demand-lags-exiting-capital-analyst.html</loc>
-    <lastmod>2026-04-16T16:55:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -253,12 +283,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260416-bitcoin-rebounds-near-745k-as-us-stocks-chase-after-new-all-time-highs.html</loc>
-    <lastmod>2026-04-16T16:17:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260416-the-next-fed-chair-owns-bitcoin-kevin-warsh-trumps-pick-to-replace-jerome-powell.html</loc>
     <lastmod>2026-04-16T16:10:06.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -267,12 +291,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260416-drift-taps-tether-for-148-million-recovery-plan-ditches-circles-usdc-following-d.html</loc>
     <lastmod>2026-04-16T15:54:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260416-zonda-exchange-says-45k-btc-wallet-inaccessible-amid-withdrawal-crisis.html</loc>
-    <lastmod>2026-04-16T15:48:12.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -445,18 +463,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260416-circle-ceo-says-china-could-launch-yuan-stablecoin-within-3-to-5-years-as-curren.html</loc>
-    <lastmod>2026-04-16T09:12:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260416-buying-coffee-with-bitcoin-is-easy-the-resulting-tax-burden-is-not.html</loc>
-    <lastmod>2026-04-16T08:48:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260416-today-chinese-professor-jiang-xueqin-says-bitcoin-is-a-cia-operation-questioning.html</loc>
     <lastmod>2026-04-16T06:50:31.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -471,12 +477,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260416-eth-rangers-program-recap.html</loc>
     <lastmod>2026-04-16T00:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260415-just-in-popular-chinese-commentator-professor-jiang-claims-bitcoin-is-a-cia-oper.html</loc>
-    <lastmod>2026-04-15T20:55:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
