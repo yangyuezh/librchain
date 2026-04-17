@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-17T21:00:53.297Z</lastmod>
+    <lastmod>2026-04-17T21:58:21.474Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-17T21:00:53.297Z</lastmod>
+    <lastmod>2026-04-17T21:58:21.474Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260417-sanctioned-russia-linked-exchange-grinex-suspends-operations-following-alleged-c.html</loc>
+    <lastmod>2026-04-17T21:14:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260417-bitcoin-cracks-7-month-ceiling-can-bulls-push-it-higher.html</loc>
+    <lastmod>2026-04-17T21:11:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260417-you-can-now-use-xrp-on-solanaheres-how.html</loc>
@@ -127,12 +139,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260417-just-in-x-says-its-cashtag-trading-pilot-for-stocks-crypto-generated-an-estimate.html</loc>
-    <lastmod>2026-04-17T15:38:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260417-dont-get-ai-agents-and-stablecoin-transfers-enroll-in-coindesk-university.html</loc>
     <lastmod>2026-04-17T15:29:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -231,12 +237,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260417-sec-officials-push-us-crypto-ambitions-in-debut-podcast-episode.html</loc>
     <lastmod>2026-04-17T12:39:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260417-trump-just-posted-this-the-usa-is-the-hottest-country-in-the-world-right-now-xco.html</loc>
-    <lastmod>2026-04-17T12:38:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -409,12 +409,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260416-russian-crypto-exchange-grinex-halts-trading-alleging-13m-exploit-by-western-spe.html</loc>
-    <lastmod>2026-04-16T20:35:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260416-dear-crypto-it-took-us-4-years-to-admit-the-hard-truth-tokens-dont-make-sense-an.html</loc>
     <lastmod>2026-04-16T20:16:19.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -451,8 +445,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260416-big-news-def-better-deal-than-most-crypto-exchanges-for-newbies-but-imo-its-toug.html</loc>
-    <lastmod>2026-04-16T15:45:40.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260416-everything-crypto-in-one-flow-trade-track-earn-compete-czrexchange-czr_dex-xcom.html</loc>
+    <lastmod>2026-04-16T14:15:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -493,8 +487,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260415-just-in-pakistans-central-bank-overturns-ban-and-allows-banks-to-open-accounts-f.html</loc>
+    <lastmod>2026-04-15T12:12:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260415-korea-accounts-for-30-of-global-crypto-trading-volume-with-altcoins-representing.html</loc>
     <lastmod>2026-04-15T07:50:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260415-bip-361-proposes-freezing-quantum-vulnerable-bitcoin-addresses-bitcoin-developer.html</loc>
+    <lastmod>2026-04-15T07:08:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
