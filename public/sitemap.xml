@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-18T05:48:27.965Z</lastmod>
+    <lastmod>2026-04-18T07:33:19.844Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-18T05:48:27.965Z</lastmod>
+    <lastmod>2026-04-18T07:33:19.844Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -195,6 +195,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260417-beaten-down-digital-asset-treasury-names-lead-crypto-stock-surge-as-bitcoin-hits.html</loc>
     <lastmod>2026-04-17T16:01:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260417-i-think-its-time-to-focus-fully-on-btc-and-leave-gold-for-the-moment-the-reason-.html</loc>
+    <lastmod>2026-04-17T16:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -421,12 +427,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260417-public-bitcoin-miners-sell-32k-btc-in-q1-surpassing-full-year-2025-total-publicl.html</loc>
-    <lastmod>2026-04-17T02:16:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260416-mstr-is-amplified-bitcoin-xcom.html</loc>
     <lastmod>2026-04-16T22:50:47.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -487,14 +487,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260416-after-5-years-on-the-ethereumfndn-leadership-team-ive-decided-to-step-away-and-p.html</loc>
-    <lastmod>2026-04-16T12:39:58.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260416-eth-rangers-program-recap.html</loc>
+    <lastmod>2026-04-16T00:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260416-eth-rangers-program-recap.html</loc>
-    <lastmod>2026-04-16T00:00:00.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260415-just-in-popular-chinese-commentator-professor-jiang-claims-bitcoin-is-a-cia-oper.html</loc>
+    <lastmod>2026-04-15T20:55:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
