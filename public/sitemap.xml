@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-18T21:48:44.814Z</lastmod>
+    <lastmod>2026-04-18T22:53:38.672Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-18T21:48:44.814Z</lastmod>
+    <lastmod>2026-04-18T22:53:38.672Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260418-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-04-18T22:11:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260418-kelp-restaking-platform-exploited-293m-drained-in-attack.html</loc>
+    <lastmod>2026-04-18T22:06:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260418-2026s-biggest-crypto-exploit-292-million-gets-drained-from-kelp-dao-with-wrapped.html</loc>
@@ -115,12 +127,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260418-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-04-18T12:06:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260418-former-uk-prime-minister-sees-economy-on-very-negative-trajectory-indicates-supp.html</loc>
     <lastmod>2026-04-18T12:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -159,12 +165,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260418-sec-charges-donald-basile-in-16m-crypto-fraud-tied-to-insured-token.html</loc>
     <lastmod>2026-04-18T07:32:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260418-huge-americans-own-more-bitcoin-than-gold-per-river-xcom.html</loc>
-    <lastmod>2026-04-18T05:30:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -337,12 +337,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260417-french-finance-minister-backs-euro-pegged-stablecoins-to-compete-with-us.html</loc>
-    <lastmod>2026-04-17T17:14:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260417-just-in-us-congresswoman-sheri-biggs-purchases-up-to-250000-in-bitcoin-etfs-xcom.html</loc>
     <lastmod>2026-04-17T16:55:15.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -433,6 +427,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260417-michael-saylor-is-now-break-even-on-bitcoin-strategy-average-price-75577-current.html</loc>
+    <lastmod>2026-04-17T09:10:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260417-arthur-hayes-90-of-my-net-worth-is-bitcoin-on-april-10-2026-bitmex-co-founder-ar.html</loc>
     <lastmod>2026-04-17T07:00:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -463,14 +463,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260416-schwab-announces-spot-crypto-trading-will-begin-rolling-out-in-the-coming-weeks-.html</loc>
-    <lastmod>2026-04-16T14:06:00.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260416-breaking-charles-schwab-announces-the-launch-of-direct-trading-of-both-bitcoin-a.html</loc>
+    <lastmod>2026-04-16T13:46:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260416-breaking-charles-schwab-announces-the-launch-of-direct-trading-of-both-bitcoin-a.html</loc>
-    <lastmod>2026-04-16T13:46:28.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260416-bitcoin-funding-rates-just-hit-their-most-negative-level-since-2023-this-means-t.html</loc>
+    <lastmod>2026-04-16T12:43:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
