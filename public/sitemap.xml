@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-18T22:53:38.672Z</lastmod>
+    <lastmod>2026-04-18T23:49:25.205Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-18T22:53:38.672Z</lastmod>
+    <lastmod>2026-04-18T23:49:25.205Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -337,12 +337,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260417-just-in-us-congresswoman-sheri-biggs-purchases-up-to-250000-in-bitcoin-etfs-xcom.html</loc>
-    <lastmod>2026-04-17T16:55:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260417-us-government-moves-bitcoin-tied-to-9-billion-bitfinex-hack.html</loc>
     <lastmod>2026-04-17T16:47:35.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -399,6 +393,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260417-bitcoin-and-chill-xcom.html</loc>
     <lastmod>2026-04-17T13:25:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260417-btc-on-the-daily-timeframe-bitcoin-has-been-able-to-maintain-itself-above-the-bl.html</loc>
+    <lastmod>2026-04-17T12:55:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -469,12 +469,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260416-bitcoin-funding-rates-just-hit-their-most-negative-level-since-2023-this-means-t.html</loc>
-    <lastmod>2026-04-16T12:43:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260416-just-in-jpmorgan-reports-that-the-bitcoin-and-crypto-market-structure-legislatio.html</loc>
     <lastmod>2026-04-16T12:40:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -487,8 +481,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260416-a-look-at-doug-limans-70m-bitcoin-killing-satoshi-movie-which-uses-ai-for-sets-l.html</loc>
-    <lastmod>2026-04-16T11:55:54.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260416-bullish-blackrock-spot-bitcoin-etf-bought-3900-btc-worth-29186m-on-apr-15-xcom.html</loc>
+    <lastmod>2026-04-16T05:00:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260416-bitcoin-btc-is-at-a-make-or-break-point-for-the-third-time-in-six-months-btc-is-.html</loc>
+    <lastmod>2026-04-16T03:38:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
