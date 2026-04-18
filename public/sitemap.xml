@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-18T13:33:54.330Z</lastmod>
+    <lastmod>2026-04-18T14:55:55.251Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-18T13:33:54.330Z</lastmod>
+    <lastmod>2026-04-18T14:55:55.251Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260418-zondacrypto-under-fire-as-polands-prime-minister-links-exchange-to-legislative-i.html</loc>
+    <lastmod>2026-04-18T14:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260418-openais-new-ai-model-rosalind-could-shave-years-off-drug-discovery-you-probably-.html</loc>
@@ -55,14 +61,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260418-binance-founder-changpeng-zhao-states-the-fomo-is-just-s-xcom.html</loc>
+    <loc>https://www.librchain.com/news/20260418-czs-fomo-is-just-starting-quote-fuels-crypto-buzz-xcom.html</loc>
     <lastmod>2026-04-18T10:52:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260418-breaking-iran-has-officially-closed-the-straight-of-hormuz-again-the-military-st.html</loc>
-    <lastmod>2026-04-18T10:20:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -355,12 +355,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260417-btc-on-the-daily-timeframe-bitcoin-has-been-able-to-maintain-itself-above-the-bl.html</loc>
-    <lastmod>2026-04-17T12:55:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260417-sec-officials-push-us-crypto-ambitions-in-debut-podcast-episode.html</loc>
     <lastmod>2026-04-17T12:39:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -421,14 +415,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260417-michael-saylor-is-now-break-even-on-bitcoin-strategy-average-price-75577-current.html</loc>
-    <lastmod>2026-04-17T09:10:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260417-ethereum-just-had-its-busiest-quarter-ever-capping-a-three-year-comeback.html</loc>
-    <lastmod>2026-04-17T07:27:02.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260417-big-ethereum-had-its-busiest-quarter-in-history-processing-200m-transactions-in-.html</loc>
+    <lastmod>2026-04-17T08:20:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -441,6 +429,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260417-most-bitcoin-btc-traders-are-betting-to-the-upside-this-week-we-watched-btc-char.html</loc>
     <lastmod>2026-04-17T05:53:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260417-public-bitcoin-miners-sell-32k-btc-in-q1-surpassing-full-year-2025-total-publicl.html</loc>
+    <lastmod>2026-04-17T02:16:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -471,6 +465,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260416-interesting-that-a-former-crypto-guy-has-this-job-at-openai-xcom.html</loc>
     <lastmod>2026-04-16T18:14:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260416-schwab-announces-spot-crypto-trading-will-begin-rolling-out-in-the-coming-weeks-.html</loc>
+    <lastmod>2026-04-16T14:06:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
