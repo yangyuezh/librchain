@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-19T13:32:53.129Z</lastmod>
+    <lastmod>2026-04-19T14:56:27.323Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-19T13:32:53.129Z</lastmod>
+    <lastmod>2026-04-19T14:56:27.323Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260419-ravedaos-rave-token-collapses-90-in-a-day-as-exchange-probes-widen.html</loc>
+    <lastmod>2026-04-19T14:28:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260419-inside-the-rise-of-wrench-attacks-against-crypto-holders-and-how-france-has-beco.html</loc>
+    <lastmod>2026-04-19T14:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260419-nomura-study-says-65-of-institutional-investors-see-crypto-as-a-vital-portfolio-.html</loc>
@@ -367,12 +379,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260417-in-2017-morgan-stanley-said-bitcoins-true-value-could-be-zero-this-week-morgan-s.html</loc>
-    <lastmod>2026-04-17T19:56:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260417-sam-altmans-world-teams-with-zoom-tinder-to-better-verify-humans-in-the-ai-age.html</loc>
     <lastmod>2026-04-17T19:39:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -403,20 +409,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260417-sam-altmans-world-project-launches-major-upgrade-to-fight-deepfakes-and-bots.html</loc>
-    <lastmod>2026-04-17T17:50:27.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260417-us-government-moves-bitcoin-tied-to-9-billion-bitfinex-hack.html</loc>
     <lastmod>2026-04-17T16:47:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260417-beaten-down-digital-asset-treasury-names-lead-crypto-stock-surge-as-bitcoin-hits.html</loc>
-    <lastmod>2026-04-17T16:01:15.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,12 +469,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260417-breaking-bitcoin-rises-above-76000-and-hits-its-highest-level-in-10-weeks-xcom.html</loc>
-    <lastmod>2026-04-17T11:05:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260417-arthur-hayes-90-of-my-net-worth-is-bitcoin-on-april-10-2026-bitmex-co-founder-ar.html</loc>
     <lastmod>2026-04-17T07:00:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -493,8 +481,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260416-update-bitcoin-funding-rates-hit-historically-low-levels-often-seen-at-market-bo.html</loc>
+    <lastmod>2026-04-16T20:10:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260416-interesting-that-a-former-crypto-guy-has-this-job-at-openai-xcom.html</loc>
     <lastmod>2026-04-16T18:14:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260416-fun-fact-morgan-stanley-spot-bitcoin-etf-brought-in-over-100-million-inflows-in-.html</loc>
+    <lastmod>2026-04-16T18:07:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

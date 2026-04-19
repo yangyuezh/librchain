@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-04-19T13:32:53.081Z",
+  "updatedAt": "2026-04-19T14:56:27.276Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "RaveDAO's RAVE token collapses 90% in a day as exchange probes widen",
+      "summary": "The token traded at $1.15 on Sunday, down from a $27.33 peak on Friday, wiping out more than $5 billion in market cap while Binance and Bitget investigations advance.",
+      "url": "https://www.coindesk.com/markets/2026/04/19/ravedao-s-rave-token-collapses-90-in-a-day-as-exchange-probes-widen",
+      "publishedAt": "2026-04-19T14:28:45.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260419-ravedaos-rave-token-collapses-90-in-a-day-as-exchange-probes-widen",
+      "localUrl": "/news/20260419-ravedaos-rave-token-collapses-90-in-a-day-as-exchange-probes-widen.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Inside the rise of wrench attacks against crypto holders and how France has become the focus",
+      "summary": "France has seen 41 crypto-related kidnappings this year, roughly one every 2.5 days, prompting authorities to step up security.",
+      "url": "https://www.coindesk.com/business/2026/04/19/inside-the-rise-of-wrench-attacks-against-crypto-holders-and-how-france-has-become-the-focus",
+      "publishedAt": "2026-04-19T14:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260419-inside-the-rise-of-wrench-attacks-against-crypto-holders-and-how-france-has-beco",
+      "localUrl": "/news/20260419-inside-the-rise-of-wrench-attacks-against-crypto-holders-and-how-france-has-beco.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Nomura study says 65% of institutional investors see crypto as a vital portfolio diversifier",
@@ -204,7 +232,7 @@
     {
       "source": "Cointelegraph",
       "title": "Kelp restaking platform exploited, $293M drained in attack",
-      "summary": "The attack caused a \"cross-protocol contagion\" that has impacted at least nine crypto protocols, blockchain security firm Cyvers said.",
+      "summary": "The attack triggered a \"cross-protocol contagion\" that has hit at least nine crypto protocols, blockchain security firm Cyvers said.",
       "url": "https://cointelegraph.com/news/restaking-platform-kelp-exploited-293-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-04-18T22:06:39.000Z",
       "keywords": [
@@ -797,17 +825,6 @@
       "localUrl": "/news/20260417-rep-sheri-biggs-doubles-down-on-bitcoin-buys-up-to-250k-of-blackrocks-etf.html"
     },
     {
-      "source": "X Wire",
-      "title": "In 2017, Morgan Stanley said 'Bitcoin's true value could be zero.' This week, Morgan Stanley celebrated the launch of its Bitcoin ETF — its most successful ETF launch ever. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBScndacVRhM2FiNlNTeDF5V0tMOW5MUEk1U1gxbzA0VS1TOXd4NGhwYUVPR3g0RGMxc3lzbHB5VF91aVdsOHc4VFd6YS13aTRRMGtMSHJHdUpHSXBhOUtPWHNhbl92dEU?oc=5\" target=\"_blank\">In 2017, Morgan Stanley sai…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBScndacVRhM2FiNlNTeDF5V0tMOW5MUEk1U1gxbzA0VS1TOXd4NGhwYUVPR3g0RGMxc3lzbHB5VF91aVdsOHc4VFd6YS13aTRRMGtMSHJHdUpHSXBhOUtPWHNhbl92dEU?oc=5",
-      "publishedAt": "2026-04-17T19:56:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260417-in-2017-morgan-stanley-said-bitcoins-true-value-could-be-zero-this-week-morgan-s",
-      "localUrl": "/news/20260417-in-2017-morgan-stanley-said-bitcoins-true-value-could-be-zero-this-week-morgan-s.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Sam Altman's World Teams With Zoom, Tinder to Better Verify Humans in the AI Age",
       "summary": "Iris-scanning crypto project World expands with Tinder's U.S. human verification rollout and Zoom's Deep Face feature.",
@@ -874,21 +891,6 @@
       "localUrl": "/news/20260417-strategy-shares-pop-as-bitcoin-holdings-flip-green-near-61-billion.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Sam Altman’s World project launches major upgrade to fight deepfakes and bots",
-      "summary": "The project is also expanding its partnerships with Tinder, Zoom and Docusign.",
-      "url": "https://www.coindesk.com/tech/2026/04/17/sam-altman-s-world-project-launches-major-upgrade-to-fight-deepfakes-and-bots",
-      "publishedAt": "2026-04-17T17:50:27.000Z",
-      "keywords": [
-        "Tech",
-        "Artificial Intelligence",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260417-sam-altmans-world-project-launches-major-upgrade-to-fight-deepfakes-and-bots",
-      "localUrl": "/news/20260417-sam-altmans-world-project-launches-major-upgrade-to-fight-deepfakes-and-bots.html"
-    },
-    {
       "source": "Decrypt",
       "title": "US Government Moves Bitcoin Tied to $9 Billion Bitfinex Hack",
       "summary": "The U.S. government moved 8.2 Bitcoin, or greater than $600,000, that is linked to the $9 billion Bitfinex hack from 2016.",
@@ -900,26 +902,6 @@
       "category": "监管",
       "slug": "20260417-us-government-moves-bitcoin-tied-to-9-billion-bitfinex-hack",
       "localUrl": "/news/20260417-us-government-moves-bitcoin-tied-to-9-billion-bitfinex-hack.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Beaten-down digital asset treasury names lead crypto stock surge as bitcoin hits $78,000",
-      "summary": "Oil prices slumped as Trump said Iran committed to open the Strait of Hormuz and the U.S. plans to acquire that country's enriched uranium as part of a deal.",
-      "url": "https://www.coindesk.com/markets/2026/04/17/beaten-down-digital-asset-treasury-names-lead-crypto-stock-surge-as-bitcoin-hits-usd78-000",
-      "publishedAt": "2026-04-17T16:01:15.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Solana News",
-        "Ethereum News",
-        "Iran",
-        "Donald Trump",
-        "Digital Asset Treasury",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260417-beaten-down-digital-asset-treasury-names-lead-crypto-stock-surge-as-bitcoin-hits",
-      "localUrl": "/news/20260417-beaten-down-digital-asset-treasury-names-lead-crypto-stock-surge-as-bitcoin-hits.html"
     },
     {
       "source": "Decrypt",
@@ -1039,17 +1021,6 @@
     },
     {
       "source": "X Wire",
-      "title": "BREAKING: Bitcoin rises above $76,000 and hits its highest level in 10 weeks. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFByZnVtYzBtMVpVbHhnWS10NFFxeFFONlgxMmt0eUtmOGJSeTZVRnlOUVFzVk15cnFrcUx5ZnEwazVEcFdrcFJMemxuTGJ3aFdORDBpNGhiSFJFVzBJcV9DSE9WT0lNUQ?oc=5\" target=\"_blank\">BREAKING: Bitcoin rises abov…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByZnVtYzBtMVpVbHhnWS10NFFxeFFONlgxMmt0eUtmOGJSeTZVRnlOUVFzVk15cnFrcUx5ZnEwazVEcFdrcFJMemxuTGJ3aFdORDBpNGhiSFJFVzBJcV9DSE9WT0lNUQ?oc=5",
-      "publishedAt": "2026-04-17T11:05:16.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260417-breaking-bitcoin-rises-above-76000-and-hits-its-highest-level-in-10-weeks-xcom",
-      "localUrl": "/news/20260417-breaking-bitcoin-rises-above-76000-and-hits-its-highest-level-in-10-weeks-xcom.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Arthur Hayes: 90% of My Net Worth Is Bitcoin On April 10, 2026, BitMEX Co-founder Arthur Hayes @CryptoHayes stated in Anthony Pompliano's interview that over 90% of his net worth is in Bitcoin. Given his low cost basis, he remains inactive amid market fluc - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFa2tkN0ZXU1pYYnctZUNVWFdSRS1EWTB1bUdyd2ZLQjVxT0QwbnNacm90NFFBS2dzOWJQQVl3alJlR1Ftcll4c1Q4SFowdFN3YnZISHVQMXZCTFRtOTJDMHlkRQ?oc=5\" target=\"_blank\">Arthur Hayes: 90% of My Net Wort…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFa2tkN0ZXU1pYYnctZUNVWFdSRS1EWTB1bUdyd2ZLQjVxT0QwbnNacm90NFFBS2dzOWJQQVl3alJlR1Ftcll4c1Q4SFowdFN3YnZISHVQMXZCTFRtOTJDMHlkRQ?oc=5",
@@ -1072,6 +1043,17 @@
     },
     {
       "source": "X Wire",
+      "title": "🚨 UPDATE: Bitcoin funding rates hit historically low levels often seen at market bottoms, with heavy short positioning raising the risk of a potential short squeeze. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yQkJfSWtZcGJSTm5wMDdqQnMyZXk3YU56V0JXVnFkNmZIX0tCU21VdVVNN1l6MHc2ZE5vVUlwMm9Obm1JNTBxcjdHMEZzR29fNjVpbDdJWFc1NTZmMC0tV2otNFQ?oc=5\" target=\"_blank\">🚨 UPDATE: Bitcoin funding rate…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yQkJfSWtZcGJSTm5wMDdqQnMyZXk3YU56V0JXVnFkNmZIX0tCU21VdVVNN1l6MHc2ZE5vVUlwMm9Obm1JNTBxcjdHMEZzR29fNjVpbDdJWFc1NTZmMC0tV2otNFQ?oc=5",
+      "publishedAt": "2026-04-16T20:10:54.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260416-update-bitcoin-funding-rates-hit-historically-low-levels-often-seen-at-market-bo",
+      "localUrl": "/news/20260416-update-bitcoin-funding-rates-hit-historically-low-levels-often-seen-at-market-bo.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Interesting that a former crypto guy has this job at OpenAI - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KUkQ2WGY3VUIyYVlKTGw5SDBpM05SdTJ1ZWpaaWxWNS1Gb2VfM0NnbWVGdGZHaXNiOXpzUUZUYTJJZzVLS1pZNlFkcnBwLTdtS19iR3M1Y3pwZTlaMERvcWtn?oc=5\" target=\"_blank\">Interesting that a former crypto g…",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KUkQ2WGY3VUIyYVlKTGw5SDBpM05SdTJ1ZWpaaWxWNS1Gb2VfM0NnbWVGdGZHaXNiOXpzUUZUYTJJZzVLS1pZNlFkcnBwLTdtS19iR3M1Y3pwZTlaMERvcWtn?oc=5",
@@ -1080,6 +1062,17 @@
       "category": "X热点",
       "slug": "20260416-interesting-that-a-former-crypto-guy-has-this-job-at-openai-xcom",
       "localUrl": "/news/20260416-interesting-that-a-former-crypto-guy-has-this-job-at-openai-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "FUN FACT: Morgan Stanley spot Bitcoin ETF brought in over $100 MILLION inflows in its first week, their best ETF launch ever 🤯 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kTXhvZHV3OHFWcXJic1ZUQnNhRG9yWDY4N1Z3ZFhucExBazlLSFRWWk1EQXFucmlxY2MwenZXbmtMblBuUG9XcVZCenhLeHJYS2hUQ2JaSHF1dm12UGRtR195QkpZRWM?oc=5\" target=\"_blank\">FUN FACT: Morgan Stanley sp…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kTXhvZHV3OHFWcXJic1ZUQnNhRG9yWDY4N1Z3ZFhucExBazlLSFRWWk1EQXFucmlxY2MwenZXbmtMblBuUG9XcVZCenhLeHJYS2hUQ2JaSHF1dm12UGRtR195QkpZRWM?oc=5",
+      "publishedAt": "2026-04-16T18:07:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260416-fun-fact-morgan-stanley-spot-bitcoin-etf-brought-in-over-100-million-inflows-in-",
+      "localUrl": "/news/20260416-fun-fact-morgan-stanley-spot-bitcoin-etf-brought-in-over-100-million-inflows-in-.html"
     },
     {
       "source": "Ethereum Blog",
