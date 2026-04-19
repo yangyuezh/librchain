@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-18T23:49:25.205Z</lastmod>
+    <lastmod>2026-04-19T03:47:33.258Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-18T23:49:25.205Z</lastmod>
+    <lastmod>2026-04-19T03:47:33.258Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260419-warren-claims-secs-atkins-likely-misled-congress-over-enforcement-data.html</loc>
+    <lastmod>2026-04-19T00:50:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260418-update-over-520m-in-stablecoins-left-ethereum-in-just-24-hours-xcom.html</loc>
+    <lastmod>2026-04-18T23:30:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260418-heres-what-happened-in-crypto-today.html</loc>
@@ -55,6 +67,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260418-the-pace-of-crypto-hacks-is-at-all-time-highs-i-think-this-is-ai-ai-giving-hacke.html</loc>
+    <lastmod>2026-04-18T20:02:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260418-galaxyone-head-wants-retail-investors-to-stake-more-predict-less.html</loc>
     <lastmod>2026-04-18T19:44:48.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -67,8 +85,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260418-flashback-on-this-day-in-2024-block-840000-the-bitcoin-halving-block-was-mined-b.html</loc>
+    <lastmod>2026-04-18T18:30:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260418-iran-views-btc-as-a-strategic-asset-but-usdt-still-dominates-oil-tolls-bpi.html</loc>
     <lastmod>2026-04-18T18:27:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260418-ceasefire-is-officially-broken-isreal-accuses-hezbollah-accused-of-violating-ter.html</loc>
+    <lastmod>2026-04-18T16:48:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -253,12 +283,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260417-ethereum-eth-opens-the-path-to-2900-ethereum-has-officially-cleared-the-x-axis-o.html</loc>
-    <lastmod>2026-04-17T19:59:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260417-in-2017-morgan-stanley-said-bitcoins-true-value-could-be-zero-this-week-morgan-s.html</loc>
     <lastmod>2026-04-17T19:56:43.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -331,8 +355,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260417-singapore-gulf-bank-adds-stablecoin-mint-and-redeem-for-247-settlement.html</loc>
-    <lastmod>2026-04-17T17:33:41.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260417-just-in-us-congresswoman-sheri-biggs-purchases-up-to-250000-in-bitcoin-etfs-xcom.html</loc>
+    <lastmod>2026-04-17T16:55:15.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -397,12 +421,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260417-btc-on-the-daily-timeframe-bitcoin-has-been-able-to-maintain-itself-above-the-bl.html</loc>
-    <lastmod>2026-04-17T12:55:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260417-sec-officials-push-us-crypto-ambitions-in-debut-podcast-episode.html</loc>
     <lastmod>2026-04-17T12:39:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -451,14 +469,20 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260416-bitcoin-has-won-over-wallstreet-in-just-6-months-bofa-recommended-etfs-morgan-st.html</loc>
-    <lastmod>2026-04-16T20:37:09.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260416-mstr-is-amplified-bitcoin-xcom.html</loc>
+    <lastmod>2026-04-16T22:50:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260416-interesting-that-a-former-crypto-guy-has-this-job-at-openai-xcom.html</loc>
     <lastmod>2026-04-16T18:14:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260416-schwab-announces-spot-crypto-trading-will-begin-rolling-out-in-the-coming-weeks-.html</loc>
+    <lastmod>2026-04-16T14:06:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -471,30 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260416-just-in-jpmorgan-reports-that-the-bitcoin-and-crypto-market-structure-legislatio.html</loc>
     <lastmod>2026-04-16T12:40:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260416-after-5-years-on-the-ethereumfndn-leadership-team-ive-decided-to-step-away-and-p.html</loc>
-    <lastmod>2026-04-16T12:39:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260416-bullish-blackrock-spot-bitcoin-etf-bought-3900-btc-worth-29186m-on-apr-15-xcom.html</loc>
-    <lastmod>2026-04-16T05:00:36.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260416-bitcoin-btc-is-at-a-make-or-break-point-for-the-third-time-in-six-months-btc-is-.html</loc>
-    <lastmod>2026-04-16T03:38:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260416-get-a-hodl-of-our-new-bitcoin-milkshake-launching-on-april-27-the-best-way-to-st.html</loc>
-    <lastmod>2026-04-16T01:25:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
