@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-19T07:45:19.601Z</lastmod>
+    <lastmod>2026-04-19T09:05:01.518Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-19T07:45:19.601Z</lastmod>
+    <lastmod>2026-04-19T09:05:01.518Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260419-ravedao-denies-manipulation-as-binance-bitget-probe-rave-trading-activity.html</loc>
+    <lastmod>2026-04-19T07:19:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260419-charles-schwab-citadel-securities-weigh-entering-prediction-markets.html</loc>
@@ -333,12 +339,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260417-elizabeth-warren-accuses-sec-chair-paul-atkins-of-potentially-lying-to-congress.html</loc>
     <lastmod>2026-04-17T18:43:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260417-crypto-market-liquidations-hit-820m-as-bitcoin-price-taps-78k.html</loc>
-    <lastmod>2026-04-17T18:27:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
