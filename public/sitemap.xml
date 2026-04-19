@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-19T14:56:27.323Z</lastmod>
+    <lastmod>2026-04-19T15:51:26.005Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-19T14:56:27.323Z</lastmod>
+    <lastmod>2026-04-19T15:51:26.005Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260419-aave-sees-6-billion-deposit-drop-as-kelp-hack-exposes-structural-risk-for-defi-l.html</loc>
+    <lastmod>2026-04-19T14:56:27.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260419-ravedaos-rave-token-collapses-90-in-a-day-as-exchange-probes-widen.html</loc>
@@ -367,14 +373,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260417-strategy-proposes-semi-monthly-dividends-on-its-popular-strc-preferred-stock.html</loc>
-    <lastmod>2026-04-17T20:32:55.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260417-rep-sheri-biggs-doubles-down-on-bitcoin-buys-up-to-250k-of-blackrocks-etf.html</loc>
+    <lastmod>2026-04-17T20:05:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260417-rep-sheri-biggs-doubles-down-on-bitcoin-buys-up-to-250k-of-blackrocks-etf.html</loc>
-    <lastmod>2026-04-17T20:05:47.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260417-in-2017-morgan-stanley-said-bitcoins-true-value-could-be-zero-this-week-morgan-s.html</loc>
+    <lastmod>2026-04-17T19:56:43.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -481,20 +487,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260416-update-bitcoin-funding-rates-hit-historically-low-levels-often-seen-at-market-bo.html</loc>
-    <lastmod>2026-04-16T20:10:54.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260417-public-bitcoin-miners-sell-32k-btc-in-q1-surpassing-full-year-2025-total-publicl.html</loc>
+    <lastmod>2026-04-17T02:16:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260416-interesting-that-a-former-crypto-guy-has-this-job-at-openai-xcom.html</loc>
     <lastmod>2026-04-16T18:14:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260416-fun-fact-morgan-stanley-spot-bitcoin-etf-brought-in-over-100-million-inflows-in-.html</loc>
-    <lastmod>2026-04-16T18:07:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
