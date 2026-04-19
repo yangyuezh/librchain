@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-19T16:56:27.343Z</lastmod>
+    <lastmod>2026-04-19T17:51:27.840Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-19T16:56:27.343Z</lastmod>
+    <lastmod>2026-04-19T17:51:27.840Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260419-defi-is-dead-crypto-community-scrambles-after-this-years-biggest-hack-exposes-co.html</loc>
+    <lastmod>2026-04-19T17:49:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260419-the-10-public-companies-with-the-biggest-bitcoin-portfolios.html</loc>
     <lastmod>2026-04-19T16:45:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260419-kelp-exploit-highlights-problem-with-non-isolated-defi-lending-crypto-execs.html</loc>
+    <lastmod>2026-04-19T16:37:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -193,12 +205,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260418-the-pace-of-crypto-hacks-is-at-all-time-highs-i-think-this-is-ai-ai-giving-hacke.html</loc>
-    <lastmod>2026-04-18T20:02:36.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260418-galaxyone-head-wants-retail-investors-to-stake-more-predict-less.html</loc>
     <lastmod>2026-04-18T19:44:48.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -307,12 +313,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260418-btc-bitcoin-is-now-testing-upper-micro-support-and-a-break-below-75846-is-still-.html</loc>
-    <lastmod>2026-04-18T10:09:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260418-i-dont-understand-crypto-i-havent-created-any-of-these-meme-coins-someone-is-cre.html</loc>
     <lastmod>2026-04-18T10:05:35.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -349,12 +349,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260418-stripe-doubles-down-on-blockchain-and-stablecoins-aiming-to-become-aws-for-money.html</loc>
-    <lastmod>2026-04-18T04:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260418-xs-new-cashtags-feature-drives-1b-trading-volume-in-first-two-days.html</loc>
     <lastmod>2026-04-18T02:46:56.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -375,12 +369,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260417-sanctioned-russia-linked-exchange-grinex-suspends-operations-following-alleged-c.html</loc>
     <lastmod>2026-04-17T21:14:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260417-polymarket-odds-of-hormuz-strait-traffic-normalizing-by-end-of-may-spike-to-73.html</loc>
-    <lastmod>2026-04-17T21:12:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -495,6 +483,18 @@
   <url>
     <loc>https://www.librchain.com/news/20260417-most-bitcoin-btc-traders-are-betting-to-the-upside-this-week-we-watched-btc-char.html</loc>
     <lastmod>2026-04-17T05:53:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260417-public-bitcoin-miners-sell-32k-btc-in-q1-surpassing-full-year-2025-total-publicl.html</loc>
+    <lastmod>2026-04-17T02:16:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260416-raoul-pal-the-entire-banking-system-will-go-to-eth-raoul-explains-i-find-it-hila.html</loc>
+    <lastmod>2026-04-16T19:07:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
