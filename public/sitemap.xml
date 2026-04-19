@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-19T10:57:41.903Z</lastmod>
+    <lastmod>2026-04-19T11:48:12.483Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-19T10:57:41.903Z</lastmod>
+    <lastmod>2026-04-19T11:48:12.483Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260419-one-person-holds-the-keys-to-200-million-of-a-projects-crypto-his-co-founder-say.html</loc>
+    <lastmod>2026-04-19T11:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260419-aluminum-giant-alcoa-to-sell-dormant-smelter-to-bitcoin-miner-nydig-report.html</loc>
+    <lastmod>2026-04-19T10:19:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260419-president-sadyr-japarov-receives-tron-blockchain-platform-founder-justin-sun-sad.html</loc>
@@ -33,6 +45,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260419-charles-schwab-citadel-securities-weigh-entering-prediction-markets.html</loc>
     <lastmod>2026-04-19T05:38:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260419-alert-kelpdao-has-been-hit-by-a-280m-ethereumarbitrum-exploit-with-attacker-wall.html</loc>
+    <lastmod>2026-04-19T03:31:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -337,12 +355,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260417-ether-accumulation-wallet-balances-increased-by-33-is-a-rally-to-3k-next.html</loc>
-    <lastmod>2026-04-17T19:14:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260417-elizabeth-warren-accuses-sec-chair-paul-atkins-of-potentially-lying-to-congress.html</loc>
     <lastmod>2026-04-17T18:43:57.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -397,6 +409,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260417-just-in-400000000-worth-of-shorts-liquidated-from-the-crypto-market-in-the-past-.html</loc>
+    <lastmod>2026-04-17T15:00:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260417-ai-agents-already-run-a-fifth-of-defi-but-still-lose-to-humans-at-trading.html</loc>
     <lastmod>2026-04-17T14:48:38.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -411,12 +429,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260417-kraken-parent-payward-agrees-to-acquire-derivatives-exchange-bitnomial-for-550-m.html</loc>
     <lastmod>2026-04-17T14:01:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260417-back-in-the-black-strategy-surges-8-as-bitcoins-rise-to-77000-puts-holdings-in-p.html</loc>
-    <lastmod>2026-04-17T13:38:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -471,18 +483,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260416-interesting-that-a-former-crypto-guy-has-this-job-at-openai-xcom.html</loc>
     <lastmod>2026-04-16T18:14:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260416-schwab-announces-spot-crypto-trading-will-begin-rolling-out-in-the-coming-weeks-.html</loc>
-    <lastmod>2026-04-16T14:06:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260416-breaking-charles-schwab-announces-the-launch-of-direct-trading-of-both-bitcoin-a.html</loc>
-    <lastmod>2026-04-16T13:46:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
