@@ -1,7 +1,175 @@
 {
-  "updatedAt": "2026-04-20T09:16:53.307Z",
+  "updatedAt": "2026-04-20T11:40:34.145Z",
   "total": 81,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "LayerZero Pins $292M KelpDAO Bridge Hack on North Korea’s Lazarus Group",
+      "summary": "Attackers forged a cross-chain message, came within minutes of a second drain, and wiped their tracks on the way out.",
+      "url": "https://decrypt.co/364872/layerzero-pins-292m-kelpdao-bridge-hack-on-north-koreas-lazarus-group",
+      "publishedAt": "2026-04-20T11:35:44.000Z",
+      "keywords": [
+        "DeFi"
+      ],
+      "category": "监管",
+      "slug": "20260420-layerzero-pins-292m-kelpdao-bridge-hack-on-north-koreas-lazarus-group",
+      "localUrl": "/news/20260420-layerzero-pins-292m-kelpdao-bridge-hack-on-north-koreas-lazarus-group.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nearly $1 billion in bitcoin ETF inflows power bull case as Kelp hack fuels DeFi jitters",
+      "summary": "What you need to know for April 20, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/04/20/nearly-usd1-billion-in-bitcoin-etf-inflows-power-bull-case-as-kelp-hack-fuels-defi-jitters",
+      "publishedAt": "2026-04-20T11:24:58.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260420-nearly-1-billion-in-bitcoin-etf-inflows-power-bull-case-as-kelp-hack-fuels-defi-",
+      "localUrl": "/news/20260420-nearly-1-billion-in-bitcoin-etf-inflows-power-bull-case-as-kelp-hack-fuels-defi-.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "‘Highly Sophisticated,’ AI-Powered Hackers Behind Vercel Breach: CEO",
+      "summary": "The security incident compromised some customer credentials of the cloud platform, which is used by many crypto frontends to host their UI.",
+      "url": "https://decrypt.co/364869/highly-sophisticated-ai-powered-hackers-behind-vercel-breach-ceo",
+      "publishedAt": "2026-04-20T10:53:01.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "监管",
+      "slug": "20260420-highly-sophisticated-ai-powered-hackers-behind-vercel-breach-ceo",
+      "localUrl": "/news/20260420-highly-sophisticated-ai-powered-hackers-behind-vercel-breach-ceo.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin drops from recent highs as traders watch CME gap, DeFi hack fallout",
+      "summary": "Bitcoin pulled back after Friday’s surge as traders considered a CME futures gap, a DeFi exploit rattled altcoins and macro pressures weighed on sentiment.",
+      "url": "https://www.coindesk.com/markets/2026/04/20/bitcoin-drops-from-recent-highs-as-traders-watch-cme-gap-defi-hack-fallout",
+      "publishedAt": "2026-04-20T10:51:15.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260420-bitcoin-drops-from-recent-highs-as-traders-watch-cme-gap-defi-hack-fallout",
+      "localUrl": "/news/20260420-bitcoin-drops-from-recent-highs-as-traders-watch-cme-gap-defi-hack-fallout.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "LayerZero says Kelp setup caused exploit, as Aave loss questions mount",
+      "summary": "LayerZero said that Kelp’s DVN setup caused the $290 million exploit, as investors questioned which protocol would step up to cover the shortfall.",
+      "url": "https://cointelegraph.com/news/layerzero-kelp-exploit-aave-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-20T10:47:36.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260420-layerzero-says-kelp-setup-caused-exploit-as-aave-loss-questions-mount",
+      "localUrl": "/news/20260420-layerzero-says-kelp-setup-caused-exploit-as-aave-loss-questions-mount.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "How Mastercard plans to settle card payments with stablecoins",
+      "summary": "Mastercard is testing stablecoin settlement with SoFiUSD to speed up card transaction clearing and help bridge traditional finance and blockchain.",
+      "url": "https://cointelegraph.com/news/mastercard-stablecoin-settlement-sofiusd-explained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-20T10:34:38.000Z",
+      "keywords": [
+        "Analysis"
+      ],
+      "category": "综合",
+      "slug": "20260420-how-mastercard-plans-to-settle-card-payments-with-stablecoins",
+      "localUrl": "/news/20260420-how-mastercard-plans-to-settle-card-payments-with-stablecoins.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Tests AI Agents Modeled on ‘Legendary’ Former Execs",
+      "summary": "The exchange is trialing AI agents that replicate the decision-making styles of co-founder Fred Ehrsam and former CTO Balaji Srinivasan.",
+      "url": "https://decrypt.co/364866/coinbase-tests-ai-agents-modeled-on-legendary-former-execs",
+      "publishedAt": "2026-04-20T10:31:03.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260420-coinbase-tests-ai-agents-modeled-on-legendary-former-execs",
+      "localUrl": "/news/20260420-coinbase-tests-ai-agents-modeled-on-legendary-former-execs.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin is rallying as flagship conference approaches, data shows the gains rarely last",
+      "summary": "After a 50% slide and partial recovery for bitcoin, traders are watching whether the Las Vegas event marks another short-term top for bitcoin.",
+      "url": "https://www.coindesk.com/markets/2026/04/18/bitcoin-is-rallying-as-flagship-conference-approaches-data-shows-the-gains-rarely-last",
+      "publishedAt": "2026-04-20T10:24:20.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260420-bitcoin-is-rallying-as-flagship-conference-approaches-data-shows-the-gains-rarel",
+      "localUrl": "/news/20260420-bitcoin-is-rallying-as-flagship-conference-approaches-data-shows-the-gains-rarel.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BTC price due 'new highs:' Five things to know in Bitcoin this week",
+      "summary": "Bitcoin saw a green weekly close despite renewed US-Iran war momentum, and a trader forecast that BTC price action would beat last week's local highs.",
+      "url": "https://cointelegraph.com/news/btc-price-due-new-highs-five-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-20T10:18:21.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260420-btc-price-due-new-highs-five-things-to-know-in-bitcoin-this-week",
+      "localUrl": "/news/20260420-btc-price-due-new-highs-five-things-to-know-in-bitcoin-this-week.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Here's how bitcoin's $7.9 billion April options expiry impact prices",
+      "summary": "With the bitcoin price above max pain and heavy positioning at $75K, traders face a potential squeeze or pullback into \"max pain\" expiry.",
+      "url": "https://www.coindesk.com/markets/2026/04/20/here-s-how-bitcoin-s-usd7-9-billion-options-expiry-impact-prices",
+      "publishedAt": "2026-04-20T09:53:12.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260420-heres-how-bitcoins-79-billion-april-options-expiry-impact-prices",
+      "localUrl": "/news/20260420-heres-how-bitcoins-79-billion-april-options-expiry-impact-prices.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A $300 million borrowing spike on Aave signals liquidity crunch after KelpDAO exploit",
+      "summary": "The aftershocks of the Saturday's KelpDAO hack are spreading through stablecoin markets in ways that were not immediately obvious.",
+      "url": "https://www.coindesk.com/markets/2026/04/20/a-usd300m-borrowing-spike-on-aave-signals-liquidity-crunch-after-exploit",
+      "publishedAt": "2026-04-20T09:27:53.000Z",
+      "keywords": [
+        "Markets",
+        "DeFi",
+        "Crime",
+        "Tether",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260420-a-300-million-borrowing-spike-on-aave-signals-liquidity-crunch-after-kelpdao-exp",
+      "localUrl": "/news/20260420-a-300-million-borrowing-spike-on-aave-signals-liquidity-crunch-after-kelpdao-exp.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BIS warns dollar stablecoins could strain banks and policy",
+      "summary": "BIS general manager Pablo Hernández de Cos says US dollar stablecoins could pose risks to financial stability and urges stronger global coordination on regulation.",
+      "url": "https://cointelegraph.com/news/bis-warns-on-stablecoin-risks-urges-global-coordination?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-20T09:05:52.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260420-bis-warns-dollar-stablecoins-could-strain-banks-and-policy",
+      "localUrl": "/news/20260420-bis-warns-dollar-stablecoins-could-strain-banks-and-policy.html"
+    },
     {
       "source": "X Wire",
       "title": "Meet the AI running a blockchain CEO's life - x.com",
@@ -232,17 +400,6 @@
       "localUrl": "/news/20260420-ravedao-linked-addresses-sell-approximately-23-million-rave-triggering-a-roughly.html"
     },
     {
-      "source": "X Wire",
-      "title": "A perfectly balanced day looks like: 8 hours of sending crypto without panic. 8 hours of nobody seeing your balance. 8 hours of asking yourself why this wasn't always the standard. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04MUJVcHZ1SGJEZFdNOEMtYWdCMlV3NUpack50bVpJdnlURjRhcjdyYnRrOU00ckNnbnBUdmRkVUljMWdlUTZJTHRkVklYdGJQVHJOa0VzZzJwNVpVb0l0S3F0ck5DT2M?oc=5\" target=\"_blank\">A perfectly balanced day lo…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04MUJVcHZ1SGJEZFdNOEMtYWdCMlV3NUpack50bVpJdnlURjRhcjdyYnRrOU00ckNnbnBUdmRkVUljMWdlUTZJTHRkVklYdGJQVHJOa0VzZzJwNVpVb0l0S3F0ck5DT2M?oc=5",
-      "publishedAt": "2026-04-20T00:00:01.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260420-a-perfectly-balanced-day-looks-like-8-hours-of-sending-crypto-without-panic-8-ho",
-      "localUrl": "/news/20260420-a-perfectly-balanced-day-looks-like-8-hours-of-sending-crypto-without-panic-8-ho.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "The $292 million Kelp exploit: how it happened, and what it means for DeFi",
       "summary": "2026 is shaping up to be DeFi's \"worst year in terms of hacks,\" Ledger's CTO said, as the Kelp exploit shows how a single point of failure can cascade across systems.",
@@ -297,7 +454,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Stablecoins not a threat to banks in the near-term: Moody's analyst",
+      "title": "Stablecoins not a threat to banks in near term: Moody's analyst",
       "summary": "A prohibition on yield-bearing stablecoins and robust payments infrastructure in the US means stablecoins will not eat into banks' market share.",
       "url": "https://cointelegraph.com/news/stablecoins-not-a-threat-to-banking-sector-in-the-near-term-moody-s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-04-19T21:37:01.000Z",
@@ -305,8 +462,19 @@
         "Latest News"
       ],
       "category": "DeFi",
-      "slug": "20260419-stablecoins-not-a-threat-to-banks-in-the-near-term-moodys-analyst",
-      "localUrl": "/news/20260419-stablecoins-not-a-threat-to-banks-in-the-near-term-moodys-analyst.html"
+      "slug": "20260419-stablecoins-not-a-threat-to-banks-in-near-term-moodys-analyst",
+      "localUrl": "/news/20260419-stablecoins-not-a-threat-to-banks-in-near-term-moodys-analyst.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 FLASHBACK: On April 19, 2011, Bitcoin was trading around $0.40. We're up over 200,000X since then. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hQTdKaFVYTXB4YVJiTnBQTTBFckhQd1pVZ0lwZW4zMnJ0TE1GcjNldFF3WlZxckZ0M1VYSmZkbzlQVUp0VWR4OVFzVk1taDVPejAyRW5aQldMczFza2QzWV9hUE0?oc=5\" target=\"_blank\">🔥 FLASHBACK: On April 19, 2011…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hQTdKaFVYTXB4YVJiTnBQTTBFckhQd1pVZ0lwZW4zMnJ0TE1GcjNldFF3WlZxckZ0M1VYSmZkbzlQVUp0VWR4OVFzVk1taDVPejAyRW5aQldMczFza2QzWV9hUE0?oc=5",
+      "publishedAt": "2026-04-19T20:30:09.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260419-flashback-on-april-19-2011-bitcoin-was-trading-around-040-were-up-over-200000x-s",
+      "localUrl": "/news/20260419-flashback-on-april-19-2011-bitcoin-was-trading-around-040-were-up-over-200000x-s.html"
     },
     {
       "source": "X Wire",
@@ -378,6 +546,17 @@
       "localUrl": "/news/20260419-web3-vcs-have-a-differentiation-problem.html"
     },
     {
+      "source": "X Wire",
+      "title": "ELON MUSK: “Bitcoin is based on energy… it is impossible to fake energy.” \"You can issue fake fiat currency… but it is impossible to fake energy.\" “Bitcoin is a GOOD thing.” - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3czZmWVRBQkVxRnNnWVd4bmIyR05ybHMtNGdpdTd4OGozWll6M2FlNDJkV1ZGM2tBSm5Xc3BpSmZrNF91QTdsZGVFVnJ2TWZUaDJBRUJxN0hTSVMwWHN4R3FB?oc=5\" target=\"_blank\">ELON MUSK: “Bitcoin is based on en…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3czZmWVRBQkVxRnNnWVd4bmIyR05ybHMtNGdpdTd4OGozWll6M2FlNDJkV1ZGM2tBSm5Xc3BpSmZrNF91QTdsZGVFVnJ2TWZUaDJBRUJxN0hTSVMwWHN4R3FB?oc=5",
+      "publishedAt": "2026-04-19T18:03:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260419-elon-musk-bitcoin-is-based-on-energy-it-is-impossible-to-fake-energy-you-can-iss",
+      "localUrl": "/news/20260419-elon-musk-bitcoin-is-based-on-energy-it-is-impossible-to-fake-energy-you-can-iss.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "'DeFi is dead': crypto community scrambles after this year's biggest hack exposes contagion risk",
       "summary": "Developers and traders warn of structural risks as a cross-chain exploit spreads fear and prompts billions to flee DeFi platforms.",
@@ -444,6 +623,17 @@
       "localUrl": "/news/20260419-ai-traffic-to-us-retailers-jumps-393-in-q1-as-agentic-shoppers-outspend-humans.html"
     },
     {
+      "source": "X Wire",
+      "title": "gm crypto! The best time to claim a FortressName was yesterday. The second best time is right now. Happy Sunday! - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1YmtoRHowNzRxcmthcUcwX3pjSmViSFFlbEIyY2tZaTBTcDM1cjYySXQzbTdsLWxOTGpVQWc1RjAxVkE0cjdicGU3MXZFanBWVWotX3RPWFdlWnc3c09Pc1VsN05mMTA?oc=5\" target=\"_blank\">gm crypto! The best time to…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1YmtoRHowNzRxcmthcUcwX3pjSmViSFFlbEIyY2tZaTBTcDM1cjYySXQzbTdsLWxOTGpVQWc1RjAxVkE0cjdicGU3MXZFanBWVWotX3RPWFdlWnc3c09Pc1VsN05mMTA?oc=5",
+      "publishedAt": "2026-04-19T16:00:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260419-gm-crypto-the-best-time-to-claim-a-fortressname-was-yesterday-the-second-best-ti",
+      "localUrl": "/news/20260419-gm-crypto-the-best-time-to-claim-a-fortressname-was-yesterday-the-second-best-ti.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Stablecoins can help businesses turn costs into revenue, Paxos Labs cofounder says",
       "summary": "Firms using stablecoins can reshape margins by cutting costs, unlock credit and earn yield, but not every company needs to issue a token, Paxos Labs' Chunda McCain said.",
@@ -458,17 +648,6 @@
       "category": "DeFi",
       "slug": "20260419-stablecoins-can-help-businesses-turn-costs-into-revenue-paxos-labs-cofounder-say",
       "localUrl": "/news/20260419-stablecoins-can-help-businesses-turn-costs-into-revenue-paxos-labs-cofounder-say.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Hey guys! Hope everyone is enjoying their weekend! ❤️ Quick update on #Bitcoin ... Continued support RIGHT on top of the $75.4k (.5) level means that it's still possible for #BTC to come up and reach the ~$79k resistance. A SMALL bearish div has formed o - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Xd251MWNtb1VIV2s0dDUzcGhXMTFiTmRWcmJ6aXQ0WEpyQVFDMzNzZTdhNjdKSXV0VEM5T0VuN2lRcDRFZEkxdVp6d0o4OTcwWm9ybDcyTkMyMW1XdjY3UzVPSEZiYlU?oc=5\" target=\"_blank\">Hey guys! Hope everyone is …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Xd251MWNtb1VIV2s0dDUzcGhXMTFiTmRWcmJ6aXQ0WEpyQVFDMzNzZTdhNjdKSXV0VEM5T0VuN2lRcDRFZEkxdVp6d0o4OTcwWm9ybDcyTkMyMW1XdjY3UzVPSEZiYlU?oc=5",
-      "publishedAt": "2026-04-19T15:49:04.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260419-hey-guys-hope-everyone-is-enjoying-their-weekend-quick-update-on-bitcoin-continu",
-      "localUrl": "/news/20260419-hey-guys-hope-everyone-is-enjoying-their-weekend-quick-update-on-bitcoin-continu.html"
     },
     {
       "source": "X Wire",
@@ -524,17 +703,6 @@
       "localUrl": "/news/20260419-inside-the-rise-of-wrench-attacks-against-crypto-holders-and-how-france-has-beco.html"
     },
     {
-      "source": "X Wire",
-      "title": "💥BREAKING: 🇨🇳 CHINA IS SILENTLY PULLING THE PLUG ON THE U.S. FINANCIAL SYSTEM. China keeps on selling billions of US treasuries. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZX1VKV0JCcVlzcDdYYVlzdER3dC1CV3hfcmxlWVhhT2stSEN3UHJvOGlKbGpQSFZQSUo1ajUya1FneXl2YzYyLTBuRGJEWXR1ckdHenY4aDFCZUZ3dExfaHZ3?oc=5\" target=\"_blank\">💥BREAKING: 🇨🇳 CHINA IS SILENTLY…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZX1VKV0JCcVlzcDdYYVlzdER3dC1CV3hfcmxlWVhhT2stSEN3UHJvOGlKbGpQSFZQSUo1ajUya1FneXl2YzYyLTBuRGJEWXR1ckdHenY4aDFCZUZ3dExfaHZ3?oc=5",
-      "publishedAt": "2026-04-19T13:01:59.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260419-breaking-china-is-silently-pulling-the-plug-on-the-us-financial-system-china-kee",
-      "localUrl": "/news/20260419-breaking-china-is-silently-pulling-the-plug-on-the-us-financial-system-china-kee.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Nomura study says 65% of institutional investors see crypto as a vital portfolio diversifier",
       "summary": "A new survey from Nomura and Laser Digital shows improving sentiment among institutional investors, as regulatory clarity and new products drive deeper engagement with digital assets.",
@@ -562,17 +730,6 @@
       "category": "市场",
       "slug": "20260419-bitcoin-price-drops-to-75k-as-new-hormuz-closure-puts-focus-on-oil",
       "localUrl": "/news/20260419-bitcoin-price-drops-to-75k-as-new-hormuz-closure-puts-focus-on-oil.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "ZachXBT stated that RAVE was just one of the most blatant examples of manipulation; other highly suspicious projects include SIREN, MYX, COAI, M, PIPPIN, and RIVER. He indicated that exchanges need to intervene more quickly to combat manipulation. Ho - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NVW1mT1ZOX1ZsNTh0cjM4MFlsdzFSempMLUx1TFpPUG9EUjZTd1ZNclpqcVBzT09HdGc3SXRLY0lhXzVNYmtqRkI2cHpjMlU3Q0ZoeURDX3dRUVFRZ1FYMFNNMA?oc=5\" target=\"_blank\">ZachXBT stated that RAVE was jus…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NVW1mT1ZOX1ZsNTh0cjM4MFlsdzFSempMLUx1TFpPUG9EUjZTd1ZNclpqcVBzT09HdGc3SXRLY0lhXzVNYmtqRkI2cHpjMlU3Q0ZoeURDX3dRUVFRZ1FYMFNNMA?oc=5",
-      "publishedAt": "2026-04-19T11:18:30.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260419-zachxbt-stated-that-rave-was-just-one-of-the-most-blatant-examples-of-manipulati",
-      "localUrl": "/news/20260419-zachxbt-stated-that-rave-was-just-one-of-the-most-blatant-examples-of-manipulati.html"
     },
     {
       "source": "CoinDesk",
@@ -614,6 +771,17 @@
       "localUrl": "/news/20260419-president-sadyr-japarov-receives-tron-blockchain-platform-founder-justin-sun-sad.html"
     },
     {
+      "source": "X Wire",
+      "title": "Ethereum Foundation-Backed 'Ketman' Uncovers 100 North Korean Hackers Infiltrating Crypto Projects According to @_FORAB, a recent Ethereum Foundation grant review highlighted \"Ketman,\" a project dedicated to hunting down North Korean hackers infiltr - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Vb0lLWGxJaGduSDRzb3NNTU9ha1ZoSExXS0lsUWx4TU9WSVNoTkFoT053Y25tNnNkelFySEFvSzhLLXRVZloyMTMtNURyUkVIYVdFd3JDS2htM3ZtNExDOUh4Zw?oc=5\" target=\"_blank\">Ethereum Foundation-Backed 'Ketm…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Vb0lLWGxJaGduSDRzb3NNTU9ha1ZoSExXS0lsUWx4TU9WSVNoTkFoT053Y25tNnNkelFySEFvSzhLLXRVZloyMTMtNURyUkVIYVdFd3JDS2htM3ZtNExDOUh4Zw?oc=5",
+      "publishedAt": "2026-04-19T07:52:55.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260419-ethereum-foundation-backed-ketman-uncovers-100-north-korean-hackers-infiltrating",
+      "localUrl": "/news/20260419-ethereum-foundation-backed-ketman-uncovers-100-north-korean-hackers-infiltrating.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "RaveDAO denies manipulation as Binance, Bitget probe RAVE trading activity",
       "summary": "RaveDAO denies involvement in RAVE token price surge and crash as Binance and Bitget launch investigations into suspected market manipulation.",
@@ -625,17 +793,6 @@
       "category": "市场",
       "slug": "20260419-ravedao-denies-manipulation-as-binance-bitget-probe-rave-trading-activity",
       "localUrl": "/news/20260419-ravedao-denies-manipulation-as-binance-bitget-probe-rave-trading-activity.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Aave Sees $5.4B ETH Outflows as rsETH Exploit Raises Concerns According to Lookonchain, the Kelp DAO exploit has left Aave saddled with bad debt after the attacker deposited rsETH to drain ETH. This has sparked a massive whale exodus, with over $5.4 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE83czJ3dnduTk4wVjVUaW9BZGVNR1RmM3l2TkkwVTM2XzdDZVo0ODZPMTNKclc4eDA3c3BHYldKZ0VETDZRM2J5VFFaN2Y4S0xpb2l4bGI5VlZmcVNxWkNoNVVrRQ?oc=5\" target=\"_blank\">Aave Sees $5.4B ETH Outflows as …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83czJ3dnduTk4wVjVUaW9BZGVNR1RmM3l2TkkwVTM2XzdDZVo0ODZPMTNKclc4eDA3c3BHYldKZ0VETDZRM2J5VFFaN2Y4S0xpb2l4bGI5VlZmcVNxWkNoNVVrRQ?oc=5",
-      "publishedAt": "2026-04-19T06:52:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260419-aave-sees-54b-eth-outflows-as-rseth-exploit-raises-concerns-according-to-lookonc",
-      "localUrl": "/news/20260419-aave-sees-54b-eth-outflows-as-rseth-exploit-raises-concerns-according-to-lookonc.html"
     },
     {
       "source": "X Wire",
@@ -662,67 +819,6 @@
       "localUrl": "/news/20260419-charles-schwab-citadel-securities-are-eying-prediction-markets.html"
     },
     {
-      "source": "X Wire",
-      "title": "🚨JUST IN: The entire Bitcoin rally to $78K just got erased in 1.5 days after the Strait of Hormuz closed again. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Hc1YyejhnLWdHc0xSUFR6UmFLZzFraDhEa08yaU1WWnhrZTB6VURRYy1abDZRZzJwal84aW5TWW5zdWtldUlYYWstemhScThtS0RoNzB0M1MwR25NWUlkTg?oc=5\" target=\"_blank\">🚨JUST IN: The entire Bitcoin rally …",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Hc1YyejhnLWdHc0xSUFR6UmFLZzFraDhEa08yaU1WWnhrZTB6VURRYy1abDZRZzJwal84aW5TWW5zdWtldUlYYWstemhScThtS0RoNzB0M1MwR25NWUlkTg?oc=5",
-      "publishedAt": "2026-04-19T05:18:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260419-just-in-the-entire-bitcoin-rally-to-78k-just-got-erased-in-15-days-after-the-str",
-      "localUrl": "/news/20260419-just-in-the-entire-bitcoin-rally-to-78k-just-got-erased-in-15-days-after-the-str.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 ALERT: KelpDAO has been hit by a $280M+ Ethereum/Arbitrum exploit, with attacker wallets funded via Tornado Cash. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5Q1VaeWtQMkpsdkhkUmFnbmQ5VEpGajhEU0R1VzNSeVdnc2gtMDlRNUhHaXhoRWhzY3hJTThSeWNndWlSTGRTSU9vRHRNNVV2VWtuR3lwZ0thUndwcjNfbEMyc0k?oc=5\" target=\"_blank\">🚨 ALERT: KelpDAO has been hit …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5Q1VaeWtQMkpsdkhkUmFnbmQ5VEpGajhEU0R1VzNSeVdnc2gtMDlRNUhHaXhoRWhzY3hJTThSeWNndWlSTGRTSU9vRHRNNVV2VWtuR3lwZ0thUndwcjNfbEMyc0k?oc=5",
-      "publishedAt": "2026-04-19T03:31:08.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260419-alert-kelpdao-has-been-hit-by-a-280m-ethereumarbitrum-exploit-with-attacker-wall",
-      "localUrl": "/news/20260419-alert-kelpdao-has-been-hit-by-a-280m-ethereumarbitrum-exploit-with-attacker-wall.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Caitlyn Jenner escapes memecoin lawsuit as judge says token not a security",
-      "summary": "A group of JENNER memecoin buyers sued Jenner and her late manager, Sophia Hutchins, in November 2024 claiming they lost thousands when the token plummeted in value.",
-      "url": "https://cointelegraph.com/news/caitlyn-jenner-escapes-memecoin-lawsuit-judge-says-token-not-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-19T03:12:32.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260419-caitlyn-jenner-escapes-memecoin-lawsuit-as-judge-says-token-not-a-security",
-      "localUrl": "/news/20260419-caitlyn-jenner-escapes-memecoin-lawsuit-as-judge-says-token-not-a-security.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Warren claims SEC’s Atkins likely misled Congress over enforcement data",
-      "summary": "SEC Chair Paul Atkins is under fire from Senator Elizabeth Warren, who says he “may have been deliberately trying” to mislead Congress about the agency’s enforcement activity.",
-      "url": "https://cointelegraph.com/news/warren-claims-sec-atkins-likely-misled-congress-over-enforcement-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-19T00:50:04.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260419-warren-claims-secs-atkins-likely-misled-congress-over-enforcement-data",
-      "localUrl": "/news/20260419-warren-claims-secs-atkins-likely-misled-congress-over-enforcement-data.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Kelp restaking platform exploited, $293M drained in attack",
-      "summary": "The attack triggered a \"cross-protocol contagion\" that has hit at least nine crypto protocols, blockchain security firm Cyvers said.",
-      "url": "https://cointelegraph.com/news/restaking-platform-kelp-exploited-293-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-18T22:06:39.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260418-kelp-restaking-platform-exploited-293m-drained-in-attack",
-      "localUrl": "/news/20260418-kelp-restaking-platform-exploited-293m-drained-in-attack.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "2026's biggest crypto exploit: $292 million gets drained from Kelp DAO with wrapped ether stranded across 20 chains",
       "summary": "An attacker drained 116,500 rsETH, roughly 18% of circulating supply, from Kelp's LayerZero-powered bridge on Saturday, triggering emergency freezes across Aave, SparkLend, Fluid and Upshift.",
@@ -735,50 +831,6 @@
       "category": "安全",
       "slug": "20260418-2026s-biggest-crypto-exploit-292-million-gets-drained-from-kelp-dao-with-wrapped",
       "localUrl": "/news/20260418-2026s-biggest-crypto-exploit-292-million-gets-drained-from-kelp-dao-with-wrapped.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Solana futures open interest rose by 20% this week: Is $100 SOL next?",
-      "summary": "SOL’s steady recovery alongside the wider crypto market has traders debating whether $100 could be the next stop for the altcoin.",
-      "url": "https://cointelegraph.com/news/solana-futures-open-interest-rose-by-20-this-week-is-100-sol-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-18T20:40:06.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "基础设施",
-      "slug": "20260418-solana-futures-open-interest-rose-by-20-this-week-is-100-sol-next",
-      "localUrl": "/news/20260418-solana-futures-open-interest-rose-by-20-this-week-is-100-sol-next.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why Michael Saylor's Strategy decided to make STRC's dividend bi-monthly",
-      "summary": "Strategy aim to reduce volatility, enable consistent bitcoin buying, and create the only bi-monthly paying preferred shares in the market.",
-      "url": "https://www.coindesk.com/markets/2026/04/18/why-michael-saylor-s-strategy-decided-to-make-strc-s-dividend-bi-monthly",
-      "publishedAt": "2026-04-18T20:27:21.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "MicroStrategy",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260418-why-michael-saylors-strategy-decided-to-make-strcs-dividend-bi-monthly",
-      "localUrl": "/news/20260418-why-michael-saylors-strategy-decided-to-make-strcs-dividend-bi-monthly.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "From smelters to servers: Alcoa to cash in on crypto’s thirst for energy",
-      "summary": "Alcoa is in advanced negotiations to sell its dormant Massena East smelter in upstate New York to Bitcoin mining firm NYDIG.",
-      "url": "https://www.coindesk.com/business/2026/04/18/from-smelters-to-servers-alcoa-to-cash-in-on-crypto-s-thirst-for-energy",
-      "publishedAt": "2026-04-18T20:21:00.000Z",
-      "keywords": [
-        "Finance",
-        "Bitcoin Mining",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260418-from-smelters-to-servers-alcoa-to-cash-in-on-cryptos-thirst-for-energy",
-      "localUrl": "/news/20260418-from-smelters-to-servers-alcoa-to-cash-in-on-cryptos-thirst-for-energy.html"
     },
     {
       "source": "Decrypt",
@@ -794,52 +846,6 @@
       "localUrl": "/news/20260418-galaxyone-head-wants-retail-investors-to-stake-more-predict-less.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "AI is increasingly eating into VC fundings and here is how crypto firms are adapting",
-      "summary": "AI companies raised $242 billion (80% of global venture funding) in early 2026, with Gartner projecting total AI spending will reach $2.52 trillion this year.",
-      "url": "https://www.coindesk.com/business/2026/04/18/ai-is-increasingly-eating-into-vc-fundings-and-here-is-how-crypto-firms-are-adapting",
-      "publishedAt": "2026-04-18T19:18:20.000Z",
-      "keywords": [
-        "Finance",
-        "Binance",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260418-ai-is-increasingly-eating-into-vc-fundings-and-here-is-how-crypto-firms-are-adap",
-      "localUrl": "/news/20260418-ai-is-increasingly-eating-into-vc-fundings-and-here-is-how-crypto-firms-are-adap.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Binance and Bitget to probe RAVE’s 4,500% token surge as claims of insider-orchestrated rally grow",
-      "summary": "Nearly 90% of RAVE's supply was concentrated in just three wallets, and millions of tokens were transferred to exchanges before the price surge.",
-      "url": "https://www.coindesk.com/business/2026/04/18/binance-and-biget-to-probe-rave-s-4-500-token-surge-as-claims-of-insider-orchestrated-rally-grow",
-      "publishedAt": "2026-04-18T16:46:46.000Z",
-      "keywords": [
-        "Finance",
-        "Binance",
-        "Prices",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260418-binance-and-bitget-to-probe-raves-4500-token-surge-as-claims-of-insider-orchestr",
-      "localUrl": "/news/20260418-binance-and-bitget-to-probe-raves-4500-token-surge-as-claims-of-insider-orchestr.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The Lightning Network isn’t ‘helplessly broken’",
-      "summary": "Shell argues the network is fixable and proposes a different framing to the recent quantum debate.",
-      "url": "https://www.coindesk.com/opinion/2026/04/18/the-lightning-network-isn-t-helplessly-broken",
-      "publishedAt": "2026-04-18T16:30:00.000Z",
-      "keywords": [
-        "Opinion",
-        "Lightning Network",
-        "Opinion"
-      ],
-      "category": "综合",
-      "slug": "20260418-the-lightning-network-isnt-helplessly-broken",
-      "localUrl": "/news/20260418-the-lightning-network-isnt-helplessly-broken.html"
-    },
-    {
       "source": "Decrypt",
       "title": "What Is Q-Day? The Quantum Threat to Bitcoin Explained",
       "summary": "Experts warn quantum computers could someday forge Bitcoin’s digital signatures, allowing unauthorized transactions.",
@@ -853,17 +859,6 @@
       "localUrl": "/news/20260418-what-is-q-day-the-quantum-threat-to-bitcoin-explained.html"
     },
     {
-      "source": "X Wire",
-      "title": "Bitcoin’s real North Star is the Power Law floor. As of April 18, 2026: • BTC: $76,178 • Floor (p10): $60,463 • Fair value: $128,570 ~26% above long-term support ~41% below fair value What matters: Floor path from here: • 1 year → $104,917 • 5 years → $321, - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iY1VlWlA0Ty13QTB1UE1yb3kxTGNSNkhhcG9oamhMVkZ6VnpYSzBmY3dET3BUWFJPLUhtbC1uRFpVb3NNdXI0M2RySUF2V0Fjc3N3MWg3dVp1MFdpWWg5OHY1OHA?oc=5\" target=\"_blank\">Bitcoin’s real North Star is th…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iY1VlWlA0Ty13QTB1UE1yb3kxTGNSNkhhcG9oamhMVkZ6VnpYSzBmY3dET3BUWFJPLUhtbC1uRFpVb3NNdXI0M2RySUF2V0Fjc3N3MWg3dVp1MFdpWWg5OHY1OHA?oc=5",
-      "publishedAt": "2026-04-18T15:38:35.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260418-bitcoins-real-north-star-is-the-power-law-floor-as-of-april-18-2026-btc-76178-fl",
-      "localUrl": "/news/20260418-bitcoins-real-north-star-is-the-power-law-floor-as-of-april-18-2026-btc-76178-fl.html"
-    },
-    {
       "source": "Decrypt",
       "title": "OpenAI's New AI Model Rosalind Could Shave Years Off Drug Discovery. You Probably Can't Use It",
       "summary": "GPT-Rosalind is OpenAI's first domain-specific model, built for drug discovery and life sciences—and it's not for everyone.",
@@ -875,6 +870,17 @@
       "category": "综合",
       "slug": "20260418-openais-new-ai-model-rosalind-could-shave-years-off-drug-discovery-you-probably-",
       "localUrl": "/news/20260418-openais-new-ai-model-rosalind-could-shave-years-off-drug-discovery-you-probably-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "2.43M BITCOIN LEFT ON EXCHANGES (7-YEAR LOW) Bitcoin is being bought at its fastest pace in 10 years, with 30-day outflows of $3.4B+ Whales accumulated 270K $BTC in 30 days, while setting a record buying 32K $BTC in a single-day - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OaWY5RlBEZXlxRXBnWVV5WUVLQl9MRW9lcVR0QXRRWnJqSXJDSmpLVjNub292Mm9pUXFxeHk1VVA0UzBqam5iclJJZ1JtZVMwZnRvVl9LMzNfNkdFUzg1N1V2YlFzdw?oc=5\" target=\"_blank\">2.43M BITCOIN LEFT ON EXCHAN…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OaWY5RlBEZXlxRXBnWVV5WUVLQl9MRW9lcVR0QXRRWnJqSXJDSmpLVjNub292Mm9pUXFxeHk1VVA0UzBqam5iclJJZ1JtZVMwZnRvVl9LMzNfNkdFUzg1N1V2YlFzdw?oc=5",
+      "publishedAt": "2026-04-18T00:10:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260418-243m-bitcoin-left-on-exchanges-7-year-low-bitcoin-is-being-bought-at-its-fastest",
+      "localUrl": "/news/20260418-243m-bitcoin-left-on-exchanges-7-year-low-bitcoin-is-being-bought-at-its-fastest.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -935,6 +941,28 @@
       "category": "监管",
       "slug": "20260417-rep-sheri-biggs-doubles-down-on-bitcoin-buys-up-to-250k-of-blackrocks-etf",
       "localUrl": "/news/20260417-rep-sheri-biggs-doubles-down-on-bitcoin-buys-up-to-250k-of-blackrocks-etf.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Ethereum $ETH opens the path to $2,900! Ethereum has officially cleared the X-axis of its ascending triangle, breaking through the critical $2,385 resistance level. This breakout is a significant structural shift. By flipping $2,385 into a support floor, ETH has neut - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQc3NCSTI4MXE4a3pES05mWjNDaHBfWnpwc3dNdm5YVWNTS2pJMnU1eWsyaGFrOVhsM1E2ZXJrNkJxZkkzTGVuQ0NDSzJkcWJMSDdLNlc1Q1FKQlVtNV9r?oc=5\" target=\"_blank\">Ethereum $ETH opens the path to $2,900…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQc3NCSTI4MXE4a3pES05mWjNDaHBfWnpwc3dNdm5YVWNTS2pJMnU1eWsyaGFrOVhsM1E2ZXJrNkJxZkkzTGVuQ0NDSzJkcWJMSDdLNlc1Q1FKQlVtNV9r?oc=5",
+      "publishedAt": "2026-04-17T19:59:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260417-ethereum-eth-opens-the-path-to-2900-ethereum-has-officially-cleared-the-x-axis-o",
+      "localUrl": "/news/20260417-ethereum-eth-opens-the-path-to-2900-ethereum-has-officially-cleared-the-x-axis-o.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "In 2017, Morgan Stanley said 'Bitcoin's true value could be zero.' This week, Morgan Stanley celebrated the launch of its Bitcoin ETF — its most successful ETF launch ever. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBScndacVRhM2FiNlNTeDF5V0tMOW5MUEk1U1gxbzA0VS1TOXd4NGhwYUVPR3g0RGMxc3lzbHB5VF91aVdsOHc4VFd6YS13aTRRMGtMSHJHdUpHSXBhOUtPWHNhbl92dEU?oc=5\" target=\"_blank\">In 2017, Morgan Stanley sai…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBScndacVRhM2FiNlNTeDF5V0tMOW5MUEk1U1gxbzA0VS1TOXd4NGhwYUVPR3g0RGMxc3lzbHB5VF91aVdsOHc4VFd6YS13aTRRMGtMSHJHdUpHSXBhOUtPWHNhbl92dEU?oc=5",
+      "publishedAt": "2026-04-17T19:56:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260417-in-2017-morgan-stanley-said-bitcoins-true-value-could-be-zero-this-week-morgan-s",
+      "localUrl": "/news/20260417-in-2017-morgan-stanley-said-bitcoins-true-value-could-be-zero-this-week-morgan-s.html"
     },
     {
       "source": "Decrypt",
@@ -1043,43 +1071,15 @@
       "localUrl": "/news/20260417-ai-agents-already-run-a-fifth-of-defi-but-still-lose-to-humans-at-trading.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Bitcoin, Stocks Surge as Iran Says Strait of Hormuz Is 'Completely Open'",
-      "summary": "Bitcoin spiked above $77,000 as stock indices set records, following word that Iran's Strait of Hormuz is open during the ceasefire.",
-      "url": "https://decrypt.co/364725/bitcoin-stocks-surge-iran-strait-hormuz-completely-open",
-      "publishedAt": "2026-04-17T14:10:16.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260417-bitcoin-stocks-surge-as-iran-says-strait-of-hormuz-is-completely-open",
-      "localUrl": "/news/20260417-bitcoin-stocks-surge-as-iran-says-strait-of-hormuz-is-completely-open.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Kraken Parent Payward Agrees to Acquire Derivatives Exchange Bitnomial for $550 Million",
-      "summary": "The acquisition will give Kraken access to complete CFTC-licensed crypto derivatives infrastructure in the U.S.",
-      "url": "https://decrypt.co/364723/kraken-parent-payward-acquire-derivatives-exchange-bitnomial-550-million",
-      "publishedAt": "2026-04-17T14:01:20.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "综合",
-      "slug": "20260417-kraken-parent-payward-agrees-to-acquire-derivatives-exchange-bitnomial-for-550-m",
-      "localUrl": "/news/20260417-kraken-parent-payward-agrees-to-acquire-derivatives-exchange-bitnomial-for-550-m.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "SEC Officials Push US Crypto Ambitions in Debut Podcast Episode",
-      "summary": "The agency's chairman, Paul Atkins, sat down with two key commissioners to outline a shift away from enforcement.",
-      "url": "https://decrypt.co/364720/sec-officials-push-us-crypto-ambitions-in-debut-podcast-episode",
-      "publishedAt": "2026-04-17T12:39:01.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260417-sec-officials-push-us-crypto-ambitions-in-debut-podcast-episode",
-      "localUrl": "/news/20260417-sec-officials-push-us-crypto-ambitions-in-debut-podcast-episode.html"
+      "source": "X Wire",
+      "title": "JUST IN: Bitcoin pumps to $76,000! 🟢 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85Zzd3Nm1wVXd0UGlNZmU1VkVkVEY5eEtTOVhGcTRoWUVZWENndENWZkJ3VXNKNldTMHZ2dm8wdXN0QnpWMzNISWpISUp5WGZ2cE5hY1Z3TVVEbVNGQkhiTHFZRUNQUDA?oc=5\" target=\"_blank\">JUST IN: Bitcoin pumps to $…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85Zzd3Nm1wVXd0UGlNZmU1VkVkVEY5eEtTOVhGcTRoWUVZWENndENWZkJ3VXNKNldTMHZ2dm8wdXN0QnpWMzNISWpISUp5WGZ2cE5hY1Z3TVVEbVNGQkhiTHFZRUNQUDA?oc=5",
+      "publishedAt": "2026-04-17T12:26:14.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260417-just-in-bitcoin-pumps-to-76000-xcom",
+      "localUrl": "/news/20260417-just-in-bitcoin-pumps-to-76000-xcom.html"
     }
   ]
 }
