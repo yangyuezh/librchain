@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-20T23:01:00.746Z</lastmod>
+    <lastmod>2026-04-20T23:56:13.837Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-20T23:01:00.746Z</lastmod>
+    <lastmod>2026-04-20T23:56:13.837Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -75,6 +75,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260420-new-morgan-stanleys-spot-bitcoin-etf-wallets-have-been-identified-by-arkham-xcom.html</loc>
     <lastmod>2026-04-20T19:32:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260420-12-trillion-charles-schwab-now-recommends-up-to-7-of-assets-in-aggressive-portfo.html</loc>
+    <lastmod>2026-04-20T19:24:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -343,12 +349,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260420-just-as-the-largest-bitcoin-miners-have-become-pioneers-in-providing-ai-infra-th.html</loc>
-    <lastmod>2026-04-20T11:38:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260420-layerzero-pins-292m-kelpdao-bridge-hack-on-north-koreas-lazarus-group.html</loc>
     <lastmod>2026-04-20T11:35:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -363,6 +363,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260420-nearly-1-billion-in-bitcoin-etf-inflows-power-bull-case-as-kelp-hack-fuels-defi-.html</loc>
     <lastmod>2026-04-20T11:24:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260420-the-ethereum-receipt-past-month-snapshot-xcom.html</loc>
+    <lastmod>2026-04-20T11:17:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -471,12 +477,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260419-a-compromised-crypto-custody-account-holding-922998-btc-is-being-sold-on-a-popul.html</loc>
     <lastmod>2026-04-19T16:53:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260419-gm-crypto-the-best-time-to-claim-a-fortressname-was-yesterday-the-second-best-ti.html</loc>
-    <lastmod>2026-04-19T16:00:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
