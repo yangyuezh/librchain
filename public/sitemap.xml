@@ -2,15 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-21T10:41:53.444Z</lastmod>
+    <lastmod>2026-04-21T12:08:11.140Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-21T10:41:53.444Z</lastmod>
+    <lastmod>2026-04-21T12:08:11.140Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260421-morning-minute-saylors-254b-buy-buoys-bitcoin.html</loc>
+    <lastmod>2026-04-21T11:51:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260421-almost-80-of-japans-institutional-investors-plan-to-buy-crypto-within-3-years-su.html</loc>
+    <lastmod>2026-04-21T11:44:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260421-bitcoin-trades-above-a-make-or-break-level-ahead-of-warsh-hearing.html</loc>
+    <lastmod>2026-04-21T11:29:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260421-grandson-of-mob-boss-john-gotti-sentenced-for-funneling-stolen-covid-funds-into-.html</loc>
+    <lastmod>2026-04-21T11:28:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260421-bitcoin-resistance-at-78k-and-83k-could-cap-rally-schwab.html</loc>
+    <lastmod>2026-04-21T11:00:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260421-bitcoin-climbs-as-risk-sentiment-improves-altcoins-hit-by-exploit-concerns.html</loc>
@@ -49,7 +79,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260421-bitcoin-is-less-volatile-than-south-koreas-stock-market-right-now.html</loc>
+    <loc>https://www.librchain.com/news/20260421-bitcoin-is-now-calmer-than-south-koreas-stock-market-heres-why-it-matters.html</loc>
     <lastmod>2026-04-21T09:25:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -331,6 +361,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260420-this-could-be-the-biggest-scam-of-this-century-last-year-president-trump-announc.html</loc>
+    <lastmod>2026-04-20T16:18:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260420-five-times-president-trump-made-a-statement-that-moved-bitcoin-and-why-it-might-.html</loc>
     <lastmod>2026-04-20T16:10:28.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -397,20 +433,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260420-kelp-dao-claims-layerzeros-default-settings-are-what-actually-caused-the-massive.html</loc>
-    <lastmod>2026-04-20T14:41:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260420-just-in-the-odds-of-bitcoin-dumping-to-60000-crash-to-33-as-the-odds-of-btc-pump.html</loc>
     <lastmod>2026-04-20T14:38:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260420-global-stablecoin-rulemaking-slows-prompting-bis-to-urge-cooperation-to-avoid-fr.html</loc>
-    <lastmod>2026-04-20T14:31:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -423,12 +447,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260420-just-in-microstrategy-purchases-34164-bitcoin-for-total-price-of-254-billion-xco.html</loc>
     <lastmod>2026-04-20T12:53:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260420-morning-minute-defis-future-in-question-after-292m-kelpdao-exploit.html</loc>
-    <lastmod>2026-04-20T12:33:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,32 +469,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260420-layerzero-pins-292m-kelpdao-bridge-hack-on-north-koreas-lazarus-group.html</loc>
-    <lastmod>2026-04-20T11:35:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260420-bitcoin-etfs-ow-over-a-1b-in-ytd-flows-having-dug-out-of-the-outflow-hole-and-th.html</loc>
     <lastmod>2026-04-20T11:30:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260420-highly-sophisticated-ai-powered-hackers-behind-vercel-breach-ceo.html</loc>
-    <lastmod>2026-04-20T10:53:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260420-vitalik-ethereum-is-not-built-to-compete-with-high-frequency-trading-platforms-o.html</loc>
     <lastmod>2026-04-20T09:20:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260420-meet-the-ai-running-a-blockchain-ceos-life-xcom.html</loc>
-    <lastmod>2026-04-20T08:15:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
