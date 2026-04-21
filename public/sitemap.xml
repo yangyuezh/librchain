@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-21T21:56:50.501Z</lastmod>
+    <lastmod>2026-04-21T22:56:57.866Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-21T21:56:50.501Z</lastmod>
+    <lastmod>2026-04-21T22:56:57.866Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260421-cryptos-great-hope-in-senates-clarity-act-still-has-a-path-to-survive-tight-cale.html</loc>
+    <lastmod>2026-04-21T22:45:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260421-inside-the-hunt-for-satoshi-filmmakers-chase-cryptos-biggest-mystery.html</loc>
@@ -27,6 +33,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260421-core-scientific-reveals-33-billion-junk-bond-sale-to-pivot-further-from-bitcoin-.html</loc>
     <lastmod>2026-04-21T21:53:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260421-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-04-21T21:40:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -229,6 +241,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260421-grayscale-research-believes-btcs-blockchain-data-could-signal-a-durable-market-b.html</loc>
+    <lastmod>2026-04-21T16:08:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260421-just-in-fed-chair-nominee-kevin-warsh-says-crypto-is-now-part-of-the-us-financia.html</loc>
     <lastmod>2026-04-21T16:03:52.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -255,12 +273,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260421-bitget-exchange-brings-pre-ipo-tokens-to-masses-starting-with-spacex-on-solana.html</loc>
     <lastmod>2026-04-21T15:25:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260421-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-04-21T15:06:25.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -391,12 +403,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260421-this-is-insane-an-institution-has-opened-a-75000000-oil-short-ahead-of-trumps-sp.html</loc>
-    <lastmod>2026-04-21T12:09:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260421-morning-minute-saylors-254b-buy-buoys-bitcoin.html</loc>
     <lastmod>2026-04-21T11:51:42.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -405,12 +411,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260421-almost-80-of-japans-institutional-investors-plan-to-buy-crypto-within-3-years-su.html</loc>
     <lastmod>2026-04-21T11:44:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260421-bitcoin-trades-above-a-make-or-break-level-ahead-of-warsh-hearing.html</loc>
-    <lastmod>2026-04-21T11:29:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -469,14 +469,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260420-just-in-12-trillion-charles-schwab-releases-educational-video-on-bitcoin-and-ris.html</loc>
-    <lastmod>2026-04-20T16:29:17.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260420-christian-crowley-ccatalini-ahall_research-liz_harkavy-nlevine19-and-psnevilleai.html</loc>
+    <lastmod>2026-04-20T15:04:14.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260420-christian-crowley-ccatalini-ahall_research-liz_harkavy-nlevine19-and-psnevilleai.html</loc>
-    <lastmod>2026-04-20T15:04:14.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260420-just-in-the-odds-of-bitcoin-dumping-to-60000-crash-to-33-as-the-odds-of-btc-pump.html</loc>
+    <lastmod>2026-04-20T14:38:48.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
