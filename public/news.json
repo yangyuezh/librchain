@@ -1,7 +1,103 @@
 {
-  "updatedAt": "2026-04-21T20:11:37.653Z",
-  "total": 81,
+  "updatedAt": "2026-04-21T21:56:50.296Z",
+  "total": 80,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Inside the hunt for Satoshi: Filmmakers chase crypto’s biggest mystery",
+      "summary": "A new documentary digs into Bitcoin’s origins, reframing the search for Satoshi Nakamoto as both a technical investigation and a deeply human story.",
+      "url": "https://www.coindesk.com/coindesk-news/2026/04/21/inside-the-hunt-for-satoshi-filmmakers-chase-crypto-s-biggest-mystery",
+      "publishedAt": "2026-04-21T21:54:18.000Z",
+      "keywords": [
+        "CoinDesk News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260421-inside-the-hunt-for-satoshi-filmmakers-chase-cryptos-biggest-mystery",
+      "localUrl": "/news/20260421-inside-the-hunt-for-satoshi-filmmakers-chase-cryptos-biggest-mystery.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Flags Proof-of-Stake Chains Like Ethereum, Solana as Potential Quantum Risks",
+      "summary": "Advisory council says validator signatures and wallet cryptography could be vulnerable if future quantum computers break current encryption.",
+      "url": "https://decrypt.co/365079/coinbase-proof-of-stake-blockchains-ethereum-solana-quantum-risk",
+      "publishedAt": "2026-04-21T21:54:18.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "基础设施",
+      "slug": "20260421-coinbase-flags-proof-of-stake-chains-like-ethereum-solana-as-potential-quantum-r",
+      "localUrl": "/news/20260421-coinbase-flags-proof-of-stake-chains-like-ethereum-solana-as-potential-quantum-r.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Core Scientific Reveals $3.3 Billion Junk-Bond Sale to Pivot Further from Bitcoin Mining to AI",
+      "summary": "Core Scientific, a Bitcoin miner turned data center operator, said that it plans to offer $3.3 billion worth of speculative-grade debt.",
+      "url": "https://decrypt.co/365080/core-scientific-3-3-billion-junk-bond-sale-pivot-bitcoin-mining-ai",
+      "publishedAt": "2026-04-21T21:53:33.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "RWA",
+      "slug": "20260421-core-scientific-reveals-33-billion-junk-bond-sale-to-pivot-further-from-bitcoin-",
+      "localUrl": "/news/20260421-core-scientific-reveals-33-billion-junk-bond-sale-to-pivot-further-from-bitcoin-.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kalshi mulls crypto expansion with perpetual futures launch: Report",
+      "summary": "According to reports, Kalshi plans to launch crypto perpetual futures, expanding beyond prediction markets as regulated derivatives offerings in the US continue to evolve.",
+      "url": "https://cointelegraph.com/news/kalshi-eyes-crypto-expansion-with-perpetual-futures-launch-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-21T21:08:46.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260421-kalshi-mulls-crypto-expansion-with-perpetual-futures-launch-report",
+      "localUrl": "/news/20260421-kalshi-mulls-crypto-expansion-with-perpetual-futures-launch-report.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "New York sues Coinbase, Gemini over prediction market offerings",
+      "summary": "New York has become the latest state to argue that prediction market contracts touching on sports and entertainment violate state gambling laws.",
+      "url": "https://www.coindesk.com/policy/2026/04/21/new-york-sues-coinbase-gemini-over-prediction-market-offerings",
+      "publishedAt": "2026-04-21T20:58:00.000Z",
+      "keywords": [
+        "Policy",
+        "Prediction Markets",
+        "Coinbase",
+        "Gemini",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260421-new-york-sues-coinbase-gemini-over-prediction-market-offerings",
+      "localUrl": "/news/20260421-new-york-sues-coinbase-gemini-over-prediction-market-offerings.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Now Holds $62 Billion in Bitcoin—These Are Its Biggest BTC Buys",
+      "summary": "How did Michael Saylor's firm amass a record stash of Bitcoin? Here's a look back at how Strategy made such massive gains.",
+      "url": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
+      "publishedAt": "2026-04-21T20:33:50.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "市场",
+      "slug": "20260421-strategy-now-holds-62-billion-in-bitcointhese-are-its-biggest-btc-buys",
+      "localUrl": "/news/20260421-strategy-now-holds-62-billion-in-bitcointhese-are-its-biggest-btc-buys.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Revolut Targeting $200 Billion Valuation in IPO—But Not Until 2028: FT",
+      "summary": "Global fintech firm Revolut is eying a $200 billion IPO, according to a report—but don't expect the move any time soon.",
+      "url": "https://decrypt.co/365069/revolut-targeting-200-billion-valuation-ipo-not-until-2028",
+      "publishedAt": "2026-04-21T20:23:06.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "综合",
+      "slug": "20260421-revolut-targeting-200-billion-valuation-in-ipobut-not-until-2028-ft",
+      "localUrl": "/news/20260421-revolut-targeting-200-billion-valuation-in-ipobut-not-until-2028-ft.html"
+    },
     {
       "source": "Decrypt",
       "title": "Google Fixes AI Coding Tool Flaw That Let Attackers Execute Malicious Code: Report",
@@ -14,6 +110,19 @@
       "category": "监管",
       "slug": "20260421-google-fixes-ai-coding-tool-flaw-that-let-attackers-execute-malicious-code-repor",
       "localUrl": "/news/20260421-google-fixes-ai-coding-tool-flaw-that-let-attackers-execute-malicious-code-repor.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "DoorDash to offer stablecoin payments to users via Tempo blockchain",
+      "summary": "Tempo announced the integration of ”stablecoin-powered payment infrastructure” with DoorDash, Stripe, Paradigm, Coastal Bank and ARQ.",
+      "url": "https://cointelegraph.com/news/doordash-stablecoin-payments-tempo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-21T20:00:38.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260421-doordash-to-offer-stablecoin-payments-to-users-via-tempo-blockchain",
+      "localUrl": "/news/20260421-doordash-to-offer-stablecoin-payments-to-users-via-tempo-blockchain.html"
     },
     {
       "source": "CoinDesk",
@@ -32,6 +141,19 @@
       "localUrl": "/news/20260421-prediction-markets-are-the-new-secret-weapon-for-coinbase-and-robinhood-growth.html"
     },
     {
+      "source": "Cointelegraph",
+      "title": "Blockchain.com adds perpetual futures trading to self-custody wallets",
+      "summary": "With a CFTC greenlight expected soon, industry momentum is building for the derivative contracts still only available to non-US investors.",
+      "url": "https://cointelegraph.com/news/blockchain-com-brings-perpetual-futures-trading-to-self-custody-wallets-via-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-21T19:48:14.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260421-blockchaincom-adds-perpetual-futures-trading-to-self-custody-wallets",
+      "localUrl": "/news/20260421-blockchaincom-adds-perpetual-futures-trading-to-self-custody-wallets.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Prediction Market Giants Kalshi, Polymarket Eye Perpetual Futures Push: Report",
       "summary": "The leading prediction market firms are reportedly planning to push deeper into derivatives by supporting perpetual futures trading.",
@@ -43,6 +165,17 @@
       "category": "市场",
       "slug": "20260421-prediction-market-giants-kalshi-polymarket-eye-perpetual-futures-push-report",
       "localUrl": "/news/20260421-prediction-market-giants-kalshi-polymarket-eye-perpetual-futures-push-report.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Polymarket to launch 24/7 perpetual futures trading for crypto, equities, and commodities. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE93MDRvSUxGZ0NpYlJFRV95OXhLSDcwVzJkUWJNUEduYW5fZkR0TDJjRDN3QUE5T3RSUkI5aGdPMGZ5YXF6S2U4eEVEcXBScE84cV9wVnlRbEJrU3J2cDMzN0h3?oc=5\" target=\"_blank\">JUST IN: Polymarket to launch 24/7…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93MDRvSUxGZ0NpYlJFRV95OXhLSDcwVzJkUWJNUEduYW5fZkR0TDJjRDN3QUE5T3RSUkI5aGdPMGZ5YXF6S2U4eEVEcXBScE84cV9wVnlRbEJrU3J2cDMzN0h3?oc=5",
+      "publishedAt": "2026-04-21T19:31:19.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260421-just-in-polymarket-to-launch-247-perpetual-futures-trading-for-crypto-equities-a",
+      "localUrl": "/news/20260421-just-in-polymarket-to-launch-247-perpetual-futures-trading-for-crypto-equities-a.html"
     },
     {
       "source": "CoinDesk",
@@ -101,6 +234,17 @@
       "localUrl": "/news/20260421-mississippi-law-school-requires-ai-training-as-courts-grapple-with-the-tech.html"
     },
     {
+      "source": "X Wire",
+      "title": "LATEST: Crypto's massive exploit may force big banks to rethink their blockchain plans, Jefferies warns. @HeleneBraunn reports - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wQ3ZnR0lMZFlRZnFTOExPOUVyRjRGRWRYWEY3WWdlVUZVdGFSVVBIMHVGWU5tVDYtZFh2WV9XRFFjNVlLSUgwNGQ4dHF5T1hKRlRSVExaUmZ5bnEtblE?oc=5\" target=\"_blank\">LATEST: Crypto's massive exploit may fo…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wQ3ZnR0lMZFlRZnFTOExPOUVyRjRGRWRYWEY3WWdlVUZVdGFSVVBIMHVGWU5tVDYtZFh2WV9XRFFjNVlLSUgwNGQ4dHF5T1hKRlRSVExaUmZ5bnEtblE?oc=5",
+      "publishedAt": "2026-04-21T18:32:22.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260421-latest-cryptos-massive-exploit-may-force-big-banks-to-rethink-their-blockchain-p",
+      "localUrl": "/news/20260421-latest-cryptos-massive-exploit-may-force-big-banks-to-rethink-their-blockchain-p.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Crypto's massive exploit may force big banks to rethink their blockchain plans, Jefferies warns",
       "summary": "The $293 million Kelp DAO exploit has exposed critical infrastructure risks, leading Jefferies to suggest that traditional financial firms may pause their blockchain initiatives to prioritize security.",
@@ -114,6 +258,17 @@
       "category": "监管",
       "slug": "20260421-cryptos-massive-exploit-may-force-big-banks-to-rethink-their-blockchain-plans-je",
       "localUrl": "/news/20260421-cryptos-massive-exploit-may-force-big-banks-to-rethink-their-blockchain-plans-je.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Quantum computers can't break your crypto yet. We want to make sure it stays that way. We assembled a board of researchers from Stanford, UT Austin, and the Ethereum Foundation to figure this out years before it matters. Their first paper is out now ↓ - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5MWg1LUp0QnNLWExEaUVpV3FTV0lvVHMyRFhOMFhadW1UVW95Sl9lTjhHRWRGbFNlZE5zRzJqY0VlN0sydGxsX2gzcHc2a3ZxaHRBQlNHOUVkMHp3eGc?oc=5\" target=\"_blank\">Quantum computers can't break your cryp…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5MWg1LUp0QnNLWExEaUVpV3FTV0lvVHMyRFhOMFhadW1UVW95Sl9lTjhHRWRGbFNlZE5zRzJqY0VlN0sydGxsX2gzcHc2a3ZxaHRBQlNHOUVkMHp3eGc?oc=5",
+      "publishedAt": "2026-04-21T18:19:37.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260421-quantum-computers-cant-break-your-crypto-yet-we-want-to-make-sure-it-stays-that-",
+      "localUrl": "/news/20260421-quantum-computers-cant-break-your-crypto-yet-we-want-to-make-sure-it-stays-that-.html"
     },
     {
       "source": "Cointelegraph",
@@ -697,19 +852,6 @@
       "localUrl": "/news/20260421-bank-of-koreas-new-governor-prioritizes-cbdcs-over-stablecoins-in-first-policy-a.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "XRP holders back in profit as price eyes potential 55% breakout",
-      "summary": "Most XRP investors are back in profit, increasing the chance for a rally to $2.24, but bulls must first hold the price above $1.40.",
-      "url": "https://cointelegraph.com/news/xrp-holders-back-in-profit-price-gears-up-for-55-percent-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-21T12:50:35.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260421-xrp-holders-back-in-profit-as-price-eyes-potential-55-breakout",
-      "localUrl": "/news/20260421-xrp-holders-back-in-profit-as-price-eyes-potential-55-breakout.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Iran Scammers Demand Bitcoin, USDT for Transit Through Strait of Hormuz: Report",
       "summary": "Fake crypto clearance demands are targeting ships stranded at Hormuz as the Iran conflict enters its third month.",
@@ -721,19 +863,6 @@
       "category": "DeFi",
       "slug": "20260421-iran-scammers-demand-bitcoin-usdt-for-transit-through-strait-of-hormuz-report",
       "localUrl": "/news/20260421-iran-scammers-demand-bitcoin-usdt-for-transit-through-strait-of-hormuz-report.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "VIX drops 45% in three weeks: Is Bitcoin price ready to retake $80K?",
-      "summary": "A falling VIX signals improving risk appetite, boosting Bitcoin’s chances of attracting fresh demand and breaking above the $80,000 level.",
-      "url": "https://cointelegraph.com/news/vix-drops-45-precent-three-weeks-btc-price-retake-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-21T12:25:47.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "市场",
-      "slug": "20260421-vix-drops-45-in-three-weeks-is-bitcoin-price-ready-to-retake-80k",
-      "localUrl": "/news/20260421-vix-drops-45-in-three-weeks-is-bitcoin-price-ready-to-retake-80k.html"
     },
     {
       "source": "X Wire",
@@ -758,19 +887,6 @@
       "category": "安全",
       "slug": "20260421-morning-minute-saylors-254b-buy-buoys-bitcoin",
       "localUrl": "/news/20260421-morning-minute-saylors-254b-buy-buoys-bitcoin.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BitMEX taps Zodia Custody for off-exchange collateral trading",
-      "summary": "BitMEX has partnered with Zodia Custody to enable institutional crypto derivatives trading via off-exchange collateral held in segregated custody.",
-      "url": "https://cointelegraph.com/news/bitmex-zodia-custody-tighten-post-ftx-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-21T11:45:19.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260421-bitmex-taps-zodia-custody-for-off-exchange-collateral-trading",
-      "localUrl": "/news/20260421-bitmex-taps-zodia-custody-for-off-exchange-collateral-trading.html"
     },
     {
       "source": "CoinDesk",
@@ -816,86 +932,6 @@
       "localUrl": "/news/20260421-grandson-of-mob-boss-john-gotti-sentenced-for-funneling-stolen-covid-funds-into-.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Bitcoin Resistance at $78K and $83K Could Cap Rally: Schwab",
-      "summary": "The Schwab Center for Financial Research warned that Bitcoin faces key resistance between $78,000 and $83,000 investor cost basis levels.",
-      "url": "https://decrypt.co/365001/bitcoin-resistance-at-78k-and-83k-could-cap-rally-schwab",
-      "publishedAt": "2026-04-21T11:00:29.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260421-bitcoin-resistance-at-78k-and-83k-could-cap-rally-schwab",
-      "localUrl": "/news/20260421-bitcoin-resistance-at-78k-and-83k-could-cap-rally-schwab.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin climbs as risk sentiment improves, altcoins hit by exploit concerns",
-      "summary": "Bitcoin advanced while altcoins continued to struggle after the weekend's DeFi exploit, with markets eyeing Middle East tensions and shifting risk sentiment.",
-      "url": "https://www.coindesk.com/markets/2026/04/21/bitcoin-climbs-as-risk-sentiment-improves-altcoins-hit-by-exploit-concerns",
-      "publishedAt": "2026-04-21T10:36:06.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260421-bitcoin-climbs-as-risk-sentiment-improves-altcoins-hit-by-exploit-concerns",
-      "localUrl": "/news/20260421-bitcoin-climbs-as-risk-sentiment-improves-altcoins-hit-by-exploit-concerns.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Tether( @tether) has minted 2B $USDT on #Ethereum over the past 3 days. intel.arkm.com/explorer/entit… - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WdmZvWnJxQ0dURGl6UVV2YWN3c0VEdmZkMEx6TU5mcl80X1dtUHBTLThXQW1iSVNuZ0ljTFJ3NnBIZ2JjaFFvVW5pSW9ucnNPVUszdVA1RXYxZTRrbTRTNFJR?oc=5\" target=\"_blank\">Tether( @tether) has minted 2B $US…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WdmZvWnJxQ0dURGl6UVV2YWN3c0VEdmZkMEx6TU5mcl80X1dtUHBTLThXQW1iSVNuZ0ljTFJ3NnBIZ2JjaFFvVW5pSW9ucnNPVUszdVA1RXYxZTRrbTRTNFJR?oc=5",
-      "publishedAt": "2026-04-21T10:33:04.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260421-tether-tether-has-minted-2b-usdt-on-ethereum-over-the-past-3-days-intelarkmcomex",
-      "localUrl": "/news/20260421-tether-tether-has-minted-2b-usdt-on-ethereum-over-the-past-3-days-intelarkmcomex.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto scammers offer ‘safe passage’ through Hormuz. At least one ship may have been conned.",
-      "summary": "Marisks, a maritime risk company, alerted ships stranded by the Hormuz blockade to scammers posing as Iranian authorities asking for bitcoin or USDT.",
-      "url": "https://www.coindesk.com/business/2026/04/21/crypto-scammers-offer-safe-passage-through-hormuz-at-least-one-ship-may-have-been-conned",
-      "publishedAt": "2026-04-21T10:31:09.000Z",
-      "keywords": [
-        "Finance",
-        "Bitcoin News",
-        "Iran",
-        "Crime",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260421-crypto-scammers-offer-safe-passage-through-hormuz-at-least-one-ship-may-have-bee",
-      "localUrl": "/news/20260421-crypto-scammers-offer-safe-passage-through-hormuz-at-least-one-ship-may-have-bee.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Arbitrum Security Council Freezes $71.5M in Ethereum Linked to $292M KelpDAO Exploit",
-      "summary": "Arbitrum's emergency response to the KelpDAO exploit has sparked praise and criticism over the network's ability to freeze stolen assets.",
-      "url": "https://decrypt.co/364981/arbitrum-security-council-freezes-71-5m-in-ethereum-linked-to-292m-kelpdao-exploit",
-      "publishedAt": "2026-04-21T09:55:42.000Z",
-      "keywords": [
-        "DeFi"
-      ],
-      "category": "监管",
-      "slug": "20260421-arbitrum-security-council-freezes-715m-in-ethereum-linked-to-292m-kelpdao-exploi",
-      "localUrl": "/news/20260421-arbitrum-security-council-freezes-715m-in-ethereum-linked-to-292m-kelpdao-exploi.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Binance Founder CZ says Bitcoin is \"heavily suppressed.\" You know what comes next. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE02aXJPSUpRaDd2aDFoV2Q5OTBtclYybDlYXzlwZjRxZDJjdGNJRDVjSGVmN2xHVkdJeG5mNUt6b3hEU1FxaHF4QUVVSFVjczRHMzdXNGFRT09hQzJ2NGJFRWlB?oc=5\" target=\"_blank\">Binance Founder CZ says Bitcoin is…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02aXJPSUpRaDd2aDFoV2Q5OTBtclYybDlYXzlwZjRxZDJjdGNJRDVjSGVmN2xHVkdJeG5mNUt6b3hEU1FxaHF4QUVVSFVjczRHMzdXNGFRT09hQzJ2NGJFRWlB?oc=5",
-      "publishedAt": "2026-04-21T07:42:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260421-binance-founder-cz-says-bitcoin-is-heavily-suppressed-you-know-what-comes-next-x",
-      "localUrl": "/news/20260421-binance-founder-cz-says-bitcoin-is-heavily-suppressed-you-know-what-comes-next-x.html"
-    },
-    {
       "source": "X Wire",
       "title": "Update on rsETH incident: WETH reserves on the Ethereum Core V3 market have been unfrozen and users can supply WETH to Ethereum Core V3 again. WETH LTV remains at 0. WETH reserves on Ethereum Prime, Arbitrum, Base, Mantle, and Linea remain - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LZmpjYU9ST2Z2Z0RhMWZJOHVnbVlOYzN4OXVjMEZtNk9yWDV3alJjYklhZjJGWnV6ZU0xRWp3RDZjQWZRcUF0Q01qMUJ6aDE3NlFydGdxQWw?oc=5\" target=\"_blank\">Update on rsETH incident: WETH reserves on the …",
@@ -905,6 +941,17 @@
       "category": "X热点",
       "slug": "20260421-update-on-rseth-incident-weth-reserves-on-the-ethereum-core-v3-market-have-been-",
       "localUrl": "/news/20260421-update-on-rseth-incident-weth-reserves-on-the-ethereum-core-v3-market-have-been-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Ok. I'm officially announcing: the most decentralized blockchain in the world is Tron. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVRTh3U2hkeWllZjlwcHNEVlU3X3FqaUlhQUFUc1l0N25Bd25FOVZvQy10NF9vRmhLRTdLQVpaSXBtSWUtWGpJX1EyVnktcWFrSy1jREl5U2NONDBqaEU1ejNTVXI?oc=5\" target=\"_blank\">Ok. I'm officially announcing: …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVRTh3U2hkeWllZjlwcHNEVlU3X3FqaUlhQUFUc1l0N25Bd25FOVZvQy10NF9vRmhLRTdLQVpaSXBtSWUtWGpJX1EyVnktcWFrSy1jREl5U2NONDBqaEU1ejNTVXI?oc=5",
+      "publishedAt": "2026-04-21T06:17:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260421-ok-im-officially-announcing-the-most-decentralized-blockchain-in-the-world-is-tr",
+      "localUrl": "/news/20260421-ok-im-officially-announcing-the-most-decentralized-blockchain-in-the-world-is-tr.html"
     },
     {
       "source": "X Wire",
@@ -940,30 +987,15 @@
       "localUrl": "/news/20260420-vitalik-l2s-that-only-copy-ethereum-make-no-sense-ethereum-founder-vitalik-buter.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Playdate Gaming Handheld Maker Bans Generative AI Tools for Development",
-      "summary": "Panic, the firm behind the Playdate handheld, now prohibits creative AI applications while preserving developer productivity aids.",
-      "url": "https://decrypt.co/364960/playdate-gaming-handheld-maker-bans-generative-ai-tools",
-      "publishedAt": "2026-04-20T21:41:59.000Z",
-      "keywords": [
-        "Gaming"
-      ],
-      "category": "综合",
-      "slug": "20260420-playdate-gaming-handheld-maker-bans-generative-ai-tools-for-development",
-      "localUrl": "/news/20260420-playdate-gaming-handheld-maker-bans-generative-ai-tools-for-development.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Lose Your Job to AI? New York Lawmaker Proposes 'AI Dividend' Stimmy",
-      "summary": "Congressional candidate Alex Bores outlined a policy that would trigger payments to Americans if surging AI use reduces employment.",
-      "url": "https://decrypt.co/364947/lose-job-ai-new-york-lawmaker-proposes-ai-dividend-stimmy",
-      "publishedAt": "2026-04-20T21:30:31.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260420-lose-your-job-to-ai-new-york-lawmaker-proposes-ai-dividend-stimmy",
-      "localUrl": "/news/20260420-lose-your-job-to-ai-new-york-lawmaker-proposes-ai-dividend-stimmy.html"
+      "source": "X Wire",
+      "title": "Twitch Streamer Angel Sparks Crypto Backlash with Trading Terminal Partnership - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGXzcyWkFvbnRKdWFvRERhWHF3bF9xbzhWU2xOc3pOemlaQnRHOUZxVFhrRjZ6dW01ZWktTnU2T3ZpNXNWWHNkMTVXVXFBcGQ0VjI5NEt0cw?oc=5\" target=\"_blank\">Twitch Streamer Angel Sparks Crypto Backlash wit…",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGXzcyWkFvbnRKdWFvRERhWHF3bF9xbzhWU2xOc3pOemlaQnRHOUZxVFhrRjZ6dW01ZWktTnU2T3ZpNXNWWHNkMTVXVXFBcGQ0VjI5NEt0cw?oc=5",
+      "publishedAt": "2026-04-20T22:14:39.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260420-twitch-streamer-angel-sparks-crypto-backlash-with-trading-terminal-partnership-x",
+      "localUrl": "/news/20260420-twitch-streamer-angel-sparks-crypto-backlash-with-trading-terminal-partnership-x.html"
     },
     {
       "source": "X Wire",
@@ -975,17 +1007,6 @@
       "category": "X热点",
       "slug": "20260420-new-morgan-stanleys-spot-bitcoin-etf-wallets-have-been-identified-by-arkham-xcom",
       "localUrl": "/news/20260420-new-morgan-stanleys-spot-bitcoin-etf-wallets-have-been-identified-by-arkham-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "THIS IS THE LAST WEEK TO SAVE THE BIGGEST CRYPTO BILL IN US HISTORY. AND IT’S STARTING TO SLIP. A week ago, the window was clear: April 13 and April 20 were the only two weeks the Senate Banking Committee had to move the CLARITY Act. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BaEFsOUF6MzBjdHItcW0yRF9kRTZqeThUQ255aktQQjhmRmQ5Q21PQkxhcVRWcld5WUpQaW1WRzgyR25wOEVKVmVsakc3Z0dtUHJSOEZXZkpvYTNhM1diVG1R?oc=5\" target=\"_blank\">THIS IS THE LAST WEEK TO SAVE THE …",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BaEFsOUF6MzBjdHItcW0yRF9kRTZqeThUQ255aktQQjhmRmQ5Q21PQkxhcVRWcld5WUpQaW1WRzgyR25wOEVKVmVsakc3Z0dtUHJSOEZXZkpvYTNhM1diVG1R?oc=5",
-      "publishedAt": "2026-04-20T18:54:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260420-this-is-the-last-week-to-save-the-biggest-crypto-bill-in-us-history-and-its-star",
-      "localUrl": "/news/20260420-this-is-the-last-week-to-save-the-biggest-crypto-bill-in-us-history-and-its-star.html"
     },
     {
       "source": "X Wire",
@@ -1022,17 +1043,6 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: The odds of Bitcoin dumping to $60,000 crash to 33% as the odds of BTC pumping to $80,000 rise — Polymarket 🚀 Bullish! 🐂 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BYV9NMVJLcHZ3SHI3am9sN2lGYXNkajZQV3BQUnlkcDlxcTdkeXVGendKSWdhb3ExUE9yTzF6LV9ySjNDb1h1TUFSY2lnc0dhQTdIQm5XamItLVl5ZUxEdFNRcFc5V1E?oc=5\" target=\"_blank\">JUST IN: The odds of Bitcoi…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BYV9NMVJLcHZ3SHI3am9sN2lGYXNkajZQV3BQUnlkcDlxcTdkeXVGendKSWdhb3ExUE9yTzF6LV9ySjNDb1h1TUFSY2lnc0dhQTdIQm5XamItLVl5ZUxEdFNRcFc5V1E?oc=5",
-      "publishedAt": "2026-04-20T14:38:48.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260420-just-in-the-odds-of-bitcoin-dumping-to-60000-crash-to-33-as-the-odds-of-btc-pump",
-      "localUrl": "/news/20260420-just-in-the-odds-of-bitcoin-dumping-to-60000-crash-to-33-as-the-odds-of-btc-pump.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Strategy has acquired 34,164 BTC for ~$2.54 billion at ~$74,395 per bitcoin and has achieved BTC Yield of 9.5% YTD 2026. As of 4/19/2026, we hodl 815,061 $BTC acquired for ~$61.56 billion at ~$75,527 per bitcoin. $MSTR $STRC - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NT2FpakNWZG9Qd0taMXhoTG1Dc2t1M2h4WVVvSmFEZGM3NTBpWHdCWlZJRXJfS09nazVpanZSQnlYcVRvNUxyS2I1OVgtM3duclZfREVMQXdzYk0?oc=5\" target=\"_blank\">Strategy has acquired 34,164 BTC for ~$2.54…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NT2FpakNWZG9Qd0taMXhoTG1Dc2t1M2h4WVVvSmFEZGM3NTBpWHdCWlZJRXJfS09nazVpanZSQnlYcVRvNUxyS2I1OVgtM3duclZfREVMQXdzYk0?oc=5",
@@ -1044,17 +1054,6 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: Bitcoin falls under $74,000 after Iran rejects second round of peace talks with the US. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jSDNJLW50NzN2Rjh3SGI0YUtxZERlQ0ZIV1h2dU9reUdvV1UwYjh5NmZRVXFDMENNbXFqdEQydFo1bk9wMXlMSmdyMVcteFYwdkd2cUc5WDVhQkZNMHYyam13?oc=5\" target=\"_blank\">JUST IN: Bitcoin falls under $74,0…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jSDNJLW50NzN2Rjh3SGI0YUtxZERlQ0ZIV1h2dU9reUdvV1UwYjh5NmZRVXFDMENNbXFqdEQydFo1bk9wMXlMSmdyMVcteFYwdkd2cUc5WDVhQkZNMHYyam13?oc=5",
-      "publishedAt": "2026-04-19T22:06:04.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260419-just-in-bitcoin-falls-under-74000-after-iran-rejects-second-round-of-peace-talks",
-      "localUrl": "/news/20260419-just-in-bitcoin-falls-under-74000-after-iran-rejects-second-round-of-peace-talks.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Update on rsETH incident: According to our analysis, rsETH on Ethereum mainnet is fully backed. Out of an abundance of caution, rsETH remains frozen across Aave V3 and V4 and exposure to the incident is capped. WETH reserves also remain frozen across - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MbHZENXNaeFVZWVA5My1QejR3QVdHamE1aEtHN3RxYkRWZzZ6eDRkb3ZTX2cwOEEzb0FOUXBfRjFjVWhfUXRSSmhvUU41eDRJRHdUQ2xUaDY?oc=5\" target=\"_blank\">Update on rsETH incident: According to our anal…",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MbHZENXNaeFVZWVA5My1QejR3QVdHamE1aEtHN3RxYkRWZzZ6eDRkb3ZTX2cwOEEzb0FOUXBfRjFjVWhfUXRSSmhvUU41eDRJRHdUQ2xUaDY?oc=5",
@@ -1063,27 +1062,6 @@
       "category": "X热点",
       "slug": "20260419-update-on-rseth-incident-according-to-our-analysis-rseth-on-ethereum-mainnet-is-",
       "localUrl": "/news/20260419-update-on-rseth-incident-according-to-our-analysis-rseth-on-ethereum-mainnet-is-.html"
-    },
-    {
-      "source": "Chainalysis Blog",
-      "title": "Sanctioned Russia-Linked Exchange Grinex Suspends Operations Following Alleged Cyberattack",
-      "summary": "TL;DR Grinex, the sanctioned successor to the Russian exchange Garantex, suspended operations yesterday following a claimed 1 billion ruble ($13.7… The post Sanctioned Russia-Linked Exchange Grinex Suspends Operations Following Alleged Cyb…",
-      "url": "https://www.chainalysis.com/blog/sanctioned-grinex-exchange-suspends-operations/",
-      "publishedAt": "2026-04-17T21:14:02.000Z",
-      "keywords": [
-        "Crime",
-        "A7A5",
-        "Crypto crime",
-        "Exchange",
-        "Garantex",
-        "Grinex",
-        "Russia",
-        "Sanctions",
-        "TRON"
-      ],
-      "category": "综合",
-      "slug": "20260417-sanctioned-russia-linked-exchange-grinex-suspends-operations-following-alleged-c",
-      "localUrl": "/news/20260417-sanctioned-russia-linked-exchange-grinex-suspends-operations-following-alleged-c.html"
     }
   ]
 }
