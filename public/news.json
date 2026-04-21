@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2026-04-21T06:12:00.446Z",
+  "updatedAt": "2026-04-21T08:59:19.848Z",
   "total": 81,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "European banks tap Fireblocks for MiCA-compliant euro stablecoin",
+      "summary": "A 12-bank European consortium led by Qivalis is partnering with Fireblocks to develop a regulated euro stablecoin under MiCA, targeting launch in the second half of 2026.",
+      "url": "https://cointelegraph.com/news/european-banks-tap-fireblocks-for-mica-compliant-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-21T08:01:03.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260421-european-banks-tap-fireblocks-for-mica-compliant-euro-stablecoin",
+      "localUrl": "/news/20260421-european-banks-tap-fireblocks-for-mica-compliant-euro-stablecoin.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A dozen banks want a euro stablecoin. Fireblocks is making it happen",
+      "summary": "The Qivalis consortium is made up of: Banca Sella, BBVA, BNP Paribas, CaixaBank, Danske Bank, DekaBank, DZ BANK, ING, KBC, Raiffeisen Bank International, SEB, and UniCredit.",
+      "url": "https://www.coindesk.com/business/2026/04/21/crypto-custody-firm-fireblocks-powers-bank-backed-euro-stablecoin",
+      "publishedAt": "2026-04-21T08:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "banks",
+        "Stablecoins",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260421-a-dozen-banks-want-a-euro-stablecoin-fireblocks-is-making-it-happen",
+      "localUrl": "/news/20260421-a-dozen-banks-want-a-euro-stablecoin-fireblocks-is-making-it-happen.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Inside the 'fake police raid' that forced a $1M Bitcoin transfer",
+      "summary": "A fake police raid enabled a $1 million Bitcoin robbery, exposing the rise of wrench attacks and the shift from digital hacks to physical crypto threats.",
+      "url": "https://cointelegraph.com/news/crypto-coercion-attack-fake-police-raid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-21T06:59:51.000Z",
+      "keywords": [
+        "Analysis"
+      ],
+      "category": "安全",
+      "slug": "20260421-inside-the-fake-police-raid-that-forced-a-1m-bitcoin-transfer",
+      "localUrl": "/news/20260421-inside-the-fake-police-raid-that-forced-a-1m-bitcoin-transfer.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Singapore’s OCBC launches tokenized gold fund on Ethereum and Solana",
+      "summary": "The value of tokenized real-world assets on public blockchains is estimated at more than $29 billion, up more than 10% in the last 30 days.",
+      "url": "https://cointelegraph.com/news/ocbc-tokenized-gold-fund-ethereum-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-21T06:41:15.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260421-singapores-ocbc-launches-tokenized-gold-fund-on-ethereum-and-solana",
+      "localUrl": "/news/20260421-singapores-ocbc-launches-tokenized-gold-fund-on-ethereum-and-solana.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Update on rsETH incident: WETH reserves on the Ethereum Core V3 market have been unfrozen and users can supply WETH to Ethereum Core V3 again. WETH LTV remains at 0. WETH reserves on Ethereum Prime, Arbitrum, Base, Mantle, and Linea remain - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LZmpjYU9ST2Z2Z0RhMWZJOHVnbVlOYzN4OXVjMEZtNk9yWDV3alJjYklhZjJGWnV6ZU0xRWp3RDZjQWZRcUF0Q01qMUJ6aDE3NlFydGdxQWw?oc=5\" target=\"_blank\">Update on rsETH incident: WETH reserves on the …",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LZmpjYU9ST2Z2Z0RhMWZJOHVnbVlOYzN4OXVjMEZtNk9yWDV3alJjYklhZjJGWnV6ZU0xRWp3RDZjQWZRcUF0Q01qMUJ6aDE3NlFydGdxQWw?oc=5",
+      "publishedAt": "2026-04-21T06:18:16.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260421-update-on-rseth-incident-weth-reserves-on-the-ethereum-core-v3-market-have-been-",
+      "localUrl": "/news/20260421-update-on-rseth-incident-weth-reserves-on-the-ethereum-core-v3-market-have-been-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 NOW: Over $17B has been stolen across 518 crypto hacks in the past 10 years, according to DefiLlama. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QSVJHS21DR19TTEJFWXRMSEdVeE5fOUJTS1BJZVBtV2h1Vks1ekxFTG00c2RjZWRoY0t2Z2p2YzJZdThGeURCcE9sckh6Z1VwM2s5RTBKTkJzSUZ3OUVGcGIzWEw?oc=5\" target=\"_blank\">🚨 NOW: Over $17B has been stol…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QSVJHS21DR19TTEJFWXRMSEdVeE5fOUJTS1BJZVBtV2h1Vks1ekxFTG00c2RjZWRoY0t2Z2p2YzJZdThGeURCcE9sckh6Z1VwM2s5RTBKTkJzSUZ3OUVGcGIzWEw?oc=5",
+      "publishedAt": "2026-04-21T06:00:21.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260421-now-over-17b-has-been-stolen-across-518-crypto-hacks-in-the-past-10-years-accord",
+      "localUrl": "/news/20260421-now-over-17b-has-been-stolen-across-518-crypto-hacks-in-the-past-10-years-accord.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Arbitrum freezes $71M of Ether connected to Kelp exploit",
@@ -196,16 +273,16 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Last Week Tonight‘s John Oliver says he won‘t placate prediction markets users",
-      "summary": "Prediction market platforms took center stage on HBO‘s Last Week Tonight on Sunday as host John Oliver addressed regulation, laws and market manipulation.",
+      "title": "John Oliver of ‘Last Week Tonight’ discusses prediction markets and manipulation",
+      "summary": "Prediction market platforms took center stage on HBO‘s \"Last Week Tonight\" on Sunday as host John Oliver addressed regulation, laws and market manipulation.",
       "url": "https://cointelegraph.com/news/last-week-tonight-john-oliver-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-04-20T21:30:53.000Z",
       "keywords": [
         "Latest News"
       ],
       "category": "监管",
-      "slug": "20260420-last-week-tonights-john-oliver-says-he-wont-placate-prediction-markets-users",
-      "localUrl": "/news/20260420-last-week-tonights-john-oliver-says-he-wont-placate-prediction-markets-users.html"
+      "slug": "20260420-john-oliver-of-last-week-tonight-discusses-prediction-markets-and-manipulation",
+      "localUrl": "/news/20260420-john-oliver-of-last-week-tonight-discusses-prediction-markets-and-manipulation.html"
     },
     {
       "source": "Decrypt",
@@ -786,19 +863,6 @@
       "localUrl": "/news/20260420-strategy-adds-25-billion-in-bitcoin-as-strc-dividend-traders-drive-largest-buy-s.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "RaveDAO's RAVE token risks another 50% crash amid price manipulation claims",
-      "summary": "RAVE is trending inside a descending channel pattern, and is about to test the lower trendline target near $0.30 amid price manipulation concerns.",
-      "url": "https://cointelegraph.com/news/ravedao-rave-token-risks-another-crash-price-manipulation-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-20T13:27:14.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "市场",
-      "slug": "20260420-ravedaos-rave-token-risks-another-50-crash-amid-price-manipulation-claims",
-      "localUrl": "/news/20260420-ravedaos-rave-token-risks-another-50-crash-amid-price-manipulation-claims.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitmine buys 101,627 ether worth over $230 million, its largest weekly haul of 2026",
       "summary": "The Ethereum treasury firm is nearing 5 million ETH holdings as it increased its accumulation pace over the past weeks.",
@@ -848,32 +912,6 @@
       "category": "X热点",
       "slug": "20260420-just-in-michael-saylors-strategy-officially-surpasses-blackrocks-btc-holdings-st",
       "localUrl": "/news/20260420-just-in-michael-saylors-strategy-officially-surpasses-blackrocks-btc-holdings-st.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Strategy buys 34,164 Bitcoin for $2.5B, holdings top 800,000 BTC",
-      "summary": "Strategy bought 34,164 Bitcoin for $2.54 billion last week, marking its third-largest BTC purchase on record.",
-      "url": "https://cointelegraph.com/news/strategy-buys-34-164-bitcoin-total-holdings-hit-815-061-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-20T12:29:07.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260420-strategy-buys-34164-bitcoin-for-25b-holdings-top-800000-btc",
-      "localUrl": "/news/20260420-strategy-buys-34164-bitcoin-for-25b-holdings-top-800000-btc.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin metrics line up bull signals with $78K the BTC price level to beat",
-      "summary": "With $75,000 possibly the new floor, Bitcoin is giving hints that a BTC price breakout is about to begin, based on two classic technical indicators.",
-      "url": "https://cointelegraph.com/news/bitcoin-metrics-line-up-bull-signals-78k-btc-price-level-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-20T12:20:47.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260420-bitcoin-metrics-line-up-bull-signals-with-78k-the-btc-price-level-to-beat",
-      "localUrl": "/news/20260420-bitcoin-metrics-line-up-bull-signals-with-78k-the-btc-price-level-to-beat.html"
     },
     {
       "source": "CoinDesk",
@@ -942,32 +980,6 @@
       "localUrl": "/news/20260420-layerzero-pins-292m-kelpdao-bridge-hack-on-north-koreas-lazarus-group.html"
     },
     {
-      "source": "X Wire",
-      "title": "Bitcoin ETFs ow over a $1b in YTD flows (having dug out of the outflow hole and then some). Next thing to watch is the cumulative lifetime net flows (MOST IMP and HARDEST NUMBER). This number peaked at $62.8b, curr $58b so about $5b away from hittin - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LUzBkaEtvbkRPM3ZvVVhGVWxyUGxlTWdTWUN6VEtzdDNGUVJHZkdSdnk5cjE3cEdvT2pSRWNYSFhlSVUyR1pwd0IwZVp0M3ZidXZKM3BFQzExczRGcDJndFdJWlQ?oc=5\" target=\"_blank\">Bitcoin ETFs ow over a $1b in Y…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LUzBkaEtvbkRPM3ZvVVhGVWxyUGxlTWdTWUN6VEtzdDNGUVJHZkdSdnk5cjE3cEdvT2pSRWNYSFhlSVUyR1pwd0IwZVp0M3ZidXZKM3BFQzExczRGcDJndFdJWlQ?oc=5",
-      "publishedAt": "2026-04-20T11:30:59.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260420-bitcoin-etfs-ow-over-a-1b-in-ytd-flows-having-dug-out-of-the-outflow-hole-and-th",
-      "localUrl": "/news/20260420-bitcoin-etfs-ow-over-a-1b-in-ytd-flows-having-dug-out-of-the-outflow-hole-and-th.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Nearly $1 billion in bitcoin ETF inflows power bull case as Kelp hack fuels DeFi jitters",
-      "summary": "What you need to know for April 20, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/04/20/nearly-usd1-billion-in-bitcoin-etf-inflows-power-bull-case-as-kelp-hack-fuels-defi-jitters",
-      "publishedAt": "2026-04-20T11:24:58.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260420-nearly-1-billion-in-bitcoin-etf-inflows-power-bull-case-as-kelp-hack-fuels-defi-",
-      "localUrl": "/news/20260420-nearly-1-billion-in-bitcoin-etf-inflows-power-bull-case-as-kelp-hack-fuels-defi-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "‘Highly Sophisticated,’ AI-Powered Hackers Behind Vercel Breach: CEO",
       "summary": "The security incident compromised some customer credentials of the cloud platform, which is used by many crypto frontends to host their UI.",
@@ -1025,17 +1037,6 @@
       "category": "X热点",
       "slug": "20260420-meet-the-ai-running-a-blockchain-ceos-life-xcom",
       "localUrl": "/news/20260420-meet-the-ai-running-a-blockchain-ceos-life-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Institutional flows into major crypto assets are still building. Last week, BTC ETFs recorded $996M in net inflows, marking 3 straight weeks of inflows, with BlackRock’s IBIT leading at $906M. ETH ETFs added $276M on the week, led by Fidelity’s FETH with $12 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zUDI0cWstUVN3WVI1bWhFbkJ3OVlFYUdBN1FIdE1KdThfbzJSZUVISm41em1aQ1dzZ01zZlA2Mm1xa0tIelEydFlBRm9BRDZpRmtVNTZkQmdpbEJuZ29qVUNFcmhiY0U?oc=5\" target=\"_blank\">Institutional flows into ma…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zUDI0cWstUVN3WVI1bWhFbkJ3OVlFYUdBN1FIdE1KdThfbzJSZUVISm41em1aQ1dzZ01zZlA2Mm1xa0tIelEydFlBRm9BRDZpRmtVNTZkQmdpbEJuZ29qVUNFcmhiY0U?oc=5",
-      "publishedAt": "2026-04-20T07:13:20.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260420-institutional-flows-into-major-crypto-assets-are-still-building-last-week-btc-et",
-      "localUrl": "/news/20260420-institutional-flows-into-major-crypto-assets-are-still-building-last-week-btc-et.html"
     },
     {
       "source": "X Wire",

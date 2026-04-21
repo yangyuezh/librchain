@@ -2,15 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-21T06:12:00.491Z</lastmod>
+    <lastmod>2026-04-21T08:59:19.999Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-21T06:12:00.491Z</lastmod>
+    <lastmod>2026-04-21T08:59:19.999Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260421-european-banks-tap-fireblocks-for-mica-compliant-euro-stablecoin.html</loc>
+    <lastmod>2026-04-21T08:01:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260421-a-dozen-banks-want-a-euro-stablecoin-fireblocks-is-making-it-happen.html</loc>
+    <lastmod>2026-04-21T08:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260421-inside-the-fake-police-raid-that-forced-a-1m-bitcoin-transfer.html</loc>
+    <lastmod>2026-04-21T06:59:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260421-singapores-ocbc-launches-tokenized-gold-fund-on-ethereum-and-solana.html</loc>
+    <lastmod>2026-04-21T06:41:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260421-update-on-rseth-incident-weth-reserves-on-the-ethereum-core-v3-market-have-been-.html</loc>
+    <lastmod>2026-04-21T06:18:16.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260421-now-over-17b-has-been-stolen-across-518-crypto-hacks-in-the-past-10-years-accord.html</loc>
+    <lastmod>2026-04-21T06:00:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260421-arbitrum-freezes-71m-of-ether-connected-to-kelp-exploit.html</loc>
@@ -97,7 +133,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260420-last-week-tonights-john-oliver-says-he-wont-placate-prediction-markets-users.html</loc>
+    <loc>https://www.librchain.com/news/20260420-john-oliver-of-last-week-tonight-discusses-prediction-markets-and-manipulation.html</loc>
     <lastmod>2026-04-20T21:30:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -355,12 +391,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260420-ravedaos-rave-token-risks-another-50-crash-amid-price-manipulation-claims.html</loc>
-    <lastmod>2026-04-20T13:27:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260420-bitmine-buys-101627-ether-worth-over-230-million-its-largest-weekly-haul-of-2026.html</loc>
     <lastmod>2026-04-20T12:57:30.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -381,18 +411,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260420-just-in-michael-saylors-strategy-officially-surpasses-blackrocks-btc-holdings-st.html</loc>
     <lastmod>2026-04-20T12:32:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260420-strategy-buys-34164-bitcoin-for-25b-holdings-top-800000-btc.html</loc>
-    <lastmod>2026-04-20T12:29:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260420-bitcoin-metrics-line-up-bull-signals-with-78k-the-btc-price-level-to-beat.html</loc>
-    <lastmod>2026-04-20T12:20:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -427,18 +445,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260420-bitcoin-etfs-ow-over-a-1b-in-ytd-flows-having-dug-out-of-the-outflow-hole-and-th.html</loc>
-    <lastmod>2026-04-20T11:30:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260420-nearly-1-billion-in-bitcoin-etf-inflows-power-bull-case-as-kelp-hack-fuels-defi-.html</loc>
-    <lastmod>2026-04-20T11:24:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260420-highly-sophisticated-ai-powered-hackers-behind-vercel-breach-ceo.html</loc>
     <lastmod>2026-04-20T10:53:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -465,12 +471,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260420-meet-the-ai-running-a-blockchain-ceos-life-xcom.html</loc>
     <lastmod>2026-04-20T08:15:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260420-institutional-flows-into-major-crypto-assets-are-still-building-last-week-btc-et.html</loc>
-    <lastmod>2026-04-20T07:13:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
