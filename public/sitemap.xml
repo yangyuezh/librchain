@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-22T23:04:36.245Z</lastmod>
+    <lastmod>2026-04-22T23:59:06.701Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-22T23:04:36.245Z</lastmod>
+    <lastmod>2026-04-22T23:59:06.701Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260422-price-predictions-422-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr.html</loc>
+    <lastmod>2026-04-22T22:37:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260422-sam-bankman-fried-pulls-motion-for-a-new-trial-still-asks-for-new-judge.html</loc>
@@ -409,12 +415,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260422-coinbase-shifts-new-york-prediction-markets-fight-to-federal-court.html</loc>
-    <lastmod>2026-04-22T10:55:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260422-bitcoin-tests-78000-resistance-as-short-squeeze-risks-mount-altcoins-rally.html</loc>
     <lastmod>2026-04-22T10:31:32.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -445,6 +445,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260422-this-is-massive-for-crypto-russia-just-passed-the-crypto-regulation-bill-to-allo.html</loc>
+    <lastmod>2026-04-22T07:38:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260422-just-in-tron-founder-justin-sun-files-lawsuit-against-trump-familys-crypto-proje.html</loc>
     <lastmod>2026-04-22T03:37:25.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -463,12 +469,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260421-another-way-to-think-about-l2-differentiation-governance-ethereum-l1-wont-fork-f.html</loc>
-    <lastmod>2026-04-21T19:42:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260421-latest-cryptos-massive-exploit-may-force-big-banks-to-rethink-their-blockchain-p.html</loc>
     <lastmod>2026-04-21T18:32:22.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,6 +481,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260421-btc-bitcoin-whales-accumulate-at-fastest-pace-in-a-year-bitcoin-whales-added-abo.html</loc>
+    <lastmod>2026-04-21T13:57:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260421-update-on-rseth-incident-weth-reserves-on-the-ethereum-core-v3-market-have-been-.html</loc>
     <lastmod>2026-04-21T06:18:16.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260420-cc_crowley-ccatalini-ahall_research-liz_harkavy-nlevine19-and-psnevilleai-agents.html</loc>
     <lastmod>2026-04-20T15:04:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260420-strategy-has-acquired-34164-btc-for-254-billion-at-74395-per-bitcoin-and-has-ach.html</loc>
-    <lastmod>2026-04-20T12:02:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
