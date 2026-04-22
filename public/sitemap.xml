@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-21T23:49:35.972Z</lastmod>
+    <lastmod>2026-04-22T03:37:52.747Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-21T23:49:35.972Z</lastmod>
+    <lastmod>2026-04-22T03:37:52.747Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260422-us-admiral-calls-bitcoin-an-instrument-for-us-power-projection.html</loc>
+    <lastmod>2026-04-22T02:14:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260422-anthropics-claude-mythos-ai-finds-271-vulnerabilities-in-firefoxyes-its-seriousl.html</loc>
+    <lastmod>2026-04-22T02:06:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260421-cryptos-great-hope-in-senates-clarity-act-still-has-a-path-to-survive-tight-cale.html</loc>
@@ -93,6 +105,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260421-prediction-market-giants-kalshi-polymarket-eye-perpetual-futures-push-report.html</loc>
     <lastmod>2026-04-21T19:41:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260421-just-in-polymarket-to-launch-247-perpetual-futures-trading-for-crypto-equities-a.html</loc>
+    <lastmod>2026-04-21T19:31:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -379,12 +397,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260421-canton-zksync-clash-over-how-blockchains-enforce-rules.html</loc>
-    <lastmod>2026-04-21T13:30:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260421-coindesk-20-performance-update-stellar-xlm-gains-33-while-index-moves-lower.html</loc>
     <lastmod>2026-04-21T13:19:23.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -393,6 +405,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260421-bank-of-koreas-new-governor-prioritizes-cbdcs-over-stablecoins-in-first-policy-a.html</loc>
     <lastmod>2026-04-21T13:02:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260421-just-in-morgan-stanleys-spot-bitcoin-etf-now-holds-over-139-million-worth-of-btc.html</loc>
+    <lastmod>2026-04-21T12:45:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,12 +433,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260421-grandson-of-mob-boss-john-gotti-sentenced-for-funneling-stolen-covid-funds-into-.html</loc>
-    <lastmod>2026-04-21T11:28:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260421-update-on-rseth-incident-weth-reserves-on-the-ethereum-core-v3-market-have-been-.html</loc>
     <lastmod>2026-04-21T06:18:16.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -439,12 +451,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260420-latest-sen-tillis-urges-senate-banking-to-push-the-crypto-market-structure-bill-.html</loc>
-    <lastmod>2026-04-20T23:40:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260420-vitalik-l2s-that-only-copy-ethereum-make-no-sense-ethereum-founder-vitalik-buter.html</loc>
     <lastmod>2026-04-20T22:38:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -459,12 +465,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260420-new-morgan-stanleys-spot-bitcoin-etf-wallets-have-been-identified-by-arkham-xcom.html</loc>
     <lastmod>2026-04-20T19:32:23.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260420-brandon-is-back-bitly4mgr5r2-blockchain-xcom.html</loc>
-    <lastmod>2026-04-20T16:45:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
