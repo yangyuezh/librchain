@@ -1,7 +1,122 @@
 {
-  "updatedAt": "2026-04-23T10:43:42.492Z",
-  "total": 61,
+  "updatedAt": "2026-04-23T12:06:59.827Z",
+  "total": 82,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Bitcoin Clears $79,000, Then Reverses",
+      "summary": "Justin Sun is suing Trump’s World Liberty Financial, and the U.S. government is now openly running a Bitcoin node.",
+      "url": "https://decrypt.co/365243/morning-minute-bitcoin-clears-79000-then-reverses",
+      "publishedAt": "2026-04-23T12:03:13.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "市场",
+      "slug": "20260423-morning-minute-bitcoin-clears-79000-then-reverses",
+      "localUrl": "/news/20260423-morning-minute-bitcoin-clears-79000-then-reverses.html"
+    },
+    {
+      "source": "Chainalysis Blog",
+      "title": "$30 Billion and Counting: How Tokenized RWAs Are Becoming a Mainstream Investment for Institutional Capital",
+      "summary": "This blog is a preview of our forthcoming report, “The New Rails: How Digital Assets Are Reshaping the Foundations of… The post $30 Billion and Counting: How Tokenized RWAs Are Becoming a Mainstream Investment for Institutional Capital app…",
+      "url": "https://www.chainalysis.com/blog/tokenized-real-world-assets-on-chain-commodities/",
+      "publishedAt": "2026-04-23T11:55:32.000Z",
+      "keywords": [
+        "Markets",
+        "Commodities",
+        "Crypto Markets",
+        "Financial Institutions",
+        "RWAs",
+        "tokenization",
+        "TradFi"
+      ],
+      "category": "RWA",
+      "slug": "20260423-30-billion-and-counting-how-tokenized-rwas-are-becoming-a-mainstream-investment-",
+      "localUrl": "/news/20260423-30-billion-and-counting-how-tokenized-rwas-are-becoming-a-mainstream-investment-.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic Using ‘Fear-Based Marketing’ to Promote Claude Mythos: Sam Altman",
+      "summary": "The OpenAI chief said warnings about rival Anthropic’s AI model may be exaggerated, as its cybersecurity capabilities draw scrutiny.",
+      "url": "https://decrypt.co/365240/anthropic-using-fear-based-marketing-to-promote-claude-mythos-sam-altman",
+      "publishedAt": "2026-04-23T11:54:15.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260423-anthropic-using-fear-based-marketing-to-promote-claude-mythos-sam-altman",
+      "localUrl": "/news/20260423-anthropic-using-fear-based-marketing-to-promote-claude-mythos-sam-altman.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. military runs Bitcoin node, sees crypto as power projection versus China",
+      "summary": "Admiral Samuel Paparo, head of US Indo-Pacific Command, told two congressional panels this week that the military is running a live Bitcoin node for cybersecurity testing and views the protocol as a tool of national power in competition wi…",
+      "url": "https://www.coindesk.com/markets/2026/04/23/us-military-runs-bitcoin-node-sees-crypto-as-power-projection-vs-china",
+      "publishedAt": "2026-04-23T11:52:19.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260423-us-military-runs-bitcoin-node-sees-crypto-as-power-projection-versus-china",
+      "localUrl": "/news/20260423-us-military-runs-bitcoin-node-sees-crypto-as-power-projection-versus-china.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Sam Bankman-Fried withdraws retrial motion. He believes he would not get a fair trial.",
+      "summary": "The founder of the collapsed crypto exchange FTX said he might file for a retrial after a decision on his appeal is ruled upon.",
+      "url": "https://www.coindesk.com/policy/2026/04/23/sam-bankman-fried-withdraws-retrial-motion-he-believes-he-would-not-get-a-fair-trial",
+      "publishedAt": "2026-04-23T11:26:59.000Z",
+      "keywords": [
+        "Policy",
+        "Sam Bankman-Fried",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260423-sam-bankman-fried-withdraws-retrial-motion-he-believes-he-would-not-get-a-fair-t",
+      "localUrl": "/news/20260423-sam-bankman-fried-withdraws-retrial-motion-he-believes-he-would-not-get-a-fair-t.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin buyers show ‘renewed conviction’ with BTC price push toward $79K",
+      "summary": "Bitcoin reached multi-month highs at $79,000 as bulls regained control and exchange reserves tightened, signalling buyers returning and reduced sell pressure.",
+      "url": "https://conpletus.cointelegraph.com/news/bitcoin-buyers-renewed-conviction-btc-price-push-toward-79k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-23T11:16:01.000Z",
+      "keywords": [
+        "Market Analysis"
+      ],
+      "category": "市场",
+      "slug": "20260423-bitcoin-buyers-show-renewed-conviction-with-btc-price-push-toward-79k",
+      "localUrl": "/news/20260423-bitcoin-buyers-show-renewed-conviction-with-btc-price-push-toward-79k.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's bullish momentum runs into Pentagon-backed inflation warning",
+      "summary": "What you need to know for April 23, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/04/23/bitcoin-s-bullish-momentum-runs-into-pentagon-backed-inflation-warning",
+      "publishedAt": "2026-04-23T11:14:28.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260423-bitcoins-bullish-momentum-runs-into-pentagon-backed-inflation-warning",
+      "localUrl": "/news/20260423-bitcoins-bullish-momentum-runs-into-pentagon-backed-inflation-warning.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Blockchain Capital Seeks $700M for Two New Crypto Funds",
+      "summary": "The venture capital firm aims to close the fundraising within five to six months, and is already deploying some of the new capital.",
+      "url": "https://decrypt.co/365237/blockchain-capital-seeks-700m-for-two-new-crypto-funds",
+      "publishedAt": "2026-04-23T11:01:21.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "综合",
+      "slug": "20260423-blockchain-capital-seeks-700m-for-two-new-crypto-funds",
+      "localUrl": "/news/20260423-blockchain-capital-seeks-700m-for-two-new-crypto-funds.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin slips from near $80,000 as oil price increase weighs on risk assets",
@@ -65,6 +180,19 @@
       "localUrl": "/news/20260423-coinbase-backer-blockchain-capital-hunts-700-million-for-new-funds.html"
     },
     {
+      "source": "Cointelegraph",
+      "title": "Polymarket traders win $37K after Paris weather data glitch, raising suspicion",
+      "summary": "Ruben Hallali, a meteorologist, told French media outlet BFMTV the sudden temperature fluctuation recorded at a weather station at the Charles de Gaulle Airport was unlikely to be a natural event.",
+      "url": "https://conpletus.cointelegraph.com/news/suspicion-rises-after-polymarket-traders-win-37k-on-paris-weather-data-glitch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-23T08:23:22.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260423-polymarket-traders-win-37k-after-paris-weather-data-glitch-raising-suspicion",
+      "localUrl": "/news/20260423-polymarket-traders-win-37k-after-paris-weather-data-glitch-raising-suspicion.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "OpenAI appears to be poaching Coinbase’s marketing team",
       "summary": "Six Coinbase senior marketing executives, including the exchange's former chief marketing officer, have jumped to OpenAI in the past year and a half.",
@@ -80,6 +208,45 @@
       "category": "市场",
       "slug": "20260423-openai-appears-to-be-poaching-coinbases-marketing-team",
       "localUrl": "/news/20260423-openai-appears-to-be-poaching-coinbases-marketing-team.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto sentiment index soars to a 3-month high as Bitcoin holds $77K",
+      "summary": "Despite the rise, the Crypto Fear & Greed Index score remains stuck in the “Fear” zone, where it has been since Jan. 18.",
+      "url": "https://conpletus.cointelegraph.com/news/crypto-market-sentiment-hits-3-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-23T07:07:11.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260423-crypto-sentiment-index-soars-to-a-3-month-high-as-bitcoin-holds-77k",
+      "localUrl": "/news/20260423-crypto-sentiment-index-soars-to-a-3-month-high-as-bitcoin-holds-77k.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Apple fixes bug that allowed FBI to read deleted Signal messages",
+      "summary": "FBI used the flaw to extract readable Signal messages from an iPhone's notification database even after the app was deleted.",
+      "url": "https://conpletus.cointelegraph.com/news/apple-fixes-bug-fbi-read-encrypted-messages-signal-via-notifications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-23T07:05:30.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260423-apple-fixes-bug-that-allowed-fbi-to-read-deleted-signal-messages",
+      "localUrl": "/news/20260423-apple-fixes-bug-that-allowed-fbi-to-read-deleted-signal-messages.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Blockchain Capital is raising $700M for 2 new funds: Report",
+      "summary": "The new funding rounds are expected to be completed in the next six months, but the firm has already begun deploying some of the new capital, according to a person familiar with the matter.",
+      "url": "https://conpletus.cointelegraph.com/news/blockchain-capital-raises-700-million-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-23T06:54:02.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260423-blockchain-capital-is-raising-700m-for-2-new-funds-report",
+      "localUrl": "/news/20260423-blockchain-capital-is-raising-700m-for-2-new-funds-report.html"
     },
     {
       "source": "CoinDesk",
@@ -112,6 +279,32 @@
       "localUrl": "/news/20260423-ftx-sold-its-cursor-stake-for-200000-in-2023-it-would-be-worth-3-billion-today.html"
     },
     {
+      "source": "Cointelegraph",
+      "title": "Ether taker volume rises by 72% as traders target ETH liquidity gap at $2.6K",
+      "summary": "ETH derivatives show strong buyer dominance, leading traders to target $2,500 to $2,600 as the next crucial rally.",
+      "url": "https://conpletus.cointelegraph.com/news/ether-taker-volume-rises-by-72percent-as-traders-target-eth-liquidity-gap-at-dollar2-6k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-23T05:47:21.000Z",
+      "keywords": [
+        "Market Analysis"
+      ],
+      "category": "DeFi",
+      "slug": "20260423-ether-taker-volume-rises-by-72-as-traders-target-eth-liquidity-gap-at-26k",
+      "localUrl": "/news/20260423-ether-taker-volume-rises-by-72-as-traders-target-eth-liquidity-gap-at-26k.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Market maker GSR launches first ETF tracking Bitcoin, Ether and Solana",
+      "summary": "The GSR Crypto Core3 ETF is GSR's first crypto exchange-traded product, giving investors access to the top three largest cryptocurrencies by market capitalization.",
+      "url": "https://conpletus.cointelegraph.com/news/crypto-market-maker-gsr-launched-multi-asset-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-23T05:46:54.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260423-market-maker-gsr-launches-first-etf-tracking-bitcoin-ether-and-solana",
+      "localUrl": "/news/20260423-market-maker-gsr-launches-first-etf-tracking-bitcoin-ether-and-solana.html"
+    },
+    {
       "source": "X Wire",
       "title": "LATEST: 🚨 Lazarus Group is targeting crypto executives with new macOS malware spread through fake meeting links, according to CertiK. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LTUtWbVNrTTg3ZlZxMXl2Ny1tbUZCdUpQQXFRSVdzTHpUaExpQWV3S2NCaGw4ckt1VFVPZy1DMVpfX2p0R3FEVmtSa0dOSldfRDR6WkQxRmk4TDVTaFZxSFFhRE0?oc=5\" target=\"_blank\">LATEST: 🚨 Lazarus Group is tar…",
@@ -121,6 +314,19 @@
       "category": "X热点",
       "slug": "20260423-latest-lazarus-group-is-targeting-crypto-executives-with-new-macos-malware-sprea",
       "localUrl": "/news/20260423-latest-lazarus-group-is-targeting-crypto-executives-with-new-macos-malware-sprea.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Phishing, deepfakes, supply chain attacks to fuel 2026's biggest crypto hacks: CertiK",
+      "summary": "CertiK has urged crypto users not to overlook basic security practices as major crypto hacks spiked in April.",
+      "url": "https://conpletus.cointelegraph.com/news/phishing-deepfakes-supply-chain-attacks-to-fuel-2026-s-biggest-crypto-hacks-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-23T05:11:58.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260423-phishing-deepfakes-supply-chain-attacks-to-fuel-2026s-biggest-crypto-hacks-certi",
+      "localUrl": "/news/20260423-phishing-deepfakes-supply-chain-attacks-to-fuel-2026s-biggest-crypto-hacks-certi.html"
     },
     {
       "source": "CoinDesk",
@@ -136,17 +342,6 @@
       "category": "DeFi",
       "slug": "20260423-cardano-builder-seeks-smaller-funding-slice-of-468-million-for-scaling-and-bitco",
       "localUrl": "/news/20260423-cardano-builder-seeks-smaller-funding-slice-of-468-million-for-scaling-and-bitco.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The KelpDAO hacker has swapped nearly all of its 75,700 ETH holdings, worth about $175 million, into BTC over roughly a day and a half. The cross-chain swaps were primarily routed through THORChain. Due to the sheer size of the transactions, the launder - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPN0NXSVRUYmtNaWFIWkhaSGpRRGdLeko1TFc2Zm5yVTl6UkdidHpSU1JxMTRNME9Yd1lYMW1uRFJWTFVCN0FKOWJyRzJleTFza1RzRHpucERYbTZRTXBZT0J5cw?oc=5\" target=\"_blank\">The KelpDAO hacker has swapped n…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPN0NXSVRUYmtNaWFIWkhaSGpRRGdLeko1TFc2Zm5yVTl6UkdidHpSU1JxMTRNME9Yd1lYMW1uRFJWTFVCN0FKOWJyRzJleTFza1RzRHpucERYbTZRTXBZT0J5cw?oc=5",
-      "publishedAt": "2026-04-23T04:44:35.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260423-the-kelpdao-hacker-has-swapped-nearly-all-of-its-75700-eth-holdings-worth-about-",
-      "localUrl": "/news/20260423-the-kelpdao-hacker-has-swapped-nearly-all-of-its-75700-eth-holdings-worth-about-.html"
     },
     {
       "source": "CoinDesk",
@@ -190,6 +385,19 @@
       "localUrl": "/news/20260423-world-liberty-accuses-justin-sun-of-misconduct-in-response-to-tron-founders-defa.html"
     },
     {
+      "source": "Cointelegraph",
+      "title": "Kalshi bans 3 US politicians for betting on their own election races",
+      "summary": "Matt Klein, a sitting member of the Minnesota State Senate, said he made a bet out of curiosity, while Mark Moran claimed he wanted to see how Kalshi responded to insider trading activity.",
+      "url": "https://conpletus.cointelegraph.com/news/kalshi-bans-us-candidates-election-betting-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-23T03:38:19.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260423-kalshi-bans-3-us-politicians-for-betting-on-their-own-election-races",
+      "localUrl": "/news/20260423-kalshi-bans-3-us-politicians-for-betting-on-their-own-election-races.html"
+    },
+    {
       "source": "X Wire",
       "title": "🇺🇸 LATEST: Senator Bernie Moreno expects crypto market structure legislation to pass by the end of May. He warned the Clarity Act missing the deadline could shelve it indefinitely, per Eleanor Terrett. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yOGcyVmpmb1V0TVpsZklmamVvVlJCSHVySWZuNEZkcVQxVmw5b2s0ZDY2cHE5eGdZdm53eC16SFlpZElTYzZPOHNLeTZDTW1Hc3RoOEhrc0J4TTc2TXl4aWF2Mkc?oc=5\" target=\"_blank\">🇺🇸 LATEST: Senator Bernie Mor…",
@@ -201,15 +409,130 @@
       "localUrl": "/news/20260423-latest-senator-bernie-moreno-expects-crypto-market-structure-legislation-to-pass.html"
     },
     {
+      "source": "Cointelegraph",
+      "title": "New York, Illinois sign EOs banning state employees from prediction markets",
+      "summary": "New York Governor Kathy Hochul criticized the Trump administration for not implementing any “meaningful ethical standards” to curb insider trading in prediction markets.",
+      "url": "https://conpletus.cointelegraph.com/news/new-york-illinois-sign-executive-order-banning-official-from-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-23T02:53:56.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260423-new-york-illinois-sign-eos-banning-state-employees-from-prediction-markets",
+      "localUrl": "/news/20260423-new-york-illinois-sign-eos-banning-state-employees-from-prediction-markets.html"
+    },
+    {
       "source": "X Wire",
-      "title": "Let's make crypto affordable in the US again. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE84VHNTUlRPUW4wWkFuSWlTdXVrVl82OG9YTGhNQ1llaUQ3c2dFdEwzMTBubllUR3lCOWRGc1E1Zy01R09XX2xZam5HWVBMTmlkQzB1TlZiZHVSMEJUa3ljNw?oc=5\" target=\"_blank\">Let's make crypto affordable in the …",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84VHNTUlRPUW4wWkFuSWlTdXVrVl82OG9YTGhNQ1llaUQ3c2dFdEwzMTBubllUR3lCOWRGc1E1Zy01R09XX2xZam5HWVBMTmlkQzB1TlZiZHVSMEJUa3ljNw?oc=5",
-      "publishedAt": "2026-04-23T02:22:41.000Z",
+      "title": "LATEST: 📈 Trump family-backed American Bitcoin bought 11,298 new miners, increasing its total owned capacity to 28.1 EH/s across 89,242 machines. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zNUEzQV9rMHRwUWtUSXZxZ3U1WEozWENSMUQ3dU1PTUZPWkFBNzNLdmMyNVdXTFB4YmQ5ZHRUcWNNUHNTUWQ4bzR4NFJFbWtRb19EMU1rNV9heF9mQ1pPWVBEN1M?oc=5\" target=\"_blank\">LATEST: 📈 Trump family-backed …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zNUEzQV9rMHRwUWtUSXZxZ3U1WEozWENSMUQ3dU1PTUZPWkFBNzNLdmMyNVdXTFB4YmQ5ZHRUcWNNUHNTUWQ4bzR4NFJFbWtRb19EMU1rNV9heF9mQ1pPWVBEN1M?oc=5",
+      "publishedAt": "2026-04-23T02:17:10.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260423-lets-make-crypto-affordable-in-the-us-again-xcom",
-      "localUrl": "/news/20260423-lets-make-crypto-affordable-in-the-us-again-xcom.html"
+      "slug": "20260423-latest-trump-family-backed-american-bitcoin-bought-11298-new-miners-increasing-i",
+      "localUrl": "/news/20260423-latest-trump-family-backed-american-bitcoin-bought-11298-new-miners-increasing-i.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "LONGITUDE recap: Adam Back on Satoshi, crypto regulation needs tweaks",
+      "summary": "Blockstream’s Adam Back discusses why people think he’s Satoshi Nakamoto, while the CEO of OKX Europe said MiCA is “extremely beneficial” for the industry at the latest LONGITUDE event in Paris.",
+      "url": "https://conpletus.cointelegraph.com/news/longitude-recap-adam-back-on-satoshi-crypto-regulation-needs-tweaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-23T01:30:34.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260423-longitude-recap-adam-back-on-satoshi-crypto-regulation-needs-tweaks",
+      "localUrl": "/news/20260423-longitude-recap-adam-back-on-satoshi-crypto-regulation-needs-tweaks.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Four reasons why the crypto market is rallying today: Will bulls maintain control?",
+      "summary": "Bitcoin and Ether surged as US liquidity measures and record spot ETF inflows offset investors’ recession fears and their concerns over the war in Iran.",
+      "url": "https://conpletus.cointelegraph.com/news/four-reasons-why-the-crypto-market-is-rallying-today-will-bulls-maintain-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-23T01:30:00.000Z",
+      "keywords": [
+        "Market Analysis"
+      ],
+      "category": "监管",
+      "slug": "20260423-four-reasons-why-the-crypto-market-is-rallying-today-will-bulls-maintain-control",
+      "localUrl": "/news/20260423-four-reasons-why-the-crypto-market-is-rallying-today-will-bulls-maintain-control.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin chases monthly high above $80K as nearly all BTC price metrics turn bullish",
+      "summary": "Bitcoin moves closer to $80,000 as data shows traders positioning in futures markets. Will potential profit-taking in the $83,000 to $88,000 range put a cap on the rally?",
+      "url": "https://conpletus.cointelegraph.com/news/bitcoin-chases-monthly-high-above-dollar80k-as-nearly-all-btc-price-metrics-turn-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-23T00:30:00.000Z",
+      "keywords": [
+        "Market Analysis"
+      ],
+      "category": "市场",
+      "slug": "20260423-bitcoin-chases-monthly-high-above-80k-as-nearly-all-btc-price-metrics-turn-bulli",
+      "localUrl": "/news/20260423-bitcoin-chases-monthly-high-above-80k-as-nearly-all-btc-price-metrics-turn-bulli.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Price predictions 4/22: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, XMR",
+      "summary": "Bitcoin rally above the $78,333 resistance signals sustained buying by the bulls, clearing the path for a potential rally to $84,000.",
+      "url": "https://conpletus.cointelegraph.com/news/price-predictions-4-22-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-22T23:37:05.000Z",
+      "keywords": [
+        "Top 10 Cryptocurrencies"
+      ],
+      "category": "市场",
+      "slug": "20260422-price-predictions-422-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr",
+      "localUrl": "/news/20260422-price-predictions-422-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Sam Bankman-Fried pulls motion for a new trial, still asks for new judge",
+      "summary": "The ex-FTX CEO said he consulted with his parents and lawyers regarding a recent filing he sent from prison, but claimed to be the ”ultimate author of the documents.”",
+      "url": "https://conpletus.cointelegraph.com/news/sam-bankman-fried-withdraws-motion-new-trial-new-judge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-22T22:52:15.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260422-sam-bankman-fried-pulls-motion-for-a-new-trial-still-asks-for-new-judge",
+      "localUrl": "/news/20260422-sam-bankman-fried-pulls-motion-for-a-new-trial-still-asks-for-new-judge.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "url": "https://conpletus.cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-22T22:28:43.000Z",
+      "keywords": [
+        "Trump memecoin",
+        "Solana memecoin",
+        "TRUMP token",
+        "Solana",
+        "SOL",
+        "Nova Labs",
+        "SEC",
+        "Securities and Exchange Commission",
+        "Crypto regulation",
+        "TRUMP rally",
+        "Bitcoin",
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260422-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260422-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "PUSD stablecoin deploys on ADI Chain, targeting $3T Islamic finance market",
+      "summary": "The Shariah-compliant stablecoin backed by Gulf currencies expands to a new Layer-2 network aimed at institutional settlement in the Middle East.",
+      "url": "https://conpletus.cointelegraph.com/news/pusd-stablecoin-deploys-on-adi-chain-targeting-3t-islamic-finance-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-22T22:11:15.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260422-pusd-stablecoin-deploys-on-adi-chain-targeting-3t-islamic-finance-market",
+      "localUrl": "/news/20260422-pusd-stablecoin-deploys-on-adi-chain-targeting-3t-islamic-finance-market.html"
     },
     {
       "source": "X Wire",
@@ -247,6 +570,32 @@
       "category": "DeFi",
       "slug": "20260422-openai-launches-workspace-agents-feature-in-chatgpt",
       "localUrl": "/news/20260422-openai-launches-workspace-agents-feature-in-chatgpt.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Banking group asks for more time to comment on US stablecoin bill",
+      "summary": "The letter to four US government agencies said banks needed 60 more days for comment after OCC stablecoin rulemaking had been finalized.",
+      "url": "https://conpletus.cointelegraph.com/news/banking-groups-ask-for-more-time-to-comment-on-genius-act-potentially-delaying-implementation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-22T21:32:17.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260422-banking-group-asks-for-more-time-to-comment-on-us-stablecoin-bill",
+      "localUrl": "/news/20260422-banking-group-asks-for-more-time-to-comment-on-us-stablecoin-bill.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trump-linked American Bitcoin energizes 11,298 new ASICs",
+      "summary": "American Bitcoin (ABTC) originally purchased the mining rigs in March, weeks after reporting a $59 million loss for Q4 2025.",
+      "url": "https://conpletus.cointelegraph.com/news/trump-american-bitcoin-energizes-11-298-asics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-22T21:17:47.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260422-trump-linked-american-bitcoin-energizes-11298-new-asics",
+      "localUrl": "/news/20260422-trump-linked-american-bitcoin-energizes-11298-new-asics.html"
     },
     {
       "source": "CoinDesk",
@@ -368,6 +717,19 @@
       "category": "综合",
       "slug": "20260422-google-will-spend-up-to-185-billion-this-year-to-power-ai-agentic-era-ceo",
       "localUrl": "/news/20260422-google-will-spend-up-to-185-billion-this-year-to-power-ai-agentic-era-ceo.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Thailand regulator mulls crypto futures expansion in licensing overhaul",
+      "summary": "Thailand’s SEC is seeking feedback on rule changes that would let digital asset firms offer derivatives within existing entities, lowering barriers to market entry.",
+      "url": "https://conpletus.cointelegraph.com/news/thailand-s-sec-proposes-allowing-crypto-companies-to-offer-futures-directly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-22T18:53:36.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260422-thailand-regulator-mulls-crypto-futures-expansion-in-licensing-overhaul",
+      "localUrl": "/news/20260422-thailand-regulator-mulls-crypto-futures-expansion-in-licensing-overhaul.html"
     },
     {
       "source": "CoinDesk",
@@ -543,23 +905,6 @@
       "localUrl": "/news/20260422-the-292-million-kelp-dao-exploit-shows-why-crypto-bridges-are-still-one-of-the-i.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Trump-linked American Bitcoin shares spike over 12% after announcing more mining power",
-      "summary": "The Trump family-linked mining and treasury company announced 11,298 additional bitcoin mining ASICs at its Drumheller site.",
-      "url": "https://www.coindesk.com/business/2026/04/22/trump-linked-american-bitcoin-shares-spike-over-12-after-announcing-more-mining-power",
-      "publishedAt": "2026-04-22T15:57:28.000Z",
-      "keywords": [
-        "Finance",
-        "Bitcoin Mining",
-        "American Bitcoin",
-        "Eric Trump",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260422-trump-linked-american-bitcoin-shares-spike-over-12-after-announcing-more-mining-",
-      "localUrl": "/news/20260422-trump-linked-american-bitcoin-shares-spike-over-12-after-announcing-more-mining-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "GSR Launches Actively Managed Bitcoin, Ethereum and Solana Basket ETF on Nasdaq",
       "summary": "Crypto market maker GSR has launched an actively managed ETF on the Nasdaq that includes Bitcoin, Ethereum, and Solana.",
@@ -584,40 +929,6 @@
       "localUrl": "/news/20260422-breaking-crypto-funds-attracted-14-billion-in-inflows-last-week-the-highest-week.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin breaks Strategy's STRC ex-dividend date slump for the first time in six months",
-      "summary": "Bitcoin is seeing a short squeeze dynamic and steady U.S. demand to support gains.",
-      "url": "https://www.coindesk.com/markets/2026/04/22/bitcoin-rises-a-week-after-strc-s-dividend-payout-a-first-in-six-months",
-      "publishedAt": "2026-04-22T15:37:14.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "MicroStrategy",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260422-bitcoin-breaks-strategys-strc-ex-dividend-date-slump-for-the-first-time-in-six-m",
-      "localUrl": "/news/20260422-bitcoin-breaks-strategys-strc-ex-dividend-date-slump-for-the-first-time-in-six-m.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin tops $79,000 as crypto rally gathers steam; Circle, Coinbase, Strategy lead",
-      "summary": "BTC pushed to an 11-week high with dynamics for a short squeeze building, one analyst noted.",
-      "url": "https://www.coindesk.com/markets/2026/04/22/bitcoin-tops-usd79-000-as-crypto-rally-gathers-steam-circle-coinbase-strategy-lead",
-      "publishedAt": "2026-04-22T15:32:42.000Z",
-      "keywords": [
-        "Markets",
-        "Market Wrap",
-        "Bitcoin News",
-        "MicroStrategy",
-        "Coinbase",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260422-bitcoin-tops-79000-as-crypto-rally-gathers-steam-circle-coinbase-strategy-lead",
-      "localUrl": "/news/20260422-bitcoin-tops-79000-as-crypto-rally-gathers-steam-circle-coinbase-strategy-lead.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Russia Advances Sweeping Crypto Bill With Provisions for 'Circumventing Sanctions'",
       "summary": "The legislation would license crypto exchanges and permit cross-border cryptocurrency use while maintaining domestic payment restrictions.",
@@ -629,17 +940,6 @@
       "category": "综合",
       "slug": "20260422-russia-advances-sweeping-crypto-bill-with-provisions-for-circumventing-sanctions",
       "localUrl": "/news/20260422-russia-advances-sweeping-crypto-bill-with-provisions-for-circumventing-sanctions.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇷🇺 Russia advances bill to regulate & classify crypto as property and allow it in foreign trade. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nTjJOMVdsVFNoVkQxbUUxU0JQWmR4ODhVbDZubzVCVDE4VGVscWhacUVLVzdZTFYwd1hyXzc5UFlzYVl5RjVaOTNCTTh0UjFCVlJoRUZWblhZX0NJellURm9R?oc=5\" target=\"_blank\">JUST IN: 🇷🇺 Russia advances bill…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nTjJOMVdsVFNoVkQxbUUxU0JQWmR4ODhVbDZubzVCVDE4VGVscWhacUVLVzdZTFYwd1hyXzc5UFlzYVl5RjVaOTNCTTh0UjFCVlJoRUZWblhZX0NJellURm9R?oc=5",
-      "publishedAt": "2026-04-22T15:18:51.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260422-just-in-russia-advances-bill-to-regulate-classify-crypto-as-property-and-allow-i",
-      "localUrl": "/news/20260422-just-in-russia-advances-bill-to-regulate-classify-crypto-as-property-and-allow-i.html"
     },
     {
       "source": "X Wire",
@@ -677,32 +977,6 @@
       "localUrl": "/news/20260422-bitcoin-79k-highest-since-january-after-breaking-out-above-the-post-october-high.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Robinhood Ventures Invests $75 Million in OpenAI, Offering Retail Traders Exposure",
-      "summary": "Robinhood’s publicly-traded fund aims to give retail investors exposure to AI startups like OpenAI, without accreditation requirements.",
-      "url": "https://decrypt.co/365120/robinhood-ventures-invests-75-million-openai-giving-retail-traders-exposure",
-      "publishedAt": "2026-04-22T13:43:08.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260422-robinhood-ventures-invests-75-million-in-openai-offering-retail-traders-exposure",
-      "localUrl": "/news/20260422-robinhood-ventures-invests-75-million-in-openai-offering-retail-traders-exposure.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "'Finding Satoshi' Makes the Case for Hal Finney, Len Sassaman as Bitcoin Co-Creators",
-      "summary": "A new documentary asserts that Bitcoin creator Satoshi Nakamoto was actually two people: the late Hal Finney and Len Sassaman.",
-      "url": "https://decrypt.co/365075/finding-satoshi-makes-the-case-for-hal-finney-len-sassaman-as-bitcoin-co-creators",
-      "publishedAt": "2026-04-22T13:01:03.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "市场",
-      "slug": "20260422-finding-satoshi-makes-the-case-for-hal-finney-len-sassaman-as-bitcoin-co-creator",
-      "localUrl": "/news/20260422-finding-satoshi-makes-the-case-for-hal-finney-len-sassaman-as-bitcoin-co-creator.html"
-    },
-    {
       "source": "X Wire",
       "title": "NEW: Russia passes first reading of bill that would clarify Bitcoin and crypto as property and allow it in foreign trade — Russian state owned TASS 🇷🇺 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3WDdYbms3SktieW1VZEF4LWRqSHFPRS1YQlRHOFNkdDNzY3ZNdUdTd0FoamhOelpMczFuVDhhclZjcG04Q080MDFQY1EwZ0FoakVBcjIwYVkxXzVMNi1ZX01FaHB6YlE?oc=5\" target=\"_blank\">NEW: Russia passes first re…",
@@ -712,19 +986,6 @@
       "category": "X热点",
       "slug": "20260422-new-russia-passes-first-reading-of-bill-that-would-clarify-bitcoin-and-crypto-as",
       "localUrl": "/news/20260422-new-russia-passes-first-reading-of-bill-that-would-clarify-bitcoin-and-crypto-as.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Top Law Firm Admits to AI ‘Hallucinations’ in Bankruptcy Filing Tied to Alleged Scam Network",
-      "summary": "Sullivan & Cromwell said internal safeguards were bypassed in the Prince Group case, resulting in fabricated and inaccurate legal citations.",
-      "url": "https://decrypt.co/365115/top-law-firm-admits-to-ai-hallucinations-in-bankruptcy-filing-tied-to-alleged-scam-network",
-      "publishedAt": "2026-04-22T12:46:41.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260422-top-law-firm-admits-to-ai-hallucinations-in-bankruptcy-filing-tied-to-alleged-sc",
-      "localUrl": "/news/20260422-top-law-firm-admits-to-ai-hallucinations-in-bankruptcy-filing-tied-to-alleged-sc.html"
     },
     {
       "source": "X Wire",
@@ -761,6 +1022,17 @@
     },
     {
       "source": "X Wire",
+      "title": "THORChain was modelled after Bitcoin, to be permissionless and censorship resistant. There’s no single person or entity in control of the protocol. There’s no admin key. There’s no 2-of-3 multisig. Currently, there’s 95 nodes spread globally that control the net - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZSnBXYjUwOW5BczBlZkZGWWtpRGVwN3NQaEhMb1BxNHR0VDJvc2I5REpqQU04QkFUYXI1WnJLd1JzdUlzSUxmbnNyTTdJcWIyempaT3NXLXdmNHFjMG5Z?oc=5\" target=\"_blank\">THORChain was modelled after Bitcoin, …",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZSnBXYjUwOW5BczBlZkZGWWtpRGVwN3NQaEhMb1BxNHR0VDJvc2I5REpqQU04QkFUYXI1WnJLd1JzdUlzSUxmbnNyTTdJcWIyempaT3NXLXdmNHFjMG5Z?oc=5",
+      "publishedAt": "2026-04-21T20:00:54.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260421-thorchain-was-modelled-after-bitcoin-to-be-permissionless-and-censorship-resista",
+      "localUrl": "/news/20260421-thorchain-was-modelled-after-bitcoin-to-be-permissionless-and-censorship-resista.html"
+    },
+    {
+      "source": "X Wire",
       "title": "LATEST: Crypto's massive exploit may force big banks to rethink their blockchain plans, Jefferies warns. @HeleneBraunn reports - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wQ3ZnR0lMZFlRZnFTOExPOUVyRjRGRWRYWEY3WWdlVUZVdGFSVVBIMHVGWU5tVDYtZFh2WV9XRFFjNVlLSUgwNGQ4dHF5T1hKRlRSVExaUmZ5bnEtblE?oc=5\" target=\"_blank\">LATEST: Crypto's massive exploit may fo…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wQ3ZnR0lMZFlRZnFTOExPOUVyRjRGRWRYWEY3WWdlVUZVdGFSVVBIMHVGWU5tVDYtZFh2WV9XRFFjNVlLSUgwNGQ4dHF5T1hKRlRSVExaUmZ5bnEtblE?oc=5",
@@ -783,6 +1055,28 @@
     },
     {
       "source": "X Wire",
+      "title": "JUST IN: Bitcoin whales had their \"largest weekly accumulation\" since July 2025 last week, Bloomberg reports 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kazlZdTNxeXhUQWJQT1NWNjgyTFQ2NGJEcGpucmhrMGs3Z1loT1NmUUYtUG9uSDRJTFRLck5WYVRSN3hKeURlLWk1dk5MNDFUR1ZKem0xQmxjNEpxV2Z6SHJ2X0lsQkE?oc=5\" target=\"_blank\">JUST IN: Bitcoin whales had…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kazlZdTNxeXhUQWJQT1NWNjgyTFQ2NGJEcGpucmhrMGs3Z1loT1NmUUYtUG9uSDRJTFRLck5WYVRSN3hKeURlLWk1dk5MNDFUR1ZKem0xQmxjNEpxV2Z6SHJ2X0lsQkE?oc=5",
+      "publishedAt": "2026-04-21T14:02:50.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260421-just-in-bitcoin-whales-had-their-largest-weekly-accumulation-since-july-2025-las",
+      "localUrl": "/news/20260421-just-in-bitcoin-whales-had-their-largest-weekly-accumulation-since-july-2025-las.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "$BTC - BITCOIN WHALES ACCUMULATE AT FASTEST PACE IN A YEAR Bitcoin “whales” added about 45,000 BTC last week, the largest weekly accumulation since July 2025, according to Cex. IO. Whales—wallets holding 100 to 10,000 BTC—bought in sy - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zeGw0a241czlpN2hhbmE3YWRqZFhzT2gyV2dnSm9Cblpldk1Td3lTVXZQVHVWS2xaajVuVGdsNU96dGgwUXZsTHYyMmRzSV9EOFJ2NHRUQ1pUend4Tmc?oc=5\" target=\"_blank\">$BTC - BITCOIN WHALES ACCUMULATE AT FAS…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zeGw0a241czlpN2hhbmE3YWRqZFhzT2gyV2dnSm9Cblpldk1Td3lTVXZQVHVWS2xaajVuVGdsNU96dGgwUXZsTHYyMmRzSV9EOFJ2NHRUQ1pUend4Tmc?oc=5",
+      "publishedAt": "2026-04-21T13:57:41.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260421-btc-bitcoin-whales-accumulate-at-fastest-pace-in-a-year-bitcoin-whales-added-abo",
+      "localUrl": "/news/20260421-btc-bitcoin-whales-accumulate-at-fastest-pace-in-a-year-bitcoin-whales-added-abo.html"
+    },
+    {
+      "source": "X Wire",
       "title": "JUST IN: Morgan Stanley's spot Bitcoin ETF now holds over $139 million worth of BTC after only 9 days of trading — Arkham 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iSDI3TnZSWDdJbFU5dG5tSnZMQVVfN0k2TlhkT3VSV3lKbUdyRTNlbDktNl9acHM2OXJKTElVdm01VUlVXzh4WEpZNHdBMnJBanBLY1phRnFzcTlyZVJ0ZTR5cWNkUWM?oc=5\" target=\"_blank\">JUST IN: Morgan Stanley's s…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iSDI3TnZSWDdJbFU5dG5tSnZMQVVfN0k2TlhkT3VSV3lKbUdyRTNlbDktNl9acHM2OXJKTElVdm01VUlVXzh4WEpZNHdBMnJBanBLY1phRnFzcTlyZVJ0ZTR5cWNkUWM?oc=5",
@@ -802,17 +1096,6 @@
       "category": "X热点",
       "slug": "20260420-cc_crowley-ccatalini-ahall_research-liz_harkavy-nlevine19-and-psnevilleai-agents",
       "localUrl": "/news/20260420-cc_crowley-ccatalini-ahall_research-liz_harkavy-nlevine19-and-psnevilleai-agents.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Strategy has acquired 34,164 BTC for ~$2.54 billion at ~$74,395 per bitcoin and has achieved BTC Yield of 9.5% YTD 2026. As of 4/19/2026, we hodl 815,061 $BTC acquired for ~$61.56 billion at ~$75,527 per bitcoin. $MSTR $STRC - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NT2FpakNWZG9Qd0taMXhoTG1Dc2t1M2h4WVVvSmFEZGM3NTBpWHdCWlZJRXJfS09nazVpanZSQnlYcVRvNUxyS2I1OVgtM3duclZfREVMQXdzYk0?oc=5\" target=\"_blank\">Strategy has acquired 34,164 BTC for ~$2.54…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NT2FpakNWZG9Qd0taMXhoTG1Dc2t1M2h4WVVvSmFEZGM3NTBpWHdCWlZJRXJfS09nazVpanZSQnlYcVRvNUxyS2I1OVgtM3duclZfREVMQXdzYk0?oc=5",
-      "publishedAt": "2026-04-20T12:02:24.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260420-strategy-has-acquired-34164-btc-for-254-billion-at-74395-per-bitcoin-and-has-ach",
-      "localUrl": "/news/20260420-strategy-has-acquired-34164-btc-for-254-billion-at-74395-per-bitcoin-and-has-ach.html"
     }
   ]
 }
