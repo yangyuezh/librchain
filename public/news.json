@@ -1,7 +1,162 @@
 {
-  "updatedAt": "2026-04-23T18:15:13.772Z",
-  "total": 82,
+  "updatedAt": "2026-04-23T20:11:14.890Z",
+  "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Circle Economist Proposes 50% Rate Ceiling to Snap Aave's USDC Liquidity Crisis",
+      "summary": "Some users pushed back via Aave’s governance forum, fearing the changes would fuel liquidations on the lending protocol.",
+      "url": "https://decrypt.co/365353/circle-economist-50-rate-ceiling-snap-aave-usdc-liquidity-crisis",
+      "publishedAt": "2026-04-23T19:58:13.000Z",
+      "keywords": [
+        "DeFi"
+      ],
+      "category": "基础设施",
+      "slug": "20260423-circle-economist-proposes-50-rate-ceiling-to-snap-aaves-usdc-liquidity-crisis",
+      "localUrl": "/news/20260423-circle-economist-proposes-50-rate-ceiling-to-snap-aaves-usdc-liquidity-crisis.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tether freezes $344M USDt stablecoins at US law enforcement request",
+      "summary": "The stablecoin issuer cited \"activity tied to unlawful conduct” but no further explanation for the freezing of the dollar-pegged tokens held in two wallet addresses.",
+      "url": "https://cointelegraph.com/news/tether-freezes-344m-usdt-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-23T19:26:55.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260423-tether-freezes-344m-usdt-stablecoins-at-us-law-enforcement-request",
+      "localUrl": "/news/20260423-tether-freezes-344m-usdt-stablecoins-at-us-law-enforcement-request.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin enters disbelief phase as USDC exchange reserves push above $7.5B",
+      "summary": "A negative Bitcoin funding rate and $7.5 billion in USDC reserves suggest traders may start positioning against the bearish trend. Will BTC price keep rising?",
+      "url": "https://cointelegraph.com/markets/bitcoin-enters-disbelief-phase-as-usdc-exchange-reserves-push-above-dollar7-5b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-23T19:26:46.000Z",
+      "keywords": [
+        "Market Analysis"
+      ],
+      "category": "市场",
+      "slug": "20260423-bitcoin-enters-disbelief-phase-as-usdc-exchange-reserves-push-above-75b",
+      "localUrl": "/news/20260423-bitcoin-enters-disbelief-phase-as-usdc-exchange-reserves-push-above-75b.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Releases GPT-5.5: Faster, Smarter—And Pricier",
+      "summary": "OpenAI's newest model matches GPT-5.4's speed while outperforming it on nearly every benchmark. It's rolling out to paid ChatGPT users today.",
+      "url": "https://decrypt.co/365333/openai-gpt-5-5-release-agentic-coding-benchmarks",
+      "publishedAt": "2026-04-23T19:25:16.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260423-openai-releases-gpt-55-faster-smarterand-pricier",
+      "localUrl": "/news/20260423-openai-releases-gpt-55-faster-smarterand-pricier.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "US Treasury Sanctions Powerful Cambodian Politician Allegedly Tied to Crypto Scam Network",
+      "summary": "Kok An, a Cambodian senator, is accused of running a massive crypto crime operation through his many resorts and casinos.",
+      "url": "https://decrypt.co/365331/us-treasury-sanctions-powerful-cambodian-politician-crypto-scam-network",
+      "publishedAt": "2026-04-23T19:08:41.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260423-us-treasury-sanctions-powerful-cambodian-politician-allegedly-tied-to-crypto-sca",
+      "localUrl": "/news/20260423-us-treasury-sanctions-powerful-cambodian-politician-allegedly-tied-to-crypto-sca.html"
+    },
+    {
+      "source": "Chainalysis Blog",
+      "title": "Inside the KelpDAO Bridge Exploit: How ~$292 Million in rsETH Was Released Against a Non-Existent Burn",
+      "summary": "TL;DR On April 18, 2026, attackers linked to North Korea’s Lazarus Group stole ~$292 million (116,500 rsETH) from KelpDAO’s LayerZero… The post Inside the KelpDAO Bridge Exploit: How ~$292 Million in rsETH Was Released Against a Non-Existe…",
+      "url": "https://www.chainalysis.com/blog/kelpdao-bridge-exploit-april-2026/",
+      "publishedAt": "2026-04-23T19:00:11.000Z",
+      "keywords": [
+        "Crime",
+        "Bridge Exploit",
+        "Crypto crime",
+        "hack",
+        "KelpDAO",
+        "Lazarus Group",
+        "North Korea",
+        "rsETH",
+        "Stolen funds"
+      ],
+      "category": "安全",
+      "slug": "20260423-inside-the-kelpdao-bridge-exploit-how-292-million-in-rseth-was-released-against-",
+      "localUrl": "/news/20260423-inside-the-kelpdao-bridge-exploit-how-292-million-in-rseth-was-released-against-.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "MoonPay launches fiat-to-stablecoin virtual accounts in New York",
+      "summary": "MoonPay has expanded its virtual accounts product to New York, allowing businesses to convert fiat into stablecoins and settle funds without prefunding across jurisdictions.",
+      "url": "https://cointelegraph.com/news/moonpay-launches-fiat-to-stablecoin-virtual-accounts-in-new-york?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-23T18:58:57.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260423-moonpay-launches-fiat-to-stablecoin-virtual-accounts-in-new-york",
+      "localUrl": "/news/20260423-moonpay-launches-fiat-to-stablecoin-virtual-accounts-in-new-york.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Inside the $71 million freeze on Arbitrum that has the crypto world questioning what decentralization really means",
+      "summary": "The emergency response prevented stolen funds from moving, but sparked debate over governance, control and the limits of decentralization on Layer 2s.",
+      "url": "https://www.coindesk.com/tech/2026/04/22/inside-the-usd71-million-freeze-on-arbitrum-that-has-the-crypto-world-questioning-what-decentralization-really-means",
+      "publishedAt": "2026-04-23T18:35:32.000Z",
+      "keywords": [
+        "Tech",
+        "Ethereum News",
+        "Hack",
+        "Top Stories",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260423-inside-the-71-million-freeze-on-arbitrum-that-has-the-crypto-world-questioning-w",
+      "localUrl": "/news/20260423-inside-the-71-million-freeze-on-arbitrum-that-has-the-crypto-world-questioning-w.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Says Its New ChatGPT for Doctors Outperforms Humans in Clinical Tasks",
+      "summary": "ChatGPT for Clinicians is designed to save doctors time, and OpenAI says it scored higher than human physicians—on the AI giant's own test.",
+      "url": "https://decrypt.co/365328/openai-says-chatgpt-doctors-outperforms-humans-clinical-tasks",
+      "publishedAt": "2026-04-23T18:30:11.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260423-openai-says-its-new-chatgpt-for-doctors-outperforms-humans-in-clinical-tasks",
+      "localUrl": "/news/20260423-openai-says-its-new-chatgpt-for-doctors-outperforms-humans-in-clinical-tasks.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tencent's New Hy3 AI Model Is the Most Efficient Chinese LLM No One's Talking About",
+      "summary": "Tencent just open-sourced Hy3 preview, a new model that punches above its weight on coding agents, reasoning, and search—built in under three months.",
+      "url": "https://decrypt.co/365297/tencent-hy3-preview-open-source-moe-model",
+      "publishedAt": "2026-04-23T18:18:08.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260423-tencents-new-hy3-ai-model-is-the-most-efficient-chinese-llm-no-ones-talking-abou",
+      "localUrl": "/news/20260423-tencents-new-hy3-ai-model-is-the-most-efficient-chinese-llm-no-ones-talking-abou.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto advocacy groups call action on market structure bill ‘critical‘",
+      "summary": "More than 120 entities associated with the crypto and blockchain industry signed onto a letter urging US Senators to move forward with a crypto market structure bill.",
+      "url": "https://cointelegraph.com/news/crypto-groups-market-structure-markup-critical?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-23T17:58:46.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260423-crypto-advocacy-groups-call-action-on-market-structure-bill-critical",
+      "localUrl": "/news/20260423-crypto-advocacy-groups-call-action-on-market-structure-bill-critical.html"
+    },
     {
       "source": "Decrypt",
       "title": "Fold Launches 'Bitcoin Bonus' Program for Employers Following Steak 'n Shake Debut",
@@ -14,6 +169,30 @@
       "category": "市场",
       "slug": "20260423-fold-launches-bitcoin-bonus-program-for-employers-following-steak-n-shake-debut",
       "localUrl": "/news/20260423-fold-launches-bitcoin-bonus-program-for-employers-following-steak-n-shake-debut.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Figure shares sink 9% as $1B lending milestone meets market volatility",
+      "summary": "FIGR stock retreated after a brief rally as shifting sentiment hits crypto-linked equities, even as analysts point to strong growth in the fintech's blockchain-based lending.",
+      "url": "https://cointelegraph.com/news/figure-shares-sink-9-as-1b-lending-milestone-meets-market-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-23T17:45:02.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260423-figure-shares-sink-9-as-1b-lending-milestone-meets-market-volatility",
+      "localUrl": "/news/20260423-figure-shares-sink-9-as-1b-lending-milestone-meets-market-volatility.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Ben Cowen: The Exact Date Bitcoin May Bottom in 2026 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zV1N0bVVvX2xtY0lWMmE5M1d1SmNYQVJtWXNIX3RMcUU3ZWotWnFNUlE4UzZaOEdISzBJcHJ4ODJWWFU4d3BvUG82NWN1ZHJpWFVHejdoZ2Zzbnhzd0Zyc1NmSQ?oc=5\" target=\"_blank\">Ben Cowen: The Exact Date Bitcoi…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zV1N0bVVvX2xtY0lWMmE5M1d1SmNYQVJtWXNIX3RMcUU3ZWotWnFNUlE4UzZaOEdISzBJcHJ4ODJWWFU4d3BvUG82NWN1ZHJpWFVHejdoZ2Zzbnhzd0Zyc1NmSQ?oc=5",
+      "publishedAt": "2026-04-23T17:36:03.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260423-ben-cowen-the-exact-date-bitcoin-may-bottom-in-2026-xcom",
+      "localUrl": "/news/20260423-ben-cowen-the-exact-date-bitcoin-may-bottom-in-2026-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -226,6 +405,17 @@
       "category": "DeFi",
       "slug": "20260423-bis-warns-cryptocurrency-exchanges-are-becoming-shadow-banks-and-why-thats-a-ris",
       "localUrl": "/news/20260423-bis-warns-cryptocurrency-exchanges-are-becoming-shadow-banks-and-why-thats-a-ris.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Lido Responds to Kelp rsETH Hack: EarnETH Paused, DAO Activates 3M First-Loss Protection Lido Finance provided an update on Lido Earn vaults following the Kelp incident, noting that the Lido staking protocol, stETH, and wstETH remain unaffected. Key u - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0YjQtbmVmOU5SNnRTWUIzb3ZNVzM5RS1DQWViMkoyUXVQQXEwaWxFRExxMGdOa0hXREtwV081ejFTS2N2Q2dlbFBjSVBzWkZreVZUcUlRTjA2Rm0tSjJXMHZyWQ?oc=5\" target=\"_blank\">Lido Responds to Kelp rsETH Hack…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0YjQtbmVmOU5SNnRTWUIzb3ZNVzM5RS1DQWViMkoyUXVQQXEwaWxFRExxMGdOa0hXREtwV081ejFTS2N2Q2dlbFBjSVBzWkZreVZUcUlRTjA2Rm0tSjJXMHZyWQ?oc=5",
+      "publishedAt": "2026-04-23T14:33:35.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260423-lido-responds-to-kelp-rseth-hack-earneth-paused-dao-activates-3m-first-loss-prot",
+      "localUrl": "/news/20260423-lido-responds-to-kelp-rseth-hack-earneth-paused-dao-activates-3m-first-loss-prot.html"
     },
     {
       "source": "Cointelegraph",
@@ -687,19 +877,6 @@
       "localUrl": "/news/20260423-apple-fixes-bug-that-allowed-fbi-to-read-deleted-signal-messages.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Blockchain Capital is raising $700M for 2 new funds: Report",
-      "summary": "The new funding rounds are expected to be completed in the next six months, but the firm has already begun deploying some of the new capital, according to a person familiar with the matter.",
-      "url": "https://cointelegraph.com/news/blockchain-capital-raises-700-million-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-23T06:54:02.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260423-blockchain-capital-is-raising-700m-for-2-new-funds-report",
-      "localUrl": "/news/20260423-blockchain-capital-is-raising-700m-for-2-new-funds-report.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin's bull score index just left bear territory. There's a warning attached.",
       "summary": "The index has returned to neutral territory, a rare milestone that has historically marked market turning points, but not always correctly.",
@@ -728,95 +905,6 @@
       "category": "X热点",
       "slug": "20260423-ftx-sold-its-cursor-stake-for-200000-in-2023-it-would-be-worth-3-billion-today",
       "localUrl": "/news/20260423-ftx-sold-its-cursor-stake-for-200000-in-2023-it-would-be-worth-3-billion-today.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ether taker volume rises by 72% as traders target ETH liquidity gap at $2.6K",
-      "summary": "ETH derivatives show strong buyer dominance, leading traders to target $2,500 to $2,600 as the next crucial rally.",
-      "url": "https://cointelegraph.com/markets/ether-taker-volume-rises-by-72percent-as-traders-target-eth-liquidity-gap-at-dollar2-6k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-23T05:47:21.000Z",
-      "keywords": [
-        "Market Analysis"
-      ],
-      "category": "DeFi",
-      "slug": "20260423-ether-taker-volume-rises-by-72-as-traders-target-eth-liquidity-gap-at-26k",
-      "localUrl": "/news/20260423-ether-taker-volume-rises-by-72-as-traders-target-eth-liquidity-gap-at-26k.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Market maker GSR launches first ETF tracking Bitcoin, Ether and Solana",
-      "summary": "The GSR Crypto Core3 ETF is GSR's first crypto exchange-traded product, giving investors access to the top three largest cryptocurrencies by market capitalization.",
-      "url": "https://cointelegraph.com/news/crypto-market-maker-gsr-launched-multi-asset-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-23T05:46:54.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260423-market-maker-gsr-launches-first-etf-tracking-bitcoin-ether-and-solana",
-      "localUrl": "/news/20260423-market-maker-gsr-launches-first-etf-tracking-bitcoin-ether-and-solana.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Phishing, deepfakes, supply chain attacks to fuel 2026's biggest crypto hacks: CertiK",
-      "summary": "CertiK has urged crypto users not to overlook basic security practices as major crypto hacks spiked in April.",
-      "url": "https://cointelegraph.com/news/phishing-deepfakes-supply-chain-attacks-to-fuel-2026-s-biggest-crypto-hacks-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-23T05:11:58.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260423-phishing-deepfakes-supply-chain-attacks-to-fuel-2026s-biggest-crypto-hacks-certi",
-      "localUrl": "/news/20260423-phishing-deepfakes-supply-chain-attacks-to-fuel-2026s-biggest-crypto-hacks-certi.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cardano builder seeks smaller funding slice of $46.8 million for scaling and Bitcoin DeFi",
-      "summary": "The engineering organization behind Cardano submitted nine proposals totaling $46.8 million for the 2026 voting cycle, down from $97.5 million last year.",
-      "url": "https://www.coindesk.com/tech/2026/04/23/input-output-seeks-usd46-8-million-to-bring-bitcoin-defi-scaling-upgrade-to-cardano",
-      "publishedAt": "2026-04-23T05:08:13.000Z",
-      "keywords": [
-        "Tech",
-        "Cardano",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260423-cardano-builder-seeks-smaller-funding-slice-of-468-million-for-scaling-and-bitco",
-      "localUrl": "/news/20260423-cardano-builder-seeks-smaller-funding-slice-of-468-million-for-scaling-and-bitco.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Most aren't ready. #bitcoin - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE40RWJDejhLaWYya3JvQUk1ekFTSXJxbnBoTlNJOWZxS2NHeEVXcy1wMlZhdWdHZzdLYmZRdDhkNXBfTFpQV3BRNVg4QVRZbXN0ZnJZcnZaQXJLUFpJc1RVUDRXYw?oc=5\" target=\"_blank\">Most aren't ready. #bitcoin</a> …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40RWJDejhLaWYya3JvQUk1ekFTSXJxbnBoTlNJOWZxS2NHeEVXcy1wMlZhdWdHZzdLYmZRdDhkNXBfTFpQV3BRNVg4QVRZbXN0ZnJZcnZaQXJLUFpJc1RVUDRXYw?oc=5",
-      "publishedAt": "2026-04-23T05:06:09.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260423-most-arent-ready-bitcoin-xcom",
-      "localUrl": "/news/20260423-most-arent-ready-bitcoin-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin tends to be closer to a bottom when it looks least attractive - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxUWhvZjd0cE12cVd1Z1VlN3FmcDY3clpzbW1hSXR0MjZiaFhuVVNLOWJZZUllaTRPN3BRZXBFYl9pSTVkdFR4a05mQmwxOGFaT3hJdjBHdDdZMjNucFdDd0V3?oc=5\" target=\"_blank\">Bitcoin tends to be closer to a bo…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxUWhvZjd0cE12cVd1Z1VlN3FmcDY3clpzbW1hSXR0MjZiaFhuVVNLOWJZZUllaTRPN3BRZXBFYl9pSTVkdFR4a05mQmwxOGFaT3hJdjBHdDdZMjNucFdDd0V3?oc=5",
-      "publishedAt": "2026-04-23T04:24:06.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260423-bitcoin-tends-to-be-closer-to-a-bottom-when-it-looks-least-attractive-xcom",
-      "localUrl": "/news/20260423-bitcoin-tends-to-be-closer-to-a-bottom-when-it-looks-least-attractive-xcom.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Kalshi bans 3 US politicians for betting on their own election races",
-      "summary": "Matt Klein, a sitting member of the Minnesota State Senate, said he made a bet out of curiosity, while Mark Moran claimed he wanted to see how Kalshi responded to insider trading activity.",
-      "url": "https://cointelegraph.com/news/kalshi-bans-us-candidates-election-betting-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-23T03:38:19.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260423-kalshi-bans-3-us-politicians-for-betting-on-their-own-election-races",
-      "localUrl": "/news/20260423-kalshi-bans-3-us-politicians-for-betting-on-their-own-election-races.html"
     },
     {
       "source": "X Wire",
@@ -891,71 +979,6 @@
       "localUrl": "/news/20260422-kalshi-fines-meme-coin-candidate-mark-moran-others-for-betting-on-their-own-elec.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Xiaomi's New MiMo 2.5 Pro AI Can See, Hear, and Act—All in One Model",
-      "summary": "Five weeks after MiMo-V2-Pro stunned the AI world, Xiaomi is back with a model that adds eyes and ears—at half the price.",
-      "url": "https://decrypt.co/365184/xiaomi-mimo-2-5-pro-ai-see-hear-act-one-model",
-      "publishedAt": "2026-04-22T20:42:35.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "市场",
-      "slug": "20260422-xiaomis-new-mimo-25-pro-ai-can-see-hear-and-actall-in-one-model",
-      "localUrl": "/news/20260422-xiaomis-new-mimo-25-pro-ai-can-see-hear-and-actall-in-one-model.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "AngelList's USVC Gives Investors Exposure to OpenAI, Anthropic and xAI—Starting at $500",
-      "summary": "AngelList's new USVC fund allows non-accredited retail investors to gain exposure to major private firms like Anthropic and OpenAI.",
-      "url": "https://decrypt.co/365157/angellist-usvc-investors-exposure-openai-anthropic-xai-starting-500",
-      "publishedAt": "2026-04-22T20:33:09.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260422-angellists-usvc-gives-investors-exposure-to-openai-anthropic-and-xaistarting-at-",
-      "localUrl": "/news/20260422-angellists-usvc-gives-investors-exposure-to-openai-anthropic-and-xaistarting-at-.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "New York, Illinois Ban Government Employees From Insider Trading on Prediction Markets",
-      "summary": "The states banned government employees from trading on insider information—a growing concern as prediction markets related to politics surge in popularity.",
-      "url": "https://decrypt.co/365158/new-york-illinois-ban-employees-insider-trading-prediction-markets",
-      "publishedAt": "2026-04-22T20:06:26.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260422-new-york-illinois-ban-government-employees-from-insider-trading-on-prediction-ma",
-      "localUrl": "/news/20260422-new-york-illinois-ban-government-employees-from-insider-trading-on-prediction-ma.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Pope’s Anti-AI Warnings May Be AI-Written, Detection Tool Claims",
-      "summary": "AI Detector Developer Pangram Labs’ browser extension tagged several posts from the Pope’s X account.",
-      "url": "https://decrypt.co/365151/pope-anti-ai-warnings-ai-written-detection-tool",
-      "publishedAt": "2026-04-22T19:33:36.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260422-popes-anti-ai-warnings-may-be-ai-written-detection-tool-claims",
-      "localUrl": "/news/20260422-popes-anti-ai-warnings-may-be-ai-written-detection-tool-claims.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Google Will Spend Up to $185 Billion This Year to Power AI 'Agentic Era': CEO",
-      "summary": "Google will invest up to $185 billion this year to build the infrastructure behind autonomous AI agents, CEO Sundar Pichai said Wednesday.",
-      "url": "https://decrypt.co/365153/google-spend-185-billion-this-year-power-agentic-era-ai-ceo",
-      "publishedAt": "2026-04-22T19:19:50.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260422-google-will-spend-up-to-185-billion-this-year-to-power-ai-agentic-era-ceo",
-      "localUrl": "/news/20260422-google-will-spend-up-to-185-billion-this-year-to-power-ai-agentic-era-ceo.html"
-    },
-    {
       "source": "X Wire",
       "title": "All you need to own is Bitcoin and Ethereum, and you own 97% of the volatility of all the other poo-poo coins. So what's happened to the poo-poos is they collapsed last October, and all of them, thousands of them, never came back. So I dumped all my coins, a - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LNDZUeVpfcE5FZDFHSElvYmZreXZuSW1zNDJubUY0ZGZObTlQS2s1cnl1bE9xY3NfQmJFRWZ5Y1NUa2o5dHNHd0ZuRDFpZW5mbGdoRVJRV2hUSElHZjB4LUR0LV8?oc=5\" target=\"_blank\">All you need to own is Bitcoin …",
@@ -990,14 +1013,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Today we’re launching BESO, the GSR Crypto Core3 ETF. $BESO is live on Nasdaq as the premiere U.S. ETF offering exposure to Bitcoin, Ethereum, and Solana with staking yields and a dynamic allocation strategy. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZWk1pa0pESGtKc1JidGxwbDFiVG4tWTVfU0ZBdElNZ1UyYUNTOVVlSUFnd2R1R0lXTUVQVndaVGd6ZFBJNkVkV2xrZ01QaUNmTU95OFdWcHdvYlE?oc=5\" target=\"_blank\">Today we’re launching BESO, the GSR Crypto …",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZWk1pa0pESGtKc1JidGxwbDFiVG4tWTVfU0ZBdElNZ1UyYUNTOVVlSUFnd2R1R0lXTUVQVndaVGd6ZFBJNkVkV2xrZ01QaUNmTU95OFdWcHdvYlE?oc=5",
-      "publishedAt": "2026-04-22T13:20:32.000Z",
+      "title": "A client texted me this morning. \"Bitcoin's at $79K, I want you to know, I'm glad we sold when it was at $65K.\" No not a typo. He's genuinely glad he sold at $65K. Because he… - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yRWM4cWx2M3JSb0x5WU9JY0NrcGFWemVqMzYwaDdFVHBmaGp4cXAtM3ZEX0xINlcwNVQyYTdQbU5EMUtPTmR0V1JCcW9QWi1ldVVuVHVZZW1xd25xX1VrZnVoRQ?oc=5\" target=\"_blank\">A client texted me this morning.…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yRWM4cWx2M3JSb0x5WU9JY0NrcGFWemVqMzYwaDdFVHBmaGp4cXAtM3ZEX0xINlcwNVQyYTdQbU5EMUtPTmR0V1JCcW9QWi1ldVVuVHVZZW1xd25xX1VrZnVoRQ?oc=5",
+      "publishedAt": "2026-04-22T15:13:06.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260422-today-were-launching-beso-the-gsr-crypto-core3-etf-beso-is-live-on-nasdaq-as-the",
-      "localUrl": "/news/20260422-today-were-launching-beso-the-gsr-crypto-core3-etf-beso-is-live-on-nasdaq-as-the.html"
+      "slug": "20260422-a-client-texted-me-this-morning-bitcoins-at-79k-i-want-you-to-know-im-glad-we-so",
+      "localUrl": "/news/20260422-a-client-texted-me-this-morning-bitcoins-at-79k-i-want-you-to-know-im-glad-we-so.html"
     },
     {
       "source": "X Wire",
@@ -1034,6 +1057,17 @@
     },
     {
       "source": "X Wire",
+      "title": "THIS IS MASSIVE FOR CRYPTO 🇷🇺 Russia just \"PASSED\" the crypto regulation bill to allow businesses and companies to use crypto as payment for cross-border and foreign trade settlements, even under sanctions. $BTC and $ETH are expected to be the fir - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xQmRPUXBxNmR1OGVUdTR1cHpNUXAwNHltZEU4eEF4Ulo1d2dNbHZ2UG5VWHFsRW5TTkVYNVJYWFlhWkNSOXVPUVotUWRlN3RMSTZPZjNSNUlWdXI2dUlj?oc=5\" target=\"_blank\">THIS IS MASSIVE FOR CRYPTO 🇷🇺 Russia…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xQmRPUXBxNmR1OGVUdTR1cHpNUXAwNHltZEU4eEF4Ulo1d2dNbHZ2UG5VWHFsRW5TTkVYNVJYWFlhWkNSOXVPUVotUWRlN3RMSTZPZjNSNUlWdXI2dUlj?oc=5",
+      "publishedAt": "2026-04-22T07:38:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260422-this-is-massive-for-crypto-russia-just-passed-the-crypto-regulation-bill-to-allo",
+      "localUrl": "/news/20260422-this-is-massive-for-crypto-russia-just-passed-the-crypto-regulation-bill-to-allo.html"
+    },
+    {
+      "source": "X Wire",
       "title": "LATEST: Crypto's massive exploit may force big banks to rethink their blockchain plans, Jefferies warns. @HeleneBraunn reports - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wQ3ZnR0lMZFlRZnFTOExPOUVyRjRGRWRYWEY3WWdlVUZVdGFSVVBIMHVGWU5tVDYtZFh2WV9XRFFjNVlLSUgwNGQ4dHF5T1hKRlRSVExaUmZ5bnEtblE?oc=5\" target=\"_blank\">LATEST: Crypto's massive exploit may fo…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wQ3ZnR0lMZFlRZnFTOExPOUVyRjRGRWRYWEY3WWdlVUZVdGFSVVBIMHVGWU5tVDYtZFh2WV9XRFFjNVlLSUgwNGQ4dHF5T1hKRlRSVExaUmZ5bnEtblE?oc=5",
@@ -1042,17 +1076,6 @@
       "category": "X热点",
       "slug": "20260421-latest-cryptos-massive-exploit-may-force-big-banks-to-rethink-their-blockchain-p",
       "localUrl": "/news/20260421-latest-cryptos-massive-exploit-may-force-big-banks-to-rethink-their-blockchain-p.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Quantum computers can't break your crypto yet. We want to make sure it stays that way. We assembled a board of researchers from Stanford, UT Austin, and the Ethereum Foundation to figure this out years before it matters. Their first paper is out now ↓ - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5MWg1LUp0QnNLWExEaUVpV3FTV0lvVHMyRFhOMFhadW1UVW95Sl9lTjhHRWRGbFNlZE5zRzJqY0VlN0sydGxsX2gzcHc2a3ZxaHRBQlNHOUVkMHp3eGc?oc=5\" target=\"_blank\">Quantum computers can't break your cryp…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5MWg1LUp0QnNLWExEaUVpV3FTV0lvVHMyRFhOMFhadW1UVW95Sl9lTjhHRWRGbFNlZE5zRzJqY0VlN0sydGxsX2gzcHc2a3ZxaHRBQlNHOUVkMHp3eGc?oc=5",
-      "publishedAt": "2026-04-21T18:19:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260421-quantum-computers-cant-break-your-crypto-yet-we-want-to-make-sure-it-stays-that-",
-      "localUrl": "/news/20260421-quantum-computers-cant-break-your-crypto-yet-we-want-to-make-sure-it-stays-that-.html"
     },
     {
       "source": "X Wire",
