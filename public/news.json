@@ -1,7 +1,105 @@
 {
-  "updatedAt": "2026-04-24T17:11:06.216Z",
-  "total": 83,
+  "updatedAt": "2026-04-24T19:10:51.711Z",
+  "total": 84,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Anthropic Rolls Out Election Safeguards for Claude AI Ahead of US Midterms",
+      "summary": "Claude maker Anthropic reported that its latest AI models scored 95-96% on political neutrality tests ahead of the 2026 midterms.",
+      "url": "https://decrypt.co/365486/anthropic-election-safeguards-claude-ai-us-midterms",
+      "publishedAt": "2026-04-24T18:58:18.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260424-anthropic-rolls-out-election-safeguards-for-claude-ai-ahead-of-us-midterms",
+      "localUrl": "/news/20260424-anthropic-rolls-out-election-safeguards-for-claude-ai-ahead-of-us-midterms.html"
+    },
+    {
+      "source": "Chainalysis Blog",
+      "title": "EU’s 20th Russia Sanctions Package Signals a New Era of Crypto-Specific Enforcement",
+      "summary": "TL;DR The EU’s 20th Russia sanctions package introduces a total sectoral ban on Russia-based crypto service providers and decentralized platforms,… The post EU’s 20th Russia Sanctions Package Signals a New Era of Crypto-Specific Enforcemen…",
+      "url": "https://www.chainalysis.com/blog/eu-russia-sactions-package-april-2026/",
+      "publishedAt": "2026-04-24T18:37:17.000Z",
+      "keywords": [
+        "Crime",
+        "A7A5",
+        "cbdc",
+        "crypto assets",
+        "EU",
+        "Russia",
+        "Sanctions",
+        "VASP"
+      ],
+      "category": "监管",
+      "slug": "20260424-eus-20th-russia-sanctions-package-signals-a-new-era-of-crypto-specific-enforceme",
+      "localUrl": "/news/20260424-eus-20th-russia-sanctions-package-signals-a-new-era-of-crypto-specific-enforceme.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Justice Department Ends Probe of Fed Chair Powell, Clearing Path for Warsh Confirmation",
+      "summary": "The Justice Department closed the Jerome Powell probe, removing a barrier to Senate action on Kevin Warsh's Federal Reserve nomination.",
+      "url": "https://decrypt.co/365481/justice-department-ends-probe-fed-chair-powell-clearing-path-warsh",
+      "publishedAt": "2026-04-24T18:11:36.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260424-justice-department-ends-probe-of-fed-chair-powell-clearing-path-for-warsh-confir",
+      "localUrl": "/news/20260424-justice-department-ends-probe-of-fed-chair-powell-clearing-path-for-warsh-confir.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto PAC Fellowship halts support of Texas AG for Senate: Report",
+      "summary": "After reporting more than $1.7 million to election officials, a crypto-aligned political action committee has reportedly backed out of advertising for a Texas Senate candidate.",
+      "url": "https://cointelegraph.com/news/crypto-pac-fellowship-ads-texas-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-24T18:03:20.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260424-crypto-pac-fellowship-halts-support-of-texas-ag-for-senate-report",
+      "localUrl": "/news/20260424-crypto-pac-fellowship-halts-support-of-texas-ag-for-senate-report.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "DeepSeek V4 Is Here—Its Pro Version Costs 98% Less Than GPT 5.5 Pro",
+      "summary": "The Chinese lab that shook Wall Street just dropped its biggest, most efficient model yet, hours after OpenAI launched GPT-5.5.",
+      "url": "https://decrypt.co/365455/deepseek-v4-launch-pro-version-costs-less-gpt-5-pro",
+      "publishedAt": "2026-04-24T17:34:58.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260424-deepseek-v4-is-hereits-pro-version-costs-98-less-than-gpt-55-pro",
+      "localUrl": "/news/20260424-deepseek-v4-is-hereits-pro-version-costs-98-less-than-gpt-55-pro.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Amazon Web Services Marketplace Adds Chainlink Crypto Oracle Services",
+      "summary": "Amazon’s Chainlink integration lets enterprises connect cloud infrastructure with blockchain networks through familiar AWS tools.",
+      "url": "https://decrypt.co/365476/amazon-web-services-marketplace-chainlink-crypto-oracle-services",
+      "publishedAt": "2026-04-24T17:24:40.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "市场",
+      "slug": "20260424-amazon-web-services-marketplace-adds-chainlink-crypto-oracle-services",
+      "localUrl": "/news/20260424-amazon-web-services-marketplace-adds-chainlink-crypto-oracle-services.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto Biz: Same players, bigger bets as crypto eyes a rebound",
+      "summary": "Familiar players ramp up Bitcoin and Ether bets as markets hint at a rebound, while institutions test blockchain rails and US lawmakers stall on crypto rules this week.",
+      "url": "https://cointelegraph.com/news/crypto-biz-same-players-bigger-bets-as-crypto-eyes-a-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-24T17:06:39.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260424-crypto-biz-same-players-bigger-bets-as-crypto-eyes-a-rebound",
+      "localUrl": "/news/20260424-crypto-biz-same-players-bigger-bets-as-crypto-eyes-a-rebound.html"
+    },
     {
       "source": "Decrypt",
       "title": "US Soldier Was Blocked on Kalshi Before Taking Maduro Bets to Polymarket",
@@ -14,6 +112,30 @@
       "category": "监管",
       "slug": "20260424-us-soldier-was-blocked-on-kalshi-before-taking-maduro-bets-to-polymarket",
       "localUrl": "/news/20260424-us-soldier-was-blocked-on-kalshi-before-taking-maduro-bets-to-polymarket.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Sen. Bernie Sanders criticized the Trump family on Thursday over reported profits tied to cryptocurrency and other business deals, calling it “unprecedented kleptocracy.” Sanders pointed to a New Yorker report estimating that President Donald Trump and his f - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EZFV4TmlKVk90QVdFN0JOWm8xRWRGc0h6RDF3TmVZdkNIY3QzSm81VVJ2aTNEOXFMQ0FjM0dSUXJiY0ZqN2ZZdkpvU2Itbm1oR2RlMEpTNjVWRHp3WHc?oc=5\" target=\"_blank\">Sen. Bernie Sanders criticized the Trum…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EZFV4TmlKVk90QVdFN0JOWm8xRWRGc0h6RDF3TmVZdkNIY3QzSm81VVJ2aTNEOXFMQ0FjM0dSUXJiY0ZqN2ZZdkpvU2Itbm1oR2RlMEpTNjVWRHp3WHc?oc=5",
+      "publishedAt": "2026-04-24T17:01:16.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260424-sen-bernie-sanders-criticized-the-trump-family-on-thursday-over-reported-profits",
+      "localUrl": "/news/20260424-sen-bernie-sanders-criticized-the-trump-family-on-thursday-over-reported-profits.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin stays 'stalled' at $78K as oil threatens new risk-asset squeeze",
+      "summary": "Bitcoin and risk assets faced an uphill struggle after the S&P 500 hit new all-time highs as analysis warned that BTC price support was at risk.",
+      "url": "https://cointelegraph.com/markets/bitcoin-stays-stalled-at-78k-as-oil-threatens-new-risk-asset-squeeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-24T16:55:44.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260424-bitcoin-stays-stalled-at-78k-as-oil-threatens-new-risk-asset-squeeze",
+      "localUrl": "/news/20260424-bitcoin-stays-stalled-at-78k-as-oil-threatens-new-risk-asset-squeeze.html"
     },
     {
       "source": "CoinDesk",
@@ -81,6 +203,17 @@
       "category": "市场",
       "slug": "20260424-morgan-stanley-targets-blackrock-with-money-market-fund-for-stablecoin-issuers",
       "localUrl": "/news/20260424-morgan-stanley-targets-blackrock-with-money-market-fund-for-stablecoin-issuers.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "TRUMP ADMIN. FREEZES $344 MLN IN CRYPTO OVER LINKS TO IRAN - CNN - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE81anh1U3dTY2lwTGpEMjBTSUJ2dFl5UGZNdUZOaHdra2JTaDBtb3FSS1pGUkxEN094NjRZMEUzZnZ2ZE9XZWY2UEw4S1NjMlV5MjNsbElLZkhhbEpTYkE?oc=5\" target=\"_blank\">TRUMP ADMIN. FREEZES $344 MLN IN CRYPTO…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81anh1U3dTY2lwTGpEMjBTSUJ2dFl5UGZNdUZOaHdra2JTaDBtb3FSS1pGUkxEN094NjRZMEUzZnZ2ZE9XZWY2UEw4S1NjMlV5MjNsbElLZkhhbEpTYkE?oc=5",
+      "publishedAt": "2026-04-24T16:18:22.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260424-trump-admin-freezes-344-mln-in-crypto-over-links-to-iran-cnn-xcom",
+      "localUrl": "/news/20260424-trump-admin-freezes-344-mln-in-crypto-over-links-to-iran-cnn-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -296,6 +429,17 @@
       "category": "X热点",
       "slug": "20260424-new-south-africas-national-treasury-proposes-draft-regulations-requiring-crypto-",
       "localUrl": "/news/20260424-new-south-africas-national-treasury-proposes-draft-regulations-requiring-crypto-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇿🇦 NEW: South Africa’s Treasury proposed draft rules to place crypto under capital flow controls. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE11QXFtbGlYMkNMQ1BPWjNEcTR5aVBWS1pad1BLekM1azRtb3NhLTVCdjFuVzhYR1ZueVVTM1hzZzZRcWRxNE93dTJvSUh4b0FHQ1BVRzc2eFRsZlFWeVRWdFR5c08?oc=5\" target=\"_blank\">🇿🇦 NEW: South Africa’s Treasu…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11QXFtbGlYMkNMQ1BPWjNEcTR5aVBWS1pad1BLekM1azRtb3NhLTVCdjFuVzhYR1ZueVVTM1hzZzZRcWRxNE93dTJvSUh4b0FHQ1BVRzc2eFRsZlFWeVRWdFR5c08?oc=5",
+      "publishedAt": "2026-04-24T12:20:23.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260424-new-south-africas-treasury-proposed-draft-rules-to-place-crypto-under-capital-fl",
+      "localUrl": "/news/20260424-new-south-africas-treasury-proposed-draft-rules-to-place-crypto-under-capital-fl.html"
     },
     {
       "source": "Cointelegraph",
@@ -529,17 +673,6 @@
       "localUrl": "/news/20260424-bitcoin-holder-metaplanet-raises-50-million-to-buy-more-btc.html"
     },
     {
-      "source": "X Wire",
-      "title": "📊 UPDATE: Ethereum records $2.7M in 24h fees, ahead of Hyperliquid’s $1.7M. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1cU9KdGE3Z1lSeXpJaXdJVzVNVUVKMDFVbVN6S3UxdHdST19pMGR1M0VCblZJdzBmemhSWnBMMndVakd6WmlJNHNrdnM1TmdoNEVJdXR6SGRjUndJdEJGZS00ZnI?oc=5\" target=\"_blank\">📊 UPDATE: Ethereum records $2.…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1cU9KdGE3Z1lSeXpJaXdJVzVNVUVKMDFVbVN6S3UxdHdST19pMGR1M0VCblZJdzBmemhSWnBMMndVakd6WmlJNHNrdnM1TmdoNEVJdXR6SGRjUndJdEJGZS00ZnI?oc=5",
-      "publishedAt": "2026-04-24T08:00:38.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260424-update-ethereum-records-27m-in-24h-fees-ahead-of-hyperliquids-17m-xcom",
-      "localUrl": "/news/20260424-update-ethereum-records-27m-in-24h-fees-ahead-of-hyperliquids-17m-xcom.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "White House confirms Trump to address memecoin gala on Saturday",
       "summary": "US President Donald Trump will appear at an event for holders of the TRUMP memecoin after the White House previously said it wasn’t locked into his schedule.",
@@ -623,19 +756,6 @@
       "localUrl": "/news/20260424-us-vows-to-fight-industrial-scale-ai-theft-by-chinese-firms.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Jane Street asks US court to toss Terraform’s insider trading suit",
-      "summary": "Jane Street has filed to dismiss Terraform’s insider trading suit, arguing the reasons for Terra’s collapse have already been litigated.",
-      "url": "https://cointelegraph.com/news/jane-street-seeks-dismissal-of-terraforms-insider-trading-suit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-24T05:39:25.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260424-jane-street-asks-us-court-to-toss-terraforms-insider-trading-suit",
-      "localUrl": "/news/20260424-jane-street-asks-us-court-to-toss-terraforms-insider-trading-suit.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin rally is stalling as Japanese inflation adds to Iran war–driven market jitters",
       "summary": "Crypto markets weaken amid rising Japan inflation, Iran war oil disruptions, and expectations of a hawkish Bank of Japan.",
@@ -662,19 +782,6 @@
       "localUrl": "/news/20260424-unreal-reporter-are-you-concerned-about-insider-trading-on-prediction-markets-re.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Crypto protocols pledge 43K ETH to restore rsETH backing",
-      "summary": "Mantle, EtherFi Foundation, Golem Foundation, Lido DAO, Ethena, LayerZero, Ink Foundation and Tyrdo have all made pledges to the “DeFi United” recovery effort.",
-      "url": "https://cointelegraph.com/news/defi-protocols-pledge-43500-eth-kelp-exploit-rseth-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-24T04:49:19.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260424-crypto-protocols-pledge-43k-eth-to-restore-rseth-backing",
-      "localUrl": "/news/20260424-crypto-protocols-pledge-43k-eth-to-restore-rseth-backing.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Wisconsin joins prediction market fight, suing Kalshi, Coinbase, Polymarket, Robinhood and Crypto.com",
       "summary": "The state's complaint highlights language used by prediction market platforms as language for gambling, not investing.",
@@ -690,41 +797,6 @@
       "category": "监管",
       "slug": "20260424-wisconsin-joins-prediction-market-fight-suing-kalshi-coinbase-polymarket-robinho",
       "localUrl": "/news/20260424-wisconsin-joins-prediction-market-fight-suing-kalshi-coinbase-polymarket-robinho.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US soldier charged over $400K Polymarket bet on Maduro’s capture",
-      "summary": "US prosecutors alleged that Gannon Ken Van Dyke asked Polymarket to delete his account after profiting from trades tied to the military operation in Venezuela.",
-      "url": "https://cointelegraph.com/news/us-soldier-charged-for-400k-bet-over-maduro-s-presidency-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-24T02:42:41.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260424-us-soldier-charged-over-400k-polymarket-bet-on-maduros-capture",
-      "localUrl": "/news/20260424-us-soldier-charged-over-400k-polymarket-bet-on-maduros-capture.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The #KelpDAO hacker has now swapped all 75,701 $ETH ($175M) on Ethereum into $BTC through THORChain and other routes. 🚨 Mantle ( @Mantle_Official) has proposed providing 30,000 $ETH ($70M) to Aave as a loan. Lido( @LidoFinance) has also pro - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlWWdLTmg4OTBfdk9WM21zYmtoUTNMcEg5b3ltY2hXR2UzU04xa2tnbXY1elREeWNMTUdyVlIxWnVzekVLak9rTjNXWjBsTTJ4U0daNzNibm1xR0Z2QmdiUXh3?oc=5\" target=\"_blank\">The #KelpDAO hacker has now swappe…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlWWdLTmg4OTBfdk9WM21zYmtoUTNMcEg5b3ltY2hXR2UzU04xa2tnbXY1elREeWNMTUdyVlIxWnVzekVLak9rTjNXWjBsTTJ4U0daNzNibm1xR0Z2QmdiUXh3?oc=5",
-      "publishedAt": "2026-04-24T01:09:48.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260424-the-kelpdao-hacker-has-now-swapped-all-75701-eth-175m-on-ethereum-into-btc-throu",
-      "localUrl": "/news/20260424-the-kelpdao-hacker-has-now-swapped-all-75701-eth-175m-on-ethereum-into-btc-throu.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The blockchain is a billboard. Your wallet address is the headline. Your balance is the caption. Sarge doesn't think you signed up for this. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSemxEaGd5dndHVFFCU2RYQjAySzNZMVJFR2hURTE0di13cjJjWmhQYkZCQlpjbENnZFNJaVJTbHZNeUR3V1otdC00MDJJdG1RaVItT0FYSm5fc2tweElkX2pvMWpTQ3c?oc=5\" target=\"_blank\">The blockchain is a billboa…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSemxEaGd5dndHVFFCU2RYQjAySzNZMVJFR2hURTE0di13cjJjWmhQYkZCQlpjbENnZFNJaVJTbHZNeUR3V1otdC00MDJJdG1RaVItT0FYSm5fc2tweElkX2pvMWpTQ3c?oc=5",
-      "publishedAt": "2026-04-24T00:00:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260424-the-blockchain-is-a-billboard-your-wallet-address-is-the-headline-your-balance-i",
-      "localUrl": "/news/20260424-the-blockchain-is-a-billboard-your-wallet-address-is-the-headline-your-balance-i.html"
     },
     {
       "source": "Decrypt",
@@ -851,19 +923,6 @@
       "localUrl": "/news/20260423-openai-releases-gpt-55-faster-smarterand-pricier.html"
     },
     {
-      "source": "Decrypt",
-      "title": "US Treasury Sanctions Powerful Cambodian Politician Allegedly Tied to Crypto Scam Network",
-      "summary": "Kok An, a Cambodian senator, is accused of running a massive crypto crime operation through his many resorts and casinos.",
-      "url": "https://decrypt.co/365331/us-treasury-sanctions-powerful-cambodian-politician-crypto-scam-network",
-      "publishedAt": "2026-04-23T19:08:41.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260423-us-treasury-sanctions-powerful-cambodian-politician-allegedly-tied-to-crypto-sca",
-      "localUrl": "/news/20260423-us-treasury-sanctions-powerful-cambodian-politician-allegedly-tied-to-crypto-sca.html"
-    },
-    {
       "source": "Chainalysis Blog",
       "title": "Inside the KelpDAO Bridge Exploit: How ~$292 Million in rsETH Was Released Against a Non-Existent Burn",
       "summary": "TL;DR On April 18, 2026, attackers linked to North Korea’s Lazarus Group stole ~$292 million (116,500 rsETH) from KelpDAO’s LayerZero… The post Inside the KelpDAO Bridge Exploit: How ~$292 Million in rsETH Was Released Against a Non-Existe…",
@@ -902,19 +961,6 @@
       "localUrl": "/news/20260423-inside-the-71-million-freeze-on-arbitrum-that-has-the-crypto-world-questioning-w.html"
     },
     {
-      "source": "Decrypt",
-      "title": "OpenAI Says Its New ChatGPT for Doctors Outperforms Humans in Clinical Tasks",
-      "summary": "ChatGPT for Clinicians is designed to save doctors time, and OpenAI says it scored higher than human physicians—on the AI giant's own test.",
-      "url": "https://decrypt.co/365328/openai-says-chatgpt-doctors-outperforms-humans-clinical-tasks",
-      "publishedAt": "2026-04-23T18:30:11.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260423-openai-says-its-new-chatgpt-for-doctors-outperforms-humans-in-clinical-tasks",
-      "localUrl": "/news/20260423-openai-says-its-new-chatgpt-for-doctors-outperforms-humans-in-clinical-tasks.html"
-    },
-    {
       "source": "X Wire",
       "title": "Upwards moves can last longer than you generally expect. #Bitcoin collapsed from $100K+ to $60K in less than 2 months. Currently, there's a slow grind higher after a V-shaped recovery in the Nasdaq. I think this leg has enough room to continue to $86K, and - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0bWpreHlOY05od2ZpVWVuOUtuclFvMjk5amVQa0FUeHdDN3c0aElKY05NYk1uSlkyVTlaR3QwbVd3UGhVTUw0cU9FaUxlOTZlMXBRMXg3cE9IYnNTemNjYndPRQ?oc=5\" target=\"_blank\">Upwards moves can last longer th…",
@@ -924,32 +970,6 @@
       "category": "X热点",
       "slug": "20260423-upwards-moves-can-last-longer-than-you-generally-expect-bitcoin-collapsed-from-1",
       "localUrl": "/news/20260423-upwards-moves-can-last-longer-than-you-generally-expect-bitcoin-collapsed-from-1.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Tencent's New Hy3 AI Model Is the Most Efficient Chinese LLM No One's Talking About",
-      "summary": "Tencent just open-sourced Hy3 preview, a new model that punches above its weight on coding agents, reasoning, and search—built in under three months.",
-      "url": "https://decrypt.co/365297/tencent-hy3-preview-open-source-moe-model",
-      "publishedAt": "2026-04-23T18:18:08.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260423-tencents-new-hy3-ai-model-is-the-most-efficient-chinese-llm-no-ones-talking-abou",
-      "localUrl": "/news/20260423-tencents-new-hy3-ai-model-is-the-most-efficient-chinese-llm-no-ones-talking-abou.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Fold Launches 'Bitcoin Bonus' Program for Employers Following Steak 'n Shake Debut",
-      "summary": "Publicly traded Bitcoin services firm Fold is rolling out a program to let companies grant employees bonuses in crypto.",
-      "url": "https://decrypt.co/365295/fold-bitcoin-bonus-program-employers-steak-shake",
-      "publishedAt": "2026-04-23T17:51:54.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "市场",
-      "slug": "20260423-fold-launches-bitcoin-bonus-program-for-employers-following-steak-n-shake-debut",
-      "localUrl": "/news/20260423-fold-launches-bitcoin-bonus-program-for-employers-following-steak-n-shake-debut.html"
     },
     {
       "source": "CoinDesk",
@@ -987,6 +1007,17 @@
       "category": "X热点",
       "slug": "20260423-south-africa-proposes-insane-crypto-controls-possible-forced-sales-south-africa-",
       "localUrl": "/news/20260423-south-africa-proposes-insane-crypto-controls-possible-forced-sales-south-africa-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Base (@base) / Posts / X - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiNEFVX3lxTE1NWDZ0NjF4RHlGSkoyZ2hnXy1Bek5Na0hoUnprZlhBUkVNRlgwdEh6ekt1Znc?oc=5\" target=\"_blank\">Base (@base) / Posts / X</a> <font color=\"#6f6f6f\">x.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiNEFVX3lxTE1NWDZ0NjF4RHlGSkoyZ2hnXy1Bek5Na0hoUnprZlhBUkVNRlgwdEh6ekt1Znc?oc=5",
+      "publishedAt": "2026-04-23T15:18:38.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260423-base-base-posts-x-xcom",
+      "localUrl": "/news/20260423-base-base-posts-x-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -1049,17 +1080,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Pantera Urges LSE-listed Bitcoin Treasury Company Satsuma to Sell $50 Million in Bitcoin According to Bloomberg, sources revealed that crypto venture fund Pantera Capital is urging London-listed Satsuma Technology Plc to sell its remaining $50 million wo - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iT2RUUmJjREpuT25QeDB2ajNCNl9qQVBSdVJQeWdPYVFldEljc0JuVHdVSTR1UzRwOFAyOThxNFJQRVVDOU00LTFmWFNLeHFpUEhYUkxrVXdKUmF5WVdIVWRpbw?oc=5\" target=\"_blank\">Pantera Urges LSE-listed Bitcoin…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iT2RUUmJjREpuT25QeDB2ajNCNl9qQVBSdVJQeWdPYVFldEljc0JuVHdVSTR1UzRwOFAyOThxNFJQRVVDOU00LTFmWFNLeHFpUEhYUkxrVXdKUmF5WVdIVWRpbw?oc=5",
-      "publishedAt": "2026-04-23T09:58:54.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260423-pantera-urges-lse-listed-bitcoin-treasury-company-satsuma-to-sell-50-million-in-",
-      "localUrl": "/news/20260423-pantera-urges-lse-listed-bitcoin-treasury-company-satsuma-to-sell-50-million-in-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Who Satoshi is no longer matters for Bitcoin. That said, I agree this is the most thoughtful piece I’ve seen on the topic. It stands in contrast to prior self-indulgent exposés, approaching the topic with humility and kindness - qualities Satoshi and Bitcoin have earn - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE01czVmbmtQTWtfWW90VG5SLVRoUjRoN0lrUGpqOHV0d1VESDFyU01FXzVnRmZ5enptNmxGMWYzRDY2SDlUeEdsMlotbmppVUZqeDI3YXpVcnBRLVJ1?oc=5\" target=\"_blank\">Who Satoshi is no longer matters for Bitco…",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01czVmbmtQTWtfWW90VG5SLVRoUjRoN0lrUGpqOHV0d1VESDFyU01FXzVnRmZ5enptNmxGMWYzRDY2SDlUeEdsMlotbmppVUZqeDI3YXpVcnBRLVJ1?oc=5",
@@ -1079,6 +1099,17 @@
       "category": "X热点",
       "slug": "20260422-all-you-need-to-own-is-bitcoin-and-ethereum-and-you-own-97-of-the-volatility-of-",
       "localUrl": "/news/20260422-all-you-need-to-own-is-bitcoin-and-ethereum-and-you-own-97-of-the-volatility-of-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Russia advances bill allowing crypto for international trade. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zOFRVUDFZN1ZBQVlZWVBKaDFRLXUzai1NYi1pZ3NVQjB3MnBWM0JUc1pvUS10SWFfYzZ4M05Ycm91enVoWVJqUFpkUmhBVE95Yl9kdF9hRFc1STd4eFdBYg?oc=5\" target=\"_blank\">JUST IN: Russia advances bill allowi…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zOFRVUDFZN1ZBQVlZWVBKaDFRLXUzai1NYi1pZ3NVQjB3MnBWM0JUc1pvUS10SWFfYzZ4M05Ycm91enVoWVJqUFpkUmhBVE95Yl9kdF9hRFc1STd4eFdBYg?oc=5",
+      "publishedAt": "2026-04-22T15:47:28.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260422-just-in-russia-advances-bill-allowing-crypto-for-international-trade-xcom",
+      "localUrl": "/news/20260422-just-in-russia-advances-bill-allowing-crypto-for-international-trade-xcom.html"
     },
     {
       "source": "X Wire",
@@ -1112,17 +1143,6 @@
       "category": "基础设施",
       "slug": "20260422-noah-x-jupiter-x-solana-powering-sovereign-payroll",
       "localUrl": "/news/20260422-noah-x-jupiter-x-solana-powering-sovereign-payroll.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "NEW: Bitcoin pumps over $78,000! 🟢 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSWFZySThvdU85aWNwWWVFVVpKWWZnajhRaFZlS3VQYTQ5a1gwWFY1ZXAyaWIzVGZpS3hQYnlBY0hGbERHbjBseWl2S0VzTTVkbC1EXy11OHVuMUpMd3UwSzQ3T0dzS2c?oc=5\" target=\"_blank\">NEW: Bitcoin pumps over $78…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSWFZySThvdU85aWNwWWVFVVpKWWZnajhRaFZlS3VQYTQ5a1gwWFY1ZXAyaWIzVGZpS3hQYnlBY0hGbERHbjBseWl2S0VzTTVkbC1EXy11OHVuMUpMd3UwSzQ3T0dzS2c?oc=5",
-      "publishedAt": "2026-04-22T09:43:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260422-new-bitcoin-pumps-over-78000-xcom",
-      "localUrl": "/news/20260422-new-bitcoin-pumps-over-78000-xcom.html"
     }
   ]
 }
