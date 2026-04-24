@@ -1,7 +1,83 @@
 {
-  "updatedAt": "2026-04-24T19:10:51.711Z",
-  "total": 84,
+  "updatedAt": "2026-04-24T21:02:49.528Z",
+  "total": 85,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Tennessee Becomes Second State to Outlaw Bitcoin, Crypto ATMs",
+      "summary": "Tennessee has become the second U.S. state to outlaw Bitcoin and crypto ATMs, making it a criminal offense to own or operate the machines.",
+      "url": "https://decrypt.co/365502/tennessee-second-state-outlaw-bitcoin-crypto-atms",
+      "publishedAt": "2026-04-24T20:41:13.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260424-tennessee-becomes-second-state-to-outlaw-bitcoin-crypto-atms",
+      "localUrl": "/news/20260424-tennessee-becomes-second-state-to-outlaw-bitcoin-crypto-atms.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump DOJ Backs Elon Musk's xAI in Fight Over Colorado AI Bias Law",
+      "summary": "The Justice Department moved to intervene in xAI’s lawsuit challenging Colorado’s algorithmic discrimination law.",
+      "url": "https://decrypt.co/365504/trump-doj-backs-elon-musk-xai-colorado-ai-bias-law",
+      "publishedAt": "2026-04-24T20:30:05.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260424-trump-doj-backs-elon-musks-xai-in-fight-over-colorado-ai-bias-law",
+      "localUrl": "/news/20260424-trump-doj-backs-elon-musks-xai-in-fight-over-colorado-ai-bias-law.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "South Korea Arrests Man for a Fake AI Wolf Photo That Raised Alarms",
+      "summary": "A man created an AI-generated image of escaped wolf Neukgu \"for fun.\" It fooled authorities, triggered emergency alerts, and derailed a nine-day search operation.",
+      "url": "https://decrypt.co/365490/south-korea-arrests-man-for-a-fake-ai-wolf-photo-that-raised-alarms",
+      "publishedAt": "2026-04-24T19:58:44.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260424-south-korea-arrests-man-for-a-fake-ai-wolf-photo-that-raised-alarms",
+      "localUrl": "/news/20260424-south-korea-arrests-man-for-a-fake-ai-wolf-photo-that-raised-alarms.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tether's $344 million USDT freeze linked to U.S. 'Economic Fury' against Iran regime",
+      "summary": "Treasury Secretary Scott Bessent said the U.S. is seeking to choke off \"all financial lifelines\" for the regime.",
+      "url": "https://www.coindesk.com/policy/2026/04/24/tether-s-usd344-million-usdt-freeze-linked-to-u-s-economic-fury-against-iran-regime",
+      "publishedAt": "2026-04-24T19:50:07.000Z",
+      "keywords": [
+        "Policy",
+        "Tether",
+        "Stablecoins",
+        "Iran",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260424-tethers-344-million-usdt-freeze-linked-to-us-economic-fury-against-iran-regime",
+      "localUrl": "/news/20260424-tethers-344-million-usdt-freeze-linked-to-us-economic-fury-against-iran-regime.html"
+    },
+    {
+      "source": "Chainalysis Blog",
+      "title": "U.S. Government Unveils Sweeping Enforcement Actions Against Southeast Asian Scam Centers and Crypto Fraud Networks",
+      "summary": "TL;DR In a massive coordinated interagency effort, the Department of Justice (DOJ), the Department of the Treasury’s Office of Foreign… The post U.S. Government Unveils Sweeping Enforcement Actions Against Southeast Asian Scam Centers and …",
+      "url": "https://www.chainalysis.com/blog/asian-scam-centers-crypto-fraud-april-2026/",
+      "publishedAt": "2026-04-24T19:26:06.000Z",
+      "keywords": [
+        "Crime",
+        "Asia",
+        "asset seizure",
+        "Cambodia",
+        "crypto scams",
+        "DOJ",
+        "Law enforcement",
+        "OFAC"
+      ],
+      "category": "监管",
+      "slug": "20260424-us-government-unveils-sweeping-enforcement-actions-against-southeast-asian-scam-",
+      "localUrl": "/news/20260424-us-government-unveils-sweeping-enforcement-actions-against-southeast-asian-scam-.html"
+    },
     {
       "source": "Decrypt",
       "title": "Anthropic Rolls Out Election Safeguards for Claude AI Ahead of US Midterms",
@@ -14,6 +90,19 @@
       "category": "综合",
       "slug": "20260424-anthropic-rolls-out-election-safeguards-for-claude-ai-ahead-of-us-midterms",
       "localUrl": "/news/20260424-anthropic-rolls-out-election-safeguards-for-claude-ai-ahead-of-us-midterms.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Quantum computer breaks 15-bit elliptic curve cryptographic key",
+      "summary": "The Bitcoin community continues to debate whether cryptographically relevant quantum computers are imminent or decades away.",
+      "url": "https://cointelegraph.com/news/quantum-computer-bit-elliptic-curve-key?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-24T18:53:58.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260424-quantum-computer-breaks-15-bit-elliptic-curve-cryptographic-key",
+      "localUrl": "/news/20260424-quantum-computer-breaks-15-bit-elliptic-curve-cryptographic-key.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -34,6 +123,17 @@
       "category": "监管",
       "slug": "20260424-eus-20th-russia-sanctions-package-signals-a-new-era-of-crypto-specific-enforceme",
       "localUrl": "/news/20260424-eus-20th-russia-sanctions-package-signals-a-new-era-of-crypto-specific-enforceme.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Crypto is all about attention & cult followings. And there are only a few companies that actually generate 8figures + in revenue, get billions of impressions and has popular IP!! There are only a few players worth watching and the Pudgy team never stops to surp - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OeDdoWUgzalFlSnhvamtva2RxeElpSXdGTHhjTkJMM1pEMWEwellveDZzNUgwbG9jNDZvLVM2azhvQ3Y2NmFHVU5MWVgzeS1Ba01HQVZIUmllOHctMXNsYg?oc=5\" target=\"_blank\">Crypto is all about attention & cult…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OeDdoWUgzalFlSnhvamtva2RxeElpSXdGTHhjTkJMM1pEMWEwellveDZzNUgwbG9jNDZvLVM2azhvQ3Y2NmFHVU5MWVgzeS1Ba01HQVZIUmllOHctMXNsYg?oc=5",
+      "publishedAt": "2026-04-24T18:20:33.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260424-crypto-is-all-about-attention-cult-followings-and-there-are-only-a-few-companies",
+      "localUrl": "/news/20260424-crypto-is-all-about-attention-cult-followings-and-there-are-only-a-few-companies.html"
     },
     {
       "source": "Decrypt",
@@ -743,19 +843,6 @@
       "localUrl": "/news/20260424-bitcoin-etfs-just-pulled-in-2-billion-in-8-days-while-short-term-holders-quietly.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "US vows to fight ‘industrial scale’ AI theft by Chinese firms",
-      "summary": "The White House’s office of technology policy said that foreign entities are using proxy accounts and jailbreaking techniques to distill capabilities from American AI models.",
-      "url": "https://cointelegraph.com/news/us-government-reveals-plan-counter-foreign-ai-distillation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-24T06:05:37.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260424-us-vows-to-fight-industrial-scale-ai-theft-by-chinese-firms",
-      "localUrl": "/news/20260424-us-vows-to-fight-industrial-scale-ai-theft-by-chinese-firms.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin rally is stalling as Japanese inflation adds to Iran war–driven market jitters",
       "summary": "Crypto markets weaken amid rising Japan inflation, Iran war oil disruptions, and expectations of a hawkish Bank of Japan.",
@@ -797,6 +884,17 @@
       "category": "监管",
       "slug": "20260424-wisconsin-joins-prediction-market-fight-suing-kalshi-coinbase-polymarket-robinho",
       "localUrl": "/news/20260424-wisconsin-joins-prediction-market-fight-suing-kalshi-coinbase-polymarket-robinho.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "The #KelpDAO hacker has now swapped all 75,701 $ETH ($175M) on Ethereum into $BTC through THORChain and other routes. 🚨 Mantle ( @Mantle_Official) has proposed providing 30,000 $ETH ($70M) to Aave as a loan. Lido( @LidoFinance) has also pro - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlWWdLTmg4OTBfdk9WM21zYmtoUTNMcEg5b3ltY2hXR2UzU04xa2tnbXY1elREeWNMTUdyVlIxWnVzekVLak9rTjNXWjBsTTJ4U0daNzNibm1xR0Z2QmdiUXh3?oc=5\" target=\"_blank\">The #KelpDAO hacker has now swappe…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlWWdLTmg4OTBfdk9WM21zYmtoUTNMcEg5b3ltY2hXR2UzU04xa2tnbXY1elREeWNMTUdyVlIxWnVzekVLak9rTjNXWjBsTTJ4U0daNzNibm1xR0Z2QmdiUXh3?oc=5",
+      "publishedAt": "2026-04-24T01:09:48.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260424-the-kelpdao-hacker-has-now-swapped-all-75701-eth-175m-on-ethereum-into-btc-throu",
+      "localUrl": "/news/20260424-the-kelpdao-hacker-has-now-swapped-all-75701-eth-175m-on-ethereum-into-btc-throu.html"
     },
     {
       "source": "Decrypt",
@@ -884,45 +982,6 @@
       "localUrl": "/news/20260423-meta-will-lay-off-8000-employees-as-ai-focus-intensifies.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Microsoft-Backed Space and Time Launches AI App Builder on Base",
-      "summary": "The no-code platform aims to make building and deploying on-chain apps as simple as writing a prompt.",
-      "url": "https://decrypt.co/365363/microsoft-space-and-time-ai-app-builder-dreamspace-base",
-      "publishedAt": "2026-04-23T20:15:19.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "X热点",
-      "slug": "20260423-microsoft-backed-space-and-time-launches-ai-app-builder-on-base",
-      "localUrl": "/news/20260423-microsoft-backed-space-and-time-launches-ai-app-builder-on-base.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Circle Economist Proposes 50% Rate Ceiling to Snap Aave's USDC Liquidity Crisis",
-      "summary": "Some users pushed back via Aave’s governance forum, fearing the changes would fuel liquidations on the lending protocol.",
-      "url": "https://decrypt.co/365353/circle-economist-50-rate-ceiling-snap-aave-usdc-liquidity-crisis",
-      "publishedAt": "2026-04-23T19:58:13.000Z",
-      "keywords": [
-        "DeFi"
-      ],
-      "category": "基础设施",
-      "slug": "20260423-circle-economist-proposes-50-rate-ceiling-to-snap-aaves-usdc-liquidity-crisis",
-      "localUrl": "/news/20260423-circle-economist-proposes-50-rate-ceiling-to-snap-aaves-usdc-liquidity-crisis.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI Releases GPT-5.5: Faster, Smarter—And Pricier",
-      "summary": "OpenAI's newest model matches GPT-5.4's speed while outperforming it on nearly every benchmark. It's rolling out to paid ChatGPT users today.",
-      "url": "https://decrypt.co/365333/openai-gpt-5-5-release-agentic-coding-benchmarks",
-      "publishedAt": "2026-04-23T19:25:16.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260423-openai-releases-gpt-55-faster-smarterand-pricier",
-      "localUrl": "/news/20260423-openai-releases-gpt-55-faster-smarterand-pricier.html"
-    },
-    {
       "source": "Chainalysis Blog",
       "title": "Inside the KelpDAO Bridge Exploit: How ~$292 Million in rsETH Was Released Against a Non-Existent Burn",
       "summary": "TL;DR On April 18, 2026, attackers linked to North Korea’s Lazarus Group stole ~$292 million (116,500 rsETH) from KelpDAO’s LayerZero… The post Inside the KelpDAO Bridge Exploit: How ~$292 Million in rsETH Was Released Against a Non-Existe…",
@@ -961,17 +1020,6 @@
       "localUrl": "/news/20260423-inside-the-71-million-freeze-on-arbitrum-that-has-the-crypto-world-questioning-w.html"
     },
     {
-      "source": "X Wire",
-      "title": "Upwards moves can last longer than you generally expect. #Bitcoin collapsed from $100K+ to $60K in less than 2 months. Currently, there's a slow grind higher after a V-shaped recovery in the Nasdaq. I think this leg has enough room to continue to $86K, and - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0bWpreHlOY05od2ZpVWVuOUtuclFvMjk5amVQa0FUeHdDN3c0aElKY05NYk1uSlkyVTlaR3QwbVd3UGhVTUw0cU9FaUxlOTZlMXBRMXg3cE9IYnNTemNjYndPRQ?oc=5\" target=\"_blank\">Upwards moves can last longer th…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0bWpreHlOY05od2ZpVWVuOUtuclFvMjk5amVQa0FUeHdDN3c0aElKY05NYk1uSlkyVTlaR3QwbVd3UGhVTUw0cU9FaUxlOTZlMXBRMXg3cE9IYnNTemNjYndPRQ?oc=5",
-      "publishedAt": "2026-04-23T18:30:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260423-upwards-moves-can-last-longer-than-you-generally-expect-bitcoin-collapsed-from-1",
-      "localUrl": "/news/20260423-upwards-moves-can-last-longer-than-you-generally-expect-bitcoin-collapsed-from-1.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "The market repriced DeFi in just 48 hours",
       "summary": "Di Bartolomeo argues that last weekend the market achieved – in real time – a notable feat that no regulator, auditor or commentator has ever done.",
@@ -1007,35 +1055,6 @@
       "category": "X热点",
       "slug": "20260423-south-africa-proposes-insane-crypto-controls-possible-forced-sales-south-africa-",
       "localUrl": "/news/20260423-south-africa-proposes-insane-crypto-controls-possible-forced-sales-south-africa-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Base (@base) / Posts / X - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiNEFVX3lxTE1NWDZ0NjF4RHlGSkoyZ2hnXy1Bek5Na0hoUnprZlhBUkVNRlgwdEh6ekt1Znc?oc=5\" target=\"_blank\">Base (@base) / Posts / X</a> <font color=\"#6f6f6f\">x.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiNEFVX3lxTE1NWDZ0NjF4RHlGSkoyZ2hnXy1Bek5Na0hoUnprZlhBUkVNRlgwdEh6ekt1Znc?oc=5",
-      "publishedAt": "2026-04-23T15:18:38.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260423-base-base-posts-x-xcom",
-      "localUrl": "/news/20260423-base-base-posts-x-xcom.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: AI Agents Using Crypto",
-      "summary": "AI agents are executing transactions, forming “agentic finance.” Crypto is the financial backend for these autonomous systems. Learn use cases, risks, and what experts say.",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/04/22/crypto-for-advisors-ai-agents-using-crypto",
-      "publishedAt": "2026-04-23T15:00:00.000Z",
-      "keywords": [
-        "CoinDesk Indices",
-        "CoinDesk Indices",
-        "Crypto for Advisors",
-        "Financial Advisors",
-        "Artificial Intelligence",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260423-crypto-for-advisors-ai-agents-using-crypto",
-      "localUrl": "/news/20260423-crypto-for-advisors-ai-agents-using-crypto.html"
     },
     {
       "source": "X Wire",
