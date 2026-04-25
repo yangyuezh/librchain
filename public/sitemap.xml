@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-25T09:07:33.391Z</lastmod>
+    <lastmod>2026-04-25T10:05:21.212Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-25T09:07:33.391Z</lastmod>
+    <lastmod>2026-04-25T10:05:21.212Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260425-clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-69-mill.html</loc>
+    <lastmod>2026-04-25T10:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260425-xrp-may-rise-30-as-traders-withdraw-35m-tokens-from-exchanges-in-a-day.html</loc>
+    <lastmod>2026-04-25T08:55:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260425-spot-bitcoin-etfs-see-9-day-inflow-streak-as-investors-show-resilience.html</loc>
@@ -337,12 +349,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260424-xrp-price-risks-40-decline-versus-bitcoin-despite-9-day-etf-inflow-streak.html</loc>
-    <lastmod>2026-04-24T11:55:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260424-morning-minute-soldier-arrested-for-400k-polymarket-insider-bet-on-maduro-raid.html</loc>
     <lastmod>2026-04-24T11:42:15.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -435,12 +441,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260424-bitcoin-rally-is-stalling-as-japanese-inflation-adds-to-iran-wardriven-market-ji.html</loc>
     <lastmod>2026-04-24T05:01:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260424-wisconsin-joins-prediction-market-fight-suing-kalshi-coinbase-polymarket-robinho.html</loc>
-    <lastmod>2026-04-24T04:47:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
