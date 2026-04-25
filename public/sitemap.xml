@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-25T11:02:31.237Z</lastmod>
+    <lastmod>2026-04-25T11:51:02.307Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-25T11:02:31.237Z</lastmod>
+    <lastmod>2026-04-25T11:51:02.307Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260425-kalshi-polymarket-among-27-prediction-platforms-banned-in-brazil.html</loc>
+    <lastmod>2026-04-25T10:51:27.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260425-clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-69-mill.html</loc>
@@ -31,12 +37,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260425-bullish-bitcoin-dominance-hits-60-for-the-first-time-in-2026-xcom.html</loc>
-    <lastmod>2026-04-25T05:45:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260425-ripple-linked-xrp-stalls-near-144-as-triangle-squeeze-nears-breakout.html</loc>
     <lastmod>2026-04-25T05:33:20.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -49,8 +49,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260424-monthly-transfer-volume-in-brla-a-brazilian-real-backed-stablecoin-has-grown-fro.html</loc>
-    <lastmod>2026-04-24T23:40:41.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260425-polish-crypto-exchange-ceo-flees-to-israel-as-100m-crisis-unfolds-according-to-o.html</loc>
+    <lastmod>2026-04-25T01:08:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -349,12 +349,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260424-wisconsin-sues-kalshi-polymarket-others-over-sports-event-contracts.html</loc>
-    <lastmod>2026-04-24T12:15:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260424-kazakhstan-is-bringing-crypto-into-everyday-transactions-binance-kazakhstan-and-.html</loc>
     <lastmod>2026-04-24T11:57:18.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -495,6 +489,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260423-south-africa-proposes-insane-crypto-controls-possible-forced-sales-south-africa-.html</loc>
     <lastmod>2026-04-23T15:54:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260423-update-on-rseth-incident-rseth-reserves-have-been-paused-across-ethereum-core-ar.html</loc>
+    <lastmod>2026-04-23T15:19:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
