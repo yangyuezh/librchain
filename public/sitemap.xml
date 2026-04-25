@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-25T07:43:27.128Z</lastmod>
+    <lastmod>2026-04-25T09:07:33.391Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-25T07:43:27.128Z</lastmod>
+    <lastmod>2026-04-25T09:07:33.391Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260425-spot-bitcoin-etfs-see-9-day-inflow-streak-as-investors-show-resilience.html</loc>
+    <lastmod>2026-04-25T08:35:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260425-ripple-linked-xrp-stalls-near-144-as-triangle-squeeze-nears-breakout.html</loc>
@@ -21,12 +27,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260425-hyperliquid-whale-holds-38m-short-against-bitcoin-but-does-it-matter.html</loc>
     <lastmod>2026-04-25T02:35:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260425-polish-crypto-exchange-ceo-flees-to-israel-as-100m-crisis-unfolds-according-to-o.html</loc>
-    <lastmod>2026-04-25T01:08:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -141,6 +141,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260424-crypto-pac-fellowship-halts-support-of-texas-ag-for-senate-report.html</loc>
     <lastmod>2026-04-24T18:03:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260424-bitcoins-rally-may-be-stronger-than-it-looks-not-just-driven-by-leverage-but-by-.html</loc>
+    <lastmod>2026-04-24T17:40:29.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -333,12 +339,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260424-xrp-price-risks-40-decline-versus-bitcoin-despite-9-day-etf-inflow-streak.html</loc>
     <lastmod>2026-04-24T11:55:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260424-bitcoin-price-set-for-best-gains-since-q4-2024-with-775k-monthly-close.html</loc>
-    <lastmod>2026-04-24T11:51:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
