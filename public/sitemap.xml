@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-25T14:57:50.066Z</lastmod>
+    <lastmod>2026-04-25T15:53:56.501Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-25T14:57:50.066Z</lastmod>
+    <lastmod>2026-04-25T15:53:56.501Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260425-mike-tyson-tether-ceo-cathie-wood-among-speakers-at-trumps-most-exclusive-crypto.html</loc>
+    <lastmod>2026-04-25T15:24:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260425-bitcoin-at-40000-would-be-near-unprecedented-statistical-outcome-analyst-says.html</loc>
+    <lastmod>2026-04-25T15:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260425-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-04-25T14:38:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260425-cftc-sues-new-york-over-bid-to-apply-gambling-laws-to-prediction-markets.html</loc>
@@ -223,12 +241,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260424-sen-bernie-sanders-criticized-the-trump-family-on-thursday-over-reported-profits.html</loc>
-    <lastmod>2026-04-24T17:01:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260424-bitcoin-stays-stalled-at-78k-as-oil-threatens-new-risk-asset-squeeze.html</loc>
     <lastmod>2026-04-24T16:55:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -331,12 +343,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260424-ecb-signs-standards-deals-to-cut-digital-euro-integration-costs.html</loc>
-    <lastmod>2026-04-24T14:23:23.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260424-spacexs-75-billion-ipo-could-drain-the-liquidity-thats-helping-lift-bitcoin-and-.html</loc>
     <lastmod>2026-04-24T13:54:11.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -369,6 +375,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260424-morning-minute-soldier-arrested-for-400k-polymarket-insider-bet-on-maduro-raid.html</loc>
     <lastmod>2026-04-24T11:42:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260424-bitcoin-is-bullish-our-vector-framework-has-triggered-a-clear-signal-momentum-co.html</loc>
+    <lastmod>2026-04-24T11:27:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -421,26 +433,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260424-bitcoin-holder-metaplanet-raises-50-million-to-buy-more-btc.html</loc>
-    <lastmod>2026-04-24T08:02:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260424-morgan-stanley-is-positioning-itself-as-the-reserve-manager-for-the-stablecoin-i.html</loc>
-    <lastmod>2026-04-24T06:39:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260424-big-day-for-crypto-tomorrow-president-trump-is-set-to-speak-at-a-major-crypto-co.html</loc>
     <lastmod>2026-04-24T05:44:28.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260424-unreal-reporter-are-you-concerned-about-insider-trading-on-prediction-markets-re.html</loc>
-    <lastmod>2026-04-24T04:52:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -487,6 +481,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260423-update-on-rseth-incident-rseth-reserves-have-been-paused-across-ethereum-core-ar.html</loc>
+    <lastmod>2026-04-23T15:19:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260423-new-cnbc-reports-that-spot-bitcoin-etf-inflows-are-ramping-up-and-btc-is-closing.html</loc>
     <lastmod>2026-04-23T15:07:58.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -517,8 +517,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260422-breaking-crypto-funds-attracted-14-billion-in-inflows-last-week-the-highest-week.html</loc>
-    <lastmod>2026-04-22T15:37:49.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260422-all-you-need-to-own-is-bitcoin-and-ethereum-and-you-own-97-of-the-volatility-of-.html</loc>
+    <lastmod>2026-04-22T18:08:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
