@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-26T14:59:26.040Z</lastmod>
+    <lastmod>2026-04-26T15:55:07.100Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-26T14:59:26.040Z</lastmod>
+    <lastmod>2026-04-26T15:55:07.100Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260426-nobody-is-using-bitcoin-xcom.html</loc>
+    <lastmod>2026-04-26T14:46:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260426-bitcoin-whales-build-long-positions-as-funding-stays-deeply-negative.html</loc>
@@ -55,6 +61,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260426-the-most-bullish-scenario-for-bitcoin-would-be-this-breakout-to-100k-in-the-comi.html</loc>
+    <lastmod>2026-04-26T12:45:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260426-vitaliks-ethereum-foundation-unstakes-489m-eth-selling-next-the-ethereum-foundat.html</loc>
     <lastmod>2026-04-26T12:10:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -93,6 +105,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260426-the-ethereum-foundation-is-unstaking-eth-the-ethereum-foundation-is-unstaking-48.html</loc>
     <lastmod>2026-04-26T06:21:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260426-trump-crypto-is-a-big-industry-that-has-actually-become-mainstream-xcom.html</loc>
+    <lastmod>2026-04-26T03:30:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -141,12 +159,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260425-trump-defends-crypto-legislation-at-private-event-featuring-boxer-mike-tyson-tet.html</loc>
     <lastmod>2026-04-25T18:53:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260425-bitcoin-is-doing-all-fine-higher-lows-higher-highs-on-a-lower-timeframe-and-a-cl.html</loc>
-    <lastmod>2026-04-25T18:34:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -403,12 +415,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260424-new-michael-saylor-says-the-bitcoin-winters-over-xcom.html</loc>
-    <lastmod>2026-04-24T17:48:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260424-deepseek-v4-is-hereits-pro-version-costs-98-less-than-gpt-55-pro.html</loc>
     <lastmod>2026-04-24T17:34:58.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -447,12 +453,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260424-tom-lees-bitmine-buys-another-23-million-in-eth-from-ethereum-foundation.html</loc>
     <lastmod>2026-04-24T15:49:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260424-just-in-blackrocks-spot-bitcoin-etf-has-bought-18180-btc-worth-14-billion-over-t.html</loc>
-    <lastmod>2026-04-24T15:38:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
