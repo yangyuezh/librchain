@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-26T22:56:29.322Z</lastmod>
+    <lastmod>2026-04-26T23:53:48.031Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-26T22:56:29.322Z</lastmod>
+    <lastmod>2026-04-26T23:53:48.031Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -51,6 +51,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260426-why-defi-isnt-dead-despite-massive-exploits-and-13-billion-investor-exodus.html</loc>
     <lastmod>2026-04-26T16:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260426-crypto-adoption-stays-below-10-worldwide-xcom.html</loc>
+    <lastmod>2026-04-26T15:49:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -261,12 +267,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260425-mike-tyson-tether-ceo-cathie-wood-among-speakers-at-trumps-most-exclusive-crypto.html</loc>
     <lastmod>2026-04-25T15:24:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260425-just-in-top-trump-whales-to-attend-most-exclusive-crypto-conference-at-mar-a-lag.html</loc>
-    <lastmod>2026-04-25T15:09:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
