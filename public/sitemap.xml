@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-27T22:04:30.841Z</lastmod>
+    <lastmod>2026-04-27T23:08:22.333Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-27T22:04:30.841Z</lastmod>
+    <lastmod>2026-04-27T23:08:22.333Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260427-elon-musks-fight-with-colorado-over-ai-law-hits-pause-as-state-considers-revisio.html</loc>
+    <lastmod>2026-04-27T22:22:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260427-canada-advances-bill-to-ban-crypto-political-donations.html</loc>
+    <lastmod>2026-04-27T21:50:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260427-bitcoin-whale-holdings-hit-five-month-high-is-btc-headed-to-80k-next.html</loc>
+    <lastmod>2026-04-27T21:44:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260427-industry-leaders-are-pouring-hundreds-of-millions-into-a-rescue-plan-for-aave-us.html</loc>
@@ -343,12 +361,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260427-tether-launches-mdk-an-open-infrastructure-layer-for-bitcoin-mining-learn-more-x.html</loc>
-    <lastmod>2026-04-27T12:07:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260427-bitcoin-funds-take-in-933-million-as-crypto-etfs-hit-highest-aum-since-february.html</loc>
     <lastmod>2026-04-27T12:07:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -387,12 +399,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260427-from-swift-to-onchain-south-koreas-biggest-digital-bank-taps-ripple-for-high-spe.html</loc>
     <lastmod>2026-04-27T11:29:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260427-france-charges-88-including-minors-in-crypto-wrench-attack-crackdown.html</loc>
-    <lastmod>2026-04-27T11:26:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -445,12 +451,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260427-ethereum-backers-pledge-up-to-30000-eth-to-rseth-recovery-after-bridge-incident.html</loc>
-    <lastmod>2026-04-27T07:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260427-ethereum-price-26th-april-2021-23282-27th-april-2026-23282-xcom.html</loc>
     <lastmod>2026-04-27T06:44:23.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -459,12 +459,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260427-breaking-bitcoin-just-flash-crashed-to-775k-over-68m-in-longs-liquidated-in-the-.html</loc>
     <lastmod>2026-04-27T05:52:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260427-western-union-eyes-may-for-its-stablecoin-usdpt-rollout.html</loc>
-    <lastmod>2026-04-27T05:24:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -501,6 +495,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260426-just-in-michael-saylor-hints-at-strategy-buying-more-bitcoin-xcom.html</loc>
     <lastmod>2026-04-26T14:39:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260425-rhackett-and-jeremyzhang01-stablecoins-spent-years-in-search-of-a-storyat-first-.html</loc>
+    <lastmod>2026-04-25T16:05:12.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
