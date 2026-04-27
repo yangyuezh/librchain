@@ -1,7 +1,180 @@
 {
-  "updatedAt": "2026-04-27T14:23:52.066Z",
+  "updatedAt": "2026-04-27T16:52:26.440Z",
   "total": 85,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Litecoin Rewrites Transaction History After Exploit, Apologizes for Social Posts",
+      "summary": "Litecoin was affected by a bug this weekend that allowed an attacker to transfer digital assets—transactions that were later wiped away.",
+      "url": "https://decrypt.co/365648/litecoin-rewrites-transaction-history-exploit-apologizes-social-posts",
+      "publishedAt": "2026-04-27T16:40:50.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "安全",
+      "slug": "20260427-litecoin-rewrites-transaction-history-after-exploit-apologizes-for-social-posts",
+      "localUrl": "/news/20260427-litecoin-rewrites-transaction-history-after-exploit-apologizes-for-social-posts.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Curve founder pitches market-based fix for $700K bad debt in contrast to Aave bailout",
+      "summary": "The plan allows trapped lenders to sell tokenized claims on deposits, offering buyers an option-like bet on CRV's recovery.",
+      "url": "https://www.coindesk.com/markets/2026/04/27/curve-founder-pitches-market-based-fix-for-usd700k-bad-debt-in-contrast-to-aave-bailout",
+      "publishedAt": "2026-04-27T16:38:29.000Z",
+      "keywords": [
+        "Markets",
+        "DeFi",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260427-curve-founder-pitches-market-based-fix-for-700k-bad-debt-in-contrast-to-aave-bai",
+      "localUrl": "/news/20260427-curve-founder-pitches-market-based-fix-for-700k-bad-debt-in-contrast-to-aave-bai.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana developers outline plan to protect network from quantum threats",
+      "summary": "Two of the network’s core developer teams, Anza and Jump Crypto’s Firedancer, have landed on the same solution: a new type of digital signature called Falcon.",
+      "url": "https://www.coindesk.com/tech/2026/04/27/solana-developers-outline-plan-to-protect-network-from-quantum-threats",
+      "publishedAt": "2026-04-27T16:30:56.000Z",
+      "keywords": [
+        "Tech",
+        "Solana News",
+        "quantum computing",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260427-solana-developers-outline-plan-to-protect-network-from-quantum-threats",
+      "localUrl": "/news/20260427-solana-developers-outline-plan-to-protect-network-from-quantum-threats.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin is climbing on thin volume, leaving rally vulnerable to macro shock",
+      "summary": "Low trading volume and a lack of conviction from big-money bettors could leave the bitcoin rally on shaky ground, said 10x Research head Markus Thielen.",
+      "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-is-climbing-on-thin-volume-leaving-this-rally-vulnerable-to-macro-shock",
+      "publishedAt": "2026-04-27T16:22:16.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260427-bitcoin-is-climbing-on-thin-volume-leaving-rally-vulnerable-to-macro-shock",
+      "localUrl": "/news/20260427-bitcoin-is-climbing-on-thin-volume-leaving-rally-vulnerable-to-macro-shock.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI's Sam Altman Apologizes for Not Alerting Police Before Tumbler Ridge Mass Shooting",
+      "summary": "Sam Altman admitted that OpenAI should have warned law enforcement after banning the suspect’s account months before the attack.",
+      "url": "https://decrypt.co/365645/openai-sam-altman-apologizes-not-alerting-police-tumbler-ridge-mass-shooting",
+      "publishedAt": "2026-04-27T16:05:57.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260427-openais-sam-altman-apologizes-for-not-alerting-police-before-tumbler-ridge-mass-",
+      "localUrl": "/news/20260427-openais-sam-altman-apologizes-for-not-alerting-police-before-tumbler-ridge-mass-.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cross-border B2B stablecoin payments to hit $5 trillion by 2035, says Juniper Research",
+      "summary": "Juniper Research found that 85% of all stablecoin transaction value in 2035 will be driven by international business-to-business (B2B) payments.",
+      "url": "https://www.coindesk.com/business/2026/04/27/cross-border-b2b-stablecoin-payments-to-rise-by-over-37-000-to-usd5t-by-2035",
+      "publishedAt": "2026-04-27T15:49:01.000Z",
+      "keywords": [
+        "Finance",
+        "Stablecoins",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260427-cross-border-b2b-stablecoin-payments-to-hit-5-trillion-by-2035-says-juniper-rese",
+      "localUrl": "/news/20260427-cross-border-b2b-stablecoin-payments-to-hit-5-trillion-by-2035-says-juniper-rese.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Gemini Launches AI “Agentic Trading” for Automated Crypto Accounts Gemini has introduced “Agentic Trading,” allowing users to connect AI models such as ChatGPT and Claude directly to trading accounts via the MCP open standard. The tool enables AI to a - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pQmw3bk9DVXI5RGo2RFBPbkN1bW1oc0xwZ3BwTXlfc2pXNzJxbVhITk9hVlBlWWMxVG5vNEM3Wk1vWXNiUmFHcXJ5Y1ZoZDRtNFR0MnJ4bmc5RlJRSWRMaTNSVQ?oc=5\" target=\"_blank\">Gemini Launches AI “Agentic Trad…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pQmw3bk9DVXI5RGo2RFBPbkN1bW1oc0xwZ3BwTXlfc2pXNzJxbVhITk9hVlBlWWMxVG5vNEM3Wk1vWXNiUmFHcXJ5Y1ZoZDRtNFR0MnJ4bmc5RlJRSWRMaTNSVQ?oc=5",
+      "publishedAt": "2026-04-27T15:46:19.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260427-gemini-launches-ai-agentic-trading-for-automated-crypto-accounts-gemini-has-intr",
+      "localUrl": "/news/20260427-gemini-launches-ai-agentic-trading-for-automated-crypto-accounts-gemini-has-intr.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fidelity Digital Assets says bitcoin is leading crypto market stabilization",
+      "summary": "Despite muted prices to start the second quarter, the report said improving onchain metrics and network activity point to a market finding its footing.",
+      "url": "https://www.coindesk.com/markets/2026/04/27/fidelity-digital-assets-says-bitcoin-is-leading-crypto-market-stabilization",
+      "publishedAt": "2026-04-27T15:44:00.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Ethereum News",
+        "Solana News",
+        "Fidelity Digital Assets",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260427-fidelity-digital-assets-says-bitcoin-is-leading-crypto-market-stabilization",
+      "localUrl": "/news/20260427-fidelity-digital-assets-says-bitcoin-is-leading-crypto-market-stabilization.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "China Blocks Meta's $2 Billion Acquisition of AI Startup Manus",
+      "summary": "Beijing's intervention in Meta's startup acquisition signals tighter scrutiny of foreign investments in China's AI sector.",
+      "url": "https://decrypt.co/365644/china-blocks-meta-2-billion-acquisition-ai-startup-manus",
+      "publishedAt": "2026-04-27T15:38:46.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260427-china-blocks-metas-2-billion-acquisition-of-ai-startup-manus",
+      "localUrl": "/news/20260427-china-blocks-metas-2-billion-acquisition-of-ai-startup-manus.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Canada’s crypto donation ban clears key vote with support from Conservatives",
+      "summary": "Bill C-25, the Strong and Free Elections Act, cleared second reading Friday and heads to committee as Conservative lawmakers raise but don’t challenge the proposed ban on bitcoin contributions",
+      "url": "https://www.coindesk.com/policy/2026/04/27/canada-s-crypto-donation-ban-clears-key-vote-with-support-from-conservatives",
+      "publishedAt": "2026-04-27T15:05:56.000Z",
+      "keywords": [
+        "Policy",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260427-canadas-crypto-donation-ban-clears-key-vote-with-support-from-conservatives",
+      "localUrl": "/news/20260427-canadas-crypto-donation-ban-clears-key-vote-with-support-from-conservatives.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Microsoft and OpenAI Rework AI Deal, Cutting Exclusivity and AGI Provisions",
+      "summary": "The restructured deal with Microsoft removes exclusivity provisions and revenue-sharing arrangements, freeing OpenAI to pursue additional allies.",
+      "url": "https://decrypt.co/365630/microsoft-openai-rework-ai-deal-cutting-exclusivity-agi-provisions",
+      "publishedAt": "2026-04-27T14:57:43.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260427-microsoft-and-openai-rework-ai-deal-cutting-exclusivity-and-agi-provisions",
+      "localUrl": "/news/20260427-microsoft-and-openai-rework-ai-deal-cutting-exclusivity-and-agi-provisions.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "As the bitcoin price rises, futures may look bearish, but they're not, analyst says",
+      "summary": "Research firm 10x says the negative funding rates reflect structural hedging by institutions, not a broad bearish play.",
+      "url": "https://www.coindesk.com/markets/2026/04/27/as-the-bitcoin-price-rises-futures-may-look-bearish-but-they-re-not-analyst-says",
+      "publishedAt": "2026-04-27T14:37:30.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Markets",
+        "Institutional Investors",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260427-as-the-bitcoin-price-rises-futures-may-look-bearish-but-theyre-not-analyst-says",
+      "localUrl": "/news/20260427-as-the-bitcoin-price-rises-futures-may-look-bearish-but-theyre-not-analyst-says.html"
+    },
     {
       "source": "Decrypt",
       "title": "Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone",
@@ -14,6 +187,43 @@
       "category": "基础设施",
       "slug": "20260427-tom-lees-bitmine-makes-biggest-ethereum-buy-so-far-in-2026-hitting-5-million-eth",
       "localUrl": "/news/20260427-tom-lees-bitmine-makes-biggest-ethereum-buy-so-far-in-2026-hitting-5-million-eth.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Michael Saylor’s Strategy adds 3.2K Bitcoin at nearly $78K per BTC",
+      "summary": "Michael Saylor’s Strategy bought 3,273 Bitcoin for $255 million between April 20 and 26, bringing total holdings to 818,334 BTC.",
+      "url": "https://cointelegraph.com/news/michael-saylor-s-strategy-adds-3-2k-bitcoin-at-nearly-78k-per-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-27T14:05:14.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260427-michael-saylors-strategy-adds-32k-bitcoin-at-nearly-78k-per-btc",
+      "localUrl": "/news/20260427-michael-saylors-strategy-adds-32k-bitcoin-at-nearly-78k-per-btc.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-27T14:01:41.000Z",
+      "keywords": [
+        "Trump memecoin",
+        "Solana memecoin",
+        "TRUMP token",
+        "Solana",
+        "SOL",
+        "Nova Labs",
+        "SEC",
+        "Securities and Exchange Commission",
+        "Crypto regulation",
+        "TRUMP rally",
+        "Bitcoin",
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260427-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260427-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "Decrypt",
@@ -29,6 +239,19 @@
       "localUrl": "/news/20260427-bitcoin-giant-strategys-buying-pace-falls-91-amid-strc-cooldown.html"
     },
     {
+      "source": "Cointelegraph",
+      "title": "Ethereum’s EEZ could pull other blockchains into its orbit",
+      "summary": "The Ethereum Economic Zone aims to unify fragmented rollups, but its broader goal is to extend interoperability to other blockchains, says Ernst.",
+      "url": "https://cointelegraph.com/features/ethereum-eez-pull-other-blockchains-orbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-27T13:55:32.000Z",
+      "keywords": [
+        "Features"
+      ],
+      "category": "基础设施",
+      "slug": "20260427-ethereums-eez-could-pull-other-blockchains-into-its-orbit",
+      "localUrl": "/news/20260427-ethereums-eez-could-pull-other-blockchains-into-its-orbit.html"
+    },
+    {
       "source": "Solana Blog",
       "title": "Solana’s Quantum Readiness",
       "summary": "Where Solana’s quantum readiness stands and the path forward, with independent research from Firedancer and Anza",
@@ -38,6 +261,19 @@
       "category": "基础设施",
       "slug": "20260427-solanas-quantum-readiness",
       "localUrl": "/news/20260427-solanas-quantum-readiness.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "MiCA has made euro stablecoins safe but weak, new report argues",
+      "summary": "A new Blockchain for Europe report says MiCA has made euro stablecoins safer but less competitive, and urges targeted reforms to reserves and remuneration.",
+      "url": "https://cointelegraph.com/news/mica-euro-stablecoins-safe-but-weak-new-report-argues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-27T13:49:21.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260427-mica-has-made-euro-stablecoins-safe-but-weak-new-report-argues",
+      "localUrl": "/news/20260427-mica-has-made-euro-stablecoins-safe-but-weak-new-report-argues.html"
     },
     {
       "source": "CoinDesk",
@@ -167,6 +403,17 @@
       "category": "DeFi",
       "slug": "20260427-pudgy-penguins-rally-coincides-with-token-unlock-as-analyst-flags-exit-liquidity",
       "localUrl": "/news/20260427-pudgy-penguins-rally-coincides-with-token-unlock-as-analyst-flags-exit-liquidity.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Tether Launches MDK, an Open Infrastructure Layer for Bitcoin Mining Learn more: - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE15QTA3Snd2T1BTYmFFQ1lTSm5zZ1JFdzBaZkE4dVpzVmw4d1cyWU5LZEpBMmVscm1XM1BNVUpsaFRzN2NIczFTZS1yQ1hUZnNlaC1CMWEtUXdyVXc?oc=5\" target=\"_blank\">Tether Launches MDK, an Open Infrastructure…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15QTA3Snd2T1BTYmFFQ1lTSm5zZ1JFdzBaZkE4dVpzVmw4d1cyWU5LZEpBMmVscm1XM1BNVUpsaFRzN2NIczFTZS1yQ1hUZnNlaC1CMWEtUXdyVXc?oc=5",
+      "publishedAt": "2026-04-27T12:07:33.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260427-tether-launches-mdk-an-open-infrastructure-layer-for-bitcoin-mining-learn-more-x",
+      "localUrl": "/news/20260427-tether-launches-mdk-an-open-infrastructure-layer-for-bitcoin-mining-learn-more-x.html"
     },
     {
       "source": "CoinDesk",
@@ -487,20 +734,6 @@
       "localUrl": "/news/20260427-breaking-bitcoin-just-flash-crashed-to-775k-over-68m-in-longs-liquidated-in-the-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin pulls back from 12-week high as Iran rally hits seller wall at $79,400",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-from-12-week-high-as-iran-rally-hits-seller-wall-at-usd79-400",
-      "publishedAt": "2026-04-27T05:47:29.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260427-bitcoin-pulls-back-from-12-week-high-as-iran-rally-hits-seller-wall-at-79400",
-      "localUrl": "/news/20260427-bitcoin-pulls-back-from-12-week-high-as-iran-rally-hits-seller-wall-at-79400.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Western Union eyes May for its stablecoin USDPT rollout",
       "summary": "Western Union CEO Devin McGranahan said the company will focus on expanding adoption and embedding digital assets into its core money movement platform going forward.",
@@ -536,17 +769,6 @@
       "category": "安全",
       "slug": "20260427-aave-asks-arbitrum-to-send-30k-eth-from-kelp-exploiter-to-defi-united",
       "localUrl": "/news/20260427-aave-asks-arbitrum-to-send-30k-eth-from-kelp-exploiter-to-defi-united.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Western Union to Launch Solana-Based Stablecoin USDPT Next Month Traditional cross-border remittance giant Western Union’s CEO and President Devin McGranahan said its Solana-based, U.S. dollar-backed stablecoin USDPT is in the final stages of pre - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ucV9kRXlodkJ5N3o4TmdveGVSSXZGb0Y3UXFKMEg3cGNsaDliSk5Ja3BLR1RaYVdTbFc0MWlndUlMQUR0QndIdnJCa0JqNFJYREQyYVNmYUY1MUN6MFljVXduWQ?oc=5\" target=\"_blank\">Western Union to Launch Solana-B…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ucV9kRXlodkJ5N3o4TmdveGVSSXZGb0Y3UXFKMEg3cGNsaDliSk5Ja3BLR1RaYVdTbFc0MWlndUlMQUR0QndIdnJCa0JqNFJYREQyYVNmYUY1MUN6MFljVXduWQ?oc=5",
-      "publishedAt": "2026-04-27T04:07:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260427-western-union-to-launch-solana-based-stablecoin-usdpt-next-month-traditional-cro",
-      "localUrl": "/news/20260427-western-union-to-launch-solana-based-stablecoin-usdpt-next-month-traditional-cro.html"
     },
     {
       "source": "X Wire",
@@ -632,23 +854,6 @@
       "localUrl": "/news/20260426-coachella-uses-google-deepmind-ai-to-test-the-future-of-live-entertainment.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Running out of time on Clarity: State of Crypto",
-      "summary": "April is almost over. May is the month to watch.",
-      "url": "https://www.coindesk.com/policy/2026/04/26/running-out-of-time-on-clarity-state-of-crypto",
-      "publishedAt": "2026-04-26T18:30:00.000Z",
-      "keywords": [
-        "Policy",
-        "Newsletters",
-        "State of Crypto",
-        "Consensus Miami 2026",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260426-running-out-of-time-on-clarity-state-of-crypto",
-      "localUrl": "/news/20260426-running-out-of-time-on-clarity-state-of-crypto.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Litecoin gives post-attack update, but other devs doubt zero-day theory",
       "summary": "Valid transactions that occurred during the affected blocks were not impacted and remain on the main chain, the Litecoin development team said.",
@@ -662,36 +867,15 @@
       "localUrl": "/news/20260426-litecoin-gives-post-attack-update-but-other-devs-doubt-zero-day-theory.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Aave raises nearly 80% of the $200 million it needs to cover bad debt left by Kelp DAO exploit",
-      "summary": "Blockchain analytics platform Arkham said that the largest contributors are Mantle and Aave DAO, having raised a combined $127 million.",
-      "url": "https://www.coindesk.com/business/2026/04/26/aave-raises-nearly-80-of-the-usd200-million-it-needs-to-cover-bad-debt-left-by-kelp-dao-exploit",
-      "publishedAt": "2026-04-26T16:21:01.000Z",
-      "keywords": [
-        "Finance",
-        "DeFi",
-        "Ethereum News",
-        "Hack",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260426-aave-raises-nearly-80-of-the-200-million-it-needs-to-cover-bad-debt-left-by-kelp",
-      "localUrl": "/news/20260426-aave-raises-nearly-80-of-the-200-million-it-needs-to-cover-bad-debt-left-by-kelp.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why DeFi isn't dead despite massive exploits and $13 billion investor exodus",
-      "summary": "A $292 million exploit and $13 billion TVL drop looks catastrophic on the surface, but the data tells a different story.",
-      "url": "https://www.coindesk.com/business/2026/04/26/why-defi-isn-t-dead-despite-massive-exploits-and-usd13-billion-investor-exodus",
-      "publishedAt": "2026-04-26T16:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "DeFi",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260426-why-defi-isnt-dead-despite-massive-exploits-and-13-billion-investor-exodus",
-      "localUrl": "/news/20260426-why-defi-isnt-dead-despite-massive-exploits-and-13-billion-investor-exodus.html"
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 There’s now less than 24 hours until the world’s largest Bitcoin conference in Las Vegas! 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nZ0w1b05HbUc5SUdob0R3RVFxZVZuVm5DZ3JucjFVSURtVkpkQWl4WGN0UzRfa3djdmFFUVR5SkstaFRYU21veDBrSi1nZzhRaFNkLVg4TUVaUWpRSExtYXBXUkw4c1U?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 There’s now l…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nZ0w1b05HbUc5SUdob0R3RVFxZVZuVm5DZ3JucjFVSURtVkpkQWl4WGN0UzRfa3djdmFFUVR5SkstaFRYU21veDBrSi1nZzhRaFNkLVg4TUVaUWpRSExtYXBXUkw4c1U?oc=5",
+      "publishedAt": "2026-04-26T16:06:01.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260426-just-in-theres-now-less-than-24-hours-until-the-worlds-largest-bitcoin-conferenc",
+      "localUrl": "/news/20260426-just-in-theres-now-less-than-24-hours-until-the-worlds-largest-bitcoin-conferenc.html"
     },
     {
       "source": "X Wire",
@@ -716,37 +900,6 @@
       "localUrl": "/news/20260426-just-in-michael-saylor-hints-at-strategy-buying-more-bitcoin-xcom.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin whales build long positions as funding stays deeply negative",
-      "summary": "Long bias from the largest perpetual traders on Hyperliquid has built steadily through February, March and April, with the position now leaning aggressively long as bitcoin tags $80,000 and US-Iran talks resume.",
-      "url": "https://www.coindesk.com/markets/2026/04/26/bitcoin-whales-build-long-positions-as-funding-stays-deeply-negative",
-      "publishedAt": "2026-04-26T14:13:42.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260426-bitcoin-whales-build-long-positions-as-funding-stays-deeply-negative",
-      "localUrl": "/news/20260426-bitcoin-whales-build-long-positions-as-funding-stays-deeply-negative.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Freezing 5.6 million dormant bitcoin could trigger ‘worst’ single-day repricing",
-      "summary": "Maximalists warn freezing 5.6M BTC risks instant sell-offs, while others say quantum threats leave no alternative.",
-      "url": "https://www.coindesk.com/business/2026/04/26/freezing-5-6-million-dormant-bitcoin-could-trigger-worst-single-day-repricing",
-      "publishedAt": "2026-04-26T14:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "quantum computing",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260426-freezing-56-million-dormant-bitcoin-could-trigger-worst-single-day-repricing",
-      "localUrl": "/news/20260426-freezing-56-million-dormant-bitcoin-could-trigger-worst-single-day-repricing.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Michael Saylor hints at buying more Bitcoin. \"The ₿eat Goes On.\" - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE14akoydXpSaEgwYlZwOTVQWDd1QU9Kdi13NldEOFpGaWJ4aFhnM1J4cnBGeE1XMGpWaXRCZkVfUlJNQTlJLTBkMV83cFpKX3JBTTVBaUFPZHFLQW1ubEwtNG93?oc=5\" target=\"_blank\">JUST IN: Michael Saylor hints at b…",
@@ -769,21 +922,6 @@
       "category": "市场",
       "slug": "20260426-market-conditions-force-1-in-3-crypto-traders-to-cut-everyday-spending-survey",
       "localUrl": "/news/20260426-market-conditions-force-1-in-3-crypto-traders-to-cut-everyday-spending-survey.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Only 3% of traders drive prediction markets' accuracy, not the crowd, study finds",
-      "summary": "Researchers show market accuracy comes from a tiny group of informed traders, not broad participation.",
-      "url": "https://www.coindesk.com/markets/2026/04/26/only-3-of-traders-drive-prediction-markets-accuracy-not-the-crowd-study-finds",
-      "publishedAt": "2026-04-26T13:47:50.000Z",
-      "keywords": [
-        "Markets",
-        "Prediction Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260426-only-3-of-traders-drive-prediction-markets-accuracy-not-the-crowd-study-finds",
-      "localUrl": "/news/20260426-only-3-of-traders-drive-prediction-markets-accuracy-not-the-crowd-study-finds.html"
     },
     {
       "source": "Decrypt",
@@ -825,17 +963,6 @@
       "localUrl": "/news/20260426-trumps-official-memecoin-extends-slide-as-he-hosts-exclusive-investor-gala.html"
     },
     {
-      "source": "X Wire",
-      "title": "THE ETHEREUM FOUNDATION IS UNSTAKING ETH The Ethereum Foundation is unstaking $48.9M ETH. They just deposited WSTETH to the Lido unstETH contract and will receive unstaked ETH once the unlocking process is completed. Are they going to s - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MTHNxTE5URE00UVNJbEF5M3BtTHUxeGUxV0pHTnVhVENDRy1wYVkwbmh1ZU9RMkJaeGZTSUJqZF9ldVB1UmxiU21iWHF5eng1Wm1sV3NmaFo5M2M?oc=5\" target=\"_blank\">THE ETHEREUM FOUNDATION IS UNSTAKING ETH Th…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MTHNxTE5URE00UVNJbEF5M3BtTHUxeGUxV0pHTnVhVENDRy1wYVkwbmh1ZU9RMkJaeGZTSUJqZF9ldVB1UmxiU21iWHF5eng1Wm1sV3NmaFo5M2M?oc=5",
-      "publishedAt": "2026-04-26T06:21:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260426-the-ethereum-foundation-is-unstaking-eth-the-ethereum-foundation-is-unstaking-48",
-      "localUrl": "/news/20260426-the-ethereum-foundation-is-unstaking-eth-the-ethereum-foundation-is-unstaking-48.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "US DOJ sentences man to 70 months in prison for role in $263M scam group",
       "summary": "The group spent tens of millions of dollars on luxury items and real estate, using funds stolen from crypto users in social engineering scams.",
@@ -847,19 +974,6 @@
       "category": "综合",
       "slug": "20260425-us-doj-sentences-man-to-70-months-in-prison-for-role-in-263m-scam-group",
       "localUrl": "/news/20260425-us-doj-sentences-man-to-70-months-in-prison-for-role-in-263m-scam-group.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoiners cast doubt on the US military's understanding of the network",
-      "summary": "Bitcoin advocate Matthew Kratter said US Navy Admiral Samuel Paparo's Senate testimony on Tuesday sounded like it was written by an \"intern.\"",
-      "url": "https://cointelegraph.com/news/bitcoiners-cast-doubt-us-military-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-25T19:36:29.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260425-bitcoiners-cast-doubt-on-the-us-militarys-understanding-of-the-network",
-      "localUrl": "/news/20260425-bitcoiners-cast-doubt-on-the-us-militarys-understanding-of-the-network.html"
     },
     {
       "source": "Decrypt",
@@ -886,56 +1000,6 @@
       "category": "监管",
       "slug": "20260425-bitcoin-hit-its-highest-price-since-januarywhy-vaneck-analysts-see-more-potentia",
       "localUrl": "/news/20260425-bitcoin-hit-its-highest-price-since-januarywhy-vaneck-analysts-see-more-potentia.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "@rhackett and @jeremyzhang01 Stablecoins spent years in search of a story.At first they were a trading tool, a way to move dollars across exchanges. Then they became a savings vehicle, something to hold rather than spend. Now the data is pointing somew - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBORi1tWEhqOXNoYnlacVRFZHEzZzBUMEpkeHpzN244bERNUlFpcVdOcjJFUmJyY2tDSFViUTFXc3RDalFfR3ZpMXFEOTFzdlJrV3hLMzNpUko0bzlTa2Rxeg?oc=5\" target=\"_blank\">@rhackett and @jeremyzhang01 Stablec…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBORi1tWEhqOXNoYnlacVRFZHEzZzBUMEpkeHpzN244bERNUlFpcVdOcjJFUmJyY2tDSFViUTFXc3RDalFfR3ZpMXFEOTFzdlJrV3hLMzNpUko0bzlTa2Rxeg?oc=5",
-      "publishedAt": "2026-04-25T16:05:12.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260425-rhackett-and-jeremyzhang01-stablecoins-spent-years-in-search-of-a-storyat-first-",
-      "localUrl": "/news/20260425-rhackett-and-jeremyzhang01-stablecoins-spent-years-in-search-of-a-storyat-first-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "CFTC sues New York over bid to apply gambling laws to prediction markets",
-      "summary": "The CFTC has filed suit to block New York from enforcing gambling laws on prediction platforms, arguing federal regulators have sole authority over event-based contracts.",
-      "url": "https://cointelegraph.com/news/cftc-sues-new-york-over-bid-to-apply-gambling-laws-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-25T14:03:17.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260425-cftc-sues-new-york-over-bid-to-apply-gambling-laws-to-prediction-markets",
-      "localUrl": "/news/20260425-cftc-sues-new-york-over-bid-to-apply-gambling-laws-to-prediction-markets.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin traders eye $73K next as weekly trend line holds price hostage",
-      "summary": "Bitcoin market participants favored a short-term return to $73,000 as resistance stayed in place, with some analysis seeing even lower levels.",
-      "url": "https://cointelegraph.com/markets/bitcoin-traders-eye-73k-next-weekly-trend-line-holds-price-hostage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-25T12:22:17.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260425-bitcoin-traders-eye-73k-next-as-weekly-trend-line-holds-price-hostage",
-      "localUrl": "/news/20260425-bitcoin-traders-eye-73k-next-as-weekly-trend-line-holds-price-hostage.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Kalshi, Polymarket among 27 prediction platforms banned in Brazil",
-      "summary": "Brazil has blocked 27 prediction market platforms, including Kalshi and Polymarket, as new rules classify many contracts as gambling.",
-      "url": "https://cointelegraph.com/news/kalshi-polymarket-among-27-prediction-platforms-banned-in-brazil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-25T10:51:27.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260425-kalshi-polymarket-among-27-prediction-platforms-banned-in-brazil",
-      "localUrl": "/news/20260425-kalshi-polymarket-among-27-prediction-platforms-banned-in-brazil.html"
     },
     {
       "source": "Decrypt",
@@ -1052,58 +1116,6 @@
       "category": "监管",
       "slug": "20260424-eus-20th-russia-sanctions-package-signals-a-new-era-of-crypto-specific-enforceme",
       "localUrl": "/news/20260424-eus-20th-russia-sanctions-package-signals-a-new-era-of-crypto-specific-enforceme.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Justice Department Ends Probe of Fed Chair Powell, Clearing Path for Warsh Confirmation",
-      "summary": "The Justice Department closed the Jerome Powell probe, removing a barrier to Senate action on Kevin Warsh's Federal Reserve nomination.",
-      "url": "https://decrypt.co/365481/justice-department-ends-probe-fed-chair-powell-clearing-path-warsh",
-      "publishedAt": "2026-04-24T18:11:36.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260424-justice-department-ends-probe-of-fed-chair-powell-clearing-path-for-warsh-confir",
-      "localUrl": "/news/20260424-justice-department-ends-probe-of-fed-chair-powell-clearing-path-for-warsh-confir.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "DeepSeek V4 Is Here—Its Pro Version Costs 98% Less Than GPT 5.5 Pro",
-      "summary": "The Chinese lab that shook Wall Street just dropped its biggest, most efficient model yet, hours after OpenAI launched GPT-5.5.",
-      "url": "https://decrypt.co/365455/deepseek-v4-launch-pro-version-costs-less-gpt-5-pro",
-      "publishedAt": "2026-04-24T17:34:58.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260424-deepseek-v4-is-hereits-pro-version-costs-98-less-than-gpt-55-pro",
-      "localUrl": "/news/20260424-deepseek-v4-is-hereits-pro-version-costs-98-less-than-gpt-55-pro.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Amazon Web Services Marketplace Adds Chainlink Crypto Oracle Services",
-      "summary": "Amazon’s Chainlink integration lets enterprises connect cloud infrastructure with blockchain networks through familiar AWS tools.",
-      "url": "https://decrypt.co/365476/amazon-web-services-marketplace-chainlink-crypto-oracle-services",
-      "publishedAt": "2026-04-24T17:24:40.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "市场",
-      "slug": "20260424-amazon-web-services-marketplace-adds-chainlink-crypto-oracle-services",
-      "localUrl": "/news/20260424-amazon-web-services-marketplace-adds-chainlink-crypto-oracle-services.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "US Soldier Was Blocked on Kalshi Before Taking Maduro Bets to Polymarket",
-      "summary": "A U.S. soldier charged with using classified military intelligence to bet on Polymarket failed to pass Kalshi's KYC procedures.",
-      "url": "https://decrypt.co/365454/us-soldier-blocked-kalshi-before-taking-maduro-bets-polymarket",
-      "publishedAt": "2026-04-24T17:01:19.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260424-us-soldier-was-blocked-on-kalshi-before-taking-maduro-bets-to-polymarket",
-      "localUrl": "/news/20260424-us-soldier-was-blocked-on-kalshi-before-taking-maduro-bets-to-polymarket.html"
     },
     {
       "source": "Solana Blog",
