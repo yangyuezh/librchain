@@ -1,7 +1,117 @@
 {
-  "updatedAt": "2026-04-27T16:52:26.440Z",
+  "updatedAt": "2026-04-27T18:17:25.681Z",
   "total": 85,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Malicious Web Pages Are Hijacking AI Agents, And Some Are Going After Your PayPal",
+      "summary": "Google's security team scanned billions of web pages and found real payloads designed to trick AI agents into sending money, deleting files, and leaking credentials.",
+      "url": "https://decrypt.co/365677/google-prompt-injection-ai-agents-paypal-enterprise",
+      "publishedAt": "2026-04-27T18:12:13.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260427-malicious-web-pages-are-hijacking-ai-agents-and-some-are-going-after-your-paypal",
+      "localUrl": "/news/20260427-malicious-web-pages-are-hijacking-ai-agents-and-some-are-going-after-your-paypal.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "MARA Holdings targets bitcoin quantum threat and network resilience with new foundation",
+      "summary": "Bitcoin's future is not guaranteed, said CEO Fred Thiel at the Bitcoin Conference in Las Vegas.",
+      "url": "https://www.coindesk.com/markets/2026/04/27/mara-holdings-targets-bitcoin-quantum-threat-and-network-resilience-with-new-foundation",
+      "publishedAt": "2026-04-27T17:49:27.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Artificial Intelligence",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260427-mara-holdings-targets-bitcoin-quantum-threat-and-network-resilience-with-new-fou",
+      "localUrl": "/news/20260427-mara-holdings-targets-bitcoin-quantum-threat-and-network-resilience-with-new-fou.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Google Employees Demand CEO Block Military AI Contracts in Open Letter",
+      "summary": "Some 580 Google employees have signed the letter to CEO Sundar Pichai, citing ethical concerns over military use of AI.",
+      "url": "https://decrypt.co/365674/google-employees-demand-ceo-block-military-ai-contracts-in-open-letter",
+      "publishedAt": "2026-04-27T17:44:42.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260427-google-employees-demand-ceo-block-military-ai-contracts-in-open-letter",
+      "localUrl": "/news/20260427-google-employees-demand-ceo-block-military-ai-contracts-in-open-letter.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Publicly Traded Strive Buys $60 Million in Bitcoin, Plans BTC Business Summit",
+      "summary": "Strive Inc. purchased 789 more Bitcoin while its subsidiary prepares to educate business leaders on corporate crypto adoption.",
+      "url": "https://decrypt.co/365672/publicly-traded-strive-buys-60-million-bitcoin-business-summit",
+      "publishedAt": "2026-04-27T17:37:43.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "市场",
+      "slug": "20260427-publicly-traded-strive-buys-60-million-in-bitcoin-plans-btc-business-summit",
+      "localUrl": "/news/20260427-publicly-traded-strive-buys-60-million-in-bitcoin-plans-btc-business-summit.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin pulls back to $76,600 as rising oil price and Iran risks stall the rally",
+      "summary": "Short-term holder profit-taking is offsetting fresh demand from ETFs and Strategy, pointing to consolidation below $80,000, Bitfinex analysts said.",
+      "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-to-usd76-600-as-rising-oil-price-and-iran-risks-stall-the-rally",
+      "publishedAt": "2026-04-27T17:17:25.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Market Wrap",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260427-bitcoin-pulls-back-to-76600-as-rising-oil-price-and-iran-risks-stall-the-rally",
+      "localUrl": "/news/20260427-bitcoin-pulls-back-to-76600-as-rising-oil-price-and-iran-risks-stall-the-rally.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Walks Back Prediction Market Criticism, Says 'Smart People' He Knows Like Them",
+      "summary": "Trump said last week he didn’t like prediction markets, but then changed his tune, arguing the U.S. should not get left behind in the space.",
+      "url": "https://decrypt.co/365657/trump-prediction-markets-smart-people-like-them",
+      "publishedAt": "2026-04-27T17:15:53.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260427-trump-walks-back-prediction-market-criticism-says-smart-people-he-knows-like-the",
+      "localUrl": "/news/20260427-trump-walks-back-prediction-market-criticism-says-smart-people-he-knows-like-the.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bernstein sees IREN pivoting from Bitcoin mining to $3.7B AI cloud business",
+      "summary": "As Bitcoin miner IREN shifts toward AI cloud infrastructure, leveraging a Microsoft deal and GPU expansion, analysts expect mining revenue to decline over time.",
+      "url": "https://cointelegraph.com/news/bernstein-sees-iren-pivoting-from-bitcoin-mining-to-37b-ai-cloud-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-27T17:15:28.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260427-bernstein-sees-iren-pivoting-from-bitcoin-mining-to-37b-ai-cloud-business",
+      "localUrl": "/news/20260427-bernstein-sees-iren-pivoting-from-bitcoin-mining-to-37b-ai-cloud-business.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Exchange Gemini Launches Agentic Trading Feature for AI Agents",
+      "summary": "Gemini has integrated AI models like Claude and ChatGPT to execute automated trading strategies via an open protocol.",
+      "url": "https://decrypt.co/365661/crypto-exchange-gemini-agentic-trading-feature-ai-agents",
+      "publishedAt": "2026-04-27T16:56:47.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "基础设施",
+      "slug": "20260427-crypto-exchange-gemini-launches-agentic-trading-feature-for-ai-agents",
+      "localUrl": "/news/20260427-crypto-exchange-gemini-launches-agentic-trading-feature-for-ai-agents.html"
+    },
     {
       "source": "Decrypt",
       "title": "Litecoin Rewrites Transaction History After Exploit, Apologizes for Social Posts",
@@ -130,6 +240,17 @@
       "category": "监管",
       "slug": "20260427-china-blocks-metas-2-billion-acquisition-of-ai-startup-manus",
       "localUrl": "/news/20260427-china-blocks-metas-2-billion-acquisition-of-ai-startup-manus.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Gemini rolls out Agentic Trading allowing AI bots to directly manage crypto exchange trading accounts - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RTjFhRGEtYk40S2xCVjlsMTY4cUpGVzZDRTRpb2hPZFJndko2SzlFODNCYk1MTERXSlpFakFRaE4ySVdjMFVoVUZZb2pOZjlyQ0YxQ25WR1RmM2k5cHdzaQ?oc=5\" target=\"_blank\">Gemini rolls out Agentic Trading all…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RTjFhRGEtYk40S2xCVjlsMTY4cUpGVzZDRTRpb2hPZFJndko2SzlFODNCYk1MTERXSlpFakFRaE4ySVdjMFVoVUZZb2pOZjlyQ0YxQ25WR1RmM2k5cHdzaQ?oc=5",
+      "publishedAt": "2026-04-27T15:15:21.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260427-gemini-rolls-out-agentic-trading-allowing-ai-bots-to-directly-manage-crypto-exch",
+      "localUrl": "/news/20260427-gemini-rolls-out-agentic-trading-allowing-ai-bots-to-directly-manage-crypto-exch.html"
     },
     {
       "source": "CoinDesk",
@@ -454,17 +575,6 @@
       "localUrl": "/news/20260427-strategy-has-acquired-3273-btc-for-2550-million-at-77906-per-bitcoin-and-has-ach.html"
     },
     {
-      "source": "X Wire",
-      "title": "$MSTR - STRATEGY BUYS 3,273 BITCOIN FOR AGGREGATE PURCHASE PRICE $255.0M STRATEGY BUYS 3,273 BITCOIN FOR AVG. PURCHASE PRICE $77,906 APRIL 20 TO APRIL 26 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TaHEtVXZJN2YzNzBjaG1CTmlaVTgxeUgzWHlIN3gwb2VzQ29fQ3UyRUlYZ052dHItbGVRREdlbkpZTWFWMzU2T0tZZHdnYThoaXd1VTJfazNsdHd4SVE?oc=5\" target=\"_blank\">$MSTR - STRATEGY BUYS 3,273 BITCOIN FOR…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TaHEtVXZJN2YzNzBjaG1CTmlaVTgxeUgzWHlIN3gwb2VzQ29fQ3UyRUlYZ052dHItbGVRREdlbkpZTWFWMzU2T0tZZHdnYThoaXd1VTJfazNsdHd4SVE?oc=5",
-      "publishedAt": "2026-04-27T12:01:20.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260427-mstr-strategy-buys-3273-bitcoin-for-aggregate-purchase-price-2550m-strategy-buys",
-      "localUrl": "/news/20260427-mstr-strategy-buys-3273-bitcoin-for-aggregate-purchase-price-2550m-strategy-buys.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "ETH price up 10% in April, so why is Ethereum Foundation selling?",
       "summary": "ETH's price may drop 15% or more in the coming days as it paints a convincing bearish reversal pattern on its daily chart.",
@@ -562,6 +672,19 @@
     },
     {
       "source": "Cointelegraph",
+      "title": "Tether launches open-source mining framework to unify Bitcoin infrastructure",
+      "summary": "The framework targets fragmented mining systems, offering a unified, open alternative for managing infrastructure across operations.",
+      "url": "https://cointelegraph.com/news/tether-launches-open-source-mining-framework-to-unify-bitcoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-27T11:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260427-tether-launches-open-source-mining-framework-to-unify-bitcoin-infrastructure",
+      "localUrl": "/news/20260427-tether-launches-open-source-mining-framework-to-unify-bitcoin-infrastructure.html"
+    },
+    {
+      "source": "Cointelegraph",
       "title": "Bitcoin leads $1.2B weekly inflows into crypto investment products",
       "summary": "Crypto ETPs see $1.2 billion inflows in fourth straight week as Bitcoin leads gains and blockchain equity ETFs hit record demand, CoinShares reported.",
       "url": "https://cointelegraph.com/news/crypto-funds-1-2-billion-inflows-four-week-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -604,6 +727,17 @@
       "category": "市场",
       "slug": "20260427-bitcoin-reverses-from-79500-as-oil-surge-triggers-broader-crypto-selloff",
       "localUrl": "/news/20260427-bitcoin-reverses-from-79500-as-oil-surge-triggers-broader-crypto-selloff.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "The Ethereum Foundation has so far sold $33.51M of ETH to Bitmine Their most recent sale was only 2 days ago. The ETH Foundation holds $214.8M ETH. If they continue selling at this rate, they will have no ETH left by 2027. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE53UHMwZ043SWZuRW16WjNyWVhFSG54T195cm9nemVHVUNOanRRaDNrV3J4blhxc2ZNeGFfYVJGTzZpSUpSN0t1V0I4VWZyWFNIVWxxZTJvY1d2MlE?oc=5\" target=\"_blank\">The Ethereum Foundation has so far sold $33…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53UHMwZ043SWZuRW16WjNyWVhFSG54T195cm9nemVHVUNOanRRaDNrV3J4blhxc2ZNeGFfYVJGTzZpSUpSN0t1V0I4VWZyWFNIVWxxZTJvY1d2MlE?oc=5",
+      "publishedAt": "2026-04-27T10:34:23.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260427-the-ethereum-foundation-has-so-far-sold-3351m-of-eth-to-bitmine-their-most-recen",
+      "localUrl": "/news/20260427-the-ethereum-foundation-has-so-far-sold-3351m-of-eth-to-bitmine-their-most-recen.html"
     },
     {
       "source": "Decrypt",
@@ -671,32 +805,6 @@
       "localUrl": "/news/20260427-prediction-markets-reflect-wisdom-of-an-informed-minority-not-crowd-study.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "A long-time developer wants to split Bitcoin blockchain and reassign Satoshi coins. The community is calling it a theft",
-      "summary": "Paul Sztorc proposes a 2026 hard fork of Bitcoin called eCash, giving BTC holders equivalent tokens and adding Drivechains.",
-      "url": "https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft",
-      "publishedAt": "2026-04-27T06:45:51.000Z",
-      "keywords": [
-        "Tech",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260427-a-long-time-developer-wants-to-split-bitcoin-blockchain-and-reassign-satoshi-coi",
-      "localUrl": "/news/20260427-a-long-time-developer-wants-to-split-bitcoin-blockchain-and-reassign-satoshi-coi.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Ethereum Price 26th April 2021: $2,328.2 27th April 2026: $2,328.2 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DUlc1WVFNZG1vS3NDV0laSjQ2NFVOa0hiWXl5TmFtb2JXSmdZamR5aW5nVFNTd1hYSWRMdDl0RkpEaFg3b01GR0JmWVRlcXJhY1A4TW51bnpaRTQ?oc=5\" target=\"_blank\">Ethereum Price 26th April 2021: $2,328.2 27…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DUlc1WVFNZG1vS3NDV0laSjQ2NFVOa0hiWXl5TmFtb2JXSmdZamR5aW5nVFNTd1hYSWRMdDl0RkpEaFg3b01GR0JmWVRlcXJhY1A4TW51bnpaRTQ?oc=5",
-      "publishedAt": "2026-04-27T06:44:23.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260427-ethereum-price-26th-april-2021-23282-27th-april-2026-23282-xcom",
-      "localUrl": "/news/20260427-ethereum-price-26th-april-2021-23282-27th-april-2026-23282-xcom.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨 NOW: Over $71M in crypto positions were liquidated in just 60 minutes, with $69.17M in longs wiped out as BTC fell back below $77K. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE56elBtMlB6eFQwMVZHUFpCWUJSMGlVTkQ0SFB4TXVESU93aGhWZWg2c2I2dENmbjd3LUFqRDZkRjJzUHBnbUg5U2ZCbS1yVTdOSXZpRlN1SUNraEt2T0FnMlFVZ1Y?oc=5\" target=\"_blank\">🚨 NOW: Over $71M in crypto pos…",
@@ -706,21 +814,6 @@
       "category": "X热点",
       "slug": "20260427-now-over-71m-in-crypto-positions-were-liquidated-in-just-60-minutes-with-6917m-i",
       "localUrl": "/news/20260427-now-over-71m-in-crypto-positions-were-liquidated-in-just-60-minutes-with-6917m-i.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Pudgy Penguins, BAYC rally masks a shrinking NFT market as volumes and users fall",
-      "summary": "The two blue-chip collections are leading double-digit gains as global NFT sales volume falls and participation hits multi-year lows.",
-      "url": "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-bayc-rally-masks-a-shrinking-nft-market-as-volumes-and-users-fall",
-      "publishedAt": "2026-04-27T06:12:44.000Z",
-      "keywords": [
-        "Markets",
-        "PudgyPenguins_032026",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260427-pudgy-penguins-bayc-rally-masks-a-shrinking-nft-market-as-volumes-and-users-fall",
-      "localUrl": "/news/20260427-pudgy-penguins-bayc-rally-masks-a-shrinking-nft-market-as-volumes-and-users-fall.html"
     },
     {
       "source": "X Wire",
@@ -868,14 +961,14 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 There’s now less than 24 hours until the world’s largest Bitcoin conference in Las Vegas! 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nZ0w1b05HbUc5SUdob0R3RVFxZVZuVm5DZ3JucjFVSURtVkpkQWl4WGN0UzRfa3djdmFFUVR5SkstaFRYU21veDBrSi1nZzhRaFNkLVg4TUVaUWpRSExtYXBXUkw4c1U?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 There’s now l…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nZ0w1b05HbUc5SUdob0R3RVFxZVZuVm5DZ3JucjFVSURtVkpkQWl4WGN0UzRfa3djdmFFUVR5SkstaFRYU21veDBrSi1nZzhRaFNkLVg4TUVaUWpRSExtYXBXUkw4c1U?oc=5",
-      "publishedAt": "2026-04-26T16:06:01.000Z",
+      "title": "Less Than 10% of World Owns Crypto, Fueling Early Adopter Optimism - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fcDNCWXhhQm1MdG4tVnBLSXZKbzJtU2xHekhoRGRXcTZXeUhobDZUamdDSTJEa082cTg0Qmp1bUV6cEFybnNfaEZpX3QxVjJmSldEM1NIaw?oc=5\" target=\"_blank\">Less Than 10% of World Owns Crypto, Fueling Earl…",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fcDNCWXhhQm1MdG4tVnBLSXZKbzJtU2xHekhoRGRXcTZXeUhobDZUamdDSTJEa082cTg0Qmp1bUV6cEFybnNfaEZpX3QxVjJmSldEM1NIaw?oc=5",
+      "publishedAt": "2026-04-26T15:49:28.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260426-just-in-theres-now-less-than-24-hours-until-the-worlds-largest-bitcoin-conferenc",
-      "localUrl": "/news/20260426-just-in-theres-now-less-than-24-hours-until-the-worlds-largest-bitcoin-conferenc.html"
+      "slug": "20260426-less-than-10-of-world-owns-crypto-fueling-early-adopter-optimism-xcom",
+      "localUrl": "/news/20260426-less-than-10-of-world-owns-crypto-fueling-early-adopter-optimism-xcom.html"
     },
     {
       "source": "X Wire",
@@ -950,32 +1043,6 @@
       "localUrl": "/news/20260426-ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Trump’s official memecoin extends slide as he hosts exclusive investor gala",
-      "summary": "TRUMP memecoin fell nearly 10% in 24 hours despite a Mar-a-Lago investor gala, with the token still down over 96% from its peak.",
-      "url": "https://cointelegraph.com/news/trump-s-official-memecoin-extends-slide-even-as-he-hosts-exclusive-investor-gala?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-26T08:58:23.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260426-trumps-official-memecoin-extends-slide-as-he-hosts-exclusive-investor-gala",
-      "localUrl": "/news/20260426-trumps-official-memecoin-extends-slide-as-he-hosts-exclusive-investor-gala.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US DOJ sentences man to 70 months in prison for role in $263M scam group",
-      "summary": "The group spent tens of millions of dollars on luxury items and real estate, using funds stolen from crypto users in social engineering scams.",
-      "url": "https://cointelegraph.com/news/doj-sentence-70-months-263m-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-25T22:05:44.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260425-us-doj-sentences-man-to-70-months-in-prison-for-role-in-263m-scam-group",
-      "localUrl": "/news/20260425-us-doj-sentences-man-to-70-months-in-prison-for-role-in-263m-scam-group.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Elon Musk’s Grok Most Likely Among Top AI Models to Reinforce Delusions: Study",
       "summary": "Researchers found that xAI's Grok was the riskiest AI model tested, often validating delusions and offering dangerous advice.",
@@ -1002,45 +1069,6 @@
       "localUrl": "/news/20260425-bitcoin-hit-its-highest-price-since-januarywhy-vaneck-analysts-see-more-potentia.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Brazil Issues Sweeping Ban Against Prediction Market Platforms",
-      "summary": "Brazil’s Finance Ministry cited investor protection concerns and rising gambling addiction as it blocked platforms like Polymarket and Kalshi.",
-      "url": "https://decrypt.co/365509/brazil-sweeping-ban-against-prediction-market-platforms",
-      "publishedAt": "2026-04-24T21:19:05.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260424-brazil-issues-sweeping-ban-against-prediction-market-platforms",
-      "localUrl": "/news/20260424-brazil-issues-sweeping-ban-against-prediction-market-platforms.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Tennessee Becomes Second State to Outlaw Bitcoin, Crypto ATMs",
-      "summary": "Tennessee has become the second U.S. state to outlaw Bitcoin and crypto ATMs, making it a criminal offense to own or operate the machines.",
-      "url": "https://decrypt.co/365502/tennessee-second-state-outlaw-bitcoin-crypto-atms",
-      "publishedAt": "2026-04-24T20:41:13.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260424-tennessee-becomes-second-state-to-outlaw-bitcoin-crypto-atms",
-      "localUrl": "/news/20260424-tennessee-becomes-second-state-to-outlaw-bitcoin-crypto-atms.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Trump DOJ Backs Elon Musk's xAI in Fight Over Colorado AI Bias Law",
-      "summary": "The Justice Department moved to intervene in xAI’s lawsuit challenging Colorado’s algorithmic discrimination law.",
-      "url": "https://decrypt.co/365504/trump-doj-backs-elon-musk-xai-colorado-ai-bias-law",
-      "publishedAt": "2026-04-24T20:30:05.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260424-trump-doj-backs-elon-musks-xai-in-fight-over-colorado-ai-bias-law",
-      "localUrl": "/news/20260424-trump-doj-backs-elon-musks-xai-in-fight-over-colorado-ai-bias-law.html"
-    },
-    {
       "source": "X Wire",
       "title": "🇫🇷 A French tax official was arrested for selling crypto investors' home addresses and financial records to criminal networks. 41 kidnappings followed. One every 2.5 days since January 2026. The criminals didn't need to hack anything. They bought a list from s - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEbTkzR3c0QVFaVDEwd09HMkNla1NPRkhnd041SmRtb3ZkQndDUkpHRlRiYXpFSW5LTHVtV1h6ZU1EMHZtRHVUZUhybTVuWHdSZzZKaFRNVFBlY3B3enRONHp3?oc=5\" target=\"_blank\">🇫🇷 A French tax official was arr…",
@@ -1050,19 +1078,6 @@
       "category": "X热点",
       "slug": "20260424-a-french-tax-official-was-arrested-for-selling-crypto-investors-home-addresses-a",
       "localUrl": "/news/20260424-a-french-tax-official-was-arrested-for-selling-crypto-investors-home-addresses-a.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "South Korea Arrests Man for a Fake AI Wolf Photo That Raised Alarms",
-      "summary": "A man created an AI-generated image of escaped wolf Neukgu \"for fun.\" It fooled authorities, triggered emergency alerts, and derailed a nine-day search operation.",
-      "url": "https://decrypt.co/365490/south-korea-arrests-man-for-a-fake-ai-wolf-photo-that-raised-alarms",
-      "publishedAt": "2026-04-24T19:58:44.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260424-south-korea-arrests-man-for-a-fake-ai-wolf-photo-that-raised-alarms",
-      "localUrl": "/news/20260424-south-korea-arrests-man-for-a-fake-ai-wolf-photo-that-raised-alarms.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -1083,19 +1098,6 @@
       "category": "监管",
       "slug": "20260424-us-government-unveils-sweeping-enforcement-actions-against-southeast-asian-scam-",
       "localUrl": "/news/20260424-us-government-unveils-sweeping-enforcement-actions-against-southeast-asian-scam-.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Anthropic Rolls Out Election Safeguards for Claude AI Ahead of US Midterms",
-      "summary": "Claude maker Anthropic reported that its latest AI models scored 95-96% on political neutrality tests ahead of the 2026 midterms.",
-      "url": "https://decrypt.co/365486/anthropic-election-safeguards-claude-ai-us-midterms",
-      "publishedAt": "2026-04-24T18:58:18.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260424-anthropic-rolls-out-election-safeguards-for-claude-ai-ahead-of-us-midterms",
-      "localUrl": "/news/20260424-anthropic-rolls-out-election-safeguards-for-claude-ai-ahead-of-us-midterms.html"
     },
     {
       "source": "Chainalysis Blog",
