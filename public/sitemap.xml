@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-26T23:53:48.031Z</lastmod>
+    <lastmod>2026-04-27T03:57:00.075Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-26T23:53:48.031Z</lastmod>
+    <lastmod>2026-04-27T03:57:00.075Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260427-plenty-of-crypto-newbies-lost-money-chasing-the-bitcoin-boom-that-followed-donal.html</loc>
+    <lastmod>2026-04-27T03:00:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260426-historical-average-could-push-bitcoin-bottom-at-57k-level-analyst.html</loc>
@@ -49,6 +55,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260426-just-in-theres-now-less-than-24-hours-until-the-worlds-largest-bitcoin-conferenc.html</loc>
+    <lastmod>2026-04-26T16:06:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260426-why-defi-isnt-dead-despite-massive-exploits-and-13-billion-investor-exodus.html</loc>
     <lastmod>2026-04-26T16:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -63,6 +75,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260426-nobody-is-using-bitcoin-xcom.html</loc>
     <lastmod>2026-04-26T14:46:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260426-just-in-michael-saylor-hints-at-strategy-buying-more-bitcoin-xcom.html</loc>
+    <lastmod>2026-04-26T14:39:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -127,12 +145,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260426-vitaliks-ethereum-foundation-unstakes-489m-eth-selling-next-the-ethereum-foundat.html</loc>
-    <lastmod>2026-04-26T12:10:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260426-coinbases-john-dagostino-says-crypto-platform-stands-alone-as-industrys-full-ser.html</loc>
     <lastmod>2026-04-26T12:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -147,6 +159,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260426-just-in-bitcoin-is-about-to-close-its-4th-consecutive-green-weekly-candle-up-564.html</loc>
     <lastmod>2026-04-26T11:10:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260426-crypto-influencer-says-green-candles-trump-narratives-in-memecoin-trading-xcom.html</loc>
+    <lastmod>2026-04-26T10:31:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -181,6 +199,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260426-president-trump-banks-wont-derail-clarity-act-at-a-mar-a-lago-gathering-presiden.html</loc>
+    <lastmod>2026-04-26T03:55:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260426-trump-crypto-is-a-big-industry-that-has-actually-become-mainstream-xcom.html</loc>
     <lastmod>2026-04-26T03:30:24.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -201,12 +225,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260425-bitcoiners-cast-doubt-on-the-us-militarys-understanding-of-the-network.html</loc>
     <lastmod>2026-04-25T19:36:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260425-just-in-president-trump-says-crypto-is-a-big-industry-that-has-become-mainstream.html</loc>
-    <lastmod>2026-04-25T19:28:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -333,12 +351,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260425-hyperliquid-whale-holds-38m-short-against-bitcoin-but-does-it-matter.html</loc>
     <lastmod>2026-04-25T02:35:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260424-monthly-transfer-volume-in-brla-a-brazilian-real-backed-stablecoin-has-grown-fro.html</loc>
-    <lastmod>2026-04-24T23:40:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,20 +487,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260424-0-today-the-ethereum-foundation-finalized-the-terms-of-a-10000-eth-sale-at-an-av.html</loc>
-    <lastmod>2026-04-24T14:32:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260424-meta-agrees-to-deploy-millions-of-amazon-ai-chips-in-deal-worth-billions.html</loc>
     <lastmod>2026-04-24T13:39:46.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260424-kazakhstan-is-bringing-crypto-into-everyday-transactions-binance-kazakhstan-and-.html</loc>
-    <lastmod>2026-04-24T11:57:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
