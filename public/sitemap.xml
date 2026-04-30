@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-30T22:07:15.985Z</lastmod>
+    <lastmod>2026-04-30T23:09:31.181Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-30T22:07:15.985Z</lastmod>
+    <lastmod>2026-04-30T23:09:31.181Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260430-us-senators-wont-be-weighing-in-on-prediction-markets-bets-after-banning-themsel.html</loc>
+    <lastmod>2026-04-30T22:13:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260430-mistral-ai-drops-new-open-source-model-the-internet-is-not-impressed-except-for-.html</loc>
@@ -349,20 +355,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260430-dogecoin-zooms-10-breaking-away-from-bitcoin-as-open-interest-hits-a-yearly-peak.html</loc>
-    <lastmod>2026-04-30T07:50:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260430-ripple-is-opening-its-new-middle-east-and-africa-regional-hq-in-the-difc-onrippl.html</loc>
     <lastmod>2026-04-30T06:00:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260430-the-most-snoozed-ie-muted-topics-since-launching-the-snooze-feature-1-crypto-2-p.html</loc>
-    <lastmod>2026-04-30T04:16:29.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -465,6 +459,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260429-latest-trump-backed-world-liberty-financial-partnered-with-a-crypto-project-link.html</loc>
     <lastmod>2026-04-29T03:01:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260429-canadian-government-plans-to-ban-crypto-atms-to-combat-scams-according-to-cbc-ca.html</loc>
+    <lastmod>2026-04-29T02:21:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
