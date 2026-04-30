@@ -1,7 +1,101 @@
 {
-  "updatedAt": "2026-04-30T16:44:14.614Z",
+  "updatedAt": "2026-04-30T18:22:32.328Z",
   "total": 85,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Finally Explains Why ChatGPT Wouldn't Stop Talking About Goblins",
+      "summary": "Why did OpenAI have to write \"never mention goblins\" into its production code on ChatGPT? The company has published a post-mortem.",
+      "url": "https://decrypt.co/366197/openai-explains-chatgpt-mention-goblins",
+      "publishedAt": "2026-04-30T18:16:37.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260430-openai-finally-explains-why-chatgpt-wouldnt-stop-talking-about-goblins",
+      "localUrl": "/news/20260430-openai-finally-explains-why-chatgpt-wouldnt-stop-talking-about-goblins.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Sentora brings institutional DeFi to the public with the launch of its Smart Yield platform",
+      "summary": "Sentora has announced that Sentora Smart Yield is now publicly available, opening access to its DeFi vault discovery and monitoring platform to all users.",
+      "url": "https://cointelegraph.com/press-releases/sentora-brings-institutional-defi-to-the-public-with-the-launch-of-its-smart-yield-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-30T17:34:21.000Z",
+      "keywords": [
+        "Press Releases"
+      ],
+      "category": "DeFi",
+      "slug": "20260430-sentora-brings-institutional-defi-to-the-public-with-the-launch-of-its-smart-yie",
+      "localUrl": "/news/20260430-sentora-brings-institutional-defi-to-the-public-with-the-launch-of-its-smart-yie.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Insider trading backlash forces Polymarket to step up surveillance",
+      "summary": "Polymarket has selected Chainalysis to flag suspicious trades as insider betting concerns mount and regulators tighten scrutiny on prediction markets.",
+      "url": "https://cointelegraph.com/news/polymarket-chainalysis-insider-betting-detection-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-30T17:33:07.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260430-insider-trading-backlash-forces-polymarket-to-step-up-surveillance",
+      "localUrl": "/news/20260430-insider-trading-backlash-forces-polymarket-to-step-up-surveillance.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Agentic Memory: Walrus Takes On AI's Next Big Bottleneck",
+      "summary": "Long-term memory limits what AI agents can do. Walrus is going after it with MemWal plus new OpenClaw and NemoClaw integrations.",
+      "url": "https://decrypt.co/365834/agentic-memory-walrus-takes-on-ais-next-big-bottleneck",
+      "publishedAt": "2026-04-30T17:31:07.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260430-agentic-memory-walrus-takes-on-ais-next-big-bottleneck",
+      "localUrl": "/news/20260430-agentic-memory-walrus-takes-on-ais-next-big-bottleneck.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Is the Most Muted Topic on Elon Musk’s X, Ahead of Politics: Product Head",
+      "summary": "Internal data shows users mute crypto more than politics and global conflict on X’s For You feed.",
+      "url": "https://decrypt.co/366176/crypto-most-muted-topic-elon-musk-x-product-head",
+      "publishedAt": "2026-04-30T17:21:05.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "综合",
+      "slug": "20260430-crypto-is-the-most-muted-topic-on-elon-musks-x-ahead-of-politics-product-head",
+      "localUrl": "/news/20260430-crypto-is-the-most-muted-topic-on-elon-musks-x-ahead-of-politics-product-head.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Polymarket Launches Market Integrity Tools Following Soldier’s Insider Trading Arrest",
+      "summary": "The team-up between Polymarket and Chainalysis aims to bring institutional-grade compliance monitoring to crypto prediction markets.",
+      "url": "https://decrypt.co/366177/polymarket-launches-market-integrity-tools-following-soldiers-insider-trading-arrest",
+      "publishedAt": "2026-04-30T17:11:02.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260430-polymarket-launches-market-integrity-tools-following-soldiers-insider-trading-ar",
+      "localUrl": "/news/20260430-polymarket-launches-market-integrity-tools-following-soldiers-insider-trading-ar.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Senator Warren questions Commerce Secretary Lutnick on Tether loan to family",
+      "summary": "Senators Elizabeth Warren and Ron Wyden sent letters to Howard Lutnick and Tether CEO Paulo Ardoino asking about a loan Tether reportedly made to Lutnick's family.",
+      "url": "https://www.coindesk.com/policy/2026/04/30/senator-warren-questions-commerce-secretary-lutnick-on-tether-loan-to-family",
+      "publishedAt": "2026-04-30T17:06:21.000Z",
+      "keywords": [
+        "Policy",
+        "Tether",
+        "White House",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260430-senator-warren-questions-commerce-secretary-lutnick-on-tether-loan-to-family",
+      "localUrl": "/news/20260430-senator-warren-questions-commerce-secretary-lutnick-on-tether-loan-to-family.html"
+    },
     {
       "source": "Decrypt",
       "title": "MegaETH Token Launches as Ethereum Layer-2 Network's Novel Rewards System Is Tested",
@@ -14,6 +108,30 @@
       "category": "基础设施",
       "slug": "20260430-megaeth-token-launches-as-ethereum-layer-2-networks-novel-rewards-system-is-test",
       "localUrl": "/news/20260430-megaeth-token-launches-as-ethereum-layer-2-networks-novel-rewards-system-is-test.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Three reasons why $3K ETH price target is back for May",
+      "summary": "Despite Ether’s 8% deviation from 10-week highs above $2,460, data suggests that ETH's price could still rise toward $3,000 as a new month begins.",
+      "url": "https://cointelegraph.com/markets/three-reasons-why-3k-eth-price-target-is-still-in-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-30T16:24:35.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260430-three-reasons-why-3k-eth-price-target-is-back-for-may",
+      "localUrl": "/news/20260430-three-reasons-why-3k-eth-price-target-is-back-for-may.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "we're also hiring for Senior Staff and Staff React Native Engineer roles we strongly believe the next wave of mass retail onboarding in crypto will come from mobile apps, which is why we’re strongly positioning ourselves by building several mobile products if yo - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yV3NpYl82dGt3Rld1eDdhcGZqNDM4YkxHdUJyODAtRzN6RDZuV3F6YWRTX2ZnbENVeUpBT3BHM0NUZENiYjdGNXZTcmxjcVh3OHZUYkhvaXFMaVE?oc=5\" target=\"_blank\">we're also hiring for Senior Staff and Staf…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yV3NpYl82dGt3Rld1eDdhcGZqNDM4YkxHdUJyODAtRzN6RDZuV3F6YWRTX2ZnbENVeUpBT3BHM0NUZENiYjdGNXZTcmxjcVh3OHZUYkhvaXFMaVE?oc=5",
+      "publishedAt": "2026-04-30T16:21:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260430-were-also-hiring-for-senior-staff-and-staff-react-native-engineer-roles-we-stron",
+      "localUrl": "/news/20260430-were-also-hiring-for-senior-staff-and-staff-react-native-engineer-roles-we-stron.html"
     },
     {
       "source": "Cointelegraph",
@@ -536,45 +654,6 @@
       "localUrl": "/news/20260430-wasabi-protocol-drained-of-45-million-in-apparent-admin-key-compromise.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Crypto becomes most muted topic on X, and AI slop may be the culprit",
-      "summary": "Crypto has become the most-muted topic on X since the platform launched its snooze feature, with AI-generated spam and InfoFi posting likely driving users to tune it out.",
-      "url": "https://cointelegraph.com/news/crypto-becomes-most-muted-topic-on-x-and-ai-slop-may-be-the-culprit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-30T10:27:33.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260430-crypto-becomes-most-muted-topic-on-x-and-ai-slop-may-be-the-culprit",
-      "localUrl": "/news/20260430-crypto-becomes-most-muted-topic-on-x-and-ai-slop-may-be-the-culprit.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ethereum to $60K? It's a 'generational play' for ETH bull Tom Lee, says analyst",
-      "summary": "ETH price is retesting a long-term support trend line that previously preceded a 5,200% rally, a fractal setup pointing to a potential move toward $60,000 by 2030.",
-      "url": "https://cointelegraph.com/markets/ethereum-bull-tom-lee-backs-3000-eth-upside-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-30T10:23:43.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "基础设施",
-      "slug": "20260430-ethereum-to-60k-its-a-generational-play-for-eth-bull-tom-lee-says-analyst",
-      "localUrl": "/news/20260430-ethereum-to-60k-its-a-generational-play-for-eth-bull-tom-lee-says-analyst.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin eyes $75K after 'most hawkish' FOMC as oil hits highest since 2022",
-      "summary": "Bitcoin price action remained weak as the US-Iran war delivered a Fed meeting that was the \"most hawkish in years\" and oil neared four-year highs.",
-      "url": "https://cointelegraph.com/markets/bitcoin-eyes-75k-after-most-hawkish-fomc-as-oil-hits-highest-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-30T09:19:28.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260430-bitcoin-eyes-75k-after-most-hawkish-fomc-as-oil-hits-highest-since-2022",
-      "localUrl": "/news/20260430-bitcoin-eyes-75k-after-most-hawkish-fomc-as-oil-hits-highest-since-2022.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "XO Market bets on user-generated prediction markets to rival Polymarket and Kalshi",
       "summary": "Backed by 20VC, Picus Capital and Coinbase Ventures; XO lets users create and profit from their own prediction markets, and plans to rollout a new vault product to democratize market making.",
@@ -638,22 +717,6 @@
       "localUrl": "/news/20260430-trump-backed-world-liberty-financial-races-toward-62-billion-token-unlock-with-n.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Ouch. The U.S. 30-year Treasury yield just hit 5% and bitcoin may pay the price",
-      "summary": "Hawkish dissent within the Federal Reserve, elevated oil prices and rising long-term inflation expectations are pushing bond yields higher.",
-      "url": "https://www.coindesk.com/markets/2026/04/30/ouch-the-u-s-30-year-treasury-yield-just-hit-5-and-bitcoin-may-pay-the-price",
-      "publishedAt": "2026-04-30T06:31:57.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Markets",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260430-ouch-the-us-30-year-treasury-yield-just-hit-5-and-bitcoin-may-pay-the-price",
-      "localUrl": "/news/20260430-ouch-the-us-30-year-treasury-yield-just-hit-5-and-bitcoin-may-pay-the-price.html"
-    },
-    {
       "source": "X Wire",
       "title": "Ripple is opening its new Middle East and Africa regional HQ in the @DIFC: on.ripple.com/4mZjoMP Six years after our first Dubai office, the Middle East is now one of our most significant markets globally and demand for regulated blockchain infrastructure co - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DckNrVlNPR0dPMUo2ZjhFb19hMk4yaHJvRzg5MVFJNmhiLVdPTjR2bUF6aUY0ZFF5Q1BRMm5oUWl5NzdfVGFzT2l5QTB5MUFVTDVtYVNGbUs1WVU?oc=5\" target=\"_blank\">Ripple is opening its new Middle East and A…",
@@ -663,6 +726,17 @@
       "category": "X热点",
       "slug": "20260430-ripple-is-opening-its-new-middle-east-and-africa-regional-hq-in-the-difc-onrippl",
       "localUrl": "/news/20260430-ripple-is-opening-its-new-middle-east-and-africa-regional-hq-in-the-difc-onrippl.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "MASSIVE 🚀 META just launched $USDC stablecoin payouts for creators across facebook, instagram, and whatsapp. With 3.56 billion daily users, Meta is now using Stripe to send instant crypto payments. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GLXVRWjlicEs2ZlpqM3h1M0xwWU9RRVlrQ3Fqb3ppbHNUekkwWFJIblNISVAxUkFsVk9KZnVIRXRTdnIxT2Zmc0dxMkFXNFNtVFFUQ3lWTGFmaWVUOUVCam1R?oc=5\" target=\"_blank\">MASSIVE 🚀 META just launched $USD…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GLXVRWjlicEs2ZlpqM3h1M0xwWU9RRVlrQ3Fqb3ppbHNUekkwWFJIblNISVAxUkFsVk9KZnVIRXRTdnIxT2Zmc0dxMkFXNFNtVFFUQ3lWTGFmaWVUOUVCam1R?oc=5",
+      "publishedAt": "2026-04-30T03:44:03.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260430-massive-meta-just-launched-usdc-stablecoin-payouts-for-creators-across-facebook-",
+      "localUrl": "/news/20260430-massive-meta-just-launched-usdc-stablecoin-payouts-for-creators-across-facebook-.html"
     },
     {
       "source": "X Wire",
@@ -868,59 +942,6 @@
       "localUrl": "/news/20260429-trapped-below-market-mean-bitcoinnative-remains-capped-below-the-true-market-mea.html"
     },
     {
-      "source": "Decrypt",
-      "title": "MoonPay Launches Institutional Division, Acquires Crypto Key Management Firm Sodot",
-      "summary": "Crypto payments processor MoonPay is expanding into institutional services with a veteran regulator at the helm.",
-      "url": "https://decrypt.co/365975/moonpay-launches-institutional-division-sodot-acquisition",
-      "publishedAt": "2026-04-29T15:20:43.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260429-moonpay-launches-institutional-division-acquires-crypto-key-management-firm-sodo",
-      "localUrl": "/news/20260429-moonpay-launches-institutional-division-acquires-crypto-key-management-firm-sodo.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Polymarket Eyes US Return for Crypto Exchange as Lone CFTC Chair Weighs Approval​​​​​​​​​​​​​​​​",
-      "summary": "With four of five CFTC commissioner seats vacant, the decision on whether to lift Polymarket's U.S. ban rests with Chair Michael Selig alone.",
-      "url": "https://decrypt.co/365970/polymarket-eyes-us-return-for-crypto-exchange-as-lone-cftc-chair-weighs-approval",
-      "publishedAt": "2026-04-29T15:01:02.000Z",
-      "keywords": [
-        "polygon",
-        "Business"
-      ],
-      "category": "市场",
-      "slug": "20260429-polymarket-eyes-us-return-for-crypto-exchange-as-lone-cftc-chair-weighs-approval",
-      "localUrl": "/news/20260429-polymarket-eyes-us-return-for-crypto-exchange-as-lone-cftc-chair-weighs-approval.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Visa Adds Base, Polygon, Canton, Arc and Tempo to Stablecoin Settlement Program",
-      "summary": "Payments giant Visa scales its blockchain settlement infrastructure with five new networks as pilot program shows 50% quarterly growth.",
-      "url": "https://decrypt.co/365968/visa-base-polygon-canton-arc-tempo-stablecoin-settlement-program",
-      "publishedAt": "2026-04-29T14:43:32.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "综合",
-      "slug": "20260429-visa-adds-base-polygon-canton-arc-and-tempo-to-stablecoin-settlement-program",
-      "localUrl": "/news/20260429-visa-adds-base-polygon-canton-arc-and-tempo-to-stablecoin-settlement-program.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Computershare Taps Securitize to Tokenize Thousands of Company Stocks on Wall Street",
-      "summary": "The BlackRock-backed firm was recently selected as by the New York Stock Exchange as a tokenization specialist.",
-      "url": "https://decrypt.co/365960/computershare-taps-securitize-tokenize-thousands-companies-wall-street",
-      "publishedAt": "2026-04-29T14:33:26.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260429-computershare-taps-securitize-to-tokenize-thousands-of-company-stocks-on-wall-st",
-      "localUrl": "/news/20260429-computershare-taps-securitize-to-tokenize-thousands-of-company-stocks-on-wall-st.html"
-    },
-    {
       "source": "X Wire",
       "title": "Bitcoin also continues to show resilience as it tests the upper bounds of a potential bear flag. Technical Analysis 101 states that when bear market rallies get overbought (per the stochastics below), it’s usually the kiss of death and time to sell. However, during - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWaTZSX2VkOUx2N19ENmdscXRJV2xGcklTQy1JZGF3ZTNES3NqcGg1QTNlamU1SUY0SXdKbnhpRHlPclNMWFdzeDdqSHlFSXJYYVFFUElPVXRsWXFNUEtjY0RMWUxoZw?oc=5\" target=\"_blank\">Bitcoin also continues to sh…",
@@ -999,14 +1020,14 @@
     },
     {
       "source": "X Wire",
-      "title": "The Treasury Department, through Economic Fury, has targeted Iran’s international shadow banking infrastructure, access to crypto, shadow fleet, weapons procurement networks, funding for terrorist proxies in the region, and independent Chinese “teapot” refi - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16ZjRia0Q2SmJRWi0tUy1yVEhBYjVFTTN1YlZ3cWtjQU0zSS02SHJRcGVPMEhyY19wNko2bjlvVVp6VldIcW1QdlExbTF5NHlINTk3dDJlX2FoQ2lNQ0RCVF9BTkp3VUE?oc=5\" target=\"_blank\">The Treasury Department, th…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16ZjRia0Q2SmJRWi0tUy1yVEhBYjVFTTN1YlZ3cWtjQU0zSS02SHJRcGVPMEhyY19wNko2bjlvVVp6VldIcW1QdlExbTF5NHlINTk3dDJlX2FoQ2lNQ0RCVF9BTkp3VUE?oc=5",
-      "publishedAt": "2026-04-29T00:15:44.000Z",
+      "title": "Canadian Government Plans to Ban Crypto ATMs to Combat Scams According to CBC, Canadian federal government announced plans in its Spring Economic Update 2026 to ban cryptocurrency ATMs to protect citizens from fraud. The government identified c - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mX0l3UXZ3bEJ3S3JmRmhObVgzY0dQTkEzYURkamU4NTdCbEQ2VW15YS1aeUF4MzZDMjU2MExxRzVIY0t4aEpobEtJR2dFUG9wSUN5SjhZMjdHczZ6ZFgzcTM4aw?oc=5\" target=\"_blank\">Canadian Government Plans to Ban…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mX0l3UXZ3bEJ3S3JmRmhObVgzY0dQTkEzYURkamU4NTdCbEQ2VW15YS1aeUF4MzZDMjU2MExxRzVIY0t4aEpobEtJR2dFUG9wSUN5SjhZMjdHczZ6ZFgzcTM4aw?oc=5",
+      "publishedAt": "2026-04-29T02:21:53.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260429-the-treasury-department-through-economic-fury-has-targeted-irans-international-s",
-      "localUrl": "/news/20260429-the-treasury-department-through-economic-fury-has-targeted-irans-international-s.html"
+      "slug": "20260429-canadian-government-plans-to-ban-crypto-atms-to-combat-scams-according-to-cbc-ca",
+      "localUrl": "/news/20260429-canadian-government-plans-to-ban-crypto-atms-to-combat-scams-according-to-cbc-ca.html"
     },
     {
       "source": "Ethereum Blog",
@@ -1065,17 +1086,6 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 Trump family's World Liberty Financial partnered with crypto project linked to alleged scam-ring operators sanctioned by the US, WSJ reports. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iVnJ0N1ZwWUZ6RVpSOFc0NG1LVzdCcjFtSllUYUc1SmtXWnloT0ZZckp3WUR3bW9zNzkwTm1GbUY4eVZUdDBXM2xfTVdRa21GcVZ1SkhNZkU4WnV1V0xJR0Z3?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Trump family's World…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iVnJ0N1ZwWUZ6RVpSOFc0NG1LVzdCcjFtSllUYUc1SmtXWnloT0ZZckp3WUR3bW9zNzkwTm1GbUY4eVZUdDBXM2xfTVdRa21GcVZ1SkhNZkU4WnV1V0xJR0Z3?oc=5",
-      "publishedAt": "2026-04-28T18:24:15.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260428-just-in-trump-familys-world-liberty-financial-partnered-with-crypto-project-link",
-      "localUrl": "/news/20260428-just-in-trump-familys-world-liberty-financial-partnered-with-crypto-project-link.html"
-    },
-    {
-      "source": "X Wire",
       "title": "JUST IN: Block announces there's now over 808,000 Square merchants accepting bitcoin payments! 🤯 New businesses are accepting BTC every 8 seconds 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLSXBXTFZLMDVubEdOWURiblBfMjM1RWFNTHNmS1d3VF9zX3FoQWRTQnFpZGRqazJxOTJ1anNrWnhlZE5uWV81WlhMTkk5LTc2YU9CSzNiZ21BYWhLQ1JTLUtISjM2WVU?oc=5\" target=\"_blank\">JUST IN: Block announces th…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLSXBXTFZLMDVubEdOWURiblBfMjM1RWFNTHNmS1d3VF9zX3FoQWRTQnFpZGRqazJxOTJ1anNrWnhlZE5uWV81WlhMTkk5LTc2YU9CSzNiZ21BYWhLQ1JTLUtISjM2WVU?oc=5",
@@ -1106,17 +1116,6 @@
       "category": "X热点",
       "slug": "20260428-the-presidents-second-son-pitches-his-bitcoin-company-as-a-money-printing-machin",
       "localUrl": "/news/20260428-the-presidents-second-son-pitches-his-bitcoin-company-as-a-money-printing-machin.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "$100,000 invested 5 years ago in Ethereum $ETH is worth $85,000 today. $100,000 invested 5 years ago in Nvidia $NVDA is worth $1,400,000 today. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJd3ZYN2VJNFBXRnU1VkZQdE1uRXlDMjFLbjRoV2tlVW9Hd2g5MVRtcDNCeFNxM2dCOGlUTUNLeU1qUk8wVkctRkh5ck9JOG1KcV9LRTBKYkt6Y3J5OEM4dGR3?oc=5\" target=\"_blank\">$100,000 invested 5 years ago in E…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJd3ZYN2VJNFBXRnU1VkZQdE1uRXlDMjFLbjRoV2tlVW9Hd2g5MVRtcDNCeFNxM2dCOGlUTUNLeU1qUk8wVkctRkh5ck9JOG1KcV9LRTBKYkt6Y3J5OEM4dGR3?oc=5",
-      "publishedAt": "2026-04-28T01:59:51.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260428-100000-invested-5-years-ago-in-ethereum-eth-is-worth-85000-today-100000-invested",
-      "localUrl": "/news/20260428-100000-invested-5-years-ago-in-ethereum-eth-is-worth-85000-today-100000-invested.html"
     },
     {
       "source": "Chainalysis Blog",
