@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-05-01T07:34:55.837Z",
+  "updatedAt": "2026-05-01T09:56:28.421Z",
   "total": 85,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin edges above $77,000, but institutional activity suggests downside hedging",
+      "summary": "BTC rises on steady volume and strong technical structure, but surging put interest and muted prediction market odds point to defensive positioning.",
+      "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-edges-above-usd77-000-but-institutional-activity-suggests-downside-hedging",
+      "publishedAt": "2026-05-01T09:25:49.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260501-bitcoin-edges-above-77000-but-institutional-activity-suggests-downside-hedging",
+      "localUrl": "/news/20260501-bitcoin-edges-above-77000-but-institutional-activity-suggests-downside-hedging.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin seals best monthly gain in a year as S&P 500 hits fresh all-time high",
+      "summary": "Bitcoin finished April above $76,000 to preserve most of its monthly gains, but the S&P 500 stole the limelight with a trip back to record highs.",
+      "url": "https://cointelegraph.com/markets/bitcoin-seals-best-monthly-gain-in-a-year-as-sp-500-hits-fresh-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-01T08:58:46.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260501-bitcoin-seals-best-monthly-gain-in-a-year-as-sp-500-hits-fresh-all-time-high",
+      "localUrl": "/news/20260501-bitcoin-seals-best-monthly-gain-in-a-year-as-sp-500-hits-fresh-all-time-high.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bakkt completes acquisition of stablecoin payments firm Distributed Technologies Research",
+      "summary": "Bakkt announced the deal in January, which was originally for 9.3 million shares, along with a corporate name change to Bakkt Inc.",
+      "url": "https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-01T07:43:18.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260501-bakkt-completes-acquisition-of-stablecoin-payments-firm-distributed-technologies",
+      "localUrl": "/news/20260501-bakkt-completes-acquisition-of-stablecoin-payments-firm-distributed-technologies.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bithumb scores a legal win in South Korea as six-month suspension is lifted by local judge",
+      "summary": "South Korea's financial watchdog imposed a $24.6 million fine on Bithumb and partial suspension that came into effect last month.",
+      "url": "https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
+      "publishedAt": "2026-05-01T07:41:24.000Z",
+      "keywords": [
+        "Policy",
+        "South Korea",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260501-bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-l",
+      "localUrl": "/news/20260501-bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-l.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Strategy keeps STRC dividend at 11.5% as stock logs first monthly gain in nine",
@@ -17,6 +73,45 @@
       "category": "监管",
       "slug": "20260501-strategy-keeps-strc-dividend-at-115-as-stock-logs-first-monthly-gain-in-nine",
       "localUrl": "/news/20260501-strategy-keeps-strc-dividend-at-115-as-stock-logs-first-monthly-gain-in-nine.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin risks extended retreat as April rally was futures-driven: CryptoQuant",
+      "summary": "Futures drove up Bitcoin's price in April while spot demand declined, which CryptoQuant warned has historically preceded extended price declines.",
+      "url": "https://cointelegraph.com/news/bitcoin-risks-decline-rally-speculative-not-structural-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-01T06:53:44.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260501-bitcoin-risks-extended-retreat-as-april-rally-was-futures-driven-cryptoquant",
+      "localUrl": "/news/20260501-bitcoin-risks-extended-retreat-as-april-rally-was-futures-driven-cryptoquant.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoiners launch 'The Bitcoin Evidence Base' to stamp out FUD",
+      "summary": "The Bitcoin FUD-stopping tool cites over 22 peer-reviewed research papers to address common misconceptions about Bitcoin.",
+      "url": "https://cointelegraph.com/news/bitcoiner-launches-the-bitcoin-evidence-base-to-stamp-out-fud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-01T06:51:37.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260501-bitcoiners-launch-the-bitcoin-evidence-base-to-stamp-out-fud",
+      "localUrl": "/news/20260501-bitcoiners-launch-the-bitcoin-evidence-base-to-stamp-out-fud.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "DeFi protocol Carrot becomes first casualty of $285M Drift exploit",
+      "summary": "Carrot's total value locked has collapsed 93% in a month, from $28 million to $1.99 million, leaving the protocol financially unable to continue.",
+      "url": "https://cointelegraph.com/news/defi-protocol-carrot-becomes-first-casualty-of-285m-drift-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-01T06:48:08.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260501-defi-protocol-carrot-becomes-first-casualty-of-285m-drift-exploit",
+      "localUrl": "/news/20260501-defi-protocol-carrot-becomes-first-casualty-of-285m-drift-exploit.html"
     },
     {
       "source": "Cointelegraph",
@@ -149,7 +244,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Stablecoins overtake Bitcoin in Latin America crypto purchases — Bitso",
+      "title": "Stablecoins overtake Bitcoin in Latin America crypto purchases: Bitso",
       "summary": "A Bitso report shows shifting user behavior as dollar-linked stablecoins gain traction for everyday financial use across Latin America’s inflation-hit economies.",
       "url": "https://cointelegraph.com/news/stablecoins-surpass-bitcoin-latin-america-crypto-purchases-bitso-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-04-30T21:12:00.000Z",
@@ -159,17 +254,6 @@
       "category": "市场",
       "slug": "20260430-stablecoins-overtake-bitcoin-in-latin-america-crypto-purchases-bitso",
       "localUrl": "/news/20260430-stablecoins-overtake-bitcoin-in-latin-america-crypto-purchases-bitso.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🤔 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBobHZSS19QQWJ6ajhHYzZvT3JiNjlrZFBWdTJta0d3c1B1cEZmZjVrSXkxUXdzd0NkaGZqMElZbldpTHI5Z0wyd1F1eGY3TTJwcVp5RS1KUTFSRjJib2dvVA?oc=5\" target=\"_blank\">🤔</a> <font color=\"#6f6f6f\">x.com</…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBobHZSS19QQWJ6ajhHYzZvT3JiNjlrZFBWdTJta0d3c1B1cEZmZjVrSXkxUXdzd0NkaGZqMElZbldpTHI5Z0wyd1F1eGY3TTJwcVp5RS1KUTFSRjJib2dvVA?oc=5",
-      "publishedAt": "2026-04-30T21:02:55.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260430--xcom",
-      "localUrl": "/news/20260430--xcom.html"
     },
     {
       "source": "Decrypt",
@@ -196,6 +280,17 @@
       "category": "市场",
       "slug": "20260430-bitcoin-crash-incoming-april-surge-was-built-on-shaky-ground-analysts-warn",
       "localUrl": "/news/20260430-bitcoin-crash-incoming-april-surge-was-built-on-shaky-ground-analysts-warn.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "XRPLV was the first crypto conference I ever attended back in 2023 when I started covering the @Ripple case. Thanks to Brad + Danielle for having me back every year. Lucky to interview @bgarlinghouse, @KeithGrossman, @ashgoblue, @Matt_Hougan & @ - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCX2tHNjN3UTN2VDZWdEYxUDNSV1VyeGN0WEkyWXdtcldiZUpYSDUzQV9qYkVxV2F0U3FRZmVicHF2dkktS3k2WXVIRUhkVk5GcWZOS0tBdGE5RTVzazhWbkk3VVNjdw?oc=5\" target=\"_blank\">XRPLV was the first crypto c…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCX2tHNjN3UTN2VDZWdEYxUDNSV1VyeGN0WEkyWXdtcldiZUpYSDUzQV9qYkVxV2F0U3FRZmVicHF2dkktS3k2WXVIRUhkVk5GcWZOS0tBdGE5RTVzazhWbkk3VVNjdw?oc=5",
+      "publishedAt": "2026-04-30T19:53:42.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260430-xrplv-was-the-first-crypto-conference-i-ever-attended-back-in-2023-when-i-starte",
+      "localUrl": "/news/20260430-xrplv-was-the-first-crypto-conference-i-ever-attended-back-in-2023-when-i-starte.html"
     },
     {
       "source": "Decrypt",
@@ -380,17 +475,6 @@
       "category": "监管",
       "slug": "20260430-senator-warren-questions-commerce-secretary-lutnick-on-tether-loan-to-family",
       "localUrl": "/news/20260430-senator-warren-questions-commerce-secretary-lutnick-on-tether-loan-to-family.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Digital asset market structure legislation will make America the crypto capital of the world. Chairman @SenatorTimScott believes that faster, cheaper transactions help Americans keep more of their money and strengthen U.S. leadership in financial innovation. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5maWVNaE5yNEdkZ3Fxb1ExcFNMYVpCOWhrd3Ztd1JZcF9JOGVNdGlBa0VQVkRCaFRTcERURjhlMHVCaDRBSkZCOFB0cmI2dlpzb2JBN3otd3B2X0MxNWZjRA?oc=5\" target=\"_blank\">Digital asset market structure legis…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5maWVNaE5yNEdkZ3Fxb1ExcFNMYVpCOWhrd3Ztd1JZcF9JOGVNdGlBa0VQVkRCaFRTcERURjhlMHVCaDRBSkZCOFB0cmI2dlpzb2JBN3otd3B2X0MxNWZjRA?oc=5",
-      "publishedAt": "2026-04-30T16:30:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260430-digital-asset-market-structure-legislation-will-make-america-the-crypto-capital-",
-      "localUrl": "/news/20260430-digital-asset-market-structure-legislation-will-make-america-the-crypto-capital-.html"
     },
     {
       "source": "Decrypt",
@@ -588,32 +672,6 @@
       "localUrl": "/news/20260430-spain-emerges-as-leading-eurc-retail-market-in-europe-brighty-data-shows.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin analysts explain why BTC price can’t take out $80K",
-      "summary": "A large overhead supply cluster, increased profit-taking activity and the resumption of spot Bitcoin ETF outflows are key factors keeping BTC price pinned below $80,000.",
-      "url": "https://cointelegraph.com/markets/heres-why-bitcoin-analysts-say-btc-price-cant-take-out-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-30T14:02:12.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260430-bitcoin-analysts-explain-why-btc-price-cant-take-out-80k",
-      "localUrl": "/news/20260430-bitcoin-analysts-explain-why-btc-price-cant-take-out-80k.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Kast hires former SEC official Stephanie Allen to lead policy communications",
-      "summary": "Stablecoin payments company Kast hired former SEC adviser Stephanie Allen as it expands licensing, communications and policy efforts after an $80 million raise.",
-      "url": "https://cointelegraph.com/news/kast-appoints-former-senior-sec-advisor-for-us-policy-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-30T14:01:25.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260430-kast-hires-former-sec-official-stephanie-allen-to-lead-policy-communications",
-      "localUrl": "/news/20260430-kast-hires-former-sec-official-stephanie-allen-to-lead-policy-communications.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Coinbase's asset manager to offer stablecoin credit fund with tokenized share class",
       "summary": "The fund, dubbed CUSHY, targets yield from onchain lending and private credit, offering tokenized access through Superstate for institutional investors.",
@@ -629,19 +687,6 @@
       "category": "DeFi",
       "slug": "20260430-coinbases-asset-manager-to-offer-stablecoin-credit-fund-with-tokenized-share-cla",
       "localUrl": "/news/20260430-coinbases-asset-manager-to-offer-stablecoin-credit-fund-with-tokenized-share-cla.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Solana ecosystem expands institutional push with Europe-focused research arm",
-      "summary": "Solana is launching a Swiss-based research institute and practitioner guide to help European financial institutions evaluate its blockchain as regulatory clarity and onchain usage grow.",
-      "url": "https://cointelegraph.com/news/solana-ecosystem-expands-institutional-push-europe-focused-research-arm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-30T14:00:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260430-solana-ecosystem-expands-institutional-push-with-europe-focused-research-arm",
-      "localUrl": "/news/20260430-solana-ecosystem-expands-institutional-push-with-europe-focused-research-arm.html"
     },
     {
       "source": "CoinDesk",
@@ -672,32 +717,6 @@
       "category": "市场",
       "slug": "20260430-morning-minute-bitcoin-falls-after-powells-likely-final-fomc",
       "localUrl": "/news/20260430-morning-minute-bitcoin-falls-after-powells-likely-final-fomc.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "South Korea seeks 20-year sentence for Delio CEO over $169M crypto fraud",
-      "summary": "Prosecutors say Jeong Sang-ho’s “active deceptive acts” left nearly 2,800 investors frozen out of their funds, as South Korea's crackdown on the crypto industry widens.",
-      "url": "https://cointelegraph.com/news/south-korea-seeks-20-year-sentence-for-delio-ceo-over-169m-crypto-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-30T13:32:51.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260430-south-korea-seeks-20-year-sentence-for-delio-ceo-over-169m-crypto-fraud",
-      "localUrl": "/news/20260430-south-korea-seeks-20-year-sentence-for-delio-ceo-over-169m-crypto-fraud.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "UK regulator clears path for tokenized funds within existing rules",
-      "summary": "The FCA signs off rules to let UK funds keep registers onchain and add a new Direct‑to‑Fund dealing model, aiming to simplify tokenized funds inside the existing regime.",
-      "url": "https://cointelegraph.com/news/uk-regulator-clears-path-tokenized-funds-within-existing-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-30T13:27:56.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260430-uk-regulator-clears-path-for-tokenized-funds-within-existing-rules",
-      "localUrl": "/news/20260430-uk-regulator-clears-path-for-tokenized-funds-within-existing-rules.html"
     },
     {
       "source": "CoinDesk",
@@ -757,17 +776,6 @@
       "category": "市场",
       "slug": "20260430-mara-holdings-to-buy-long-ridge-energy-in-15-billion-ai-data-center-push",
       "localUrl": "/news/20260430-mara-holdings-to-buy-long-ridge-energy-in-15-billion-ai-data-center-push.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🔥 UPDATE: PayPal restructures into three core units, with crypto and payments now a standalone division. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YMGZQTWpDMEN4Q0FOZGVRenE3UFZHVEc4cXhiamJqUDNZTnVPY0NvcWFPbDNOSGNKNXhMS2EwdFFsLVRvVzdzbEdjVmdOdjNQR0Y0TmZSN0FVWWV5N2RJWGZHZUI?oc=5\" target=\"_blank\">🔥 UPDATE: PayPal restructures …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YMGZQTWpDMEN4Q0FOZGVRenE3UFZHVEc4cXhiamJqUDNZTnVPY0NvcWFPbDNOSGNKNXhMS2EwdFFsLVRvVzdzbEdjVmdOdjNQR0Y0TmZSN0FVWWV5N2RJWGZHZUI?oc=5",
-      "publishedAt": "2026-04-30T12:20:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260430-update-paypal-restructures-into-three-core-units-with-crypto-and-payments-now-a-",
-      "localUrl": "/news/20260430-update-paypal-restructures-into-three-core-units-with-crypto-and-payments-now-a-.html"
     },
     {
       "source": "CoinDesk",
@@ -831,38 +839,15 @@
       "localUrl": "/news/20260430-bitcoin-faces-80000-resistance-as-derivatives-show-signs-of-risk-aversion.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Wasabi Protocol drained of $4.5 million in apparent admin key compromise",
-      "summary": "The exploit used a playbook similar to Drift's $285 million breach earlier this month: a compromised deployer key with no timelock or multisig that drained funds.",
-      "url": "https://www.coindesk.com/tech/2026/04/30/wasabi-protocol-drained-for-usd4-5-million-in-apparent-admin-key-compromise",
-      "publishedAt": "2026-04-30T10:37:47.000Z",
-      "keywords": [
-        "Tech",
-        "Hack",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260430-wasabi-protocol-drained-of-45-million-in-apparent-admin-key-compromise",
-      "localUrl": "/news/20260430-wasabi-protocol-drained-of-45-million-in-apparent-admin-key-compromise.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XO Market bets on user-generated prediction markets to rival Polymarket and Kalshi",
-      "summary": "Backed by 20VC, Picus Capital and Coinbase Ventures; XO lets users create and profit from their own prediction markets, and plans to rollout a new vault product to democratize market making.",
-      "url": "https://www.coindesk.com/business/2026/04/30/xo-market-bets-on-user-generated-prediction-markets-to-rival-polymarket-and-kalshi",
-      "publishedAt": "2026-04-30T09:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Prediction Markets",
-        "Fundraising",
-        "Kalshi",
-        "Polymarket",
-        "Exclusive",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260430-xo-market-bets-on-user-generated-prediction-markets-to-rival-polymarket-and-kals",
-      "localUrl": "/news/20260430-xo-market-bets-on-user-generated-prediction-markets-to-rival-polymarket-and-kals.html"
+      "source": "X Wire",
+      "title": "Crypto Tops X's Most Snoozed Topics List - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tYXBXcGQyOFQ5MmtHX0tULWl0cGdoLUw3c3luR1dIM1AxNXdMSm51R2hwSkhhdVEybkZ5NTVudlJvaHFLclkwODJjckNyMXdWeGY4cndFYw?oc=5\" target=\"_blank\">Crypto Tops X's Most Snoozed Topics List</a> <fo…",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tYXBXcGQyOFQ5MmtHX0tULWl0cGdoLUw3c3luR1dIM1AxNXdMSm51R2hwSkhhdVEybkZ5NTVudlJvaHFLclkwODJjckNyMXdWeGY4cndFYw?oc=5",
+      "publishedAt": "2026-04-30T06:47:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260430-crypto-tops-xs-most-snoozed-topics-list-xcom",
+      "localUrl": "/news/20260430-crypto-tops-xs-most-snoozed-topics-list-xcom.html"
     },
     {
       "source": "X Wire",
@@ -885,17 +870,6 @@
       "category": "X热点",
       "slug": "20260430-the-most-snoozed-ie-muted-topics-since-launching-the-snooze-feature-1-crypto-2-p",
       "localUrl": "/news/20260430-the-most-snoozed-ie-muted-topics-since-launching-the-snooze-feature-1-crypto-2-p.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "MASSIVE 🚀 META just launched $USDC stablecoin payouts for creators across facebook, instagram, and whatsapp. With 3.56 billion daily users, Meta is now using Stripe to send instant crypto payments. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GLXVRWjlicEs2ZlpqM3h1M0xwWU9RRVlrQ3Fqb3ppbHNUekkwWFJIblNISVAxUkFsVk9KZnVIRXRTdnIxT2Zmc0dxMkFXNFNtVFFUQ3lWTGFmaWVUOUVCam1R?oc=5\" target=\"_blank\">MASSIVE 🚀 META just launched $USD…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GLXVRWjlicEs2ZlpqM3h1M0xwWU9RRVlrQ3Fqb3ppbHNUekkwWFJIblNISVAxUkFsVk9KZnVIRXRTdnIxT2Zmc0dxMkFXNFNtVFFUQ3lWTGFmaWVUOUVCam1R?oc=5",
-      "publishedAt": "2026-04-30T03:44:03.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260430-massive-meta-just-launched-usdc-stablecoin-payouts-for-creators-across-facebook-",
-      "localUrl": "/news/20260430-massive-meta-just-launched-usdc-stablecoin-payouts-for-creators-across-facebook-.html"
     },
     {
       "source": "X Wire",
@@ -999,6 +973,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Paxos Crypto Brokerage now supports @bonk_inu. Nearly 1M holders, 400+ integrations across the @solana ecosystem, and one of the strongest communities in crypto. Partners can now offer BONK through the same regulated platform trusted by some of the - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOd1Qxb1RmM3ZCRi1kM0ZSR0toR0NCSE1veXNEd3pUZVBQSVItb0pqenJCUHVqS2NCekZ5dUExZUZGQV9fZlNpSk5nTnNBemZLMjNXeElYdVBDUQ?oc=5\" target=\"_blank\">Paxos Crypto Brokerage now supports @bonk_in…",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOd1Qxb1RmM3ZCRi1kM0ZSR0toR0NCSE1veXNEd3pUZVBQSVItb0pqenJCUHVqS2NCekZ5dUExZUZGQV9fZlNpSk5nTnNBemZLMjNXeElYdVBDUQ?oc=5",
+      "publishedAt": "2026-04-29T17:15:13.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260429-paxos-crypto-brokerage-now-supports-bonk_inu-nearly-1m-holders-400-integrations-",
+      "localUrl": "/news/20260429-paxos-crypto-brokerage-now-supports-bonk_inu-nearly-1m-holders-400-integrations-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Bitcoin Faces Resistance Near $80,000 as Options Positioning Caps Upside According to Bloomberg, Bitcoin is facing repeated resistance near $80,000 as concentrated call option positioning on Deribit triggers market makers to sell into price rallies under lon - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WSHFaQms3Tlh6S3dXcWJuQ3EyeE1zTHpuOFplRWY3TkVnZ0JhcUQ2LUxONDY4RXJ1MW5rTFBTOFJpRnVVV3g3dWhZNVVkR0o1T1o2ejJoekx3QVpFVGkxY1B3QQ?oc=5\" target=\"_blank\">Bitcoin Faces Resistance Near $8…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WSHFaQms3Tlh6S3dXcWJuQ3EyeE1zTHpuOFplRWY3TkVnZ0JhcUQ2LUxONDY4RXJ1MW5rTFBTOFJpRnVVV3g3dWhZNVVkR0o1T1o2ejJoekx3QVpFVGkxY1B3QQ?oc=5",
@@ -1010,14 +995,14 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨Sen. Thom Tillis (R-NC) signals next steps on crypto market structure bill: • “A lot of progress” made • Banks’ concerns “addressed” • Will “ask the chair to move forward with scheduling a markup” • Says a markup is the “forcing mechanism” to get it done • Legi - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFdmxLelFnQkJxS09JZE5TNEpGdWxsc09RbGNlT0dMeFpoX1luZmxrekpvZ1JmM05KVmIwVm11ODA5aUNzX2k1MGd1LXJ4QUxjdWZLbll3eDF3dTVZaGM0VTBNRm1adw?oc=5\" target=\"_blank\">🚨Sen. Thom Tillis (R-NC) si…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFdmxLelFnQkJxS09JZE5TNEpGdWxsc09RbGNlT0dMeFpoX1luZmxrekpvZ1JmM05KVmIwVm11ODA5aUNzX2k1MGd1LXJ4QUxjdWZLbll3eDF3dTVZaGM0VTBNRm1adw?oc=5",
-      "publishedAt": "2026-04-29T14:56:39.000Z",
+      "title": "Base (@base) / Posts / X - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiNEFVX3lxTE1NWDZ0NjF4RHlGSkoyZ2hnXy1Bek5Na0hoUnprZlhBUkVNRlgwdEh6ekt1Znc?oc=5\" target=\"_blank\">Base (@base) / Posts / X</a> <font color=\"#6f6f6f\">x.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiNEFVX3lxTE1NWDZ0NjF4RHlGSkoyZ2hnXy1Bek5Na0hoUnprZlhBUkVNRlgwdEh6ekt1Znc?oc=5",
+      "publishedAt": "2026-04-29T14:45:33.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260429-sen-thom-tillis-r-nc-signals-next-steps-on-crypto-market-structure-bill-a-lot-of",
-      "localUrl": "/news/20260429-sen-thom-tillis-r-nc-signals-next-steps-on-crypto-market-structure-bill-a-lot-of.html"
+      "slug": "20260429-base-base-posts-x-xcom",
+      "localUrl": "/news/20260429-base-base-posts-x-xcom.html"
     },
     {
       "source": "X Wire",
@@ -1031,17 +1016,6 @@
       "localUrl": "/news/20260429-bitcoin-also-continues-to-show-resilience-as-it-tests-the-upper-bounds-of-a-pote.html"
     },
     {
-      "source": "X Wire",
-      "title": "NO ONE IS TALKING ABOUT THIS When gold topped in 2020, Bitcoin dropped about -21%. Then Bitcoin surged +559% in just 238 days. When Gold topped in January, Bitcoin has also dropped by -33%. Are we seeing the same playbook again? - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XRVcwR0hia1NwMzJxdVhrTlp4Nl90MjhSd1MxZlEwdGkzSUtORHFiZ3RsMnVlUEhnaVptVHdWc0ptdFFLdk5ZUVl2NkZqT0J0LWFRTXc3T1FaSDI2RUE4?oc=5\" target=\"_blank\">NO ONE IS TALKING ABOUT THIS When gold…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XRVcwR0hia1NwMzJxdVhrTlp4Nl90MjhSd1MxZlEwdGkzSUtORHFiZ3RsMnVlUEhnaVptVHdWc0ptdFFLdk5ZUVl2NkZqT0J0LWFRTXc3T1FaSDI2RUE4?oc=5",
-      "publishedAt": "2026-04-29T07:13:39.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260429-no-one-is-talking-about-this-when-gold-topped-in-2020-bitcoin-dropped-about-21-t",
-      "localUrl": "/news/20260429-no-one-is-talking-about-this-when-gold-topped-in-2020-bitcoin-dropped-about-21-t.html"
-    },
-    {
       "source": "Ethereum Blog",
       "title": "Allocation Update - Q1 2026",
       "summary": "Q1 2026 continued our focus on strengthening Ethereum’s foundations, with sustained investment in core domains like cryptography, zero-knowledge proofs, security, and protocol research. See the list below of the projects and ecosystem effo…",
@@ -1053,6 +1027,17 @@
       "category": "监管",
       "slug": "20260429-allocation-update-q1-2026",
       "localUrl": "/news/20260429-allocation-update-q1-2026.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "An #Ethereum ICO participant \"0xCD59\" transferred all 10,000 $ETH($22.88M) to a new wallet after being dormant for 10.8 years. He invested only $3,100 in the ICO and received 10,000 $ETH — now worth $22.88M, a 7,381x return! etherscan.io/address/0xc - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoNzc4aTVoWUx1UkpWSXFrTXMzX0hCUDVXaDFHV2o3Q19Vc1dTMDZLQlFxOE9YY24zaDRJVU5Ea2RVN2RncGNNaVJITnEzN1JtTWdHWWtKLUdHamd5YTEtMzFB?oc=5\" target=\"_blank\">An #Ethereum ICO participant \"0xCD…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoNzc4aTVoWUx1UkpWSXFrTXMzX0hCUDVXaDFHV2o3Q19Vc1dTMDZLQlFxOE9YY24zaDRJVU5Ea2RVN2RncGNNaVJITnEzN1JtTWdHWWtKLUdHamd5YTEtMzFB?oc=5",
+      "publishedAt": "2026-04-28T23:46:25.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260428-an-ethereum-ico-participant-0xcd59-transferred-all-10000-eth2288m-to-a-new-walle",
+      "localUrl": "/news/20260428-an-ethereum-ico-participant-0xcd59-transferred-all-10000-eth2288m-to-a-new-walle.html"
     },
     {
       "source": "X Wire",
@@ -1117,6 +1102,17 @@
       "category": "X热点",
       "slug": "20260428-the-presidents-second-son-pitches-his-bitcoin-company-as-a-money-printing-machin",
       "localUrl": "/news/20260428-the-presidents-second-son-pitches-his-bitcoin-company-as-a-money-printing-machin.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Galaxy Digital Reports $216M Q1 Loss as Crypto Prices Fall Galaxy Digital reported a net loss of $216 million for Q1 2026, primarily driven by a roughly 20% decline in digital asset prices. Total assets stood at around $10 billion, with equity of $2.8 billion and $ - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEUjB1eUFEMDhuYU81bGN0elQ5SFhDU0Vqd1RzWU44WGJNbi1HZlRjeUF2a1RBdnB0S1RabkxOend5bFp3YlQ5S2hVbDBsXzRObXVhUWJpMXY2Wjg5cXM2ME5zUQ?oc=5\" target=\"_blank\">Galaxy Digital Reports $216M Q1 …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEUjB1eUFEMDhuYU81bGN0elQ5SFhDU0Vqd1RzWU44WGJNbi1HZlRjeUF2a1RBdnB0S1RabkxOend5bFp3YlQ5S2hVbDBsXzRObXVhUWJpMXY2Wjg5cXM2ME5zUQ?oc=5",
+      "publishedAt": "2026-04-28T13:25:49.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260428-galaxy-digital-reports-216m-q1-loss-as-crypto-prices-fall-galaxy-digital-reporte",
+      "localUrl": "/news/20260428-galaxy-digital-reports-216m-q1-loss-as-crypto-prices-fall-galaxy-digital-reporte.html"
     },
     {
       "source": "Chainalysis Blog",
