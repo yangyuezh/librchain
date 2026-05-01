@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-04-30T23:09:31.181Z</lastmod>
+    <lastmod>2026-05-01T04:12:43.864Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-04-30T23:09:31.181Z</lastmod>
+    <lastmod>2026-05-01T04:12:43.864Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260501-us-senate-bans-itself-from-betting-on-prediction-markets.html</loc>
+    <lastmod>2026-05-01T02:51:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260501-alert-new-ethereum-wallet-exploit-detected-hundreds-of-wallets-many-inactive-for.html</loc>
+    <lastmod>2026-05-01T02:45:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260501-spot-bitcoin-etf-outflows-top-490m-is-btcs-rally-losing-momentum.html</loc>
+    <lastmod>2026-05-01T02:15:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260430-us-senators-wont-be-weighing-in-on-prediction-markets-bets-after-banning-themsel.html</loc>
@@ -27,6 +45,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260430-stablecoins-overtake-bitcoin-in-latin-america-crypto-purchases-bitso.html</loc>
     <lastmod>2026-04-30T21:12:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260430--xcom.html</loc>
+    <lastmod>2026-04-30T21:02:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -105,6 +129,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260430-crypto-is-the-most-muted-topic-on-elon-musks-x-ahead-of-politics-product-head.html</loc>
     <lastmod>2026-04-30T17:21:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260430-elon-musk-most-crypto-are-scams-elon-musk-says-some-crypto-assets-have-merit-but.html</loc>
+    <lastmod>2026-04-30T17:20:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -295,12 +325,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260430-update-paypal-restructures-into-three-core-units-with-crypto-and-payments-now-a-.html</loc>
-    <lastmod>2026-04-30T12:20:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260430-germanys-allunity-expands-eurau-to-solana-as-euro-stablecoins-gain-traction.html</loc>
     <lastmod>2026-04-30T11:58:32.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -309,18 +333,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260430-the-green-beret-was-just-the-start-new-data-suggests-military-insider-trading-cr.html</loc>
     <lastmod>2026-04-30T11:57:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260430-crypto-hack-losses-top-630m-in-april-highest-since-february-2025.html</loc>
-    <lastmod>2026-04-30T11:47:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260430-us-seized-500m-in-iranian-crypto-assets-treasury-secretary-says.html</loc>
-    <lastmod>2026-04-30T11:21:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -361,8 +373,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260430-the-most-snoozed-ie-muted-topics-since-launching-the-snooze-feature-1-crypto-2-p.html</loc>
+    <lastmod>2026-04-30T04:16:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260430-massive-meta-just-launched-usdc-stablecoin-payouts-for-creators-across-facebook-.html</loc>
     <lastmod>2026-04-30T03:44:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260430-koreas-first-internet-only-bank-kbank-is-deploying-ripple-custody-wallet-infrast.html</loc>
+    <lastmod>2026-04-30T01:02:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -375,6 +399,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260430-announcing-cohort-7-of-the-ethereum-protocol-fellowship.html</loc>
     <lastmod>2026-04-30T00:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260429-breaking-an-ai-found-a-linux-kernel-zero-day-that-roots-every-distribution-since.html</loc>
+    <lastmod>2026-04-29T22:33:35.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -427,44 +457,14 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260429-sen-thom-tillis-r-nc-signals-next-steps-on-crypto-market-structure-bill-a-lot-of.html</loc>
+    <lastmod>2026-04-29T14:56:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260429-bitcoin-also-continues-to-show-resilience-as-it-tests-the-upper-bounds-of-a-pote.html</loc>
     <lastmod>2026-04-29T13:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260429-bhutan-is-selling-bitcoin-bhutan-just-moved-another-100-btc-783m-out-of-its-hold.html</loc>
-    <lastmod>2026-04-29T11:32:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260429-newlisting-ethereum0x8292bb45bf1ee4d140127049757c2e0ff06317ed-ripple-usd-is-a-do.html</loc>
-    <lastmod>2026-04-29T11:08:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260429-there-we-go-bitcoin-bouncing-back-upwards-fomc-today-gdp-tomorrow-lots-of-import.html</loc>
-    <lastmod>2026-04-29T07:26:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260429-big-michael-saylor-says-the-endgame-is-to-drive-bitcoin-to-10m-a-coin-and-make-b.html</loc>
-    <lastmod>2026-04-29T05:01:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260429-latest-trump-backed-world-liberty-financial-partnered-with-a-crypto-project-link.html</loc>
-    <lastmod>2026-04-29T03:01:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260429-canadian-government-plans-to-ban-crypto-atms-to-combat-scams-according-to-cbc-ca.html</loc>
-    <lastmod>2026-04-29T02:21:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -499,14 +499,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260428-just-in-bitcoin-falls-under-76000-xcom.html</loc>
-    <lastmod>2026-04-28T14:17:52.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260428-the-presidents-second-son-pitches-his-bitcoin-company-as-a-money-printing-machin.html</loc>
+    <lastmod>2026-04-28T13:30:12.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260428-the-presidents-second-son-pitches-his-bitcoin-company-as-a-money-printing-machin.html</loc>
-    <lastmod>2026-04-28T13:30:12.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260428-trump-admin-to-unveil-strategic-bitcoin-reserve-plan-soon-the-trump-administrati.html</loc>
+    <lastmod>2026-04-28T06:17:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
