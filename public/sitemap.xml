@@ -2,15 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-01T17:11:03.596Z</lastmod>
+    <lastmod>2026-05-01T19:35:33.541Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-01T17:11:03.596Z</lastmod>
+    <lastmod>2026-05-01T19:35:33.541Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260501-ethereum-foundation-sells-23-million-more-in-eth-to-tom-lees-bitmine.html</loc>
+    <lastmod>2026-05-01T18:55:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260501-doctors-use-ai-to-spot-hidden-sperm-in-men.html</loc>
+    <lastmod>2026-05-01T18:39:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260501-ethereum-foundation-finalizes-sale-of-10000-ether-to-bitmine-as-part-of-its-trea.html</loc>
+    <lastmod>2026-05-01T18:16:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260501-openais-gpt-55-matches-claude-mythos-in-cyberattack-capabilities-ai-security-ins.html</loc>
+    <lastmod>2026-05-01T17:56:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260501-just-in-ethereum-foundation-sells-10000-eth-worth-23000000-xcom.html</loc>
+    <lastmod>2026-05-01T17:45:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260501-canadian-pension-giant-aimco-buys-the-dip-in-strategy-now-sitting-on-69-million-.html</loc>
+    <lastmod>2026-05-01T17:40:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260501-a-new-narrative-for-bitcoin-that-will-last.html</loc>
+    <lastmod>2026-05-01T17:33:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260501-pentagon-signs-ai-deals-with-google-openai-nvidia-microsoft-amazon-and-spacex.html</loc>
+    <lastmod>2026-05-01T17:22:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260501-tether-posts-104-billion-q1-profit-reaches-823-billion-reserve-buffer.html</loc>
@@ -187,6 +235,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260501-bullish-bitcoin-closes-april-with-a-1187-gain-will-the-momentum-carry-into-may-x.html</loc>
+    <lastmod>2026-05-01T08:00:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260501-bakkt-completes-acquisition-of-stablecoin-payments-firm-distributed-technologies.html</loc>
     <lastmod>2026-05-01T07:43:18.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -201,6 +255,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260501-strategy-keeps-strc-dividend-at-115-as-stock-logs-first-monthly-gain-in-nine.html</loc>
     <lastmod>2026-05-01T07:01:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260501-moonpay-launches-card-enabling-ai-agents-to-spend-stablecoins-via-mastercard.html</loc>
+    <lastmod>2026-05-01T07:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -277,12 +337,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260430-stablecoins-overtake-bitcoin-in-latin-america-crypto-purchases-bitso.html</loc>
-    <lastmod>2026-04-30T21:12:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260430-elon-musk-says-xai-used-openai-models-to-train-grok.html</loc>
     <lastmod>2026-04-30T20:52:43.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -337,32 +391,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260430-openai-finally-explains-why-chatgpt-wouldnt-stop-talking-about-goblins.html</loc>
-    <lastmod>2026-04-30T18:16:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260430-agentic-memory-walrus-takes-on-ais-next-big-bottleneck.html</loc>
-    <lastmod>2026-04-30T17:31:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260430-crypto-is-the-most-muted-topic-on-elon-musks-x-ahead-of-politics-product-head.html</loc>
-    <lastmod>2026-04-30T17:21:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260430-elon-musk-most-crypto-are-scams-elon-musk-says-some-crypto-assets-have-merit-but.html</loc>
     <lastmod>2026-04-30T17:20:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260430-polymarket-launches-market-integrity-tools-following-soldiers-insider-trading-ar.html</loc>
-    <lastmod>2026-04-30T17:11:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -409,24 +439,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260430-crypto-for-advisors-breaking-down-the-sui-blockchain.html</loc>
-    <lastmod>2026-04-30T15:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260430-anchorage-digital-and-m0-team-up-to-power-next-wave-of-regulated-stablecoins.html</loc>
-    <lastmod>2026-04-30T15:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260430-coinbases-asset-manager-to-offer-stablecoin-credit-fund-with-tokenized-share-cla.html</loc>
-    <lastmod>2026-04-30T14:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260430-ripple-is-opening-its-new-middle-east-and-africa-regional-hq-in-the-difc-onrippl.html</loc>
     <lastmod>2026-04-30T06:00:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -469,12 +481,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260429-announcing-tmm_eths-29m-round-led-by-1inch-stop-making-crypto-mascots-start-maki.html</loc>
-    <lastmod>2026-04-29T10:30:12.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260429-no-one-is-talking-about-this-when-gold-topped-in-2020-bitcoin-dropped-about-21-t.html</loc>
     <lastmod>2026-04-29T07:13:39.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -501,18 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260428-daejunpark-and-matt-gleasonagents-are-becoming-very-skilled-at-identifying-secur.html</loc>
     <lastmod>2026-04-28T20:14:36.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260428-just-in-block-announces-theres-now-over-808000-square-merchants-accepting-bitcoi.html</loc>
-    <lastmod>2026-04-28T17:20:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260427-ofac-updates-central-bank-of-iran-designation-following-record-344-million-tethe.html</loc>
-    <lastmod>2026-04-27T18:35:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
