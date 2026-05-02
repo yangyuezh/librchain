@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-02T10:07:45.899Z</lastmod>
+    <lastmod>2026-05-02T11:06:31.570Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-02T10:07:45.899Z</lastmod>
+    <lastmod>2026-05-02T11:06:31.570Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260502-riot-posts-167m-in-q1-revenue-as-data-center-arm-pulls-in-33m-in-first-quarter.html</loc>
+    <lastmod>2026-05-02T10:18:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260502-ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal.html</loc>
@@ -33,6 +39,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260502-bitcoin-doesnt-need-a-fresh-narrative-to-reclaim-100k-analyst.html</loc>
     <lastmod>2026-05-02T06:11:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260502-a16z-crypto-why-stablecoins-wont-age-well-according-to-a16z-crypto-the-term-stab.html</loc>
+    <lastmod>2026-05-02T05:22:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -93,12 +105,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260501-price-predictions-51-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr.html</loc>
     <lastmod>2026-05-01T19:07:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260501-clarity-act-may-unleash-animal-spirits-in-crypto-chainreaction-xcomibroadcasts1-.html</loc>
-    <lastmod>2026-05-01T18:55:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -265,12 +271,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260501-most-of-trumps-presidential-profits-are-from-crypto-speculation-his-genius-real-.html</loc>
-    <lastmod>2026-05-01T12:43:28.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260501-did-dogecoin-bottom-first-doge-price-poised-for-20-gains-as-whales-return.html</loc>
     <lastmod>2026-05-01T12:42:40.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -343,12 +343,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260501-bullish-bitcoin-closes-april-with-a-1187-gain-will-the-momentum-carry-into-may-x.html</loc>
-    <lastmod>2026-05-01T08:00:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260501-bakkt-completes-acquisition-of-stablecoin-payments-firm-distributed-technologies.html</loc>
     <lastmod>2026-05-01T07:43:18.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -368,12 +362,6 @@
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260501-tether-reports-104b-profit-in-q1-as-treasury-holdings-reach-141b.html</loc>
-    <lastmod>2026-05-01T07:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260501-moonpay-launches-card-enabling-ai-agents-to-spend-stablecoins-via-mastercard.html</loc>
     <lastmod>2026-05-01T07:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -433,6 +421,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260430-holding-altcoins-or-bitcoin-here-is-quite-stressful-theres-so-much-happening-in-.html</loc>
+    <lastmod>2026-04-30T19:50:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260430-ubuntu-linux-is-adding-ai-featuresits-users-are-worried.html</loc>
     <lastmod>2026-04-30T19:33:26.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -447,6 +441,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260430-senate-votes-to-ban-senators-and-staff-from-using-prediction-markets.html</loc>
     <lastmod>2026-04-30T19:16:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260430-today-we-hand-delivered-a-message-to-washington-over-28000-americans-signed-our-.html</loc>
+    <lastmod>2026-04-30T18:59:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
