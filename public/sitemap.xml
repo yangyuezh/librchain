@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-02T20:58:08.704Z</lastmod>
+    <lastmod>2026-05-02T21:56:01.495Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-02T20:58:08.704Z</lastmod>
+    <lastmod>2026-05-02T21:56:01.495Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -379,12 +379,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260501-kevin-warsh-if-youre-under-40-bitcoin-is-your-new-gold-the-first-pro-bitcoin-fed.html</loc>
-    <lastmod>2026-05-01T13:06:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260501-did-dogecoin-bottom-first-doge-price-poised-for-20-gains-as-whales-return.html</loc>
     <lastmod>2026-05-01T12:42:40.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -447,6 +441,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260501-alert-new-ethereum-wallet-exploit-detected-hundreds-of-wallets-many-inactive-for.html</loc>
     <lastmod>2026-05-01T02:45:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260501-7643744-bitcoin-xcom.html</loc>
+    <lastmod>2026-05-01T00:43:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
