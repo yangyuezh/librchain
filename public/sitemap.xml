@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-02T15:03:15.183Z</lastmod>
+    <lastmod>2026-05-02T15:58:29.366Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-02T15:03:15.183Z</lastmod>
+    <lastmod>2026-05-02T15:58:29.366Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -39,6 +39,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260502-prediction-markets-are-ditching-the-casino-label-to-become-a-regular-part-of-how.html</loc>
     <lastmod>2026-05-02T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260502-latest-the-ethereum-foundation-sold-another-10000-eth-to-bitmine-in-its-third-ot.html</loc>
+    <lastmod>2026-05-02T10:31:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -295,12 +301,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260501-just-in-brazil-bans-crypto-in-regulated-cross-border-payments-central-bank-of-br.html</loc>
-    <lastmod>2026-05-01T12:00:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260501-morning-minute-megaeths-mega-debut-biggest-of-2026.html</loc>
     <lastmod>2026-05-01T11:55:19.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -397,6 +397,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260501-7643744-bitcoin-xcom.html</loc>
+    <lastmod>2026-05-01T00:43:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260430-mistral-ai-drops-new-open-source-model-the-internet-is-not-impressed-except-for-.html</loc>
     <lastmod>2026-04-30T21:31:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -423,12 +429,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260430-openai-rolls-out-advanced-account-security-for-chatgpt-users.html</loc>
     <lastmod>2026-04-30T19:51:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260430-holding-altcoins-or-bitcoin-here-is-quite-stressful-theres-so-much-happening-in-.html</loc>
-    <lastmod>2026-04-30T19:50:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
