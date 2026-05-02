@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-05-02T11:58:49.868Z",
-  "total": 83,
+  "updatedAt": "2026-05-02T13:44:55.493Z",
+  "total": 84,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "OpenClaw Put Apple Back in the AI Game—And Now They Can't Build Macs Fast Enough",
+      "summary": "The Mac mini went from a $599 desktop nobody cared about to the hottest piece of AI hardware on the planet. One open-source agent framework did it.",
+      "url": "https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026",
+      "publishedAt": "2026-05-02T13:01:02.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260502-openclaw-put-apple-back-in-the-ai-gameand-now-they-cant-build-macs-fast-enough",
+      "localUrl": "/news/20260502-openclaw-put-apple-back-in-the-ai-gameand-now-they-cant-build-macs-fast-enough.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The $292M crypto hack exposed DeFi's weak spots. Here’s what must change, insiders say",
+      "summary": "As Wall Street moves onchain, the year's biggest crypto hack and DeFi crisis is forcing a rethink of risk, security and market structure, industry insiders told CoinDesk.",
+      "url": "https://www.coindesk.com/business/2026/05/02/the-usd292m-crypto-hack-exposed-defi-s-weak-spots-here-s-what-must-change-insiders-say",
+      "publishedAt": "2026-05-02T13:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "DeFi",
+        "Hack",
+        "Institutional Adoption",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260502-the-292m-crypto-hack-exposed-defis-weak-spots-heres-what-must-change-insiders-sa",
+      "localUrl": "/news/20260502-the-292m-crypto-hack-exposed-defis-weak-spots-heres-what-must-change-insiders-sa.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Prediction markets are ditching the 'casino' label to become a regular part of how people track the news",
+      "summary": "A new report from Bitget and Polymarket reveals that prediction markets are evolving into a $240 billion industry driven by retail users who are trading more frequently on everything from crypto to politics.",
+      "url": "https://www.coindesk.com/markets/2026/05/02/prediction-markets-are-ditching-the-casino-label-to-become-a-regular-part-of-how-people-track-the-news",
+      "publishedAt": "2026-05-02T13:00:00.000Z",
+      "keywords": [
+        "Markets",
+        "Prediction Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260502-prediction-markets-are-ditching-the-casino-label-to-become-a-regular-part-of-how",
+      "localUrl": "/news/20260502-prediction-markets-are-ditching-the-casino-label-to-become-a-regular-part-of-how.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Riot posts $167M in Q1 revenue as data center arm pulls in $33M in first quarter",
@@ -108,15 +153,17 @@
       "localUrl": "/news/20260502-clarity-act-stablecoin-yield-rules-finalized-go-time-for-crypto-bill.html"
     },
     {
-      "source": "X Wire",
-      "title": "World Liberty Financial sells 5.9 billion tokens while 80 percent of investor holdings remain locked According to Bloomberg, about 80 percent of early investor holdings in World Liberty Financial remain locked, leaving investors unable to exit. The project also s - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zMnBOVG1WbS15cHp6dXc1MnJJbFg3bHJxY1RhaUtuRGQxY1JuVkhyeHBXSGlpdlFNMVE5a1VMTllTRjUtNVVvNmd1bUFiN2NzMFNiQ1lmcWxCdmFERlBGRmpRcw?oc=5\" target=\"_blank\">World Liberty Financial sells 5.…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zMnBOVG1WbS15cHp6dXc1MnJJbFg3bHJxY1RhaUtuRGQxY1JuVkhyeHBXSGlpdlFNMVE5a1VMTllTRjUtNVVvNmd1bUFiN2NzMFNiQ1lmcWxCdmFERlBGRmpRcw?oc=5",
-      "publishedAt": "2026-05-01T22:40:22.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260501-world-liberty-financial-sells-59-billion-tokens-while-80-percent-of-investor-hol",
-      "localUrl": "/news/20260501-world-liberty-financial-sells-59-billion-tokens-while-80-percent-of-investor-hol.html"
+      "source": "Ethereum Blog",
+      "title": "Soldøgn Interop Recap ☀️",
+      "summary": "This past week, just over 100 Ethereum core contributors gathered above the Arctic Circle — in Longyearbyen, Svalbard — for the Soldøgn Interop: a week of intense work on the Glamsterdam network upgrade. Soldøgn followed last year's Berlin…",
+      "url": "https://blog.ethereum.org/en/2026/05/02/soldogn-interop-recap",
+      "publishedAt": "2026-05-02T00:00:00.000Z",
+      "keywords": [
+        "Research & Development"
+      ],
+      "category": "基础设施",
+      "slug": "20260502-soldgn-interop-recap",
+      "localUrl": "/news/20260502-soldgn-interop-recap.html"
     },
     {
       "source": "CoinDesk",
@@ -363,6 +410,17 @@
       "localUrl": "/news/20260501-tether-posts-104-billion-q1-profit-reaches-823-billion-reserve-buffer.html"
     },
     {
+      "source": "X Wire",
+      "title": "🇺🇸 President Trump: '' #Bitcoin and crypto will skyrocket like never before, beyond your expectations.'' - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfQXgxUmVoYlVWTU1xOVZBUndLWGE1cFAzMnBtT2U2SkZSWGZNOXl1OV91VkswbWFTYmdFUjBoeXoxRDl2N0duRFFOX1pnSk9qNmtWN3VxUFlyVnFPdjItREV3?oc=5\" target=\"_blank\">🇺🇸 President Trump: '' #Bitcoin …",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfQXgxUmVoYlVWTU1xOVZBUndLWGE1cFAzMnBtT2U2SkZSWGZNOXl1OV91VkswbWFTYmdFUjBoeXoxRDl2N0duRFFOX1pnSk9qNmtWN3VxUFlyVnFPdjItREV3?oc=5",
+      "publishedAt": "2026-05-01T16:19:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260501-president-trump-bitcoin-and-crypto-will-skyrocket-like-never-before-beyond-your-",
+      "localUrl": "/news/20260501-president-trump-bitcoin-and-crypto-will-skyrocket-like-never-before-beyond-your-.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Riot Platforms Stock Pops as Bitcoin Miner Reports Data Center Revenue, Doubled AMD Deal",
       "summary": "The Bitcoin mining company's pivot to AI infrastructure hosting generated its first data center revenue as AMD expanded its capacity.",
@@ -459,17 +517,6 @@
       "localUrl": "/news/20260501-bitcoin-takes-another-aim-at-80000-as-stocks-rise-oil-drops-on-iran-optimism.html"
     },
     {
-      "source": "X Wire",
-      "title": "⚡ INSIGHT: Why the Ethereum Foundation is selling now, and TRUMP extends its decline despite the President's event for top holders. Market Moves this week via Cointelegraph Magazine - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yc1NJaUFsQkRON1pJYjIzNDdmWTdGajBlNVBpbERXeWVDTGhRbDFUWXR6ZTF1ckJVb1F6SFVRY1liOXlMWTlkOEZjOFhjTVJWLURVdElhTG5BS05lcFRKd2xjQ18?oc=5\" target=\"_blank\">⚡ INSIGHT: Why the Ethereum Fou…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yc1NJaUFsQkRON1pJYjIzNDdmWTdGajBlNVBpbERXeWVDTGhRbDFUWXR6ZTF1ckJVb1F6SFVRY1liOXlMWTlkOEZjOFhjTVJWLURVdElhTG5BS05lcFRKd2xjQ18?oc=5",
-      "publishedAt": "2026-05-01T14:30:23.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260501-insight-why-the-ethereum-foundation-is-selling-now-and-trump-extends-its-decline",
-      "localUrl": "/news/20260501-insight-why-the-ethereum-foundation-is-selling-now-and-trump-extends-its-decline.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Dogecoin Hits 2-Month High as DOGE Mining Firm Plans to Go Public via Merger",
       "summary": "Nasdaq-listed pharmaceutical company Shuttle pivots to crypto mining in first major institutional play for Dogecoin mining.",
@@ -482,30 +529,6 @@
       "category": "市场",
       "slug": "20260501-dogecoin-hits-2-month-high-as-doge-mining-firm-plans-to-go-public-via-merger",
       "localUrl": "/news/20260501-dogecoin-hits-2-month-high-as-doge-mining-firm-plans-to-go-public-via-merger.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-01T14:03:23.000Z",
-      "keywords": [
-        "Trump memecoin",
-        "Solana memecoin",
-        "TRUMP token",
-        "Solana",
-        "SOL",
-        "Nova Labs",
-        "SEC",
-        "Securities and Exchange Commission",
-        "Crypto regulation",
-        "TRUMP rally",
-        "Bitcoin",
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260501-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260501-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "Cointelegraph",
@@ -814,6 +837,19 @@
       "localUrl": "/news/20260501-tether-reports-104b-profit-in-q1-as-treasury-holdings-reach-141b.html"
     },
     {
+      "source": "Cointelegraph",
+      "title": "MoonPay launches card enabling AI agents to spend stablecoins via Mastercard",
+      "summary": "The card links self-custodied wallets to Mastercard rails, allowing AI agents to spend stablecoins at checkout without preloading funds or moving assets offchain.",
+      "url": "https://cointelegraph.com/news/moonpay-unveils-agent-ready-card-to-let-ai-spend-stablecoins-via-mastercard-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-01T07:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260501-moonpay-launches-card-enabling-ai-agents-to-spend-stablecoins-via-mastercard",
+      "localUrl": "/news/20260501-moonpay-launches-card-enabling-ai-agents-to-spend-stablecoins-via-mastercard.html"
+    },
+    {
       "source": "X Wire",
       "title": "Pokémon Card Boasts 662x Return Outpacing Bitcoin and Stocks - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GRHRJSTBYaEhhcVJsUDdaTlF2TGVpTURGLVBqS3FRcS1DOEloc0tMVHg4bWlQTF9melBoeFFmTHpkcUN4MjVTakIxZHhWQVF0Z2VuRzZHVQ?oc=5\" target=\"_blank\">Pokémon Card Boasts 662x Return Outpacing Bitcoi…",
@@ -834,22 +870,6 @@
       "category": "X热点",
       "slug": "20260501-alert-new-ethereum-wallet-exploit-detected-hundreds-of-wallets-many-inactive-for",
       "localUrl": "/news/20260501-alert-new-ethereum-wallet-exploit-detected-hundreds-of-wallets-many-inactive-for.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. senators won't be weighing in on prediction markets bets after banning themselves",
-      "summary": "The Senate agreed unanimously to revise its rules to ban members and their staffs from wagers on prediction markets platforms.",
-      "url": "https://www.coindesk.com/policy/2026/04/30/u-s-senators-won-t-be-weighing-in-on-prediction-markets-bets-after-banning-themselves",
-      "publishedAt": "2026-04-30T22:13:13.000Z",
-      "keywords": [
-        "Policy",
-        "Prediction Markets",
-        "Polymarket",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260430-us-senators-wont-be-weighing-in-on-prediction-markets-bets-after-banning-themsel",
-      "localUrl": "/news/20260430-us-senators-wont-be-weighing-in-on-prediction-markets-bets-after-banning-themsel.html"
     },
     {
       "source": "Decrypt",
@@ -926,33 +946,6 @@
       "category": "综合",
       "slug": "20260430-ubuntu-linux-is-adding-ai-featuresits-users-are-worried",
       "localUrl": "/news/20260430-ubuntu-linux-is-adding-ai-featuresits-users-are-worried.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "From Cathie Wood to Cantor Fitzgerald, the big money is betting that Robinhood’s crypto slump is just a temporary speed bump",
-      "summary": "Cathie Wood’s Ark Invest snapped up over 500,000 shares of Robinhood on Wednesday, joining a wave of analysts who believe a surge in April trading activity will outweigh a recent earnings disappointment.",
-      "url": "https://www.coindesk.com/markets/2026/04/30/from-cathie-wood-to-cantor-fitzgerald-the-big-money-is-betting-that-robinhood-s-crypto-slump-is-just-a-temporary-speed-bump",
-      "publishedAt": "2026-04-30T19:30:05.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260430-from-cathie-wood-to-cantor-fitzgerald-the-big-money-is-betting-that-robinhoods-c",
-      "localUrl": "/news/20260430-from-cathie-wood-to-cantor-fitzgerald-the-big-money-is-betting-that-robinhoods-c.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Senate Votes to Ban Senators and Staff From Using Prediction Markets",
-      "summary": "S. Res. 708 prohibits senators and staff from using prediction markets, and became effective immediately upon passage.",
-      "url": "https://decrypt.co/366243/senate-votes-ban-senators-staff-using-prediction-markets",
-      "publishedAt": "2026-04-30T19:16:38.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260430-senate-votes-to-ban-senators-and-staff-from-using-prediction-markets",
-      "localUrl": "/news/20260430-senate-votes-to-ban-senators-and-staff-from-using-prediction-markets.html"
     },
     {
       "source": "X Wire",
@@ -1033,6 +1026,17 @@
     },
     {
       "source": "X Wire",
+      "title": "$75,808.04 #Bitcoin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE81VzlHWi1DU1N0cks2NllGTW02TzN1SG1GeUNDZWxON1V1SjVuWnEyYzhub2tGZHd4d1lwT2J0TWlFV1d5OTlERlVwTkQ0TzBHbnJ0TGRKZ3c1Wlhm?oc=5\" target=\"_blank\">$75,808.04 #Bitcoin</a> <font color=\"#6f6f…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81VzlHWi1DU1N0cks2NllGTW02TzN1SG1GeUNDZWxON1V1SjVuWnEyYzhub2tGZHd4d1lwT2J0TWlFV1d5OTlERlVwTkQ0TzBHbnJ0TGRKZ3c1Wlhm?oc=5",
+      "publishedAt": "2026-04-30T00:44:29.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260430-7580804-bitcoin-xcom",
+      "localUrl": "/news/20260430-7580804-bitcoin-xcom.html"
+    },
+    {
+      "source": "X Wire",
       "title": "JUST IN: 🇺🇸 Eric Trumps predicts \"Bitcoin is going to hit $1 million.\" \"I don't know if it's 2030, I don't know if it's 2031, but I absolutely believe it gets there.\" \"I have never been more bullish on this asset class in my life.\" 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhUU1BZkZvaE82ckR0NHRiZVNzSWxGaXFVaWQ1aG54dkMyYndUUE5TV1l3Y1BRNWtEa1Z5SHVmQTZaM0J1RGdOYURwZENXYVhOT0Z0STdNa2pEMzNISmZ2Q0FqN3B5VmM?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Eric Trumps p…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhUU1BZkZvaE82ckR0NHRiZVNzSWxGaXFVaWQ1aG54dkMyYndUUE5TV1l3Y1BRNWtEa1Z5SHVmQTZaM0J1RGdOYURwZENXYVhOT0Z0STdNa2pEMzNISmZ2Q0FqN3B5VmM?oc=5",
@@ -1057,6 +1061,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Paxos Crypto Brokerage now supports @bonk_inu. Nearly 1M holders, 400+ integrations across the @solana ecosystem, and one of the strongest communities in crypto. Partners can now offer BONK through the same regulated platform trusted by some of the - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOd1Qxb1RmM3ZCRi1kM0ZSR0toR0NCSE1veXNEd3pUZVBQSVItb0pqenJCUHVqS2NCekZ5dUExZUZGQV9fZlNpSk5nTnNBemZLMjNXeElYdVBDUQ?oc=5\" target=\"_blank\">Paxos Crypto Brokerage now supports @bonk_in…",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOd1Qxb1RmM3ZCRi1kM0ZSR0toR0NCSE1veXNEd3pUZVBQSVItb0pqenJCUHVqS2NCekZ5dUExZUZGQV9fZlNpSk5nTnNBemZLMjNXeElYdVBDUQ?oc=5",
+      "publishedAt": "2026-04-29T17:15:13.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260429-paxos-crypto-brokerage-now-supports-bonk_inu-nearly-1m-holders-400-integrations-",
+      "localUrl": "/news/20260429-paxos-crypto-brokerage-now-supports-bonk_inu-nearly-1m-holders-400-integrations-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Bitcoin Faces Resistance Near $80,000 as Options Positioning Caps Upside According to Bloomberg, Bitcoin is facing repeated resistance near $80,000 as concentrated call option positioning on Deribit triggers market makers to sell into price rallies under lon - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WSHFaQms3Tlh6S3dXcWJuQ3EyeE1zTHpuOFplRWY3TkVnZ0JhcUQ2LUxONDY4RXJ1MW5rTFBTOFJpRnVVV3g3dWhZNVVkR0o1T1o2ejJoekx3QVpFVGkxY1B3QQ?oc=5\" target=\"_blank\">Bitcoin Faces Resistance Near $8…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WSHFaQms3Tlh6S3dXcWJuQ3EyeE1zTHpuOFplRWY3TkVnZ0JhcUQ2LUxONDY4RXJ1MW5rTFBTOFJpRnVVV3g3dWhZNVVkR0o1T1o2ejJoekx3QVpFVGkxY1B3QQ?oc=5",
@@ -1065,17 +1080,6 @@
       "category": "X热点",
       "slug": "20260429-bitcoin-faces-resistance-near-80000-as-options-positioning-caps-upside-according",
       "localUrl": "/news/20260429-bitcoin-faces-resistance-near-80000-as-options-positioning-caps-upside-according.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin also continues to show resilience as it tests the upper bounds of a potential bear flag. Technical Analysis 101 states that when bear market rallies get overbought (per the stochastics below), it’s usually the kiss of death and time to sell. However, during - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWaTZSX2VkOUx2N19ENmdscXRJV2xGcklTQy1JZGF3ZTNES3NqcGg1QTNlamU1SUY0SXdKbnhpRHlPclNMWFdzeDdqSHlFSXJYYVFFUElPVXRsWXFNUEtjY0RMWUxoZw?oc=5\" target=\"_blank\">Bitcoin also continues to sh…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWaTZSX2VkOUx2N19ENmdscXRJV2xGcklTQy1JZGF3ZTNES3NqcGg1QTNlamU1SUY0SXdKbnhpRHlPclNMWFdzeDdqSHlFSXJYYVFFUElPVXRsWXFNUEtjY0RMWUxoZw?oc=5",
-      "publishedAt": "2026-04-29T13:30:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260429-bitcoin-also-continues-to-show-resilience-as-it-tests-the-upper-bounds-of-a-pote",
-      "localUrl": "/news/20260429-bitcoin-also-continues-to-show-resilience-as-it-tests-the-upper-bounds-of-a-pote.html"
     },
     {
       "source": "Ethereum Blog",
