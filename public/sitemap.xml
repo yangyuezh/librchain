@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-02T21:56:01.495Z</lastmod>
+    <lastmod>2026-05-02T23:00:44.332Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-02T21:56:01.495Z</lastmod>
+    <lastmod>2026-05-02T23:00:44.332Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260502-just-in-bitcoin-reclaims-79000-xcom.html</loc>
+    <lastmod>2026-05-02T21:39:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260502-openai-gpt-image-2-vs-google-nano-banana-2-which-ai-image-generator-is-best.html</loc>
@@ -85,14 +91,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260502-a-new-sell-signal-has-just-flashed-for-bitcoin-btc-the-tom-demark-td-sequential-.html</loc>
-    <lastmod>2026-05-02T12:25:07.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260502-7811803-bitcoin-xcom.html</loc>
+    <lastmod>2026-05-02T12:44:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260502-the-clarity-act-is-coming-coinbase-ceo-brian-armstrong-says-mark-it-up-the-most-.html</loc>
-    <lastmod>2026-05-02T11:24:16.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260502-a-new-sell-signal-has-just-flashed-for-bitcoin-btc-the-tom-demark-td-sequential-.html</loc>
+    <lastmod>2026-05-02T12:25:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -111,6 +117,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260502-riot-posts-167m-in-q1-revenue-as-data-center-arm-pulls-in-33m-in-first-quarter.html</loc>
     <lastmod>2026-05-02T10:18:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260502-satoshi-may-not-need-to-move-his-bitcoin-to-protect-it-from-quantum-attacks-a-ne.html</loc>
+    <lastmod>2026-05-02T09:10:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -445,12 +457,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260501-7643744-bitcoin-xcom.html</loc>
-    <lastmod>2026-05-01T00:43:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260430-mistral-ai-drops-new-open-source-model-the-internet-is-not-impressed-except-for-.html</loc>
     <lastmod>2026-04-30T21:31:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,12 +487,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260430-ripple-is-opening-its-new-middle-east-and-africa-regional-hq-in-the-difc-onrippl.html</loc>
-    <lastmod>2026-04-30T06:00:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260430-the-most-snoozed-ie-muted-topics-since-launching-the-snooze-feature-1-crypto-2-p.html</loc>
     <lastmod>2026-04-30T04:16:29.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -507,12 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260429-allocation-update-q1-2026.html</loc>
     <lastmod>2026-04-29T00:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260428-australias-crypto-crossroads-regulation-is-here-now-comes-the-hard-part.html</loc>
-    <lastmod>2026-04-28T23:00:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
