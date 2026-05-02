@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-02T19:15:09.874Z</lastmod>
+    <lastmod>2026-05-02T20:58:08.704Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-02T19:15:09.874Z</lastmod>
+    <lastmod>2026-05-02T20:58:08.704Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -45,6 +45,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260502-bitcoins-hazardous-airdrop-why-developers-are-warning-against-paul-sztorcs-ecash.html</loc>
     <lastmod>2026-05-02T16:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260502-the-us-senate-just-unblocked-the-crypto-market-structure-bill-and-crypto-platfor.html</loc>
+    <lastmod>2026-05-02T14:45:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -111,6 +117,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260502-ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal.html</loc>
     <lastmod>2026-05-02T08:03:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260502-kraken-parent-payward-closes-bitnomial-deal-to-expand-us-crypto-derivatives.html</loc>
+    <lastmod>2026-05-02T07:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -433,20 +445,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260501-bitcoin-seals-best-monthly-gain-in-a-year-as-sp-500-hits-fresh-all-time-high.html</loc>
-    <lastmod>2026-05-01T08:58:46.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260501-alert-new-ethereum-wallet-exploit-detected-hundreds-of-wallets-many-inactive-for.html</loc>
     <lastmod>2026-05-01T02:45:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260501-7643744-bitcoin-xcom.html</loc>
-    <lastmod>2026-05-01T00:43:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
