@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-05-02T23:57:58.595Z",
-  "total": 83,
+  "updatedAt": "2026-05-03T04:07:48.921Z",
+  "total": 62,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin logs best monthly performance in 12 months during April",
+      "summary": "Despite being the best-performing month in the past 12 months, it still came in slightly below its historical average, according to CoinGlass data.",
+      "url": "https://cointelegraph.com/news/bitcoin-posts-its-strongest-monthly-gain-in-12-months-in-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-03T03:29:34.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260503-bitcoin-logs-best-monthly-performance-in-12-months-during-april",
+      "localUrl": "/news/20260503-bitcoin-logs-best-monthly-performance-in-12-months-during-april.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "US CISA adds ‘insane’ Linux Copy Fail flaw to watch list",
@@ -17,6 +30,17 @@
     },
     {
       "source": "X Wire",
+      "title": "JUST IN: $79,106 Bitcoin 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wZEMwQ1JOWDNiNWR6RkRtSVd0NlJjZFJlcWRtYXVBSmtWbGxOakMxY05oelRBU2Ytcjl4RF9sQVcxWUJnT2tkN0ZEWWlBYVNnLXdUSzJTcmcwc1RXN2thZXlkOTV6a1E?oc=5\" target=\"_blank\">JUST IN: $79,106 Bitcoin 🚀…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wZEMwQ1JOWDNiNWR6RkRtSVd0NlJjZFJlcWRtYXVBSmtWbGxOakMxY05oelRBU2Ytcjl4RF9sQVcxWUJnT2tkN0ZEWWlBYVNnLXdUSzJTcmcwc1RXN2thZXlkOTV6a1E?oc=5",
+      "publishedAt": "2026-05-02T21:41:03.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260502-just-in-79106-bitcoin-xcom",
+      "localUrl": "/news/20260502-just-in-79106-bitcoin-xcom.html"
+    },
+    {
+      "source": "X Wire",
       "title": "JUST IN: Bitcoin reclaims $79,000 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oNmpkcmlrNUI5YS1RVXFwOFdESTZWRWc3a2xQb2hWYjlXVVp4TTBZeVhVQWxsTzFNNTJtamJMdEU4WjVXeDRqZ0N4NTA0b3VTeHdXMXF3czRlZ3Z4bEtESnBn?oc=5\" target=\"_blank\">JUST IN: Bitcoin reclaims $79,000<…",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oNmpkcmlrNUI5YS1RVXFwOFdESTZWRWc3a2xQb2hWYjlXVVp4TTBZeVhVQWxsTzFNNTJtamJMdEU4WjVXeDRqZ0N4NTA0b3VTeHdXMXF3czRlZ3Z4bEtESnBn?oc=5",
@@ -25,32 +49,6 @@
       "category": "X热点",
       "slug": "20260502-just-in-bitcoin-reclaims-79000-xcom",
       "localUrl": "/news/20260502-just-in-bitcoin-reclaims-79000-xcom.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI GPT Image 2 vs Google Nano Banana 2: Which AI Image Generator Is Best?",
-      "summary": "Which state-of-the-art AI image generator is most effective at producing A+ results? We put GPT Image 2 and Nano Banana 2 to the test.",
-      "url": "https://decrypt.co/366408/openai-gpt-image-2-vs-google-nano-banana-2-review",
-      "publishedAt": "2026-05-02T18:50:19.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260502-openai-gpt-image-2-vs-google-nano-banana-2-which-ai-image-generator-is-best",
-      "localUrl": "/news/20260502-openai-gpt-image-2-vs-google-nano-banana-2-which-ai-image-generator-is-best.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Oscars Ban AI Performances and Screenplays From Eligibility",
-      "summary": "New rules require human actors and writers for Oscar consideration.",
-      "url": "https://decrypt.co/366405/oscars-ban-ai-performances-screenplays-eligibility",
-      "publishedAt": "2026-05-02T18:17:28.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260502-oscars-ban-ai-performances-and-screenplays-from-eligibility",
-      "localUrl": "/news/20260502-oscars-ban-ai-performances-and-screenplays-from-eligibility.html"
     },
     {
       "source": "X Wire",
@@ -77,6 +75,17 @@
       "category": "监管",
       "slug": "20260502-brazils-central-bank-bans-stablecoin-and-crypto-settlement-in-cross-border-payme",
       "localUrl": "/news/20260502-brazils-central-bank-bans-stablecoin-and-crypto-settlement-in-cross-border-payme.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "A fact I feel like almost nobody knows: Ethereum's gas limit will be increased to ~200M after Glamsterdam, a huge increase from the 60M we have today. That’s a 3x+ of L1 execution capacity, with expectation of further doubling soons after that. Assuming no si - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OeGwtMUZETmtzNXkzdUpnMFU3REs5SWEzUHlCU1Q3b2lyR1J6bDFUaWRiaUotS3J5Y3hsTjZQZll0Sm5sSVU2UmdFVFF6Z1JJN25DaXF3d2Uwa2M?oc=5\" target=\"_blank\">A fact I feel like almost nobody knows: Eth…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OeGwtMUZETmtzNXkzdUpnMFU3REs5SWEzUHlCU1Q3b2lyR1J6bDFUaWRiaUotS3J5Y3hsTjZQZll0Sm5sSVU2UmdFVFF6Z1JJN25DaXF3d2Uwa2M?oc=5",
+      "publishedAt": "2026-05-02T16:12:26.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260502-a-fact-i-feel-like-almost-nobody-knows-ethereums-gas-limit-will-be-increased-to-",
+      "localUrl": "/news/20260502-a-fact-i-feel-like-almost-nobody-knows-ethereums-gas-limit-will-be-increased-to-.html"
     },
     {
       "source": "CoinDesk",
@@ -108,6 +117,17 @@
       "category": "市场",
       "slug": "20260502-bitcoins-hazardous-airdrop-why-developers-are-warning-against-paul-sztorcs-ecash",
       "localUrl": "/news/20260502-bitcoins-hazardous-airdrop-why-developers-are-warning-against-paul-sztorcs-ecash.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "i had many discussions about quantum & bitcoin in las vegas this week, both on and off stage, with skeptics, advocates, and many overall smart bitcoiners some consensus i feel is emerging: 1) satoshi’s coins (P2PK) should not be touched. violating his propert - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vVmpfZk9XbXZmWE9nOWpJTE9ZTWdBUU5SWUpVYTdnQ2Q1bHo4Z3dYYXFNRDFHczdlR1pJLWNaN0JXTnNadDlpbnhOcG1JR3EzakdJU0FzdHIzM2JaTmNjbmpRalRyMkU?oc=5\" target=\"_blank\">i had many discussions abou…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vVmpfZk9XbXZmWE9nOWpJTE9ZTWdBUU5SWUpVYTdnQ2Q1bHo4Z3dYYXFNRDFHczdlR1pJLWNaN0JXTnNadDlpbnhOcG1JR3EzakdJU0FzdHIzM2JaTmNjbmpRalRyMkU?oc=5",
+      "publishedAt": "2026-05-02T14:55:12.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260502-i-had-many-discussions-about-quantum-bitcoin-in-las-vegas-this-week-both-on-and-",
+      "localUrl": "/news/20260502-i-had-many-discussions-about-quantum-bitcoin-in-las-vegas-this-week-both-on-and-.html"
     },
     {
       "source": "X Wire",
@@ -167,19 +187,6 @@
       "category": "X热点",
       "slug": "20260502-last-week-ethereum-core-contributors-gathered-in-svalbard-for-the-soldgn-interop",
       "localUrl": "/news/20260502-last-week-ethereum-core-contributors-gathered-in-svalbard-for-the-soldgn-interop.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenClaw Put Apple Back in the AI Game—And Now They Can't Build Macs Fast Enough",
-      "summary": "The Mac mini went from a $599 desktop nobody cared about to the hottest piece of AI hardware on the planet. One open-source agent framework did it.",
-      "url": "https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026",
-      "publishedAt": "2026-05-02T13:01:02.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260502-openclaw-put-apple-back-in-the-ai-gameand-now-they-cant-build-macs-fast-enough",
-      "localUrl": "/news/20260502-openclaw-put-apple-back-in-the-ai-gameand-now-they-cant-build-macs-fast-enough.html"
     },
     {
       "source": "CoinDesk",
@@ -245,6 +252,17 @@
       "category": "X热点",
       "slug": "20260502-gold-vs-bitcoin-2010-1-kg-gold-152267-btc-2015-1-kg-gold-87-btc-2020-1-kg-gold-2",
       "localUrl": "/news/20260502-gold-vs-bitcoin-2010-1-kg-gold-152267-btc-2015-1-kg-gold-87-btc-2020-1-kg-gold-2.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BULLISH: 🇺🇸Coinbase says a deal has been REACHED on a key provision of the CLARITY Act. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFYlJJWTRhOUExQ1MyZkFkcTN2Q2FMR3FWdlBWU2VzMGZXUmZwR2NBNXROQVJRRUZlWjZyZEQzdlZVX2hzaEhaelBfdW85a195NFphUHdhWWRLTFJXaTdyRml3?oc=5\" target=\"_blank\">BULLISH: 🇺🇸Coinbase says a deal …",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFYlJJWTRhOUExQ1MyZkFkcTN2Q2FMR3FWdlBWU2VzMGZXUmZwR2NBNXROQVJRRUZlWjZyZEQzdlZVX2hzaEhaelBfdW85a195NFphUHdhWWRLTFJXaTdyRml3?oc=5",
+      "publishedAt": "2026-05-02T10:35:16.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260502-bullish-coinbase-says-a-deal-has-been-reached-on-a-key-provision-of-the-clarity-",
+      "localUrl": "/news/20260502-bullish-coinbase-says-a-deal-has-been-reached-on-a-key-provision-of-the-clarity-.html"
     },
     {
       "source": "X Wire",
@@ -364,6 +382,17 @@
     },
     {
       "source": "X Wire",
+      "title": "🩸BREAKING: Ethereum Founder Vitalik Butterin sells $23,000,000 worth of $ETH... - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oZnV0OWpVd3hNbG9keDk1UlBPaEl0d2xCdjVNQmt5NDlSel9QX2NVVTFTRG5xclJXcFYxYzBlZTNDaERYRVlxcGRRWGtMa2JhakxkazVFcHFpVkg2c0JzUXFR?oc=5\" target=\"_blank\">🩸BREAKING: Ethereum Founder Vital…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oZnV0OWpVd3hNbG9keDk1UlBPaEl0d2xCdjVNQmt5NDlSel9QX2NVVTFTRG5xclJXcFYxYzBlZTNDaERYRVlxcGRRWGtMa2JhakxkazVFcHFpVkg2c0JzUXFR?oc=5",
+      "publishedAt": "2026-05-02T06:03:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260502-breaking-ethereum-founder-vitalik-butterin-sells-23000000-worth-of-eth-xcom",
+      "localUrl": "/news/20260502-breaking-ethereum-founder-vitalik-butterin-sells-23000000-worth-of-eth-xcom.html"
+    },
+    {
+      "source": "X Wire",
       "title": "a16z crypto: Why 'stablecoins' won't age well According to a16z crypto, the term 'stablecoin' may eventually become outdated. The article argues that stablecoins were first created to reduce the impact of crypto volatility, but stability has now become a baseline - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyamJiMVVnZEtuTlFwWG9Zc3BqVVJQekYyZzBDYVVzT0RqLUU0YjZTQUJSa0FiTm9JTkZxVUZRZ3E1cXd1Y0NuaFk4R1h1UTNIdmZvRVUzVk1jVUZPWV9RSklQbw?oc=5\" target=\"_blank\">a16z crypto: Why 'stablecoins' w…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyamJiMVVnZEtuTlFwWG9Zc3BqVVJQekYyZzBDYVVzT0RqLUU0YjZTQUJSa0FiTm9JTkZxVUZRZ3E1cXd1Y0NuaFk4R1h1UTNIdmZvRVUzVk1jVUZPWV9RSklQbw?oc=5",
@@ -429,30 +458,6 @@
       "localUrl": "/news/20260501-clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank.html"
     },
     {
-      "source": "X Wire",
-      "title": "The final rewards text in the CLARITY Act is now public. We’ve been clear throughout this process: much of this debate was based on imagined risks, not real evidence, nor was it based on a real understanding of how crypto actually works. Nevertheless, the cr - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jY014OXdFLXJXcnFsVkEyM25qdE10U0hIUUxQMFl6bmZUelFIVjNDOFhKeS1SZ2hUM1FmX3NFdm84Nzg1MkRrVEszT21aTWdhejVveEwxOGt4V0otMWRZS25BOG8?oc=5\" target=\"_blank\">The final rewards text in the C…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jY014OXdFLXJXcnFsVkEyM25qdE10U0hIUUxQMFl6bmZUelFIVjNDOFhKeS1SZ2hUM1FmX3NFdm84Nzg1MkRrVEszT21aTWdhejVveEwxOGt4V0otMWRZS25BOG8?oc=5",
-      "publishedAt": "2026-05-01T21:23:03.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260501-the-final-rewards-text-in-the-clarity-act-is-now-public-weve-been-clear-througho",
-      "localUrl": "/news/20260501-the-final-rewards-text-in-the-clarity-act-is-now-public-weve-been-clear-througho.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Minnesota Moves to Ban AI Apps That Generate Fake Nude Images",
-      "summary": "The bill, which bans AI tools that generate fake nudity and lets victims sue their creators, will go to Governor Walz for his signature.",
-      "url": "https://decrypt.co/366388/minnesota-moves-ban-ai-apps-generate-fake-nude-images",
-      "publishedAt": "2026-05-01T21:16:03.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260501-minnesota-moves-to-ban-ai-apps-that-generate-fake-nude-images",
-      "localUrl": "/news/20260501-minnesota-moves-to-ban-ai-apps-that-generate-fake-nude-images.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Three Bitcoin data points suggest a rally to $80K is imminent",
       "summary": "Bitcoin chases $80,000 as rising spot volumes and futures open interest suggest the market has shifted back in the bulls’ favor.",
@@ -508,19 +513,6 @@
       "localUrl": "/news/20260501-price-predictions-51-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine",
-      "summary": "For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.",
-      "url": "https://decrypt.co/366385/ethereum-foundation-sells-23-million-more-eth-tom-lee-bitmine",
-      "publishedAt": "2026-05-01T18:55:21.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260501-ethereum-foundation-sells-23-million-more-in-eth-to-tom-lees-bitmine",
-      "localUrl": "/news/20260501-ethereum-foundation-sells-23-million-more-in-eth-to-tom-lees-bitmine.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Gency AI raises $20 million to build a sovereign advertising network powered by AI and blockchain consensus",
       "summary": "AI and blockchain infrastructure company Gency AI today announced it has raised $20 million in a new funding round.",
@@ -534,17 +526,15 @@
       "localUrl": "/news/20260501-gency-ai-raises-20-million-to-build-a-sovereign-advertising-network-powered-by-a.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Doctors Use AI to Spot 'Hidden' Sperm In Men",
-      "summary": "Columbia University Fertility Center's Star method uses artificial intelligence to detect rare sperm missed in standard tests.",
-      "url": "https://decrypt.co/366374/doctors-ai-hidden-sperm-men-study",
-      "publishedAt": "2026-05-01T18:39:04.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "市场",
-      "slug": "20260501-doctors-use-ai-to-spot-hidden-sperm-in-men",
-      "localUrl": "/news/20260501-doctors-use-ai-to-spot-hidden-sperm-in-men.html"
+      "source": "X Wire",
+      "title": "BIG: CZ said, “U.S. banks are buying Bitcoin.” The next bull market will be WILD. 🔥 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jOUhVTF84QUFscG8tVVRaVGRGWDNVY1NhbTJlT21UdEdjeWZmQXFvZ0djaGQ4WnZwdVRHbUhUaEM1MWVzaktJLUU5NGs2NmZqemZpcWJJdVBqcHgyRjhNMC1n?oc=5\" target=\"_blank\">BIG: CZ said, “U.S. banks are buyi…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jOUhVTF84QUFscG8tVVRaVGRGWDNVY1NhbTJlT21UdEdjeWZmQXFvZ0djaGQ4WnZwdVRHbUhUaEM1MWVzaktJLUU5NGs2NmZqemZpcWJJdVBqcHgyRjhNMC1n?oc=5",
+      "publishedAt": "2026-05-01T18:18:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260501-big-cz-said-us-banks-are-buying-bitcoin-the-next-bull-market-will-be-wild-xcom",
+      "localUrl": "/news/20260501-big-cz-said-us-banks-are-buying-bitcoin-the-next-bull-market-will-be-wild-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -561,19 +551,6 @@
       "category": "基础设施",
       "slug": "20260501-ethereum-foundation-finalizes-sale-of-10000-ether-to-bitmine-as-part-of-its-trea",
       "localUrl": "/news/20260501-ethereum-foundation-finalizes-sale-of-10000-ether-to-bitmine-as-part-of-its-trea.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI's GPT-5.5 Matches Claude Mythos in Cyberattack Capabilities: AI Security Institute",
-      "summary": "OpenAI's GPT-5.5 is the second AI system to complete a simulated corporate network intrusion end-to-end, raising alarms.",
-      "url": "https://decrypt.co/366371/openais-gpt-55-matches-claude-mythos-cyberattack-ai-security-institute",
-      "publishedAt": "2026-05-01T17:56:55.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260501-openais-gpt-55-matches-claude-mythos-in-cyberattack-capabilities-ai-security-ins",
-      "localUrl": "/news/20260501-openais-gpt-55-matches-claude-mythos-in-cyberattack-capabilities-ai-security-ins.html"
     },
     {
       "source": "X Wire",
@@ -617,19 +594,6 @@
       "localUrl": "/news/20260501-a-new-narrative-for-bitcoin-that-will-last.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Pentagon Signs AI Deals With Google, OpenAI, Nvidia, Microsoft, Amazon and SpaceX",
-      "summary": "The Department of Defense's agreements will enable AI from the likes of Google and OpenAI to run on top-secret military networks.",
-      "url": "https://decrypt.co/366351/pentagon-ai-deals-google-openai-nvidia-microsoft-amazon-spacex",
-      "publishedAt": "2026-05-01T17:22:53.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260501-pentagon-signs-ai-deals-with-google-openai-nvidia-microsoft-amazon-and-spacex",
-      "localUrl": "/news/20260501-pentagon-signs-ai-deals-with-google-openai-nvidia-microsoft-amazon-and-spacex.html"
-    },
-    {
       "source": "X Wire",
       "title": "0/ Today, the Ethereum Foundation finalized the terms of a 10,000 ETH sale at an average price of $2,292.15 via OTC. For this sale, our OTC counterpart was @BitMNR. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE01NXhlbmlhMmlQTm9DMGZWRExYblUyRVlINk5fZFF4a1lmS1dOV0dlSDcwUTFGeWVEelpiaHFSZHNFcENuNzJsVDdzaEtYSzdTajBvRHA1dzBxS09temo3cDlKRQ?oc=5\" target=\"_blank\">0/ Today, the Ethereum Foundatio…",
@@ -657,30 +621,6 @@
       "localUrl": "/news/20260501-tether-posts-104-billion-q1-profit-reaches-823-billion-reserve-buffer.html"
     },
     {
-      "source": "X Wire",
-      "title": "🇺🇸 President Trump: '' #Bitcoin and crypto will skyrocket like never before, beyond your expectations.'' - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfQXgxUmVoYlVWTU1xOVZBUndLWGE1cFAzMnBtT2U2SkZSWGZNOXl1OV91VkswbWFTYmdFUjBoeXoxRDl2N0duRFFOX1pnSk9qNmtWN3VxUFlyVnFPdjItREV3?oc=5\" target=\"_blank\">🇺🇸 President Trump: '' #Bitcoin …",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfQXgxUmVoYlVWTU1xOVZBUndLWGE1cFAzMnBtT2U2SkZSWGZNOXl1OV91VkswbWFTYmdFUjBoeXoxRDl2N0duRFFOX1pnSk9qNmtWN3VxUFlyVnFPdjItREV3?oc=5",
-      "publishedAt": "2026-05-01T16:19:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260501-president-trump-bitcoin-and-crypto-will-skyrocket-like-never-before-beyond-your-",
-      "localUrl": "/news/20260501-president-trump-bitcoin-and-crypto-will-skyrocket-like-never-before-beyond-your-.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Riot Platforms Stock Pops as Bitcoin Miner Reports Data Center Revenue, Doubled AMD Deal",
-      "summary": "The Bitcoin mining company's pivot to AI infrastructure hosting generated its first data center revenue as AMD expanded its capacity.",
-      "url": "https://decrypt.co/366347/riot-stock-pops-bitcoin-miner-data-center-revenue-doubled-amd-deal",
-      "publishedAt": "2026-05-01T16:10:35.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "市场",
-      "slug": "20260501-riot-platforms-stock-pops-as-bitcoin-miner-reports-data-center-revenue-doubled-a",
-      "localUrl": "/news/20260501-riot-platforms-stock-pops-as-bitcoin-miner-reports-data-center-revenue-doubled-a.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Crypto Biz: Capital has no consensus",
       "summary": "Crypto markets splinter as miners pivot to AI, BitMine doubles down on ETH, stablecoin liquidity idles, and tokenized Treasurys reshape trading collateral.",
@@ -692,19 +632,6 @@
       "category": "DeFi",
       "slug": "20260501-crypto-biz-capital-has-no-consensus",
       "localUrl": "/news/20260501-crypto-biz-capital-has-no-consensus.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Ethereum ETFs Shed $184M Over 4-Day Negative Streak",
-      "summary": "Outflows from Ethereum ETFs extended to a 4-day streak as Bitcoin funds shed $490 million, even as the S&P 500 hit an all-time high.",
-      "url": "https://decrypt.co/366343/ethereum-etfs-shed-184m-over-4-day-negative-streak",
-      "publishedAt": "2026-05-01T15:47:39.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "监管",
-      "slug": "20260501-ethereum-etfs-shed-184m-over-4-day-negative-streak",
-      "localUrl": "/news/20260501-ethereum-etfs-shed-184m-over-4-day-negative-streak.html"
     },
     {
       "source": "CoinDesk",
@@ -723,32 +650,6 @@
       "localUrl": "/news/20260501-ai-agent-forms-its-own-company-gets-ready-to-trade-crypto.html"
     },
     {
-      "source": "Decrypt",
-      "title": "MoonPay Launches Debit Mastercard That Lets AI Agents Pay With Stablecoins",
-      "summary": "MoonPay’s new debit Mastercard lets autonomous AI agents spend stablecoins at any online Mastercard merchant.",
-      "url": "https://decrypt.co/366341/moonpay-launches-debit-mastercard-ai-agents-pay-stablecoins",
-      "publishedAt": "2026-05-01T15:16:44.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260501-moonpay-launches-debit-mastercard-that-lets-ai-agents-pay-with-stablecoins",
-      "localUrl": "/news/20260501-moonpay-launches-debit-mastercard-that-lets-ai-agents-pay-with-stablecoins.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Tether Reports Billion-Dollar Q1 Profit Amid Crypto Slump—And Says Audit Has Begun",
-      "summary": "Stablecoin giant Tether says it holds over $141 billion in U.S. Treasuries, a figure that has never been verified by a full audit.",
-      "url": "https://decrypt.co/366324/tether-reports-billion-dollar-profit-amid-crypto-slump-audit-begun",
-      "publishedAt": "2026-05-01T15:03:07.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "市场",
-      "slug": "20260501-tether-reports-billion-dollar-q1-profit-amid-crypto-slumpand-says-audit-has-begu",
-      "localUrl": "/news/20260501-tether-reports-billion-dollar-q1-profit-amid-crypto-slumpand-says-audit-has-begu.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin takes another aim at $80,000 as stocks rise, oil drops on Iran optimism",
       "summary": "The crypto asset rose nearly 3% over the past 24 hours.",
@@ -762,20 +663,6 @@
       "category": "市场",
       "slug": "20260501-bitcoin-takes-another-aim-at-80000-as-stocks-rise-oil-drops-on-iran-optimism",
       "localUrl": "/news/20260501-bitcoin-takes-another-aim-at-80000-as-stocks-rise-oil-drops-on-iran-optimism.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Dogecoin Hits 2-Month High as DOGE Mining Firm Plans to Go Public via Merger",
-      "summary": "Nasdaq-listed pharmaceutical company Shuttle pivots to crypto mining in first major institutional play for Dogecoin mining.",
-      "url": "https://decrypt.co/366320/dogecoin-2-month-high-doge-mining-firm-go-public",
-      "publishedAt": "2026-05-01T14:12:08.000Z",
-      "keywords": [
-        "dogecoin",
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260501-dogecoin-hits-2-month-high-as-doge-mining-firm-plans-to-go-public-via-merger",
-      "localUrl": "/news/20260501-dogecoin-hits-2-month-high-as-doge-mining-firm-plans-to-go-public-via-merger.html"
     },
     {
       "source": "Cointelegraph",
@@ -820,19 +707,6 @@
       "localUrl": "/news/20260501-institutional-demand-to-drive-bitcoin-market-cap-to-16-trillion-by-2030-ark-inve.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Senators Warren, Wyden Quiz Commerce Secretary Lutnick Over Tether Loan to Children’s Trust",
-      "summary": "The probe follows reports that Dynasty Trust A, which benefits Lutnick’s children, borrowed an undisclosed sum from the stablecoin issuer.",
-      "url": "https://decrypt.co/366312/senators-warren-wyden-quiz-commerce-secretary-lutnick-over-tether-loan-to-childrens-trust",
-      "publishedAt": "2026-05-01T13:31:27.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260501-senators-warren-wyden-quiz-commerce-secretary-lutnick-over-tether-loan-to-childr",
-      "localUrl": "/news/20260501-senators-warren-wyden-quiz-commerce-secretary-lutnick-over-tether-loan-to-childr.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "CoinDesk 20 performance update: Bittensor (TAO) gains 5.5%, leading index higher",
       "summary": "Bitcoin (BTC), up 1.9% from Thursday, was also a top performer.",
@@ -862,32 +736,6 @@
       "category": "市场",
       "slug": "20260501-did-dogecoin-bottom-first-doge-price-poised-for-20-gains-as-whales-return",
       "localUrl": "/news/20260501-did-dogecoin-bottom-first-doge-price-poised-for-20-gains-as-whales-return.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: MegaETH's MEGA Debut Biggest of 2026",
-      "summary": "MegaETH just debuted the biggest token of 2026 to date, while Kalshi is now officially a top-five U.S. sportsbook.",
-      "url": "https://decrypt.co/366299/morning-minute-megaeths-mega-debut-biggest-of-2026",
-      "publishedAt": "2026-05-01T11:55:19.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "市场",
-      "slug": "20260501-morning-minute-megaeths-mega-debut-biggest-of-2026",
-      "localUrl": "/news/20260501-morning-minute-megaeths-mega-debut-biggest-of-2026.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin Closes April Up 12% as Strategy's MSTR Posts First Positive Month Since July",
-      "summary": "Bitcoin rallied 12% in April as Strategy added $4.1 billion in BTC, but on-chain data suggests gains may be speculative.",
-      "url": "https://decrypt.co/366297/bitcoin-closes-april-up-12-as-strategys-mstr-posts-first-positive-month-since-july",
-      "publishedAt": "2026-05-01T11:47:53.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "市场",
-      "slug": "20260501-bitcoin-closes-april-up-12-as-strategys-mstr-posts-first-positive-month-since-ju",
-      "localUrl": "/news/20260501-bitcoin-closes-april-up-12-as-strategys-mstr-posts-first-positive-month-since-ju.html"
     },
     {
       "source": "CoinDesk",
@@ -934,19 +782,6 @@
       "localUrl": "/news/20260501-bitcoin-etfs-draw-2b-in-april-for-highest-monthly-inflows-this-year.html"
     },
     {
-      "source": "Decrypt",
-      "title": "South Korean Court Lifts Bithumb's Six-Month Business Suspension",
-      "summary": "A Seoul court has reversed March sanctions that would have restricted the exchange's core functions over alleged compliance failures.",
-      "url": "https://decrypt.co/366292/south-korean-court-lifts-bithumbs-six-month-business-suspension",
-      "publishedAt": "2026-05-01T10:32:10.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260501-south-korean-court-lifts-bithumbs-six-month-business-suspension",
-      "localUrl": "/news/20260501-south-korean-court-lifts-bithumbs-six-month-business-suspension.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin ticks higher, but remains range-bound as traders keep short bias",
       "summary": "BTC rises to $77,000 after holding $75,000 support, but negative funding, unchanged open interest and cautious positioning signal a lack of conviction.",
@@ -960,91 +795,6 @@
       "category": "市场",
       "slug": "20260501-bitcoin-ticks-higher-but-remains-range-bound-as-traders-keep-short-bias",
       "localUrl": "/news/20260501-bitcoin-ticks-higher-but-remains-range-bound-as-traders-keep-short-bias.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Brazil bars crypto settlement in regulated cross-border payment rails",
-      "summary": "Brazil’s central bank barred virtual assets from settlement inside regulated eFX payment rails as it tightens oversight of crypto-linked flows.",
-      "url": "https://cointelegraph.com/news/brazil-central-bank-bars-virtual-assets-from-cross-border-payment-service-efx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-01T10:07:14.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260501-brazil-bars-crypto-settlement-in-regulated-cross-border-payment-rails",
-      "localUrl": "/news/20260501-brazil-bars-crypto-settlement-in-regulated-cross-border-payment-rails.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨ALERT: NEW ETHEREUM WALLET EXPLOIT DETECTED Hundreds of wallets, many inactive for 7+ years, were just drained by the same address on Ethereum mainnet. The activity suggests a possible new live exploit and is being closely monitored. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xU3JsdkI0LVZqSWtIeXV4eUl1SFd6R1NaNFpoMUlkTVA2dUZYVGhXT2ZfMl9rU3M1SjNYNlhhVTEzQzZVeDdyVDFVLVN6N195VDFUdU5VMVB0NElERkk2Vg?oc=5\" target=\"_blank\">🚨ALERT: NEW ETHEREUM WALLET EXPLOIT…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xU3JsdkI0LVZqSWtIeXV4eUl1SFd6R1NaNFpoMUlkTVA2dUZYVGhXT2ZfMl9rU3M1SjNYNlhhVTEzQzZVeDdyVDFVLVN6N195VDFUdU5VMVB0NElERkk2Vg?oc=5",
-      "publishedAt": "2026-05-01T02:45:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260501-alert-new-ethereum-wallet-exploit-detected-hundreds-of-wallets-many-inactive-for",
-      "localUrl": "/news/20260501-alert-new-ethereum-wallet-exploit-detected-hundreds-of-wallets-many-inactive-for.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Mistral AI Drops New Open-Source Model. The Internet Is Not Impressed, Except for One Thing",
-      "summary": "Mistral Medium 3.5 is the rare Western entry in the open-source top tier, but it costs multiples more than Chinese rivals that beat it on benchmarks.",
-      "url": "https://decrypt.co/366275/mistral-ai-open-source-model-agents-internet-not-impressed",
-      "publishedAt": "2026-04-30T21:31:03.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260430-mistral-ai-drops-new-open-source-model-the-internet-is-not-impressed-except-for-",
-      "localUrl": "/news/20260430-mistral-ai-drops-new-open-source-model-the-internet-is-not-impressed-except-for-.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Elon Musk Says xAI Used OpenAI Models to Train Grok",
-      "summary": "The admission in federal court is a rare acknowledgment of the use of distillation techniques as AI firms compete to build more capable and cheaper models.",
-      "url": "https://decrypt.co/366274/elon-musk-xai-used-openai-models-train-grok",
-      "publishedAt": "2026-04-30T20:52:43.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260430-elon-musk-says-xai-used-openai-models-to-train-grok",
-      "localUrl": "/news/20260430-elon-musk-says-xai-used-openai-models-to-train-grok.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin Crash Incoming? April Surge Was Built on Shaky Ground, Analysts Warn",
-      "summary": "Analysts warn that the Bitcoin rally was fueled by speculative futures trading, mirroring conditions that preceded the 2022 crypto crash.",
-      "url": "https://decrypt.co/366267/bitcoin-crash-incoming-april-surge-built-shaky-ground-analysts-warn",
-      "publishedAt": "2026-04-30T20:30:19.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260430-bitcoin-crash-incoming-april-surge-was-built-on-shaky-ground-analysts-warn",
-      "localUrl": "/news/20260430-bitcoin-crash-incoming-april-surge-was-built-on-shaky-ground-analysts-warn.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Today, we hand-delivered a message to Washington. Over 28,000 Americans signed our petition this week, asking the Senate one thing: mark up the CLARITY Act. We're watching. We're organized. And we're voting. 🇺🇸 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAydGp3WmdTVk9mRU5ERDNaRG9SUnJFc3NuRGxvWmVHZzR2SkdSYlJxRVpwTlhlNGloVl8xeFlTTnFNcnJKamtxcTFpMlpMZ2FtQmlaNW1OUWNiMHRaUHllMVVKSFZRQ2M?oc=5\" target=\"_blank\">Today, we hand-delivered a …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAydGp3WmdTVk9mRU5ERDNaRG9SUnJFc3NuRGxvWmVHZzR2SkdSYlJxRVpwTlhlNGloVl8xeFlTTnFNcnJKamtxcTFpMlpMZ2FtQmlaNW1OUWNiMHRaUHllMVVKSFZRQ2M?oc=5",
-      "publishedAt": "2026-04-30T18:59:05.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260430-today-we-hand-delivered-a-message-to-washington-over-28000-americans-signed-our-",
-      "localUrl": "/news/20260430-today-we-hand-delivered-a-message-to-washington-over-28000-americans-signed-our-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Digital asset market structure legislation will make America the crypto capital of the world. Chairman @SenatorTimScott believes that faster, cheaper transactions help Americans keep more of their money and strengthen U.S. leadership in financial innovation. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5maWVNaE5yNEdkZ3Fxb1ExcFNMYVpCOWhrd3Ztd1JZcF9JOGVNdGlBa0VQVkRCaFRTcERURjhlMHVCaDRBSkZCOFB0cmI2dlpzb2JBN3otd3B2X0MxNWZjRA?oc=5\" target=\"_blank\">Digital asset market structure legis…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5maWVNaE5yNEdkZ3Fxb1ExcFNMYVpCOWhrd3Ztd1JZcF9JOGVNdGlBa0VQVkRCaFRTcERURjhlMHVCaDRBSkZCOFB0cmI2dlpzb2JBN3otd3B2X0MxNWZjRA?oc=5",
-      "publishedAt": "2026-04-30T16:30:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260430-digital-asset-market-structure-legislation-will-make-america-the-crypto-capital-",
-      "localUrl": "/news/20260430-digital-asset-market-structure-legislation-will-make-america-the-crypto-capital-.html"
     },
     {
       "source": "X Wire",
@@ -1069,17 +819,6 @@
       "localUrl": "/news/20260430-the-most-snoozed-ie-muted-topics-since-launching-the-snooze-feature-1-crypto-2-p.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 Eric Trumps predicts \"Bitcoin is going to hit $1 million.\" \"I don't know if it's 2030, I don't know if it's 2031, but I absolutely believe it gets there.\" \"I have never been more bullish on this asset class in my life.\" 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhUU1BZkZvaE82ckR0NHRiZVNzSWxGaXFVaWQ1aG54dkMyYndUUE5TV1l3Y1BRNWtEa1Z5SHVmQTZaM0J1RGdOYURwZENXYVhOT0Z0STdNa2pEMzNISmZ2Q0FqN3B5VmM?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Eric Trumps p…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhUU1BZkZvaE82ckR0NHRiZVNzSWxGaXFVaWQ1aG54dkMyYndUUE5TV1l3Y1BRNWtEa1Z5SHVmQTZaM0J1RGdOYURwZENXYVhOT0Z0STdNa2pEMzNISmZ2Q0FqN3B5VmM?oc=5",
-      "publishedAt": "2026-04-30T00:04:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260430-just-in-eric-trumps-predicts-bitcoin-is-going-to-hit-1-million-i-dont-know-if-it",
-      "localUrl": "/news/20260430-just-in-eric-trumps-predicts-bitcoin-is-going-to-hit-1-million-i-dont-know-if-it.html"
-    },
-    {
       "source": "Ethereum Blog",
       "title": "Announcing Cohort 7 of the Ethereum Protocol Fellowship",
       "summary": "TL;DR: 📝 Applications for EPF7 are open until May 13 🔎 Review the program details for EPF7 🎙️ An introductory town hall will be held on May 6 at 1500 UTC We are excited to announce that applications are now open for the seventh cohort o…",
@@ -1091,19 +830,6 @@
       "category": "基础设施",
       "slug": "20260430-announcing-cohort-7-of-the-ethereum-protocol-fellowship",
       "localUrl": "/news/20260430-announcing-cohort-7-of-the-ethereum-protocol-fellowship.html"
-    },
-    {
-      "source": "Ethereum Blog",
-      "title": "Allocation Update - Q1 2026",
-      "summary": "Q1 2026 continued our focus on strengthening Ethereum’s foundations, with sustained investment in core domains like cryptography, zero-knowledge proofs, security, and protocol research. See the list below of the projects and ecosystem effo…",
-      "url": "https://blog.ethereum.org/en/2026/04/29/allocation-q1-26",
-      "publishedAt": "2026-04-29T00:00:00.000Z",
-      "keywords": [
-        "Ecosystem Support Program"
-      ],
-      "category": "监管",
-      "slug": "20260429-allocation-update-q1-2026",
-      "localUrl": "/news/20260429-allocation-update-q1-2026.html"
     }
   ]
 }
