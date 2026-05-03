@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-03T21:56:58.464Z</lastmod>
+    <lastmod>2026-05-03T23:01:07.289Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-03T21:56:58.464Z</lastmod>
+    <lastmod>2026-05-03T23:01:07.289Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260503-strategy-takes-bitcoin-buying-breather-ahead-of-q1-earnings-report.html</loc>
+    <lastmod>2026-05-03T21:56:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260503-just-in-79220-bitcoin-xcom.html</loc>
+    <lastmod>2026-05-03T20:37:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260503-how-canton-network-lets-institutions-guard-against-defi-security-risks-digital-a.html</loc>
@@ -57,12 +69,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260503-heres-what-happened-in-crypto-today.html</loc>
     <lastmod>2026-05-03T14:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260503-new-michael-saylor-says-no-buys-this-week-back-to-work-next-week-xcom.html</loc>
-    <lastmod>2026-05-03T13:44:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -159,6 +165,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260502-just-in-bitcoin-reclaims-79000-xcom.html</loc>
     <lastmod>2026-05-02T21:39:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260502-now-us-has-started-refunding-17500000000000-in-tariff-revenue-consumers-paid-the.html</loc>
+    <lastmod>2026-05-02T21:31:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -295,12 +307,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260502-breaking-ethereum-founder-vitalik-butterin-sells-23000000-worth-of-eth-xcom.html</loc>
-    <lastmod>2026-05-02T06:03:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260502-a16z-crypto-why-stablecoins-wont-age-well-according-to-a16z-crypto-the-term-stab.html</loc>
     <lastmod>2026-05-02T05:22:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -355,12 +361,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260501-price-predictions-51-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr.html</loc>
-    <lastmod>2026-05-01T19:07:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260501-ethereum-foundation-sells-23-million-more-in-eth-to-tom-lees-bitmine.html</loc>
     <lastmod>2026-05-01T18:55:21.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -381,12 +381,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260501-ethereum-foundation-finalizes-sale-of-10000-ether-to-bitmine-as-part-of-its-trea.html</loc>
     <lastmod>2026-05-01T18:16:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260501-bitcoin-15-trillion-gold-344-trillion-global-stock-market-140-trillion-we-are-so.html</loc>
-    <lastmod>2026-05-01T18:10:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,6 +483,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260501-south-korean-court-lifts-bithumbs-six-month-business-suspension.html</loc>
     <lastmod>2026-05-01T10:32:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260501-alert-new-ethereum-wallet-exploit-detected-hundreds-of-wallets-many-inactive-for.html</loc>
+    <lastmod>2026-05-01T02:45:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
