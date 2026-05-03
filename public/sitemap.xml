@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-03T18:02:00.281Z</lastmod>
+    <lastmod>2026-05-03T19:15:17.458Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-03T18:02:00.281Z</lastmod>
+    <lastmod>2026-05-03T19:15:17.458Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260503-policy-summit-and-other-things-at-consensus-2026-state-of-crypto.html</loc>
+    <lastmod>2026-05-03T18:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260503-bitcoin-preps-highest-weekly-close-since-january-as-btc-price-nears-79k.html</loc>
@@ -39,6 +45,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260503-us-voters-dont-trust-trump-administration-to-oversee-crypto-sector-coindesk-poll.html</loc>
     <lastmod>2026-05-03T14:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260503-new-michael-saylor-says-no-buys-this-week-back-to-work-next-week-xcom.html</loc>
+    <lastmod>2026-05-03T13:44:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -87,12 +99,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260503-i-will-now-start-blocking-crypto-trenchers-in-my-replies-what-they-do-is-simple-.html</loc>
     <lastmod>2026-05-03T08:54:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260503-bitcoin-bulls-have-history-on-their-side-this-may-bitcoin-is-already-up-246-this.html</loc>
-    <lastmod>2026-05-03T07:35:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -189,12 +195,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260502-i-had-many-discussions-about-quantum-bitcoin-in-las-vegas-this-week-both-on-and-.html</loc>
     <lastmod>2026-05-02T14:55:12.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260502-the-us-senate-just-unblocked-the-crypto-market-structure-bill-and-crypto-platfor.html</loc>
-    <lastmod>2026-05-02T14:45:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -457,12 +457,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260501-institutional-demand-to-drive-bitcoin-market-cap-to-16-trillion-by-2030-ark-inve.html</loc>
-    <lastmod>2026-05-01T13:31:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260501-senators-warren-wyden-quiz-commerce-secretary-lutnick-over-tether-loan-to-childr.html</loc>
     <lastmod>2026-05-01T13:31:27.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,6 +477,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260501-south-korean-court-lifts-bithumbs-six-month-business-suspension.html</loc>
     <lastmod>2026-05-01T10:32:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260501-7643744-bitcoin-xcom.html</loc>
+    <lastmod>2026-05-01T00:43:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
