@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-03T06:40:23.040Z</lastmod>
+    <lastmod>2026-05-03T08:54:18.975Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-03T06:40:23.040Z</lastmod>
+    <lastmod>2026-05-03T08:54:18.975Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -21,6 +21,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260503-bitcoin-logs-best-monthly-performance-in-12-months-during-april.html</loc>
     <lastmod>2026-05-03T03:29:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260503-alex-thorn-research-director-at-galaxy-digital-stated-that-the-bitcoin-community.html</loc>
+    <lastmod>2026-05-03T01:18:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -73,12 +79,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260502-polymarket-april-fees-hit-record-high-at-4336-million-according-to-defioasis-dat.html</loc>
-    <lastmod>2026-05-02T15:54:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260502-i-had-many-discussions-about-quantum-bitcoin-in-las-vegas-this-week-both-on-and-.html</loc>
     <lastmod>2026-05-02T14:55:12.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -123,12 +123,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260502-7811803-bitcoin-xcom.html</loc>
     <lastmod>2026-05-02T12:44:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260502-a-new-sell-signal-has-just-flashed-for-bitcoin-btc-the-tom-demark-td-sequential-.html</loc>
-    <lastmod>2026-05-02T12:25:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -289,20 +283,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260501-president-trump-bitcoin-and-crypto-will-skyrocket-like-never-before-beyond-your-.html</loc>
-    <lastmod>2026-05-01T16:19:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260501-crypto-biz-capital-has-no-consensus.html</loc>
     <lastmod>2026-05-01T16:00:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260501-its-all-about-patience-buy-bitcoin-hodl-xcom.html</loc>
-    <lastmod>2026-05-01T15:43:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -367,8 +349,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260501-alert-new-ethereum-wallet-exploit-detected-hundreds-of-wallets-many-inactive-for.html</loc>
+    <lastmod>2026-05-01T02:45:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260501-7643744-bitcoin-xcom.html</loc>
     <lastmod>2026-05-01T00:43:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260430-musk-some-crypto-assets-have-merit-but-most-of-them-are-scams-according-to-fortu.html</loc>
+    <lastmod>2026-04-30T17:03:26.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260430-just-in-fox-business-reports-the-bitcoin-and-crypto-market-structure-bill-is-sug.html</loc>
+    <lastmod>2026-04-30T16:45:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
