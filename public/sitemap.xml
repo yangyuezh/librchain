@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-04T21:17:28.496Z</lastmod>
+    <lastmod>2026-05-04T23:08:23.494Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-04T21:17:28.496Z</lastmod>
+    <lastmod>2026-05-04T23:08:23.494Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260504-someone-built-an-open-source-theoretical-mythos-to-reverse-engineer-anthropics-m.html</loc>
+    <lastmod>2026-05-04T22:31:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260504-aave-fights-to-unfreeze-71-million-as-kelp-dao-hack-spills-into-court.html</loc>
+    <lastmod>2026-05-04T21:56:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260504-dtcc-eyes-october-tokenized-securities-launch-with-50-defi-and-tradfi-giants.html</loc>
+    <lastmod>2026-05-04T21:55:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260504-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-05-04T21:55:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260504-k-pop-firms-stock-plunges-as-it-dumps-bitcoin-treasury-plan-for-ai-pivot.html</loc>
@@ -171,12 +195,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260504-dtcc-reveals-launch-plans-for-tokenization-service-with-wall-street-giants-onboa.html</loc>
     <lastmod>2026-05-04T15:52:13.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260504-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-05-04T15:36:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -343,6 +361,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260504-confirmed-us-troops-withdrawing-from-germany-the-first-batch-of-5000-us-troops-i.html</loc>
+    <lastmod>2026-05-04T11:07:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260504-btc-price-can-easily-hit-95k-five-things-to-know-in-bitcoin-this-week.html</loc>
     <lastmod>2026-05-04T11:05:33.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -391,12 +415,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260504-update-blackrocks-european-bitcoin-etp-surpasses-11b-in-aum-holding-14200-btc-xc.html</loc>
-    <lastmod>2026-05-04T08:00:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260504-jobs-data-earnings-calls-crypto-week-ahead.html</loc>
     <lastmod>2026-05-04T08:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -411,12 +429,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260504-bitcoin-climbs-past-80k-for-the-first-time-since-january.html</loc>
     <lastmod>2026-05-04T06:54:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260504-cftc-sees-mixed-responses-to-prediction-market-rulemaking.html</loc>
-    <lastmod>2026-05-04T05:35:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -477,18 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260503-you-installed-hermes-now-make-it-look-better-than-chatgpt-or-claude.html</loc>
     <lastmod>2026-05-03T19:55:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260502-openai-gpt-image-2-vs-google-nano-banana-2-which-ai-image-generator-is-best.html</loc>
-    <lastmod>2026-05-02T18:50:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260502-oscars-ban-ai-performances-and-screenplays-from-eligibility.html</loc>
-    <lastmod>2026-05-02T18:17:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
