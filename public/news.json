@@ -1,7 +1,282 @@
 {
-  "updatedAt": "2026-05-05T20:15:26.155Z",
+  "updatedAt": "2026-05-05T22:10:41.769Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "The world's entire economy will be tokenized, says Consensys’ Joseph Lubin",
+      "summary": "The Consensys CEO and founder said tokenization can be traced back to Ethereum, the blockchain he helped co-found.",
+      "url": "https://www.coindesk.com/business/2026/05/05/the-world-s-entire-economy-will-be-tokenized-says-consensys-joseph-lubin",
+      "publishedAt": "2026-05-05T22:06:55.000Z",
+      "keywords": [
+        "Finance",
+        "Consensus Miami 2026",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260505-the-worlds-entire-economy-will-be-tokenized-says-consensys-joseph-lubin",
+      "localUrl": "/news/20260505-the-worlds-entire-economy-will-be-tokenized-says-consensys-joseph-lubin.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "It's transparency, not tech alone, that drives crypto adoption, panelists tell Consensus Miami",
+      "summary": "Execs from PayPal, Robinhood, Public.com and 248 Ventures said the way to move retail into crypto and AI is to slow down, show your work, and put users back in control.",
+      "url": "https://www.coindesk.com/business/2026/05/05/it-s-transparency-not-tech-alone-that-drives-crypto-adoption-panelists-tell-consensus-miami",
+      "publishedAt": "2026-05-05T22:04:41.000Z",
+      "keywords": [
+        "Finance",
+        "Consensus Miami 2026",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260505-its-transparency-not-tech-alone-that-drives-crypto-adoption-panelists-tell-conse",
+      "localUrl": "/news/20260505-its-transparency-not-tech-alone-that-drives-crypto-adoption-panelists-tell-conse.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "CME Gearing Up to Launch Bitcoin Volatility Futures Independent From BTC’s Price",
+      "summary": "CME's upcoming futures product will track whether the market thinks the price of Bitcoin is about to swing wildly or stay steady.",
+      "url": "https://decrypt.co/366894/cme-launch-bitcoin-volatility-futures-independent-btc-price",
+      "publishedAt": "2026-05-05T22:01:02.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "市场",
+      "slug": "20260505-cme-gearing-up-to-launch-bitcoin-volatility-futures-independent-from-btcs-price",
+      "localUrl": "/news/20260505-cme-gearing-up-to-launch-bitcoin-volatility-futures-independent-from-btcs-price.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Different voices in product, policy and hiring change crypto outcomes, panelists tell Consensus Miami",
+      "summary": "Senior leaders from Mastercard, the Crypto Council for Innovation and Clerisy said the right people in the right rooms can reshape internal decisions, citing examples from stablecoin-linked cards and financial access to staking-policy fram…",
+      "url": "https://www.coindesk.com/business/2026/05/05/different-voices-in-product-policy-and-hiring-change-crypto-outcomes-panelists-tell-consensus-miami",
+      "publishedAt": "2026-05-05T21:57:20.000Z",
+      "keywords": [
+        "Finance",
+        "Consensus Miami 2026",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260505-different-voices-in-product-policy-and-hiring-change-crypto-outcomes-panelists-t",
+      "localUrl": "/news/20260505-different-voices-in-product-policy-and-hiring-change-crypto-outcomes-panelists-t.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AI agents are breaking web economics, but Cloudflare says x402 can help",
+      "summary": "The company’s Chief Strategy Officer said that more than half of internet traffic is now non-human, but that the x402 Foundation is building the rails for a \"golden age of content.\"",
+      "url": "https://www.coindesk.com/tech/2026/05/05/ai-agents-are-breaking-web-economics-but-cloudflare-says-x402-can-help",
+      "publishedAt": "2026-05-05T21:47:54.000Z",
+      "keywords": [
+        "Tech",
+        "Consensus Miami 2026",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260505-ai-agents-are-breaking-web-economics-but-cloudflare-says-x402-can-help",
+      "localUrl": "/news/20260505-ai-agents-are-breaking-web-economics-but-cloudflare-says-x402-can-help.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "'Moment of Danger': Anthropic CEO Warns of Cyber Risk Window as AI Uncovers Software Flaws",
+      "summary": "Experts warn that AI is exposing software bugs at scale, raising the risk of faster cyberattacks.",
+      "url": "https://decrypt.co/366891/anthropic-warns-cyber-risk-window-ai-uncovers-flaws",
+      "publishedAt": "2026-05-05T21:36:03.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260505-moment-of-danger-anthropic-ceo-warns-of-cyber-risk-window-as-ai-uncovers-softwar",
+      "localUrl": "/news/20260505-moment-of-danger-anthropic-ceo-warns-of-cyber-risk-window-as-ai-uncovers-softwar.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kraken eyes IPO as it partners with MoneyGram to bridge crypto-to-cash gap",
+      "summary": "Payward and Kraken co-CEO Arjun Sethi says the exchange is “80% ready” to go public, as a new partnership with MoneyGram aims to expand access to digital assets by solving last-mile cash conversion.",
+      "url": "https://www.coindesk.com/business/2026/05/05/kraken-eyes-ipo-as-it-partners-with-moneygram-to-bridge-crypto-to-cash-gap",
+      "publishedAt": "2026-05-05T21:29:15.000Z",
+      "keywords": [
+        "Finance",
+        "Kraken",
+        "Consensus Miami 2026",
+        "IPOs",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260505-kraken-eyes-ipo-as-it-partners-with-moneygram-to-bridge-crypto-to-cash-gap",
+      "localUrl": "/news/20260505-kraken-eyes-ipo-as-it-partners-with-moneygram-to-bridge-crypto-to-cash-gap.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "State Street says institutions want improved blockchain security in wake of recent DeFi attacks",
+      "summary": "Angus Fletcher, State Street’s head of digital assets said the young crypto industry needs to find solutions now before trillions in RWAs come on-chain.",
+      "url": "https://www.coindesk.com/business/2026/05/05/state-street-says-institutions-want-improved-blockchain-security-in-wake-of-recent-defi-attacks",
+      "publishedAt": "2026-05-05T21:27:36.000Z",
+      "keywords": [
+        "Finance",
+        "Consensus Miami 2026",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260505-state-street-says-institutions-want-improved-blockchain-security-in-wake-of-rece",
+      "localUrl": "/news/20260505-state-street-says-institutions-want-improved-blockchain-security-in-wake-of-rece.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "How Solana Exchange Drift Plans to Repay Users After $295 Million Crypto Hack",
+      "summary": "Solana's Drift Protocol says most of the stolen funds linked to North Korean hackers remain traceable—and it has a plan to make victims whole.",
+      "url": "https://decrypt.co/366897/how-solana-exchange-drift-repay-users-295-million-crypto-hack",
+      "publishedAt": "2026-05-05T21:25:23.000Z",
+      "keywords": [
+        "DeFi"
+      ],
+      "category": "安全",
+      "slug": "20260505-how-solana-exchange-drift-plans-to-repay-users-after-295-million-crypto-hack",
+      "localUrl": "/news/20260505-how-solana-exchange-drift-plans-to-repay-users-after-295-million-crypto-hack.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's 'barbell': speculation and stablecoin payments drive adoption, Tempo's Romero says",
+      "summary": "Stablecoins are quietly powering real-world money flows as other crypto experiments than speculative trading have failed to scale, Romero said at Consensus 2026.",
+      "url": "https://www.coindesk.com/business/2026/05/05/crypto-s-barbell-speculation-and-stablecoin-payments-drive-adoption-tempo-s-romero-says",
+      "publishedAt": "2026-05-05T21:25:01.000Z",
+      "keywords": [
+        "Finance",
+        "Consensus Miami 2026",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260505-cryptos-barbell-speculation-and-stablecoin-payments-drive-adoption-tempos-romero",
+      "localUrl": "/news/20260505-cryptos-barbell-speculation-and-stablecoin-payments-drive-adoption-tempos-romero.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Citi exec says fragmented crypto systems risk repeating old banking problems",
+      "summary": "Tokenized money efforts face limits as corporate clients demand real-time payments that work seamlessly across banks, Citi’s Ryan Rugg said at Consensus in Miami.",
+      "url": "https://www.coindesk.com/business/2026/05/05/citi-exec-says-fragmented-crypto-systems-risk-repeating-old-banking-problems",
+      "publishedAt": "2026-05-05T21:23:00.000Z",
+      "keywords": [
+        "Finance",
+        "Tokenization",
+        "Consensus Miami 2026",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260505-citi-exec-says-fragmented-crypto-systems-risk-repeating-old-banking-problems",
+      "localUrl": "/news/20260505-citi-exec-says-fragmented-crypto-systems-risk-repeating-old-banking-problems.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Overseas demand for U.S. equities is growing, says Robinhood's Johan Kerbrart",
+      "summary": "The trading app's senior vice president said tokenization, 24-hour trading, and regulatory shifts are driving broader investor access beyond domestic markets.",
+      "url": "https://www.coindesk.com/business/2026/05/05/robinhood-vp-johann-kerbrat-recommends-global-portfolios-as-demand-for-u-s-stocks-rises",
+      "publishedAt": "2026-05-05T21:19:26.000Z",
+      "keywords": [
+        "Finance",
+        "Consensus Miami 2026",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260505-overseas-demand-for-us-equities-is-growing-says-robinhoods-johan-kerbrart",
+      "localUrl": "/news/20260505-overseas-demand-for-us-equities-is-growing-says-robinhoods-johan-kerbrart.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto ETFs go mainstream as traditional finance locks in",
+      "summary": "As traditional finance deepens its footprint, issuers say ETFs are reshaping access, liquidity, and the global structure of digital asset investing.",
+      "url": "https://www.coindesk.com/business/2026/05/05/crypto-etfs-go-mainstream-as-traditional-finance-locks-in",
+      "publishedAt": "2026-05-05T21:17:27.000Z",
+      "keywords": [
+        "Finance",
+        "ETFs",
+        "Institutional Adoption",
+        "Consensus Miami 2026",
+        "Grayscale",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260505-crypto-etfs-go-mainstream-as-traditional-finance-locks-in",
+      "localUrl": "/news/20260505-crypto-etfs-go-mainstream-as-traditional-finance-locks-in.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "A Blues-Singing AI Frog Is Taking Over TikTok Brazil",
+      "summary": "AI native memes, meet AI-generated frogs and classic Brazilian nursery rhymes.",
+      "url": "https://decrypt.co/366884/blues-singing-ai-frog-taking-over-tiktok-brazil",
+      "publishedAt": "2026-05-05T21:12:52.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260505-a-blues-singing-ai-frog-is-taking-over-tiktok-brazil",
+      "localUrl": "/news/20260505-a-blues-singing-ai-frog-is-taking-over-tiktok-brazil.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Self-directed investors power bitcoin ETF launch despite Morgan Stanley’s scale",
+      "summary": "Strong early demand highlights how investors are driving crypto adoption, even without support from Morgan Stanley’s vast advisor network.",
+      "url": "https://www.coindesk.com/markets/2026/05/05/self-directed-investors-power-bitcoin-etf-launch-despite-morgan-stanley-s-scale",
+      "publishedAt": "2026-05-05T20:44:05.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260505-self-directed-investors-power-bitcoin-etf-launch-despite-morgan-stanleys-scale",
+      "localUrl": "/news/20260505-self-directed-investors-power-bitcoin-etf-launch-despite-morgan-stanleys-scale.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Posts $12.5 Billion Q1 Loss as Bitcoin Slump Hammers Massive Holdings",
+      "summary": "Michael Saylor’s Strategy continues to bet big on Bitcoin even as falling prices deliver a punishing quarter for the treasury giant.",
+      "url": "https://decrypt.co/366882/strategy-posts-12-5-billion-q1-loss-bitcoin-slump-hammers-holdings",
+      "publishedAt": "2026-05-05T20:42:57.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "DeFi",
+      "slug": "20260505-strategy-posts-125-billion-q1-loss-as-bitcoin-slump-hammers-massive-holdings",
+      "localUrl": "/news/20260505-strategy-posts-125-billion-q1-loss-as-bitcoin-slump-hammers-massive-holdings.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto PAC spends $500K in support of Indiana candidate ahead of primary",
+      "summary": "Days before an Indiana primary, the Defend American Jobs PAC reported spending about $514,000 on media in support of a Republican House member running for reelection in the state‘s 4th Congressional District.",
+      "url": "https://cointelegraph.com/news/crypto-pac-spending-indiana-candidate-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-05T20:42:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260505-crypto-pac-spends-500k-in-support-of-indiana-candidate-ahead-of-primary",
+      "localUrl": "/news/20260505-crypto-pac-spends-500k-in-support-of-indiana-candidate-ahead-of-primary.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kelp claims that LayerZero approved the setup it blamed for $292 million bridge hack",
+      "summary": "The $292M exploit, linked to North Korean hackers, led Kelp to migrate its rsETH off LayerZero's \"OFT\" standard to Chainlink's \"CCIP.\"",
+      "url": "https://www.coindesk.com/web3/2026/05/05/kelp-claims-that-layerzero-approved-the-setup-it-blamed-for-usd292-million-bridge-hack",
+      "publishedAt": "2026-05-05T20:21:49.000Z",
+      "keywords": [
+        "Web3",
+        "On-chain Data",
+        "Web3",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260505-kelp-claims-that-layerzero-approved-the-setup-it-blamed-for-292-million-bridge-h",
+      "localUrl": "/news/20260505-kelp-claims-that-layerzero-approved-the-setup-it-blamed-for-292-million-bridge-h.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "NEW: Michael Saylor's Strategy posts $12.54 billion Q1 loss on declining bitcoin price - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yLW01QkY0ZXZxUFdjWElsWF9BMHFVazQyWEVtTHV4LVJKTW41LXhZb3NYOHlkZE1PcjhLMUNCQ3pNU3FTT21VV3pzclNoZ1c0d0o2WGg4QUQ2Um85Qnc?oc=5\" target=\"_blank\">NEW: Michael Saylor's Strategy posts $1…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yLW01QkY0ZXZxUFdjWElsWF9BMHFVazQyWEVtTHV4LVJKTW41LXhZb3NYOHlkZE1PcjhLMUNCQ3pNU3FTT21VV3pzclNoZ1c0d0o2WGg4QUQ2Um85Qnc?oc=5",
+      "publishedAt": "2026-05-05T20:10:39.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260505-new-michael-saylors-strategy-posts-1254-billion-q1-loss-on-declining-bitcoin-pri",
+      "localUrl": "/news/20260505-new-michael-saylors-strategy-posts-1254-billion-q1-loss-on-declining-bitcoin-pri.html"
+    },
     {
       "source": "Decrypt",
       "title": "Solana and Google Cloud Launch Stablecoin Payments Service for AI Agents",
@@ -322,22 +597,6 @@
       "localUrl": "/news/20260505-bullish-shares-pop-on-42-billion-deal-to-acquire-transfer-agent-equiniti.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Ripple CEO Brad Garlinghouse says Clarity better than chaos as Senate hits key moment",
-      "summary": "The crypto market structure Clarity Act needs to get to its next step, a Senate hearing, this month to have a reasonable chance, Garlinghouse said.",
-      "url": "https://www.coindesk.com/policy/2026/05/05/ripple-ceo-brad-garlinghouse-says-clarity-better-than-chaos-as-senate-hits-key-moment",
-      "publishedAt": "2026-05-05T16:28:06.000Z",
-      "keywords": [
-        "Policy",
-        "Ripple",
-        "Consensus Miami 2026",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260505-ripple-ceo-brad-garlinghouse-says-clarity-better-than-chaos-as-senate-hits-key-m",
-      "localUrl": "/news/20260505-ripple-ceo-brad-garlinghouse-says-clarity-better-than-chaos-as-senate-hits-key-m.html"
-    },
-    {
       "source": "Decrypt",
       "title": "US Government Will Vet Pre-Release AI Models From Google, xAI and Microsoft",
       "summary": "Google, Microsoft, and Elon Musk’s xAI have agreed to run their models by the U.S. government as Trump weighs an AI executive order.",
@@ -362,38 +621,6 @@
       "localUrl": "/news/20260505-solana-foundation-launches-paysh-in-collaboration-with-google-cloud.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Wall Street warns human-built markets can’t keep up with machine-speed trading",
-      "summary": "Legacy financial systems face pressure as tokenization and real-time trading push markets toward always-on, automated infrastructure, panelists at Consensus in Miami said on Tuesday.",
-      "url": "https://www.coindesk.com/markets/2026/05/05/wall-street-warns-human-built-markets-can-t-keep-up-with-machine-speed-trading",
-      "publishedAt": "2026-05-05T15:19:47.000Z",
-      "keywords": [
-        "Markets",
-        "Tokenization",
-        "Consensus Miami 2026",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260505-wall-street-warns-human-built-markets-cant-keep-up-with-machine-speed-trading",
-      "localUrl": "/news/20260505-wall-street-warns-human-built-markets-cant-keep-up-with-machine-speed-trading.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto's value is from being outside regulatory apparatus, says Arthur Hayes",
-      "summary": "All that matters for bitcoin’s value proposition is fiat liquidity, said Arthur Hayes, CIO of Maelstrom, at Consensus Miami 2026.",
-      "url": "https://www.coindesk.com/business/2026/05/05/crypto-doesn-t-need-regulation-its-value-is-being-outside-regulatory-apparatus-says-arthur-hayes",
-      "publishedAt": "2026-05-05T15:12:45.000Z",
-      "keywords": [
-        "Finance",
-        "Consensus Miami 2026",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260505-cryptos-value-is-from-being-outside-regulatory-apparatus-says-arthur-hayes",
-      "localUrl": "/news/20260505-cryptos-value-is-from-being-outside-regulatory-apparatus-says-arthur-hayes.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin ETFs Draw Investment Surge After Brief Lull Threatens Winning Streak",
       "summary": "Bitcoin funds are flying high again after a short-lived stretch of outflows nearly wrecked their recent run of green weeks.",
@@ -405,37 +632,6 @@
       "category": "监管",
       "slug": "20260505-bitcoin-etfs-draw-investment-surge-after-brief-lull-threatens-winning-streak",
       "localUrl": "/news/20260505-bitcoin-etfs-draw-investment-surge-after-brief-lull-threatens-winning-streak.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "From bitcoin mining to the Hill: AIP’s new fellow brings hands-on crypto experience to D.C.",
-      "summary": "Jacob Smagula previously worked on the government affairs team at bitcoin mining company MARA and is currently on the policy team at the DeFi Education Fund.",
-      "url": "https://www.coindesk.com/policy/2026/05/05/american-innovation-project-expands-team-with-tech-crypto-savvy-graduates",
-      "publishedAt": "2026-05-05T15:00:03.000Z",
-      "keywords": [
-        "Policy",
-        "Regulation",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260505-from-bitcoin-mining-to-the-hill-aips-new-fellow-brings-hands-on-crypto-experienc",
-      "localUrl": "/news/20260505-from-bitcoin-mining-to-the-hill-aips-new-fellow-brings-hands-on-crypto-experienc.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Jito Labs launches self-custody trading tool as activity heats up on Solana",
-      "summary": "JTX is the company’s first product built specifically for traders. It allows users to trade tokens on Solana while maintaining self-custody.",
-      "url": "https://www.coindesk.com/tech/2026/05/05/jito-labs-launches-jtx-as-self-custody-trading-heats-up-on-solana",
-      "publishedAt": "2026-05-05T15:00:00.000Z",
-      "keywords": [
-        "Tech",
-        "Solana News",
-        "Crypto Trading",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260505-jito-labs-launches-self-custody-trading-tool-as-activity-heats-up-on-solana",
-      "localUrl": "/news/20260505-jito-labs-launches-self-custody-trading-tool-as-activity-heats-up-on-solana.html"
     },
     {
       "source": "X Wire",
@@ -471,22 +667,6 @@
       "category": "监管",
       "slug": "20260505-heres-what-happened-in-crypto-today",
       "localUrl": "/news/20260505-heres-what-happened-in-crypto-today.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Coinbase taps Centrifuge as preferred tokenization backbone, takes equity stake",
-      "summary": "The partnership includes a strategic investment by Coinbase and is focused on expanding tokenized ETFs, credit, and structured products.",
-      "url": "https://www.coindesk.com/business/2026/05/05/coinbase-taps-centrifuge-as-preferred-tokenization-backbone-takes-equity-stake",
-      "publishedAt": "2026-05-05T14:40:00.000Z",
-      "keywords": [
-        "Finance",
-        "Coinbase",
-        "Tokenization",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260505-coinbase-taps-centrifuge-as-preferred-tokenization-backbone-takes-equity-stake",
-      "localUrl": "/news/20260505-coinbase-taps-centrifuge-as-preferred-tokenization-backbone-takes-equity-stake.html"
     },
     {
       "source": "Cointelegraph",
@@ -541,18 +721,15 @@
       "localUrl": "/news/20260505-binance-changes-weekend-pricing-for-commodity-tradfi-futures.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto.com’s high-rolling head of marketing to leave after almost six years",
-      "summary": "Steven Kalifowitz will be moving on from his role as CMO, effective June 30, and will then continue on as advisor to the CEO.",
-      "url": "https://www.coindesk.com/business/2026/05/05/crypto-com-s-high-rolling-head-of-marketing-taps-out-after-almost-six-years",
-      "publishedAt": "2026-05-05T13:48:32.000Z",
-      "keywords": [
-        "Finance",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260505-cryptocoms-high-rolling-head-of-marketing-to-leave-after-almost-six-years",
-      "localUrl": "/news/20260505-cryptocoms-high-rolling-head-of-marketing-to-leave-after-almost-six-years.html"
+      "source": "X Wire",
+      "title": "🇺🇸 HAYES: Regulation has no impact on crypto’s utility. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wWlh2NTFDaWx5LVJCV3Z5al95dGRQMXhRRUZ4XzBDekZzSmZPZVhyU2c0R2NfV0Q5WkFlX0dybHhmRE1Iem5oWE9PSEhsa2xjYmxIamQ4dkx5TjhYOWtKTldzSjM?oc=5\" target=\"_blank\">🇺🇸 HAYES: Regulation has no i…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wWlh2NTFDaWx5LVJCV3Z5al95dGRQMXhRRUZ4XzBDekZzSmZPZVhyU2c0R2NfV0Q5WkFlX0dybHhmRE1Iem5oWE9PSEhsa2xjYmxIamQ4dkx5TjhYOWtKTldzSjM?oc=5",
+      "publishedAt": "2026-05-05T13:37:54.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260505-hayes-regulation-has-no-impact-on-cryptos-utility-xcom",
+      "localUrl": "/news/20260505-hayes-regulation-has-no-impact-on-cryptos-utility-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -581,21 +758,6 @@
       "localUrl": "/news/20260505-bitcoin-supercycle-or-bear-market-rally-btc-breaking-81k-has-traders-at-odds.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Consensus Miami Day 1: Real-time coverage and highlights from on the ground",
-      "summary": "Consensus Miami 2026 launched on Tuesday. Stay tuned for updates throughout the day.",
-      "url": "https://www.coindesk.com/business/2026/05/05/consensus-miami-day-1-sights-and-sounds",
-      "publishedAt": "2026-05-05T13:30:00.000Z",
-      "keywords": [
-        "Finance",
-        "Consensus Miami 2026",
-        "live_news"
-      ],
-      "category": "综合",
-      "slug": "20260505-consensus-miami-day-1-real-time-coverage-and-highlights-from-on-the-ground",
-      "localUrl": "/news/20260505-consensus-miami-day-1-real-time-coverage-and-highlights-from-on-the-ground.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Crypto products post 5th straight week of inflows despite mid-week selloff",
       "summary": "Crypto ETPs shed $619 million over four days before a $737 million Friday session rescued the week, extending the inflow streak to $4.02 billion across five weeks.",
@@ -609,40 +771,6 @@
       "localUrl": "/news/20260505-crypto-products-post-5th-straight-week-of-inflows-despite-mid-week-selloff.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "CoinDesk 20 performance update: index jumps 1.3% as all constituents trade higher",
-      "summary": "Internet Computer (ICP) rose 5.2% and Chainlink (LINK) gained 4% since Monday.",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/05/05/coindesk-20-performance-update-index-jumps-1-3-as-all-constituents-trade-higher",
-      "publishedAt": "2026-05-05T13:12:13.000Z",
-      "keywords": [
-        "CoinDesk Indices",
-        "CoinDesk Indices",
-        "CoinDesk 20",
-        "charts",
-        "Prices",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260505-coindesk-20-performance-update-index-jumps-13-as-all-constituents-trade-higher",
-      "localUrl": "/news/20260505-coindesk-20-performance-update-index-jumps-13-as-all-constituents-trade-higher.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "State Street and Galaxy launch tokenized fund to bring cash management onchain",
-      "summary": "The fund lets institutions earn yield on stablecoins while moving cash onchain with round-the-clock access.",
-      "url": "https://www.coindesk.com/markets/2026/05/05/state-street-and-galaxy-launch-tokenized-fund-to-bring-cash-management-onchain",
-      "publishedAt": "2026-05-05T13:07:01.000Z",
-      "keywords": [
-        "Markets",
-        "Galaxy Digital",
-        "Tokenization",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260505-state-street-and-galaxy-launch-tokenized-fund-to-bring-cash-management-onchain",
-      "localUrl": "/news/20260505-state-street-and-galaxy-launch-tokenized-fund-to-bring-cash-management-onchain.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Europe should weigh tokenized SEPA payments, Bank of Italy official says",
       "summary": "The Bank of Italy’s deputy governor floated the evaluation of tokenized SEPA payments, as the ECB experiments with tokenized digital payment frameworks to avoid stablecoin competition.",
@@ -654,35 +782,6 @@
       "category": "RWA",
       "slug": "20260505-europe-should-weigh-tokenized-sepa-payments-bank-of-italy-official-says",
       "localUrl": "/news/20260505-europe-should-weigh-tokenized-sepa-payments-bank-of-italy-official-says.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "K Wave Media scraps massive bitcoin treasury plan to redirect $485 million to AI",
-      "summary": "The Nasdaq-listed firm raised $500 million to invest in bitcoin. Less than a year later, it is chasing the market's current hot sector of AI.",
-      "url": "https://www.coindesk.com/markets/2026/05/05/nasdaq-firm-scraps-massive-bitcoin-treasury-plan-to-redirect-usd485-million-to-ai",
-      "publishedAt": "2026-05-05T13:00:22.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260505-k-wave-media-scraps-massive-bitcoin-treasury-plan-to-redirect-485-million-to-ai",
-      "localUrl": "/news/20260505-k-wave-media-scraps-massive-bitcoin-treasury-plan-to-redirect-485-million-to-ai.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin absorbed $200 million profit-taking at $80,000 in a bullish sign for BTC",
-      "summary": "Net realized profits hit a one-month high of $207.56 million Sunday as bitcoin crossed $80,000 for the first time since January, with the price holding above the breakout level into Tuesday despite the heavy sell-side flow.",
-      "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-absorbed-usd200-million-profit-taking-at-usd80-000-in-a-bullish-sign-for-btc",
-      "publishedAt": "2026-05-05T12:56:31.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260505-bitcoin-absorbed-200-million-profit-taking-at-80000-in-a-bullish-sign-for-btc",
-      "localUrl": "/news/20260505-bitcoin-absorbed-200-million-profit-taking-at-80000-in-a-bullish-sign-for-btc.html"
     },
     {
       "source": "Cointelegraph",
@@ -738,6 +837,17 @@
     },
     {
       "source": "X Wire",
+      "title": "🔥 JUST IN: Kraken partners with MoneyGram to enable crypto cash withdrawals in 100+ countries. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xcWJ1ZzM1ZWdORkMzRXdRQWNPd2tDY0R6WFBYTDItMHc3OE9pSGlEXzZ4YmFPcEYtQVl4LW5yc0FrUHpac1ZOa3pjWG1FZjNmbnoweGxHMmtwNkdsZWlUa1RYbFc?oc=5\" target=\"_blank\">🔥 JUST IN: Kraken partners wit…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xcWJ1ZzM1ZWdORkMzRXdRQWNPd2tDY0R6WFBYTDItMHc3OE9pSGlEXzZ4YmFPcEYtQVl4LW5yc0FrUHpac1ZOa3pjWG1FZjNmbnoweGxHMmtwNkdsZWlUa1RYbFc?oc=5",
+      "publishedAt": "2026-05-05T12:07:46.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260505-just-in-kraken-partners-with-moneygram-to-enable-crypto-cash-withdrawals-in-100-",
+      "localUrl": "/news/20260505-just-in-kraken-partners-with-moneygram-to-enable-crypto-cash-withdrawals-in-100-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "We've raised $2.2B in committed capital to invest in the next generation of crypto. Announcing Crypto Fund 5 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE96MFdLRUdqWE9henhMdjR1dEp6bWpLVllvSnZCbl9PVzdnaGQ2WmhTTDBCLUcxekk1MFlmY0wzZXVNVEh0TnVEcDFqOFh3eW53RUJyaW1JMll5em9zSUw3bg?oc=5\" target=\"_blank\">We've raised $2.2B in committed capi…",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96MFdLRUdqWE9henhMdjR1dEp6bWpLVllvSnZCbl9PVzdnaGQ2WmhTTDBCLUcxekk1MFlmY0wzZXVNVEh0TnVEcDFqOFh3eW53RUJyaW1JMll5em9zSUw3bg?oc=5",
@@ -761,19 +871,6 @@
       "localUrl": "/news/20260505-morning-minute-crypto-vc-haun-raises-1b-despite-market-slump.html"
     },
     {
-      "source": "Decrypt",
-      "title": "TON Surges 36% as Telegram ‘Replaces’ TON Foundation",
-      "summary": "Toncoin has jumped on Pavel Durov's pledge to slash fees to near-zero, with TON meme coins piling on gains of up to 150%.",
-      "url": "https://decrypt.co/366754/ton-surges-36-as-telegram-replaces-ton-foundation",
-      "publishedAt": "2026-05-05T11:34:11.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260505-ton-surges-36-as-telegram-replaces-ton-foundation",
-      "localUrl": "/news/20260505-ton-surges-36-as-telegram-replaces-ton-foundation.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin taps $81K as long-term holders add 330K BTC: How high can price go?",
       "summary": "Accumulation by long-term Bitcoin holders, buying by institutional investors and a strengthening technical structure could fuel BTC’s price rise to $95,000 or higher.",
@@ -785,19 +882,6 @@
       "category": "市场",
       "slug": "20260505-bitcoin-taps-81k-as-long-term-holders-add-330k-btc-how-high-can-price-go",
       "localUrl": "/news/20260505-bitcoin-taps-81k-as-long-term-holders-add-330k-btc-how-high-can-price-go.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Ripple to Share North Korean Threat Intelligence With Crypto Industry",
-      "summary": "The move follows two nine-figure exploits of DeFi protocols Drift and KelpDAO in April, as DPRK hackers shift to social engineering tactics.",
-      "url": "https://decrypt.co/366751/ripple-to-share-north-korean-threat-intelligence-with-crypto-industry",
-      "publishedAt": "2026-05-05T10:56:38.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "安全",
-      "slug": "20260505-ripple-to-share-north-korean-threat-intelligence-with-crypto-industry",
-      "localUrl": "/news/20260505-ripple-to-share-north-korean-threat-intelligence-with-crypto-industry.html"
     },
     {
       "source": "X Wire",
@@ -850,30 +934,6 @@
       "localUrl": "/news/20260505-bitcoin-etfs-pull-in-532m-as-btc-reclaims-80k-amid-post-ceasefire-recovery.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Stablecoin proposal still ‘falls short’ of protecting bank deposits: US banks",
-      "summary": "US Senator Thom Tillis said the current text of the CLARITY Act offers a compromise for the crypto industry and banks and provides a bipartisan path for the bill’s passage.",
-      "url": "https://cointelegraph.com/news/bankers-still-says-new-proposal-in-clarity-act-falls-short-of-protecting-bank-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-05T07:07:27.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260505-stablecoin-proposal-still-falls-short-of-protecting-bank-deposits-us-banks",
-      "localUrl": "/news/20260505-stablecoin-proposal-still-falls-short-of-protecting-bank-deposits-us-banks.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Its pretty amazing how quickly crypto twitter went from fartcoin to debating the merits of owning SK square for the holdco discount versus SK Hynix? - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE80bDItRFg3QnhhWXpIeE42SVZaQjlZOHhQMXlHM25SWGJ2Zm9jNXRtZGthUkE1SU5QS1dKNW55aDZlTFl2aHF6TzJFay00OXlvQk9heDlmQWZzSEZR?oc=5\" target=\"_blank\">Its pretty amazing how quickly crypto twit…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80bDItRFg3QnhhWXpIeE42SVZaQjlZOHhQMXlHM25SWGJ2Zm9jNXRtZGthUkE1SU5QS1dKNW55aDZlTFl2aHF6TzJFay00OXlvQk9heDlmQWZzSEZR?oc=5",
-      "publishedAt": "2026-05-05T06:05:54.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260505-its-pretty-amazing-how-quickly-crypto-twitter-went-from-fartcoin-to-debating-the",
-      "localUrl": "/news/20260505-its-pretty-amazing-how-quickly-crypto-twitter-went-from-fartcoin-to-debating-the.html"
-    },
-    {
       "source": "X Wire",
       "title": "Russia's Largest Securities Exchange to Launch SOL, XRP, TRX and BNB Crypto Indexes The Moscow Exchange will begin publishing four crypto indexes tracking SOL, XRP, TRX and BNB from May 13, using pricing data from Binance (50%), Bybit (20%), OK - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WSWZHY0tyalROM2YzRjMtQmsyME5rRHdlNlhraU1Cc1FyU3pNOHB6OXBEZW95WU5BWERIb0FGQXpKa05EZFpnQmZlSXh4Y182R1FaUGpKSmNIbldxb3ctT1lLdw?oc=5\" target=\"_blank\">Russia's Largest Securities Exch…",
@@ -894,56 +954,6 @@
       "category": "X热点",
       "slug": "20260505-is-bitcoin-heading-to-100000-btc-continues-to-show-structural-strength-following",
       "localUrl": "/news/20260505-is-bitcoin-heading-to-100000-btc-continues-to-show-structural-strength-following.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Someone Built an Open-Source 'Theoretical Mythos' to Reverse-Engineer Anthropic's Most Dangerous AI",
-      "summary": "OpenMythos is a from-scratch attempt to reconstruct the architecture behind Claude Mythos, the cyber-capable model Anthropic refuses to release. It's speculation in code form.",
-      "url": "https://decrypt.co/366745/openmythos-claude-mythos-architecture-open-source-reconstruction",
-      "publishedAt": "2026-05-04T22:31:02.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260504-someone-built-an-open-source-theoretical-mythos-to-reverse-engineer-anthropics-m",
-      "localUrl": "/news/20260504-someone-built-an-open-source-theoretical-mythos-to-reverse-engineer-anthropics-m.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Aave Fights to Unfreeze $71 Million as Kelp DAO Hack Spills Into Court",
-      "summary": "A federal case over frozen crypto could determine whether DeFi recovery funds can be seized to satisfy unrelated judgments.",
-      "url": "https://decrypt.co/366744/aave-unfreeze-71m-arbitrum-kelp-dao-hack",
-      "publishedAt": "2026-05-04T21:56:03.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260504-aave-fights-to-unfreeze-71-million-as-kelp-dao-hack-spills-into-court",
-      "localUrl": "/news/20260504-aave-fights-to-unfreeze-71-million-as-kelp-dao-hack-spills-into-court.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "K-Pop Firm's Stock Plunges as It Dumps Bitcoin Treasury Plan for AI Pivot",
-      "summary": "K Wave Media is shifting $485 million in funding from its Bitcoin treasury strategy towards an AI infrastructure play.",
-      "url": "https://decrypt.co/366740/k-pop-firm-stock-plunges-dumps-bitcoin-treasury-plan-ai-pivot",
-      "publishedAt": "2026-05-04T21:15:24.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "RWA",
-      "slug": "20260504-k-pop-firms-stock-plunges-as-it-dumps-bitcoin-treasury-plan-for-ai-pivot",
-      "localUrl": "/news/20260504-k-pop-firms-stock-plunges-as-it-dumps-bitcoin-treasury-plan-for-ai-pivot.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "\"my crypto journey is a lie\" - Results on X | Live Posts & Updates - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxORWRpdEx0WUZRNVpNRHNqZmlDWFlkRXhXRHc4eTJ4aHVGbzlIS0hrR0p1aDBFZ3JtNWlwengxWEo1X2QyU1BzbHUxMF9FVmhhQjFkMzhQaUYxS3pZRWpEWFJKUzJyS2RSMTYxQ3otaW1NdEZHVlV0enpOVTlhMGtVOXBhUXA1RTF0R05ya…",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWRpdEx0WUZRNVpNRHNqZmlDWFlkRXhXRHc4eTJ4aHVGbzlIS0hrR0p1aDBFZ3JtNWlwengxWEo1X2QyU1BzbHUxMF9FVmhhQjFkMzhQaUYxS3pZRWpEWFJKUzJyS2RSMTYxQ3otaW1NdEZHVlV0enpOVTlhMGtVOXBhUXA1RTF0R05ya3JzSFBRYmdH?oc=5",
-      "publishedAt": "2026-05-04T20:09:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260504-my-crypto-journey-is-a-lie-results-on-x-live-posts-updates-xcom",
-      "localUrl": "/news/20260504-my-crypto-journey-is-a-lie-results-on-x-live-posts-updates-xcom.html"
     },
     {
       "source": "X Wire",
@@ -1002,6 +1012,17 @@
     },
     {
       "source": "X Wire",
+      "title": "CT… do your thing. Drop your best crypto meme below 👇 Rules: 🔸 Repost 🔸 Follow @binance 🔸 Reply with meme Make us laugh. Top 10 memes share $2,000 in BNB. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xZEZnUkJJcGdIRV9IaWRQS1VibFJPWTJlR1BCMVBzWVUwN1cwZ19ZQkZwLXZkQzVxNmdFM1Q1Wmx3RlZVSUlDRkllRXRFZ1dCelN3bFY5aXVMcUhn?oc=5\" target=\"_blank\">CT… do your thing. Drop your best crypto m…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xZEZnUkJJcGdIRV9IaWRQS1VibFJPWTJlR1BCMVBzWVUwN1cwZ19ZQkZwLXZkQzVxNmdFM1Q1Wmx3RlZVSUlDRkllRXRFZ1dCelN3bFY5aXVMcUhn?oc=5",
+      "publishedAt": "2026-05-04T16:00:53.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260504-ct-do-your-thing-drop-your-best-crypto-meme-below-rules-repost-follow-binance-re",
+      "localUrl": "/news/20260504-ct-do-your-thing-drop-your-best-crypto-meme-below-rules-repost-follow-binance-re.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Circle France has received approval to offer crypto-asset services in the EU, enabling MiCA-compliant custody and transfer services for USDC and EURC across the EEA. Advancing compliant digital financial infrastructure in Europe. More: circle.com/blog/circl - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3RjN6clBCVGdEU3cxaGJ4eVRqQkM1em1QcUZxYlo4M0MyMXc4Y1U2TllIWVpJRXpXV252MnFDS1ZBbWUxWUdCRTRqSi1IcDdkTlRpYnAwQmpOX2c?oc=5\" target=\"_blank\">Circle France has received approval to offe…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3RjN6clBCVGdEU3cxaGJ4eVRqQkM1em1QcUZxYlo4M0MyMXc4Y1U2TllIWVpJRXpXV252MnFDS1ZBbWUxWUdCRTRqSi1IcDdkTlRpYnAwQmpOX2c?oc=5",
@@ -1010,17 +1031,6 @@
       "category": "X热点",
       "slug": "20260504-circle-france-has-received-approval-to-offer-crypto-asset-services-in-the-eu-ena",
       "localUrl": "/news/20260504-circle-france-has-received-approval-to-offer-crypto-asset-services-in-the-eu-ena.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "I fully recognize that crypto may be a once-in-a-generation chance to get rich that we have not missed yet and that may mean that I miss a lot of it. I'm okay with that and hope my Ripple stock gives me enough exposure. I sleep better at night that way. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jbXZSSjZOelJaM3ktbGJ4dUJEUmdua1NXeDNfcFgtOVB5S2ZjR0JEczk1WXgyQWUxUTNBUFhyRXk5VTRQa2tVYXJqQml3V21LSlpfdU9Cb1ZjMGxqOGc?oc=5\" target=\"_blank\">I fully recognize that crypto may be a …",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jbXZSSjZOelJaM3ktbGJ4dUJEUmdua1NXeDNfcFgtOVB5S2ZjR0JEczk1WXgyQWUxUTNBUFhyRXk5VTRQa2tVYXJqQml3V21LSlpfdU9Cb1ZjMGxqOGc?oc=5",
-      "publishedAt": "2026-05-04T09:23:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260504-i-fully-recognize-that-crypto-may-be-a-once-in-a-generation-chance-to-get-rich-t",
-      "localUrl": "/news/20260504-i-fully-recognize-that-crypto-may-be-a-once-in-a-generation-chance-to-get-rich-t.html"
     },
     {
       "source": "X Wire",
@@ -1065,17 +1075,6 @@
       "category": "X热点",
       "slug": "20260504-breaking-80039-bitcoin-xcom",
       "localUrl": "/news/20260504-breaking-80039-bitcoin-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: $79,220 Bitcoin 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jV1JYcW82SDlkeERNYS04elFZZTZRaFM3cXgxX0h0ZUpFNXBrR0NIV1o2OVluTDljSkROS1g1VFViazZJTVIwX0E3WTBGUFo2bldlNF93UU5MSlZLa2FKdHFXNHRNUmc?oc=5\" target=\"_blank\">JUST IN: $79,220 Bitcoin 🚀…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jV1JYcW82SDlkeERNYS04elFZZTZRaFM3cXgxX0h0ZUpFNXBrR0NIV1o2OVluTDljSkROS1g1VFViazZJTVIwX0E3WTBGUFo2bldlNF93UU5MSlZLa2FKdHFXNHRNUmc?oc=5",
-      "publishedAt": "2026-05-03T20:37:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260503-just-in-79220-bitcoin-xcom",
-      "localUrl": "/news/20260503-just-in-79220-bitcoin-xcom.html"
     },
     {
       "source": "Ethereum Blog",
