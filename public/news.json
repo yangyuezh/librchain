@@ -1,10 +1,92 @@
 {
-  "updatedAt": "2026-05-06T04:00:53.227Z",
+  "updatedAt": "2026-05-06T06:42:28.651Z",
   "total": 81,
   "items": [
     {
+      "source": "CoinDesk",
+      "title": "North Korea terror victims escalate fight to seize $71 million from Aave hack",
+      "summary": "In a 30-page response filed Tuesday, attorneys for victims of three North Korea terrorism cases reframed the April 18 Aave hack as fraud rather than theft — a distinction that could give the attackers legal title to the borrowed crypto.",
+      "url": "https://www.coindesk.com/policy/2026/05/06/north-korea-terror-victims-escalate-fight-to-seize-usd71-million-from-aave-hack",
+      "publishedAt": "2026-05-06T05:09:22.000Z",
+      "keywords": [
+        "Policy",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260506-north-korea-terror-victims-escalate-fight-to-seize-71-million-from-aave-hack",
+      "localUrl": "/news/20260506-north-korea-terror-victims-escalate-fight-to-seize-71-million-from-aave-hack.html"
+    },
+    {
       "source": "Cointelegraph",
-      "title": "Bitcoin holds $81K amid flat derivatives markets: Is the rally sustainable?",
+      "title": "Kelp DAO to migrate rsETH to Chainlink CCIP as blame game continues",
+      "summary": "Bryan Pellegrino, co-founder and CEO of LayerZero, disputes Kelp DAO’s accusations and said a postmortem by external security firms will be published soon.",
+      "url": "https://cointelegraph.com/news/kelp-dao-to-migrate-rseth-to-chainlink-as-it-continues-to-blame-layerzero-infrastructure-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-06T04:49:19.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260506-kelp-dao-to-migrate-rseth-to-chainlink-ccip-as-blame-game-continues",
+      "localUrl": "/news/20260506-kelp-dao-to-migrate-rseth-to-chainlink-ccip-as-blame-game-continues.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Iggy Azalea faces class lawsuit over MOTHER memecoin",
+      "summary": "A class-action group has accused rapper Iggy Azalea of not following through on delivering utility and business integrations for her memecoin, Mother Iggy.",
+      "url": "https://cointelegraph.com/news/iggy-azalea-class-action-lawsuit-mother-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-06T04:29:35.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260506-iggy-azalea-faces-class-lawsuit-over-mother-memecoin",
+      "localUrl": "/news/20260506-iggy-azalea-faces-class-lawsuit-over-mother-memecoin.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP above $1.42 as traders watch 2025 breakout pattern that led to 66% rally",
+      "summary": "Price compression near $1.42 comes as analysts point to a repeating bull flag structure and thinning liquidity conditions.",
+      "url": "https://www.coindesk.com/markets/2026/05/06/xrp-above-usd1-42-as-traders-watch-2025-breakout-pattern-that-led-to-66-rally",
+      "publishedAt": "2026-05-06T04:25:26.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260506-xrp-above-142-as-traders-watch-2025-breakout-pattern-that-led-to-66-rally",
+      "localUrl": "/news/20260506-xrp-above-142-as-traders-watch-2025-breakout-pattern-that-led-to-66-rally.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin tops $81,000 as Strategy mulls selling its BTC to fund dividend obligations",
+      "summary": "Strategy executive chairman Michael Saylor signalling a potential bitcoin sale to cover $1.5 billion in annual dividend obligations sent MSTR down 4% after hours and BTC briefly below $81,000.",
+      "url": "https://www.coindesk.com/markets/2026/05/06/bitcoin-tops-usd81-000-as-strategy-mulls-selling-its-btc-to-fund-dividend-obligations",
+      "publishedAt": "2026-05-06T04:11:27.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260506-bitcoin-tops-81000-as-strategy-mulls-selling-its-btc-to-fund-dividend-obligation",
+      "localUrl": "/news/20260506-bitcoin-tops-81000-as-strategy-mulls-selling-its-btc-to-fund-dividend-obligation.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy could sell Bitcoin ‘to inoculate the market,’ Michael Saylor says",
+      "summary": "It marks the first time that Saylor’s company has floated the idea of selling Bitcoin, parting ways with his long-held view that Bitcoin shouldn’t be sold.",
+      "url": "https://cointelegraph.com/news/strategy-posts-125b-net-loss-in-q1-as-btc-fell-xx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-06T04:09:33.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260506-strategy-could-sell-bitcoin-to-inoculate-the-market-michael-saylor-says",
+      "localUrl": "/news/20260506-strategy-could-sell-bitcoin-to-inoculate-the-market-michael-saylor-says.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin holds $81K amid flat derivatives markets: Is rally sustainable?",
       "summary": "Bitcoin carved a path toward $82,000, but derivatives metrics need another push from bulls to sustain the rally.",
       "url": "https://cointelegraph.com/markets/bitcoin-holds-81k-amid-flat-derivatives-markets-is-the-rally-sustainable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-05-06T02:48:53.000Z",
@@ -12,8 +94,8 @@
         "Markets"
       ],
       "category": "市场",
-      "slug": "20260506-bitcoin-holds-81k-amid-flat-derivatives-markets-is-the-rally-sustainable",
-      "localUrl": "/news/20260506-bitcoin-holds-81k-amid-flat-derivatives-markets-is-the-rally-sustainable.html"
+      "slug": "20260506-bitcoin-holds-81k-amid-flat-derivatives-markets-is-rally-sustainable",
+      "localUrl": "/news/20260506-bitcoin-holds-81k-amid-flat-derivatives-markets-is-rally-sustainable.html"
     },
     {
       "source": "CoinDesk",
@@ -31,6 +113,17 @@
       "category": "市场",
       "slug": "20260505-michael-saylors-strategy-signals-potential-bitcoin-sale-to-fund-dividends-obliga",
       "localUrl": "/news/20260505-michael-saylors-strategy-signals-potential-bitcoin-sale-to-fund-dividends-obliga.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Michael Saylor proposes selling Bitcoin to fund Strategy's dividends. 48% chance Strategy sells any Bitcoin this year. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WZ05zZTZQbWhiRjU4QnRicmd0cnZXWEsxM3c3RnByQUNhdXFRdTJNWDBBZXJfVDl3ajJheFZ5cHBMTDBFNGk3el9ZUDNQLUo0dHFOWlpFa2VZeGpVd2Z6cg?oc=5\" target=\"_blank\">JUST IN: Michael Saylor proposes sel…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WZ05zZTZQbWhiRjU4QnRicmd0cnZXWEsxM3c3RnByQUNhdXFRdTJNWDBBZXJfVDl3ajJheFZ5cHBMTDBFNGk3el9ZUDNQLUo0dHFOWlpFa2VZeGpVd2Z6cg?oc=5",
+      "publishedAt": "2026-05-05T23:00:51.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260505-just-in-michael-saylor-proposes-selling-bitcoin-to-fund-strategys-dividends-48-c",
+      "localUrl": "/news/20260505-just-in-michael-saylor-proposes-selling-bitcoin-to-fund-strategys-dividends-48-c.html"
     },
     {
       "source": "X Wire",
@@ -507,22 +600,6 @@
       "localUrl": "/news/20260505-tokenization-wont-disrupt-banking-rails-but-improve-them-wall-street-executives-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin extends gains to $81,500 as tokenization push lifts Bullish, Galaxy, Centrifuge",
-      "summary": "Crypto market momentum could extend further unless geopolitical risks flare up again, one analyst said.",
-      "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-extends-gains-to-usd81-500-as-tokenization-push-lifts-bullish-galaxy-centrifuge",
-      "publishedAt": "2026-05-05T18:52:16.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Market Wrap",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260505-bitcoin-extends-gains-to-81500-as-tokenization-push-lifts-bullish-galaxy-centrif",
-      "localUrl": "/news/20260505-bitcoin-extends-gains-to-81500-as-tokenization-push-lifts-bullish-galaxy-centrif.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Crypto Fear and Greed Index turns neutral for first time since January: Is $100K BTC next?",
       "summary": "Improving investor confidence supports Bitcoin’s hold on $80,000, as the Crypto Fear and Greed Index exited the “Extreme Fear” zone and now reads “neutral.” Are the bulls back in control?",
@@ -547,6 +624,17 @@
       "category": "基础设施",
       "slug": "20260505-openai-just-upgraded-chatgpts-default-modelheres-what-gpt-55-instant-actually-do",
       "localUrl": "/news/20260505-openai-just-upgraded-chatgpts-default-modelheres-what-gpt-55-instant-actually-do.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Senator Bernie Moreno says they're going to mark up the Bitcoin and crypto market structure legislation \"next week.\" \"We'll get it on the President's desk before the end of June and he'll sign it into law before July 4th.\" - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fZjYxbmsxdGJqMTg0VGcyTnFKdkRVaEgwM0VUQ0JycXNrNUs4eFFDcC12X081WEt1NGZqWHQ3RU5ua0FzTTJVRTM2VHFjVTdpeGJiQzhCSWJ1TktwWm1aUGI2NzAxRjg?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Senator Berni…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fZjYxbmsxdGJqMTg0VGcyTnFKdkRVaEgwM0VUQ0JycXNrNUs4eFFDcC12X081WEt1NGZqWHQ3RU5ua0FzTTJVRTM2VHFjVTdpeGJiQzhCSWJ1TktwWm1aUGI2NzAxRjg?oc=5",
+      "publishedAt": "2026-05-05T18:22:44.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260505-just-in-senator-bernie-moreno-says-theyre-going-to-mark-up-the-bitcoin-and-crypt",
+      "localUrl": "/news/20260505-just-in-senator-bernie-moreno-says-theyre-going-to-mark-up-the-bitcoin-and-crypt.html"
     },
     {
       "source": "Decrypt",
@@ -588,21 +676,6 @@
       "localUrl": "/news/20260505-french-chipmaker-sequans-dumps-half-its-bitcoin-as-treasury-hype-meets-reality.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Rep. Steven Horsford pitches PARITY Act as 'durable floor' for crypto tax at Consensus Miami",
-      "summary": "The Nevada Democrat told Professor Yesha Yadav that incremental, bipartisan reform is the path forward as Senate negotiations on the CLARITY Act stall.",
-      "url": "https://www.coindesk.com/policy/2026/05/05/rep-steven-horsford-pitches-parity-act-as-durable-floor-for-crypto-tax-at-consensus-miami",
-      "publishedAt": "2026-05-05T17:27:58.000Z",
-      "keywords": [
-        "Policy",
-        "Consensus Miami 2026",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260505-rep-steven-horsford-pitches-parity-act-as-durable-floor-for-crypto-tax-at-consen",
-      "localUrl": "/news/20260505-rep-steven-horsford-pitches-parity-act-as-durable-floor-for-crypto-tax-at-consen.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Iggy Azalea Faces Lawsuit Over Solana Meme Coin",
       "summary": "Investors allege the rapper misled buyers about the token’s real-world utility.",
@@ -614,22 +687,6 @@
       "category": "监管",
       "slug": "20260505-iggy-azalea-faces-lawsuit-over-solana-meme-coin",
       "localUrl": "/news/20260505-iggy-azalea-faces-lawsuit-over-solana-meme-coin.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Solana’s 'Alpenglow' upgrade could arrive next quarter, co-founder Yakovenko says",
-      "summary": "Speaking at Consensus Miami 2026, the Solana co-founder said that he is excited to see 'Alpenglow' upgrade go live later this year, which could come as early as next quarter.",
-      "url": "https://www.coindesk.com/tech/2026/05/05/solana-s-alpenglow-upgrade-could-arrive-next-quarter-co-founder-yakovenko-says",
-      "publishedAt": "2026-05-05T17:24:01.000Z",
-      "keywords": [
-        "Tech",
-        "Solana News",
-        "Consensus Miami 2026",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260505-solanas-alpenglow-upgrade-could-arrive-next-quarter-co-founder-yakovenko-says",
-      "localUrl": "/news/20260505-solanas-alpenglow-upgrade-could-arrive-next-quarter-co-founder-yakovenko-says.html"
     },
     {
       "source": "Cointelegraph",
@@ -722,14 +779,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Today we are excited to announce that @eddylazzarin is being promoted to General Partner at a16z crypto.Eddy joined us in 2019 as a data scientist and investing partner, not long after we launched our first crypto fund. From the beginning, people sought him - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aemN3aWlrWU44TEZHTXFpdDBZczdXVFRHM1dMQm9qeUpHTnVWMmh0NlV3a04yREFyZnRDY1dTcS16NXBRMjgtbEs4X2dWQmx1UmNRa0daSjJLdEk?oc=5\" target=\"_blank\">Today we are excited to announce that @eddy…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aemN3aWlrWU44TEZHTXFpdDBZczdXVFRHM1dMQm9qeUpHTnVWMmh0NlV3a04yREFyZnRDY1dTcS16NXBRMjgtbEs4X2dWQmx1UmNRa0daSjJLdEk?oc=5",
-      "publishedAt": "2026-05-05T15:51:41.000Z",
+      "title": "52x in a year If it's not obvious by now why crypto has underperformed it should be It's estimated that there's going to be another 7.6T in capex as well over the next 5 years Attention + Money flows have been HEAVY in anything to do with AI and that has taken - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tdzBqRWota3JCQVpNT1BXSV9xTWJWcjBSNHlrai1lWTRrNWJJWGgzaVk5MmRZeFN5VkpVdG8zbUhHT20xT3dsd3pKdjdpY2Y1TWhqX0dEemZTQ0duSFE?oc=5\" target=\"_blank\">52x in a year If it's not obvious by no…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tdzBqRWota3JCQVpNT1BXSV9xTWJWcjBSNHlrai1lWTRrNWJJWGgzaVk5MmRZeFN5VkpVdG8zbUhHT20xT3dsd3pKdjdpY2Y1TWhqX0dEemZTQ0duSFE?oc=5",
+      "publishedAt": "2026-05-05T16:13:30.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260505-today-we-are-excited-to-announce-that-eddylazzarin-is-being-promoted-to-general-",
-      "localUrl": "/news/20260505-today-we-are-excited-to-announce-that-eddylazzarin-is-being-promoted-to-general-.html"
+      "slug": "20260505-52x-in-a-year-if-its-not-obvious-by-now-why-crypto-has-underperformed-it-should-",
+      "localUrl": "/news/20260505-52x-in-a-year-if-its-not-obvious-by-now-why-crypto-has-underperformed-it-should-.html"
     },
     {
       "source": "Decrypt",
@@ -821,6 +878,17 @@
       "localUrl": "/news/20260505-binance-changes-weekend-pricing-for-commodity-tradfi-futures.html"
     },
     {
+      "source": "X Wire",
+      "title": "🇺🇸 HAYES: Regulation has no impact on crypto’s utility. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wWlh2NTFDaWx5LVJCV3Z5al95dGRQMXhRRUZ4XzBDekZzSmZPZVhyU2c0R2NfV0Q5WkFlX0dybHhmRE1Iem5oWE9PSEhsa2xjYmxIamQ4dkx5TjhYOWtKTldzSjM?oc=5\" target=\"_blank\">🇺🇸 HAYES: Regulation has no i…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wWlh2NTFDaWx5LVJCV3Z5al95dGRQMXhRRUZ4XzBDekZzSmZPZVhyU2c0R2NfV0Q5WkFlX0dybHhmRE1Iem5oWE9PSEhsa2xjYmxIamQ4dkx5TjhYOWtKTldzSjM?oc=5",
+      "publishedAt": "2026-05-05T13:37:54.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260505-hayes-regulation-has-no-impact-on-cryptos-utility-xcom",
+      "localUrl": "/news/20260505-hayes-regulation-has-no-impact-on-cryptos-utility-xcom.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Coinbase cuts 14% of workforce, citing market slump and AI shift",
       "summary": "Brian Armstrong said Coinbase will flatten management layers and require leaders to work as “player-coaches” under the new structure.",
@@ -845,45 +913,6 @@
       "category": "市场",
       "slug": "20260505-bitcoin-supercycle-or-bear-market-rally-btc-breaking-81k-has-traders-at-odds",
       "localUrl": "/news/20260505-bitcoin-supercycle-or-bear-market-rally-btc-breaking-81k-has-traders-at-odds.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto products post 5th straight week of inflows despite mid-week selloff",
-      "summary": "Crypto ETPs shed $619 million over four days before a $737 million Friday session rescued the week, extending the inflow streak to $4.02 billion across five weeks.",
-      "url": "https://cointelegraph.com/news/crypto-products-post-5th-straight-week-of-inflows-despite-mid-week-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-05T13:25:23.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260505-crypto-products-post-5th-straight-week-of-inflows-despite-mid-week-selloff",
-      "localUrl": "/news/20260505-crypto-products-post-5th-straight-week-of-inflows-despite-mid-week-selloff.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Europe should weigh tokenized SEPA payments, Bank of Italy official says",
-      "summary": "The Bank of Italy’s deputy governor floated the evaluation of tokenized SEPA payments, as the ECB experiments with tokenized digital payment frameworks to avoid stablecoin competition.",
-      "url": "https://cointelegraph.com/news/bank-of-italy-deputy-governor-urges-eu-to-evaluate-tokenized-sepa-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-05T13:03:37.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260505-europe-should-weigh-tokenized-sepa-payments-bank-of-italy-official-says",
-      "localUrl": "/news/20260505-europe-should-weigh-tokenized-sepa-payments-bank-of-italy-official-says.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bullish to buy transfer agent Equiniti for $4.2B in tokenization push",
-      "summary": "Bullish has agreed to acquire transfer agent Equiniti as more Wall Street participants accelerate their tokenization initiatives to offer 24/7 trading.",
-      "url": "https://cointelegraph.com/news/bullish-to-acquire-equiniti-for-42b-in-tokenization-push-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-05T12:54:29.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260505-bullish-to-buy-transfer-agent-equiniti-for-42b-in-tokenization-push",
-      "localUrl": "/news/20260505-bullish-to-buy-transfer-agent-equiniti-for-42b-in-tokenization-push.html"
     },
     {
       "source": "Decrypt",
@@ -946,25 +975,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Bitcoin is about to go through its first supercycle: from $16,000 to $250,000+. The cycle began Nov 2022 at the $16,000 bear market low. The first peak was $126,000 and the mid-cycle low was $60,000. The next cycle peak will land in the second half of 2027 t - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WaWphM0toa2VORm0zSDJGZ05HSXZnX2o1cmxJcHpveFMzalhNclIwTmxGdHpDcHpscGdTazliRlM1LVBWNjJuT2V4ZkJzbndsOVVwcGp2ekh4SlZobUJJNWc4QQ?oc=5\" target=\"_blank\">Bitcoin is about to go through i…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WaWphM0toa2VORm0zSDJGZ05HSXZnX2o1cmxJcHpveFMzalhNclIwTmxGdHpDcHpscGdTazliRlM1LVBWNjJuT2V4ZkJzbndsOVVwcGp2ekh4SlZobUJJNWc4QQ?oc=5",
-      "publishedAt": "2026-05-04T22:11:40.000Z",
+      "title": "Is Bitcoin heading to $100,000? $BTC continues to show structural strength. Following a bullish MACD crossover on the weekly chart on April 13, we have already seen a steady 15% price increase. Historically, this specific weekly crossover has been a premie - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIMWc0WUE5ajBhR19WOG85WjZORkppUlNZVk94RTlRWURCYUt5WWhoZHVKZFZHTkg1VFVwRXlPWFJ0R3N6aVJXTDBieG11R2ZoTjZCOUZwekI4ZEd6MVZV?oc=5\" target=\"_blank\">Is Bitcoin heading to $100,000? $BTC c…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIMWc0WUE5ajBhR19WOG85WjZORkppUlNZVk94RTlRWURCYUt5WWhoZHVKZFZHTkg1VFVwRXlPWFJ0R3N6aVJXTDBieG11R2ZoTjZCOUZwekI4ZEd6MVZV?oc=5",
+      "publishedAt": "2026-05-05T04:01:00.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260504-bitcoin-is-about-to-go-through-its-first-supercycle-from-16000-to-250000-the-cyc",
-      "localUrl": "/news/20260504-bitcoin-is-about-to-go-through-its-first-supercycle-from-16000-to-250000-the-cyc.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Yeah, that's true now. I have virtually no crypto exposure left except XRP and Ripple. I'm not sure I really planned it that way though. I'm not one of those people who always has high confidence that they're right and that what they've done is the best. I'm one of t - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE84cXlkX3Bic21EU2ZVTk5WaHE3ajAzYVFyMDRkWWJtZnBwYjVRSnFEcWQwRlFqYkgtZ180bEhtZ21QcjVaX3V2dkt0VjRJRlZKRk9uN2hfM2tyWl9GVGc?oc=5\" target=\"_blank\">Yeah, that's true now. I have virtually…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84cXlkX3Bic21EU2ZVTk5WaHE3ajAzYVFyMDRkWWJtZnBwYjVRSnFEcWQwRlFqYkgtZ180bEhtZ21QcjVaX3V2dkt0VjRJRlZKRk9uN2hfM2tyWl9GVGc?oc=5",
-      "publishedAt": "2026-05-04T19:31:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260504-yeah-thats-true-now-i-have-virtually-no-crypto-exposure-left-except-xrp-and-ripp",
-      "localUrl": "/news/20260504-yeah-thats-true-now-i-have-virtually-no-crypto-exposure-left-except-xrp-and-ripp.html"
+      "slug": "20260505-is-bitcoin-heading-to-100000-btc-continues-to-show-structural-strength-following",
+      "localUrl": "/news/20260505-is-bitcoin-heading-to-100000-btc-continues-to-show-structural-strength-following.html"
     },
     {
       "source": "X Wire",
@@ -1012,17 +1030,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Gary Stevenson Calls Bitcoin Worthless Internet Points in Viral Clip - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDdkJKQk5kMU5saHMzU3BoeloxWV9hcmhaYmNsbkJuVkRtb3Jqa1FLWjRQOHRxaGxudVBuT2NWckhNZGJYT3djeHozYkVmRVRSdG9tcUo3bw?oc=5\" target=\"_blank\">Gary Stevenson Calls Bitcoin Worthless Internet …",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDdkJKQk5kMU5saHMzU3BoeloxWV9hcmhaYmNsbkJuVkRtb3Jqa1FLWjRQOHRxaGxudVBuT2NWckhNZGJYT3djeHozYkVmRVRSdG9tcUo3bw?oc=5",
-      "publishedAt": "2026-05-04T10:45:59.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260504-gary-stevenson-calls-bitcoin-worthless-internet-points-in-viral-clip-xcom",
-      "localUrl": "/news/20260504-gary-stevenson-calls-bitcoin-worthless-internet-points-in-viral-clip-xcom.html"
-    },
-    {
-      "source": "X Wire",
       "title": "If you bought Coal on Runescape 1 year ago you outperformed Ethereum - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tc29INXNWZHNUanU3bk5WUjJ1Xy1nWm1GSjBNTHpQZWg2N05zbzBoc1dPYk9SY2VZN1dQRHNoc0FFT3Q1OXAyYmxBVjJ6dW54cVlVWDRYb29lWmM?oc=5\" target=\"_blank\">If you bought Coal on Runescape 1 year ago …",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tc29INXNWZHNUanU3bk5WUjJ1Xy1nWm1GSjBNTHpQZWg2N05zbzBoc1dPYk9SY2VZN1dQRHNoc0FFT3Q1OXAyYmxBVjJ6dW54cVlVWDRYb29lWmM?oc=5",
@@ -1064,17 +1071,6 @@
       "category": "X热点",
       "slug": "20260504-breaking-80039-bitcoin-xcom",
       "localUrl": "/news/20260504-breaking-80039-bitcoin-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: $79,220 Bitcoin 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jV1JYcW82SDlkeERNYS04elFZZTZRaFM3cXgxX0h0ZUpFNXBrR0NIV1o2OVluTDljSkROS1g1VFViazZJTVIwX0E3WTBGUFo2bldlNF93UU5MSlZLa2FKdHFXNHRNUmc?oc=5\" target=\"_blank\">JUST IN: $79,220 Bitcoin 🚀…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jV1JYcW82SDlkeERNYS04elFZZTZRaFM3cXgxX0h0ZUpFNXBrR0NIV1o2OVluTDljSkROS1g1VFViazZJTVIwX0E3WTBGUFo2bldlNF93UU5MSlZLa2FKdHFXNHRNUmc?oc=5",
-      "publishedAt": "2026-05-03T20:37:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260503-just-in-79220-bitcoin-xcom",
-      "localUrl": "/news/20260503-just-in-79220-bitcoin-xcom.html"
     }
   ]
 }
