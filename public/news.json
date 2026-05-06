@@ -1,7 +1,102 @@
 {
-  "updatedAt": "2026-05-06T22:07:05.398Z",
+  "updatedAt": "2026-05-06T23:06:06.578Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "AI agents becoming more relevant than humans by 2035 has Big Tech 'terrified', says Hoskinson",
+      "summary": "The founder and CEO of Cardano’s Input Output said Google, Amazon and Facebook are terrified because AI agents will not behave like humans when confronted with ads.",
+      "url": "https://www.coindesk.com/business/2026/05/06/ai-agents-will-become-more-relevant-than-humans-by-2035-says-charles-hoskinson",
+      "publishedAt": "2026-05-06T22:35:57.000Z",
+      "keywords": [
+        "Finance",
+        "Consensus Miami 2026",
+        "Cardano",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260506-ai-agents-becoming-more-relevant-than-humans-by-2035-has-big-tech-terrified-says",
+      "localUrl": "/news/20260506-ai-agents-becoming-more-relevant-than-humans-by-2035-has-big-tech-terrified-says.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Grant Cardone says bitcoin-real estate strategy could outperform REITs, adds more BTC to treasury",
+      "summary": "The real-estate mogul said the hybrid model brings new users into crypto and challenges traditional real estate structures.",
+      "url": "https://www.coindesk.com/business/2026/05/06/bitcoin-real-estate-strategy-could-outperform-reits-says-grant-cardone-he-adds-btc-to-treasury",
+      "publishedAt": "2026-05-06T22:32:30.000Z",
+      "keywords": [
+        "Finance",
+        "Consensus Miami 2026",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260506-grant-cardone-says-bitcoin-real-estate-strategy-could-outperform-reits-adds-more",
+      "localUrl": "/news/20260506-grant-cardone-says-bitcoin-real-estate-strategy-could-outperform-reits-adds-more.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nasdaq's president says the SEC’s new crypto stance is letting markets 'build' again",
+      "summary": "Nasdaq’s Tal Cohen said a friendlier SEC is giving crypto firms and exchanges room to experiment with tokenization and digital market infrastructure.",
+      "url": "https://www.coindesk.com/policy/2026/05/06/nasdaq-s-president-says-the-sec-s-new-crypto-stance-is-letting-markets-build-again",
+      "publishedAt": "2026-05-06T22:31:09.000Z",
+      "keywords": [
+        "Policy",
+        "Nasdaq",
+        "Consensus Miami 2026",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260506-nasdaqs-president-says-the-secs-new-crypto-stance-is-letting-markets-build-again",
+      "localUrl": "/news/20260506-nasdaqs-president-says-the-secs-new-crypto-stance-is-letting-markets-build-again.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wall Street's clearinghouse seeks 'high-performance' blockchains to tokenize corporate actions",
+      "summary": "DTCC CEO Frank La Salla said the clearing giant is working with layer-1 blockchains to bring millions in corporate actions like dividend payments onchain, but challenges remain.",
+      "url": "https://www.coindesk.com/business/2026/05/06/wall-street-s-clearinghouse-seeks-high-performance-blockchains-to-tokenize-corporate-actions",
+      "publishedAt": "2026-05-06T22:29:43.000Z",
+      "keywords": [
+        "Finance",
+        "Tokenization",
+        "Consensus Miami 2026",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260506-wall-streets-clearinghouse-seeks-high-performance-blockchains-to-tokenize-corpor",
+      "localUrl": "/news/20260506-wall-streets-clearinghouse-seeks-high-performance-blockchains-to-tokenize-corpor.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto’s mainstream moment has arrived, say industry leaders speaking at Consensus Miami",
+      "summary": "Executives from Binance, Revolut and Circle say crypto is evolving beyond speculation into the financial infrastructure powering payments, remittances and broader global access.",
+      "url": "https://www.coindesk.com/business/2026/05/06/crypto-s-mainstream-moment-has-arrived-say-industry-leaders-speaking-at-consensus-miami",
+      "publishedAt": "2026-05-06T22:17:22.000Z",
+      "keywords": [
+        "Finance",
+        "Institutional Adoption",
+        "Crypto News",
+        "Consensus Miami 2026",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260506-cryptos-mainstream-moment-has-arrived-say-industry-leaders-speaking-at-consensus",
+      "localUrl": "/news/20260506-cryptos-mainstream-moment-has-arrived-say-industry-leaders-speaking-at-consensus.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s post-quantum migration will be harder than Taproot and needs to start now, Project Eleven CEO says",
+      "summary": "Alex Pruden said the asymmetry between acting on a post-quantum signature scheme today and waiting for certainty about quantum-computing hardware timelines means Bitcoin developers should move from research into production.",
+      "url": "https://www.coindesk.com/tech/2026/05/06/bitcoin-s-post-quantum-migration-will-be-harder-than-taproot-and-needs-to-start-now-project-eleven-ceo-says",
+      "publishedAt": "2026-05-06T22:14:16.000Z",
+      "keywords": [
+        "Tech",
+        "Consensus Miami 2026",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260506-bitcoins-post-quantum-migration-will-be-harder-than-taproot-and-needs-to-start-n",
+      "localUrl": "/news/20260506-bitcoins-post-quantum-migration-will-be-harder-than-taproot-and-needs-to-start-n.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Reid Hoffman says NFTs may make a comeback as AI agents strain online identity",
@@ -29,6 +124,19 @@
       "category": "综合",
       "slug": "20260506-chrome-is-quietly-installing-a-4gb-ai-model-on-your-computerand-putting-it-back-",
       "localUrl": "/news/20260506-chrome-is-quietly-installing-a-4gb-ai-model-on-your-computerand-putting-it-back-.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin market dominance moves above 61%: Will altcoins follow?",
+      "summary": "Bitcoin's market dominance climbed above 61% as BTC led crypto market flows. Data also showed Binance-listed altcoins' share of volume hitting 49% in March.",
+      "url": "https://cointelegraph.com/markets/bitcoin-market-dominance-moves-above-61-will-altcoins-follow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-06T22:00:25.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260506-bitcoin-market-dominance-moves-above-61-will-altcoins-follow",
+      "localUrl": "/news/20260506-bitcoin-market-dominance-moves-above-61-will-altcoins-follow.html"
     },
     {
       "source": "CoinDesk",
@@ -413,6 +521,30 @@
       "localUrl": "/news/20260506-kevin-oleary-says-wall-streets-tokenization-boom-is-all-talk-without-crypto-rule.html"
     },
     {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-06T16:01:00.000Z",
+      "keywords": [
+        "Trump memecoin",
+        "Solana memecoin",
+        "TRUMP token",
+        "Solana",
+        "SOL",
+        "Nova Labs",
+        "SEC",
+        "Securities and Exchange Commission",
+        "Crypto regulation",
+        "TRUMP rally",
+        "Bitcoin",
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260506-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260506-heres-what-happened-in-crypto-today.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Crypto Long & Short: In quiet crypto markets, yield is the trade",
       "summary": "In this week’s Crypto Long & Short Newsletter, Maxime Seiler notes that weak crypto prices mask adoption, making yield strategies the main trade. Then, Kavita Maharaj‑Alexander writes on crypto’s next phase being driven by proving complian…",
@@ -485,30 +617,6 @@
       "localUrl": "/news/20260506-the-legal-risks-and-practical-considerations-of-digital-asset-blacklisting.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-06T15:27:38.000Z",
-      "keywords": [
-        "Trump memecoin",
-        "Solana memecoin",
-        "TRUMP token",
-        "Solana",
-        "SOL",
-        "Nova Labs",
-        "SEC",
-        "Securities and Exchange Commission",
-        "Crypto regulation",
-        "TRUMP rally",
-        "Bitcoin",
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260506-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260506-heres-what-happened-in-crypto-today.html"
-    },
-    {
       "source": "X Wire",
       "title": "BREAKING: 🇺🇸 Someone is front-running this war. At 3:40 AM, a $920 million short hit crude oil. Seventy minutes later, Axios broke that the US and Iran were closing in on a deal. Oil dropped 12%. That single trade: $125 million in profit. Minutes after that, Iran - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwZUxQUGFaRjhhbU1NdGV1THlrdzhNdGthT3dCeVFmVlBzNUt3Nk05alYyWEJLR2c0QzdtZ0hIMC1VZGlZa0pYYkFqU0YxLUFXZzhNNHAwYk50czdYS3pWdkpB?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 Someone is front-ru…",
@@ -518,24 +626,6 @@
       "category": "X热点",
       "slug": "20260506-breaking-someone-is-front-running-this-war-at-340-am-a-920-million-short-hit-cru",
       "localUrl": "/news/20260506-breaking-someone-is-front-running-this-war-at-340-am-a-920-million-short-hit-cru.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The Protocol: AI Agents form their own firm",
-      "summary": "Also: Alpenglow upgrade update, Ripple on North Korea hacking threat, Cloudflare on AI agents and web economics",
-      "url": "https://www.coindesk.com/tech/2026/05/06/the-protocol-ai-agents-form-their-own-firm",
-      "publishedAt": "2026-05-06T15:18:23.000Z",
-      "keywords": [
-        "Tech",
-        "Newsletters",
-        "Ethereum News",
-        "Solana News",
-        "Artificial Intelligence",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260506-the-protocol-ai-agents-form-their-own-firm",
-      "localUrl": "/news/20260506-the-protocol-ai-agents-form-their-own-firm.html"
     },
     {
       "source": "Cointelegraph",
@@ -549,36 +639,6 @@
       "category": "综合",
       "slug": "20260506-morgan-stanley-takes-on-crypto-trading-rivals-with-etrade-pilot",
       "localUrl": "/news/20260506-morgan-stanley-takes-on-crypto-trading-rivals-with-etrade-pilot.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Hut 8 shares jump over 30% on news of $9.8 billion AI data center lease",
-      "summary": "Bitcoin miner expands into AI infrastructure with long-term hyperscale contract in Texas, which includes options that could increase the total value of the agreement to over $25 billion.",
-      "url": "https://www.coindesk.com/business/2026/05/06/hut-8-shares-jump-nearly-30-on-news-of-usd9-8-billion-ai-data-center-lease",
-      "publishedAt": "2026-05-06T14:56:37.000Z",
-      "keywords": [
-        "Finance",
-        "Bitcoin Mining",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260506-hut-8-shares-jump-over-30-on-news-of-98-billion-ai-data-center-lease",
-      "localUrl": "/news/20260506-hut-8-shares-jump-over-30-on-news-of-98-billion-ai-data-center-lease.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Consensus Miami Day 2: Real-time coverage and highlights from on the ground",
-      "summary": "It's day two of Consensus Miami 2026 on Wednesday. Stay tuned for updates throughout the day.",
-      "url": "https://www.coindesk.com/business/2026/05/06/consensus-miami-day-2-real-time-coverage-and-highlights-from-on-the-ground",
-      "publishedAt": "2026-05-06T14:56:09.000Z",
-      "keywords": [
-        "Finance",
-        "Consensus Miami 2026",
-        "live_news"
-      ],
-      "category": "综合",
-      "slug": "20260506-consensus-miami-day-2-real-time-coverage-and-highlights-from-on-the-ground",
-      "localUrl": "/news/20260506-consensus-miami-day-2-real-time-coverage-and-highlights-from-on-the-ground.html"
     },
     {
       "source": "Cointelegraph",
@@ -629,23 +689,6 @@
       "category": "监管",
       "slug": "20260506-hut-8-shares-hit-all-time-high-price-as-bitcoin-miner-signs-98-billion-ai-data-c",
       "localUrl": "/news/20260506-hut-8-shares-hit-all-time-high-price-as-bitcoin-miner-signs-98-billion-ai-data-c.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "NYSE tokenization partners warn synthetic stock tokens could mislead retail traders",
-      "summary": "Offshore synthetic tokens may not represent the underlying equity, use company names without approval, and exploit regulatory arbitrage.",
-      "url": "https://www.coindesk.com/business/2026/05/06/nyse-tokenization-partners-warn-synthetic-stock-tokens-could-mislead-retail-traders",
-      "publishedAt": "2026-05-06T14:08:04.000Z",
-      "keywords": [
-        "Finance",
-        "Real World Assets",
-        "Tokenization",
-        "Consensus Miami 2026",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260506-nyse-tokenization-partners-warn-synthetic-stock-tokens-could-mislead-retail-trad",
-      "localUrl": "/news/20260506-nyse-tokenization-partners-warn-synthetic-stock-tokens-could-mislead-retail-trad.html"
     },
     {
       "source": "Decrypt",
@@ -700,24 +743,6 @@
       "localUrl": "/news/20260506-samsung-sds-wins-deal-to-build-south-koreas-blockchain-securities-system-report.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "CoinDesk 20 performance update: Index jumps 2.5%, continuing higher",
-      "summary": "Near Protocol (NEAR) surged 16% and Internet Computer (ICP) gained 10.4%, leading index higher.",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/05/06/coindesk-20-performance-update-index-jumps-2-5-continuing-higher",
-      "publishedAt": "2026-05-06T13:19:17.000Z",
-      "keywords": [
-        "CoinDesk Indices",
-        "CoinDesk Indices",
-        "CoinDesk 20",
-        "charts",
-        "Prices",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260506-coindesk-20-performance-update-index-jumps-25-continuing-higher",
-      "localUrl": "/news/20260506-coindesk-20-performance-update-index-jumps-25-continuing-higher.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Zcash price may hit $800 as $2.7B hedge fund reveals ‘significant position’ in ZEC",
       "summary": "Robinhood’s ZEC listing, easing US–Iran tensions and a shrinking liquid supply of tokens are further strengthening the bullish outlook for Zcash in the coming weeks.",
@@ -740,21 +765,6 @@
       "category": "X热点",
       "slug": "20260506-huge-uniswap-hits-3t-all-time-volume-on-ethereum-xcom",
       "localUrl": "/news/20260506-huge-uniswap-hits-3t-all-time-volume-on-ethereum-xcom.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "OpenTrade raises $17 million to connect stablecoins to real-world assets",
-      "summary": "The a16z-backed stablecoin yield and RWA lending platform’s funding round was led by Mercury Fund and Notion Capital.",
-      "url": "https://www.coindesk.com/business/2026/05/06/opentrade-raises-usd17-million-to-expand-stablecoin-yield-infrastructure",
-      "publishedAt": "2026-05-06T13:13:03.000Z",
-      "keywords": [
-        "Finance",
-        "Stablecoins",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260506-opentrade-raises-17-million-to-connect-stablecoins-to-real-world-assets",
-      "localUrl": "/news/20260506-opentrade-raises-17-million-to-connect-stablecoins-to-real-world-assets.html"
     },
     {
       "source": "X Wire",
@@ -923,19 +933,6 @@
       "category": "市场",
       "slug": "20260506-cme-group-to-launch-regulated-bitcoin-volatility-futures",
       "localUrl": "/news/20260506-cme-group-to-launch-regulated-bitcoin-volatility-futures.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin can crash to $50K if 'most critical' bear market test fails: Analysis",
-      "summary": "Bitcoin price analysis saw $84,000 as bulls' \"most critical\" reclaim target as the risk of new $50,000 lows returned to the radar.",
-      "url": "https://cointelegraph.com/markets/bitcoin-can-crash-to-50k-if-most-critical-bear-market-test-fails-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-06T11:20:30.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260506-bitcoin-can-crash-to-50k-if-most-critical-bear-market-test-fails-analysis",
-      "localUrl": "/news/20260506-bitcoin-can-crash-to-50k-if-most-critical-bear-market-test-fails-analysis.html"
     },
     {
       "source": "Decrypt",
