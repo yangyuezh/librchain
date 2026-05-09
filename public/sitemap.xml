@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-09T10:15:08.846Z</lastmod>
+    <lastmod>2026-05-09T11:58:35.151Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-09T10:15:08.846Z</lastmod>
+    <lastmod>2026-05-09T11:58:35.151Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260509-court-lets-arbitrum-dao-to-transfer-71m-in-eth-tied-to-north-korea-hack-to-aave.html</loc>
+    <lastmod>2026-05-09T11:12:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260509-spot-bitcoin-etfs-log-6th-straight-week-of-net-inflows-for-first-time-in-9-month.html</loc>
@@ -21,6 +27,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260509-strike-ceo-jack-mallers-dismisses-idea-that-wall-street-threatens-bitcoin.html</loc>
     <lastmod>2026-05-09T07:16:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260509-ethereum-dominance-in-defi-tvl-falls-to-54-still-leads-with-454-billion-accordin.html</loc>
+    <lastmod>2026-05-09T05:56:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -105,6 +117,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260508-kraken-parent-company-applies-for-occ-charter-in-move-toward-banking.html</loc>
     <lastmod>2026-05-08T20:47:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260508-new-jeffrey-epstein-advised-the-us-treasury-department-in-briefings-dealing-with.html</loc>
+    <lastmod>2026-05-08T20:30:42.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -235,6 +253,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260508-revolut-users-see-erroneous-bitcoin-price-alert-showing-btc-near-zero-some-revol.html</loc>
+    <lastmod>2026-05-08T15:38:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260508-ecbs-lagarde-pushes-back-on-euro-stablecoins-warns-of-structural-weaknesses.html</loc>
     <lastmod>2026-05-08T15:36:19.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -283,20 +307,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-breaking-nasdaq-just-hit-29000-for-the-first-time-ever-in-history-sp-500-rose-to.html</loc>
-    <lastmod>2026-05-08T14:42:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260508-bitcoin-price-crashes-near-zero-on-revolut-blamed-on-third-party-service-disrupt.html</loc>
     <lastmod>2026-05-08T14:29:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-europe-sees-hyperconcentration-of-crypto-wrench-attacks-as-losses-hit-101m.html</loc>
-    <lastmod>2026-05-08T14:00:00.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260508-just-in-senate-banking-committee-preparing-to-vote-on-crypto-clarity-act-as-soon.html</loc>
+    <lastmod>2026-05-08T13:43:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -357,18 +375,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260508-arbitrum-dao-votes-to-unlock-70-million-for-kelp-dao-exploit-relief.html</loc>
     <lastmod>2026-05-08T11:21:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260508-breaking-blackrock-sells-98000000-in-btc-xcom.html</loc>
-    <lastmod>2026-05-08T11:16:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260508-latest-bitcoin-and-ethereum-remain-the-most-widely-held-digital-assets-among-fun.html</loc>
-    <lastmod>2026-05-08T10:38:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -471,12 +477,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260507-massive-wall-street-firms-are-posting-dozens-of-crypto-jobs-xcom.html</loc>
     <lastmod>2026-05-07T21:00:36.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260507-theres-a-generational-shift-happening-and-coinbase-is-uniquely-positioned-to-cap.html</loc>
-    <lastmod>2026-05-07T20:09:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
