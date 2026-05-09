@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-09T06:25:48.381Z</lastmod>
+    <lastmod>2026-05-09T08:49:14.802Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-09T06:25:48.381Z</lastmod>
+    <lastmod>2026-05-09T08:49:14.802Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260509-strike-ceo-jack-mallers-dismisses-idea-that-wall-street-threatens-bitcoin.html</loc>
+    <lastmod>2026-05-09T07:16:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260509-judge-clears-path-for-aave-to-move-71-million-in-eth-linked-to-north-korea-hack.html</loc>
@@ -21,12 +27,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260509-us-clarity-act-sees-big-step-forward-as-markup-set-for-may-14.html</loc>
     <lastmod>2026-05-09T02:01:55.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260509-just-in-blackrock-to-launch-tokenized-money-market-funds-on-ethereum-xcom.html</loc>
-    <lastmod>2026-05-09T01:53:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -295,12 +295,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-how-ai-became-cryptos-favorite-reason-to-cut-staff.html</loc>
-    <lastmod>2026-05-08T13:29:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260508-coindesk-20-performance-update-near-protocol-near-gains-63-leading-index-higher.html</loc>
     <lastmod>2026-05-08T13:23:21.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -355,8 +349,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-latest-bitcoin-and-ethereum-remain-the-most-widely-held-digital-assets-among-fun.html</loc>
-    <lastmod>2026-05-08T10:38:05.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260508-breaking-blackrock-sells-98000000-in-btc-xcom.html</loc>
+    <lastmod>2026-05-08T11:16:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -421,12 +415,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-this-is-the-most-important-resistance-level-for-bitcoin-the-average-cost-basis-o.html</loc>
-    <lastmod>2026-05-08T02:04:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260508-tuyo-launches-crypto-debit-card-with-buy-now-pay-maybe-fe-xcom.html</loc>
     <lastmod>2026-05-08T00:24:25.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -439,14 +427,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260507-just-in-coinbase-buys-88000000-worth-of-bitcoin-in-q1-2026-xcom.html</loc>
-    <lastmod>2026-05-07T22:05:42.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260507-trump-sons-havent-abandoned-world-liberty-financial-crypto-firm-insists.html</loc>
+    <lastmod>2026-05-07T22:01:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260507-trump-sons-havent-abandoned-world-liberty-financial-crypto-firm-insists.html</loc>
-    <lastmod>2026-05-07T22:01:03.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260507-tom-lee-ethereum-is-the-best-performing-asset-since-the-war-started-bitmine-chai.html</loc>
+    <lastmod>2026-05-07T22:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,12 +463,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260507-just-in-blackrock-jpmorgan-and-morgan-stanley-open-dozens-of-new-crypto-job-posi.html</loc>
-    <lastmod>2026-05-07T17:34:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260507-crypto-prediction-markets-explained-how-the-blockchain-is-reshaping-forecasting.html</loc>
     <lastmod>2026-05-07T16:29:48.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -493,8 +475,26 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260506-strategy-announced-we-may-sell-bitcoin-when-advantageous-to-the-company-bitcoin-.html</loc>
-    <lastmod>2026-05-06T20:33:16.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260506-liquity-is-built-on-ethereum-liquityprotocol-lets-users-mint-bold-a-decentralize.html</loc>
+    <lastmod>2026-05-06T18:12:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260506-just-in-linkedin-cofounder-reid-hoffman-said-he-bought-his-first-bitcoin-in-2014.html</loc>
+    <lastmod>2026-05-06T17:00:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260506-shots-fired-morgan-stanley-is-rolling-out-crypto-trading-on-its-etrade-platform-.html</loc>
+    <lastmod>2026-05-06T14:51:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260506-breaking-morgan-stanley-is-launching-bitcoin-trading-on-etrade-to-its-86-million.html</loc>
+    <lastmod>2026-05-06T11:59:13.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
