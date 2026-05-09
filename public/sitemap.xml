@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-09T21:58:23.224Z</lastmod>
+    <lastmod>2026-05-09T23:01:49.461Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-09T21:58:23.224Z</lastmod>
+    <lastmod>2026-05-09T23:01:49.461Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260509-my-latest-thoughts-on-btc-strc-and-mstr-with-thebonniechang-and-davidlin_tv-at-c.html</loc>
+    <lastmod>2026-05-09T21:28:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260509-strategy-ceo-phong-le-says-company-will-sell-btc-only-in-specific-cases.html</loc>
+    <lastmod>2026-05-09T21:21:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260509-the-clarity-act-will-help-reshore-the-crypto-industry-in-the-us-attorney.html</loc>
@@ -367,12 +379,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-strategys-mstr-stock-signals-80-rally-potential-despite-q1-loss.html</loc>
-    <lastmod>2026-05-08T16:49:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260508-ecbs-lagardes-digital-euro-warning-why-europe-shouldnt-just-copy-the-us-stableco.html</loc>
     <lastmod>2026-05-08T16:11:58.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -459,12 +465,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260508-austrac-launches-supervision-campaigns-as-australias-crypto-regulatory-reforms-k.html</loc>
     <lastmod>2026-05-08T10:13:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260508-revolut-app-glitch-shows-bitcoin-at-002-sparing-users-real-losses-xcom.html</loc>
-    <lastmod>2026-05-08T08:00:43.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
