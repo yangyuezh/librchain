@@ -2,19 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-09T13:49:09.014Z</lastmod>
+    <lastmod>2026-05-09T15:09:27.737Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-09T13:49:09.014Z</lastmod>
+    <lastmod>2026-05-09T15:09:27.737Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260509-how-defi-is-changing-the-financial-landscape-for-latin-americans.html</loc>
+    <lastmod>2026-05-09T14:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260509-crypto-wallets-are-being-rebuilt-for-ai-agents-trust-wallet-and-mesh-executives-.html</loc>
+    <lastmod>2026-05-09T14:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260509-blackrock-deepens-tokenization-push-with-new-onchain-fund-offerings.html</loc>
+    <lastmod>2026-05-09T13:57:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260509-layerzero-says-it-made-a-mistake-in-292-million-kelp-exploit.html</loc>
+    <lastmod>2026-05-09T13:53:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260509-olympic-sprinter-cant-outrun-charges-in-uk-crypto-fraud-investigation.html</loc>
     <lastmod>2026-05-09T13:01:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260509-bps-is-eps-on-the-bitcoin-standard-mstr-xcom.html</loc>
+    <lastmod>2026-05-09T12:47:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -45,6 +75,18 @@
   <url>
     <loc>https://www.librchain.com/news/20260509-ethereum-dominance-in-defi-tvl-falls-to-54-still-leads-with-454-billion-accordin.html</loc>
     <lastmod>2026-05-09T05:56:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260509-alert-crypto-security-breaches-surged-to-over-635-million-across-28-incidents-in.html</loc>
+    <lastmod>2026-05-09T05:00:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260509-coinbase-buys-88m-in-bitcoin-in-q1-2026-reaching-16492-btc-coinbase-disclosed-du.html</loc>
+    <lastmod>2026-05-09T04:56:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -289,12 +331,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-05-08T15:16:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260508-ai-wont-end-human-work-andreessen-horowitz-partner-says.html</loc>
     <lastmod>2026-05-08T15:14:15.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -319,14 +355,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-breaking-nasdaq-just-hit-29000-for-the-first-time-ever-in-history-sp-500-rose-to.html</loc>
-    <lastmod>2026-05-08T14:42:06.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260508-bitcoin-price-crashes-near-zero-on-revolut-blamed-on-third-party-service-disrupt.html</loc>
+    <lastmod>2026-05-08T14:29:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-bitcoin-price-crashes-near-zero-on-revolut-blamed-on-third-party-service-disrupt.html</loc>
-    <lastmod>2026-05-08T14:29:52.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260508-europe-sees-hyperconcentration-of-crypto-wrench-attacks-as-losses-hit-101m.html</loc>
+    <lastmod>2026-05-08T14:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,30 +451,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-bitcoin-shows-2-cent-price-on-revolut-as-users-report-apparent-btc-display-glitc.html</loc>
-    <lastmod>2026-05-08T09:39:13.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260508-sp-500-call-options-volume-surges-to-record-26-trillion-heres-what-it-means-for-.html</loc>
-    <lastmod>2026-05-08T09:20:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260508-zcash-to-roll-out-quantum-recoverable-wallets-within-a-month-go-quantum-proof-by.html</loc>
-    <lastmod>2026-05-08T09:08:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260508-arbitrum-delegates-back-71-million-eth-recovery-plan-despite-us-seizure-fight.html</loc>
-    <lastmod>2026-05-08T08:59:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260508-revolut-app-glitch-shows-bitcoin-at-002-sparing-users-real-losses-xcom.html</loc>
     <lastmod>2026-05-08T08:00:43.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -451,12 +463,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-tuyo-launches-crypto-debit-card-with-buy-now-pay-maybe-fe-xcom.html</loc>
-    <lastmod>2026-05-08T00:24:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260507-solv-protocol-will-dump-layerzero-migrate-700m-tokenized-bitcoin-tech-to-chainli.html</loc>
     <lastmod>2026-05-07T22:31:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -465,12 +471,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260507-trump-sons-havent-abandoned-world-liberty-financial-crypto-firm-insists.html</loc>
     <lastmod>2026-05-07T22:01:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260507-massive-wall-street-firms-are-posting-dozens-of-crypto-jobs-xcom.html</loc>
-    <lastmod>2026-05-07T21:00:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
