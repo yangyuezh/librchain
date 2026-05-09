@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-09T00:07:30.134Z</lastmod>
+    <lastmod>2026-05-09T03:55:32.003Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-09T00:07:30.134Z</lastmod>
+    <lastmod>2026-05-09T03:55:32.003Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260509-clarity-act-sees-big-step-forward-as-markup-set-for-may-14.html</loc>
+    <lastmod>2026-05-09T02:01:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260509-just-in-blackrock-to-launch-tokenized-money-market-funds-on-ethereum-xcom.html</loc>
+    <lastmod>2026-05-09T01:53:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260508-bitcoin-stalls-as-btc-etf-outflows-hit-268m-will-new-fed-chair-restore-the-rally.html</loc>
+    <lastmod>2026-05-08T23:57:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260508-just-in-senate-banking-committee-schedules-crypto-clarity-act-vote-for-may-14-at.html</loc>
@@ -49,6 +67,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260508-just-in-strategy-ceo-phong-le-tells-cnbc-they-may-sell-btc-over-equity-to-increa.html</loc>
+    <lastmod>2026-05-08T21:09:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260508-coinbase-rebounds-as-altcoins-surge-with-bitcoin-holding-above-80000.html</loc>
     <lastmod>2026-05-08T20:59:25.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -75,6 +99,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260508-elizabeth-warren-wants-meta-to-spill-all-on-stablecoin-plans-ahead-of-clarity-ac.html</loc>
     <lastmod>2026-05-08T19:38:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260508-tokenized-real-world-assets-rwas-have-surged-10x-in-two-years-now-topping-30b-wi.html</loc>
+    <lastmod>2026-05-08T19:20:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -157,6 +187,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260508-new-in-remarks-given-at-an-event-today-sec-chair-secpaulsatkins-laid-out-a-handf.html</loc>
+    <lastmod>2026-05-08T16:33:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260508-bitcoin-bulls-battle-for-80k-control-as-us-jobs-data-delivers-surprise.html</loc>
     <lastmod>2026-05-08T16:18:37.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -229,12 +265,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-crypto-dark-pools-are-inevitable-the-real-fight-is-not-over-whether-they-exist-i.html</loc>
-    <lastmod>2026-05-08T14:02:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260508-europe-sees-hyperconcentration-of-crypto-wrench-attacks-as-losses-hit-101m.html</loc>
     <lastmod>2026-05-08T14:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -283,20 +313,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-stablecoins-wont-strengthen-global-role-of-euro-ecbs-lagarde-says.html</loc>
-    <lastmod>2026-05-08T12:59:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260508-us-added-115k-jobs-in-april-nearly-doubling-expectations.html</loc>
     <lastmod>2026-05-08T12:33:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260508-revolut-users-report-bitcoin-price-glitch-showing-btc-at-2-cents.html</loc>
-    <lastmod>2026-05-08T12:30:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -321,12 +339,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260508-arbitrum-dao-votes-to-unlock-70-million-for-kelp-dao-exploit-relief.html</loc>
     <lastmod>2026-05-08T11:21:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260508-breaking-blackrock-sells-98000000-in-btc-xcom.html</loc>
-    <lastmod>2026-05-08T11:16:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -373,7 +385,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-arbitrum-approves-71-million-eth-release-despite-us-seizure-fight.html</loc>
+    <loc>https://www.librchain.com/news/20260508-arbitrum-delegates-back-71-million-eth-recovery-plan-despite-us-seizure-fight.html</loc>
     <lastmod>2026-05-08T08:59:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -385,7 +397,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-revolut-glitch-shows-bitcoin-crashing-to-002-xcom.html</loc>
+    <loc>https://www.librchain.com/news/20260508-revolut-app-glitch-shows-bitcoin-at-002-sparing-users-real-losses-xcom.html</loc>
     <lastmod>2026-05-08T08:00:43.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -399,6 +411,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260508-just-in-coinbase-crypto-trading-remains-down-for-over-5-hours-as-outage-continue.html</loc>
     <lastmod>2026-05-08T06:26:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260508-update-bitcoin-is-losing-holders-at-its-fastest-rate-in-nearly-2-years-shedding-.html</loc>
+    <lastmod>2026-05-08T06:20:25.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -463,12 +481,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260507-just-in-blackrock-jpmorgan-and-morgan-stanley-open-dozens-of-new-crypto-job-posi.html</loc>
-    <lastmod>2026-05-07T17:34:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260507-crypto-prediction-markets-explained-how-the-blockchain-is-reshaping-forecasting.html</loc>
     <lastmod>2026-05-07T16:29:48.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,20 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260506-liquity-is-built-on-ethereum-liquityprotocol-lets-users-mint-bold-a-decentralize.html</loc>
-    <lastmod>2026-05-06T18:12:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260506-shots-fired-morgan-stanley-is-rolling-out-crypto-trading-on-its-etrade-platform-.html</loc>
-    <lastmod>2026-05-06T14:51:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260506-breaking-morgan-stanley-is-launching-bitcoin-trading-on-etrade-to-its-86-million.html</loc>
-    <lastmod>2026-05-06T11:59:13.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260506-strategy-announced-we-may-sell-bitcoin-when-advantageous-to-the-company-bitcoin-.html</loc>
+    <lastmod>2026-05-06T20:33:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
