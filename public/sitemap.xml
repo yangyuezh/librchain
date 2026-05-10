@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-10T21:02:24.640Z</lastmod>
+    <lastmod>2026-05-10T22:01:01.624Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-10T21:02:24.640Z</lastmod>
+    <lastmod>2026-05-10T22:01:01.624Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -105,6 +105,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260510-trump-media-posts-406m-quarterly-loss-as-crypto-bets-turn-sour.html</loc>
     <lastmod>2026-05-10T08:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260510-banks-are-trying-to-kill-the-most-important-crypto-bill-in-us-history-again-and-.html</loc>
+    <lastmod>2026-05-10T08:25:35.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -265,8 +271,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260509-bitcoin-per-share-bps-is-our-true-north-every-day-strategy-uses-multivariate-mod.html</loc>
-    <lastmod>2026-05-09T12:35:37.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260509-bps-is-eps-on-the-bitcoin-standard-mstr-xcom.html</loc>
+    <lastmod>2026-05-09T12:47:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -469,12 +475,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-just-in-bitcoin-has-outperformed-gold-by-36-since-the-start-of-the-iran-war-xcom.html</loc>
-    <lastmod>2026-05-08T12:55:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260508-morning-minute-coinbase-misses-earnings-on-surprise-loss.html</loc>
     <lastmod>2026-05-08T11:52:46.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -487,8 +487,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-just-in-coinbase-crypto-trading-remains-down-for-over-5-hours-as-outage-continue.html</loc>
-    <lastmod>2026-05-08T06:26:37.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260508-latest-bitcoin-and-ethereum-remain-the-most-widely-held-digital-assets-among-fun.html</loc>
+    <lastmod>2026-05-08T10:38:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
