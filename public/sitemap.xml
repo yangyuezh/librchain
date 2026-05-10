@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-10T09:46:46.029Z</lastmod>
+    <lastmod>2026-05-10T11:11:46.905Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-10T09:46:46.029Z</lastmod>
+    <lastmod>2026-05-10T11:11:46.905Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -271,12 +271,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-just-in-fundstrats-tom-lee-predicts-bitcoin-could-reach-250000-and-ethereum-1200.html</loc>
-    <lastmod>2026-05-08T22:50:12.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260508-crypto-exchanges-pushed-us-lawmakers-to-bar-provision-on-risky-tokens-report.html</loc>
     <lastmod>2026-05-08T22:43:32.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -391,6 +385,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260508-revolut-users-see-erroneous-bitcoin-price-alert-showing-btc-near-zero-some-revol.html</loc>
+    <lastmod>2026-05-08T15:38:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260508-ecbs-lagarde-pushes-back-on-euro-stablecoins-warns-of-structural-weaknesses.html</loc>
     <lastmod>2026-05-08T15:36:19.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -405,12 +405,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260508-ai-wont-end-human-work-andreessen-horowitz-partner-says.html</loc>
     <lastmod>2026-05-08T15:14:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260508-just-in-the-odds-of-bitcoin-and-crypto-market-structure-legislation-being-signed.html</loc>
-    <lastmod>2026-05-08T14:58:15.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,14 +469,20 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-latest-bitcoin-and-ethereum-remain-the-most-widely-held-digital-assets-among-fun.html</loc>
-    <lastmod>2026-05-08T10:38:05.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260508-austrac-launches-supervision-campaigns-as-australias-crypto-regulatory-reforms-k.html</loc>
+    <lastmod>2026-05-08T10:13:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-austrac-launches-supervision-campaigns-as-australias-crypto-regulatory-reforms-k.html</loc>
-    <lastmod>2026-05-08T10:13:11.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260508-nigel-farage-defends-5-million-gift-from-crypto-billiona-xcom.html</loc>
+    <lastmod>2026-05-08T10:04:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260508-just-in-coinbase-crypto-trading-remains-down-for-over-5-hours-as-outage-continue.html</loc>
+    <lastmod>2026-05-08T06:26:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
