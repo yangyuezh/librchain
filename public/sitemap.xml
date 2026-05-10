@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-10T22:01:01.624Z</lastmod>
+    <lastmod>2026-05-10T23:04:11.656Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-10T22:01:01.624Z</lastmod>
+    <lastmod>2026-05-10T23:04:11.656Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -33,6 +33,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260510-ethereum-down-35-versus-bitcoin-in-a-year-will-the-eth-price-downtrend-continue.html</loc>
     <lastmod>2026-05-10T16:13:27.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260510-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-05-10T15:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -68,12 +74,6 @@
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260510-three-young-defi-apps-return-100m-in-revenue-to-token-holders-in-30-days.html</loc>
-    <lastmod>2026-05-10T13:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260510-heres-what-happened-in-crypto-today.html</loc>
     <lastmod>2026-05-10T13:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
