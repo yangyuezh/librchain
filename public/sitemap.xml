@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-09T23:01:49.461Z</lastmod>
+    <lastmod>2026-05-10T00:00:25.514Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-09T23:01:49.461Z</lastmod>
+    <lastmod>2026-05-10T00:00:25.514Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260509-7-major-bitcoin-mining-pools-join-stratum-v2-working-group.html</loc>
+    <lastmod>2026-05-09T23:00:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260509-my-latest-thoughts-on-btc-strc-and-mstr-with-thebonniechang-and-davidlin_tv-at-c.html</loc>
@@ -361,12 +367,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-crypto-biz-wall-street-wants-more-than-just-bitcoin.html</loc>
-    <lastmod>2026-05-08T17:14:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260508-bitcoin-miner-iren-secures-34-billion-nvidia-ai-deal-with-21-billion-share-optio.html</loc>
     <lastmod>2026-05-08T17:02:38.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,8 +481,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260507-the-trump-family-crypto-project-quietly-cashed-in-while-regular-investors-got-st.html</loc>
-    <lastmod>2026-05-07T19:23:32.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260507-just-in-coinbase-buys-88000000-worth-of-bitcoin-in-q1-2026-xcom.html</loc>
+    <lastmod>2026-05-07T22:05:42.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
