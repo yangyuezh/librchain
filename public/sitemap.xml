@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-10T19:19:52.392Z</lastmod>
+    <lastmod>2026-05-10T21:02:24.640Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-10T19:19:52.392Z</lastmod>
+    <lastmod>2026-05-10T21:02:24.640Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -44,6 +44,12 @@
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260510-agentic-commerce-will-run-on-crypto-rails-paypal-and-google-reps-tell-consensus-.html</loc>
+    <lastmod>2026-05-10T14:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260510-canton-network-creator-targets-300m-in-capital-raise-report.html</loc>
     <lastmod>2026-05-10T14:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -153,12 +159,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260509-clarity-act-will-help-reshore-us-crypto-industry-attorney-says.html</loc>
     <lastmod>2026-05-09T19:00:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260509-bitcoin-is-back-above-81000-pray-for-this-weekend-pump-to-be-real-xcom.html</loc>
-    <lastmod>2026-05-09T18:29:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -331,12 +331,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260509-us-clarity-act-sees-big-step-forward-as-markup-set-for-may-14.html</loc>
-    <lastmod>2026-05-09T02:01:55.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260509-just-in-blackrock-to-launch-tokenized-money-market-funds-on-ethereum-xcom.html</loc>
     <lastmod>2026-05-09T01:53:39.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,6 +483,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260508-arbitrum-dao-votes-to-unlock-70-million-for-kelp-dao-exploit-relief.html</loc>
     <lastmod>2026-05-08T11:21:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260508-just-in-coinbase-crypto-trading-remains-down-for-over-5-hours-as-outage-continue.html</loc>
+    <lastmod>2026-05-08T06:26:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
