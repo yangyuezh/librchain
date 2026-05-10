@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-10T07:33:30.735Z</lastmod>
+    <lastmod>2026-05-10T09:46:46.029Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-10T07:33:30.735Z</lastmod>
+    <lastmod>2026-05-10T09:46:46.029Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260510-trump-media-posts-406m-quarterly-loss-as-crypto-bets-turn-sour.html</loc>
+    <lastmod>2026-05-10T08:23:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260510-santiment-flags-risk-as-crypto-bullish-talk-spikes-while-btc-holds-80k.html</loc>
@@ -39,6 +45,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260509-strategy-ceo-phong-le-says-company-will-sell-btc-only-in-specific-cases.html</loc>
     <lastmod>2026-05-09T21:21:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260509-just-in-ethereums-share-of-defi-tvl-has-fallen-from-635-to-54-this-year-though-i.html</loc>
+    <lastmod>2026-05-09T19:00:42.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -247,6 +259,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260508-just-in-senate-banking-committee-schedules-crypto-clarity-act-vote-for-may-14-at.html</loc>
+    <lastmod>2026-05-08T23:26:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260508-senate-banking-committee-plans-to-hold-key-market-structure-hearing-on-thursday.html</loc>
     <lastmod>2026-05-08T23:20:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -343,12 +361,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-exodus-launches-ai-agent-focused-stablecoin-on-solana.html</loc>
-    <lastmod>2026-05-08T18:38:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260508-sec-chair-atkins-signals-new-rules-for-onchain-markets-ai-driven-finance.html</loc>
     <lastmod>2026-05-08T18:32:23.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -357,12 +369,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260508-kraken-parent-payward-applies-for-occ-national-trust-bank-charter.html</loc>
     <lastmod>2026-05-08T18:31:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260508-latest-swiss-crypto-advocates-are-abandoning-their-bid-to-force-the-swiss-nation.html</loc>
-    <lastmod>2026-05-08T17:27:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -381,12 +387,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260508-ecbs-lagardes-digital-euro-warning-why-europe-shouldnt-just-copy-the-us-stableco.html</loc>
     <lastmod>2026-05-08T16:11:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260508-revolut-users-see-erroneous-bitcoin-price-alert-showing-btc-near-zero-some-revol.html</loc>
-    <lastmod>2026-05-08T15:38:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -423,6 +423,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260508-bitcoin-price-crashes-near-zero-on-revolut-blamed-on-third-party-service-disrupt.html</loc>
     <lastmod>2026-05-08T14:29:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260508-latest-swiss-campaign-to-add-bitcoin-to-central-bank-reserves-set-to-end-after-f.html</loc>
+    <lastmod>2026-05-08T14:20:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -469,14 +475,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-austrac-launches-supervision-campaigns-as-australias-crypto-regulatory-reforms-k.html</loc>
-    <lastmod>2026-05-08T10:13:11.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260508-latest-bitcoin-and-ethereum-remain-the-most-widely-held-digital-assets-among-fun.html</loc>
+    <lastmod>2026-05-08T10:38:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-revolut-app-glitch-shows-bitcoin-at-002-sparing-users-real-losses-xcom.html</loc>
-    <lastmod>2026-05-08T08:00:43.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260508-austrac-launches-supervision-campaigns-as-australias-crypto-regulatory-reforms-k.html</loc>
+    <lastmod>2026-05-08T10:13:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260507-crypto-prediction-markets-explained-how-the-blockchain-is-reshaping-forecasting.html</loc>
     <lastmod>2026-05-07T16:29:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260507-recently-major-cexs-have-rolled-out-pre-ipo-assets-with-spacex-being-the-prime-e.html</loc>
-    <lastmod>2026-05-07T13:54:25.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
