@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-11T00:05:57.112Z</lastmod>
+    <lastmod>2026-05-11T04:34:51.921Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-11T00:05:57.112Z</lastmod>
+    <lastmod>2026-05-11T04:34:51.921Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260511-a-bitcoin-whale-that-went-silent-in-2013-moves-40-million-in-btc.html</loc>
+    <lastmod>2026-05-11T04:06:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260511-bitcoin-rallies-23-after-trump-calls-iran-peace-proposal-totally-unacceptable.html</loc>
+    <lastmod>2026-05-11T03:42:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260510-saylor-signals-another-bitcoin-buy-after-hinting-at-selling-in-q1-earnings-call.html</loc>
@@ -49,6 +61,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260510-latest-bitcoin-flipped-tesla-in-market-cap-xcom.html</loc>
+    <lastmod>2026-05-10T14:30:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260510-im-sometimes-asked-why-a-bitcoin-treasury-company-should-also-operate-a-software.html</loc>
+    <lastmod>2026-05-10T14:10:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260510-agentic-commerce-will-run-on-crypto-rails-paypal-and-google-reps-tell-consensus-.html</loc>
     <lastmod>2026-05-10T14:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -81,12 +105,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260510-just-in-michael-saylor-hints-at-buying-more-bitcoin-back-to-work-btc-xcom.html</loc>
     <lastmod>2026-05-10T12:46:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260510-just-in-michael-saylor-hints-strategy-is-back-to-work-buying-more-bitcoin-xcom.html</loc>
-    <lastmod>2026-05-10T11:29:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -128,19 +146,25 @@
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260510-santiment-flags-risk-as-crypto-bullish-talk-spikes-while-btc-holds-80k.html</loc>
-    <lastmod>2026-05-10T05:33:59.000Z</lastmod>
+    <lastmod>2026-05-10T05:40:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260510-cz-says-crypto-exchange-rivals-opposed-his-pardon-bid.html</loc>
-    <lastmod>2026-05-10T00:17:23.000Z</lastmod>
+    <lastmod>2026-05-10T00:20:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260509-seven-major-bitcoin-mining-pools-join-stratum-v2-working-group.html</loc>
     <lastmod>2026-05-09T23:00:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260509-just-in-michael-saylor-says-if-strategy-sells-bitcoin-they-will-buy-multiples-mo.html</loc>
+    <lastmod>2026-05-09T21:39:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -277,12 +301,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260509-latest-michael-saylor-predicts-bitcoin-will-average-a-30-annual-return-over-the-.html</loc>
-    <lastmod>2026-05-09T11:20:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260509-a-cow-just-beat-bitcoin-if-youd-swapped-your-btc-stack-for-cattle-last-may-youd-.html</loc>
     <lastmod>2026-05-09T11:20:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -313,32 +331,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260509-strike-ceo-jack-mallers-dismisses-idea-that-wall-street-threatens-bitcoin.html</loc>
-    <lastmod>2026-05-09T07:16:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260509-ethereum-dominance-in-defi-tvl-falls-to-54-still-leads-with-454-billion-accordin.html</loc>
     <lastmod>2026-05-09T05:56:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260509-alert-crypto-security-breaches-surged-to-over-635-million-across-28-incidents-in.html</loc>
-    <lastmod>2026-05-09T05:00:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260509-judge-clears-path-for-aave-to-move-71-million-in-eth-linked-to-north-korea-hack.html</loc>
     <lastmod>2026-05-09T04:16:36.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260509-just-in-blackrock-to-launch-tokenized-money-market-funds-on-ethereum-xcom.html</loc>
-    <lastmod>2026-05-09T01:53:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -427,8 +427,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260508-kraken-parent-goes-for-the-occ-charter-in-bid-to-become-a-federal-crypto-bank.html</loc>
-    <lastmod>2026-05-08T17:00:00.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260508-just-in-sec-crypto-task-force-chief-counsel-says-the-bitcoin-crypto-market-struc.html</loc>
+    <lastmod>2026-05-08T16:34:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
