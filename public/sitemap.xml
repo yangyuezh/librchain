@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-11T22:16:55.371Z</lastmod>
+    <lastmod>2026-05-12T00:07:52.831Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-11T22:16:55.371Z</lastmod>
+    <lastmod>2026-05-12T00:07:52.831Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260511-openai-launches-daybreak-as-ai-firms-expand-into-cybersecurity.html</loc>
+    <lastmod>2026-05-11T22:30:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260511-circle-stock-rallies-15-as-wall-street-sees-further-upside-in-stablecoin-adoptio.html</loc>
+    <lastmod>2026-05-11T22:25:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260511-ethics-remain-a-sticking-point-as-crypto-market-structure-bill-goes-to-markup.html</loc>
+    <lastmod>2026-05-11T22:20:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260511-solana-etf-inflows-show-demand-returning-as-traders-eye-sol-rally-to-120.html</loc>
+    <lastmod>2026-05-11T21:47:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260511-baidus-new-ai-is-already-beating-top-models-and-cost-94-less-to-build.html</loc>
@@ -157,6 +181,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260511-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-05-11T15:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260511-openai-just-launched-a-consulting-arm-to-help-companies-deploy-ai.html</loc>
     <lastmod>2026-05-11T15:15:15.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -217,12 +247,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260511-by-alive_eth-and-nlevine19-for-most-of-history-moving-money-has-been-slow-expens.html</loc>
-    <lastmod>2026-05-11T13:49:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260511-ripple-raises-200-million-from-neuberger-berman-to-expand-its-ripple-prime-platf.html</loc>
     <lastmod>2026-05-11T13:47:38.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -237,12 +261,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260511-dappos-launches-xbubble-an-ai-agent-that-learns-and-uses-ai-for-you.html</loc>
     <lastmod>2026-05-11T13:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260511-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-05-11T13:19:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -325,12 +343,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260511-openai-faces-federal-lawsuit-over-chatgpts-alleged-role-in-fsu-mass-shooting.html</loc>
-    <lastmod>2026-05-11T11:19:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260511-bitcoin-funds-capture-700-million-as-institutions-place-their-bets.html</loc>
     <lastmod>2026-05-11T11:15:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -397,24 +409,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260511-7-democrats-seen-as-key-to-advancing-clarity-act-galaxy.html</loc>
-    <lastmod>2026-05-11T07:34:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260511-veteran-investor-bets-on-ethereum-as-ai-agents-drive-tokenization-demand.html</loc>
-    <lastmod>2026-05-11T07:21:13.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260511-australia-plans-capital-gains-tax-changes-affecting-crypto-investors-report.html</loc>
-    <lastmod>2026-05-11T07:18:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260511-breaking-bitcoin-just-dumped-1900-in-4-hours-fully-retracing-the-entire-pump-in-.html</loc>
     <lastmod>2026-05-11T03:37:29.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -445,6 +439,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260510-bitcoin-price-on-mothers-day-2011-8-2012-5-2013-115-2014-444-2015-240-2016-450-2.html</loc>
+    <lastmod>2026-05-10T22:34:16.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260510-im-sometimes-asked-why-a-bitcoin-treasury-company-should-also-operate-a-software.html</loc>
     <lastmod>2026-05-10T14:10:55.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -459,6 +459,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260510-8064378-bitcoin-xcom.html</loc>
     <lastmod>2026-05-10T00:44:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260509-bitcoin-quantum-computing-could-break-btc-wallets-by-2030-the-bigger-problem-mig.html</loc>
+    <lastmod>2026-05-09T21:43:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -495,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260509-coinbase-buys-88m-in-bitcoin-in-q1-2026-reaching-16492-btc-coinbase-disclosed-du.html</loc>
     <lastmod>2026-05-09T04:56:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260508-us-senate-banking-committee-to-vote-on-crypto-market-structure-bill-on-may-14-ac.html</loc>
-    <lastmod>2026-05-08T23:45:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
