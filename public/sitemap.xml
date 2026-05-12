@@ -2,15 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-12T20:48:36.436Z</lastmod>
+    <lastmod>2026-05-12T22:21:05.175Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-12T20:48:36.436Z</lastmod>
+    <lastmod>2026-05-12T22:21:05.175Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260512-jpmorgan-files-to-launch-tokenized-money-market-fund-on-ethereum.html</loc>
+    <lastmod>2026-05-12T21:31:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260512-bitcoin-wallet-firm-exodus-expands-payments-push-sells-87-million-in-btc.html</loc>
+    <lastmod>2026-05-12T21:22:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260512-jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-hea.html</loc>
+    <lastmod>2026-05-12T21:18:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260512-just-in-jpmorgan-to-launch-tokenized-money-market-fund-on-ethereum-xcom.html</loc>
+    <lastmod>2026-05-12T20:59:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260512-senate-confirms-kevin-warsh-as-federal-reserve-governor-with-chair-vote-expected.html</loc>
+    <lastmod>2026-05-12T20:58:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260512-fake-openai-repo-hit-1-on-hugging-faceand-stole-passwords-while-it-trended.html</loc>
@@ -139,6 +169,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260512-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-05-12T15:21:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260512-live-markets-bitcoin-climbs-back-to-80800-as-us-stocks-bounce-into-the-close.html</loc>
     <lastmod>2026-05-12T15:04:41.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -153,12 +189,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260512-ebay-rejects-gamestops-55-billion-offer-as-neither-credible-nor-attractive.html</loc>
     <lastmod>2026-05-12T14:37:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260512-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-05-12T14:37:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -331,12 +361,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260512-crypto-markets-stalls-before-inflation-data-as-xrp-sol-rebuffed-from-key-price-l.html</loc>
-    <lastmod>2026-05-12T11:15:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260512-bakkt-pivots-into-stablecoin-infrastructure-as-revenue-tumbles-77-in-q1.html</loc>
     <lastmod>2026-05-12T11:10:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -345,12 +369,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260512-bhutans-gmc-offers-quick-licenses-bank-accounts-to-lure-crypto-firms.html</loc>
     <lastmod>2026-05-12T11:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260512-rewardy-wallet-launches-global-multi-chain-swap-campaign-with-incentives.html</loc>
-    <lastmod>2026-05-12T10:23:25.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -391,8 +409,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260512-huge-breaking-us-senate-just-released-the-crypto-market-structure-bill-final-dra.html</loc>
+    <lastmod>2026-05-12T04:37:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260512-arthur-hayes-btc-has-bottomed-at-60k-126k-inevitable-bitmex-co-founder-arthur-ha.html</loc>
     <lastmod>2026-05-12T03:08:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260512-today-ray-dalio-says-bitcoin-hasnt-lived-up-to-its-safe-haven-expectation-pointi.html</loc>
+    <lastmod>2026-05-12T00:00:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -429,24 +459,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260511-baidus-new-ai-is-already-beating-top-models-and-cost-94-less-to-build.html</loc>
     <lastmod>2026-05-11T21:46:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260511-circle-gives-ai-agents-usdc-stablecoin-powers-alongside-222m-arc-token-sale.html</loc>
-    <lastmod>2026-05-11T21:15:46.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260511-clarity-act-vote-set-for-thursday-heres-where-the-crypto-bill-stands.html</loc>
-    <lastmod>2026-05-11T20:46:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260511-theres-clearly-no-reason-to-expect-bitcoin-to-fall-out-of-nowhere-theres-the-gen.html</loc>
-    <lastmod>2026-05-11T18:37:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -495,18 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260510-cme-targets-june-1-launch-for-bitcoin-volatility-futures-pending-cftc-review-cme.html</loc>
     <lastmod>2026-05-10T07:17:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260510-8064378-bitcoin-xcom.html</loc>
-    <lastmod>2026-05-10T00:44:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260509-just-in-michael-saylor-says-if-strategy-sells-bitcoin-they-will-buy-multiples-mo.html</loc>
-    <lastmod>2026-05-09T21:39:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
