@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-12T22:21:05.175Z</lastmod>
+    <lastmod>2026-05-13T00:12:05.171Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-12T22:21:05.175Z</lastmod>
+    <lastmod>2026-05-13T00:12:05.171Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260512-bermuda-to-transition-key-financial-services-to-stellar-blockchain.html</loc>
+    <lastmod>2026-05-12T22:39:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260512-hackers-insert-malware-into-mistral-ai-software-download.html</loc>
+    <lastmod>2026-05-12T22:26:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260512-jpmorgan-files-to-launch-tokenized-money-market-fund-on-ethereum.html</loc>
@@ -27,12 +39,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260512-jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-hea.html</loc>
     <lastmod>2026-05-12T21:18:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260512-just-in-jpmorgan-to-launch-tokenized-money-market-fund-on-ethereum-xcom.html</loc>
-    <lastmod>2026-05-12T20:59:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -141,6 +147,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260512-privacy-emerges-as-cryptos-next-killer-app-with-arc-canton-and-tempo-topping-1-b.html</loc>
     <lastmod>2026-05-12T16:33:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260512-0-clear-signing-is-now-live-an-open-standard-to-end-blind-signing-making-human-r.html</loc>
+    <lastmod>2026-05-12T16:11:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -307,12 +319,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260512-arkham-intel-notice-of-chain-removal-ton-arkham-periodically-evaluates-chain-int.html</loc>
-    <lastmod>2026-05-12T12:22:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260512-dtcc-builds-out-blockchain-based-collateral-system-with-chainlink-integration.html</loc>
     <lastmod>2026-05-12T12:15:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -367,12 +373,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260512-bhutans-gmc-offers-quick-licenses-bank-accounts-to-lure-crypto-firms.html</loc>
-    <lastmod>2026-05-12T11:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260512-three-indicted-over-brazen-crypto-wrench-attack-spree-in-california.html</loc>
     <lastmod>2026-05-12T10:19:50.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -421,12 +421,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260512-today-ray-dalio-says-bitcoin-hasnt-lived-up-to-its-safe-haven-expectation-pointi.html</loc>
-    <lastmod>2026-05-12T00:00:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260512-clear-signing-making-transaction-approvals-safer-on-ethereum.html</loc>
     <lastmod>2026-05-12T00:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -457,8 +451,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260511-baidus-new-ai-is-already-beating-top-models-and-cost-94-less-to-build.html</loc>
-    <lastmod>2026-05-11T21:46:16.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260511-while-bitcoin-gets-a-lot-of-attention-it-hasnt-played-the-safe-haven-role-many-e.html</loc>
+    <lastmod>2026-05-11T20:40:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -507,6 +501,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260510-cme-targets-june-1-launch-for-bitcoin-volatility-futures-pending-cftc-review-cme.html</loc>
     <lastmod>2026-05-10T07:17:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260510-8064378-bitcoin-xcom.html</loc>
+    <lastmod>2026-05-10T00:44:29.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
