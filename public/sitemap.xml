@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-13T22:22:19.988Z</lastmod>
+    <lastmod>2026-05-14T00:13:05.277Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-13T22:22:19.988Z</lastmod>
+    <lastmod>2026-05-14T00:13:05.277Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260513-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-05-13T22:40:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260513-bitcoin-owner-claims-claude-ai-cracked-lost-wallet-password-netting-400k-in-btc.html</loc>
@@ -187,12 +193,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260513-breaking-bitcoin-dropped-2100-in-the-last-5-hours-and-hit-a-low-a-79200-200-mill.html</loc>
-    <lastmod>2026-05-13T15:34:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260513-telecom-giant-kddi-to-acquire-149-stake-in-coincheck-group-in-65-million-deal.html</loc>
     <lastmod>2026-05-13T15:11:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -213,12 +213,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260513-brickken-and-magma-partner-to-deliver-net-asset-value-nav-oracle-for-tokenized-r.html</loc>
     <lastmod>2026-05-13T15:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260513-tomorrows-markup-of-the-digital-asset-market-clarity-act-is-a-monumental-step-in.html</loc>
-    <lastmod>2026-05-13T14:58:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -331,12 +325,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260513-bitcoin-price-history-suggests-77-odds-of-new-all-time-high-within-a-year.html</loc>
-    <lastmod>2026-05-13T10:58:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260513-the-82000-battle-bitcoin-tests-key-resistance-zone-to-form-next-major-breakout.html</loc>
     <lastmod>2026-05-13T10:25:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -373,8 +361,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260513-this-is-actually-insane-the-trumpxi-summit-could-be-the-biggest-world-leader-mee.html</loc>
-    <lastmod>2026-05-13T04:13:54.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260513-wells-fargo-increases-ethereum-etf-holdings-in-q1-2026-13f-filing-a-q1-2026-13f-.html</loc>
+    <lastmod>2026-05-13T07:20:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -405,12 +393,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260512-jpmorgan-files-to-launch-tokenized-money-market-fund-on-ethereum.html</loc>
     <lastmod>2026-05-12T21:31:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260512-i-dont-see-signals-on-bitcoin-of-exhaustion-not-at-all-its-a-gradual-move-upward.html</loc>
-    <lastmod>2026-05-12T21:24:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -463,6 +445,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260512-upbit-to-list-venice-tokenvvvwith-krw-btc-and-usdt-pairs-upbit-south-koreas-larg.html</loc>
+    <lastmod>2026-05-12T05:08:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260512-huge-breaking-us-senate-just-released-the-crypto-market-structure-bill-final-dra.html</loc>
+    <lastmod>2026-05-12T04:37:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260512-clear-signing-making-transaction-approvals-safer-on-ethereum.html</loc>
     <lastmod>2026-05-12T00:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -475,8 +469,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260511-just-in-aba-ceo-pushing-to-block-bitcoin-crypto-clarity-act-markup-this-thursday.html</loc>
-    <lastmod>2026-05-11T15:33:01.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260511-theres-clearly-no-reason-to-expect-bitcoin-to-fall-out-of-nowhere-theres-the-gen.html</loc>
+    <lastmod>2026-05-11T18:37:59.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260511-like-if-you-want-the-senate-to-pass-the-bitcoin-crypto-market-structure-legislat.html</loc>
+    <lastmod>2026-05-11T16:27:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
