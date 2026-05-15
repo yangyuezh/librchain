@@ -1,7 +1,75 @@
 {
-  "updatedAt": "2026-05-15T20:22:07.804Z",
+  "updatedAt": "2026-05-15T22:09:34.502Z",
   "total": 81,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. House lawmakers who oversee the CFTC are urging Trump to fill the commission",
+      "summary": "As the Commodity Futures Trading Commission takes on a growing task to police U.S. crypto trading, senior lawmakers are saying it needs bipartisan leadership.",
+      "url": "https://www.coindesk.com/policy/2026/05/15/u-s-house-lawmakers-who-oversee-the-cftc-are-urging-trump-to-fill-the-commission",
+      "publishedAt": "2026-05-15T21:35:57.000Z",
+      "keywords": [
+        "Policy",
+        "Regulation",
+        "Donald Trump",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260515-us-house-lawmakers-who-oversee-the-cftc-are-urging-trump-to-fill-the-commission",
+      "localUrl": "/news/20260515-us-house-lawmakers-who-oversee-the-cftc-are-urging-trump-to-fill-the-commission.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Solayer launches Visa-compatible card for USDC payments",
+      "summary": "The new card lets users spend USDC balances through online, in-store and contactless transactions while accessing ATM withdrawals in supported regions.",
+      "url": "https://cointelegraph.com/news/solayer-launches-visa-compatible-card-for-usdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-15T21:11:19.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260515-solayer-launches-visa-compatible-card-for-usdc-payments",
+      "localUrl": "/news/20260515-solayer-launches-visa-compatible-card-for-usdc-payments.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Drake Calls for Sam Bankman-Fried's Release in New, Critically Panned Album",
+      "summary": "Rapper Drake released three new albums on Friday, and described himself on one as “a BTC crypto big-timer.”",
+      "url": "https://decrypt.co/368105/drake-calls-sam-bankman-frieds-release-critically-panned-album",
+      "publishedAt": "2026-05-15T21:10:56.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "市场",
+      "slug": "20260515-drake-calls-for-sam-bankman-frieds-release-in-new-critically-panned-album",
+      "localUrl": "/news/20260515-drake-calls-for-sam-bankman-frieds-release-in-new-critically-panned-album.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Lombard Finance Dumps LayerZero, Will Use Chainlink to Power $1 Billion in Bitcoin Assets",
+      "summary": "The Bitcoin DeFi protocol is moving its assets away from LayerZero following the Kelp DAO exploit that led to the loss of $292 million.",
+      "url": "https://decrypt.co/368100/lombard-finance-dumps-layerzero-chainlink-1-billion-bitcoin-assets",
+      "publishedAt": "2026-05-15T20:54:03.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "安全",
+      "slug": "20260515-lombard-finance-dumps-layerzero-will-use-chainlink-to-power-1-billion-in-bitcoin",
+      "localUrl": "/news/20260515-lombard-finance-dumps-layerzero-will-use-chainlink-to-power-1-billion-in-bitcoin.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hyperliquid Policy Arm Rejects Market Integrity Concerns Amid Oil Futures Surge",
+      "summary": "Decentralized exchange Hyperliquid has become a popular destination for speculating on oil prices.",
+      "url": "https://decrypt.co/368101/hyperliquid-rejects-market-integrity-concerns-oil-futures-surge",
+      "publishedAt": "2026-05-15T20:24:04.000Z",
+      "keywords": [
+        "DeFi"
+      ],
+      "category": "监管",
+      "slug": "20260515-hyperliquid-policy-arm-rejects-market-integrity-concerns-amid-oil-futures-surge",
+      "localUrl": "/news/20260515-hyperliquid-policy-arm-rejects-market-integrity-concerns-amid-oil-futures-surge.html"
+    },
     {
       "source": "CoinDesk",
       "title": "SpaceX targets June 11 IPO pricing, picks Nasdaq for historic market debut",
@@ -762,22 +830,6 @@
       "localUrl": "/news/20260515-iren-closes-3-billion-convertible-notes-deal-amid-ai-infrastructure-expansion.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Strategy’s STRC stock logs record $1.5 billion trading volume, funds 11,707 bitcoin purchase",
-      "summary": "Heavy trading volume ahead of the ex-dividend date pushed STRC to its busiest session on record.",
-      "url": "https://www.coindesk.com/markets/2026/05/15/strategy-s-strc-stock-logs-record-usd1-5-billion-trading-volume-funds-11-707-bitcoin-purchase",
-      "publishedAt": "2026-05-15T09:21:45.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "MicroStrategy",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260515-strategys-strc-stock-logs-record-15-billion-trading-volume-funds-11707-bitcoin-p",
-      "localUrl": "/news/20260515-strategys-strc-stock-logs-record-15-billion-trading-volume-funds-11707-bitcoin-p.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Hana Financial to acquire 6.55% stake in Upbit operator Dunamu for $668M",
       "summary": "The purchase makes Hana Financial the fourth-largest shareholder in Dunamu, following several crypto-related deals in the last two months, as it dives deeper into the digital assets sector.",
@@ -839,17 +891,15 @@
       "localUrl": "/news/20260515-australias-proposed-cgt-changes-could-discourage-long-term-crypto-holding.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Kraken joins LayerZero exodus as it switches to Chainlink CCIP",
-      "summary": "LayerZero has come under scrutiny since it was exploited in April, as crypto protocols reevaluate their cross-chain providers and seek safer alternatives.",
-      "url": "https://cointelegraph.com/news/kraken-joins-layerzero-exodus-switching-chainlink-ccip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-15T07:10:56.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "安全",
-      "slug": "20260515-kraken-joins-layerzero-exodus-as-it-switches-to-chainlink-ccip",
-      "localUrl": "/news/20260515-kraken-joins-layerzero-exodus-as-it-switches-to-chainlink-ccip.html"
+      "source": "X Wire",
+      "title": "👀👀 $BTC $ETH Crypto spring is here - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0cC1hcHJ2ZGppWXlCNU9UOENjaXF3NmZxNXExQ2NrcklnSnY0NEtOUEhWSGwxUDNVLUliR0JLT0k0NDdFNi1WeXZpaWJTaXpZLVpMM2J6c1lkaElka1Q4?oc=5\" target=\"_blank\">👀👀 $BTC $ETH Crypto spring is here</…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0cC1hcHJ2ZGppWXlCNU9UOENjaXF3NmZxNXExQ2NrcklnSnY0NEtOUEhWSGwxUDNVLUliR0JLT0k0NDdFNi1WeXZpaWJTaXpZLVpMM2J6c1lkaElka1Q4?oc=5",
+      "publishedAt": "2026-05-15T04:47:08.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260515-btc-eth-crypto-spring-is-here-xcom",
+      "localUrl": "/news/20260515-btc-eth-crypto-spring-is-here-xcom.html"
     },
     {
       "source": "X Wire",
@@ -911,56 +961,6 @@
       "category": "X热点",
       "slug": "20260514-xrp-is-showing-a-power-move-after-the-clarity-act-why-its-leading-xrp-is-the-big",
       "localUrl": "/news/20260514-xrp-is-showing-a-power-move-after-the-clarity-act-why-its-leading-xrp-is-the-big.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin Firm Strive Unveils Daily Dividend Payments for SATA Preferred Shares",
-      "summary": "Strategy's Michael Saylor called Strive's impending shift to daily dividend payments \"impressive.\"",
-      "url": "https://decrypt.co/367878/bitcoin-firm-strive-daily-dividend-payments-preferred-share",
-      "publishedAt": "2026-05-14T19:53:51.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "市场",
-      "slug": "20260514-bitcoin-firm-strive-unveils-daily-dividend-payments-for-sata-preferred-shares",
-      "localUrl": "/news/20260514-bitcoin-firm-strive-unveils-daily-dividend-payments-for-sata-preferred-shares.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Kimi WebBridge Lets AI Agents Drive Your Browser—And Keep Your Data Local",
-      "summary": "Moonshot AI just shipped a browser extension that hands the wheel to AI agents. It clicks, scrolls, fills forms, and navigates your Chrome or Edge—without sessions ever leaving your machine.",
-      "url": "https://decrypt.co/367916/kimi-webbridge-ai-agents-browser-local",
-      "publishedAt": "2026-05-14T19:49:37.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260514-kimi-webbridge-lets-ai-agents-drive-your-browserand-keep-your-data-local",
-      "localUrl": "/news/20260514-kimi-webbridge-lets-ai-agents-drive-your-browserand-keep-your-data-local.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "#Bitcoin rallies back upwards, after a test at $79K and the 21-Day MA. The trend is not over. The trend looks to be continuing upwards. There are no arguments to be expecting a correction to happen, not at all. There are actually more arguments to be expectin - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEMVZ5ZnNmYlJscEJJdFFrY2pYdHZUY01zLTJYOXUyZU5xaXFHc3lRVG00WFRZRWVpcXhnSkQwQks3V0pzUXE5RFpERGN2RXBvdmJpT3ltM0VRdVVZamJaV1RBUQ?oc=5\" target=\"_blank\">#Bitcoin rallies back upwards, a…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEMVZ5ZnNmYlJscEJJdFFrY2pYdHZUY01zLTJYOXUyZU5xaXFHc3lRVG00WFRZRWVpcXhnSkQwQks3V0pzUXE5RFpERGN2RXBvdmJpT3ltM0VRdVVZamJaV1RBUQ?oc=5",
-      "publishedAt": "2026-05-14T19:17:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260514-bitcoin-rallies-back-upwards-after-a-test-at-79k-and-the-21-day-ma-the-trend-is-",
-      "localUrl": "/news/20260514-bitcoin-rallies-back-upwards-after-a-test-at-79k-and-the-21-day-ma-the-trend-is-.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "ChatGPT Is Losing Ground to Rivals—Here Are Some Numbers",
-      "summary": "ChatGPT's web traffic share is falling while its rivals are rising—just as businesses start to look beyond OpenAI.",
-      "url": "https://decrypt.co/367884/chatgpt-losing-ground-anthrophic-google-numbers",
-      "publishedAt": "2026-05-14T18:44:58.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260514-chatgpt-is-losing-ground-to-rivalshere-are-some-numbers",
-      "localUrl": "/news/20260514-chatgpt-is-losing-ground-to-rivalshere-are-some-numbers.html"
     },
     {
       "source": "X Wire",
@@ -1041,6 +1041,17 @@
     },
     {
       "source": "X Wire",
+      "title": "I'm pleased to join the Congressional Crypto Caucus. The United States must lead on digital assets - driving innovation, delivering regulatory clarity, and protecting consumers. I look forward to working with this bipartisan group of colleagues to advance that ag - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54eWtfUWFnd0s5a1ZtVGpucnU5RHNiLVZzRlVtbG4yRFN1eEZmbjlBWmhqLXdZcFJyV3BGVjByUzk0WC0xMWc5T050OTFKdXY5VnRybThlam9XVTRMWDFWc20walNLRHc?oc=5\" target=\"_blank\">I'm pleased to join the Con…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54eWtfUWFnd0s5a1ZtVGpucnU5RHNiLVZzRlVtbG4yRFN1eEZmbjlBWmhqLXdZcFJyV3BGVjByUzk0WC0xMWc5T050OTFKdXY5VnRybThlam9XVTRMWDFWc20walNLRHc?oc=5",
+      "publishedAt": "2026-05-13T18:49:04.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260513-im-pleased-to-join-the-congressional-crypto-caucus-the-united-states-must-lead-o",
+      "localUrl": "/news/20260513-im-pleased-to-join-the-congressional-crypto-caucus-the-united-states-must-lead-o.html"
+    },
+    {
+      "source": "X Wire",
       "title": "The @AARP comes out in support of crypto market structure bill. In a letter, says the bill “takes a critical step toward protecting older Americans from one of the fastest-growing and most devastating fraud vectors in the country today.” - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE91aUIzUGhBSzIyUE9MbjFXd0RYYjdvQkh2OFJHcGJfaEVnQXJlWlo2czF1cGdEbXpiUGRiYlBlNGpnVE1HM3FxSGJteTNVQllfWWI4M3Z2WDBCclZWRF9QMQ?oc=5\" target=\"_blank\">The @AARP comes out in support of cr…",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91aUIzUGhBSzIyUE9MbjFXd0RYYjdvQkh2OFJHcGJfaEVnQXJlWlo2czF1cGdEbXpiUGRiYlBlNGpnVE1HM3FxSGJteTNVQllfWWI4M3Z2WDBCclZWRF9QMQ?oc=5",
@@ -1052,25 +1063,14 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: $12 trillion Charles Schwab is officially rolling out spot bitcoin trading to retail clients: \"Starting today, the first group of clients can trade Bitcoin\" 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhYm5BdmJXdGxObVl0eVR4MXFTNTh0X2pZazBMMk9VN25zQnJpb0RrX1diOGVHU1ZPY2NlNkZpTzYybWQtbnlsN3BZZmZrWEpHbFUtbUdDNElYdUc1enhFam1hdU9yNFE?oc=5\" target=\"_blank\">JUST IN: $12 trillion Charl…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhYm5BdmJXdGxObVl0eVR4MXFTNTh0X2pZazBMMk9VN25zQnJpb0RrX1diOGVHU1ZPY2NlNkZpTzYybWQtbnlsN3BZZmZrWEpHbFUtbUdDNElYdUc1enhFam1hdU9yNFE?oc=5",
-      "publishedAt": "2026-05-13T12:08:11.000Z",
+      "title": "Ronin. Is. Home. Migration to Ethereum complete ⚔ Five years ago, Ronin was a new Ethereum sidechain with a single game aboard: Axie Infinity. Over the years, Ronin emerged as THE gaming chain, onboarding millions of players through more games like - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrcHdTSVc1MUgzd3l4LURlRWhsWC1TVTFDMUJ5NmJOX29hMUI1RHdhampaR0d1VXF3ZHp4RXFVQ0UzNmN2OTBfRDlOdWFhNzlJa3d2TDB5RHJGQW90SzU2dG5VZHA?oc=5\" target=\"_blank\">Ronin. Is. Home. Migration to E…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrcHdTSVc1MUgzd3l4LURlRWhsWC1TVTFDMUJ5NmJOX29hMUI1RHdhampaR0d1VXF3ZHp4RXFVQ0UzNmN2OTBfRDlOdWFhNzlJa3d2TDB5RHJGQW90SzU2dG5VZHA?oc=5",
+      "publishedAt": "2026-05-13T08:07:31.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260513-just-in-12-trillion-charles-schwab-is-officially-rolling-out-spot-bitcoin-tradin",
-      "localUrl": "/news/20260513-just-in-12-trillion-charles-schwab-is-officially-rolling-out-spot-bitcoin-tradin.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Crypto markets continue to attract massive inflows: Crypto funds posted +$858 million in inflows last week, the 6th consecutive weekly intake. Over this period, investors poured a total of +$4.7 billion into these funds. Crypto funds have now seen inflows in 10 of - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE15VWhfRTVXM0JMTlp0M0VQNlRVMUFDOVV4MkRpNHN0dkg3MUVqd2p2WHZQZi01bXhQMDBqVmtTMFU2TTFfRUdKSmRTdTBMYl9EZm1pMTNkRUZSZWp5VEJacmUySDJXZw?oc=5\" target=\"_blank\">Crypto markets continue to a…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15VWhfRTVXM0JMTlp0M0VQNlRVMUFDOVV4MkRpNHN0dkg3MUVqd2p2WHZQZi01bXhQMDBqVmtTMFU2TTFfRUdKSmRTdTBMYl9EZm1pMTNkRUZSZWp5VEJacmUySDJXZw?oc=5",
-      "publishedAt": "2026-05-12T22:18:41.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260512-crypto-markets-continue-to-attract-massive-inflows-crypto-funds-posted-858-milli",
-      "localUrl": "/news/20260512-crypto-markets-continue-to-attract-massive-inflows-crypto-funds-posted-858-milli.html"
+      "slug": "20260513-ronin-is-home-migration-to-ethereum-complete-five-years-ago-ronin-was-a-new-ethe",
+      "localUrl": "/news/20260513-ronin-is-home-migration-to-ethereum-complete-five-years-ago-ronin-was-a-new-ethe.html"
     },
     {
       "source": "Ethereum Blog",
