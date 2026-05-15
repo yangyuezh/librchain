@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-14T23:10:24.760Z</lastmod>
+    <lastmod>2026-05-15T04:14:43.941Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-14T23:10:24.760Z</lastmod>
+    <lastmod>2026-05-15T04:14:43.941Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260515-strive-rallies-58-as-it-clears-debt-in-q1-unveils-daily-dividends.html</loc>
+    <lastmod>2026-05-15T02:34:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260514-uk-politician-nigel-farage-bought-18m-house-after-a-67m-crypto-gift.html</loc>
+    <lastmod>2026-05-14T22:32:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260514-dartmouth-endowment-invests-in-solana-etf-holds-14m-in-crypto-exposure.html</loc>
@@ -271,12 +283,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260514-gm-big-day-for-crypto-on-capitol-hill-you-can-watch-the-markup-live-on-bankinggo.html</loc>
-    <lastmod>2026-05-14T13:54:28.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260514-why-bitcoins-recent-climb-to-80000-might-just-be-a-temporary-liquidity-squeeze.html</loc>
     <lastmod>2026-05-14T13:44:23.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -415,26 +421,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260514-jpmorgan-lifts-bitcoin-etf-exposure-in-q1-led-by-blackrocks-ibit.html</loc>
-    <lastmod>2026-05-14T11:22:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260514-bitcoin-etfs-shed-630m-in-largest-daily-exit-since-january.html</loc>
     <lastmod>2026-05-14T10:56:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260514-altcoin-season-quietly-starting-analysts-spot-three-bullish-indicators.html</loc>
-    <lastmod>2026-05-14T10:25:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260514-binance-has-always-been-about-real-people-real-crypto-real-stories-join-the-huma.html</loc>
-    <lastmod>2026-05-14T08:00:02.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260514-very-bearish-bitcoin-etfs-sold-635-million-worth-of-btc-yesterday-this-was-the-l.html</loc>
+    <lastmod>2026-05-14T05:54:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -453,6 +447,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260513-breaking-pro-bitcoin-kevin-warsh-officially-confirmed-as-federal-reserve-chair-i.html</loc>
     <lastmod>2026-05-13T18:53:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260513-breaking-senate-officially-confirms-pro-crypto-kevin-warsh-as-federal-reserve-ch.html</loc>
+    <lastmod>2026-05-13T18:36:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -495,18 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260512-clear-signing-making-transaction-approvals-safer-on-ethereum.html</loc>
     <lastmod>2026-05-12T00:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260511-solana-ecosystem-roundup-april-2026.html</loc>
-    <lastmod>2026-05-11T00:24:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260511-protocol-cluster-updates-may-2026.html</loc>
-    <lastmod>2026-05-11T00:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
