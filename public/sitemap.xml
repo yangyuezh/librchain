@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-16T12:02:07.466Z</lastmod>
+    <lastmod>2026-05-16T13:56:16.890Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-16T12:02:07.466Z</lastmod>
+    <lastmod>2026-05-16T13:56:16.890Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260516-what-is-ai-jailbreaking-a-beginners-guide-to-the-cat-and-mouse-game-behind-every.html</loc>
+    <lastmod>2026-05-16T13:01:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260516-the-293-million-kelpdao-hack-shows-why-defi-is-finally-being-forced-to-grow-up.html</loc>
+    <lastmod>2026-05-16T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260516-xrp-beat-bitcoin-gains-as-clarity-act-advanced-but-a-real-bullrun-still-needs-co.html</loc>
@@ -409,12 +421,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260515-hyperliquid-leads-24-hour-gains-as-altcoins-pace-bitcoin.html</loc>
-    <lastmod>2026-05-15T10:58:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260515-today-this-is-jerome-powells-last-day-in-office-bitcoin-is-up-76000-since-he-sta.html</loc>
     <lastmod>2026-05-15T10:00:50.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -429,12 +435,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260515-14-years-ago-coinbase-was-a-simple-bitcoin-wallet-today-we-offer-millions-of-ass.html</loc>
     <lastmod>2026-05-15T06:45:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260515-latest-jpmorgan-warns-that-ether-and-altcoins-could-continue-underperforming-bit.html</loc>
-    <lastmod>2026-05-15T05:20:42.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -469,12 +469,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260514-nfl-all-day-stops-issuing-nfts-as-dapper-labs-signals-future-plans-with-league.html</loc>
-    <lastmod>2026-05-14T21:04:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260514-the-crypto-market-structure-bill-has-passed-the-senate-banking-committee-with-a-.html</loc>
     <lastmod>2026-05-14T18:29:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,6 +477,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260514-breaking-bitcoin-surges-above-82000-after-the-senate-banking-committee-advances-.html</loc>
     <lastmod>2026-05-14T17:07:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260514-gm-big-day-for-crypto-on-capitol-hill-you-can-watch-the-markup-live-on-bankinggo.html</loc>
+    <lastmod>2026-05-14T13:54:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
