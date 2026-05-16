@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-15T22:09:34.791Z</lastmod>
+    <lastmod>2026-05-16T00:03:16.306Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-15T22:09:34.791Z</lastmod>
+    <lastmod>2026-05-16T00:03:16.306Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260515-house-committee-leaders-urge-trump-to-nominate-cftc-members-citing-clarity-act.html</loc>
+    <lastmod>2026-05-15T23:10:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260515-bitcoin-depot-filing-casts-doubt-on-companys-future-amid-lawsuits.html</loc>
+    <lastmod>2026-05-15T22:17:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260515-ice-cme-press-us-regulators-to-rein-in-hyperliquid-energy-trading-report.html</loc>
+    <lastmod>2026-05-15T21:42:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260515-us-house-lawmakers-who-oversee-the-cftc-are-urging-trump-to-fill-the-commission.html</loc>
@@ -259,12 +277,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260515-strategy-to-repurchase-15b-convertible-notes-may-fund-deal-with-bitcoin-sales-st.html</loc>
-    <lastmod>2026-05-15T12:39:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260515-strategy-to-repurchase-15-billion-of-2029-convertible-bonds-using-cash-or-bitcoi.html</loc>
     <lastmod>2026-05-15T12:38:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -361,14 +373,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260515-iren-closes-3-billion-convertible-notes-deal-amid-ai-infrastructure-expansion.html</loc>
-    <lastmod>2026-05-15T09:58:30.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260515-huge-news-uae-to-launch-another-oil-pipeline-bypassing-the-strait-of-hormuz-in-2.html</loc>
+    <lastmod>2026-05-15T10:15:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260515-hana-financial-to-acquire-655-stake-in-upbit-operator-dunamu-for-668m.html</loc>
-    <lastmod>2026-05-15T09:16:37.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260515-iren-closes-3-billion-convertible-notes-deal-amid-ai-infrastructure-expansion.html</loc>
+    <lastmod>2026-05-15T09:58:30.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -381,18 +393,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260515-the-markets-are-still-looking-great-for-bitcoin-if-this-continues-to-find-moment.html</loc>
     <lastmod>2026-05-15T07:49:28.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260515-signal-hints-it-could-leave-canada-over-lawful-access-bill.html</loc>
-    <lastmod>2026-05-15T07:18:26.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260515-australias-proposed-cgt-changes-could-discourage-long-term-crypto-holding.html</loc>
-    <lastmod>2026-05-15T07:15:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -427,12 +427,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260514-xrp-is-showing-a-power-move-after-the-clarity-act-why-its-leading-xrp-is-the-big.html</loc>
-    <lastmod>2026-05-14T20:48:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260514-cme-group-plans-launch-of-first-market-cap-weighted-crypto-index-futures-cme-gro.html</loc>
     <lastmod>2026-05-14T18:37:41.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -445,14 +439,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260514-just-in-cftc-chair-mike-selig-says-todays-crypto-clarity-act-vote-brings-us-clos.html</loc>
-    <lastmod>2026-05-14T17:27:05.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260514-breaking-bitcoin-surges-above-82000-after-the-senate-banking-committee-advances-.html</loc>
+    <lastmod>2026-05-14T17:07:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260514-breaking-bitcoin-surges-above-82000-after-the-senate-banking-committee-advances-.html</loc>
-    <lastmod>2026-05-14T17:07:58.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260514-sen-cynthia-lummis-says-crypto-legislation-has-required-an-unprecedented-effort-.html</loc>
+    <lastmod>2026-05-14T15:18:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -487,14 +481,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260513-ronin-is-home-migration-to-ethereum-complete-five-years-ago-ronin-was-a-new-ethe.html</loc>
-    <lastmod>2026-05-13T08:07:31.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260513-just-in-12-trillion-charles-schwab-is-officially-rolling-out-spot-bitcoin-tradin.html</loc>
+    <lastmod>2026-05-13T12:08:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260512-clear-signing-making-transaction-approvals-safer-on-ethereum.html</loc>
-    <lastmod>2026-05-12T00:00:00.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260513-ronin-is-home-migration-to-ethereum-complete-five-years-ago-ronin-was-a-new-ethe.html</loc>
+    <lastmod>2026-05-13T08:07:31.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
