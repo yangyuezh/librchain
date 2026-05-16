@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-16T15:13:11.999Z</lastmod>
+    <lastmod>2026-05-16T17:12:15.683Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-16T15:13:11.999Z</lastmod>
+    <lastmod>2026-05-16T17:12:15.683Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260516-alert-blackrock-is-selling-bitcoin-per-arkham-xcom.html</loc>
+    <lastmod>2026-05-16T15:00:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260516-jump-cryptos-firedancer-is-taking-a-slow-and-steady-approach-to-its-long-awaited.html</loc>
@@ -57,6 +63,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260516-italys-biggest-bank-doubled-its-crypto-exposure-to-235m-intesa-sanpaolo-managing.html</loc>
     <lastmod>2026-05-16T11:04:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260516-italys-largest-bank-intesa-sanpaolo-increases-crypto-exposure-to-235-million-in-.html</loc>
+    <lastmod>2026-05-16T10:32:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -111,12 +123,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260515-bitcoin-depot-filing-casts-doubt-on-companys-future-amid-lawsuits.html</loc>
     <lastmod>2026-05-15T22:17:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260515-elon-musk-dogecoin-becoming-a-leading-crypto-would-be-the-most-ironic-outcome-el.html</loc>
-    <lastmod>2026-05-15T22:00:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -433,12 +439,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260515-the-markets-are-still-looking-great-for-bitcoin-if-this-continues-to-find-moment.html</loc>
-    <lastmod>2026-05-15T07:49:28.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260515-14-years-ago-coinbase-was-a-simple-bitcoin-wallet-today-we-offer-millions-of-ass.html</loc>
     <lastmod>2026-05-15T06:45:41.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -487,8 +487,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260513-the-aarp-comes-out-in-support-of-crypto-market-structure-bill-in-a-letter-says-t.html</loc>
-    <lastmod>2026-05-13T18:27:53.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260514-gm-big-day-for-crypto-on-capitol-hill-you-can-watch-the-markup-live-on-bankinggo.html</loc>
+    <lastmod>2026-05-14T13:54:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
