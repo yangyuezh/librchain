@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-16T10:36:11.406Z</lastmod>
+    <lastmod>2026-05-16T12:02:07.466Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-16T10:36:11.406Z</lastmod>
+    <lastmod>2026-05-16T12:02:07.466Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260516-xrp-beat-bitcoin-gains-as-clarity-act-advanced-but-a-real-bullrun-still-needs-co.html</loc>
+    <lastmod>2026-05-16T11:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260516-thorchain-confirms-10m-exploit-rolls-out-recovery-portal-for-affected-users.html</loc>
@@ -67,6 +73,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260515-elon-musk-dogecoin-becoming-a-leading-crypto-would-be-the-most-ironic-outcome-el.html</loc>
+    <lastmod>2026-05-15T22:00:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260515-ice-cme-press-us-regulators-to-rein-in-hyperliquid-energy-trading-report.html</loc>
     <lastmod>2026-05-15T21:42:18.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -93,6 +105,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260515-lombard-finance-dumps-layerzero-will-use-chainlink-to-power-1-billion-in-bitcoin.html</loc>
     <lastmod>2026-05-15T20:54:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260515-just-in-the-crypto-market-structure-clarity-bill-has-advanced-through-the-senate.html</loc>
+    <lastmod>2026-05-15T20:30:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -361,6 +379,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260515-i-am-a-btc-crypto-big-timer-xcom.html</loc>
+    <lastmod>2026-05-15T12:05:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260515-okx-korea-investment-and-securities-said-to-be-in-talks-for-40-of-coinone.html</loc>
     <lastmod>2026-05-15T11:52:38.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -391,12 +415,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260515-hana-bank-to-acquire-670-million-stake-in-upbit-operator-dunamu.html</loc>
-    <lastmod>2026-05-15T10:24:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260515-today-this-is-jerome-powells-last-day-in-office-bitcoin-is-up-76000-since-he-sta.html</loc>
     <lastmod>2026-05-15T10:00:50.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -405,6 +423,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260515-the-markets-are-still-looking-great-for-bitcoin-if-this-continues-to-find-moment.html</loc>
     <lastmod>2026-05-15T07:49:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260515-14-years-ago-coinbase-was-a-simple-bitcoin-wallet-today-we-offer-millions-of-ass.html</loc>
+    <lastmod>2026-05-15T06:45:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,18 +475,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260514-just-in-senator-elizabeth-warren-says-the-crypto-clarity-act-will-blow-up-the-ec.html</loc>
-    <lastmod>2026-05-14T20:30:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260514-cme-group-plans-launch-of-first-market-cap-weighted-crypto-index-futures-cme-gro.html</loc>
-    <lastmod>2026-05-14T18:37:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260514-the-crypto-market-structure-bill-has-passed-the-senate-banking-committee-with-a-.html</loc>
     <lastmod>2026-05-14T18:29:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -475,20 +487,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260514-gm-big-day-for-crypto-on-capitol-hill-you-can-watch-the-markup-live-on-bankinggo.html</loc>
-    <lastmod>2026-05-14T13:54:28.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260514-the-senate-banking-committee-is-marking-up-the-bitcoin-crypto-market-structure-l.html</loc>
-    <lastmod>2026-05-14T12:25:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260513-just-in-12-trillion-charles-schwab-is-officially-rolling-out-spot-bitcoin-tradin.html</loc>
-    <lastmod>2026-05-13T12:08:11.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260513-the-aarp-comes-out-in-support-of-crypto-market-structure-bill-in-a-letter-says-t.html</loc>
+    <lastmod>2026-05-13T18:27:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
