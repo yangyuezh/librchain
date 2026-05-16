@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-16T06:31:43.150Z</lastmod>
+    <lastmod>2026-05-16T08:58:06.165Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-16T06:31:43.150Z</lastmod>
+    <lastmod>2026-05-16T08:58:06.165Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260516-crypto-longs-lose-500-million-as-bitcoin-slides-to-78000-sol-and-xrp-down-5.html</loc>
+    <lastmod>2026-05-16T07:36:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260516-bhutan-doesnt-recall-selling-any-bitcoin-disputing-widely-tracked-1-billion-btc-.html</loc>
@@ -229,6 +235,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260515-insane-volatility-in-bitcoin-bitcoin-pumped-2750-as-the-senate-banking-committee.html</loc>
+    <lastmod>2026-05-15T14:26:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260515-getting-started-with-myriad.html</loc>
     <lastmod>2026-05-15T14:25:19.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -373,8 +385,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260515-thorchain-halts-trading-after-10-million-cross-chain-exploit-rune-token-drops-12.html</loc>
-    <lastmod>2026-05-15T10:21:12.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260515-today-this-is-jerome-powells-last-day-in-office-bitcoin-is-up-76000-since-he-sta.html</loc>
+    <lastmod>2026-05-15T10:00:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -433,6 +445,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260514-cme-group-plans-launch-of-first-market-cap-weighted-crypto-index-futures-cme-gro.html</loc>
+    <lastmod>2026-05-14T18:37:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260514-the-crypto-market-structure-bill-has-passed-the-senate-banking-committee-with-a-.html</loc>
     <lastmod>2026-05-14T18:29:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -441,18 +459,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260514-breaking-bitcoin-surges-above-82000-after-the-senate-banking-committee-advances-.html</loc>
     <lastmod>2026-05-14T17:07:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260514-sen-cynthia-lummis-says-crypto-legislation-has-required-an-unprecedented-effort-.html</loc>
-    <lastmod>2026-05-14T15:18:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260514-were-restructuring-dune-to-sharpen-our-focus-around-the-core-data-products-thous.html</loc>
-    <lastmod>2026-05-14T14:51:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -469,8 +475,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260513-im-pleased-to-join-the-congressional-crypto-caucus-the-united-states-must-lead-o.html</loc>
-    <lastmod>2026-05-13T18:49:04.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260513-jane-street-slashed-bitcoin-exposure-while-expanding-ether-etf-and-crypto-stock-.html</loc>
+    <lastmod>2026-05-13T22:30:42.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260513-just-in-12-trillion-charles-schwab-is-officially-rolling-out-spot-bitcoin-tradin.html</loc>
     <lastmod>2026-05-13T12:08:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260513-ronin-is-home-migration-to-ethereum-complete-five-years-ago-ronin-was-a-new-ethe.html</loc>
-    <lastmod>2026-05-13T08:07:31.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
