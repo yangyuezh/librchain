@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-17T00:05:51.480Z</lastmod>
+    <lastmod>2026-05-17T04:20:37.216Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-17T00:05:51.480Z</lastmod>
+    <lastmod>2026-05-17T04:20:37.216Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260517-us-clarity-act-will-be-a-boon-for-domestic-innovation-a16z.html</loc>
+    <lastmod>2026-05-17T01:09:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260516-strc-preferred-stock-investors-are-mispricing-major-dislocation-risk-analyst.html</loc>
@@ -33,12 +39,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260516-justin-sun-led-liberland-micronation-awards-ethereum-founder-vitalik-buterin-its.html</loc>
     <lastmod>2026-05-16T17:34:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260516-boom-cftc-chairman-says-live-on-fox-news-that-the-crypto-market-structure-bill-i.html</loc>
-    <lastmod>2026-05-16T17:22:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -79,12 +79,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260516-prediction-kalshi-users-believe-chainlink-is-a-better-investment-than-bitcoin-th.html</loc>
-    <lastmod>2026-05-16T13:18:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260516-what-is-ai-jailbreaking-a-beginners-guide-to-the-cat-and-mouse-game-behind-every.html</loc>
     <lastmod>2026-05-16T13:01:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -99,6 +93,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260516-fun-fact-bitcoin-has-become-less-volatile-than-potato-futures-xcom.html</loc>
     <lastmod>2026-05-16T12:00:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260516-charles-hoskinson-on-bitcoins-quantum-crisis-to-do-nothing-would-result-in-over-.html</loc>
+    <lastmod>2026-05-16T12:00:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -213,6 +213,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260515-just-in-the-crypto-market-structure-clarity-bill-has-advanced-through-the-senate.html</loc>
     <lastmod>2026-05-15T20:30:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260515-giant-bitcoin-advertisement-on-display-in-times-square-new-york-no-man-should-wo.html</loc>
+    <lastmod>2026-05-15T20:26:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -355,12 +361,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260515-bitcoin-price-dives-under-79k-as-us-bond-market-triggers-3-btc-price-rout.html</loc>
-    <lastmod>2026-05-15T15:21:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260515-bitcoin-giant-strategy-moves-to-retire-15-billion-in-convertible-debt-says-it-co.html</loc>
     <lastmod>2026-05-15T14:50:25.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -463,14 +463,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260515-14-years-ago-coinbase-was-a-simple-bitcoin-wallet-today-we-offer-millions-of-ass.html</loc>
-    <lastmod>2026-05-15T06:45:41.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260515-today-this-is-jerome-powells-last-day-in-office-bitcoin-is-up-76000-since-he-sta.html</loc>
+    <lastmod>2026-05-15T10:00:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260515-btc-eth-crypto-spring-is-here-xcom.html</loc>
-    <lastmod>2026-05-15T04:47:08.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260515-14-years-ago-coinbase-was-a-simple-bitcoin-wallet-today-we-offer-millions-of-ass.html</loc>
+    <lastmod>2026-05-15T06:45:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
