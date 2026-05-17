@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-17T22:07:18.039Z</lastmod>
+    <lastmod>2026-05-17T23:11:18.363Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-17T22:07:18.039Z</lastmod>
+    <lastmod>2026-05-17T23:11:18.363Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260517-bernstein-says-figures-q1-results-shows-uniqueness-of-blockchain-marketplaces.html</loc>
+    <lastmod>2026-05-17T21:14:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260517-what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle.html</loc>
@@ -45,6 +51,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260517-alleged-dream-market-admin-accused-of-laundering-crypto-into-gold-bars-the-us-de.html</loc>
     <lastmod>2026-05-17T14:14:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260517-eth-looks-to-be-repeating-the-2022-playbook-the-bottom-is-not-in-yet-xcom.html</loc>
+    <lastmod>2026-05-17T14:03:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -117,6 +129,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260517-michael-saylor-floated-bitcoin-sales-idea-to-avoid-impairing-the-asset.html</loc>
     <lastmod>2026-05-17T05:27:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260517-clarity-will-be-signed-into-law-cftc-chairman-says-that-the-crypto-market-struct.html</loc>
+    <lastmod>2026-05-17T05:03:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -349,26 +367,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260515-insight-if-60000-holds-as-bitcoins-cycle-low-this-would-be-the-shallowest-bear-m.html</loc>
-    <lastmod>2026-05-15T18:20:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260515-price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch.html</loc>
-    <lastmod>2026-05-15T18:09:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260515-bitcoin-depot-flashes-bankruptcy-warning-as-atm-revenue-falls-regulatory-scrutin.html</loc>
     <lastmod>2026-05-15T18:05:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260515-we-turn-bitcoin-into-money-strc-xcom.html</loc>
-    <lastmod>2026-05-15T17:48:25.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
