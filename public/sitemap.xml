@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-17T19:33:35.140Z</lastmod>
+    <lastmod>2026-05-17T21:06:24.726Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-17T19:33:35.140Z</lastmod>
+    <lastmod>2026-05-17T21:06:24.726Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260517-what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle.html</loc>
+    <lastmod>2026-05-17T20:32:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260517-the-clarity-act-took-a-step-forward-state-of-crypto.html</loc>
@@ -27,6 +33,18 @@
   <url>
     <loc>https://www.librchain.com/news/20260517-in-accordance-with-the-rseth-technical-recovery-plan-weth-ltvs-on-aave-v3-ethere.html</loc>
     <lastmod>2026-05-17T16:28:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260517-alleged-dream-market-admin-accused-of-laundering-crypto-into-gold-bars-the-us-de.html</loc>
+    <lastmod>2026-05-17T14:14:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260517-eth-looks-to-be-repeating-the-2022-playbook-the-bottom-is-not-in-yet-xcom.html</loc>
+    <lastmod>2026-05-17T14:03:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -153,12 +171,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260516-justin-sun-led-liberland-micronation-awards-ethereum-founder-vitalik-buterin-its.html</loc>
     <lastmod>2026-05-16T17:34:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260516-boom-cftc-chairman-says-live-on-fox-news-that-the-crypto-market-structure-bill-i.html</loc>
-    <lastmod>2026-05-16T17:22:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -349,12 +361,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260515-insight-if-60000-holds-as-bitcoins-cycle-low-this-would-be-the-shallowest-bear-m.html</loc>
-    <lastmod>2026-05-15T18:20:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260515-bitcoin-depot-flashes-bankruptcy-warning-as-atm-revenue-falls-regulatory-scrutin.html</loc>
     <lastmod>2026-05-15T18:05:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260515-thorchains-rune-token-plunges-double-digits-after-10m-exploit-trading-halt.html</loc>
     <lastmod>2026-05-15T10:58:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260514-openai-pushes-new-chatgpt-safety-features-as-lawsuits-mount.html</loc>
-    <lastmod>2026-05-14T21:43:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
