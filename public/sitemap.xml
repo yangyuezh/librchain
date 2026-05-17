@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-17T13:54:24.469Z</lastmod>
+    <lastmod>2026-05-17T15:14:39.805Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-17T13:54:24.469Z</lastmod>
+    <lastmod>2026-05-17T15:14:39.805Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260517-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-05-17T14:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260517-defis-new-front-verifiedx-bets-bitcoins-next-chapter-is-programmable-private.html</loc>
@@ -63,6 +69,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260517-michael-saylor-floated-bitcoin-sales-idea-to-avoid-impairing-the-asset.html</loc>
     <lastmod>2026-05-17T05:27:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260517-clarity-will-be-signed-into-law-cftc-chairman-says-that-the-crypto-market-struct.html</loc>
+    <lastmod>2026-05-17T05:03:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -205,12 +217,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260516-bitcoin-is-testing-everyone-right-now-the-impatient-get-shaken-out-the-patient-g.html</loc>
-    <lastmod>2026-05-16T08:42:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260516-spot-bitcoin-etfs-bleed-1b-in-a-week-snapping-six-week-inflow-run.html</loc>
     <lastmod>2026-05-16T08:19:20.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -333,12 +339,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260515-bitcoin-depot-flashes-bankruptcy-warning-as-atm-revenue-falls-regulatory-scrutin.html</loc>
     <lastmod>2026-05-15T18:05:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260515-bitwise-launches-us-listed-hyperliquid-fund-with-staking-rewards.html</loc>
-    <lastmod>2026-05-15T17:56:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
