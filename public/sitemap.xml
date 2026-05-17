@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-17T17:11:00.188Z</lastmod>
+    <lastmod>2026-05-17T19:33:35.140Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-17T17:11:00.188Z</lastmod>
+    <lastmod>2026-05-17T19:33:35.140Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260517-the-clarity-act-took-a-step-forward-state-of-crypto.html</loc>
+    <lastmod>2026-05-17T18:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260517-saylor-signals-btc-buy-as-retail-holders-get-push-on-strc-dividend-vote.html</loc>
+    <lastmod>2026-05-17T18:01:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260517-in-accordance-with-the-rseth-technical-recovery-plan-weth-ltvs-on-aave-v3-ethere.html</loc>
+    <lastmod>2026-05-17T16:28:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260517-insight-sharplink-ceo-says-ethereum-could-surge-if-the-clarity-act-passes-risk-a.html</loc>
@@ -337,12 +355,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260515-price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch.html</loc>
-    <lastmod>2026-05-15T18:09:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260515-bitcoin-depot-flashes-bankruptcy-warning-as-atm-revenue-falls-regulatory-scrutin.html</loc>
     <lastmod>2026-05-15T18:05:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -451,20 +463,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260515-xrp-gives-back-gains-after-senate-crypto-bill-sparks-5-rally.html</loc>
-    <lastmod>2026-05-15T13:17:55.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260515-bitcoin-shrugs-off-clarity-gains-as-institutions-sell-amid-surging-treasury-yiel.html</loc>
     <lastmod>2026-05-15T13:00:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260515-just-in-legendary-rapper-drake-raps-about-bitcoin-in-his-new-song-i-am-a-btc-cry.html</loc>
-    <lastmod>2026-05-15T12:59:14.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
