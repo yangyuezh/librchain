@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-05-18T19:00:59.498Z",
+  "updatedAt": "2026-05-18T20:42:38.226Z",
   "total": 81,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Hyperliquid's USDC deal could supercharge HYPE, pressure Circle, Coinbase margins, analysts say",
+      "summary": "The revenue share deal could shift an estimated $160 million in revenue from Coinbase and Circle into Hyperliquid's ecosystem, Compass Point analysts said.",
+      "url": "https://www.coindesk.com/markets/2026/05/18/hyperliquid-s-usdc-deal-could-supercharge-hype-pressure-circle-coinbase-margins-analysts-say",
+      "publishedAt": "2026-05-18T20:18:37.000Z",
+      "keywords": [
+        "Markets",
+        "Circle",
+        "Coinbase",
+        "Stablecoins",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260518-hyperliquids-usdc-deal-could-supercharge-hype-pressure-circle-coinbase-margins-a",
+      "localUrl": "/news/20260518-hyperliquids-usdc-deal-could-supercharge-hype-pressure-circle-coinbase-margins-a.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin’s trend defining battle starts at the $74K support: Analyst",
+      "summary": "Bitcoin traders are closely watching the $74,000-$75,000 support zone as exchange inflows rise and market signals weaken following BTC's loss of momentum above $82,000.",
+      "url": "https://cointelegraph.com/markets/bitcoin-analyst-flags-74k-as-btcs-biggest-support-battle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-18T19:57:20.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "DeFi",
+      "slug": "20260518-bitcoins-trend-defining-battle-starts-at-the-74k-support-analyst",
+      "localUrl": "/news/20260518-bitcoins-trend-defining-battle-starts-at-the-74k-support-analyst.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Swan Bitcoin Hit With Nearly $1 Billion Lawsuit Over Prime Trust Collapse",
+      "summary": "The lawsuit alleges that the Bitcoin-centric financial services firm took advantage of insider information to escape major losses.",
+      "url": "https://decrypt.co/368244/swan-bitcoin-nearly-1-billion-lawsuit-prime-trust-collapse",
+      "publishedAt": "2026-05-18T19:48:36.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260518-swan-bitcoin-hit-with-nearly-1-billion-lawsuit-over-prime-trust-collapse",
+      "localUrl": "/news/20260518-swan-bitcoin-hit-with-nearly-1-billion-lawsuit-over-prime-trust-collapse.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "This Open-Source Phone AI Agent Sees, Hears and Acts—All Without Touching the Cloud",
+      "summary": "Oppo's X-OmniClaw runs directly on your Android device, using the camera, screen, and microphone to execute real tasks inside real apps.",
+      "url": "https://decrypt.co/368238/oppo-x-omniclaw-android-ai-agent",
+      "publishedAt": "2026-05-18T19:13:41.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260518-this-open-source-phone-ai-agent-sees-hears-and-actsall-without-touching-the-clou",
+      "localUrl": "/news/20260518-this-open-source-phone-ai-agent-sees-hears-and-actsall-without-touching-the-clou.html"
+    },
     {
       "source": "Decrypt",
       "title": "Polymarket Users Spur Insider Trading Suspicions With $2.4 Million in Iran Prediction Wins",
@@ -43,6 +99,19 @@
       "localUrl": "/news/20260518-price-predictions-518-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada.html"
     },
     {
+      "source": "Cointelegraph",
+      "title": "Minnesota legalizes crypto custody services for banks, credit unions",
+      "summary": "Minnesota-based banking institutions and credit unions will be authorized to provide digital asset custody services in a nonfiduciary capacity as of Aug. 1.",
+      "url": "https://cointelegraph.com/news/minnesota-crypto-custody-services-banks-credit-unions-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-18T17:52:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260518-minnesota-legalizes-crypto-custody-services-for-banks-credit-unions",
+      "localUrl": "/news/20260518-minnesota-legalizes-crypto-custody-services-for-banks-credit-unions.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Elon Musk Loses $150 Billion AI Lawsuit Against OpenAI and Sam Altman",
       "summary": "The legal battle between Elon Musk and OpenAI has ended in a win for the company he co-founded, following a jury decision.",
@@ -54,19 +123,6 @@
       "category": "监管",
       "slug": "20260518-elon-musk-loses-150-billion-ai-lawsuit-against-openai-and-sam-altman",
       "localUrl": "/news/20260518-elon-musk-loses-150-billion-ai-lawsuit-against-openai-and-sam-altman.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Minnesota legalizes crypto custody services for banks, credit unions",
-      "summary": "Minnesota-based banking institutions and credit unions will be authorized to provide digital asset custody services in a nonfiduciary capacity as of Aug. 1.",
-      "url": "https://cointelegraph.com/news/minnesota-crypto-custody-services-banks-credit-unions-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-18T17:45:18.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260518-minnesota-legalizes-crypto-custody-services-for-banks-credit-unions",
-      "localUrl": "/news/20260518-minnesota-legalizes-crypto-custody-services-for-banks-credit-unions.html"
     },
     {
       "source": "CoinDesk",
@@ -305,6 +361,17 @@
     },
     {
       "source": "X Wire",
+      "title": "CRYPTO FALLS AS RATE CUT ODDS DROP Bitcoin and other cryptocurrencies fell as Fed rate-cut expectations under new chair Kevin Warsh continue to fade. BTC dropped ~2% to $76,660 after briefly hitting $82,000 last week, with analysts flagging $78,00 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mcnZ2OXIyaVhKTkpyQno2ODFVdmVIYXpaRUpiS2VWODNzREVma1Q1R24wcXpDbzdKMjdSWnp0TlluX3B2Ykl5TW1RT0hGQ2VZTnYwaWd1VkVlTjljQXc?oc=5\" target=\"_blank\">CRYPTO FALLS AS RATE CUT ODDS DROP Bitc…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mcnZ2OXIyaVhKTkpyQno2ODFVdmVIYXpaRUpiS2VWODNzREVma1Q1R24wcXpDbzdKMjdSWnp0TlluX3B2Ykl5TW1RT0hGQ2VZTnYwaWd1VkVlTjljQXc?oc=5",
+      "publishedAt": "2026-05-18T14:42:35.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260518-crypto-falls-as-rate-cut-odds-drop-bitcoin-and-other-cryptocurrencies-fell-as-fe",
+      "localUrl": "/news/20260518-crypto-falls-as-rate-cut-odds-drop-bitcoin-and-other-cryptocurrencies-fell-as-fe.html"
+    },
+    {
+      "source": "X Wire",
       "title": "JUST IN: 🇺🇸 Minnesota Governor signs bill into law that allows banks and credit unions to offer Bitcoin custody services to customers. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JV3FXQ0FqWFBfZFRYUVl4YVVCNzVwRXNITGwyQTB3bzVPbENIY1NIbFdKRExFenNFdTAwVUFvQ0gtMlpMbXQzRjBTS1JzTnR5Yk02THljUl9wdU1uQjZZVXNLcVJTeXc?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Minnesota Gov…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JV3FXQ0FqWFBfZFRYUVl4YVVCNzVwRXNITGwyQTB3bzVPbENIY1NIbFdKRExFenNFdTAwVUFvQ0gtMlpMbXQzRjBTS1JzTnR5Yk02THljUl9wdU1uQjZZVXNLcVJTeXc?oc=5",
@@ -451,6 +518,17 @@
       "category": "综合",
       "slug": "20260518-standard-chartered-to-absorb-zodia-custodys-core-business-spin-out-zodia-solutio",
       "localUrl": "/news/20260518-standard-chartered-to-absorb-zodia-custodys-core-business-spin-out-zodia-solutio.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Hyperliquid was built different. As in, 99% of the blockchain’s revenue is used to buy and burn HYPE. It's a community-first model based on this idea: If the protocol succeeds, the community succeeds. In that spirit, we’re pleased to announce that Bitwise will be - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zcnpaN0lnWmdvSXV3cTVRRmFteElRRUU4ZEhuNkVZbmFpYXU2bFRhRC00UUFrWUVfT3hyeE9EZ0xNRGhhVmdvSnFfa3QwaHJEYk9QamtSV0dVYVlh?oc=5\" target=\"_blank\">Hyperliquid was built different. As in, 99…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zcnpaN0lnWmdvSXV3cTVRRmFteElRRUU4ZEhuNkVZbmFpYXU2bFRhRC00UUFrWUVfT3hyeE9EZ0xNRGhhVmdvSnFfa3QwaHJEYk9QamtSV0dVYVlh?oc=5",
+      "publishedAt": "2026-05-18T13:30:29.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260518-hyperliquid-was-built-different-as-in-99-of-the-blockchains-revenue-is-used-to-b",
+      "localUrl": "/news/20260518-hyperliquid-was-built-different-as-in-99-of-the-blockchains-revenue-is-used-to-b.html"
     },
     {
       "source": "X Wire",
@@ -752,21 +830,6 @@
       "localUrl": "/news/20260518-south-korea-reviews-hana-banks-dunamu-stake-under-banking-rules-report.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin slides below $77,000 as Trump’s Iran warning rattles risk assets",
-      "summary": "Bitcoin and ether sank after the U.S. president told Iran the “clock is ticking,” sending oil higher and triggering broad crypto liquidations.",
-      "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-below-usd77-000-as-trump-s-iran-warning-rattles-risk-assets",
-      "publishedAt": "2026-05-18T10:50:13.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260518-bitcoin-slides-below-77000-as-trumps-iran-warning-rattles-risk-assets",
-      "localUrl": "/news/20260518-bitcoin-slides-below-77000-as-trumps-iran-warning-rattles-risk-assets.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Goldman Sachs exits XRP, Solana ETF exposure in Q1 2026",
       "summary": "Goldman Sachs cut its crypto ETF exposure in Q1 2026, exiting XRP and Solana funds while trimming Bitcoin and Ether ETFs and reshaping equity bets.",
@@ -865,30 +928,6 @@
       "localUrl": "/news/20260518-bitcoin-drops-to-the-crucial-level-as-yields-rally-everywhere-this-is-the-area-i.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Kraken cuts 150 staff amid AI efficiencies, potentially delaying IPO: Report",
-      "summary": "Kraken has cut 150 staff due to the rising use of AI, adding to more than 5,000 layoffs across the crypto sector so far this year, Bloomberg reports.",
-      "url": "https://cointelegraph.com/news/kraken-parent-payward-cuts-150-staff-potentially-delaying-ipo-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-18T07:14:27.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260518-kraken-cuts-150-staff-amid-ai-efficiencies-potentially-delaying-ipo-report",
-      "localUrl": "/news/20260518-kraken-cuts-150-staff-amid-ai-efficiencies-potentially-delaying-ipo-report.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "NEW: Japan's SBI Securities and Rakuten Securities plan to offer crypto investment trusts once regulators finalize rules, with 11 more firms including Nomura, Daiwa and Mizuho saying they would consider entering the market. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CQ2d1SW4zT0t4VnVvWVFWX01jVnM2MEpTc3RHeUR0VUo2R0NnSWIwVzlfTjh2MWwtUjhZYThXVjhPVVRnTXZ5cDZ6a2ZnWGxZTU1KZnhzT1hUNkpmRUE?oc=5\" target=\"_blank\">NEW: Japan's SBI Securities and Rakuten…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CQ2d1SW4zT0t4VnVvWVFWX01jVnM2MEpTc3RHeUR0VUo2R0NnSWIwVzlfTjh2MWwtUjhZYThXVjhPVVRnTXZ5cDZ6a2ZnWGxZTU1KZnhzT1hUNkpmRUE?oc=5",
-      "publishedAt": "2026-05-18T05:13:56.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260518-new-japans-sbi-securities-and-rakuten-securities-plan-to-offer-crypto-investment",
-      "localUrl": "/news/20260518-new-japans-sbi-securities-and-rakuten-securities-plan-to-offer-crypto-investment.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨BREAKING: One of the largest Bitcoin ATM operators just filed for BANKRUPTCY. Bitcoin Depot has started a voluntary Chapter 11 process to wind down operations and sell its assets. The company says its current business model became “unsustainable” d - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5M2FydnhMYWR4YmtsY19XWnFBbkpPVXFGZlE4aW8wUkN0YkI4VDJSSnl6WnRTQ292OW1LOXFtaDJPODZ2M21OZWhYNEhEem9VNXpRX0ZPeEFwaFRVaTdkNQ?oc=5\" target=\"_blank\">🚨BREAKING: One of the largest Bitco…",
@@ -931,17 +970,6 @@
       "category": "X热点",
       "slug": "20260518-latest-white-house-crypto-advisor-patrick-witt-says-passing-the-clarity-act-woul",
       "localUrl": "/news/20260518-latest-white-house-crypto-advisor-patrick-witt-says-passing-the-clarity-act-woul.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Iran Launches Bitcoin-Settled Maritime Insurance Platform Hormuz Safe Iran has launched Hormuz Safe, a state-backed digital maritime insurance platform for vessels transiting the Persian Gulf and the Strait of Hormuz, supporting settlement in Bitcoin and oth - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jeEFEeGEzckE5MkRZRmt2cXpwaThXVnhhTGRVUU9vQUZ6UXd2aVJZUDJwU1A5d3VMNzZlcURvLUJxcC1qRnVlcFZhdWlkRElnWlE0emVyX296THFZQl9JWXlEQQ?oc=5\" target=\"_blank\">Iran Launches Bitcoin-Settled Ma…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jeEFEeGEzckE5MkRZRmt2cXpwaThXVnhhTGRVUU9vQUZ6UXd2aVJZUDJwU1A5d3VMNzZlcURvLUJxcC1qRnVlcFZhdWlkRElnWlE0emVyX296THFZQl9JWXlEQQ?oc=5",
-      "publishedAt": "2026-05-18T02:12:31.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260518-iran-launches-bitcoin-settled-maritime-insurance-platform-hormuz-safe-iran-has-l",
-      "localUrl": "/news/20260518-iran-launches-bitcoin-settled-maritime-insurance-platform-hormuz-safe-iran-has-l.html"
     },
     {
       "source": "X Wire",
@@ -1040,32 +1068,6 @@
       "category": "市场",
       "slug": "20260515-drake-calls-for-sam-bankman-frieds-release-in-new-critically-panned-album",
       "localUrl": "/news/20260515-drake-calls-for-sam-bankman-frieds-release-in-new-critically-panned-album.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Lombard Finance Dumps LayerZero, Will Use Chainlink to Power $1 Billion in Bitcoin Assets",
-      "summary": "The Bitcoin DeFi protocol is moving its assets away from LayerZero following the Kelp DAO exploit that led to the loss of $292 million.",
-      "url": "https://decrypt.co/368100/lombard-finance-dumps-layerzero-chainlink-1-billion-bitcoin-assets",
-      "publishedAt": "2026-05-15T20:54:03.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "安全",
-      "slug": "20260515-lombard-finance-dumps-layerzero-will-use-chainlink-to-power-1-billion-in-bitcoin",
-      "localUrl": "/news/20260515-lombard-finance-dumps-layerzero-will-use-chainlink-to-power-1-billion-in-bitcoin.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Hyperliquid Policy Arm Rejects Market Integrity Concerns Amid Oil Futures Surge",
-      "summary": "Decentralized exchange Hyperliquid has become a popular destination for speculating on oil prices.",
-      "url": "https://decrypt.co/368101/hyperliquid-rejects-market-integrity-concerns-oil-futures-surge",
-      "publishedAt": "2026-05-15T20:24:04.000Z",
-      "keywords": [
-        "DeFi"
-      ],
-      "category": "监管",
-      "slug": "20260515-hyperliquid-policy-arm-rejects-market-integrity-concerns-amid-oil-futures-surge",
-      "localUrl": "/news/20260515-hyperliquid-policy-arm-rejects-market-integrity-concerns-amid-oil-futures-surge.html"
     }
   ]
 }
