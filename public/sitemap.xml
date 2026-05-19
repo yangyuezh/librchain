@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-19T21:42:50.783Z</lastmod>
+    <lastmod>2026-05-19T23:19:46.741Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-19T21:42:50.783Z</lastmod>
+    <lastmod>2026-05-19T23:19:46.741Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260519-trump-orders-government-fed-to-review-crypto-firms-access-to-payment-rails.html</loc>
+    <lastmod>2026-05-19T22:54:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260519-after-nearly-a-decade-gary-genslers-poster-child-for-crypto-compliance-executes-.html</loc>
+    <lastmod>2026-05-19T22:01:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260519-bernstein-bitcoin-miners-becoming-critical-suppliers-in-ai-infrastructure.html</loc>
+    <lastmod>2026-05-19T21:39:16.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260519-minnesota-bans-prediction-marketsand-is-sued-by-the-trump-admin-hours-later.html</loc>
@@ -86,7 +104,7 @@
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260519-senator-warren-questions-occ-chief-on-approval-of-ineligible-crypto-trust-charte.html</loc>
-    <lastmod>2026-05-19T17:26:05.000Z</lastmod>
+    <lastmod>2026-05-19T17:30:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -343,12 +361,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260519-echo-protocol-suffers-76-million-exploit-in-ebtc-minting-attack-on-monad.html</loc>
-    <lastmod>2026-05-19T08:42:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260519-new-ethereum-foundation-researchers-julian-ma-and-carl-beek-have-resigned-bringi.html</loc>
     <lastmod>2026-05-19T07:20:26.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -363,12 +375,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260519-ethereum-foundation-sees-2-more-high-profile-departures.html</loc>
     <lastmod>2026-05-19T07:04:27.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260519-bitgo-creates-modular-digital-asset-infrastructure-model-for-banks.html</loc>
-    <lastmod>2026-05-19T07:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -439,12 +445,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260518-this-open-source-phone-ai-agent-sees-hears-and-actsall-without-touching-the-clou.html</loc>
-    <lastmod>2026-05-18T19:13:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260518-this-is-exactly-what-everyone-said-about-crypto-any-regulation-is-bad-i-got-cruc.html</loc>
     <lastmod>2026-05-18T18:01:10.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -453,6 +453,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260518-more-ethereum-foundation-researchers-resign-ethereum-foundation-researchers-carl.html</loc>
     <lastmod>2026-05-18T17:39:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260518-lets-separate-bitcoin-which-is-a-speculative-asset-some-call-it-digital-gold-but.html</loc>
+    <lastmod>2026-05-18T15:53:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260518-iran-launches-bitcoin-based-shipping-insurance-for-hormuz-iran-has-introduced-a-.html</loc>
     <lastmod>2026-05-18T12:35:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260518-mstr-strategy-spends-2b-to-buy-more-bitcoin-in-aggressive-treasury-move-strategy.html</loc>
-    <lastmod>2026-05-18T12:23:31.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
