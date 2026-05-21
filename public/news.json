@@ -1,7 +1,210 @@
 {
-  "updatedAt": "2026-05-21T10:01:04.766Z",
+  "updatedAt": "2026-05-21T13:30:25.617Z",
   "total": 85,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's long-term holder supply approaches record high, breaking multi-year downtrend",
+      "summary": "Long-term holder supply has surged by more than 2 million coins to 16.3 million BTC during the current bear market.",
+      "url": "https://www.coindesk.com/markets/2026/05/21/bitcoin-s-long-term-holder-supply-approaches-record-high-breaking-multi-year-downtrend",
+      "publishedAt": "2026-05-21T13:23:00.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260521-bitcoins-long-term-holder-supply-approaches-record-high-breaking-multi-year-down",
+      "localUrl": "/news/20260521-bitcoins-long-term-holder-supply-approaches-record-high-breaking-multi-year-down.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CoinDesk 20 performance update: Internet Computer drops 1.6%, leading index lower",
+      "summary": "Hedera (HBAR), down 1.3% from Wednesday, joined Internet Computer (ICP) as an underperformer.",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/05/21/coindesk-20-performance-update-internet-computer-drops-1-6-leading-index-lower",
+      "publishedAt": "2026-05-21T13:16:12.000Z",
+      "keywords": [
+        "CoinDesk Indices",
+        "CoinDesk Indices",
+        "CoinDesk 20",
+        "charts",
+        "Prices",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260521-coindesk-20-performance-update-internet-computer-drops-16-leading-index-lower",
+      "localUrl": "/news/20260521-coindesk-20-performance-update-internet-computer-drops-16-leading-index-lower.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin’s ‘less aggressive demand’ may lead to months of consolidation: Analysis",
+      "summary": "Bitcoin demand and ETF flows weaken as BTC struggles below $80,000, raising risks of prolonged consolidation or a drop toward $65,000.",
+      "url": "https://cointelegraph.com/markets/bitcoins-less-aggressive-demand-may-lead-to-months-of-consolidation-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-21T12:49:34.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260521-bitcoins-less-aggressive-demand-may-lead-to-months-of-consolidation-analysis",
+      "localUrl": "/news/20260521-bitcoins-less-aggressive-demand-may-lead-to-months-of-consolidation-analysis.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stablecoins retain the edge over tokenized money market funds, JPMorgan says",
+      "summary": "The bank said tokenized money market funds account for only about 5% of the broader stablecoin universe despite offering yield.",
+      "url": "https://www.coindesk.com/business/2026/05/21/stablecoins-retain-the-edge-over-tokenized-money-market-funds-jpmorgan-says",
+      "publishedAt": "2026-05-21T12:49:17.000Z",
+      "keywords": [
+        "Finance",
+        "Stablecoins",
+        "Tokenization",
+        "JPMorgan",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260521-stablecoins-retain-the-edge-over-tokenized-money-market-funds-jpmorgan-says",
+      "localUrl": "/news/20260521-stablecoins-retain-the-edge-over-tokenized-money-market-funds-jpmorgan-says.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Terraform Accuses Jane Street of Leveraging Secret Telegram Group",
+      "summary": "New allegations claim that Jane Street made use of a private backchannel with Terraform insiders before Terra's collapse.",
+      "url": "https://decrypt.co/368599/terraform-accuses-jane-street-of-leveraging-secret-telegram-group",
+      "publishedAt": "2026-05-21T12:40:49.000Z",
+      "keywords": [
+        "terra-luna-2",
+        "terra-luna-classic",
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260521-terraform-accuses-jane-street-of-leveraging-secret-telegram-group",
+      "localUrl": "/news/20260521-terraform-accuses-jane-street-of-leveraging-secret-telegram-group.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Jane Street accused of using Terra Telegram backchannel before UST crash",
+      "summary": "The private Telegram backchannel allegedly allowed Jane Street to unwind hundreds of millions in potential exposure “mere hours before” the Terra ecosystem’s $40 billion collapse.",
+      "url": "https://cointelegraph.com/news/jane-street-accused-terra-telegram-backchannel-ust-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-21T12:38:34.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260521-jane-street-accused-of-using-terra-telegram-backchannel-before-ust-crash",
+      "localUrl": "/news/20260521-jane-street-accused-of-using-terra-telegram-backchannel-before-ust-crash.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Boerse Stuttgart taps SocGen, flatexDEGIRO for EU blockchain settlement push",
+      "summary": "Boerse Stuttgart’s Seturion has partnered with Societe Generale, SG-FORGE and flatexDEGIRO to build a pan-European blockchain securities settlement system.",
+      "url": "https://cointelegraph.com/news/boerse-stuttgart-societe-generale-flatexdegiro-team-up-for-blockchain-securities-settlement-in-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-21T12:13:58.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260521-boerse-stuttgart-taps-socgen-flatexdegiro-for-eu-blockchain-settlement-push",
+      "localUrl": "/news/20260521-boerse-stuttgart-taps-socgen-flatexdegiro-for-eu-blockchain-settlement-push.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: SpaceX Files for IPO, Shares Surprising BTC Portfolio",
+      "summary": "SpaceX is up over 100% on its BTC holdings. Hyperliquid is decoupling from crypto majors. And Ethereum is leaning hard into privacy.",
+      "url": "https://decrypt.co/368596/morning-minute-spacex-files-for-ipo-shares-surprising-btc-portfolio",
+      "publishedAt": "2026-05-21T12:03:40.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "基础设施",
+      "slug": "20260521-morning-minute-spacex-files-for-ipo-shares-surprising-btc-portfolio",
+      "localUrl": "/news/20260521-morning-minute-spacex-files-for-ipo-shares-surprising-btc-portfolio.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Fed seeks input on limited payment accounts after Trump order",
+      "summary": "The US Federal Reserve proposed a limited “skinny” payment account framework for fintech and crypto firms and called for a temporary pause on Tier 3 applications.",
+      "url": "https://cointelegraph.com/news/fed-skinny-payment-account-proposal-trump-crypto-order?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-21T11:54:16.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260521-fed-seeks-input-on-limited-payment-accounts-after-trump-order",
+      "localUrl": "/news/20260521-fed-seeks-input-on-limited-payment-accounts-after-trump-order.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "HYPE Jumps Double Digits as Hyperliquid ETFs Add $25.5M",
+      "summary": "Hyperliquid’s HYPE logged double-digit gains on the day, as ETF demand outpaced the token's supply reduction mechanism.",
+      "url": "https://decrypt.co/368593/hype-jumps-double-digits-as-hyperliquid-etfs-add-25-5m",
+      "publishedAt": "2026-05-21T11:27:44.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260521-hype-jumps-double-digits-as-hyperliquid-etfs-add-255m",
+      "localUrl": "/news/20260521-hype-jumps-double-digits-as-hyperliquid-etfs-add-255m.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "It's not all HYPE: Privacy and quantum-resistant coins advance as bitcoin marks time",
+      "summary": "Your day-ahead look for May 21, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/05/21/it-s-not-all-hype-privacy-and-quantum-resistant-coins-surge-as-bitcoin-marks-time",
+      "publishedAt": "2026-05-21T11:21:25.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260521-its-not-all-hype-privacy-and-quantum-resistant-coins-advance-as-bitcoin-marks-ti",
+      "localUrl": "/news/20260521-its-not-all-hype-privacy-and-quantum-resistant-coins-advance-as-bitcoin-marks-ti.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The $6 billion expiration countdown: Traders pile into $82,000 bitcoin calls ahead of May 29 expiry",
+      "summary": "Deribit’s bitcoin open interest has overtaken BlackRock’s IBIT as traders brace for a showdown between $75K max pain and $80K call positioning.",
+      "url": "https://www.coindesk.com/markets/2026/05/21/bitcoin-caught-between-usd75-000-max-pain-and-usd80-000-call-wall-ahead-of-usd6-25-billion-expiry",
+      "publishedAt": "2026-05-21T10:53:05.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Deribit",
+        "Options",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260521-the-6-billion-expiration-countdown-traders-pile-into-82000-bitcoin-calls-ahead-o",
+      "localUrl": "/news/20260521-the-6-billion-expiration-countdown-traders-pile-into-82000-bitcoin-calls-ahead-o.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "HYPE leads crypto rebound as traders position for volatility breakout",
+      "summary": "Bitcoin and ether stabilized as derivatives activity rebounded, HYPE rose for a fifth straight day and options traders positioned for a breakout.",
+      "url": "https://www.coindesk.com/markets/2026/05/21/hype-leads-crypto-rebound-as-traders-position-for-volatility-breakout",
+      "publishedAt": "2026-05-21T10:52:57.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260521-hype-leads-crypto-rebound-as-traders-position-for-volatility-breakout",
+      "localUrl": "/news/20260521-hype-leads-crypto-rebound-as-traders-position-for-volatility-breakout.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "OSL Strengthens Asia’s Digital Asset Ecosystem with Listing of State-Supervised Gold-Backed Stablecoin USDKG",
+      "summary": "OSL Group (863.HK) (OSL), a global stablecoin payment and trading platform, today announced that its Hong Kong-licensed digital asset exchange OSL HK has officially listed USDKG, the gold-backed stablecoin issued by the Kyrgyz Republic.",
+      "url": "https://cointelegraph.com/press-releases/osl-strengthens-asias-digital-asset-ecosystem-with-listing-of-state-supervised-gold-backed-stablecoin-usdkg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-21T10:28:20.000Z",
+      "keywords": [
+        "Press Releases"
+      ],
+      "category": "综合",
+      "slug": "20260521-osl-strengthens-asias-digital-asset-ecosystem-with-listing-of-state-supervised-g",
+      "localUrl": "/news/20260521-osl-strengthens-asias-digital-asset-ecosystem-with-listing-of-state-supervised-g.html"
+    },
     {
       "source": "CoinDesk",
       "title": "A crypto whale has made a $224,000 bet that XRP's price stays perfectly flat through June",
@@ -254,17 +457,6 @@
       "category": "RWA",
       "slug": "20260520-ofac-sanctions-sinaloa-cartel-fentanyl-trafficking-and-crypto-laundering-network",
       "localUrl": "/news/20260520-ofac-sanctions-sinaloa-cartel-fentanyl-trafficking-and-crypto-laundering-network.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "pinkies up, EYEKONS... due to incredible demand, a 2ND KATSEYE SHOW has been added in LA on Sun, Nov 22✨🖤 Tickets on sale May 21 at 3PM local time. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KS2JfY01hWV9HTDcyRmxTamxKRlJrOWdLNmladVBvX0tNLUJpMmhsOEU2N1RlTWNEZF9iQ0RnR0dtVklOWkF1UWtnVDQ0cHU2ZGFmejA2TEt2VG5iZmF1SzFyNWM0Zw?oc=5\" target=\"_blank\">pinkies up, EYEKONS... due t…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KS2JfY01hWV9HTDcyRmxTamxKRlJrOWdLNmladVBvX0tNLUJpMmhsOEU2N1RlTWNEZF9iQ0RnR0dtVklOWkF1UWtnVDQ0cHU2ZGFmejA2TEt2VG5iZmF1SzFyNWM0Zw?oc=5",
-      "publishedAt": "2026-05-20T23:00:09.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260520-pinkies-up-eyekons-due-to-incredible-demand-a-2nd-katseye-show-has-been-added-in",
-      "localUrl": "/news/20260520-pinkies-up-eyekons-due-to-incredible-demand-a-2nd-katseye-show-has-been-added-in.html"
     },
     {
       "source": "Decrypt",
@@ -612,19 +804,6 @@
       "localUrl": "/news/20260520-fairshake-pacs-20m-backing-pays-off-in-3-us-state-primaries.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Tether buys SoftBank’s stake in Bitcoin company Twenty One Capital",
-      "summary": "The stablecoin issuer bought SoftBank’s 26% stake, expanding its control over the public Bitcoin holder as it moves into lending, mining and capital markets.",
-      "url": "https://cointelegraph.com/news/tether-buys-softbank-stake-twenty-one-capital-xxi-bitcoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-20T17:33:41.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "DeFi",
-      "slug": "20260520-tether-buys-softbanks-stake-in-bitcoin-company-twenty-one-capital",
-      "localUrl": "/news/20260520-tether-buys-softbanks-stake-in-bitcoin-company-twenty-one-capital.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Prediction markets firms take heat in Senate Commerce hearing scrutinizing surge",
       "summary": "Sports betting on firms such as Kalshi was the focus of questions over advertising to children, cheating from athletes and undermining regulated gaming.",
@@ -689,41 +868,6 @@
       "localUrl": "/news/20260520-the-protocol-ethereum-foundations-high-profile-departures-spark-fresh-debate.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Why Trump's bitcoin ETF plans likely collapsed before getting off the ground",
-      "summary": "Trump Media withdrew its bitcoin ETF filing as analysts pointed to fee pressure, weak demand and fierce competition in the crowded spot bitcoin ETF market.",
-      "url": "https://www.coindesk.com/markets/2026/05/20/why-trump-s-bitcoin-etf-plans-likely-collapsed-before-even-getting-off-the-ground",
-      "publishedAt": "2026-05-20T16:35:27.000Z",
-      "keywords": [
-        "Markets",
-        "ETFs",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260520-why-trumps-bitcoin-etf-plans-likely-collapsed-before-getting-off-the-ground",
-      "localUrl": "/news/20260520-why-trumps-bitcoin-etf-plans-likely-collapsed-before-getting-off-the-ground.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: Bitcoin-backed loans belong in the cost-of-capital conversation",
-      "summary": "In this week’s Crypto Long & Short Newsletter, Alec Beckman on why BTC-backed lending is not a crypto story, but a capital efficiency story. Then, Serena Sebastiani on how stablecoins aren’t a crypto product; they’re becoming the settlemen…",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/05/20/crypto-long-and-short-bitcoin-backed-loans-belong-in-the-cost-of-capital-conversation",
-      "publishedAt": "2026-05-20T16:31:33.000Z",
-      "keywords": [
-        "CoinDesk Indices",
-        "Institutional Investors",
-        "Institutional Adoption",
-        "CoinDesk Indices",
-        "Crypto Long & Short",
-        "DeFi",
-        "Stablecoins",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260520-crypto-long-short-bitcoin-backed-loans-belong-in-the-cost-of-capital-conversatio",
-      "localUrl": "/news/20260520-crypto-long-short-bitcoin-backed-loans-belong-in-the-cost-of-capital-conversatio.html"
-    },
-    {
       "source": "X Wire",
       "title": "BITCOIN DEMAND INCREASINGLY DRIVEN BY MICHAEL SAYLOR Bitcoin’s market is becoming heavily dependent on buying by Strategy and its executive chairman Michael Saylor, as broader investor demand weakens. Strategy has bought more than 171, - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ROGl5QXo1YTl0ejdoT29leUxraFZHYXJsOWJHSUJwM0VraEJQVGRlR0VVOU44dEJQSXFWLXBWWnI3ZmZObmNDTjZLZUl6T0Y3UFBGQlRBNWo3WHg5QUE?oc=5\" target=\"_blank\">BITCOIN DEMAND INCREASINGLY DRIVEN BY M…",
@@ -733,19 +877,6 @@
       "category": "X热点",
       "slug": "20260520-bitcoin-demand-increasingly-driven-by-michael-saylor-bitcoins-market-is-becoming",
       "localUrl": "/news/20260520-bitcoin-demand-increasingly-driven-by-michael-saylor-bitcoins-market-is-becoming.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin sees fresh US sell-off as markets await Nvidia's major earnings event",
-      "summary": "Bitcoin struggles to overcome US selling pressure with markets on edge ahead of Nvidia's Q1 earnings report.",
-      "url": "https://cointelegraph.com/markets/bitcoin-sees-fresh-us-sell-off-as-markets-await-nvidia-biggest-earnings-event?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-20T16:15:44.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260520-bitcoin-sees-fresh-us-sell-off-as-markets-await-nvidias-major-earnings-event",
-      "localUrl": "/news/20260520-bitcoin-sees-fresh-us-sell-off-as-markets-await-nvidias-major-earnings-event.html"
     },
     {
       "source": "Decrypt",
@@ -783,59 +914,6 @@
       "localUrl": "/news/20260520-ready-for-a-summer-escape-introducing-the-2026-crypto-cup-great-summer-escape-a-.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-20T15:31:00.000Z",
-      "keywords": [
-        "Trump memecoin",
-        "Solana memecoin",
-        "TRUMP token",
-        "Solana",
-        "SOL",
-        "Nova Labs",
-        "SEC",
-        "Securities and Exchange Commission",
-        "Crypto regulation",
-        "TRUMP rally",
-        "Bitcoin",
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260520-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260520-heres-what-happened-in-crypto-today.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "EU opens MiCA consultation to review if crypto framework is still fit for purpose",
-      "summary": "The European Commission is seeking feedback on whether the EU’s landmark crypto regulatory framework remains suitable as digital asset markets and global policies evolve.",
-      "url": "https://www.coindesk.com/policy/2026/05/20/eu-opens-mica-consultation-to-review-if-crypto-framework-is-still-fit-for-purpose",
-      "publishedAt": "2026-05-20T15:26:29.000Z",
-      "keywords": [
-        "Policy",
-        "MiCA",
-        "Regulation",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260520-eu-opens-mica-consultation-to-review-if-crypto-framework-is-still-fit-for-purpos",
-      "localUrl": "/news/20260520-eu-opens-mica-consultation-to-review-if-crypto-framework-is-still-fit-for-purpos.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Nearly 10% of Bitcoin supply is ‘structurally unsafe’ from quantum breakthrough: Glassnode",
-      "summary": "Analytics provider Glassnode identified 10% of Bitcoin supply as structurally exposed to a quantum breakthrough, underscoring the need for a quantum-proof implementation such as BIP-360.",
-      "url": "https://cointelegraph.com/news/nearly-10-bitcoin-supply-structurally-unsafe-quantum-breakthrough-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-20T15:17:46.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260520-nearly-10-of-bitcoin-supply-is-structurally-unsafe-from-quantum-breakthrough-gla",
-      "localUrl": "/news/20260520-nearly-10-of-bitcoin-supply-is-structurally-unsafe-from-quantum-breakthrough-gla.html"
-    },
-    {
       "source": "Decrypt",
       "title": "South Carolina Passes Law Banning CBDCs While Protecting Crypto Users, Bitcoin Miners",
       "summary": "The crypto-friendly legislation was signed into law on Tuesday, granting protections to crypto users, developers, and Bitcoin miners.",
@@ -860,51 +938,6 @@
       "localUrl": "/news/20260520-new-sec-commissioner-and-head-of-the-crypto-task-force-hesterpeirce-will-join-vi.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto campaign cash from Fairshake flooded Southern primaries, picked winners",
-      "summary": "The leading industry super PAC claimed a \"6-0 sweep\" in the primaries in Kentucky, Alabama and Georgia, though one big race awaits a runoff.",
-      "url": "https://www.coindesk.com/policy/2026/05/20/crypto-campaign-cash-from-fairshake-flooded-southern-primaries-picked-winners",
-      "publishedAt": "2026-05-20T14:59:28.000Z",
-      "keywords": [
-        "Policy",
-        "Election 2026",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260520-crypto-campaign-cash-from-fairshake-flooded-southern-primaries-picked-winners",
-      "localUrl": "/news/20260520-crypto-campaign-cash-from-fairshake-flooded-southern-primaries-picked-winners.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ethereum traders warn of ‘nasty’ ETH price drop if $2K support breaks",
-      "summary": "Ethereum is flashing a warning of a familiar bearish pattern that preceded a 41% drop in January, raising risks of a fresh breakdown.",
-      "url": "https://cointelegraph.com/markets/ethereum-traders-warn-of-a-nasty-eth-price-drop-if-2k-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-20T14:50:59.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "基础设施",
-      "slug": "20260520-ethereum-traders-warn-of-nasty-eth-price-drop-if-2k-support-breaks",
-      "localUrl": "/news/20260520-ethereum-traders-warn-of-nasty-eth-price-drop-if-2k-support-breaks.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "South Korean funeral company reveals $33 million loss on leveraged ether ETF bet",
-      "summary": "A Seoul-based funeral services firm disclosed tens of millions of dollars in unrealized losses tied to leveraged ether ETF investments.",
-      "url": "https://www.coindesk.com/markets/2026/05/20/south-korean-funeral-company-reveals-usd33m-loss-on-leveraged-ether-etf-bet",
-      "publishedAt": "2026-05-20T14:46:57.000Z",
-      "keywords": [
-        "Markets",
-        "ETFs",
-        "South Korea",
-        "Ethereum News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260520-south-korean-funeral-company-reveals-33-million-loss-on-leveraged-ether-etf-bet",
-      "localUrl": "/news/20260520-south-korean-funeral-company-reveals-33-million-loss-on-leveraged-ether-etf-bet.html"
-    },
-    {
       "source": "Decrypt",
       "title": "AI Watchdog Warns of 'Rogue Deployment' Risk at Top Labs, With Capabilities Growing Fast",
       "summary": "Independent assessment finds AI agents at major companies can cheat, deceive, and work unsupervised—but lack the sophistication for a sustained takeover.",
@@ -918,20 +951,15 @@
       "localUrl": "/news/20260520-ai-watchdog-warns-of-rogue-deployment-risk-at-top-labs-with-capabilities-growing.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Live markets: SpaceX files for massive IPO as Nvidia earnings beat Street expectations",
-      "summary": "Bitcoin is lower by more than 4% over the past week, but has remained in a very tight range around $77,000 for the last three days.",
-      "url": "https://www.coindesk.com/markets/2026/05/20/live-markets-crypto-prices-remain-flat-ahead-of-fomc-minutes-nvidia-earnings",
-      "publishedAt": "2026-05-20T14:13:49.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Live News",
-        "live_news"
-      ],
-      "category": "市场",
-      "slug": "20260520-live-markets-spacex-files-for-massive-ipo-as-nvidia-earnings-beat-street-expecta",
-      "localUrl": "/news/20260520-live-markets-spacex-files-for-massive-ipo-as-nvidia-earnings-beat-street-expecta.html"
+      "source": "X Wire",
+      "title": "HUGE: CZ said, “U.S. banks are buying Bitcoin.” The next bull market will be absolutely wild. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SeW9MQzBWMmhpVnc5M1B3UU0xaExjSTlSR1ZHdThZT0M5eWNrV1lUREdXZ3pxRW16cW9HV3RHZi1TTG1NdHVTRjFfcHpvbm9RTGhRY0s3TDh3MWhYQVQxUXZB?oc=5\" target=\"_blank\">HUGE: CZ said, “U.S. banks are buy…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SeW9MQzBWMmhpVnc5M1B3UU0xaExjSTlSR1ZHdThZT0M5eWNrV1lUREdXZ3pxRW16cW9HV3RHZi1TTG1NdHVTRjFfcHpvbm9RTGhRY0s3TDh3MWhYQVQxUXZB?oc=5",
+      "publishedAt": "2026-05-20T14:03:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260520-huge-cz-said-us-banks-are-buying-bitcoin-the-next-bull-market-will-be-absolutely",
+      "localUrl": "/news/20260520-huge-cz-said-us-banks-are-buying-bitcoin-the-next-bull-market-will-be-absolutely.html"
     },
     {
       "source": "Decrypt",
@@ -971,19 +999,6 @@
       "category": "市场",
       "slug": "20260520-morning-minute-markets-flip-green-overnight-ahead-of-nvda-earnings",
       "localUrl": "/news/20260520-morning-minute-markets-flip-green-overnight-ahead-of-nvda-earnings.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Trump Orders Fed to Review Crypto Firms’ Access to Master Accounts",
-      "summary": "The order asks the Fed to review crypto firms’ access to payment rails, putting its control over master accounts under scrutiny.",
-      "url": "https://decrypt.co/368431/trump-orders-fed-to-review-crypto-firms-access-to-master-accounts",
-      "publishedAt": "2026-05-20T12:15:20.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "综合",
-      "slug": "20260520-trump-orders-fed-to-review-crypto-firms-access-to-master-accounts",
-      "localUrl": "/news/20260520-trump-orders-fed-to-review-crypto-firms-access-to-master-accounts.html"
     },
     {
       "source": "Solana Blog",
@@ -1029,19 +1044,6 @@
       "localUrl": "/news/20260520-breaking-massive-breakthrough-for-bitcoin-white-house-says-strategic-btc-reserve.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Trump's Truth Social Pulls Bitcoin ETF Application From SEC Review",
-      "summary": "Trump Media & Technology Group has withdrawn its Form S-1 registrations for Bitcoin and Bitcoin-Ethereum ETFs.",
-      "url": "https://decrypt.co/368428/trumps-truth-social-pulls-bitcoin-etf-application-from-sec-review",
-      "publishedAt": "2026-05-20T10:04:26.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260520-trumps-truth-social-pulls-bitcoin-etf-application-from-sec-review",
-      "localUrl": "/news/20260520-trumps-truth-social-pulls-bitcoin-etf-application-from-sec-review.html"
-    },
-    {
       "source": "X Wire",
       "title": "Attended the 5th #NoMoneyForTerror Ministerial Conference in #Paris and joined the panel on “Preventing the Misuse of Financial Innovation for Terrorism Financing.” Key takeaways: 1/ Financial innovation is a double-edged sword. The same features that m - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uTEhpMHBvLTU4YW9wNl85S2RrMGNxYVNiQ1d0c1hUQllHSGtLWDUtQlh3S3ZtQnlxUkRJR2pzcm1hS1lkNTk1Y050M1RMelFfZWhNdWkxY2E3NzRuMlRXVWhR?oc=5\" target=\"_blank\">Attended the 5th #NoMoneyForTerror…",
@@ -1065,17 +1067,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Arthur Hayes: Trump Should Veto the CLARITY Act BitMEX founder Arthur Hayes @CryptoHayes said in a May 13 interview with The Wolf Of All Streets that he hopes Trump vetoes the CLARITY Act. He argued that if Bitcoin and crypto need regulation to surviv - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PbDNOVnV1WERGZ2hxdWRnalVQRGU0V2VaalhGS3R5TThmeGZxZUVyX1Y1ZGNvcGdfQThaaEdTVHVkZGZsVGhZOWthS3BfbnJUcUlTWkt4U29WQnQwVllrOGE2RQ?oc=5\" target=\"_blank\">Arthur Hayes: Trump Should Veto …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PbDNOVnV1WERGZ2hxdWRnalVQRGU0V2VaalhGS3R5TThmeGZxZUVyX1Y1ZGNvcGdfQThaaEdTVHVkZGZsVGhZOWthS3BfbnJUcUlTWkt4U29WQnQwVllrOGE2RQ?oc=5",
-      "publishedAt": "2026-05-20T07:55:44.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260520-arthur-hayes-trump-should-veto-the-clarity-act-bitmex-founder-arthur-hayes-crypt",
-      "localUrl": "/news/20260520-arthur-hayes-trump-should-veto-the-clarity-act-bitmex-founder-arthur-hayes-crypt.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Short-term things being done to shift Ethereum toward native privacy: * AA + FOCIL (makes privacy protocol txs, among many other things, first-class with strong inclusion guarantees) * Keyed nonces: x.com/soispoke/statu… * Access-layer work (Kohaku, privat - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyNGdtVXFWZTdNQmg1bElGNXVfUWw4czJlWkEybDhReXlKcFByTUt1Q2lWN00tWEpKNGdZZTN0LW5RUkdKbWZUazB6MXRBdUZUMzUzelhIeEFkMDJaaVBYbjlnMWU4QQ?oc=5\" target=\"_blank\">Short-term things being done…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyNGdtVXFWZTdNQmg1bElGNXVfUWw4czJlWkEybDhReXlKcFByTUt1Q2lWN00tWEpKNGdZZTN0LW5RUkdKbWZUazB6MXRBdUZUMzUzelhIeEFkMDJaaVBYbjlnMWU4QQ?oc=5",
@@ -1086,17 +1077,15 @@
       "localUrl": "/news/20260520-short-term-things-being-done-to-shift-ethereum-toward-native-privacy-aa-focil-ma.html"
     },
     {
-      "source": "Decrypt",
-      "title": "After Nearly a Decade, Gary Gensler's Poster Child for Crypto Compliance Executes Its First Trade",
-      "summary": "After weathering years of industry skepticism and navigating a shifting regulatory landscape, Prometheum executed its first crypto trades.",
-      "url": "https://decrypt.co/368409/gary-gensler-poster-child-crypto-compliance-executes-first-trade",
-      "publishedAt": "2026-05-19T22:01:04.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260519-after-nearly-a-decade-gary-genslers-poster-child-for-crypto-compliance-executes-",
-      "localUrl": "/news/20260519-after-nearly-a-decade-gary-genslers-poster-child-for-crypto-compliance-executes-.html"
+      "source": "X Wire",
+      "title": "Young Crypto Traders Share Stories of Early Big Losses - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NX2lWWkVIM0FKTXpEcVYwR2x4VFIzTGNtcElXUE04MHpfblU0SUhMd2d6aVRxVmNDVFdVNVVVZFhFOUFfRTljdVJFWmc0dG5nbG9ZeUVlUQ?oc=5\" target=\"_blank\">Young Crypto Traders Share Stories of Early Big …",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NX2lWWkVIM0FKTXpEcVYwR2x4VFIzTGNtcElXUE04MHpfblU0SUhMd2d6aVRxVmNDVFdVNVVVZFhFOUFfRTljdVJFWmc0dG5nbG9ZeUVlUQ?oc=5",
+      "publishedAt": "2026-05-19T19:52:22.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260519-young-crypto-traders-share-stories-of-early-big-losses-xcom",
+      "localUrl": "/news/20260519-young-crypto-traders-share-stories-of-early-big-losses-xcom.html"
     },
     {
       "source": "X Wire",
