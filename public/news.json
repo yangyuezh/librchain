@@ -1,7 +1,165 @@
 {
-  "updatedAt": "2026-05-22T08:30:34.577Z",
+  "updatedAt": "2026-05-22T11:52:51.876Z",
   "total": 85,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin left behind in the geopolitical melee",
+      "summary": "Your day-ahead look for May 22, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/05/22/bitcoin-left-behind-in-the-geopolitical-melee",
+      "publishedAt": "2026-05-22T11:31:30.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260522-bitcoin-left-behind-in-the-geopolitical-melee",
+      "localUrl": "/news/20260522-bitcoin-left-behind-in-the-geopolitical-melee.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "NEAR Protocol Jumps 28% on Privacy, AI, and Scaling Upgrades",
+      "summary": "NEAR rallied by 45% this week on a series of upgrades positioning it as a potential settlement layer for AI agents and confidential finance.",
+      "url": "https://decrypt.co/368737/near-protocol-jumps-28-on-privacy-ai-and-scaling-upgrades",
+      "publishedAt": "2026-05-22T11:30:22.000Z",
+      "keywords": [
+        "near",
+        "Markets"
+      ],
+      "category": "基础设施",
+      "slug": "20260522-near-protocol-jumps-28-on-privacy-ai-and-scaling-upgrades",
+      "localUrl": "/news/20260522-near-protocol-jumps-28-on-privacy-ai-and-scaling-upgrades.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Polymarket seeks Japan entry despite gambling law hurdles: Report",
+      "summary": "Polymarket is reportedly seeking entry into Japan amid falling trading volumes and rising regulatory scrutiny, targeting approval by 2030.",
+      "url": "https://cointelegraph.com/news/polymarket-seeks-japan-entry-global-regulatory-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-22T10:57:31.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260522-polymarket-seeks-japan-entry-despite-gambling-law-hurdles-report",
+      "localUrl": "/news/20260522-polymarket-seeks-japan-entry-despite-gambling-law-hurdles-report.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ark Invest buys $12.5 million of Bullish stock in four days",
+      "summary": "Ark frequently uses broader digital asset downturns, which tend to pull crypto equities lower, as an entry point into cryptocurrency companies.",
+      "url": "https://www.coindesk.com/markets/2026/05/22/ark-invest-buys-usd12-5-million-of-bullish-stock-in-four-days",
+      "publishedAt": "2026-05-22T10:45:29.000Z",
+      "keywords": [
+        "Markets",
+        "Bullish",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260522-ark-invest-buys-125-million-of-bullish-stock-in-four-days",
+      "localUrl": "/news/20260522-ark-invest-buys-125-million-of-bullish-stock-in-four-days.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Polymarket Taps Jupiter Exec to Lead Japan Push: Report",
+      "summary": "The prediction market has reportedly appointed a representative in Japan as it aims to secure authorization to operate there by 2030.",
+      "url": "https://decrypt.co/368734/polymarket-taps-jupiter-exec-to-lead-japan-push-report",
+      "publishedAt": "2026-05-22T10:29:48.000Z",
+      "keywords": [
+        "polygon",
+        "Business"
+      ],
+      "category": "监管",
+      "slug": "20260522-polymarket-taps-jupiter-exec-to-lead-japan-push-report",
+      "localUrl": "/news/20260522-polymarket-taps-jupiter-exec-to-lead-japan-push-report.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto majors stuck in tight range as altcoin rotation picks up steam",
+      "summary": "Bitcoin holds between $76,000 and $78,000 while AI tokens and HYPE surge; derivatives signal calm conditions with volatility selling dominating options markets.",
+      "url": "https://www.coindesk.com/markets/2026/05/22/crypto-majors-stuck-in-tight-range-as-altcoin-rotation-picks-up-steam",
+      "publishedAt": "2026-05-22T10:23:48.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260522-crypto-majors-stuck-in-tight-range-as-altcoin-rotation-picks-up-steam",
+      "localUrl": "/news/20260522-crypto-majors-stuck-in-tight-range-as-altcoin-rotation-picks-up-steam.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Polymarket team says user funds safe as exploit losses climb above $600K",
+      "summary": "Polymarket said user funds and market resolution were safe after a suspected private key compromise tied to top-up operations.",
+      "url": "https://cointelegraph.com/news/polymarket-uma-adapter-appears-exploited-520k-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-22T10:19:06.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260522-polymarket-team-says-user-funds-safe-as-exploit-losses-climb-above-600k",
+      "localUrl": "/news/20260522-polymarket-team-says-user-funds-safe-as-exploit-losses-climb-above-600k.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "ZachXBT flags $520K Polymarket exploit on Polygon, team says funds are safe",
+      "summary": "Blockchain investigator ZachXBT has highlighted a suspected security breach involving Polymarket, the world’s largest decentralized prediction market platform.",
+      "url": "https://www.coindesk.com/markets/2026/05/22/zachxbt-flags-usd520k-polymarket-exploit-on-polygon-team-says-funds-are-safe",
+      "publishedAt": "2026-05-22T09:39:55.000Z",
+      "keywords": [
+        "Markets",
+        "Polymarket",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260522-zachxbt-flags-520k-polymarket-exploit-on-polygon-team-says-funds-are-safe",
+      "localUrl": "/news/20260522-zachxbt-flags-520k-polymarket-exploit-on-polygon-team-says-funds-are-safe.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Verus bridge exploiter returns $8.5M after bounty offer",
+      "summary": "The hacker behind the Verus bridge exploit returned 75% of the stolen funds as part of a recovery deal negotiated with the protocol days after the incident.",
+      "url": "https://cointelegraph.com/news/verus-bridge-hacker-returns-85m-eth-28m-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-22T09:32:03.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260522-verus-bridge-exploiter-returns-85m-after-bounty-offer",
+      "localUrl": "/news/20260522-verus-bridge-exploiter-returns-85m-after-bounty-offer.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Near Protocol to automate its own growth and its token is skyrocketing",
+      "summary": "Near Protocol will introduce dynamic resharding in June, allowing the blockchain to automatically add shards as demand grows without human intervention.",
+      "url": "https://www.coindesk.com/markets/2026/05/22/near-protocol-to-automate-its-own-growth-and-its-token-is-skyrocketing",
+      "publishedAt": "2026-05-22T08:52:32.000Z",
+      "keywords": [
+        "Markets",
+        "DeFi",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260522-near-protocol-to-automate-its-own-growth-and-its-token-is-skyrocketing",
+      "localUrl": "/news/20260522-near-protocol-to-automate-its-own-growth-and-its-token-is-skyrocketing.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Polymarket aims for prediction market approval in Japan by 2030",
+      "summary": "Mike Eidlin, head of Japan at cryptocurrency exchange Jupiter, is leading Polymarket's efforts, according to reports.",
+      "url": "https://www.coindesk.com/policy/2026/05/22/polymarket-aims-for-prediction-market-approval-in-japan-by-2030",
+      "publishedAt": "2026-05-22T08:34:13.000Z",
+      "keywords": [
+        "Policy",
+        "Polymarket",
+        "Japan",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260522-polymarket-aims-for-prediction-market-approval-in-japan-by-2030",
+      "localUrl": "/news/20260522-polymarket-aims-for-prediction-market-approval-in-japan-by-2030.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin implied volatility drops to 7 month low despite macro risks",
@@ -17,6 +175,30 @@
       "category": "市场",
       "slug": "20260522-bitcoin-implied-volatility-drops-to-7-month-low-despite-macro-risks",
       "localUrl": "/news/20260522-bitcoin-implied-volatility-drops-to-7-month-low-despite-macro-risks.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price record 90-day uptrend 'resembles bull market rally:' New analysis",
+      "summary": "Bitcoin rallied for 90 days after its dip below $60,000, breaking the record for the longest uptrend within a bear market in BTC price history.",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-record-90-day-uptrend-resembles-bull-market-rally-new-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-22T08:12:28.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260522-bitcoin-price-record-90-day-uptrend-resembles-bull-market-rally-new-analysis",
+      "localUrl": "/news/20260522-bitcoin-price-record-90-day-uptrend-resembles-bull-market-rally-new-analysis.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "WILL HYPE HIT $100? Crypto traders predict that HYPE has a 30% chance of hitting $100 before the end of this year - odds doubled since only last week. They also predict HYPE has a 67% chance of hitting new highs at $66, and 59% chance of hitting $70. W - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ONjgwbEVhMmxLT1MtbVVlNTlnc2x5MjhkeExLNGppVFZPT2NpdnhRSHc0Mm9jczZvbE01MkoyTktxV0ZwNG43VzlScEtrQUpxQzU3YW9MVE1aM1U?oc=5\" target=\"_blank\">WILL HYPE HIT $100? Crypto traders predict …",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ONjgwbEVhMmxLT1MtbVVlNTlnc2x5MjhkeExLNGppVFZPT2NpdnhRSHc0Mm9jczZvbE01MkoyTktxV0ZwNG43VzlScEtrQUpxQzU3YW9MVE1aM1U?oc=5",
+      "publishedAt": "2026-05-22T07:59:06.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260522-will-hype-hit-100-crypto-traders-predict-that-hype-has-a-30-chance-of-hitting-10",
+      "localUrl": "/news/20260522-will-hype-hit-100-crypto-traders-predict-that-hype-has-a-30-chance-of-hitting-10.html"
     },
     {
       "source": "Cointelegraph",
@@ -337,6 +519,17 @@
     },
     {
       "source": "X Wire",
+      "title": "⚡️ LATEST: Dankrad Feist of Tempo Labs and the Ethereum Foundation said Ethereum needs a new $1B+ organization funded by staking revenue and aligned with ETH growth to “get Ethereum back to winning.” - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZWGlfOUtyOGNva1daa0dOOWtjZTZzS1ZMajYtR1EweUl3TldFaUZ3UjUyWjlENDA5RkRHZXJ5WlRoazNrU1VvUmFLRUxPM091WXV3d1VvUkl5MzNtbGdwMnJzWms?oc=5\" target=\"_blank\">⚡️ LATEST: Dankrad Feist of Tem…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZWGlfOUtyOGNva1daa0dOOWtjZTZzS1ZMajYtR1EweUl3TldFaUZ3UjUyWjlENDA5RkRHZXJ5WlRoazNrU1VvUmFLRUxPM091WXV3d1VvUkl5MzNtbGdwMnJzWms?oc=5",
+      "publishedAt": "2026-05-21T19:50:16.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260521-latest-dankrad-feist-of-tempo-labs-and-the-ethereum-foundation-said-ethereum-nee",
+      "localUrl": "/news/20260521-latest-dankrad-feist-of-tempo-labs-and-the-ethereum-foundation-said-ethereum-nee.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Agree with @RyanSAdams that a deep bench of leaders and developers are ready to ensure $ETH remains the future settlement layer of finance and AI - to me, much of bearish sentiment reflects the disdain and despair seen at the nadir of crypto winter (finger - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE02TmJkYW1vS3g3Y2daZzZkcUxzMnZFVDgxVmVoNHB3QzRJMWszblVuSUx0YlNqc0VQalZ2ZDVhS0pIWXBMWV90WEFheENLY1AwTVBiUEZvT0NDUllmSkhv?oc=5\" target=\"_blank\">Agree with @RyanSAdams that a deep ben…",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02TmJkYW1vS3g3Y2daZzZkcUxzMnZFVDgxVmVoNHB3QzRJMWszblVuSUx0YlNqc0VQalZ2ZDVhS0pIWXBMWV90WEFheENLY1AwTVBiUEZvT0NDUllmSkhv?oc=5",
@@ -517,6 +710,17 @@
       "localUrl": "/news/20260521-us-government-makes-2-billion-bet-on-quantum-computing-as-threat-to-bitcoin-grow.html"
     },
     {
+      "source": "X Wire",
+      "title": "LATEST: Mark Cuban reveals he sold \"most\" of his $BTC \"Bitcoin has lost the plot\" h/t Portfolio Players - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hTks3SDhJdk9TY0R3MGRkbW56RHZxMXkxeEk1RVNiNDh1REF6eHpaU1hXMEpKVUR0enFCM3h3eW9tUTFrbXJfbk1McE9zaGEyejdrLUlWWW1oX1hBa1E?oc=5\" target=\"_blank\">LATEST: Mark Cuban reveals he sold \"mos…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hTks3SDhJdk9TY0R3MGRkbW56RHZxMXkxeEk1RVNiNDh1REF6eHpaU1hXMEpKVUR0enFCM3h3eW9tUTFrbXJfbk1McE9zaGEyejdrLUlWWW1oX1hBa1E?oc=5",
+      "publishedAt": "2026-05-21T17:19:27.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260521-latest-mark-cuban-reveals-he-sold-most-of-his-btc-bitcoin-has-lost-the-plot-ht-p",
+      "localUrl": "/news/20260521-latest-mark-cuban-reveals-he-sold-most-of-his-btc-bitcoin-has-lost-the-plot-ht-p.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Ethereum’s identity crisis is deepening after high-profile 'brain drain' frustrates the community",
       "summary": "What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members.",
@@ -544,32 +748,6 @@
       "category": "监管",
       "slug": "20260521-crypto-exchange-kraken-secures-vara-license-to-launch-in-dubai",
       "localUrl": "/news/20260521-crypto-exchange-kraken-secures-vara-license-to-launch-in-dubai.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin accumulation trends weaken as realized losses jump to $600M",
-      "summary": "Bitcoin whales and investors shift to distribution as realized losses surge past $600 million, as BTC price declines toward $76,000.",
-      "url": "https://cointelegraph.com/markets/bitcoin-accumulation-trends-weaken-as-realized-losses-jump-to-600m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-21T16:21:13.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260521-bitcoin-accumulation-trends-weaken-as-realized-losses-jump-to-600m",
-      "localUrl": "/news/20260521-bitcoin-accumulation-trends-weaken-as-realized-losses-jump-to-600m.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin due '5%+' move as analysis stays bullish on BTC price outlook",
-      "summary": "Bitcoin should shift 5% or more \"soon\" with $77,000 staying the focus amid mixed messages over the latest US-Iran peace deal plans.",
-      "url": "https://cointelegraph.com/markets/bitcoin-due-5-move-as-analysis-stays-bullish-on-btc-price-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-21T15:50:16.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260521-bitcoin-due-5-move-as-analysis-stays-bullish-on-btc-price-outlook",
-      "localUrl": "/news/20260521-bitcoin-due-5-move-as-analysis-stays-bullish-on-btc-price-outlook.html"
     },
     {
       "source": "Decrypt",
@@ -600,17 +778,6 @@
       "category": "监管",
       "slug": "20260521-crypto-prediction-markets-are-turning-into-dangerous-national-security-risks-and",
       "localUrl": "/news/20260521-crypto-prediction-markets-are-turning-into-dangerous-national-security-risks-and.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Get @RedotPay via SoSoValue EXP ( sosovalue.com/exp). RedotPay is a global stablecoin based payment fintech that integrates blockchain with traditional banking. RedotPay supports crypto enthusiasts and empowers millions around the world to spend an - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuNlk5VzZWcjVnSjJ6YThpVGhfdlA1b0t0ejQ5ajhUVHB4Y3ZmcThXS1EweExkQ3FaTlBhWUI4c1dGZzRJOVB0UGFsblJra2RyYU8zVnJsa0tCVUFQQTV6Q19PMnU4Vk0?oc=5\" target=\"_blank\">Get @RedotPay via SoSoValue…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuNlk5VzZWcjVnSjJ6YThpVGhfdlA1b0t0ejQ5ajhUVHB4Y3ZmcThXS1EweExkQ3FaTlBhWUI4c1dGZzRJOVB0UGFsblJra2RyYU8zVnJsa0tCVUFQQTV6Q19PMnU4Vk0?oc=5",
-      "publishedAt": "2026-05-21T15:14:53.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260521-get-redotpay-via-sosovalue-exp-sosovaluecomexp-redotpay-is-a-global-stablecoin-b",
-      "localUrl": "/news/20260521-get-redotpay-via-sosovalue-exp-sosovaluecomexp-redotpay-is-a-global-stablecoin-b.html"
     },
     {
       "source": "CoinDesk",
@@ -661,41 +828,15 @@
       "localUrl": "/news/20260521-crypto-exchange-blockchaincom-files-for-ipo-in-the-us.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "IG Europe taps Bitpanda to expand crypto trading across Europe",
-      "summary": "IG Group, which launched spot crypto in the UK last year, is bringing the service to European investors through Bitpanda’s infrastructure.",
-      "url": "https://cointelegraph.com/news/ig-europe-taps-bitpanda-to-expand-crypto-trading-across-the-bloc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-21T14:50:23.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260521-ig-europe-taps-bitpanda-to-expand-crypto-trading-across-europe",
-      "localUrl": "/news/20260521-ig-europe-taps-bitpanda-to-expand-crypto-trading-across-europe.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-21T14:45:16.000Z",
-      "keywords": [
-        "Trump memecoin",
-        "Solana memecoin",
-        "TRUMP token",
-        "Solana",
-        "SOL",
-        "Nova Labs",
-        "SEC",
-        "Securities and Exchange Commission",
-        "Crypto regulation",
-        "TRUMP rally",
-        "Bitcoin",
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260521-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260521-heres-what-happened-in-crypto-today.html"
+      "source": "X Wire",
+      "title": "🚨Congressman Nick Begich just introduced landmark Strategic Bitcoin Reserve legislation. ARMA — the American Reserve Modernization Act — would put the U.S. Strategic Bitcoin Reserve on permanent legal footing: requiring 20 year long-term Bitcoin hold - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwanVPUG0tbFNCV1pxVmxCVDJGSXpDYTdpZEExcU16Zm14bmI5akllVkszRmo4b0tKYjhITS00NGRaZUZmM2N4NVBpNmRtUUJaS056T0V3S2k1MnRuYl9rWmxQTWs?oc=5\" target=\"_blank\">🚨Congressman Nick Begich just …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwanVPUG0tbFNCV1pxVmxCVDJGSXpDYTdpZEExcU16Zm14bmI5akllVkszRmo4b0tKYjhITS00NGRaZUZmM2N4NVBpNmRtUUJaS056T0V3S2k1MnRuYl9rWmxQTWs?oc=5",
+      "publishedAt": "2026-05-21T14:52:58.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260521-congressman-nick-begich-just-introduced-landmark-strategic-bitcoin-reserve-legis",
+      "localUrl": "/news/20260521-congressman-nick-begich-just-introduced-landmark-strategic-bitcoin-reserve-legis.html"
     },
     {
       "source": "Decrypt",
@@ -803,56 +944,6 @@
       "localUrl": "/news/20260521-blockchaincom-files-with-sec-for-us-ipo.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin's long-term holder supply approaches record high, breaking multi-year downtrend",
-      "summary": "Long-term holder supply has surged by more than 2 million coins to 16.3 million BTC during the current bear market.",
-      "url": "https://www.coindesk.com/markets/2026/05/21/bitcoin-s-long-term-holder-supply-approaches-record-high-breaking-multi-year-downtrend",
-      "publishedAt": "2026-05-21T13:23:00.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260521-bitcoins-long-term-holder-supply-approaches-record-high-breaking-multi-year-down",
-      "localUrl": "/news/20260521-bitcoins-long-term-holder-supply-approaches-record-high-breaking-multi-year-down.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "CoinDesk 20 performance update: Internet Computer drops 1.6%, leading index lower",
-      "summary": "Hedera (HBAR), down 1.3% from Wednesday, joined Internet Computer (ICP) as an underperformer.",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/05/21/coindesk-20-performance-update-internet-computer-drops-1-6-leading-index-lower",
-      "publishedAt": "2026-05-21T13:16:12.000Z",
-      "keywords": [
-        "CoinDesk Indices",
-        "CoinDesk Indices",
-        "CoinDesk 20",
-        "charts",
-        "Prices",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260521-coindesk-20-performance-update-internet-computer-drops-16-leading-index-lower",
-      "localUrl": "/news/20260521-coindesk-20-performance-update-internet-computer-drops-16-leading-index-lower.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Stablecoins retain the edge over tokenized money market funds, JPMorgan says",
-      "summary": "The bank said tokenized money market funds account for only about 5% of the broader stablecoin universe despite offering yield.",
-      "url": "https://www.coindesk.com/business/2026/05/21/stablecoins-retain-the-edge-over-tokenized-money-market-funds-jpmorgan-says",
-      "publishedAt": "2026-05-21T12:49:17.000Z",
-      "keywords": [
-        "Finance",
-        "Stablecoins",
-        "Tokenization",
-        "JPMorgan",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260521-stablecoins-retain-the-edge-over-tokenized-money-market-funds-jpmorgan-says",
-      "localUrl": "/news/20260521-stablecoins-retain-the-edge-over-tokenized-money-market-funds-jpmorgan-says.html"
-    },
-    {
       "source": "X Wire",
       "title": "The way to save Ethereum: The community needs to create an organization that's economically aligned with Ethereum and accountable to it. The EF now holds less than 0.1% of all ETH. There is no flow of Ethereum staking or fee revenues to it. If we want to g - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzVFVCUU9WdDhsMEp4VzY1elNvdk4xdER2VjhrTlVLQ2RhWkZkcXdLLXFyTWRmZ1F5MUVUMFVSWVZoU2hZbjZFWGdhaVJNeUtCTGlmLTBIQ3RzWmJi?oc=5\" target=\"_blank\">The way to save Ethereum: The community ne…",
@@ -862,21 +953,6 @@
       "category": "X热点",
       "slug": "20260521-the-way-to-save-ethereum-the-community-needs-to-create-an-organization-thats-eco",
       "localUrl": "/news/20260521-the-way-to-save-ethereum-the-community-needs-to-create-an-organization-thats-eco.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Terraform Accuses Jane Street of Using Insider Telegram Group Ahead of $40B UST-LUNA Collapse",
-      "summary": "New allegations claim that Jane Street made use of a private backchannel with Terraform insiders before Terra's collapse.",
-      "url": "https://decrypt.co/368599/terraform-accuses-jane-street-of-leveraging-secret-telegram-group",
-      "publishedAt": "2026-05-21T12:40:49.000Z",
-      "keywords": [
-        "terra-luna-2",
-        "terra-luna-classic",
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260521-terraform-accuses-jane-street-of-using-insider-telegram-group-ahead-of-40b-ust-l",
-      "localUrl": "/news/20260521-terraform-accuses-jane-street-of-using-insider-telegram-group-ahead-of-40b-ust-l.html"
     },
     {
       "source": "X Wire",
@@ -890,64 +966,15 @@
       "localUrl": "/news/20260521-i-think-ethereums-original-sin-was-not-considering-tokenomics-with-every-move-it.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Morning Minute: SpaceX Files for IPO, Shares Surprising BTC Portfolio",
-      "summary": "SpaceX is up over 100% on its BTC holdings. Hyperliquid is decoupling from crypto majors. And Ethereum is leaning hard into privacy.",
-      "url": "https://decrypt.co/368596/morning-minute-spacex-files-for-ipo-shares-surprising-btc-portfolio",
-      "publishedAt": "2026-05-21T12:03:40.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "基础设施",
-      "slug": "20260521-morning-minute-spacex-files-for-ipo-shares-surprising-btc-portfolio",
-      "localUrl": "/news/20260521-morning-minute-spacex-files-for-ipo-shares-surprising-btc-portfolio.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "It's not all HYPE: Privacy and quantum-resistant coins advance as bitcoin coasts",
-      "summary": "Your day-ahead look for May 21, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/05/21/it-s-not-all-hype-privacy-and-quantum-resistant-coins-surge-as-bitcoin-marks-time",
-      "publishedAt": "2026-05-21T11:21:25.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260521-its-not-all-hype-privacy-and-quantum-resistant-coins-advance-as-bitcoin-coasts",
-      "localUrl": "/news/20260521-its-not-all-hype-privacy-and-quantum-resistant-coins-advance-as-bitcoin-coasts.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The $6 billion expiration countdown: Traders pile into $82,000 bitcoin calls ahead of May 29 expiry",
-      "summary": "Deribit’s bitcoin open interest has overtaken BlackRock’s IBIT as traders brace for a showdown between $75K max pain and $80K call positioning.",
-      "url": "https://www.coindesk.com/markets/2026/05/21/bitcoin-caught-between-usd75-000-max-pain-and-usd80-000-call-wall-ahead-of-usd6-25-billion-expiry",
-      "publishedAt": "2026-05-21T10:53:05.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Deribit",
-        "Options",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260521-the-6-billion-expiration-countdown-traders-pile-into-82000-bitcoin-calls-ahead-o",
-      "localUrl": "/news/20260521-the-6-billion-expiration-countdown-traders-pile-into-82000-bitcoin-calls-ahead-o.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "HYPE leads crypto rebound as traders position for volatility breakout",
-      "summary": "Bitcoin and ether stabilized as derivatives activity rebounded, HYPE rose for a fifth straight day and options traders positioned for a breakout.",
-      "url": "https://www.coindesk.com/markets/2026/05/21/hype-leads-crypto-rebound-as-traders-position-for-volatility-breakout",
-      "publishedAt": "2026-05-21T10:52:57.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260521-hype-leads-crypto-rebound-as-traders-position-for-volatility-breakout",
-      "localUrl": "/news/20260521-hype-leads-crypto-rebound-as-traders-position-for-volatility-breakout.html"
+      "source": "X Wire",
+      "title": "🍕 Everyone remembers their first crypto “pizza moment.” Started small. Changed everything. What was yours? - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHejlGaUN1b1VkOThLZlpFTTBqbWg1b2R3aUt1N0ZqNm1zZXdoakM4YkVURjBQQUZyTTZtanRGMy0yWFY4cVE3djV1dTV6ZTR6ZnJGVTh0MTE?oc=5\" target=\"_blank\">🍕 Everyone remembers their first crypto “pizza…",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHejlGaUN1b1VkOThLZlpFTTBqbWg1b2R3aUt1N0ZqNm1zZXdoakM4YkVURjBQQUZyTTZtanRGMy0yWFY4cVE3djV1dTV6ZTR6ZnJGVTh0MTE?oc=5",
+      "publishedAt": "2026-05-21T11:14:32.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260521-everyone-remembers-their-first-crypto-pizza-moment-started-small-changed-everyth",
+      "localUrl": "/news/20260521-everyone-remembers-their-first-crypto-pizza-moment-started-small-changed-everyth.html"
     },
     {
       "source": "X Wire",
@@ -959,17 +986,6 @@
       "category": "X热点",
       "slug": "20260521-one-pizza-changed-crypto-history-now-its-your-turn-to-build-the-next-opportunity",
       "localUrl": "/news/20260521-one-pizza-changed-crypto-history-now-its-your-turn-to-build-the-next-opportunity.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: 🇮🇳 Binance says India has no law restricting crypto withdrawals. Yet most domestic exchanges still block them, citing money laundering fears. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZRTBfSTkwbE56Q2JZa0YtM3JwUVJ6OG15NXRYMjU5NVQ0ajk2ckd5ZW82MEdRYUgxRjlzcnRHQk8teHQ1enY1MEtDTVhXUVN0cnZ1MGE3bk4wVGlCMVUzU1JxNA?oc=5\" target=\"_blank\">BREAKING: 🇮🇳 Binance says Indi…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZRTBfSTkwbE56Q2JZa0YtM3JwUVJ6OG15NXRYMjU5NVQ0ajk2ckd5ZW82MEdRYUgxRjlzcnRHQk8teHQ1enY1MEtDTVhXUVN0cnZ1MGE3bk4wVGlCMVUzU1JxNA?oc=5",
-      "publishedAt": "2026-05-21T04:59:24.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260521-breaking-binance-says-india-has-no-law-restricting-crypto-withdrawals-yet-most-d",
-      "localUrl": "/news/20260521-breaking-binance-says-india-has-no-law-restricting-crypto-withdrawals-yet-most-d.html"
     },
     {
       "source": "X Wire",
@@ -1086,17 +1102,6 @@
     },
     {
       "source": "X Wire",
-      "title": "LATEST: South Carolina enacts a pro-crypto law banning state taxes on crypto payments, protecting self-custody rights, and prohibiting state agencies from accepting or testing CBDCs. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OSnRURld4elZNN3FaSW55aWgtQmF0RzVtaUdBSG0wMVhvcTZVZ2NWQl9qdGpFbDFrMVhRSm92Q18zR1d5UWZ4dTVoNFQxSk44d2JxSGxHWllVdkVoSGc?oc=5\" target=\"_blank\">LATEST: South Carolina enacts a pro-cry…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OSnRURld4elZNN3FaSW55aWgtQmF0RzVtaUdBSG0wMVhvcTZVZ2NWQl9qdGpFbDFrMVhRSm92Q18zR1d5UWZ4dTVoNFQxSk44d2JxSGxHWllVdkVoSGc?oc=5",
-      "publishedAt": "2026-05-20T10:22:31.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260520-latest-south-carolina-enacts-a-pro-crypto-law-banning-state-taxes-on-crypto-paym",
-      "localUrl": "/news/20260520-latest-south-carolina-enacts-a-pro-crypto-law-banning-state-taxes-on-crypto-paym.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Short-term things being done to shift Ethereum toward native privacy: * AA + FOCIL (makes privacy protocol txs, among many other things, first-class with strong inclusion guarantees) * Keyed nonces: x.com/soispoke/statu… * Access-layer work (Kohaku, privat - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyNGdtVXFWZTdNQmg1bElGNXVfUWw4czJlWkEybDhReXlKcFByTUt1Q2lWN00tWEpKNGdZZTN0LW5RUkdKbWZUazB6MXRBdUZUMzUzelhIeEFkMDJaaVBYbjlnMWU4QQ?oc=5\" target=\"_blank\">Short-term things being done…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyNGdtVXFWZTdNQmg1bElGNXVfUWw4czJlWkEybDhReXlKcFByTUt1Q2lWN00tWEpKNGdZZTN0LW5RUkdKbWZUazB6MXRBdUZUMzUzelhIeEFkMDJaaVBYbjlnMWU4QQ?oc=5",
@@ -1105,28 +1110,6 @@
       "category": "X热点",
       "slug": "20260520-short-term-things-being-done-to-shift-ethereum-toward-native-privacy-aa-focil-ma",
       "localUrl": "/news/20260520-short-term-things-being-done-to-shift-ethereum-toward-native-privacy-aa-focil-ma.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Young Crypto Traders Share Stories of Early Big Losses - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NX2lWWkVIM0FKTXpEcVYwR2x4VFIzTGNtcElXUE04MHpfblU0SUhMd2d6aVRxVmNDVFdVNVVVZFhFOUFfRTljdVJFWmc0dG5nbG9ZeUVlUQ?oc=5\" target=\"_blank\">Young Crypto Traders Share Stories of Early Big …",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NX2lWWkVIM0FKTXpEcVYwR2x4VFIzTGNtcElXUE04MHpfblU0SUhMd2d6aVRxVmNDVFdVNVVVZFhFOUFfRTljdVJFWmc0dG5nbG9ZeUVlUQ?oc=5",
-      "publishedAt": "2026-05-19T19:52:22.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260519-young-crypto-traders-share-stories-of-early-big-losses-xcom",
-      "localUrl": "/news/20260519-young-crypto-traders-share-stories-of-early-big-losses-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Ripple is #16 on the 2026 @CNBC Disruptor 50, representing the role crypto infrastructure plays in bringing blockchain into real-world finance. The infrastructure era is here. 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2bGEzWjJLMHpCWkVpZXZrQjVFdE55OUkzRWhnWEdoaW80ZE5jZkRnN0pNcXhBX0hfcl9tY2VrSkdLb1RBSXM5aUFncmJ5UDVJVG82aFNPNHNvX3c?oc=5\" target=\"_blank\">Ripple is #16 on the 2026 @CNBC Disruptor 5…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2bGEzWjJLMHpCWkVpZXZrQjVFdE55OUkzRWhnWEdoaW80ZE5jZkRnN0pNcXhBX0hfcl9tY2VrSkdLb1RBSXM5aUFncmJ5UDVJVG82aFNPNHNvX3c?oc=5",
-      "publishedAt": "2026-05-19T15:59:52.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260519-ripple-is-16-on-the-2026-cnbc-disruptor-50-representing-the-role-crypto-infrastr",
-      "localUrl": "/news/20260519-ripple-is-16-on-the-2026-cnbc-disruptor-50-representing-the-role-crypto-infrastr.html"
     },
     {
       "source": "Solana Blog",
