@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-23T13:59:40.159Z</lastmod>
+    <lastmod>2026-05-23T15:16:26.757Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-23T13:59:40.159Z</lastmod>
+    <lastmod>2026-05-23T15:16:26.757Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260523-argentina-launched-an-ai-to-predict-the-future-it-couldnt-predict-a-typo.html</loc>
+    <lastmod>2026-05-23T15:01:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260523-crypto-trader-sees-hyperliquid-ai-tokens-leading-next-altcoin-rally.html</loc>
+    <lastmod>2026-05-23T14:19:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260523-binance-denies-new-wsj-report-alleging-850m-in-iran-linked-transactions.html</loc>
+    <lastmod>2026-05-23T14:03:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260523-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-05-23T14:02:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260523-3-wacky-hermes-skills-you-should-try.html</loc>
@@ -75,12 +99,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260522-kevin-warsh-sworn-in-as-fed-chair-as-traders-forecast-rate-hikes-in-2026.html</loc>
     <lastmod>2026-05-22T22:12:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260522-just-in-nasdaq-bitcoin-index-options-granted-approval-by-sec-bloomberg-reports-x.html</loc>
-    <lastmod>2026-05-22T21:28:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -391,12 +409,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260522-polymarket-seeks-japan-entry-despite-gambling-law-hurdles-report.html</loc>
-    <lastmod>2026-05-22T10:57:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260522-ark-invest-buys-125-million-of-bullish-stock-in-four-days.html</loc>
     <lastmod>2026-05-22T10:45:29.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -415,26 +427,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260522-polymarket-team-says-user-funds-safe-as-exploit-losses-climb-above-600k.html</loc>
-    <lastmod>2026-05-22T10:19:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260522-zachxbt-flags-520k-polymarket-exploit-on-polygon-team-says-funds-are-safe.html</loc>
     <lastmod>2026-05-22T09:39:55.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260522-near-protocol-to-automate-its-own-growth-and-its-token-is-skyrocketing.html</loc>
-    <lastmod>2026-05-22T08:52:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260522-micahel-saylor-buying-the-last-bitcoin-in-2140-xcom.html</loc>
-    <lastmod>2026-05-22T03:58:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -457,8 +451,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260521-spotify-and-universal-launch-ai-remix-tool-for-fan-made-covers.html</loc>
-    <lastmod>2026-05-21T21:56:03.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260521-new-sec-commissioner-and-crypto-task-force-chief-hesterpeirce-is-tempering-expec.html</loc>
+    <lastmod>2026-05-21T21:27:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260521-latest-dankrad-feist-of-tempo-labs-and-the-ethereum-foundation-said-ethereum-nee.html</loc>
+    <lastmod>2026-05-21T19:50:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
