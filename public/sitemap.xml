@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-24T19:38:03.838Z</lastmod>
+    <lastmod>2026-05-24T21:09:31.382Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-24T19:38:03.838Z</lastmod>
+    <lastmod>2026-05-24T21:09:31.382Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260524-now-you-can-buy-bitcoin-xrp-and-more-in-chatgpt-via-moonpay.html</loc>
+    <lastmod>2026-05-24T21:01:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260524-coinbase-does-not-fear-competition-from-wall-street-says-exchange-executive.html</loc>
+    <lastmod>2026-05-24T20:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260524-strategy-now-holds-65-billion-in-bitcointhese-are-its-biggest-btc-buys.html</loc>
@@ -55,14 +67,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260524-a-massive-1-trillion-hidden-market-is-waiting-to-be-unlocked-in-bitcoin-says-new.html</loc>
-    <lastmod>2026-05-24T15:00:00.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260524-breaking-active-supply-chain-attack-across-npm-pypi-and-cratesio-socket-detected.html</loc>
+    <lastmod>2026-05-24T15:05:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260524-this-week-we-bought-bonds-not-bitcoin-the-itvac-is-charging-xcom.html</loc>
-    <lastmod>2026-05-24T14:41:49.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260524-a-massive-1-trillion-hidden-market-is-waiting-to-be-unlocked-in-bitcoin-says-new.html</loc>
+    <lastmod>2026-05-24T15:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -121,12 +133,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260523-just-in-180000000-worth-of-shorts-liquidated-from-the-crypto-market-in-the-past-.html</loc>
-    <lastmod>2026-05-23T21:09:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260523-just-in-bitcoin-reclaims-77000-after-president-trump-says-the-us-and-iran-are-fi.html</loc>
     <lastmod>2026-05-23T21:00:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -158,7 +164,7 @@
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260523-warsh-will-cut-rates-despite-consensus-view-of-rate-hikes-analyst.html</loc>
-    <lastmod>2026-05-23T18:20:14.000Z</lastmod>
+    <lastmod>2026-05-23T18:59:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -279,6 +285,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260522-kevin-warsh-sworn-in-as-fed-chair-as-traders-forecast-rate-hikes-in-2026.html</loc>
     <lastmod>2026-05-22T22:12:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260522-just-in-sec-approves-nasdaq-bitcoin-index-options-trading-xcom.html</loc>
+    <lastmod>2026-05-22T21:18:25.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -457,20 +469,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260522-trump-media-moved-but-did-not-sell-205-million-in-bitcoin-amid-rising-losses-on-.html</loc>
-    <lastmod>2026-05-22T13:08:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260522-morning-minute-mark-cuban-sells-his-bitcoin.html</loc>
     <lastmod>2026-05-22T13:05:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260522-polymarket-hit-by-internal-top-up-wallet-exploit-700k-drained.html</loc>
-    <lastmod>2026-05-22T12:23:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
