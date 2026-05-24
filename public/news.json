@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-05-24T11:41:11.052Z",
-  "total": 84,
+  "updatedAt": "2026-05-24T13:56:39.084Z",
+  "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto rails are becoming the default payment layer for AI agents, report says",
+      "summary": "A new report from Keyrock says stablecoins on blockchain rails are becoming the go-to payment layer for AI agents as traditional card rails struggle to handle micropayments.",
+      "url": "https://www.coindesk.com/business/2026/05/21/crypto-rails-are-becoming-the-default-payment-layer-for-ai-agents-report-says",
+      "publishedAt": "2026-05-24T13:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Artificial Intelligence",
+        "Stablecoins",
+        "Coinbase",
+        "Circle",
+        "Stripe",
+        "Google",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260524-crypto-rails-are-becoming-the-default-payment-layer-for-ai-agents-report-says",
+      "localUrl": "/news/20260524-crypto-rails-are-becoming-the-default-payment-layer-for-ai-agents-report-says.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC officials who questioned prediction markets were suspended: NYT",
+      "summary": "A New York Times investigation found that senior CFTC officials who raised concerns about Polymarket, Crypto.com and Gemini were suspended and pushed out.",
+      "url": "https://cointelegraph.com/news/cftc-officials-who-questioned-prediction-markets-were-suspended-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-24T11:43:38.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260524-cftc-officials-who-questioned-prediction-markets-were-suspended-nyt",
+      "localUrl": "/news/20260524-cftc-officials-who-questioned-prediction-markets-were-suspended-nyt.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Blockchain researcher defends Ethereum Foundation, says it’s ‘exactly’ doing its job",
@@ -40,17 +73,6 @@
       "category": "安全",
       "slug": "20260524-euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit",
       "localUrl": "/news/20260524-euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Hyperliquid Has Used Nearly All Trading Fee Revenue, Over $1.16B, to Buy Back HYPE Forbes contributor Zennon Kapron argues that HYPE’s recent rally is driven less by ETF expectations than by Hyperliquid’s built-in buyback mechanism. Since launch, Hy - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TaVZOTGZiemN6NnpkOGVTeUQ2aW5DN3VYVVA4T1lHQVlBZHZjam5mUlJmTGYyNm9YRHhCOE52Yzk1MmJnSllLdGpJMzlTVXBCOFcwWmZocXJrZkloTG5zNnlLQQ?oc=5\" target=\"_blank\">Hyperliquid Has Used Nearly All …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TaVZOTGZiemN6NnpkOGVTeUQ2aW5DN3VYVVA4T1lHQVlBZHZjam5mUlJmTGYyNm9YRHhCOE52Yzk1MmJnSllLdGpJMzlTVXBCOFcwWmZocXJrZkloTG5zNnlLQQ?oc=5",
-      "publishedAt": "2026-05-24T04:26:14.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260524-hyperliquid-has-used-nearly-all-trading-fee-revenue-over-116b-to-buy-back-hype-f",
-      "localUrl": "/news/20260524-hyperliquid-has-used-nearly-all-trading-fee-revenue-over-116b-to-buy-back-hype-f.html"
     },
     {
       "source": "Cointelegraph",
@@ -158,6 +180,17 @@
       "category": "监管",
       "slug": "20260523-bitcoin-dives-below-75k-for-first-time-in-a-month-as-crypto-liquidations-near-1-",
       "localUrl": "/news/20260523-bitcoin-dives-below-75k-for-first-time-in-a-month-as-crypto-liquidations-near-1-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: There's now a 75% Bitcoin will drop to $70,000 before going up to $90,000, according to Polymarket 👀 HODL! ✊ - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNdUVPVktmVkJycUVYTXIxSEluT2s3R092SU1YVGF3cGw4aTlhbUFHUk1jckZCSlFLdTk5Nm5MVWg3ZEpfRVNVNWpGRXpiaG1QNlhsNVMxSE5ubEtEYkc3Zm9PVjZuWGM?oc=5\" target=\"_blank\">JUST IN: There's now a 75% …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNdUVPVktmVkJycUVYTXIxSEluT2s3R092SU1YVGF3cGw4aTlhbUFHUk1jckZCSlFLdTk5Nm5MVWg3ZEpfRVNVNWpGRXpiaG1QNlhsNVMxSE5ubEtEYkc3Zm9PVjZuWGM?oc=5",
+      "publishedAt": "2026-05-23T15:21:26.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260523-just-in-theres-now-a-75-bitcoin-will-drop-to-70000-before-going-up-to-90000-acco",
+      "localUrl": "/news/20260523-just-in-theres-now-a-75-bitcoin-will-drop-to-70000-before-going-up-to-90000-acco.html"
     },
     {
       "source": "X Wire",
@@ -305,6 +338,17 @@
       "localUrl": "/news/20260523-ecb-pushes-back-on-euro-stablecoin-proposals-citing-financial-stability-risks.html"
     },
     {
+      "source": "X Wire",
+      "title": "I've been an Ethereum supporter since the early days and I still believe it's one of the most important pieces of infrastructure in crypto. The tech is great, my conviction hasn't changed in that respect. But watching 9 senior researchers and key operators leave the - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kS0ZUbWJkd1RlR2NsWE10WkRoaklfZU14SmUzWEFjRkxhZzZwUjV3X19OWlEwWm1QMWhjUkE0ZFVqcVJaemVxekF5MjRFcDZtSFRCZ2VkYVFSODRQ?oc=5\" target=\"_blank\">I've been an Ethereum supporter since the …",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kS0ZUbWJkd1RlR2NsWE10WkRoaklfZU14SmUzWEFjRkxhZzZwUjV3X19OWlEwWm1QMWhjUkE0ZFVqcVJaemVxekF5MjRFcDZtSFRCZ2VkYVFSODRQ?oc=5",
+      "publishedAt": "2026-05-23T10:45:32.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260523-ive-been-an-ethereum-supporter-since-the-early-days-and-i-still-believe-its-one-",
+      "localUrl": "/news/20260523-ive-been-an-ethereum-supporter-since-the-early-days-and-i-still-believe-its-one-.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Bitcoin tanks to $74,300 as spot ETFs bleed $2.26 billion in two weeks",
       "summary": "U.S.-listed spot bitcoin exchange-traded funds have seen more than $2.26 billion in outflows over the past two weeks.",
@@ -331,17 +375,6 @@
       "category": "监管",
       "slug": "20260523-sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange",
       "localUrl": "/news/20260523-sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: $400,000,000 worth of longs liquidated from the crypto market in the past 10 minutes. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ObzhveEMxUGpyTTlOODRVY01kenNVdElEYW9JSUxNVExuSWxhNjZjVVRCVjYxUjNGbXJZVm84Q0lNLXppN2dKaDNXVjg3cGRZU0ZMQ1k3TVdRUjYxZWF0ckVR?oc=5\" target=\"_blank\">JUST IN: $400,000,000 worth of lon…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ObzhveEMxUGpyTTlOODRVY01kenNVdElEYW9JSUxNVExuSWxhNjZjVVRCVjYxUjNGbXJZVm84Q0lNLXppN2dKaDNXVjg3cGRZU0ZMQ1k3TVdRUjYxZWF0ckVR?oc=5",
-      "publishedAt": "2026-05-23T07:56:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260523-just-in-400000000-worth-of-longs-liquidated-from-the-crypto-market-in-the-past-1",
-      "localUrl": "/news/20260523-just-in-400000000-worth-of-longs-liquidated-from-the-crypto-market-in-the-past-1.html"
     },
     {
       "source": "Cointelegraph",
@@ -717,17 +750,6 @@
       "localUrl": "/news/20260522-tom-emmer-brushes-off-law-enforcement-concerns-over-clarity-act.html"
     },
     {
-      "source": "X Wire",
-      "title": "The most interesting story in Bitcoin right now is the rise of $SATA in the credit markets and the embrace of $ASST by the equity capital markets. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Yd29EZ2t0OWNnUTJkOWVsMnNGdWxtLUsxWWxYNUhwUDJhck40bTU4ME1xcFBMRk5qOXphQS0tbTVMVjZpVkctNXpCb3Jla284UEZPa000WlpzUG8?oc=5\" target=\"_blank\">The most interesting story in Bitcoin right…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Yd29EZ2t0OWNnUTJkOWVsMnNGdWxtLUsxWWxYNUhwUDJhck40bTU4ME1xcFBMRk5qOXphQS0tbTVMVjZpVkctNXpCb3Jla284UEZPa000WlpzUG8?oc=5",
-      "publishedAt": "2026-05-22T16:06:48.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260522-the-most-interesting-story-in-bitcoin-right-now-is-the-rise-of-sata-in-the-credi",
-      "localUrl": "/news/20260522-the-most-interesting-story-in-bitcoin-right-now-is-the-rise-of-sata-in-the-credi.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Crypto Biz: Institutions tighten their grip on Bitcoin, AI and prediction markets",
       "summary": "Institutional crypto adoption accelerates as Tether expands Bitcoin holdings, miners pivot to AI and Polymarket joins Nasdaq amid $1 billion fund outflows.",
@@ -754,19 +776,6 @@
       "localUrl": "/news/20260522-trump-media-moves-over-200-million-in-bitcoin-as-losses-pile-up-arkham.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price falls under $77K as Dow Jones hits new all-time highs",
-      "summary": "Bitcoin headed lower as Wall Street trading began with new record highs for the Dow Jones, while traders warned of weak US demand.",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-falls-under-77k-as-dow-jones-hits-new-all-time-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-22T15:40:15.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260522-bitcoin-price-falls-under-77k-as-dow-jones-hits-new-all-time-highs",
-      "localUrl": "/news/20260522-bitcoin-price-falls-under-77k-as-dow-jones-hits-new-all-time-highs.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Congress hits Polymarket and Kalshi with a massive insider trading probe",
       "summary": "Rep. James Comer is demanding internal records from the prediction market CEOs, warning that government employees could be using classified information to make “huge profits”.",
@@ -782,6 +791,17 @@
       "category": "监管",
       "slug": "20260522-congress-hits-polymarket-and-kalshi-with-a-massive-insider-trading-probe",
       "localUrl": "/news/20260522-congress-hits-polymarket-and-kalshi-with-a-massive-insider-trading-probe.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin continues to challenge the neckline of a large head-and-shoulders top, while working off its overbought condition with little or no price damage. This is very much how early bull markets have generally behaved. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSNzdxbUlCSWw3SlRWZWw2OUhaNVBUQV9fMXhaR1RCblRTSHd0YVlvQWJLXzVQdW5xblNiZHVfTkdNSGFBTjRNTk1DZUZoVHdTcDduNGhYMDZkc2dwcHlzbkVnLUlFUQ?oc=5\" target=\"_blank\">Bitcoin continues to challen…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSNzdxbUlCSWw3SlRWZWw2OUhaNVBUQV9fMXhaR1RCblRTSHd0YVlvQWJLXzVQdW5xblNiZHVfTkdNSGFBTjRNTk1DZUZoVHdTcDduNGhYMDZkc2dwcHlzbkVnLUlFUQ?oc=5",
+      "publishedAt": "2026-05-22T15:16:17.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260522-bitcoin-continues-to-challenge-the-neckline-of-a-large-head-and-shoulders-top-wh",
+      "localUrl": "/news/20260522-bitcoin-continues-to-challenge-the-neckline-of-a-large-head-and-shoulders-top-wh.html"
     },
     {
       "source": "Decrypt",
@@ -983,17 +1003,6 @@
       "localUrl": "/news/20260522-16-years-ago-laszlo-hanyecz-spent-10000-bitcoin-worth-30-on-two-papa-johns-pizza.html"
     },
     {
-      "source": "X Wire",
-      "title": "Binance - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiOEFVX3lxTE1zdk9MQTRVWHpGbk9LbDRVcW5VSXFQSTlWZnJacldkRWNkYzU3X1hWdzFwcm9NdWZ6?oc=5\" target=\"_blank\">Binance</a> <font color=\"#6f6f6f\">x.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE1zdk9MQTRVWHpGbk9LbDRVcW5VSXFQSTlWZnJacldkRWNkYzU3X1hWdzFwcm9NdWZ6?oc=5",
-      "publishedAt": "2026-05-22T11:33:15.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260522-binance-xcom",
-      "localUrl": "/news/20260522-binance-xcom.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin left behind in the geopolitical melee",
       "summary": "Your day-ahead look for May 22, 2026",
@@ -1023,21 +1032,6 @@
       "localUrl": "/news/20260522-near-protocol-jumps-28-on-privacy-ai-and-scaling-upgrades.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Ark Invest buys $12.5 million of Bullish stock in four days",
-      "summary": "Ark frequently uses broader digital asset downturns, which tend to pull crypto equities lower, as an entry point into cryptocurrency companies.",
-      "url": "https://www.coindesk.com/markets/2026/05/22/ark-invest-buys-usd12-5-million-of-bullish-stock-in-four-days",
-      "publishedAt": "2026-05-22T10:45:29.000Z",
-      "keywords": [
-        "Markets",
-        "Bullish",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260522-ark-invest-buys-125-million-of-bullish-stock-in-four-days",
-      "localUrl": "/news/20260522-ark-invest-buys-125-million-of-bullish-stock-in-four-days.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Polymarket Taps Jupiter Exec to Lead Japan Push: Report",
       "summary": "The prediction market has reportedly appointed a representative in Japan as it aims to secure authorization to operate there by 2030.",
@@ -1050,6 +1044,17 @@
       "category": "监管",
       "slug": "20260522-polymarket-taps-jupiter-exec-to-lead-japan-push-report",
       "localUrl": "/news/20260522-polymarket-taps-jupiter-exec-to-lead-japan-push-report.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Happy Bitcoin Pizza Day! 🍕🟡 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtOHhzbXo4VDBzQ19lWHd2MmxWVjM4STdsS1NleDdhQ09EMS1PRXlKRTBTUEROOEdPejRCS0lUaVBOWU96NEZCc1R4MkZDRzU0a1RmUHptb3NOSmRa?oc=5\" target=\"_blank\">Happy Bitcoin Pizza Day! 🍕🟡</a> <font co…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtOHhzbXo4VDBzQ19lWHd2MmxWVjM4STdsS1NleDdhQ09EMS1PRXlKRTBTUEROOEdPejRCS0lUaVBOWU96NEZCc1R4MkZDRzU0a1RmUHptb3NOSmRa?oc=5",
+      "publishedAt": "2026-05-22T08:00:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260522-happy-bitcoin-pizza-day-xcom",
+      "localUrl": "/news/20260522-happy-bitcoin-pizza-day-xcom.html"
     },
     {
       "source": "X Wire",
@@ -1075,6 +1080,17 @@
     },
     {
       "source": "X Wire",
+      "title": "JUST IN: Billionaire Mark Cuban says he sold \"most\" of his Bitcoin. \"Bitcoin has lost the plot.\" - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iUlAwd2hoZDk1MzJucTRBT2p0VVRDVktMZTlhc0h0RnNNd1hKcVNfOV9BYlh6aGFYaG9XSVlpRG5pUm1lT2Vfdy1iSmdHcGl6WDdkY1ZxTC1LLTRTMC1RZ2pR?oc=5\" target=\"_blank\">JUST IN: Billionaire Mark Cuban sa…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iUlAwd2hoZDk1MzJucTRBT2p0VVRDVktMZTlhc0h0RnNNd1hKcVNfOV9BYlh6aGFYaG9XSVlpRG5pUm1lT2Vfdy1iSmdHcGl6WDdkY1ZxTC1LLTRTMC1RZ2pR?oc=5",
+      "publishedAt": "2026-05-21T18:16:19.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260521-just-in-billionaire-mark-cuban-says-he-sold-most-of-his-bitcoin-bitcoin-has-lost",
+      "localUrl": "/news/20260521-just-in-billionaire-mark-cuban-says-he-sold-most-of-his-bitcoin-bitcoin-has-lost.html"
+    },
+    {
+      "source": "X Wire",
       "title": "LATEST: Mark Cuban reveals he sold \"most\" of his $BTC \"Bitcoin has lost the plot\" h/t Portfolio Players - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hTks3SDhJdk9TY0R3MGRkbW56RHZxMXkxeEk1RVNiNDh1REF6eHpaU1hXMEpKVUR0enFCM3h3eW9tUTFrbXJfbk1McE9zaGEyejdrLUlWWW1oX1hBa1E?oc=5\" target=\"_blank\">LATEST: Mark Cuban reveals he sold \"mos…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hTks3SDhJdk9TY0R3MGRkbW56RHZxMXkxeEk1RVNiNDh1REF6eHpaU1hXMEpKVUR0enFCM3h3eW9tUTFrbXJfbk1McE9zaGEyejdrLUlWWW1oX1hBa1E?oc=5",
@@ -1083,17 +1099,6 @@
       "category": "X热点",
       "slug": "20260521-latest-mark-cuban-reveals-he-sold-most-of-his-btc-bitcoin-has-lost-the-plot-ht-p",
       "localUrl": "/news/20260521-latest-mark-cuban-reveals-he-sold-most-of-his-btc-bitcoin-has-lost-the-plot-ht-p.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The way to save Ethereum: The community needs to create an organization that's economically aligned with Ethereum and accountable to it. The EF now holds less than 0.1% of all ETH. There is no flow of Ethereum staking or fee revenues to it. If we want to g - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzVFVCUU9WdDhsMEp4VzY1elNvdk4xdER2VjhrTlVLQ2RhWkZkcXdLLXFyTWRmZ1F5MUVUMFVSWVZoU2hZbjZFWGdhaVJNeUtCTGlmLTBIQ3RzWmJi?oc=5\" target=\"_blank\">The way to save Ethereum: The community ne…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzVFVCUU9WdDhsMEp4VzY1elNvdk4xdER2VjhrTlVLQ2RhWkZkcXdLLXFyTWRmZ1F5MUVUMFVSWVZoU2hZbjZFWGdhaVJNeUtCTGlmLTBIQ3RzWmJi?oc=5",
-      "publishedAt": "2026-05-21T12:42:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260521-the-way-to-save-ethereum-the-community-needs-to-create-an-organization-thats-eco",
-      "localUrl": "/news/20260521-the-way-to-save-ethereum-the-community-needs-to-create-an-organization-thats-eco.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -1109,38 +1114,6 @@
       "category": "RWA",
       "slug": "20260520-ofac-sanctions-sinaloa-cartel-fentanyl-trafficking-and-crypto-laundering-network",
       "localUrl": "/news/20260520-ofac-sanctions-sinaloa-cartel-fentanyl-trafficking-and-crypto-laundering-network.html"
-    },
-    {
-      "source": "Solana Blog",
-      "title": "Bits to Bricks: Merchant Settlement is Where Stablecoins Work",
-      "summary": "Alex Wilson, Co-founder and CEO of Cyclops joins Amira Valliani on Bits to Bricks to unpack how stablecoin infrastructure in the long-term bet.",
-      "url": "https://solana.com/news/bits-to-bricks-merchant-settlement-is-where-stablecoins-work-alex-wilson",
-      "publishedAt": "2026-05-20T12:00:00.000Z",
-      "keywords": [],
-      "category": "基础设施",
-      "slug": "20260520-bits-to-bricks-merchant-settlement-is-where-stablecoins-work",
-      "localUrl": "/news/20260520-bits-to-bricks-merchant-settlement-is-where-stablecoins-work.html"
-    },
-    {
-      "source": "Chainalysis Blog",
-      "title": "How Blockchain Intelligence Uncovered a Million-Euro Bitcoin Ordinals Tax Fraud Scheme",
-      "summary": "Summary Criminals are increasingly turning to novel digital asset classes, like Bitcoin Ordinals and BRC-20 tokens, to generate and conceal… The post How Blockchain Intelligence Uncovered a Million-Euro Bitcoin Ordinals Tax Fraud Scheme ap…",
-      "url": "https://www.chainalysis.com/blog/italy-guardia-di-finanza-bitcoin-ordinals-tax-fraud-scheme/",
-      "publishedAt": "2026-05-20T11:55:18.000Z",
-      "keywords": [
-        "Crime",
-        "Bitcoin Ordinals",
-        "Case study",
-        "Chainalysis Reactor",
-        "Crypto crime",
-        "Customer Story",
-        "Guardia di Finanza",
-        "Italy",
-        "Tax Fraud"
-      ],
-      "category": "市场",
-      "slug": "20260520-how-blockchain-intelligence-uncovered-a-million-euro-bitcoin-ordinals-tax-fraud-",
-      "localUrl": "/news/20260520-how-blockchain-intelligence-uncovered-a-million-euro-bitcoin-ordinals-tax-fraud-.html"
     }
   ]
 }
