@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-05-24T13:56:39.084Z",
+  "updatedAt": "2026-05-24T15:18:58.996Z",
   "total": 82,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Tom Lee’s Ethereum portfolio down $7.35B as ETH price outlook worsens",
+      "summary": "ETH’s bearish chart setup points to a 25% drop toward $1,600, risking over $10 billion in paper losses for BitMine in the coming weeks.",
+      "url": "https://cointelegraph.com/markets/tom-lees-ethereum-portfolio-sitting-on-73b-in-unrealized-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-24T15:08:08.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "基础设施",
+      "slug": "20260524-tom-lees-ethereum-portfolio-down-735b-as-eth-price-outlook-worsens",
+      "localUrl": "/news/20260524-tom-lees-ethereum-portfolio-down-735b-as-eth-price-outlook-worsens.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A massive $1 trillion hidden market is waiting to be unlocked in bitcoin, says new report",
+      "summary": "Ledn forecasts the bitcoin-backed lending market could grow to $1 trillion within a decade as new research highlights strong borrower demand.",
+      "url": "https://www.coindesk.com/business/2026/05/22/ledn",
+      "publishedAt": "2026-05-24T15:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Crypto News",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260524-a-massive-1-trillion-hidden-market-is-waiting-to-be-unlocked-in-bitcoin-says-new",
+      "localUrl": "/news/20260524-a-massive-1-trillion-hidden-market-is-waiting-to-be-unlocked-in-bitcoin-says-new.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-24T14:02:22.000Z",
+      "keywords": [
+        "Trump memecoin",
+        "Solana memecoin",
+        "TRUMP token",
+        "Solana",
+        "SOL",
+        "Nova Labs",
+        "SEC",
+        "Securities and Exchange Commission",
+        "Crypto regulation",
+        "TRUMP rally",
+        "Bitcoin",
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260524-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260524-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AI is speeding up the quantum threat to crypto, security experts warn",
+      "summary": "Researchers and builders believe that artificial intelligence may be accelerating the quantum timeline and forcing a broader rethink of how digital security works.",
+      "url": "https://www.coindesk.com/tech/2026/05/24/ai-is-speeding-up-the-quantum-threat-to-crypto-security-experts-warn",
+      "publishedAt": "2026-05-24T14:00:00.000Z",
+      "keywords": [
+        "Tech",
+        "Artificial Intelligence",
+        "quantum computing",
+        "Solana News",
+        "Ethereum News",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260524-ai-is-speeding-up-the-quantum-threat-to-crypto-security-experts-warn",
+      "localUrl": "/news/20260524-ai-is-speeding-up-the-quantum-threat-to-crypto-security-experts-warn.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto rails are becoming the default payment layer for AI agents, report says",
@@ -217,17 +288,6 @@
       "localUrl": "/news/20260523-argentina-launched-an-ai-to-predict-the-future-it-couldnt-predict-a-typo.html"
     },
     {
-      "source": "X Wire",
-      "title": "🚨 ALERT: Bitcoin spot demand is contracting at its fastest pace since January 10, according to a CryptoQuant analyst. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zZkRsZ29EcVFBbjQzWkM4OVVHMGFHUl9qM1hHNEFSQTVEbGhzSmNPNHU0YTlVbEVOeE1Qem42R0ttTzJCRzJkekZnS24wVDdHWm5YTmp4MnpGdFU5VDhIUjMxNUI?oc=5\" target=\"_blank\">🚨 ALERT: Bitcoin spot demand i…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zZkRsZ29EcVFBbjQzWkM4OVVHMGFHUl9qM1hHNEFSQTVEbGhzSmNPNHU0YTlVbEVOeE1Qem42R0ttTzJCRzJkekZnS24wVDdHWm5YTmp4MnpGdFU5VDhIUjMxNUI?oc=5",
-      "publishedAt": "2026-05-23T15:00:45.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260523-alert-bitcoin-spot-demand-is-contracting-at-its-fastest-pace-since-january-10-ac",
-      "localUrl": "/news/20260523-alert-bitcoin-spot-demand-is-contracting-at-its-fastest-pace-since-january-10-ac.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto trader sees Hyperliquid, AI tokens leading next altcoin rally",
       "summary": "Hyperliquid’s surge and renewed interest in AI-focused crypto projects are signaling a broader return of risk appetite in altcoins, says Michael van de Poppe.",
@@ -256,30 +316,6 @@
       "category": "市场",
       "slug": "20260523-binance-denies-new-wsj-report-alleging-850m-in-iran-linked-transactions",
       "localUrl": "/news/20260523-binance-denies-new-wsj-report-alleging-850m-in-iran-linked-transactions.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-23T14:02:22.000Z",
-      "keywords": [
-        "Trump memecoin",
-        "Solana memecoin",
-        "TRUMP token",
-        "Solana",
-        "SOL",
-        "Nova Labs",
-        "SEC",
-        "Securities and Exchange Commission",
-        "Crypto regulation",
-        "TRUMP rally",
-        "Bitcoin",
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260523-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260523-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "X Wire",
@@ -663,17 +699,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Different categories of tokenized assets have scaled at very different rates. Asset-backed credit hit $1 billion in market cap in just 185 days. Specialty finance crossed the same threshold in under two years. At the other end of the spectrum, venture capital took - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZQ3N1QkZ6d1A5TW1ZLWkzWkU2dDNFRGdGeFFZUklVUkdmT2xDWDlfR0h5RkhaaFc4YXlGcE1KRUFmdnN6LS1sN2Q4VVVnN3QwTFdOZlh1YWNfdTdxMDhCZQ?oc=5\" target=\"_blank\">Different categories of tokenized as…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZQ3N1QkZ6d1A5TW1ZLWkzWkU2dDNFRGdGeFFZUklVUkdmT2xDWDlfR0h5RkhaaFc4YXlGcE1KRUFmdnN6LS1sN2Q4VVVnN3QwTFdOZlh1YWNfdTdxMDhCZQ?oc=5",
-      "publishedAt": "2026-05-22T17:50:31.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260522-different-categories-of-tokenized-assets-have-scaled-at-very-different-rates-ass",
-      "localUrl": "/news/20260522-different-categories-of-tokenized-assets-have-scaled-at-very-different-rates-ass.html"
-    },
-    {
-      "source": "X Wire",
       "title": "JUST IN: 🇺🇸 The top 5 spot Bitcoin ETFs now own a combined 1,239,336 BTC worth over $95.3 BILLION 🤯 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85Qkd6TVRfNjhFSWg4bDIwWXhzNzhxdlBzazhPTVM0N3d5MlFBMGhVZTItNUV2YWctWGtCblEtTTJIY3dXN2tPNnAwTTF4anVOTFoyeF9vQU9XVGo2VVIzcmhYRGdpcjg?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 The top 5 spo…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85Qkd6TVRfNjhFSWg4bDIwWXhzNzhxdlBzazhPTVM0N3d5MlFBMGhVZTItNUV2YWctWGtCblEtTTJIY3dXN2tPNnAwTTF4anVOTFoyeF9vQU9XVGo2VVIzcmhYRGdpcjg?oc=5",
@@ -708,6 +733,17 @@
       "category": "监管",
       "slug": "20260522-us-house-lawmakers-launch-probe-into-kalshi-polymarket-insider-trading",
       "localUrl": "/news/20260522-us-house-lawmakers-launch-probe-into-kalshi-polymarket-insider-trading.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Base (@base) / Posts / X - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiNEFVX3lxTE1NWDZ0NjF4RHlGSkoyZ2hnXy1Bek5Na0hoUnprZlhBUkVNRlgwdEh6ekt1Znc?oc=5\" target=\"_blank\">Base (@base) / Posts / X</a> <font color=\"#6f6f6f\">x.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiNEFVX3lxTE1NWDZ0NjF4RHlGSkoyZ2hnXy1Bek5Na0hoUnprZlhBUkVNRlgwdEh6ekt1Znc?oc=5",
+      "publishedAt": "2026-05-22T17:09:56.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260522-base-base-posts-x-xcom",
+      "localUrl": "/news/20260522-base-base-posts-x-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -750,19 +786,6 @@
       "localUrl": "/news/20260522-tom-emmer-brushes-off-law-enforcement-concerns-over-clarity-act.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Crypto Biz: Institutions tighten their grip on Bitcoin, AI and prediction markets",
-      "summary": "Institutional crypto adoption accelerates as Tether expands Bitcoin holdings, miners pivot to AI and Polymarket joins Nasdaq amid $1 billion fund outflows.",
-      "url": "https://cointelegraph.com/news/institutional-crypto-adoption-tether-bitcoin-ai-polymarket-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-22T16:02:30.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260522-crypto-biz-institutions-tighten-their-grip-on-bitcoin-ai-and-prediction-markets",
-      "localUrl": "/news/20260522-crypto-biz-institutions-tighten-their-grip-on-bitcoin-ai-and-prediction-markets.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Trump Media Moves Over $200 Million in Bitcoin as Losses Pile Up: Arkham",
       "summary": "It's unknown whether Trump Media & Technology Group is selling its Bitcoin, though it has amassed sizable losses on its holdings.",
@@ -791,17 +814,6 @@
       "category": "监管",
       "slug": "20260522-congress-hits-polymarket-and-kalshi-with-a-massive-insider-trading-probe",
       "localUrl": "/news/20260522-congress-hits-polymarket-and-kalshi-with-a-massive-insider-trading-probe.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin continues to challenge the neckline of a large head-and-shoulders top, while working off its overbought condition with little or no price damage. This is very much how early bull markets have generally behaved. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSNzdxbUlCSWw3SlRWZWw2OUhaNVBUQV9fMXhaR1RCblRTSHd0YVlvQWJLXzVQdW5xblNiZHVfTkdNSGFBTjRNTk1DZUZoVHdTcDduNGhYMDZkc2dwcHlzbkVnLUlFUQ?oc=5\" target=\"_blank\">Bitcoin continues to challen…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSNzdxbUlCSWw3SlRWZWw2OUhaNVBUQV9fMXhaR1RCblRTSHd0YVlvQWJLXzVQdW5xblNiZHVfTkdNSGFBTjRNTk1DZUZoVHdTcDduNGhYMDZkc2dwcHlzbkVnLUlFUQ?oc=5",
-      "publishedAt": "2026-05-22T15:16:17.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260522-bitcoin-continues-to-challenge-the-neckline-of-a-large-head-and-shoulders-top-wh",
-      "localUrl": "/news/20260522-bitcoin-continues-to-challenge-the-neckline-of-a-large-head-and-shoulders-top-wh.html"
     },
     {
       "source": "Decrypt",
@@ -950,23 +962,6 @@
       "localUrl": "/news/20260522-tom-lee-says-trillions-in-tech-ipo-supply-wont-crash-the-sp-500.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "OKX and ICE are bringing 'never-expiring' oil futures to 120 million crypto users",
-      "summary": "The new partnership comes as Hyperliquid’s oli futures contracts that never expire have been a huge success with over $1.6 billion in 24-hour trading volume.",
-      "url": "https://www.coindesk.com/business/2026/05/22/okx-and-ice-are-bringing-never-expiring-oil-futures-to-120-million-crypto-users",
-      "publishedAt": "2026-05-22T12:48:04.000Z",
-      "keywords": [
-        "Finance",
-        "NYSE",
-        "Oil",
-        "Crypto News",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260522-okx-and-ice-are-bringing-never-expiring-oil-futures-to-120-million-crypto-users",
-      "localUrl": "/news/20260522-okx-and-ice-are-bringing-never-expiring-oil-futures-to-120-million-crypto-users.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Polymarket Hit By ‘Internal Top-Up’ Wallet Exploit, $700K Drained",
       "summary": "User funds remain safe after the incident, the prediction market platform said, with contracts and core infrastructure unaffected.",
@@ -1003,21 +998,6 @@
       "localUrl": "/news/20260522-16-years-ago-laszlo-hanyecz-spent-10000-bitcoin-worth-30-on-two-papa-johns-pizza.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin left behind in the geopolitical melee",
-      "summary": "Your day-ahead look for May 22, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/05/22/bitcoin-left-behind-in-the-geopolitical-melee",
-      "publishedAt": "2026-05-22T11:31:30.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260522-bitcoin-left-behind-in-the-geopolitical-melee",
-      "localUrl": "/news/20260522-bitcoin-left-behind-in-the-geopolitical-melee.html"
-    },
-    {
       "source": "Decrypt",
       "title": "NEAR Protocol Jumps 28% on Privacy, AI, and Scaling Upgrades",
       "summary": "NEAR rallied by 45% this week on a series of upgrades positioning it as a potential settlement layer for AI agents and confidential finance.",
@@ -1047,14 +1027,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Happy Bitcoin Pizza Day! 🍕🟡 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtOHhzbXo4VDBzQ19lWHd2MmxWVjM4STdsS1NleDdhQ09EMS1PRXlKRTBTUEROOEdPejRCS0lUaVBOWU96NEZCc1R4MkZDRzU0a1RmUHptb3NOSmRa?oc=5\" target=\"_blank\">Happy Bitcoin Pizza Day! 🍕🟡</a> <font co…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtOHhzbXo4VDBzQ19lWHd2MmxWVjM4STdsS1NleDdhQ09EMS1PRXlKRTBTUEROOEdPejRCS0lUaVBOWU96NEZCc1R4MkZDRzU0a1RmUHptb3NOSmRa?oc=5",
-      "publishedAt": "2026-05-22T08:00:02.000Z",
+      "title": "RAILGUN - Private Ethereum DeFi (@RAILGUN_Project) / Posts / X - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5DNl94cHlDUi1ZU1hHUHdDaU01UFlYeDNtWkN5aGRqbDRqMFVxUktFbjA0bGxMSUpjbEppMG5BU1VDTmc?oc=5\" target=\"_blank\">RAILGUN - Private Ethereum DeFi (@RAILGUN_Project) / Posts / X</a> <font co…",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5DNl94cHlDUi1ZU1hHUHdDaU01UFlYeDNtWkN5aGRqbDRqMFVxUktFbjA0bGxMSUpjbEppMG5BU1VDTmc?oc=5",
+      "publishedAt": "2026-05-22T08:25:19.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260522-happy-bitcoin-pizza-day-xcom",
-      "localUrl": "/news/20260522-happy-bitcoin-pizza-day-xcom.html"
+      "slug": "20260522-railgun-private-ethereum-defi-railgun_project-posts-x-xcom",
+      "localUrl": "/news/20260522-railgun-private-ethereum-defi-railgun_project-posts-x-xcom.html"
     },
     {
       "source": "X Wire",
@@ -1069,6 +1049,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Founder of One of the Largest Bitcoin Mining Pools to Join Two-Year Starship Mission to Mars Wang Chun, co-founder of F2Pool, one of the largest Bitcoin mining pools, and commander of Fram2, will fly aboard Starship’s first human interplanetary spaceflight - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE12MU1faHFWQTN3TlJXZDRONVRaTXZibTlGeE50Qm56YWU5WWNWeFpLMEJIYjBveVVpUElIa0RocEFZRGdneVo4NUVXZkQ0amVJcUh4Wi1GRVNXbmd5NEtBOVZaQQ?oc=5\" target=\"_blank\">Founder of One of the Largest Bi…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12MU1faHFWQTN3TlJXZDRONVRaTXZibTlGeE50Qm56YWU5WWNWeFpLMEJIYjBveVVpUElIa0RocEFZRGdneVo4NUVXZkQ0amVJcUh4Wi1GRVNXbmd5NEtBOVZaQQ?oc=5",
+      "publishedAt": "2026-05-22T02:10:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260522-founder-of-one-of-the-largest-bitcoin-mining-pools-to-join-two-year-starship-mis",
+      "localUrl": "/news/20260522-founder-of-one-of-the-largest-bitcoin-mining-pools-to-join-two-year-starship-mis.html"
+    },
+    {
+      "source": "X Wire",
       "title": "🚨 UPDATE: Bitcoin has more than doubled over the past 5 years, while Ethereum has remained largely flat over the same period. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mUnk3NXZjdWEtVG5tNmNYVHY4UUpXTHdmZkptcmk4d2k5UmZrMnJwanItWWEyeklSZ1JlZ21PcDAwWVhvLVJqYXlhaUxmUzdzZjNYdEthVU81SXA1SzJ3T2p4Qms?oc=5\" target=\"_blank\">🚨 UPDATE: Bitcoin has more tha…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mUnk3NXZjdWEtVG5tNmNYVHY4UUpXTHdmZkptcmk4d2k5UmZrMnJwanItWWEyeklSZ1JlZ21PcDAwWVhvLVJqYXlhaUxmUzdzZjNYdEthVU81SXA1SzJ3T2p4Qms?oc=5",
@@ -1080,14 +1071,25 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: Billionaire Mark Cuban says he sold \"most\" of his Bitcoin. \"Bitcoin has lost the plot.\" - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iUlAwd2hoZDk1MzJucTRBT2p0VVRDVktMZTlhc0h0RnNNd1hKcVNfOV9BYlh6aGFYaG9XSVlpRG5pUm1lT2Vfdy1iSmdHcGl6WDdkY1ZxTC1LLTRTMC1RZ2pR?oc=5\" target=\"_blank\">JUST IN: Billionaire Mark Cuban sa…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iUlAwd2hoZDk1MzJucTRBT2p0VVRDVktMZTlhc0h0RnNNd1hKcVNfOV9BYlh6aGFYaG9XSVlpRG5pUm1lT2Vfdy1iSmdHcGl6WDdkY1ZxTC1LLTRTMC1RZ2pR?oc=5",
-      "publishedAt": "2026-05-21T18:16:19.000Z",
+      "title": "🚨NEW: SEC Commissioner and Crypto Task Force chief @HesterPeirce is tempering expectations around the agency’s contemplated innovation exemption for tokenized stocks, saying she expects it to apply narrowly to onchain equity products, not synthetic t - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5eWRRVDVzQ3dQaTFlNjRjXy1TZF9nMmtjUXlRLXZTSWtka1puZ3NuanpvS2dQZ01wbzk4RHU2S2t1bTZXV2pjSW42NVRHb3hvc3JfMng0Rjd5eEN4T1M0clcwUFFXZw?oc=5\" target=\"_blank\">🚨NEW: SEC Commissioner and …",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5eWRRVDVzQ3dQaTFlNjRjXy1TZF9nMmtjUXlRLXZTSWtka1puZ3NuanpvS2dQZ01wbzk4RHU2S2t1bTZXV2pjSW42NVRHb3hvc3JfMng0Rjd5eEN4T1M0clcwUFFXZw?oc=5",
+      "publishedAt": "2026-05-21T21:27:19.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260521-just-in-billionaire-mark-cuban-says-he-sold-most-of-his-bitcoin-bitcoin-has-lost",
-      "localUrl": "/news/20260521-just-in-billionaire-mark-cuban-says-he-sold-most-of-his-bitcoin-bitcoin-has-lost.html"
+      "slug": "20260521-new-sec-commissioner-and-crypto-task-force-chief-hesterpeirce-is-tempering-expec",
+      "localUrl": "/news/20260521-new-sec-commissioner-and-crypto-task-force-chief-hesterpeirce-is-tempering-expec.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "⚡️ LATEST: Dankrad Feist of Tempo Labs and the Ethereum Foundation said Ethereum needs a new $1B+ organization funded by staking revenue and aligned with ETH growth to “get Ethereum back to winning.” - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZWGlfOUtyOGNva1daa0dOOWtjZTZzS1ZMajYtR1EweUl3TldFaUZ3UjUyWjlENDA5RkRHZXJ5WlRoazNrU1VvUmFLRUxPM091WXV3d1VvUkl5MzNtbGdwMnJzWms?oc=5\" target=\"_blank\">⚡️ LATEST: Dankrad Feist of Tem…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZWGlfOUtyOGNva1daa0dOOWtjZTZzS1ZMajYtR1EweUl3TldFaUZ3UjUyWjlENDA5RkRHZXJ5WlRoazNrU1VvUmFLRUxPM091WXV3d1VvUkl5MzNtbGdwMnJzWms?oc=5",
+      "publishedAt": "2026-05-21T19:50:16.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260521-latest-dankrad-feist-of-tempo-labs-and-the-ethereum-foundation-said-ethereum-nee",
+      "localUrl": "/news/20260521-latest-dankrad-feist-of-tempo-labs-and-the-ethereum-foundation-said-ethereum-nee.html"
     },
     {
       "source": "X Wire",
