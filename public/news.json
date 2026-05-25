@@ -1,7 +1,91 @@
 {
-  "updatedAt": "2026-05-25T16:02:10.689Z",
-  "total": 61,
+  "updatedAt": "2026-05-25T17:52:22.019Z",
+  "total": 81,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "NEAR price rally gains momentum as cross-chain product activity fuels further 15% jump",
+      "summary": "The rally is fueled by NEAR Intents, the cross-chain system that has processed over $19 billion in volume and generated $32 million in fees.",
+      "url": "https://www.coindesk.com/markets/2026/05/25/near-price-rally-gains-momentum-as-cross-chain-product-activity-fuels-further-15-jump",
+      "publishedAt": "2026-05-25T17:38:39.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260525-near-price-rally-gains-momentum-as-cross-chain-product-activity-fuels-further-15",
+      "localUrl": "/news/20260525-near-price-rally-gains-momentum-as-cross-chain-product-activity-fuels-further-15.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Perplexity Built a Tool That Checks Your Computer for Infected Software—Without Setting Off the Infection",
+      "summary": "Bumblebee scans developer machines for compromised packages and AI tool configs. Its core trick: It never actually runs the code it's looking for.",
+      "url": "https://decrypt.co/368944/perplexity-open-source-bumblebee-ai-scanner-mcp-infection-malware",
+      "publishedAt": "2026-05-25T17:08:55.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260525-perplexity-built-a-tool-that-checks-your-computer-for-infected-softwarewithout-s",
+      "localUrl": "/news/20260525-perplexity-built-a-tool-that-checks-your-computer-for-infected-softwarewithout-s.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Indonesia blocks Polymarket, calling prediction market online gambling in disguise",
+      "summary": "Authorities stated that using crypto or blockchain doesn't change platforms that let users wager on uncertain outcomes from being gambling products.",
+      "url": "https://www.coindesk.com/policy/2026/05/25/indonesia-blocks-polymarket-calling-prediction-market-online-gambling-in-disguise",
+      "publishedAt": "2026-05-25T17:04:49.000Z",
+      "keywords": [
+        "Policy",
+        "Polymarket",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260525-indonesia-blocks-polymarket-calling-prediction-market-online-gambling-in-disguis",
+      "localUrl": "/news/20260525-indonesia-blocks-polymarket-calling-prediction-market-online-gambling-in-disguis.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, crypto prices tick up as US-Iran peace deal odds climb",
+      "summary": "Iranian negotiators arrived in Doha for talks, focusing on the Strait of Hormuz and highly enriched uranium, as Pakistan and Qatar are mediating.",
+      "url": "https://www.coindesk.com/markets/2026/05/25/bitcoin-crypto-prices-tick-up-as-us-iran-peace-deal-odds-climb",
+      "publishedAt": "2026-05-25T16:46:45.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260525-bitcoin-crypto-prices-tick-up-as-us-iran-peace-deal-odds-climb",
+      "localUrl": "/news/20260525-bitcoin-crypto-prices-tick-up-as-us-iran-peace-deal-odds-climb.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Vitalik Buterin Signals Shift to 'Smaller Ship' at Ethereum Foundation Amid Departures",
+      "summary": "Buterin revealed that 90% of his net worth is tied up in Ethereum.",
+      "url": "https://decrypt.co/368934/vitalik-buterin-smaller-ship-ethereum-foundation-departures",
+      "publishedAt": "2026-05-25T16:01:05.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "基础设施",
+      "slug": "20260525-vitalik-buterin-signals-shift-to-smaller-ship-at-ethereum-foundation-amid-depart",
+      "localUrl": "/news/20260525-vitalik-buterin-signals-shift-to-smaller-ship-at-ethereum-foundation-amid-depart.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "XRP price in ‘value zone’ near $1.40 as whales pull $170M from exchanges",
+      "summary": "Whales withdrew $170 million in XRP from Binance as the price holds a key $1.35-$1.40 accumulation and support zone.",
+      "url": "https://cointelegraph.com/markets/xrp-price-in-value-zone-near-140-as-whales-pull-170m-from-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-25T15:55:16.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260525-xrp-price-in-value-zone-near-140-as-whales-pull-170m-from-exchanges",
+      "localUrl": "/news/20260525-xrp-price-in-value-zone-near-140-as-whales-pull-170m-from-exchanges.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Buterin says Ethereum Foundation will shrink, sell less ETH, and focus on 'CROPS'",
@@ -16,6 +100,32 @@
       "category": "基础设施",
       "slug": "20260525-buterin-says-ethereum-foundation-will-shrink-sell-less-eth-and-focus-on-crops",
       "localUrl": "/news/20260525-buterin-says-ethereum-foundation-will-shrink-sell-less-eth-and-focus-on-crops.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CoinQuant introduces trading infrastructure for the agent economy",
+      "summary": "CoinQuant, the AI-powered no-code trading platform that has attracted over 15,000 users since launch, today announces its expansion into a unified trading intelligence architecture built for both human traders and autonomous AI agents.",
+      "url": "https://cointelegraph.com/press-releases/coinquant-introduces-trading-infrastructure-for-the-agent-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-25T15:39:11.000Z",
+      "keywords": [
+        "Press Releases"
+      ],
+      "category": "综合",
+      "slug": "20260525-coinquant-introduces-trading-infrastructure-for-the-agent-economy",
+      "localUrl": "/news/20260525-coinquant-introduces-trading-infrastructure-for-the-agent-economy.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Squid and Safe Labs say third-party module behind $3.2M exploit",
+      "summary": "A third-party module drained about $3 million from Safe wallets, with Squid attributing the incident to an external Safe module, saying its core systems were unaffected.",
+      "url": "https://cointelegraph.com/news/squid-safe-labs-third-party-module-3-2-million-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-25T15:26:20.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260525-squid-and-safe-labs-say-third-party-module-behind-32m-exploit",
+      "localUrl": "/news/20260525-squid-and-safe-labs-say-third-party-module-behind-32m-exploit.html"
     },
     {
       "source": "Decrypt",
@@ -243,6 +353,17 @@
       "localUrl": "/news/20260525-new-york-lawsuit-tests-lost-property-claim-over-dormant-bitcoin.html"
     },
     {
+      "source": "X Wire",
+      "title": "🚨 Blockaid detected an ongoing exploit targeting the SquidRouterModule on Ethereum and Base. 86 Gnosis Safes drained for ~$3M in ~2 hours. All stolen tokens swapped to DAI via attacker-controlled Uniswap V3 pools. More details in 🧵 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zVGRhSVJUWlFaRG5WSC1IMHJHTmc3TUJ1V0pyY3JXQWFxdm16alNqVlA4VW9pTm1ZUTFJbkZzVWNSMkZjWGJkY0tSVHAwNHZqUEtQY1R3N2x5S2FzcFcw?oc=5\" target=\"_blank\">🚨 Blockaid detected an ongoing exploi…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zVGRhSVJUWlFaRG5WSC1IMHJHTmc3TUJ1V0pyY3JXQWFxdm16alNqVlA4VW9pTm1ZUTFJbkZzVWNSMkZjWGJkY0tSVHAwNHZqUEtQY1R3N2x5S2FzcFcw?oc=5",
+      "publishedAt": "2026-05-25T11:40:13.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260525-blockaid-detected-an-ongoing-exploit-targeting-the-squidroutermodule-on-ethereum",
+      "localUrl": "/news/20260525-blockaid-detected-an-ongoing-exploit-targeting-the-squidroutermodule-on-ethereum.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Tether, Georgia plan lari-backed stablecoin GELT under new rules",
       "summary": "Georgia’s central bank released stablecoin rules in March covering reserve backing, issuer documents and external auditor verification.",
@@ -275,6 +396,17 @@
       "localUrl": "/news/20260525-hype-funds-attract-millions-as-investors-dump-bitcoin-and-ether-etfs.html"
     },
     {
+      "source": "X Wire",
+      "title": "🐋 ALERT: A Satoshi-era Bitcoin miner deposited 2,650 BTC worth around $203M into FalconX and Cumberland, per Onchain Lens. The wallet still holds 6,000 BTC valued at roughly $462M. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE03UjdjNUZuY283WVBhWVBxYjVtTnNDb0ZCRnhROEdNS3hWc3l2bUhuUHJJUzBmTXNHY2E1TGF6VFVnamdkLVNYbTR1cVlsUXNUZ3pjVHZydXJKZUh0UEgzY3FIU0E?oc=5\" target=\"_blank\">🐋 ALERT: A Satoshi-era Bitcoin…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03UjdjNUZuY283WVBhWVBxYjVtTnNDb0ZCRnhROEdNS3hWc3l2bUhuUHJJUzBmTXNHY2E1TGF6VFVnamdkLVNYbTR1cVlsUXNUZ3pjVHZydXJKZUh0UEgzY3FIU0E?oc=5",
+      "publishedAt": "2026-05-25T09:39:18.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260525-alert-a-satoshi-era-bitcoin-miner-deposited-2650-btc-worth-around-203m-into-falc",
+      "localUrl": "/news/20260525-alert-a-satoshi-era-bitcoin-miner-deposited-2650-btc-worth-around-203m-into-falc.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Hyperliquid is emerging as a challenger to traditional exchanges and prediction markets, says FalconX",
       "summary": "A new report shows Hyperliquid is rapidly expanding beyond crypto into pre-IPO markets, prediction contracts, and 24/7 asset trading, putting Wall Street giants on high alert.",
@@ -288,6 +420,28 @@
       "category": "市场",
       "slug": "20260525-hyperliquid-is-emerging-as-a-challenger-to-traditional-exchanges-and-prediction-",
       "localUrl": "/news/20260525-hyperliquid-is-emerging-as-a-challenger-to-traditional-exchanges-and-prediction-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "I think #Bitcoin is ready for higher grounds. If there's going to be a peace deal in the coming days in the Middle East; - Oil goes down. - Yields go down. - Risk on assets will do well. - #Bitcoin breaks above $80k+ again. - #Altcoins will have their time for the enti - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FTTdMTEduTmhEdl9kRWtDdmd4Ty1PT3QzZ1I3UTN1a0lCQUdNMlN4cW5aclgzZlF6NTlvSHZ1Sk1qVnNDMXVJUncxMG9KWWZjOUtvaklSRTdvTDhmbXBORnRDaw?oc=5\" target=\"_blank\">I think #Bitcoin is ready for hi…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FTTdMTEduTmhEdl9kRWtDdmd4Ty1PT3QzZ1I3UTN1a0lCQUdNMlN4cW5aclgzZlF6NTlvSHZ1Sk1qVnNDMXVJUncxMG9KWWZjOUtvaklSRTdvTDhmbXBORnRDaw?oc=5",
+      "publishedAt": "2026-05-25T08:01:18.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260525-i-think-bitcoin-is-ready-for-higher-grounds-if-theres-going-to-be-a-peace-deal-i",
+      "localUrl": "/news/20260525-i-think-bitcoin-is-ready-for-higher-grounds-if-theres-going-to-be-a-peace-deal-i.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 ALERT: TrapDoor malware is targeting crypto and AI developers via a supply chain attack, deploying 34 malicious packages to steal wallets, SSH keys, and API keys. The malware also injects hidden instructions to hijack AI coding assistants including Claud - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ybnR1Um5ZV3VlQlEyNFA1cDJjejAzY2hhU2pIaUY5QzlNR0RzN1ItMFYxUmV2WmExRWRFNXRlaVpvT2xjRWh1blY1OGdob0JYSXdaVk5uYUhEOGoxT3R5SWlmRDQ?oc=5\" target=\"_blank\">🚨 ALERT: TrapDoor malware is t…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ybnR1Um5ZV3VlQlEyNFA1cDJjejAzY2hhU2pIaUY5QzlNR0RzN1ItMFYxUmV2WmExRWRFNXRlaVpvT2xjRWh1blY1OGdob0JYSXdaVk5uYUhEOGoxT3R5SWlmRDQ?oc=5",
+      "publishedAt": "2026-05-25T07:20:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260525-alert-trapdoor-malware-is-targeting-crypto-and-ai-developers-via-a-supply-chain-",
+      "localUrl": "/news/20260525-alert-trapdoor-malware-is-targeting-crypto-and-ai-developers-via-a-supply-chain-.html"
     },
     {
       "source": "Cointelegraph",
@@ -331,6 +485,17 @@
       "localUrl": "/news/20260525-bitcoin-etfs-6-day-loss-streak-pushes-market-closer-to-net-outflows-for-2026.html"
     },
     {
+      "source": "X Wire",
+      "title": "BLACKROCK JUST SOLD $1 BILLION OF BTC BlackRock sold Bitcoin every single day last week. They sold a total of $1.01 BILLION of BTC. If BlackRock is selling… who’s buying? - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9waHhVeDRmVzVEbFZQMG5FcUJLNXUxaGVWaFRvYjRhTUpWUTJLZS1qTTFMR1E3UFk5bGlZUmljVXNwaTFLZDFGMnM3VnFPYU1BTWVIeWFoWFVTWlk?oc=5\" target=\"_blank\">BLACKROCK JUST SOLD $1 BILLION OF BTC Black…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9waHhVeDRmVzVEbFZQMG5FcUJLNXUxaGVWaFRvYjRhTUpWUTJLZS1qTTFMR1E3UFk5bGlZUmljVXNwaTFLZDFGMnM3VnFPYU1BTWVIeWFoWFVTWlk?oc=5",
+      "publishedAt": "2026-05-25T06:32:05.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260525-blackrock-just-sold-1-billion-of-btc-blackrock-sold-bitcoin-every-single-day-las",
+      "localUrl": "/news/20260525-blackrock-just-sold-1-billion-of-btc-blackrock-sold-bitcoin-every-single-day-las.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "‘TrapDoor’ malware targets crypto dev tools in supply chain attack",
       "summary": "Socket says a campaign of malicious packages is aiming to steal crypto and is injecting hidden instructions that hijack popular AI coding assistants.",
@@ -360,43 +525,26 @@
       "localUrl": "/news/20260525-bitcoin-options-are-coming-to-nasdaq-heres-what-it-means-for-you.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "‘Developed ecosystem’ based on crypto has sprung up for AI agents: Report",
-      "summary": "Stablecoins became the default settlement layer for AI agents as crypto payment rails can handle sub-dollar transactions more efficiently, says a report from Keyrock.",
-      "url": "https://cointelegraph.com/news/ai-agents-using-stablecoins-as-default-settlement-layer-keyrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-25T05:41:44.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260525-developed-ecosystem-based-on-crypto-has-sprung-up-for-ai-agents-report",
-      "localUrl": "/news/20260525-developed-ecosystem-based-on-crypto-has-sprung-up-for-ai-agents-report.html"
+      "source": "X Wire",
+      "title": "Vitalik: Ethereum Foundation to Sell Less ETH Going Forward Ethereum co-founder Vitalik Buterin said in a post on X that the Ethereum Foundation has decided to use its remaining resources to prioritize long-term sustainability rather than expanding the brea - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XLXRZR2xMRjVob0w4YTJVSERnc0dza05VQXgyZFdDVHlUMGVlaGc0SHpHMm9RQjBpWG5oaVZVQTBqWjQxVU0xY2FPYVVtdHBLSTA3ZnJmM3FncGRHQi1MbzdHNA?oc=5\" target=\"_blank\">Vitalik: Ethereum Foundation to …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XLXRZR2xMRjVob0w4YTJVSERnc0dza05VQXgyZFdDVHlUMGVlaGc0SHpHMm9RQjBpWG5oaVZVQTBqWjQxVU0xY2FPYVVtdHBLSTA3ZnJmM3FncGRHQi1MbzdHNA?oc=5",
+      "publishedAt": "2026-05-25T02:53:28.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260525-vitalik-ethereum-foundation-to-sell-less-eth-going-forward-ethereum-co-founder-v",
+      "localUrl": "/news/20260525-vitalik-ethereum-foundation-to-sell-less-eth-going-forward-ethereum-co-founder-v.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Kalshi backs prediction markets lobby group with former Trump official",
-      "summary": "\"We’re not going to be outspent or out-organized by entrenched interests protecting their monopolies,\" said John Bivona, head of government relations at Kalshi.",
-      "url": "https://cointelegraph.com/news/kalshi-launches-advocacy-group-to-counter-anti-prediction-market-lobbying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-25T05:07:32.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260525-kalshi-backs-prediction-markets-lobby-group-with-former-trump-official",
-      "localUrl": "/news/20260525-kalshi-backs-prediction-markets-lobby-group-with-former-trump-official.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "SEC postpones plan allowing 'innovation exemption' for tokenized stocks: Report",
-      "summary": "The SEC has reportedly delayed releasing a proposal permitting tokenized stock trading after receiving industry concerns.",
-      "url": "https://cointelegraph.com/news/sec-postpones-plan-allowing-innovation-exemption-for-tokenized-stocks-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-25T03:45:13.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260525-sec-postpones-plan-allowing-innovation-exemption-for-tokenized-stocks-report",
-      "localUrl": "/news/20260525-sec-postpones-plan-allowing-innovation-exemption-for-tokenized-stocks-report.html"
+      "source": "X Wire",
+      "title": "I hate Ethereum as much as the next Bitcoin Maximalist but even I can't help but feel a bit sorry for how bad things are for them now. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uOTFqemtkVjZsNWltaGNIZFN5LXBzODZvRWxSaDFIcURVcXZnS1IyQTVVeklRV3Y4dk9mOURjc0NaOFMxY2d5VWhyVWZEdjNhcEhtNU5GazBPS3hVTDJ3?oc=5\" target=\"_blank\">I hate Ethereum as much as the next Bi…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uOTFqemtkVjZsNWltaGNIZFN5LXBzODZvRWxSaDFIcURVcXZnS1IyQTVVeklRV3Y4dk9mOURjc0NaOFMxY2d5VWhyVWZEdjNhcEhtNU5GazBPS3hVTDJ3?oc=5",
+      "publishedAt": "2026-05-25T02:22:32.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260525-i-hate-ethereum-as-much-as-the-next-bitcoin-maximalist-but-even-i-cant-help-but-",
+      "localUrl": "/news/20260525-i-hate-ethereum-as-much-as-the-next-bitcoin-maximalist-but-even-i-cant-help-but-.html"
     },
     {
       "source": "Decrypt",
@@ -458,6 +606,28 @@
       "localUrl": "/news/20260524-crypto-and-the-fed-state-of-crypto.html"
     },
     {
+      "source": "X Wire",
+      "title": "⚡️ JUST IN: Vitalik Buterin says the Ethereum Foundation is moving toward a leaner role, with less emphasis on expansion and broader ecosystem control. Buterin adds the EF plans to sell less ETH and currently holds around 0.16% of total ETH supply. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE95UzhINUdoYmV6RThXQlBqQVVxTWZpY2VWQjhFakt0WUl1dHREa2VPRFg1S3dPLUNVR0dqZldxc3ZQNU9FM1ZjaVlqc3VPOWQwc1FZanJjWC1Fd0REeGNBb043MTI?oc=5\" target=\"_blank\">⚡️ JUST IN: Vitalik Buterin say…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95UzhINUdoYmV6RThXQlBqQVVxTWZpY2VWQjhFakt0WUl1dHREa2VPRFg1S3dPLUNVR0dqZldxc3ZQNU9FM1ZjaVlqc3VPOWQwc1FZanJjWC1Fd0REeGNBb043MTI?oc=5",
+      "publishedAt": "2026-05-24T17:09:40.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260524-just-in-vitalik-buterin-says-the-ethereum-foundation-is-moving-toward-a-leaner-r",
+      "localUrl": "/news/20260524-just-in-vitalik-buterin-says-the-ethereum-foundation-is-moving-toward-a-leaner-r.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Vitalik：EF Is Not Ethereum’s Center, but a Smaller Node With a Clear Mission Vitalik Buterin said the Ethereum Foundation is not the “center” of Ethereum, but one node with a clearly defined purpose. He said the EF will become smaller, more long-term-orient - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VZVdLSlR4ZDJiOGQwLVloSDdNcElIQmFWSTZSaElxeXNTOWxtT3RlZkNyeHVuUkNMOHFMV0VtOEtlYUxhbFFSQ3NYaG1ybkZhQVI3OFRMN2lZLW5PbENDSFhQSQ?oc=5\" target=\"_blank\">Vitalik：EF Is Not Ethereum’s Cen…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VZVdLSlR4ZDJiOGQwLVloSDdNcElIQmFWSTZSaElxeXNTOWxtT3RlZkNyeHVuUkNMOHFMV0VtOEtlYUxhbFFSQ3NYaG1ybkZhQVI3OFRMN2lZLW5PbENDSFhQSQ?oc=5",
+      "publishedAt": "2026-05-24T17:01:13.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260524-vitalikef-is-not-ethereums-center-but-a-smaller-node-with-a-clear-mission-vitali",
+      "localUrl": "/news/20260524-vitalikef-is-not-ethereums-center-but-a-smaller-node-with-a-clear-mission-vitali.html"
+    },
+    {
       "source": "Decrypt",
       "title": "AI Startup Says It Will Pay People $2,000 a Month to Masturbate—Yes, Really",
       "summary": "Joi AI is hiring 10 “masturbation consultants” to test its AI-guided masturbation feature and report how it affects stress, sleep, mood, and confidence.",
@@ -469,6 +639,17 @@
       "category": "综合",
       "slug": "20260524-ai-startup-says-it-will-pay-people-2000-a-month-to-masturbateyes-really",
       "localUrl": "/news/20260524-ai-startup-says-it-will-pay-people-2000-a-month-to-masturbateyes-really.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Some of my perspective on where the @ethereumfndn is going. First of all, this is only my own view. The board is not just me, and I have no extra special powers on the board that the other board members do not. @aerugoettinea is the one executing much of t - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PRzJaQ1NPQk9pVjk3WUMxRFZGV1l4M1R3Y08tOWJ1ckgycHVIMU9ONnRZMVBaejdlbnRUbGhqLTNWbDNhaTFpRzBPTW1kNHBGbUNhQTBiRzhqcHppUmtqYTc2UFhmQQ?oc=5\" target=\"_blank\">Some of my perspective on wh…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PRzJaQ1NPQk9pVjk3WUMxRFZGV1l4M1R3Y08tOWJ1ckgycHVIMU9ONnRZMVBaejdlbnRUbGhqLTNWbDNhaTFpRzBPTW1kNHBGbUNhQTBiRzhqcHppUmtqYTc2UFhmQQ?oc=5",
+      "publishedAt": "2026-05-24T16:19:09.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260524-some-of-my-perspective-on-where-the-ethereumfndn-is-going-first-of-all-this-is-o",
+      "localUrl": "/news/20260524-some-of-my-perspective-on-where-the-ethereumfndn-is-going-first-of-all-this-is-o.html"
     },
     {
       "source": "CoinDesk",
@@ -484,6 +665,17 @@
       "category": "DeFi",
       "slug": "20260524-a-massive-1-trillion-hidden-market-is-waiting-to-be-unlocked-in-bitcoin-says-new",
       "localUrl": "/news/20260524-a-massive-1-trillion-hidden-market-is-waiting-to-be-unlocked-in-bitcoin-says-new.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "This week we bought bonds, not bitcoin. The ₿itVac is charging. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LMDlvdnFGMW9WWlBnTC1Xc1pIZjR4RkNCWnZrSkp6UUhhcEF3WTY5am5rQ3Y4aHdvS1FxRk15TDlGbUxXdWpaZldhR2IzcVBxZE5WMGJ0UWppZE0?oc=5\" target=\"_blank\">This week we bought bonds, not bitcoin. The…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LMDlvdnFGMW9WWlBnTC1Xc1pIZjR4RkNCWnZrSkp6UUhhcEF3WTY5am5rQ3Y4aHdvS1FxRk15TDlGbUxXdWpaZldhR2IzcVBxZE5WMGJ0UWppZE0?oc=5",
+      "publishedAt": "2026-05-24T14:41:49.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260524-this-week-we-bought-bonds-not-bitcoin-the-itvac-is-charging-xcom",
+      "localUrl": "/news/20260524-this-week-we-bought-bonds-not-bitcoin-the-itvac-is-charging-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -523,6 +715,17 @@
       "category": "综合",
       "slug": "20260524-crypto-rails-are-becoming-the-default-payment-layer-for-ai-agents-report-says",
       "localUrl": "/news/20260524-crypto-rails-are-becoming-the-default-payment-layer-for-ai-agents-report-says.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Binance Australia to Require Sender and Beneficiary Info for Crypto Transfers From July 1 Binance announced that from July 1, 2026, Australian users must provide sender information for incoming crypto deposits and beneficiary information for outgoing withdr - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sYTZXYThxRS1YbldzcWRXRzlvcURiQWMzeTlkVjZ0THhLeHdSN0c4RnVwdTlCRGthczRESmFNdnBZOS1HQUZSbkJZNEp5Z1EwOFVRQ0c3UEppcGxEWno2YU4wNA?oc=5\" target=\"_blank\">Binance Australia to Require Sen…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sYTZXYThxRS1YbldzcWRXRzlvcURiQWMzeTlkVjZ0THhLeHdSN0c4RnVwdTlCRGthczRESmFNdnBZOS1HQUZSbkJZNEp5Z1EwOFVRQ0c3UEppcGxEWno2YU4wNA?oc=5",
+      "publishedAt": "2026-05-24T07:08:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260524-binance-australia-to-require-sender-and-beneficiary-info-for-crypto-transfers-fr",
+      "localUrl": "/news/20260524-binance-australia-to-require-sender-and-beneficiary-info-for-crypto-transfers-fr.html"
     },
     {
       "source": "CoinDesk",
@@ -582,6 +785,17 @@
       "localUrl": "/news/20260523-bitcoin-dives-below-75k-for-first-time-in-a-month-as-crypto-liquidations-near-1-.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: There's now a 75% Bitcoin will drop to $70,000 before going up to $90,000, according to Polymarket 👀 HODL! ✊ - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNdUVPVktmVkJycUVYTXIxSEluT2s3R092SU1YVGF3cGw4aTlhbUFHUk1jckZCSlFLdTk5Nm5MVWg3ZEpfRVNVNWpGRXpiaG1QNlhsNVMxSE5ubEtEYkc3Zm9PVjZuWGM?oc=5\" target=\"_blank\">JUST IN: There's now a 75% …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNdUVPVktmVkJycUVYTXIxSEluT2s3R092SU1YVGF3cGw4aTlhbUFHUk1jckZCSlFLdTk5Nm5MVWg3ZEpfRVNVNWpGRXpiaG1QNlhsNVMxSE5ubEtEYkc3Zm9PVjZuWGM?oc=5",
+      "publishedAt": "2026-05-23T15:21:26.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260523-just-in-theres-now-a-75-bitcoin-will-drop-to-70000-before-going-up-to-90000-acco",
+      "localUrl": "/news/20260523-just-in-theres-now-a-75-bitcoin-will-drop-to-70000-before-going-up-to-90000-acco.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Argentina Launched an AI to Predict the Future. It Couldn't Predict a Typo",
       "summary": "Milei's government unveiled a social digital twin to overhaul public policy—announced via a video full of AI slop, grammatical errors, and a deepfake of a minister.",
@@ -593,6 +807,17 @@
       "category": "监管",
       "slug": "20260523-argentina-launched-an-ai-to-predict-the-future-it-couldnt-predict-a-typo",
       "localUrl": "/news/20260523-argentina-launched-an-ai-to-predict-the-future-it-couldnt-predict-a-typo.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "MASSIVE 🚨 Meta has officially overtaken Bitcoin to become the 12th largest asset in the world. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DaF9PT2JHbGdVWjhNaXhWYU81TWJVYVBnU1c2SnVQVHZaUTQ3dEZPWVZiekE1OE05RGZnTk9WUFJxQlI2UGgxVGZ2Yk53akRzdzJVWVRsOU1WMG1JMUY5UTBn?oc=5\" target=\"_blank\">MASSIVE 🚨 Meta has officially ove…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DaF9PT2JHbGdVWjhNaXhWYU81TWJVYVBnU1c2SnVQVHZaUTQ3dEZPWVZiekE1OE05RGZnTk9WUFJxQlI2UGgxVGZ2Yk53akRzdzJVWVRsOU1WMG1JMUY5UTBn?oc=5",
+      "publishedAt": "2026-05-23T14:22:04.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260523-massive-meta-has-officially-overtaken-bitcoin-to-become-the-12th-largest-asset-i",
+      "localUrl": "/news/20260523-massive-meta-has-officially-overtaken-bitcoin-to-become-the-12th-largest-asset-i.html"
     },
     {
       "source": "CoinDesk",
@@ -610,6 +835,17 @@
       "category": "市场",
       "slug": "20260523-crypto-trader-sees-hyperliquid-ai-tokens-leading-next-altcoin-rally",
       "localUrl": "/news/20260523-crypto-trader-sees-hyperliquid-ai-tokens-leading-next-altcoin-rally.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "A wide-ranging conversation on Bitcoin, Strategy, volatility, conviction, and why there is no second best. $BTC $MSTR $STRC - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UbGR3YlVYWDYwdHRDUXlYVnA2QjE5OEpxRmlxY09aMnRMaEIyeWNLaGg1TmF6VVJsVENIVmZ6VVozQmZvUHRFQ0NFY0xnOUhwc0c0QTRudlZ0TFk?oc=5\" target=\"_blank\">A wide-ranging conversation on Bitcoin, Str…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UbGR3YlVYWDYwdHRDUXlYVnA2QjE5OEpxRmlxY09aMnRMaEIyeWNLaGg1TmF6VVJsVENIVmZ6VVozQmZvUHRFQ0NFY0xnOUhwc0c0QTRudlZ0TFk?oc=5",
+      "publishedAt": "2026-05-23T13:44:52.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260523-a-wide-ranging-conversation-on-bitcoin-strategy-volatility-conviction-and-why-th",
+      "localUrl": "/news/20260523-a-wide-ranging-conversation-on-bitcoin-strategy-volatility-conviction-and-why-th.html"
     },
     {
       "source": "Decrypt",
@@ -644,6 +880,17 @@
       "localUrl": "/news/20260523-clarity-act-could-spark-a-boom-in-crypto-yield-as-a-service.html"
     },
     {
+      "source": "X Wire",
+      "title": "I've been an Ethereum supporter since the early days and I still believe it's one of the most important pieces of infrastructure in crypto. The tech is great, my conviction hasn't changed in that respect. But watching 9 senior researchers and key operators leave the - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kS0ZUbWJkd1RlR2NsWE10WkRoaklfZU14SmUzWEFjRkxhZzZwUjV3X19OWlEwWm1QMWhjUkE0ZFVqcVJaemVxekF5MjRFcDZtSFRCZ2VkYVFSODRQ?oc=5\" target=\"_blank\">I've been an Ethereum supporter since the …",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kS0ZUbWJkd1RlR2NsWE10WkRoaklfZU14SmUzWEFjRkxhZzZwUjV3X19OWlEwWm1QMWhjUkE0ZFVqcVJaemVxekF5MjRFcDZtSFRCZ2VkYVFSODRQ?oc=5",
+      "publishedAt": "2026-05-23T10:45:32.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260523-ive-been-an-ethereum-supporter-since-the-early-days-and-i-still-believe-its-one-",
+      "localUrl": "/news/20260523-ive-been-an-ethereum-supporter-since-the-early-days-and-i-still-believe-its-one-.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Bitcoin tanks to $74,300 as spot ETFs bleed $2.26 billion in two weeks",
       "summary": "U.S.-listed spot bitcoin exchange-traded funds have seen more than $2.26 billion in outflows over the past two weeks.",
@@ -657,6 +904,17 @@
       "category": "监管",
       "slug": "20260523-bitcoin-tanks-to-74300-as-spot-etfs-bleed-226-billion-in-two-weeks",
       "localUrl": "/news/20260523-bitcoin-tanks-to-74300-as-spot-etfs-bleed-226-billion-in-two-weeks.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BLOCKCHAIN EXPANSION UPDATE Chainlink services expanded across the following blockchains: CCIP • Creditcoin • Neo X • Tempo CRE • Ink Data Streams • Robinhood Chain (testnet) Data Feeds • Ink - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqQ0x2QWFlcEE5aVpvcHlrQ0M5TVRWMXJ6YzF4Ujl6LV9qbjVrREJBR2V0YlJXamJIME1hbHVCR2h6dlRIYUZncmFMQUVsS1MzTzhzbzJKVnZFUF9nVjVN?oc=5\" target=\"_blank\">BLOCKCHAIN EXPANSION UPDATE Chainlink …",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqQ0x2QWFlcEE5aVpvcHlrQ0M5TVRWMXJ6YzF4Ujl6LV9qbjVrREJBR2V0YlJXamJIME1hbHVCR2h6dlRIYUZncmFMQUVsS1MzTzhzbzJKVnZFUF9nVjVN?oc=5",
+      "publishedAt": "2026-05-22T22:31:11.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260522-blockchain-expansion-update-chainlink-services-expanded-across-the-following-blo",
+      "localUrl": "/news/20260522-blockchain-expansion-update-chainlink-services-expanded-across-the-following-blo.html"
     },
     {
       "source": "Decrypt",
@@ -698,6 +956,17 @@
       "localUrl": "/news/20260522-microsofts-free-ai-just-beat-openai-and-google-at-browsing-the-web.html"
     },
     {
+      "source": "X Wire",
+      "title": "The tokenized commodity market is almost entirely gold. Gold is an obvious fit for tokenization: It’s global, standard, and already tracked through paper claims Plus, crypto investors already get it. Bitcoin was called “digital gold” long before tokenized gold took o - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEYV81YVhuLV9RbWd1cFV2d2hycHRQdmVuMmlUYS1JaG5RdFF1NWxKTl85OHB0S3hXcHNJNlRUbjliQlZnZmg3QUxQS0hNM2FERWExbl80bWZneGxfaW5YTw?oc=5\" target=\"_blank\">The tokenized commodity market is al…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEYV81YVhuLV9RbWd1cFV2d2hycHRQdmVuMmlUYS1JaG5RdFF1NWxKTl85OHB0S3hXcHNJNlRUbjliQlZnZmg3QUxQS0hNM2FERWExbl80bWZneGxfaW5YTw?oc=5",
+      "publishedAt": "2026-05-22T20:29:45.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260522-the-tokenized-commodity-market-is-almost-entirely-gold-gold-is-an-obvious-fit-fo",
+      "localUrl": "/news/20260522-the-tokenized-commodity-market-is-almost-entirely-gold-gold-is-an-obvious-fit-fo.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Kalshi Debuts 'Fair Markets' Lobby Group as Congress Opens Insider Trading Probe",
       "summary": "Kalshi unveiled Americans for Fair Markets, an advocacy group to help shape policymakers’ perception of prediction markets.",
@@ -724,40 +993,6 @@
       "localUrl": "/news/20260522-two-men-federally-charged-over-ai-deepfake-porn-under-the-take-it-down-act.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "F2Pool founder who controls 11% of bitcoin's hashrate to lead first SpaceX mission to Mars",
-      "summary": "Chun Wang, the first Mission Commander for SpaceX’s first commercial spaceflight to Mars, is crucial for the future transport of millions of tons of cargo and a million citizens to the Red Planet.",
-      "url": "https://www.coindesk.com/business/2026/05/22/f2pool-founder-who-controls-11-of-bitcoin-s-hashrate-to-lead-first-spacex-mission-to-mars",
-      "publishedAt": "2026-05-22T19:47:09.000Z",
-      "keywords": [
-        "Finance",
-        "Bitcoin Mining",
-        "SpaceX",
-        "Elon Musk",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260522-f2pool-founder-who-controls-11-of-bitcoins-hashrate-to-lead-first-spacex-mission",
-      "localUrl": "/news/20260522-f2pool-founder-who-controls-11-of-bitcoins-hashrate-to-lead-first-spacex-mission.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robinhood Crypto COO Tanya Denisova is leaving company amid revenue slowdown",
-      "summary": "Robinhood Crypto COO Tanya Denisova is leaving the firm after more than five years, as the trading platform navigates a sharp decline in crypto revenue and works to lessen its dependence on digital asset market cycles.",
-      "url": "https://www.coindesk.com/business/2026/05/22/robinhood-crypto-coo-tanya-denisova-is-leaving-company-amid-revenue-slowdown",
-      "publishedAt": "2026-05-22T19:40:15.000Z",
-      "keywords": [
-        "Finance",
-        "Exclusive",
-        "Robinhood",
-        "Crypto Trading",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260522-robinhood-crypto-coo-tanya-denisova-is-leaving-company-amid-revenue-slowdown",
-      "localUrl": "/news/20260522-robinhood-crypto-coo-tanya-denisova-is-leaving-company-amid-revenue-slowdown.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin Billionaire Books First SpaceX Mars Mission",
       "summary": "F2Pool co-founder Chun Wang plans a Starship flyby of Mars, before SpaceX attempts to land humans on the surface.",
@@ -771,6 +1006,28 @@
       "localUrl": "/news/20260522-bitcoin-billionaire-books-first-spacex-mars-mission.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: SEC delays plans to allow “crypto versions” of U.S. stocks. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5dFVobHdPcFo4WEhKalpWX0Z2NEJCNHVwYnQwRjFkd2w1WXJud2dRSzFmRE1qSzVCT0YzcXBTV0ozaHptODBlRWY0WmJxVFctbkIzQkpxQ3UwOHExaXR0Yw?oc=5\" target=\"_blank\">JUST IN: SEC delays plans to allow “…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5dFVobHdPcFo4WEhKalpWX0Z2NEJCNHVwYnQwRjFkd2w1WXJud2dRSzFmRE1qSzVCT0YzcXBTV0ozaHptODBlRWY0WmJxVFctbkIzQkpxQ3UwOHExaXR0Yw?oc=5",
+      "publishedAt": "2026-05-22T19:10:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260522-just-in-sec-delays-plans-to-allow-crypto-versions-of-us-stocks-xcom",
+      "localUrl": "/news/20260522-just-in-sec-delays-plans-to-allow-crypto-versions-of-us-stocks-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Congressman Nick Begich's new Strategic Bitcoin Reserve bill now has 21 cosponsors 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByY08xLUdtTjZMZmZLcVEwY0xneTJmNXpQWHpaV2J3N2RmRDhMU29TU2Q5UXJWWktlRGc3QTd3NGRFMEMxVlI1V2hnRnd4QlFtRXZtQUhYOFJwOTlwakZuWUFvMXVmU1E?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Congressman N…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByY08xLUdtTjZMZmZLcVEwY0xneTJmNXpQWHpaV2J3N2RmRDhMU29TU2Q5UXJWWktlRGc3QTd3NGRFMEMxVlI1V2hnRnd4QlFtRXZtQUhYOFJwOTlwakZuWUFvMXVmU1E?oc=5",
+      "publishedAt": "2026-05-22T19:01:59.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260522-just-in-congressman-nick-begichs-new-strategic-bitcoin-reserve-bill-now-has-21-c",
+      "localUrl": "/news/20260522-just-in-congressman-nick-begichs-new-strategic-bitcoin-reserve-bill-now-has-21-c.html"
+    },
+    {
       "source": "Decrypt",
       "title": "GameStop Seeks to Boost Share Count as eBay Pursuit Continues After Rejection",
       "summary": "Gaming retailer GameStop wants to add 1.5 billion shares to its authorized share count as it seeks to maximize financial flexibility.",
@@ -782,22 +1039,6 @@
       "category": "市场",
       "slug": "20260522-gamestop-seeks-to-boost-share-count-as-ebay-pursuit-continues-after-rejection",
       "localUrl": "/news/20260522-gamestop-seeks-to-boost-share-count-as-ebay-pursuit-continues-after-rejection.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens",
-      "summary": "Hester Peirce, the commissioner behind the SEC's Crypto Task Force, made statements on the now-delayed proposal, perhaps tamping down mistaken beliefs.",
-      "url": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
-      "publishedAt": "2026-05-22T18:20:32.000Z",
-      "keywords": [
-        "News Analysis",
-        "Tokenization",
-        "Regulation",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260522-sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-to",
-      "localUrl": "/news/20260522-sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-to.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -853,32 +1094,6 @@
       "category": "市场",
       "slug": "20260522-trump-media-moves-over-200-million-in-bitcoin-as-losses-pile-up-arkham",
       "localUrl": "/news/20260522-trump-media-moves-over-200-million-in-bitcoin-as-losses-pile-up-arkham.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "NYSE Parent, OKX Counter Hyperliquid With Regulated Oil Perpetual Futures",
-      "summary": "OKX debuted perpetual oil futures tied to Intercontinental Exchange’s benchmarks, the latest sign of growing competition for Hyperliquid.",
-      "url": "https://decrypt.co/368755/nyse-parent-okx-counter-hyperliquid-regulated-oil-perpetual-futures",
-      "publishedAt": "2026-05-22T15:15:30.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "综合",
-      "slug": "20260522-nyse-parent-okx-counter-hyperliquid-with-regulated-oil-perpetual-futures",
-      "localUrl": "/news/20260522-nyse-parent-okx-counter-hyperliquid-with-regulated-oil-perpetual-futures.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "House Republicans Open Investigation Into Kalshi, Polymarket Over Insider Trading",
-      "summary": "The chair of the powerful House Oversight Committee has requested documents from Polymarket and Kalshi regarding insider trading and war-related markets.",
-      "url": "https://decrypt.co/368748/house-republicans-open-investigation-kalshi-polymarket-insider-trades",
-      "publishedAt": "2026-05-22T14:37:58.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260522-house-republicans-open-investigation-into-kalshi-polymarket-over-insider-trading",
-      "localUrl": "/news/20260522-house-republicans-open-investigation-into-kalshi-polymarket-over-insider-trading.html"
     }
   ]
 }
