@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-26T21:56:41.963Z</lastmod>
+    <lastmod>2026-05-26T23:20:58.608Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-26T21:56:41.963Z</lastmod>
+    <lastmod>2026-05-26T23:20:58.608Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260526-hype-chases-new-highs-as-etf-inflows-institutional-adoption-accelerate.html</loc>
+    <lastmod>2026-05-26T23:01:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260526-crypto-advocacy-group-challenges-senator-warrens-claims-on-occ-charters.html</loc>
+    <lastmod>2026-05-26T22:21:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260526-bitcoin-mining-stocks-jump-as-ai-infrastructure-boom-boosts-sector-outlook.html</loc>
+    <lastmod>2026-05-26T22:07:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260526-some-non-enhanced-athletes-beat-their-juiced-rivals-at-the-steroid-olympics.html</loc>
@@ -140,7 +158,7 @@
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260526-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-05-26T15:39:04.000Z</lastmod>
+    <lastmod>2026-05-26T15:35:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -361,18 +379,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260526-luffa-secures-strategic-investment-from-gofintech-quantum-at-us220-million-valua.html</loc>
-    <lastmod>2026-05-26T10:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260526-hyperliquid-launches-prediction-markets-for-real-world-events.html</loc>
-    <lastmod>2026-05-26T10:26:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260526-bitcoin-caught-between-critical-onchain-support-and-an-options-showdown.html</loc>
     <lastmod>2026-05-26T09:11:06.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -385,26 +391,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260526-ai-agents-must-be-treated-as-untrusted-systems-researchers.html</loc>
-    <lastmod>2026-05-26T07:11:26.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260526-scammers-steal-at-least-400k-through-fake-uniswap-google-ads-on-chain-analyst-b-.html</loc>
-    <lastmod>2026-05-26T06:17:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260526-what-is-a-mining-rig-a-beginner-guide-to-crypto-mining-key-components-read-more-.html</loc>
     <lastmod>2026-05-26T03:00:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260526-today-ark-invests-cathie-wood-breaks-down-her-5-year-bitcoin-price-predictions-7.html</loc>
-    <lastmod>2026-05-26T01:00:31.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260525-regulation-indonesia-bans-polymarket-classifying-the-crypto-prediction-market-as.html</loc>
+    <lastmod>2026-05-25T21:36:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -427,14 +421,20 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260525-just-in-claude-keeps-telling-users-to-go-to-sleep-mid-conversation-and-even-anth.html</loc>
-    <lastmod>2026-05-25T11:22:48.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260525-this-is-the-area-to-accumulate-ethereum-its-been-lagging-behind-for-years-but-it.html</loc>
+    <lastmod>2026-05-25T09:45:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260525-blackrock-just-sold-1-billion-of-btc-blackrock-sold-bitcoin-every-single-day-las.html</loc>
     <lastmod>2026-05-25T06:32:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260525-breaking-the-ethereum-foundation-will-sell-less-eth-vitalik-just-confirmed-it-th.html</loc>
+    <lastmod>2026-05-25T04:36:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
