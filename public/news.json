@@ -1,7 +1,64 @@
 {
-  "updatedAt": "2026-05-27T23:37:26.704Z",
+  "updatedAt": "2026-05-28T04:35:55.547Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin drops below $73,000 as US strikes on Iran spark $1 billion liquidations",
+      "summary": "Crypto majors sold off 3% to 4% and nearly $1 billion in leveraged positions were wiped out after U.S. airstrikes on an Iranian military site near the Strait of Hormuz reignited the conflict markets had started to price out.",
+      "url": "https://www.coindesk.com/markets/2026/05/28/bitcoin-drops-below-usd73-000-as-us-strikes-on-iran-spark-usd1-billion-liquidations",
+      "publishedAt": "2026-05-28T04:25:42.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260528-bitcoin-drops-below-73000-as-us-strikes-on-iran-spark-1-billion-liquidations",
+      "localUrl": "/news/20260528-bitcoin-drops-below-73000-as-us-strikes-on-iran-spark-1-billion-liquidations.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kraken rolls out Bitcoin vault product for holders to earn yield",
+      "summary": "Within the first 10 hours of launch, the Kraken Earn BTC Vault raked in $30 million worth of Bitcoin deposits from 4,000 unique wallets.",
+      "url": "https://cointelegraph.com/news/kraken-rolls-out-bitcoin-vault-for-holders-to-earn-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-28T02:50:41.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260528-kraken-rolls-out-bitcoin-vault-product-for-holders-to-earn-yield",
+      "localUrl": "/news/20260528-kraken-rolls-out-bitcoin-vault-product-for-holders-to-earn-yield.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin falls further as BTC miners pivot to AI, pro-crypto legislation stalls",
+      "summary": "Bitcoin’s underperformance of stocks deepens as BTC miners pivot to AI and pro-crypto regulation in the United States stalled.",
+      "url": "https://cointelegraph.com/markets/bitcoin-falls-further-as-btc-miners-pivot-to-ai-pro-crypto-legislation-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-28T01:35:49.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260528-bitcoin-falls-further-as-btc-miners-pivot-to-ai-pro-crypto-legislation-stalls",
+      "localUrl": "/news/20260528-bitcoin-falls-further-as-btc-miners-pivot-to-ai-pro-crypto-legislation-stalls.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. CFTC files request to erase Gemini settlement that it no longer considers fair",
+      "summary": "The regulator went back to analyze the 2022 case and decided that it wouldn't have been pursued under current management and practices.",
+      "url": "https://www.coindesk.com/policy/2026/05/27/u-s-cftc-files-request-to-erase-gemini-settlement-that-it-no-longer-considers-fair",
+      "publishedAt": "2026-05-28T01:12:09.000Z",
+      "keywords": [
+        "Policy",
+        "CFTC",
+        "Gemini",
+        "Winklevoss",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260528-us-cftc-files-request-to-erase-gemini-settlement-that-it-no-longer-considers-fai",
+      "localUrl": "/news/20260528-us-cftc-files-request-to-erase-gemini-settlement-that-it-no-longer-considers-fai.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Crypto card monthly transaction volume surges 230% from 2025",
@@ -112,6 +169,17 @@
       "localUrl": "/news/20260527-ethereum-traders-grow-increasingly-bearish-as-etfs-bleed-eth-sinks-near-2000.html"
     },
     {
+      "source": "X Wire",
+      "title": "Updates since then: * Deepseek v4 is out. There *is* a 2-bit quant that can run within 90 GB ( huggingface.co/antirez/deepse… ), and it works, however it's only fast on Apple hardware (I've head ~35 tok/s). On AMD, it's ~7 tok/s. IMO actually taking the effort to p - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFQ1BQWHdkRzJraG9yaEYzbHhwUmdpX2NCV2xPaERQU0o4Vi1HSkI4dmdjTHV3QmVHbU8wc01BZFNrWnNudTAwaVZ6TTQwUWZXT1UzcUpWdGozZE82RGRzd29WTFg5dw?oc=5\" target=\"_blank\">Updates since then: * Deepse…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFQ1BQWHdkRzJraG9yaEYzbHhwUmdpX2NCV2xPaERQU0o4Vi1HSkI4dmdjTHV3QmVHbU8wc01BZFNrWnNudTAwaVZ6TTQwUWZXT1UzcUpWdGozZE82RGRzd29WTFg5dw?oc=5",
+      "publishedAt": "2026-05-27T20:51:51.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260527-updates-since-then-deepseek-v4-is-out-there-is-a-2-bit-quant-that-can-run-within",
+      "localUrl": "/news/20260527-updates-since-then-deepseek-v4-is-out-there-is-a-2-bit-quant-that-can-run-within.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Orca, Streamex roll out secondary trading infrastructure for tokenized securities",
       "summary": "Accredited investors can buy and sell the gold-backed GLDY token through permissioned liquidity pools operating on the Solana blockchain.",
@@ -188,6 +256,17 @@
       "category": "市场",
       "slug": "20260527-deepseek-xiaomi-just-made-frontier-ai-99-cheaper-american-labs-went-the-other-wa",
       "localUrl": "/news/20260527-deepseek-xiaomi-just-made-frontier-ai-99-cheaper-american-labs-went-the-other-wa.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "TLDRStop valuing Ethereum on its fees. Fees are friction, and the one number a winning network drives toward zero. ETH fees have fallen from more than $50 per transaction at the 2021 peak to about $0.20 today, while the network now processes more than - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aZ3dGRzVES2h2cFR4SmNWcHdoU1RsaU0yRnJYNThHTmxBZlk5WGR0Y1piS1REOXNYUkU3dkp1SkhYcGlKbzFqSkJhZktlVktPU240RWcxVjdmWk0zWVpiSQ?oc=5\" target=\"_blank\">TLDRStop valuing Ethereum on its fee…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aZ3dGRzVES2h2cFR4SmNWcHdoU1RsaU0yRnJYNThHTmxBZlk5WGR0Y1piS1REOXNYUkU3dkp1SkhYcGlKbzFqSkJhZktlVktPU240RWcxVjdmWk0zWVpiSQ?oc=5",
+      "publishedAt": "2026-05-27T19:23:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260527-tldrstop-valuing-ethereum-on-its-fees-fees-are-friction-and-the-one-number-a-win",
+      "localUrl": "/news/20260527-tldrstop-valuing-ethereum-on-its-fees-fees-are-friction-and-the-one-number-a-win.html"
     },
     {
       "source": "Cointelegraph",
@@ -601,19 +680,6 @@
       "localUrl": "/news/20260527-robinhood-is-letting-ai-trade-for-you-so-you-dont-have-to-keep-checking-the-mark.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Aeternum brings the second edition of Unchained Summit to Vietnam on May 28-29",
-      "summary": "Aeternum, organisers of the Unchained Summit series, will host the second edition of Unchained Summit Vietnam this week on May 28 and 29 at the Furama Resort in Da Nang.",
-      "url": "https://cointelegraph.com/press-releases/aeternum-brings-the-second-edition-of-unchained-summit-to-vietnam-on-may-28-29?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-27T14:11:57.000Z",
-      "keywords": [
-        "Press Releases"
-      ],
-      "category": "监管",
-      "slug": "20260527-aeternum-brings-the-second-edition-of-unchained-summit-to-vietnam-on-may-28-29",
-      "localUrl": "/news/20260527-aeternum-brings-the-second-edition-of-unchained-summit-to-vietnam-on-may-28-29.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "DTCC plans to bring tokenized assets to Stellar in latest Wall Street blockchain push",
       "summary": "The U.S. market infrastructure giant targets connecting tokenized stocks, ETFs and Treasuries to Stellar in the first half of 2027.",
@@ -753,21 +819,8 @@
       "localUrl": "/news/20260527-solana-dex-orca-launches-new-marketplace-for-tokenized-real-world-assets.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "China’s top court to study rules for crypto and AI cases",
-      "summary": "China’s Supreme People’s Court plans to study adjudication rules for crypto and AI cases while the country’s crypto ban remains in force.",
-      "url": "https://cointelegraph.com/news/china-supreme-court-formulate-rules-digital-currency-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-27T12:58:46.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260527-chinas-top-court-to-study-rules-for-crypto-and-ai-cases",
-      "localUrl": "/news/20260527-chinas-top-court-to-study-rules-for-crypto-and-ai-cases.html"
-    },
-    {
       "source": "CoinDesk",
-      "title": "Live markets: bitcoin sentiment in 'absolute gutter' as price slips below $75,000",
+      "title": "Live markets: bitcoin slides to new monthly low below $75,000 on report of strikes against Iran",
       "summary": "Memory chip stocks are attracting capital and attention, with crypto markets settling into apathy.",
       "url": "https://www.coindesk.com/markets/2026/05/27/live-markets-bitcoin-remains-under-pressure-as-korea-s-sk-hynix-joins-micron-in-usd1-trillion-club",
       "publishedAt": "2026-05-27T12:44:24.000Z",
@@ -778,8 +831,8 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260527-live-markets-bitcoin-sentiment-in-absolute-gutter-as-price-slips-below-75000",
-      "localUrl": "/news/20260527-live-markets-bitcoin-sentiment-in-absolute-gutter-as-price-slips-below-75000.html"
+      "slug": "20260527-live-markets-bitcoin-slides-to-new-monthly-low-below-75000-on-report-of-strikes-",
+      "localUrl": "/news/20260527-live-markets-bitcoin-slides-to-new-monthly-low-below-75000-on-report-of-strikes-.html"
     },
     {
       "source": "Decrypt",
@@ -795,20 +848,6 @@
       "localUrl": "/news/20260527-morning-minute-dark-pool-trader-dumps-13b-in-ibit-in-single-clip.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin gauge tracking selling pressure moves into 'high-risk' zone as ETF demand slumps",
-      "summary": "U.S. spot bitcoin ETFs have accumulated a net 4,500 BTC since the start of 2026, with May reversing the buying pattern that built through March and April, per Swissblock data.",
-      "url": "https://www.coindesk.com/markets/2026/05/27/bitcoin-etf-accumulation-flattens-to-just-4-500-btc-year-to-date-as-may-flips-to-outflows",
-      "publishedAt": "2026-05-27T12:25:15.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260527-bitcoin-gauge-tracking-selling-pressure-moves-into-high-risk-zone-as-etf-demand-",
-      "localUrl": "/news/20260527-bitcoin-gauge-tracking-selling-pressure-moves-into-high-risk-zone-as-etf-demand-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Trump Backs CFTC Over Prediction Markets, Calls State Officials ‘Scum’",
       "summary": "Federal oversight gains the president’s backing as states push to bring prediction markets under their own gambling laws.",
@@ -821,24 +860,6 @@
       "category": "监管",
       "slug": "20260527-trump-backs-cftc-over-prediction-markets-calls-state-officials-scum",
       "localUrl": "/news/20260527-trump-backs-cftc-over-prediction-markets-calls-state-officials-scum.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kraken unveils Bitcoin Vault, expanding yield push for BTC holders",
-      "summary": "The new earn product lets users generate BTC-denominated rewards through DeFi strategies while keeping exposure to bitcoin’s price.",
-      "url": "https://www.coindesk.com/tech/2026/05/26/kraken-unveils-bitcoin-vault-expanding-yield-push-for-btc-holders",
-      "publishedAt": "2026-05-27T12:00:00.000Z",
-      "keywords": [
-        "Tech",
-        "Kraken",
-        "Bitcoin News",
-        "DeFi",
-        "Exclusive",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260527-kraken-unveils-bitcoin-vault-expanding-yield-push-for-btc-holders",
-      "localUrl": "/news/20260527-kraken-unveils-bitcoin-vault-expanding-yield-push-for-btc-holders.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -859,17 +880,6 @@
       "category": "监管",
       "slug": "20260527-the-new-compliance-floor-organizations-are-adopting-stronger-than-ever-monitorin",
       "localUrl": "/news/20260527-the-new-compliance-floor-organizations-are-adopting-stronger-than-ever-monitorin.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "NEW: JPMorgan is hiring a Global Research Crypto Analyst. The role sits within the bank’s FX strategy team and focuses on crypto market structure, spot + derivatives research, and integrating digital assets into broader cross-asset views. JPM is looking for so - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sV1hxaFlTT043aDdYUnFRVnN0RUNjeWVEVldiR2ZRSGp2M0xvRU5mS3V1c2VFRjIyXzByMC1lcXZ4aGphTG9kVXdSY1ZmVUxpbE9WMFhCY0hzZ3EwSzRYNlBfVQ?oc=5\" target=\"_blank\">NEW: JPMorgan is hiring a Global…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sV1hxaFlTT043aDdYUnFRVnN0RUNjeWVEVldiR2ZRSGp2M0xvRU5mS3V1c2VFRjIyXzByMC1lcXZ4aGphTG9kVXdSY1ZmVUxpbE9WMFhCY0hzZ3EwSzRYNlBfVQ?oc=5",
-      "publishedAt": "2026-05-27T11:50:07.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260527-new-jpmorgan-is-hiring-a-global-research-crypto-analyst-the-role-sits-within-the",
-      "localUrl": "/news/20260527-new-jpmorgan-is-hiring-a-global-research-crypto-analyst-the-role-sits-within-the.html"
     },
     {
       "source": "Decrypt",
@@ -995,17 +1005,6 @@
     },
     {
       "source": "X Wire",
-      "title": "NEW: Ark Invest CEO Cathie Wood predicts Bitcoin will be $750,000—$1,250,000 in the next 5 years 🚀 \"The biggest reason is institutional adoption.\" - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iLVpBN0NVTXJ5WkRGXzdrWGp1amItY3UyY3hKdHZCZS1aa1diLWl1YlVIUkZlN2FYMGdHTlg5Q0pJSWVtWkZnVUR0cmZvY1hubUhPMjNxWlFUMGRpdkt4aUx3WGpLQnc?oc=5\" target=\"_blank\">NEW: Ark Invest CEO Cathie …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iLVpBN0NVTXJ5WkRGXzdrWGp1amItY3UyY3hKdHZCZS1aa1diLWl1YlVIUkZlN2FYMGdHTlg5Q0pJSWVtWkZnVUR0cmZvY1hubUhPMjNxWlFUMGRpdkt4aUx3WGpLQnc?oc=5",
-      "publishedAt": "2026-05-26T17:10:48.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260526-new-ark-invest-ceo-cathie-wood-predicts-bitcoin-will-be-7500001250000-in-the-nex",
-      "localUrl": "/news/20260526-new-ark-invest-ceo-cathie-wood-predicts-bitcoin-will-be-7500001250000-in-the-nex.html"
-    },
-    {
-      "source": "X Wire",
       "title": "CME Expands Crypto Derivatives Offering With AVAX and SUI Futures Launch CME Group announced that Avalanche (AVAX) and Sui (SUI) futures are now live for trading. CME said the new products are designed to give institutional and professional traders - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkTE5iX0ljWEI0NXpxUlF1enV0bFAyMUZBRzlwTEZrRVMtR3EyZFgwVW80bkZNVENFWHE2VzFSa2FuWk1zU19pcXJSWHU3WUNPZ18yS0UtM1FZWHNWSDh2akRNVQ?oc=5\" target=\"_blank\">CME Expands Crypto Derivatives O…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkTE5iX0ljWEI0NXpxUlF1enV0bFAyMUZBRzlwTEZrRVMtR3EyZFgwVW80bkZNVENFWHE2VzFSa2FuWk1zU19pcXJSWHU3WUNPZ18yS0UtM1FZWHNWSDh2akRNVQ?oc=5",
@@ -1061,6 +1060,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Bitcoin Sees Largest Weekly Outflow of 2026 as Digital Asset Funds Lose $1.47B CoinShares reported $1.47 billion in outflows from digital asset investment products last week, marking the third-largest weekly outflow of 2026. Bitcoin alone saw $1.315 billion i - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SaHZ1cnB3TEhNb0JfYzcwZE1Wek81Z0Jkd1F4WFo4dDR6cVN6RkxKc0tnWllaUWZOVlNQUkh2R0o2Zk9odkcwQmtEaW1SWnN4SS1Yd3V0WG1MUnY0Vkx3SWs2MA?oc=5\" target=\"_blank\">Bitcoin Sees Largest Weekly Outf…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SaHZ1cnB3TEhNb0JfYzcwZE1Wek81Z0Jkd1F4WFo4dDR6cVN6RkxKc0tnWllaUWZOVlNQUkh2R0o2Zk9odkcwQmtEaW1SWnN4SS1Yd3V0WG1MUnY0Vkx3SWs2MA?oc=5",
+      "publishedAt": "2026-05-26T08:24:40.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260526-bitcoin-sees-largest-weekly-outflow-of-2026-as-digital-asset-funds-lose-147b-coi",
+      "localUrl": "/news/20260526-bitcoin-sees-largest-weekly-outflow-of-2026-as-digital-asset-funds-lose-147b-coi.html"
+    },
+    {
+      "source": "X Wire",
       "title": "The largest firm to IPO ever owns Bitcoin. SpaceX just dropped its S-1 filing. Balance sheet: 18,712 $BTC. You're not ready. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LQUxaOTNfR1FWUmdWNVQ0OEhBVGJiT3JsSWoyVkxYckI5a0R5SU5RX2M0bXpwYzVoYlNjdmh0XzFHQUg3d0otQzF2ajVyeTBhcWFYN1BRdFBsaXFGSDY4ZGJ3?oc=5\" target=\"_blank\">The largest firm to IPO ever owns …",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LQUxaOTNfR1FWUmdWNVQ0OEhBVGJiT3JsSWoyVkxYckI5a0R5SU5RX2M0bXpwYzVoYlNjdmh0XzFHQUg3d0otQzF2ajVyeTBhcWFYN1BRdFBsaXFGSDY4ZGJ3?oc=5",
@@ -1113,17 +1123,6 @@
       "category": "X热点",
       "slug": "20260525-blackrock-just-sold-1-billion-of-btc-blackrock-sold-bitcoin-every-single-day-las",
       "localUrl": "/news/20260525-blackrock-just-sold-1-billion-of-btc-blackrock-sold-bitcoin-every-single-day-las.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Spot Bitcoin ETFs Saw $1.257B in Net Outflows Last Week From May 18 to May 22 (ET), spot Bitcoin ETFs recorded net outflows of $1.257 billion, spot Ethereum ETFs saw net outflows of $216 million, spot SOL ETFs recorded net inflows of $15.63 million, spot - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBndVlySU5CS0lPME5FSnlUdVFFQ3otdjZsdkRHQjNOT200a3M2aEpMUHZ5NlpFNVAxeUJtanhMV2xFOHpuTDRvVFZ5MjdXSG9saGFIYmlscWlpcEx4VWVMQzdtRQ?oc=5\" target=\"_blank\">Spot Bitcoin ETFs Saw $1.257B in…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBndVlySU5CS0lPME5FSnlUdVFFQ3otdjZsdkRHQjNOT200a3M2aEpMUHZ5NlpFNVAxeUJtanhMV2xFOHpuTDRvVFZ5MjdXSG9saGFIYmlscWlpcEx4VWVMQzdtRQ?oc=5",
-      "publishedAt": "2026-05-25T03:30:48.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260525-spot-bitcoin-etfs-saw-1257b-in-net-outflows-last-week-from-may-18-to-may-22-et-s",
-      "localUrl": "/news/20260525-spot-bitcoin-etfs-saw-1257b-in-net-outflows-last-week-from-may-18-to-may-22-et-s.html"
     }
   ]
 }
