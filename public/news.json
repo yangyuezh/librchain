@@ -1,10 +1,122 @@
 {
-  "updatedAt": "2026-05-28T04:35:55.547Z",
+  "updatedAt": "2026-05-28T08:51:33.793Z",
   "total": 83,
   "items": [
     {
       "source": "CoinDesk",
-      "title": "Bitcoin drops below $73,000 as US strikes on Iran spark $1 billion liquidations",
+      "title": "Diverging trends: Ether slides below $2,000 while futures open interest hits record high of 16 million ETH",
+      "summary": "Ether drops below $2,000 amid heavy selling pressure, yet futures open interest hits a record high. This divergences suggests aggressive shorting.",
+      "url": "https://www.coindesk.com/markets/2026/05/28/diverging-trends-ether-slides-below-usd2k-while-futures-open-interest-hits-record-high-of-16-million-eth",
+      "publishedAt": "2026-05-28T07:19:35.000Z",
+      "keywords": [
+        "Markets",
+        "Ethereum News",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260528-diverging-trends-ether-slides-below-2000-while-futures-open-interest-hits-record",
+      "localUrl": "/news/20260528-diverging-trends-ether-slides-below-2000-while-futures-open-interest-hits-record.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto companies have tightened compliance, but gaps remain: Chainalysis",
+      "summary": "Around 47% of crypto organizations onboarded in 2026 are operating at alerting standards that would have ranked among the industry’s strictest five years ago.",
+      "url": "https://cointelegraph.com/news/crypto-compliance-standards-chainalysis-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-28T07:17:05.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260528-crypto-companies-have-tightened-compliance-but-gaps-remain-chainalysis",
+      "localUrl": "/news/20260528-crypto-companies-have-tightened-compliance-but-gaps-remain-chainalysis.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto markets shed $80B after fresh US strikes on Iran",
+      "summary": "The crypto market capitalization has fallen to its lowest level since mid-April after the US carried out strikes on Iran for the second time in three days amid peace talks.",
+      "url": "https://cointelegraph.com/news/crypto-markets-tank-80b-as-us-carries-out-fresh-strikes-on-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-28T06:54:24.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260528-crypto-markets-shed-80b-after-fresh-us-strikes-on-iran",
+      "localUrl": "/news/20260528-crypto-markets-shed-80b-after-fresh-us-strikes-on-iran.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC seeks to reverse settlement deal with Gemini",
+      "summary": "The CFTC claimed that its settled complaint filed under the Biden administration relied heavily on a whistleblower’s allegations that Gemini inflated trading activity to distort user demand.",
+      "url": "https://cointelegraph.com/news/cftc-moves-to-reverse-settlement-deal-against-gemini?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-28T06:41:24.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260528-cftc-seeks-to-reverse-settlement-deal-with-gemini",
+      "localUrl": "/news/20260528-cftc-seeks-to-reverse-settlement-deal-with-gemini.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BlackRock's bitcoin ETF sheds $528 million, the second-largest daily outflow on record",
+      "summary": "IBIT recorded its second-biggest single-day net outflow since launch on Wednesday, missing a January record by less than half a million dollars, as the Iran-driven sell-off pulled institutional money out of bitcoin.",
+      "url": "https://www.coindesk.com/markets/2026/05/28/blackrock-s-bitcoin-etf-sheds-usd528-million-the-second-largest-daily-outflow-on-record",
+      "publishedAt": "2026-05-28T05:56:12.000Z",
+      "keywords": [
+        "Markets",
+        "ETFs",
+        "BlackRock",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260528-blackrocks-bitcoin-etf-sheds-528-million-the-second-largest-daily-outflow-on-rec",
+      "localUrl": "/news/20260528-blackrocks-bitcoin-etf-sheds-528-million-the-second-largest-daily-outflow-on-rec.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin funding spike shows longs defending $70K: Will ETF outflows reverse bulls’ efforts?",
+      "summary": "Bitcoin dropped closer to a critical support level as spot and long futures traders’ efforts to hold $75,000 failed. Is sub-$70,000 BTC next?",
+      "url": "https://cointelegraph.com/markets/bitcoin-funding-spike-shows-longs-defending-75k-will-etf-outflows-reverse-bulls-efforts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-28T05:09:22.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260528-bitcoin-funding-spike-shows-longs-defending-70k-will-etf-outflows-reverse-bulls-",
+      "localUrl": "/news/20260528-bitcoin-funding-spike-shows-longs-defending-70k-will-etf-outflows-reverse-bulls-.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin could be heading much lower, fund manager warns as $150 billion Treasury operation nears",
+      "summary": "Fund manager Michael Kramer says a $150 billion liquidity drain from upcoming U.S. Treasury operations could push bitcoin sharply lower.",
+      "url": "https://www.coindesk.com/markets/2026/05/28/bitcoin-could-be-heading-much-lower-fund-manager-warns-as-usd150-billion-treasury-operation-nears",
+      "publishedAt": "2026-05-28T04:55:44.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260528-bitcoin-could-be-heading-much-lower-fund-manager-warns-as-150-billion-treasury-o",
+      "localUrl": "/news/20260528-bitcoin-could-be-heading-much-lower-fund-manager-warns-as-150-billion-treasury-o.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP drops 4% below $1.30 as heavy selling breaks key support zone",
+      "summary": "XRP lost another major support level after high-volume selling accelerated late in the session, keeping focus on whether the months-long compression structure is now breaking lower.",
+      "url": "https://www.coindesk.com/markets/2026/05/28/xrp-drops-4-below-usd1-30-as-heavy-selling-breaks-key-support-zone",
+      "publishedAt": "2026-05-28T04:41:05.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260528-xrp-drops-4-below-130-as-heavy-selling-breaks-key-support-zone",
+      "localUrl": "/news/20260528-xrp-drops-4-below-130-as-heavy-selling-breaks-key-support-zone.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin drops below $73,000 as U.S. strikes on Iran spark $1 billion liquidations",
       "summary": "Crypto majors sold off 3% to 4% and nearly $1 billion in leveraged positions were wiped out after U.S. airstrikes on an Iranian military site near the Strait of Hormuz reignited the conflict markets had started to price out.",
       "url": "https://www.coindesk.com/markets/2026/05/28/bitcoin-drops-below-usd73-000-as-us-strikes-on-iran-spark-usd1-billion-liquidations",
       "publishedAt": "2026-05-28T04:25:42.000Z",
@@ -15,6 +127,41 @@
       "category": "市场",
       "slug": "20260528-bitcoin-drops-below-73000-as-us-strikes-on-iran-spark-1-billion-liquidations",
       "localUrl": "/news/20260528-bitcoin-drops-below-73000-as-us-strikes-on-iran-spark-1-billion-liquidations.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US charges Google employee with insider trading bets on Polymarket",
+      "summary": "The Justice Department and the CFTC allege that Google software engineer Michele Spagnuolo profited $1.2 million on Polymarket after accessing non-public information at work.",
+      "url": "https://cointelegraph.com/news/us-charges-google-employee-with-insider-trading-on-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-28T04:25:32.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260528-us-charges-google-employee-with-insider-trading-bets-on-polymarket",
+      "localUrl": "/news/20260528-us-charges-google-employee-with-insider-trading-bets-on-polymarket.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸🇮🇷 Bitcoin falls under $73,000 after US and Iran launch attacks against each other. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OVU4yUHQ5TGZtOG5HRktLV1ZoY2JNTWxfdDhGeEFVall6SV8zcXpSOTN5Zm5SeEZxMGdGRjJwSGx5Um4xQXlyU2pQZ2lNczNfMnJ5MFVhR0EwdmRsdGk4ZjNB?oc=5\" target=\"_blank\">JUST IN: 🇺🇸🇮🇷 Bitcoin falls un…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OVU4yUHQ5TGZtOG5HRktLV1ZoY2JNTWxfdDhGeEFVall6SV8zcXpSOTN5Zm5SeEZxMGdGRjJwSGx5Um4xQXlyU2pQZ2lNczNfMnJ5MFVhR0EwdmRsdGk4ZjNB?oc=5",
+      "publishedAt": "2026-05-28T04:03:31.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260528-just-in-bitcoin-falls-under-73000-after-us-and-iran-launch-attacks-against-each-",
+      "localUrl": "/news/20260528-just-in-bitcoin-falls-under-73000-after-us-and-iran-launch-attacks-against-each-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: Bitcoin falls below $74,000 as $230 million worth of levered longs are liquidated in 60 minutes. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE02UE1XdFFXQnhyUElId3R5bkw1anFXWnJKclFRcjZNSURsWlNrY05kc3NzSTFBWnF3V2prdkNzZmtKeS1PRGNsTmltSkhENXhqdEIzRW80Y1JCOUh4UFpjWGV6S2p5dw?oc=5\" target=\"_blank\">BREAKING: Bitcoin falls belo…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02UE1XdFFXQnhyUElId3R5bkw1anFXWnJKclFRcjZNSURsWlNrY05kc3NzSTFBWnF3V2prdkNzZmtKeS1PRGNsTmltSkhENXhqdEIzRW80Y1JCOUh4UFpjWGV6S2p5dw?oc=5",
+      "publishedAt": "2026-05-28T03:47:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260528-breaking-bitcoin-falls-below-74000-as-230-million-worth-of-levered-longs-are-liq",
+      "localUrl": "/news/20260528-breaking-bitcoin-falls-below-74000-as-230-million-worth-of-levered-longs-are-liq.html"
     },
     {
       "source": "Cointelegraph",
@@ -32,7 +179,7 @@
     {
       "source": "Cointelegraph",
       "title": "Bitcoin falls further as BTC miners pivot to AI, pro-crypto legislation stalls",
-      "summary": "Bitcoin’s underperformance of stocks deepens as BTC miners pivot to AI and pro-crypto regulation in the United States stalled.",
+      "summary": "Bitcoin’s underperformance of stocks deepened as BTC miners pivoted to AI and pro-crypto regulation in the United States stalled.",
       "url": "https://cointelegraph.com/markets/bitcoin-falls-further-as-btc-miners-pivot-to-ai-pro-crypto-legislation-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-05-28T01:35:49.000Z",
       "keywords": [
@@ -417,17 +564,6 @@
       "localUrl": "/news/20260527-prediction-markets-enter-the-derivatives-era-xbit-dex-opens-whitelist-for-predic.html"
     },
     {
-      "source": "X Wire",
-      "title": "Donald Trump is gutting a crypto watchdog so the Trump family and their friends can enrich themselves. We need crypto legislation that stops this corruption and protects Americans from getting scammed. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Za0tXRDg2VEJReEFKeW54eWZmSkljck5ZcWRXX3FFeVpOZ3NkanFOdTVzSVgxcUtyT2k3ajZyMjZIaDkxeG9Dal9sSUplSWtYYWgxT1MwalIwQTNWaVVV?oc=5\" target=\"_blank\">Donald Trump is gutting a crypto watch…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Za0tXRDg2VEJReEFKeW54eWZmSkljck5ZcWRXX3FFeVpOZ3NkanFOdTVzSVgxcUtyT2k3ajZyMjZIaDkxeG9Dal9sSUplSWtYYWgxT1MwalIwQTNWaVVV?oc=5",
-      "publishedAt": "2026-05-27T16:53:17.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260527-donald-trump-is-gutting-a-crypto-watchdog-so-the-trump-family-and-their-friends-",
-      "localUrl": "/news/20260527-donald-trump-is-gutting-a-crypto-watchdog-so-the-trump-family-and-their-friends-.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin price threatens $75K loss as US-Iran peace progress sparks new stocks records",
       "summary": "Bitcoin disappointed bulls by dropping below $75,000 on Iran peace deal reports while US stocks hit new all-time highs and oil saw one-month lows on Hormuz hopes.",
@@ -555,19 +691,6 @@
       "localUrl": "/news/20260527-huaweis-new-benchmark-gives-ai-agents-months-of-your-lifethen-watches-them-fail.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "StakeDAO exploit creates 5.4 trillion vsdCRV but nets only $91K",
-      "summary": "PeckShield said the attacker bridged 43.7 ETH to Ethereum after minting trillions of vsdCRV, while EmberCN said most of the remaining tokens had insufficient liquidity to sell.",
-      "url": "https://cointelegraph.com/news/stakedao-vsdcrv-attacker-liquidity-91k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-27T15:07:29.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "安全",
-      "slug": "20260527-stakedao-exploit-creates-54-trillion-vsdcrv-but-nets-only-91k",
-      "localUrl": "/news/20260527-stakedao-exploit-creates-54-trillion-vsdcrv-but-nets-only-91k.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Mastercard Secures New York BitLicense in Push for Stablecoins, Tokenized Deposits",
       "summary": "Mastercard has secured a highly coveted BitLicense in New York, anchoring its compliance-first strategy for stablecoins on Wall Street.",
@@ -579,32 +702,6 @@
       "category": "监管",
       "slug": "20260527-mastercard-secures-new-york-bitlicense-in-push-for-stablecoins-tokenized-deposit",
       "localUrl": "/news/20260527-mastercard-secures-new-york-bitlicense-in-push-for-stablecoins-tokenized-deposit.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "HTX denies UK sanctions allegations as new data flags $7.6B Russia-linked flows",
-      "summary": "UK sanctions Huobi Global S.A., operator of HTX, over alleged role in Russia’s “A7” shadow network, as new analysis claims the exchange handled billions in high‑risk flows.",
-      "url": "https://cointelegraph.com/news/htx-denies-uk-sanctions-allegations-as-new-data-flags-76b-in-russia-linked-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-27T14:57:10.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260527-htx-denies-uk-sanctions-allegations-as-new-data-flags-76b-russia-linked-flows",
-      "localUrl": "/news/20260527-htx-denies-uk-sanctions-allegations-as-new-data-flags-76b-russia-linked-flows.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Banca Sella gets MiCA clearance for crypto services in Italy",
-      "summary": "The bank plans to launch digital asset custody, transfer and receipt services in 2026 for selected customer categories.",
-      "url": "https://cointelegraph.com/news/italy-banca-sella-mica-crypto-custody-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-27T14:36:37.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260527-banca-sella-gets-mica-clearance-for-crypto-services-in-italy",
-      "localUrl": "/news/20260527-banca-sella-gets-mica-clearance-for-crypto-services-in-italy.html"
     },
     {
       "source": "CoinDesk",
@@ -623,19 +720,6 @@
       "localUrl": "/news/20260527-block-kicks-off-cash-apps-phased-stablecoin-roll-out-to-its-nearly-60-million-us.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price shrugs off $1.3B BlackRock ETF block sale",
-      "summary": "Bitcoin’s price stayed firm despite a massive $1.3 billion block sale executed by a mysterious BlackRock ETF holder, which analysts called a sign of large-scale institutional de-risking.",
-      "url": "https://cointelegraph.com/news/bitcoin-price-shrugs-13b-blackrock-etf-block-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-27T14:24:37.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260527-bitcoin-price-shrugs-off-13b-blackrock-etf-block-sale",
-      "localUrl": "/news/20260527-bitcoin-price-shrugs-off-13b-blackrock-etf-block-sale.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "A bipartisan bridge to the future: Why the Senate must finish the job on digital Assets",
       "summary": "The Clarity Act’s recent markup proved that the momentum for regulation is there. It is imperative that Congress move the bill forward to establish rules this generation needs and a framework the next will inherit, urges Kim.",
@@ -650,19 +734,6 @@
       "category": "监管",
       "slug": "20260527-a-bipartisan-bridge-to-the-future-why-the-senate-must-finish-the-job-on-digital-",
       "localUrl": "/news/20260527-a-bipartisan-bridge-to-the-future-why-the-senate-must-finish-the-job-on-digital-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Sold in May and went away? Bitcoin risks another 10% drop as month turns red",
-      "summary": "Bitcoin is on track to end May in the red, a historically bearish signal that could point to deeper losses ahead if the post-May track record is any guide.",
-      "url": "https://cointelegraph.com/markets/sell-in-may-and-go-away-bitcoin-risks-another-drop-as-month-turns-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-27T14:14:29.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260527-sold-in-may-and-went-away-bitcoin-risks-another-10-drop-as-month-turns-red",
-      "localUrl": "/news/20260527-sold-in-may-and-went-away-bitcoin-risks-another-10-drop-as-month-turns-red.html"
     },
     {
       "source": "CoinDesk",
@@ -755,39 +826,6 @@
       "localUrl": "/news/20260527-major-crypto-exchanges-increase-transfer-scrutiny-with-htx-over-uk-sanctions.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "CoinDesk 20 performance update: Internet Computer (ICP) Jumps 9.8%",
-      "summary": "Stellar (XLM), up 1.7%, joined Internet Computer (ICP) as a top performer.",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/05/27/coindesk-20-performance-update-internet-computer-icp-jumps-9-8",
-      "publishedAt": "2026-05-27T13:20:10.000Z",
-      "keywords": [
-        "CoinDesk Indices",
-        "CoinDesk Indices",
-        "CoinDesk 20",
-        "charts",
-        "Prices",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260527-coindesk-20-performance-update-internet-computer-icp-jumps-98",
-      "localUrl": "/news/20260527-coindesk-20-performance-update-internet-computer-icp-jumps-98.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Mastercard secures New York BitLicense to support stablecoin and digital payment infrastructure",
-      "summary": "The payments giant said the approval supports its push into stablecoins and blockchain-based settlement infrastructure.",
-      "url": "https://www.coindesk.com/business/2026/05/27/mastercard-secures-new-york-bitlicense-to-support-stablecoin-and-digital-payment-infrastructure",
-      "publishedAt": "2026-05-27T13:15:00.000Z",
-      "keywords": [
-        "Finance",
-        "Mastercard",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260527-mastercard-secures-new-york-bitlicense-to-support-stablecoin-and-digital-payment",
-      "localUrl": "/news/20260527-mastercard-secures-new-york-bitlicense-to-support-stablecoin-and-digital-payment.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Solana Meme Coin Surges 6,000% After Creators Arrested Over 'Rug Pull'",
       "summary": "The charges against the CatFi creators mark the first time South Korean prosecutors have applied the new Virtual Asset User Protection Act.",
@@ -799,40 +837,6 @@
       "category": "监管",
       "slug": "20260527-solana-meme-coin-surges-6000-after-creators-arrested-over-rug-pull",
       "localUrl": "/news/20260527-solana-meme-coin-surges-6000-after-creators-arrested-over-rug-pull.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Solana DEX Orca launches new marketplace for tokenized real-world assets",
-      "summary": "The launch comes as crypto companies increasingly focus on tokenizing traditional financial assets, a market many in the industry see as a major growth opportunity.",
-      "url": "https://www.coindesk.com/business/2026/05/27/solana-dex-orca-launches-new-marketplace-for-tokenized-real-world-assets",
-      "publishedAt": "2026-05-27T13:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Solana News",
-        "DEX",
-        "Real World Assets",
-        "Tokenization",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260527-solana-dex-orca-launches-new-marketplace-for-tokenized-real-world-assets",
-      "localUrl": "/news/20260527-solana-dex-orca-launches-new-marketplace-for-tokenized-real-world-assets.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live markets: bitcoin slides to new monthly low below $75,000 on report of strikes against Iran",
-      "summary": "Memory chip stocks are attracting capital and attention, with crypto markets settling into apathy.",
-      "url": "https://www.coindesk.com/markets/2026/05/27/live-markets-bitcoin-remains-under-pressure-as-korea-s-sk-hynix-joins-micron-in-usd1-trillion-club",
-      "publishedAt": "2026-05-27T12:44:24.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Live News",
-        "live_news"
-      ],
-      "category": "市场",
-      "slug": "20260527-live-markets-bitcoin-slides-to-new-monthly-low-below-75000-on-report-of-strikes-",
-      "localUrl": "/news/20260527-live-markets-bitcoin-slides-to-new-monthly-low-below-75000-on-report-of-strikes-.html"
     },
     {
       "source": "Decrypt",
@@ -906,6 +910,17 @@
       "localUrl": "/news/20260527-building-for-the-400b-sports-industry-on-solana.html"
     },
     {
+      "source": "X Wire",
+      "title": "SUPER BULLISH FOR CRYPTO 🚀 President Trump says the US will remain the \"CRYPTO CAPITAL OF THE WORLD\" and warned that other countries are trying to take America’s place in Bitcoin and digital assets. He also called crypto a \"major industry\" that t - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EeGhzbi13T3BXVjhOSVI2TktSb2xESHh0MFc5VGdjajM1cmFwVDNWTjVoaHFjeDNWb1Qwd1Y5TWY4YmdKdjlEUExNVERkalBqZllzMS1Ub242SEVlbVBVZGJ3?oc=5\" target=\"_blank\">SUPER BULLISH FOR CRYPTO 🚀 Presid…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EeGhzbi13T3BXVjhOSVI2TktSb2xESHh0MFc5VGdjajM1cmFwVDNWTjVoaHFjeDNWb1Qwd1Y5TWY4YmdKdjlEUExNVERkalBqZllzMS1Ub242SEVlbVBVZGJ3?oc=5",
+      "publishedAt": "2026-05-27T02:37:51.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260527-super-bullish-for-crypto-president-trump-says-the-us-will-remain-the-crypto-capi",
+      "localUrl": "/news/20260527-super-bullish-for-crypto-president-trump-says-the-us-will-remain-the-crypto-capi.html"
+    },
+    {
       "source": "Chainalysis Blog",
       "title": "U.K. Sanctions 18 Entities and Persons for Evading Russian Trade Blockades",
       "summary": "Summary The U.K.’s Foreign, Commonwealth and Development Office (FCDO) sanctioned 18 cryptocurrency exchanges, payment providers, and individuals for helping Russia… The post U.K. Sanctions 18 Entities and Persons for Evading Russian Trade…",
@@ -934,17 +949,6 @@
       "category": "综合",
       "slug": "20260526-some-non-enhanced-athletes-beat-their-juiced-rivals-at-the-steroid-olympics",
       "localUrl": "/news/20260526-some-non-enhanced-athletes-beat-their-juiced-rivals-at-the-steroid-olympics.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 President Trump says the USA is currently the Bitcoin capital of the world and other countries \"are trying diligently to replace us in that capacity, but we won't let that happen.\" 👀 \"It is a major industry, and we must protect it.\" - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56T3ktbGFDa1dlaHBTWTlLelE4X3ZBeXBDTVpSd0p2REdNNmxLWXkyeFdqeGFwYXZSdWYwOTVNLVNXSWNmWk03YmNxblVKNmZBYUIzVlBkRWl2d2J1UndPa0liVnRsTk0?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 President Tru…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56T3ktbGFDa1dlaHBTWTlLelE4X3ZBeXBDTVpSd0p2REdNNmxLWXkyeFdqeGFwYXZSdWYwOTVNLVNXSWNmWk03YmNxblVKNmZBYUIzVlBkRWl2d2J1UndPa0liVnRsTk0?oc=5",
-      "publishedAt": "2026-05-26T21:26:49.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260526-just-in-president-trump-says-the-usa-is-currently-the-bitcoin-capital-of-the-wor",
-      "localUrl": "/news/20260526-just-in-president-trump-says-the-usa-is-currently-the-bitcoin-capital-of-the-wor.html"
     },
     {
       "source": "Decrypt",
@@ -994,6 +998,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Mastercard and Chainlink are enabling 3.5 billion cardholders to purchase crypto directly onchain. @Mastercard’s global payments network + Chainlink’s industry-standard oracle platform = A secure, seamless onchain experience for billions - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qNG12ZUx1RW5fRGR3YVV5Tzk2YnpmLXNzMERjVzFaQ3RIT2ZjTWVULUFUcUI5MzJ5V0ZZbXNwM25jOGFDZ0VJTDhqQ0h6LXRlUkM5TGdVWTdZWWhmLWRZ?oc=5\" target=\"_blank\">Mastercard and Chainlink are enabling …",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qNG12ZUx1RW5fRGR3YVV5Tzk2YnpmLXNzMERjVzFaQ3RIT2ZjTWVULUFUcUI5MzJ5V0ZZbXNwM25jOGFDZ0VJTDhqQ0h6LXRlUkM5TGdVWTdZWWhmLWRZ?oc=5",
+      "publishedAt": "2026-05-26T18:26:52.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260526-mastercard-and-chainlink-are-enabling-35-billion-cardholders-to-purchase-crypto-",
+      "localUrl": "/news/20260526-mastercard-and-chainlink-are-enabling-35-billion-cardholders-to-purchase-crypto-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Not every tokenized asset is equally onchain. Bonds are by far the largest tokenized asset category with $15.2 billion in market cap. But only about 5% of that supply is being used in DeFi. Precious metals look similar: they’re onchain, but mostly just sitting ther - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYa29OQkxQQ1RkT1NLRm9yWWEwRmF0LUFyRnBWbi1GRldzUXFwendwSXJwMi1zVFBLSEVXQjhMSVlHRzJWdGZNaGNJV2ItZkc5YVVTaHNvU1E0aWtGMUx2dA?oc=5\" target=\"_blank\">Not every tokenized asset is equally…",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYa29OQkxQQ1RkT1NLRm9yWWEwRmF0LUFyRnBWbi1GRldzUXFwendwSXJwMi1zVFBLSEVXQjhMSVlHRzJWdGZNaGNJV2ItZkc5YVVTaHNvU1E0aWtGMUx2dA?oc=5",
@@ -1024,6 +1039,17 @@
       "category": "X热点",
       "slug": "20260526-ethereum-still-dominates-tokenized-assets-consistent-with-its-headstart-in-defi-",
       "localUrl": "/news/20260526-ethereum-still-dominates-tokenized-assets-consistent-with-its-headstart-in-defi-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "UK Sanctions Crypto Exchanges for First Time Under Russia Regime The UK government on May 26 sanctioned several crypto-related firms, including Bitpapa IC FZC LLC, Exmo Exchange Limited, Aifory LLC and Rapira Group LLC, accusing them of providin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KZUJFMlRrLVpOc0dhX3BuVUNqU0FXRFVLV2YwSlhoTkRsWDFJVnBUUGNlTk9jaG1abUFpR3VaSU5zdHVKa1F6SzVXM0pCUjBXdXRnZl9rQ2Z0ZHY5Z3ZnVnY2bw?oc=5\" target=\"_blank\">UK Sanctions Crypto Exchanges fo…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KZUJFMlRrLVpOc0dhX3BuVUNqU0FXRFVLV2YwSlhoTkRsWDFJVnBUUGNlTk9jaG1abUFpR3VaSU5zdHVKa1F6SzVXM0pCUjBXdXRnZl9rQ2Z0ZHY5Z3ZnVnY2bw?oc=5",
+      "publishedAt": "2026-05-26T15:30:10.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260526-uk-sanctions-crypto-exchanges-for-first-time-under-russia-regime-the-uk-governme",
+      "localUrl": "/news/20260526-uk-sanctions-crypto-exchanges-for-first-time-under-russia-regime-the-uk-governme.html"
     },
     {
       "source": "X Wire",
@@ -1060,17 +1086,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Bitcoin Sees Largest Weekly Outflow of 2026 as Digital Asset Funds Lose $1.47B CoinShares reported $1.47 billion in outflows from digital asset investment products last week, marking the third-largest weekly outflow of 2026. Bitcoin alone saw $1.315 billion i - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SaHZ1cnB3TEhNb0JfYzcwZE1Wek81Z0Jkd1F4WFo4dDR6cVN6RkxKc0tnWllaUWZOVlNQUkh2R0o2Zk9odkcwQmtEaW1SWnN4SS1Yd3V0WG1MUnY0Vkx3SWs2MA?oc=5\" target=\"_blank\">Bitcoin Sees Largest Weekly Outf…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SaHZ1cnB3TEhNb0JfYzcwZE1Wek81Z0Jkd1F4WFo4dDR6cVN6RkxKc0tnWllaUWZOVlNQUkh2R0o2Zk9odkcwQmtEaW1SWnN4SS1Yd3V0WG1MUnY0Vkx3SWs2MA?oc=5",
-      "publishedAt": "2026-05-26T08:24:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260526-bitcoin-sees-largest-weekly-outflow-of-2026-as-digital-asset-funds-lose-147b-coi",
-      "localUrl": "/news/20260526-bitcoin-sees-largest-weekly-outflow-of-2026-as-digital-asset-funds-lose-147b-coi.html"
-    },
-    {
-      "source": "X Wire",
       "title": "The largest firm to IPO ever owns Bitcoin. SpaceX just dropped its S-1 filing. Balance sheet: 18,712 $BTC. You're not ready. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LQUxaOTNfR1FWUmdWNVQ0OEhBVGJiT3JsSWoyVkxYckI5a0R5SU5RX2M0bXpwYzVoYlNjdmh0XzFHQUg3d0otQzF2ajVyeTBhcWFYN1BRdFBsaXFGSDY4ZGJ3?oc=5\" target=\"_blank\">The largest firm to IPO ever owns …",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LQUxaOTNfR1FWUmdWNVQ0OEhBVGJiT3JsSWoyVkxYckI5a0R5SU5RX2M0bXpwYzVoYlNjdmh0XzFHQUg3d0otQzF2ajVyeTBhcWFYN1BRdFBsaXFGSDY4ZGJ3?oc=5",
@@ -1079,17 +1094,6 @@
       "category": "X热点",
       "slug": "20260525-the-largest-firm-to-ipo-ever-owns-bitcoin-spacex-just-dropped-its-s-1-filing-bal",
       "localUrl": "/news/20260525-the-largest-firm-to-ipo-ever-owns-bitcoin-spacex-just-dropped-its-s-1-filing-bal.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The NEW FED 🇺🇸 Chair: “If you’re under 40, Bitcoin is your new gold.” - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUSWFhMXl4Z1hTWHNUVTY0cndKVTJ6LXJ2SFprNWRPbTdac3hoS0ltUklGaVBtXzJPNUgzcmlpQWNoTDRTMjlpdnhnRGJVdWMyMVJvdXlLRklYbTRWbHExTDJ3?oc=5\" target=\"_blank\">The NEW FED 🇺🇸 Chair: “If you’re…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUSWFhMXl4Z1hTWHNUVTY0cndKVTJ6LXJ2SFprNWRPbTdac3hoS0ltUklGaVBtXzJPNUgzcmlpQWNoTDRTMjlpdnhnRGJVdWMyMVJvdXlLRklYbTRWbHExTDJ3?oc=5",
-      "publishedAt": "2026-05-25T12:03:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260525-the-new-fed-chair-if-youre-under-40-bitcoin-is-your-new-gold-xcom",
-      "localUrl": "/news/20260525-the-new-fed-chair-if-youre-under-40-bitcoin-is-your-new-gold-xcom.html"
     },
     {
       "source": "X Wire",
@@ -1112,17 +1116,6 @@
       "category": "X热点",
       "slug": "20260525-this-is-the-area-to-accumulate-ethereum-its-been-lagging-behind-for-years-but-it",
       "localUrl": "/news/20260525-this-is-the-area-to-accumulate-ethereum-its-been-lagging-behind-for-years-but-it.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BLACKROCK JUST SOLD $1 BILLION OF BTC BlackRock sold Bitcoin every single day last week. They sold a total of $1.01 BILLION of BTC. If BlackRock is selling… who’s buying? - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9waHhVeDRmVzVEbFZQMG5FcUJLNXUxaGVWaFRvYjRhTUpWUTJLZS1qTTFMR1E3UFk5bGlZUmljVXNwaTFLZDFGMnM3VnFPYU1BTWVIeWFoWFVTWlk?oc=5\" target=\"_blank\">BLACKROCK JUST SOLD $1 BILLION OF BTC Black…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9waHhVeDRmVzVEbFZQMG5FcUJLNXUxaGVWaFRvYjRhTUpWUTJLZS1qTTFMR1E3UFk5bGlZUmljVXNwaTFLZDFGMnM3VnFPYU1BTWVIeWFoWFVTWlk?oc=5",
-      "publishedAt": "2026-05-25T06:32:05.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260525-blackrock-just-sold-1-billion-of-btc-blackrock-sold-bitcoin-every-single-day-las",
-      "localUrl": "/news/20260525-blackrock-just-sold-1-billion-of-btc-blackrock-sold-bitcoin-every-single-day-las.html"
     }
   ]
 }
