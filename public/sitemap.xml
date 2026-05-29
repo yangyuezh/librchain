@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-29T22:02:05.753Z</lastmod>
+    <lastmod>2026-05-29T23:39:57.951Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-29T22:02:05.753Z</lastmod>
+    <lastmod>2026-05-29T23:39:57.951Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260529-bitcoin-dip-buyers-place-500m-in-bids-as-70k-retest-looms.html</loc>
+    <lastmod>2026-05-29T22:45:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260529-extraordinarily-unusual-for-cftc-to-reverse-gemini-settlement-deal-ex-chair.html</loc>
+    <lastmod>2026-05-29T22:28:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260529-hes-full-of-shit-jp-morgans-jamie-dimon-takes-aim-at-coinbase-ceo-over-clarity-a.html</loc>
@@ -127,6 +139,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260529-cftc-approves-first-regulated-bitcoin-perpetual-contract-in-us-cftc-chairman-mik.html</loc>
+    <lastmod>2026-05-29T15:07:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260529-cftc-approves-bitcoin-perpetual-futures-on-prediction-market-kalshi.html</loc>
     <lastmod>2026-05-29T15:00:50.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -159,6 +177,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260529-were-bringing-global-crypto-derivatives-to-the-us-coinbase-is-the-first-regulate.html</loc>
     <lastmod>2026-05-29T14:11:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260529-commission-staff-confirms-the-categorization-of-certain-crypto-asset-perpetuals-.html</loc>
+    <lastmod>2026-05-29T14:08:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -207,12 +231,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260529-just-in-someone-publishes-the-entire-us-constitution-on-the-bitcoin-blockchain-x.html</loc>
     <lastmod>2026-05-29T13:14:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260529-sui-network-suffers-outages-for-two-consecutive-days-suis-official-x-account-ann.html</loc>
-    <lastmod>2026-05-29T12:59:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -379,14 +397,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260529-bitcoins-trapped-under-74k-while-9b-options-expiry-looms-are-bears-back-in-contr.html</loc>
-    <lastmod>2026-05-29T03:44:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260529-buy-72k-dip-or-jump-ship-what-will-bitcoin-bulls-do.html</loc>
-    <lastmod>2026-05-29T01:10:12.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260529-update-ethereum-whales-holding-at-least-100k-eth-have-accumulated-1741m-eth-a-9-.html</loc>
+    <lastmod>2026-05-29T02:20:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -447,18 +459,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260528-bitcoin-is-like-a-dog-with-fleas-right-now-but-that-is-exactly-why-people-should.html</loc>
     <lastmod>2026-05-28T13:33:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260528-breaking-samsung-is-buying-into-bitcoin-samsung-the-largest-company-in-south-kor.html</loc>
-    <lastmod>2026-05-28T13:17:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260528-this-is-crazy-someone-built-an-algorithm-to-find-dormant-bitcoin-wallets-reporte.html</loc>
-    <lastmod>2026-05-28T11:58:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
