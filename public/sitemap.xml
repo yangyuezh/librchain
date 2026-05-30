@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-30T16:14:37.221Z</lastmod>
+    <lastmod>2026-05-30T18:14:00.679Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-30T16:14:37.221Z</lastmod>
+    <lastmod>2026-05-30T18:14:00.679Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260530-sec-sues-texas-man-over-123-million-alleged-crypto-scheme-built-on-fake-ai-tradi.html</loc>
+    <lastmod>2026-05-30T17:27:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260530-us-says-it-seized-about-1-billion-in-iranian-crypto-as-pressure-campaign-expands.html</loc>
@@ -259,6 +265,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260529-cftc-guidance-advances-bitcoin-capital-markets-247-trading-btc-collateral-perpet.html</loc>
+    <lastmod>2026-05-29T15:39:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260529-mass-deployment-of-ai-agents-is-a-disaster-waiting-to-happen-says-certik-ceo.html</loc>
     <lastmod>2026-05-29T15:31:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -313,14 +325,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260529-commission-staff-confirms-the-categorization-of-certain-crypto-asset-perpetuals-.html</loc>
-    <lastmod>2026-05-29T14:08:09.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260529-just-in-cftc-approves-first-us-bitcoin-perpetual-futures-contracts-on-a-regulate.html</loc>
+    <lastmod>2026-05-29T14:07:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260529-just-in-cftc-approves-first-us-bitcoin-perpetual-futures-contracts-on-a-regulate.html</loc>
-    <lastmod>2026-05-29T14:07:54.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260529-in-my-first-public-remarks-as-cftc-chairman-i-made-clear-that-the-agency-would-u.html</loc>
+    <lastmod>2026-05-29T14:07:23.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -433,18 +445,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260529-bitcoin-slides-to-april-lows-as-crypto-diverges-from-record-chasing-us-equities.html</loc>
-    <lastmod>2026-05-29T10:29:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260529-big-the-sec-has-approved-paxos-as-the-first-blockchain-native-clearing-agency-in.html</loc>
-    <lastmod>2026-05-29T05:20:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260528-anthropic-nears-1-trillion-valuation-topping-openai-after-fresh-65-billion-raise.html</loc>
     <lastmod>2026-05-28T20:51:52.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -463,20 +463,20 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260528-can-ethereum-reclaim-2021-highs-vs-bitcoin-standard-chartereds-geoff-kendrick-is.html</loc>
-    <lastmod>2026-05-28T15:11:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260528-the-anti-crypto-army-was-defeated-by-the-courts-by-the-voters-and-by-trump-it-ne.html</loc>
-    <lastmod>2026-05-28T13:52:20.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260528-crypto-fund-outflows-are-accelerating-crypto-etfs-posted-15-billion-in-outflows-.html</loc>
+    <lastmod>2026-05-28T16:21:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260528-bitcoin-is-like-a-dog-with-fleas-right-now-but-that-is-exactly-why-people-should.html</loc>
     <lastmod>2026-05-28T13:33:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260528-cme-goes-247-for-bitcoin-futures-ending-the-cme-gap-era-cme-group-announced-that.html</loc>
+    <lastmod>2026-05-28T11:55:31.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
