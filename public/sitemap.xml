@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-05-31T09:21:54.337Z</lastmod>
+    <lastmod>2026-05-31T11:48:41.418Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-05-31T09:21:54.337Z</lastmod>
+    <lastmod>2026-05-31T11:48:41.418Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260531-vietnam-proposes-allowing-smes-to-use-digital-assets-as-loan-collateral.html</loc>
+    <lastmod>2026-05-31T10:03:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260531-as-bitcoin-has-matured-its-relationship-with-traditional-assets-has-become-more-.html</loc>
+    <lastmod>2026-05-31T09:01:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260531-cosmos-based-gravity-bridge-halts-bridge-after-reported-54m-exploit.html</loc>
@@ -27,6 +39,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260531-bitcoin-dip-buyers-curb-selling-but-questionable-spot-futures-volumes-highlight-.html</loc>
     <lastmod>2026-05-31T05:37:27.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260531-vietnams-finance-ministry-proposes-allowing-smes-to-use-digital-and-virtual-asse.html</loc>
+    <lastmod>2026-05-31T05:02:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -265,12 +283,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260529-vitalik-buterin-the-crypto-ecosystem-must-not-go-down-the-path-of-openaiarchive-.html</loc>
-    <lastmod>2026-05-29T19:01:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260529-sui-network-temporarily-stalls-again-after-thursdays-outage.html</loc>
     <lastmod>2026-05-29T18:46:50.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -327,12 +339,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260529-wintermute-is-providing-liquidity-on-kalshi-and-polymarket-linking-two-giants.html</loc>
     <lastmod>2026-05-29T16:20:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260529-ethereum-analysts-say-downside-pressure-remains-as-18k-becomes-key.html</loc>
-    <lastmod>2026-05-29T15:50:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -463,12 +469,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260529-big-the-sec-has-approved-paxos-as-the-first-blockchain-native-clearing-agency-in.html</loc>
-    <lastmod>2026-05-29T05:20:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260528-anthropic-nears-1-trillion-valuation-topping-openai-after-fresh-65-billion-raise.html</loc>
     <lastmod>2026-05-28T20:51:52.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -495,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260527-the-new-compliance-floor-organizations-are-adopting-stronger-than-ever-monitorin.html</loc>
     <lastmod>2026-05-27T11:55:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260527-building-for-the-400b-sports-industry-on-solana.html</loc>
-    <lastmod>2026-05-27T10:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
