@@ -1,7 +1,45 @@
 {
-  "updatedAt": "2026-05-31T00:12:28.554Z",
-  "total": 83,
+  "updatedAt": "2026-05-31T05:44:36.760Z",
+  "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions",
+      "summary": "A draft XRPL amendment notes that flash loan attacks are \"structurally impossible\" on the network because of how its transactions are built, an architectural quirk that has spared the chain from the exploit class that has cost Ethereum DeF…",
+      "url": "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions",
+      "publishedAt": "2026-05-31T02:30:00.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260531-xrp-ledgers-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-",
+      "localUrl": "/news/20260531-xrp-ledgers-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Binance generally doesn't do pre-reveals, but if the rumors are true, this one is warranted. Crypto has had 24/7 perps on equities for a little while now, but if Binance launches spot stocks, it will change the entire brokerage landscape. What will happen: - 24/7 pr - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiSGdaRmFJMXpHRWFfdkMxTWlnb2JZd3g5YUpjeUxaemVKOXJkcWhHUDdyODNvSmI1NUtVcnYtc05kbUQ5Y0U1VG1Sdm8tUHREQ2R4QTNZNHVJX0RRZGdmR09oT2MtQQ?oc=5\" target=\"_blank\">Binance generally doesn't do…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiSGdaRmFJMXpHRWFfdkMxTWlnb2JZd3g5YUpjeUxaemVKOXJkcWhHUDdyODNvSmI1NUtVcnYtc05kbUQ5Y0U1VG1Sdm8tUHREQ2R4QTNZNHVJX0RRZGdmR09oT2MtQQ?oc=5",
+      "publishedAt": "2026-05-31T01:04:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260531-binance-generally-doesnt-do-pre-reveals-but-if-the-rumors-are-true-this-one-is-w",
+      "localUrl": "/news/20260531-binance-generally-doesnt-do-pre-reveals-but-if-the-rumors-are-true-this-one-is-w.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin is at ‘pivotal level’ as $65K downside risk looms: Analyst",
+      "summary": "While Bitcoin is hovering around $73,000, a crypto trader says the current setup is “different from the previous breakdown in February.”",
+      "url": "https://cointelegraph.com/news/bitcoin-is-at-pivotal-level-and-faces-threat-to-65k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-05-31T00:58:32.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260531-bitcoin-is-at-pivotal-level-as-65k-downside-risk-looms-analyst",
+      "localUrl": "/news/20260531-bitcoin-is-at-pivotal-level-as-65k-downside-risk-looms-analyst.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Senator Lummis says China will 'write the rules' of the new financial era if CLARITY fails",
@@ -27,6 +65,17 @@
       "category": "基础设施",
       "slug": "20260530-circle-freezes-126m-of-usdc-linked-to-privacy-protocol-zama",
       "localUrl": "/news/20260530-circle-freezes-126m-of-usdc-linked-to-privacy-protocol-zama.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "#Bitcoin is at a pivotal level, and if it doesn't hold, we're buying at - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tLV9RNVZBczlsM255VFpHR2tJdDRsR0tvVnFOSFpBZWcza2ppN3Z6cGZCZmdJVUF3d0Nydk9EZUVNRGVNZkJieVJCV0ppUl9MZUZBbXFMd3dDQXF2allaVkJnaw?oc=5\" target=\"_blank\">#Bitcoin is at a pivotal level, …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tLV9RNVZBczlsM255VFpHR2tJdDRsR0tvVnFOSFpBZWcza2ppN3Z6cGZCZmdJVUF3d0Nydk9EZUVNRGVNZkJieVJCV0ppUl9MZUZBbXFMd3dDQXF2allaVkJnaw?oc=5",
+      "publishedAt": "2026-05-30T18:53:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260530-bitcoin-is-at-a-pivotal-level-and-if-it-doesnt-hold-were-buying-at-xcom",
+      "localUrl": "/news/20260530-bitcoin-is-at-a-pivotal-level-and-if-it-doesnt-hold-were-buying-at-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -188,6 +237,17 @@
       "category": "DeFi",
       "slug": "20260530-hyperliquid-could-become-a-financial-services-juggernaut-as-defi-expands-says-gr",
       "localUrl": "/news/20260530-hyperliquid-could-become-a-financial-services-juggernaut-as-defi-expands-says-gr.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Ethereum is not a company. It is global infrastructure controlled by no entity or consortium — like the Internet That’s why institutions bring the most assets onto Ethereum ETH is not a stock or valued on fees ETH is productive money — and that’s the exponential - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9USW91ZUhCRmwzQ0dhTzdVVmNmLW5kai1GWmRqcFEyazdrbUVxQXVTeG5vOGNyaWZaRm9JdFVON1ZCaFBvelg4QjZzbXpDY0JSSUR2N1dRdzc4VmdObXRPOE9KWlU?oc=5\" target=\"_blank\">Ethereum is not a company. It i…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9USW91ZUhCRmwzQ0dhTzdVVmNmLW5kai1GWmRqcFEyazdrbUVxQXVTeG5vOGNyaWZaRm9JdFVON1ZCaFBvelg4QjZzbXpDY0JSSUR2N1dRdzc4VmdObXRPOE9KWlU?oc=5",
+      "publishedAt": "2026-05-30T11:59:15.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260530-ethereum-is-not-a-company-it-is-global-infrastructure-controlled-by-no-entity-or",
+      "localUrl": "/news/20260530-ethereum-is-not-a-company-it-is-global-infrastructure-controlled-by-no-entity-or.html"
     },
     {
       "source": "CoinDesk",
@@ -354,6 +414,17 @@
       "category": "市场",
       "slug": "20260529-hes-full-of-shit-jp-morgans-jamie-dimon-takes-aim-at-coinbase-ceo-over-clarity-a",
       "localUrl": "/news/20260529-hes-full-of-shit-jp-morgans-jamie-dimon-takes-aim-at-coinbase-ceo-over-clarity-a.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin adoption continues to accelerate globally, with strong momentum shaping its next growth phase. New waves of demand are reinforcing Bitcoin’s expanding global footprint. ₿ - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yWnoxeUhBeXgzdTRQakNQZllxVmhqQlRGWC1sTVFNbE5HM290SnlrVDhZYW1qcTAwNUJVdzlDOE1aUVhKRHhHd3B1V19ZZXlXUlpYZk0yTEN1bm1Q?oc=5\" target=\"_blank\">Bitcoin adoption continues to accelerate g…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yWnoxeUhBeXgzdTRQakNQZllxVmhqQlRGWC1sTVFNbE5HM290SnlrVDhZYW1qcTAwNUJVdzlDOE1aUVhKRHhHd3B1V19ZZXlXUlpYZk0yTEN1bm1Q?oc=5",
+      "publishedAt": "2026-05-29T21:01:14.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260529-bitcoin-adoption-continues-to-accelerate-globally-with-strong-momentum-shaping-i",
+      "localUrl": "/news/20260529-bitcoin-adoption-continues-to-accelerate-globally-with-strong-momentum-shaping-i.html"
     },
     {
       "source": "Cointelegraph",
@@ -602,17 +673,6 @@
       "localUrl": "/news/20260529-ethereum-analysts-say-downside-pressure-remains-as-18k-becomes-key.html"
     },
     {
-      "source": "X Wire",
-      "title": "CFTC guidance advances Bitcoin capital markets: 24/7 trading, BTC collateral, perpetual futures, options, and regulated access. Good for $BTC holders, powers the $MSTR engine, and supports the rise of $STRC as Bitcoin-backed Digital Credit. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE82YmtXd1FsQlB0QWtmVXlSUjdKYUw3a2I2NEd3NnlLbWxQSFBMTk13SHpkU045T3NnQlNfa1hYT2FMUGpOV00yTDRkWGMwbzYxY2Yyd0ZzT2hiQzA?oc=5\" target=\"_blank\">CFTC guidance advances Bitcoin capital mark…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82YmtXd1FsQlB0QWtmVXlSUjdKYUw3a2I2NEd3NnlLbWxQSFBMTk13SHpkU045T3NnQlNfa1hYT2FMUGpOV00yTDRkWGMwbzYxY2Yyd0ZzT2hiQzA?oc=5",
-      "publishedAt": "2026-05-29T15:39:34.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260529-cftc-guidance-advances-bitcoin-capital-markets-247-trading-btc-collateral-perpet",
-      "localUrl": "/news/20260529-cftc-guidance-advances-bitcoin-capital-markets-247-trading-btc-collateral-perpet.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Mass deployment of AI agents is a disaster waiting to happen, says CertiK CEO",
       "summary": "Ronghui Gu shares tips on how to isolate AI agents while testing them so they do not have access to critical personal information or digital assets.",
@@ -644,17 +704,6 @@
       "category": "监管",
       "slug": "20260529-clarity-act-risks-regulation-without-oversight-brookings-fellow-says",
       "localUrl": "/news/20260529-clarity-act-risks-regulation-without-oversight-brookings-fellow-says.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 SPACEX MAY BE THE BIGGEST INSIDER CASHOUT IN MARKET HISTORY!!! SpaceX is expected to go public on June 12 at a valuation of $1.75-$2 TRILLION. That would instantly make it larger than Microsoft and second only to Apple and Nvidia in the U - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QTE15N1VpNTN4R01WWlhJOFBhV0puVXdLN2RlZGtaSk5Eb0dodkZ3bXhBRUlKX2JERTFqWUFlc2EtRmhMeTlmZzdYZFVlMzZaZ0FDV1VPMHB4Wjl3ZDM4UXV3?oc=5\" target=\"_blank\">🚨 SPACEX MAY BE THE BIGGEST INSID…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QTE15N1VpNTN4R01WWlhJOFBhV0puVXdLN2RlZGtaSk5Eb0dodkZ3bXhBRUlKX2JERTFqWUFlc2EtRmhMeTlmZzdYZFVlMzZaZ0FDV1VPMHB4Wjl3ZDM4UXV3?oc=5",
-      "publishedAt": "2026-05-29T15:10:35.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260529-spacex-may-be-the-biggest-insider-cashout-in-market-history-spacex-is-expected-t",
-      "localUrl": "/news/20260529-spacex-may-be-the-biggest-insider-cashout-in-market-history-spacex-is-expected-t.html"
     },
     {
       "source": "Decrypt",
@@ -699,6 +748,17 @@
       "localUrl": "/news/20260529-sui-network-goes-down-for-second-straight-day-as-weekly-token-slide-hits-20.html"
     },
     {
+      "source": "X Wire",
+      "title": "What an EU-Wide Crypto Tax Could Actually Look Like 🇪🇺 For quite some time, there have been rumours and calls for EU-wide crypto taxes in Brussels as part of efforts to create new EU own resources. Until now, however, there has been very little detail on w - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NaFVxekpjWWQ3YjNMZWN6S0RLc1hvSmMtTEZmZHh0cVFteThYV2htR1QtY1lHWGtudmotcVFxaFJNQjlMUE5WRGlydGNMTGpqWTB6czdGRHRySmZNaW01dEZMaw?oc=5\" target=\"_blank\">What an EU-Wide Crypto Tax Could…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NaFVxekpjWWQ3YjNMZWN6S0RLc1hvSmMtTEZmZHh0cVFteThYV2htR1QtY1lHWGtudmotcVFxaFJNQjlMUE5WRGlydGNMTGpqWTB6czdGRHRySmZNaW01dEZMaw?oc=5",
+      "publishedAt": "2026-05-29T14:24:40.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260529-what-an-eu-wide-crypto-tax-could-actually-look-like-for-quite-some-time-there-ha",
+      "localUrl": "/news/20260529-what-an-eu-wide-crypto-tax-could-actually-look-like-for-quite-some-time-there-ha.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Bitcoin ETFs bleed $2.8B in record nine-day outflow streak",
       "summary": "Spot Bitcoin ETFs recorded a nine-day outflow streak totaling $2.84 billion, surpassing an eight-session outflow run in February 2025.",
@@ -732,6 +792,17 @@
       "category": "X热点",
       "slug": "20260529-were-bringing-global-crypto-derivatives-to-the-us-coinbase-is-the-first-regulate",
       "localUrl": "/news/20260529-were-bringing-global-crypto-derivatives-to-the-us-coinbase-is-the-first-regulate.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Commission Staff Confirms the Categorization of Certain Crypto Asset Perpetuals as Foreign Futures and Issues No-Action Letter Regarding FCM Transfers of Customer Crypto Assets to Foreign Brokers as Margin: - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mNGRGZlRVd3BGRVRVNldlV1FPdjN5ZGR5YVpnemRrd0J0VXg4UzlMUlpqWUQtZFpjRkxhbzBRdENrMl9vTlNKellzT1BhblVFOW1VVHM3YWM?oc=5\" target=\"_blank\">Commission Staff Confirms the Categorization of…",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mNGRGZlRVd3BGRVRVNldlV1FPdjN5ZGR5YVpnemRrd0J0VXg4UzlMUlpqWUQtZFpjRkxhbzBRdENrMl9vTlNKellzT1BhblVFOW1VVHM3YWM?oc=5",
+      "publishedAt": "2026-05-29T14:08:09.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260529-commission-staff-confirms-the-categorization-of-certain-crypto-asset-perpetuals-",
+      "localUrl": "/news/20260529-commission-staff-confirms-the-categorization-of-certain-crypto-asset-perpetuals-.html"
     },
     {
       "source": "X Wire",
@@ -873,19 +944,6 @@
       "localUrl": "/news/20260529-paxos-wins-sec-approval-to-clear-us-stocks-on-blockchain.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin falls out of the global top 10 assets as market cap dips below $1.5T",
-      "summary": "Bitcoin’s market cap has dropped below $1.5 trillion, pushing it out of the world’s top 10 assets amid AI stock and precious metal rallies.",
-      "url": "https://cointelegraph.com/markets/bitcoin-falls-out-of-the-global-top-10-assets-as-its-market-cap-dips-below-15t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-29T12:09:23.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260529-bitcoin-falls-out-of-the-global-top-10-assets-as-market-cap-dips-below-15t",
-      "localUrl": "/news/20260529-bitcoin-falls-out-of-the-global-top-10-assets-as-market-cap-dips-below-15t.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Morning Minute: Hyperliquid Is 'Bigger Than Nasdaq'",
       "summary": "The man who built the modern NYSE just said Hyperliquid is bigger than Nasdaq. JPMorgan says the debasement trade is unwinding.",
@@ -941,22 +999,6 @@
       "localUrl": "/news/20260529-bitcoin-underperforms-risk-assets-as-record-9th-day-of-etf-outflows-signal-wanin.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin ETF outflows reach record 9-day streak as investors pull $2.8 billion",
-      "summary": "The longest run of withdrawals since U.S. spot bitcoin ETFs listed in January 2024 comes as bitcoin underperforms high-flying AI and semiconductor stocks.",
-      "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-etf-outflows-reach-record-nine-day-streak-as-investors-pull-usd2-8-billion",
-      "publishedAt": "2026-05-29T10:38:47.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "ETFs",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260529-bitcoin-etf-outflows-reach-record-9-day-streak-as-investors-pull-28-billion",
-      "localUrl": "/news/20260529-bitcoin-etf-outflows-reach-record-9-day-streak-as-investors-pull-28-billion.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Paxos Secures SEC Registration as Clearing Agency",
       "summary": "The approval makes Paxos the “only blockchain-native firm” approved by the SEC to operate as a registered clearing agency in the U.S.",
@@ -1010,28 +1052,6 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: Fidelity Digital Assets says Iran accepting Bitcoin payments for Strait of Hormuz tolls supports 'growing evidence about a shift away from dollar-based systems.' 👀 🇮🇷 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NcHB3cEVXMW9hX24yOUdXamlBaXpkNW5zaldQc3E2amF1MjZVLUJCTVkxQVRmUktna2IzcEVsOTVhMzFnSDBCdTNLWU9NdlRXbjFyQ29DRWRqZi1hZWoycHJ5M1cxVjg?oc=5\" target=\"_blank\">JUST IN: Fidelity Digital A…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NcHB3cEVXMW9hX24yOUdXamlBaXpkNW5zaldQc3E2amF1MjZVLUJCTVkxQVRmUktna2IzcEVsOTVhMzFnSDBCdTNLWU9NdlRXbjFyQ29DRWRqZi1hZWoycHJ5M1cxVjg?oc=5",
-      "publishedAt": "2026-05-28T17:26:17.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260528-just-in-fidelity-digital-assets-says-iran-accepting-bitcoin-payments-for-strait-",
-      "localUrl": "/news/20260528-just-in-fidelity-digital-assets-says-iran-accepting-bitcoin-payments-for-strait-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Crypto fund outflows are accelerating: Crypto ETFs posted -$1.5 billion in outflows last week, the largest weekly outflow since February. This follows -$1.1 billion withdrawn in the preceding week, bringing the 2-week total to -$2.6 billion, the 3rd largest in at lea - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XUFFqdm9FLVRnLUx6X3ZXbzFmOEZpa0FrLTJjN2xrenc4V3hUeS1kUGF4NlZNM3dlaVZad3lGbERydGpwME1yTzYyZUtqanVXUUJ3UUdmNFF3Um1MU3l5cU95T1FfQQ?oc=5\" target=\"_blank\">Crypto fund outflows are acc…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XUFFqdm9FLVRnLUx6X3ZXbzFmOEZpa0FrLTJjN2xrenc4V3hUeS1kUGF4NlZNM3dlaVZad3lGbERydGpwME1yTzYyZUtqanVXUUJ3UUdmNFF3Um1MU3l5cU95T1FfQQ?oc=5",
-      "publishedAt": "2026-05-28T16:21:16.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260528-crypto-fund-outflows-are-accelerating-crypto-etfs-posted-15-billion-in-outflows-",
-      "localUrl": "/news/20260528-crypto-fund-outflows-are-accelerating-crypto-etfs-posted-15-billion-in-outflows-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Bitcoin is like a dog with fleas right now, but that is exactly why people should be interested. You want to buy things when they are out of favor. If the government keeps printing money, bitcoin will always go higher over time. I explained on @SquawkCNBC this - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE01Uzk5SmhOc2dVMzNjSFFzX0VlUmViZXVFbVk5TXotUkRPXzZ2bTRpalJRbDFSQmFfLWVWT2dvWUxRYjBNUHRVR2NuLTVISWRaWUs1NTN4SUxLa1BOUXFLSw?oc=5\" target=\"_blank\">Bitcoin is like a dog with fleas rig…",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01Uzk5SmhOc2dVMzNjSFFzX0VlUmViZXVFbVk5TXotUkRPXzZ2bTRpalJRbDFSQmFfLWVWT2dvWUxRYjBNUHRVR2NuLTVISWRaWUs1NTN4SUxLa1BOUXFLSw?oc=5",
@@ -1040,28 +1060,6 @@
       "category": "X热点",
       "slug": "20260528-bitcoin-is-like-a-dog-with-fleas-right-now-but-that-is-exactly-why-people-should",
       "localUrl": "/news/20260528-bitcoin-is-like-a-dog-with-fleas-right-now-but-that-is-exactly-why-people-should.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "CME Goes 24/7 for Bitcoin Futures, Ending the “CME Gap” Era CME Group announced that it will officially enter the around-the-clock crypto market. Starting this Friday, CME Bitcoin futures and options will trade 24/7 on the Globex electronic trading platform, wi - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zNGwyRDFPWF90MHpHMmp0cElaaHJ2XzBGWlVuamNPSDhBYV9lSmNuWXd6d3BFbXVjWlRIUlFwVUZ4RUk4RTVkWU5YNzIzb0dvZ0ctSzB6d0ZGNEoyX3h2cVdLWQ?oc=5\" target=\"_blank\">CME Goes 24/7 for Bitcoin Future…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zNGwyRDFPWF90MHpHMmp0cElaaHJ2XzBGWlVuamNPSDhBYV9lSmNuWXd6d3BFbXVjWlRIUlFwVUZ4RUk4RTVkWU5YNzIzb0dvZ0ctSzB6d0ZGNEoyX3h2cVdLWQ?oc=5",
-      "publishedAt": "2026-05-28T11:55:31.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260528-cme-goes-247-for-bitcoin-futures-ending-the-cme-gap-era-cme-group-announced-that",
-      "localUrl": "/news/20260528-cme-goes-247-for-bitcoin-futures-ending-the-cme-gap-era-cme-group-announced-that.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "#Bitcoin showing weakness isn't a recipe for a new low, as of yet. The standard approach is playing out here: in the final days of the month, markets correct as rebalancing takes place among asset managers. That's why this cooldown is happening on Bitcoin. T - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKZGFaUjBEa1huRUw2RnA2TzdIVXphZnNRTWx2WFFpNUFqam9IN29EOUdIV2Z0WXdBbVkwR2R6SC1GYUpHOVN6YkU1LVYxZ3pEU0hJY2ROV3FZRVgyWWhfZWZlVQ?oc=5\" target=\"_blank\">#Bitcoin showing weakness isn't …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKZGFaUjBEa1huRUw2RnA2TzdIVXphZnNRTWx2WFFpNUFqam9IN29EOUdIV2Z0WXdBbVkwR2R6SC1GYUpHOVN6YkU1LVYxZ3pEU0hJY2ROV3FZRVgyWWhfZWZlVQ?oc=5",
-      "publishedAt": "2026-05-28T08:17:11.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260528-bitcoin-showing-weakness-isnt-a-recipe-for-a-new-low-as-of-yet-the-standard-appr",
-      "localUrl": "/news/20260528-bitcoin-showing-weakness-isnt-a-recipe-for-a-new-low-as-of-yet-the-standard-appr.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -1093,23 +1091,6 @@
       "category": "基础设施",
       "slug": "20260527-building-for-the-400b-sports-industry-on-solana",
       "localUrl": "/news/20260527-building-for-the-400b-sports-industry-on-solana.html"
-    },
-    {
-      "source": "Chainalysis Blog",
-      "title": "U.K. Sanctions 18 Entities and Persons for Evading Russian Trade Blockades",
-      "summary": "Summary The U.K.’s Foreign, Commonwealth and Development Office (FCDO) sanctioned 18 cryptocurrency exchanges, payment providers, and individuals for helping Russia… The post U.K. Sanctions 18 Entities and Persons for Evading Russian Trade…",
-      "url": "https://www.chainalysis.com/blog/uk-sanctions-crypto-entities-russian-trade-blockade-evasion-may-2026/",
-      "publishedAt": "2026-05-27T01:11:23.000Z",
-      "keywords": [
-        "Crime",
-        "Crypto crime",
-        "Money Laundering",
-        "Russia",
-        "Sanctions"
-      ],
-      "category": "综合",
-      "slug": "20260527-uk-sanctions-18-entities-and-persons-for-evading-russian-trade-blockades",
-      "localUrl": "/news/20260527-uk-sanctions-18-entities-and-persons-for-evading-russian-trade-blockades.html"
     }
   ]
 }
