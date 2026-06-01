@@ -1,7 +1,112 @@
 {
-  "updatedAt": "2026-06-01T00:14:13.302Z",
+  "updatedAt": "2026-06-01T06:17:51.627Z",
   "total": 80,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "XRP drops to $1.32 as sellers overpower exchange outflows",
+      "summary": "XRP hit a 15-week low before stabilizing, with traders watching whether the latest washout turns into a base or another leg lower.",
+      "url": "https://www.coindesk.com/markets/2026/06/01/xrp-drops-to-usd1-32-as-sellers-overpower-exchange-outflows",
+      "publishedAt": "2026-06-01T05:41:31.000Z",
+      "keywords": [
+        "Markets",
+        "XRP News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260601-xrp-drops-to-132-as-sellers-overpower-exchange-outflows",
+      "localUrl": "/news/20260601-xrp-drops-to-132-as-sellers-overpower-exchange-outflows.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Three Sui mainnet halts in 48 hours traced to an upgrade bug by developers",
+      "summary": "The Sui Foundation's post-mortem published Sunday traces all three outages to interactions between a new address-balance feature shipped in the v1.72 release and the network's existing gas and consensus logic.",
+      "url": "https://www.coindesk.com/tech/2026/06/01/three-sui-mainnet-halts-in-48-hours-traced-to-an-upgrade-bug-by-developers",
+      "publishedAt": "2026-06-01T05:38:50.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260601-three-sui-mainnet-halts-in-48-hours-traced-to-an-upgrade-bug-by-developers",
+      "localUrl": "/news/20260601-three-sui-mainnet-halts-in-48-hours-traced-to-an-upgrade-bug-by-developers.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin extends slide as spot ETF outflows hit a record while Wall Street rips on AI",
+      "summary": "U.S. spot bitcoin ETFs lost $2.97 billion across 10 trading days through Friday, the longest outflow streak on record. Oil's bounce on the stalled Iran deal added pressure even as global equities hit new highs on the Nvidia and SoftBank AI…",
+      "url": "https://www.coindesk.com/markets/2026/06/01/bitcoin-extends-slide-as-spot-etf-outflows-hit-a-record-while-wall-street-rips-on-ai",
+      "publishedAt": "2026-06-01T05:11:40.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260601-bitcoin-extends-slide-as-spot-etf-outflows-hit-a-record-while-wall-street-rips-o",
+      "localUrl": "/news/20260601-bitcoin-extends-slide-as-spot-etf-outflows-hit-a-record-while-wall-street-rips-o.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Aave overhauls listing standards after $230 Million rsETH exploit exposed bridge risks",
+      "summary": "An official postmortem traced the exploit to a LayerZero bridge verification failure and outlined a sweeping overhaul of Aave's asset-listing standards as DeFi risks shift beyond smart contract bugs.",
+      "url": "https://www.coindesk.com/markets/2026/06/01/aave-overhauls-listing-standards-after-usd230-million-rseth-exploit-exposed-bridge-risks",
+      "publishedAt": "2026-06-01T05:04:17.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260601-aave-overhauls-listing-standards-after-230-million-rseth-exploit-exposed-bridge-",
+      "localUrl": "/news/20260601-aave-overhauls-listing-standards-after-230-million-rseth-exploit-exposed-bridge-.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Wintermute to bring liquidity to booming prediction markets sector",
+      "summary": "Wintermute says it will provide “two-sided markets across event contracts on leading venues,” but did not specify what platforms it was trading on.",
+      "url": "https://cointelegraph.com/news/wintermute-is-entering-prediction-markets-as-a-liquidity-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-06-01T04:22:38.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260601-wintermute-to-bring-liquidity-to-booming-prediction-markets-sector",
+      "localUrl": "/news/20260601-wintermute-to-bring-liquidity-to-booming-prediction-markets-sector.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "White hat hacker recovers $2M from faulty 2016 ICO smart contract",
+      "summary": "A white-hat hacker has helped the creators of Hong Coin by showing them how to exploit a flawed admin function on a smart contract and ultimately refund investors after a decade.",
+      "url": "https://cointelegraph.com/news/whitehat-helps-recover-2m-from-2016-ico-smart-contract?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-06-01T02:21:56.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260601-white-hat-hacker-recovers-2m-from-faulty-2016-ico-smart-contract",
+      "localUrl": "/news/20260601-white-hat-hacker-recovers-2m-from-faulty-2016-ico-smart-contract.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "The reason I’ve never talked about crypto before is simple: the space is full of scams, and many projects have no culture and create no real value. Should I create a Kekius coin focused on real value and helping people find meaning, curiosity, friendship, and p - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BMHdsZFdKdHVZMWl2RURlaF96bEVNNXpPQUlDaWZnSEw5akN1Rk5SUHgtLTVvYU1jb2psdE1rY1BkQ0hJeWg2bUVoRGxPdkF1SmV2U2tuVHJPSWxBdG9DcDlR?oc=5\" target=\"_blank\">The reason I’ve never talked about…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BMHdsZFdKdHVZMWl2RURlaF96bEVNNXpPQUlDaWZnSEw5akN1Rk5SUHgtLTVvYU1jb2psdE1rY1BkQ0hJeWg2bUVoRGxPdkF1SmV2U2tuVHJPSWxBdG9DcDlR?oc=5",
+      "publishedAt": "2026-06-01T01:34:33.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260601-the-reason-ive-never-talked-about-crypto-before-is-simple-the-space-is-full-of-s",
+      "localUrl": "/news/20260601-the-reason-ive-never-talked-about-crypto-before-is-simple-the-space-is-full-of-s.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Coinbase launches direct INR deposits and withdrawals in India Coinbase announced the launch of direct INR rails in India, allowing users to deposit and withdraw INR via IMPS and trade spot markets and perpetual futures on major crypto assets. Coinbase s - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zWEF1TnhJZzU2X3VMTzVaT3ZJcmVwVDVRc2UxNVkyUGJUaGswSE90ZU1qbUU1RkRwd1BpNThZLV9KU0kxd2ZrZmFBVUo1dTY5RlZGc18zU2xMWGFpQ19PZUx3TQ?oc=5\" target=\"_blank\">Coinbase launches direct INR dep…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zWEF1TnhJZzU2X3VMTzVaT3ZJcmVwVDVRc2UxNVkyUGJUaGswSE90ZU1qbUU1RkRwd1BpNThZLV9KU0kxd2ZrZmFBVUo1dTY5RlZGc18zU2xMWGFpQ19PZUx3TQ?oc=5",
+      "publishedAt": "2026-06-01T01:03:58.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260601-coinbase-launches-direct-inr-deposits-and-withdrawals-in-india-coinbase-announce",
+      "localUrl": "/news/20260601-coinbase-launches-direct-inr-deposits-and-withdrawals-in-india-coinbase-announce.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Coinbase makes a major play for India’s booming $3 billion crypto market with local currency launch",
@@ -35,7 +140,7 @@
     {
       "source": "Cointelegraph",
       "title": "Strategy's Michael Saylor teases BTC buy with 'working better' tweet",
-      "summary": "Strategy could be set to announce it has resumed buying Bitcoin after pausing in recent weeks as the biggest crypto looks poised to close out the month down more than 3.5%.",
+      "summary": "Strategy may be set to announce it has resumed buying Bitcoin after pausing in recent weeks as the biggest crypto looks poised to close out the month down more than 3.5%.",
       "url": "https://cointelegraph.com/news/strategys-michael-saylor-says-working-better-tees-up-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-05-31T20:00:12.000Z",
       "keywords": [
@@ -79,7 +184,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Kraken ‘plans’ regulated perp contracts as rivals are quick off the blocks",
+      "title": "Kraken ‘plans’ regulated perp contracts as rivals are quick off blocks",
       "summary": "In the wake of CFTC approval of perpetual futures contracts tied to the spot price of Bitcoin, Kraken expects to offer those to US institutional clients within \"the next month.\"",
       "url": "https://cointelegraph.com/news/kraken-plans-regulated-perp-contracts-as-rivals-are-quick-off-the-blocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-05-31T17:40:00.000Z",
@@ -87,8 +192,8 @@
         "Latest News"
       ],
       "category": "基础设施",
-      "slug": "20260531-kraken-plans-regulated-perp-contracts-as-rivals-are-quick-off-the-blocks",
-      "localUrl": "/news/20260531-kraken-plans-regulated-perp-contracts-as-rivals-are-quick-off-the-blocks.html"
+      "slug": "20260531-kraken-plans-regulated-perp-contracts-as-rivals-are-quick-off-blocks",
+      "localUrl": "/news/20260531-kraken-plans-regulated-perp-contracts-as-rivals-are-quick-off-blocks.html"
     },
     {
       "source": "CoinDesk",
@@ -143,6 +248,17 @@
       "localUrl": "/news/20260531-how-president-trumps-immigration-order-will-feed-the-stablecoin-economy-bitcoin-.html"
     },
     {
+      "source": "X Wire",
+      "title": "CNBC ANNOUNCES $500 BILLION MASTERCARD JUST BOUGHT A #BITCOIN AND CRYPTO COMPANY FOR $1,800,000,000 CARD GIANT WILL \"INTEGRATE DIGITAL ASSETS\" WALL STREET IS COMING – BIG TIME 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE40ZWRfZ2FGZnlmZVlmb29FY2toNTZpOFlRZ1dRVUw0M1VyTzBPaTRJZnlrNWVsN29aTVpyVDJnVWlVdC1EN3o4eDdfcXNIQW5xLWIzVnZnVmFKdlVnTDFHYU9B?oc=5\" target=\"_blank\">CNBC ANNOUNCES $500 BILLION MASTER…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40ZWRfZ2FGZnlmZVlmb29FY2toNTZpOFlRZ1dRVUw0M1VyTzBPaTRJZnlrNWVsN29aTVpyVDJnVWlVdC1EN3o4eDdfcXNIQW5xLWIzVnZnVmFKdlVnTDFHYU9B?oc=5",
+      "publishedAt": "2026-05-31T15:42:15.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260531-cnbc-announces-500-billion-mastercard-just-bought-a-bitcoin-and-crypto-company-f",
+      "localUrl": "/news/20260531-cnbc-announces-500-billion-mastercard-just-bought-a-bitcoin-and-crypto-company-f.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "The institutional edge: moomoo targets Wall Street-grade trading tools for retail crypto investors",
       "summary": "The brokerage giant says the future of investing won’t be defined by asset access alone but by the quality of tools investors get.",
@@ -193,6 +309,17 @@
       "category": "X热点",
       "slug": "20260531-just-in-michael-saylor-hints-at-buying-more-bitcoin-working-etter-xcom",
       "localUrl": "/news/20260531-just-in-michael-saylor-hints-at-buying-more-bitcoin-working-etter-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Michael Saylor hints that Strategy bought more bitcoin 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xMDM4VDIzS09BODhORVVzZDdncUZOUldFV0YyWmJOV1MzVnMwTGhjcVdIMmNRZmZmV2hPRktJOEIxbGJUZ2l0QjM4MWdwSGZ3cFRkc3Q2UHAzOTVOUHFyUXMwVVRJcWM?oc=5\" target=\"_blank\">JUST IN: Michael Saylor hin…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xMDM4VDIzS09BODhORVVzZDdncUZOUldFV0YyWmJOV1MzVnMwTGhjcVdIMmNRZmZmV2hPRktJOEIxbGJUZ2l0QjM4MWdwSGZ3cFRkc3Q2UHAzOTVOUHFyUXMwVVRJcWM?oc=5",
+      "publishedAt": "2026-05-31T13:07:40.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260531-just-in-michael-saylor-hints-that-strategy-bought-more-bitcoin-xcom",
+      "localUrl": "/news/20260531-just-in-michael-saylor-hints-that-strategy-bought-more-bitcoin-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -465,17 +592,6 @@
       "localUrl": "/news/20260530-hyperliquid-could-become-a-financial-services-juggernaut-as-defi-expands-says-gr.html"
     },
     {
-      "source": "X Wire",
-      "title": "Ethereum is not a company. It is global infrastructure controlled by no entity or consortium — like the Internet That’s why institutions bring the most assets onto Ethereum ETH is not a stock or valued on fees ETH is productive money — and that’s the exponential - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9USW91ZUhCRmwzQ0dhTzdVVmNmLW5kai1GWmRqcFEyazdrbUVxQXVTeG5vOGNyaWZaRm9JdFVON1ZCaFBvelg4QjZzbXpDY0JSSUR2N1dRdzc4VmdObXRPOE9KWlU?oc=5\" target=\"_blank\">Ethereum is not a company. It i…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9USW91ZUhCRmwzQ0dhTzdVVmNmLW5kai1GWmRqcFEyazdrbUVxQXVTeG5vOGNyaWZaRm9JdFVON1ZCaFBvelg4QjZzbXpDY0JSSUR2N1dRdzc4VmdObXRPOE9KWlU?oc=5",
-      "publishedAt": "2026-05-30T11:59:15.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260530-ethereum-is-not-a-company-it-is-global-infrastructure-controlled-by-no-entity-or",
-      "localUrl": "/news/20260530-ethereum-is-not-a-company-it-is-global-infrastructure-controlled-by-no-entity-or.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "XRP ETFs add $35 million as bitcoin and ether funds lost $2 billion in late May",
       "summary": "From May 20 to May 29, XRP funds took in $35 million while bitcoin and ether ETFs lost roughly $2 billion combined, with Ripple’s earlier reported XRP treasury plan still awaiting confirmation.",
@@ -541,14 +657,14 @@
     },
     {
       "source": "X Wire",
-      "title": "It's October 2026. Bitcoin bottomed between $40,000-$50,000. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RQWxpRjhpUmRPUjJ3aFR4VVoxeHNROGNIdmlpd3BnMEFqSkc3dWI5YlZXdE9veVppUEFvbWxiZENMZFRYRHEwSHZDZjl3RktFMXRDQVlvaDNfeVdXajVzZTlR?oc=5\" target=\"_blank\">It's October 2026. Bitcoin bottome…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RQWxpRjhpUmRPUjJ3aFR4VVoxeHNROGNIdmlpd3BnMEFqSkc3dWI5YlZXdE9veVppUEFvbWxiZENMZFRYRHEwSHZDZjl3RktFMXRDQVlvaDNfeVdXajVzZTlR?oc=5",
-      "publishedAt": "2026-05-30T08:02:00.000Z",
+      "title": "Crypto Fans Remix NVIDIA's Garage-to-Empire Meme - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFByUk1mTVdUOW90V29MOUVKYUU3aDM2RjZpM0xRejMzc00xUGtMYjFTQVBwM3RwMVllM2dUYUFWUU9aWk9mTVpGZ0xxZm8yZWFyUjQ3MWNCMA?oc=5\" target=\"_blank\">Crypto Fans Remix NVIDIA's Garage-to-Empire Meme…",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByUk1mTVdUOW90V29MOUVKYUU3aDM2RjZpM0xRejMzc00xUGtMYjFTQVBwM3RwMVllM2dUYUFWUU9aWk9mTVpGZ0xxZm8yZWFyUjQ3MWNCMA?oc=5",
+      "publishedAt": "2026-05-30T08:18:43.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260530-its-october-2026-bitcoin-bottomed-between-40000-50000-xcom",
-      "localUrl": "/news/20260530-its-october-2026-bitcoin-bottomed-between-40000-50000-xcom.html"
+      "slug": "20260530-crypto-fans-remix-nvidias-garage-to-empire-meme-xcom",
+      "localUrl": "/news/20260530-crypto-fans-remix-nvidias-garage-to-empire-meme-xcom.html"
     },
     {
       "source": "X Wire",
@@ -614,32 +730,6 @@
       "localUrl": "/news/20260530-ethereum-og-is-dumping-eth-over-the-past-week-an-ethereum-og-sold-55000-eth11225.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin dip buyers place $500M in bids as $70K retest looms",
-      "summary": "Over $500 million in Bitcoin bids now sit near $70,000, while options traders and futures positions converge around the same level.",
-      "url": "https://cointelegraph.com/markets/bitcoin-dip-buyers-place-350m-in-bids-as-70k-retest-looms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-29T22:45:33.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260529-bitcoin-dip-buyers-place-500m-in-bids-as-70k-retest-looms",
-      "localUrl": "/news/20260529-bitcoin-dip-buyers-place-500m-in-bids-as-70k-retest-looms.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "‘Extraordinarily unusual’ for CFTC to reverse Gemini settlement deal: Ex-chair",
-      "summary": "As the CFTC and Gemini work together to seek a court's reversal of a 2025 settlement, one of the agency’s former chairs said the public “deserves a better explanation.”",
-      "url": "https://cointelegraph.com/news/cftc-reverse-settlement-gemini-unusual-former-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-05-29T22:28:10.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260529-extraordinarily-unusual-for-cftc-to-reverse-gemini-settlement-deal-ex-chair",
-      "localUrl": "/news/20260529-extraordinarily-unusual-for-cftc-to-reverse-gemini-settlement-deal-ex-chair.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: ethereum:0x514910771af9ca656af840dff83e8264ecf986ca futures now trade 24/7 on @CMEGroup, the world's largest CFTC-regulated derivatives exchange. This milestone unlocks enhanced institutional access and reflects the growing maturity of - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RUmJUcFA3cmJMTzZ6QkE4cjF3Y0tUdFV3ekFhX094dlVhSmFGcnFzSThPMkt3S2hZNEgyT0RMOFV1eFE5RGZpR1ItaVEwUGVORlpHajRsTVpMRUhYd1NN?oc=5\" target=\"_blank\">JUST IN: ethereum:0x514910771af9ca656a…",
@@ -662,17 +752,6 @@
       "category": "市场",
       "slug": "20260529-hes-full-of-shit-jp-morgans-jamie-dimon-takes-aim-at-coinbase-ceo-over-clarity-a",
       "localUrl": "/news/20260529-hes-full-of-shit-jp-morgans-jamie-dimon-takes-aim-at-coinbase-ceo-over-clarity-a.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin adoption continues to accelerate globally, with strong momentum shaping its next growth phase. New waves of demand are reinforcing Bitcoin’s expanding global footprint. ₿ - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yWnoxeUhBeXgzdTRQakNQZllxVmhqQlRGWC1sTVFNbE5HM290SnlrVDhZYW1qcTAwNUJVdzlDOE1aUVhKRHhHd3B1V19ZZXlXUlpYZk0yTEN1bm1Q?oc=5\" target=\"_blank\">Bitcoin adoption continues to accelerate g…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yWnoxeUhBeXgzdTRQakNQZllxVmhqQlRGWC1sTVFNbE5HM290SnlrVDhZYW1qcTAwNUJVdzlDOE1aUVhKRHhHd3B1V19ZZXlXUlpYZk0yTEN1bm1Q?oc=5",
-      "publishedAt": "2026-05-29T21:01:14.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260529-bitcoin-adoption-continues-to-accelerate-globally-with-strong-momentum-shaping-i",
-      "localUrl": "/news/20260529-bitcoin-adoption-continues-to-accelerate-globally-with-strong-momentum-shaping-i.html"
     },
     {
       "source": "Decrypt",
@@ -743,17 +822,6 @@
       "localUrl": "/news/20260529-lenovo-stock-doubles-in-may-on-ai-server-boombest-month-in-27-years.html"
     },
     {
-      "source": "X Wire",
-      "title": "Vitalik Buterin: The crypto ecosystem must not go down the path of OpenAI（ARCHIVE FOOTAGE ） On July 3, 2025, Ethereum co-founder Vitalik Buterin stated in an EthCC speech video that the crypto industry must not repeat the mistakes of OpenAI, which first - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZeFAxR2x3aTF0M0dudnhfRlR5UjVMdXh3cHkzNGhvaXNpQ3ZSYVdlc3NrZU5Ub01KbU9MdmIydUczcWxvUW1NZXBmYXdCX1JzcDZfVWNMMW1Dbnp2QXQzWTNIOA?oc=5\" target=\"_blank\">Vitalik Buterin: The crypto ecos…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZeFAxR2x3aTF0M0dudnhfRlR5UjVMdXh3cHkzNGhvaXNpQ3ZSYVdlc3NrZU5Ub01KbU9MdmIydUczcWxvUW1NZXBmYXdCX1JzcDZfVWNMMW1Dbnp2QXQzWTNIOA?oc=5",
-      "publishedAt": "2026-05-29T19:01:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260529-vitalik-buterin-the-crypto-ecosystem-must-not-go-down-the-path-of-openaiarchive-",
-      "localUrl": "/news/20260529-vitalik-buterin-the-crypto-ecosystem-must-not-go-down-the-path-of-openaiarchive-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "You Can Now Read the US Constitution via the Bitcoin Blockchain",
       "summary": "One of America's most important historical documents will forever be inscribed on a Bitcoin block, thanks to someone's $83 transaction fee.",
@@ -793,21 +861,6 @@
       "localUrl": "/news/20260529-ai-models-cant-agree-on-basic-facts-most-of-the-time-study-shows.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. regulator says 24/7 trading is great for crypto, may not be fit for other sectors",
-      "summary": "As the CFTC issued landmark approvals for crypto perpetual futures contracts, it explained in a related advisory that round-the-clock activity isn't right for all.",
-      "url": "https://www.coindesk.com/policy/2026/05/29/u-s-regulator-says-24-7-trading-is-great-for-crypto-may-not-be-fit-for-other-sectors",
-      "publishedAt": "2026-05-29T16:29:42.000Z",
-      "keywords": [
-        "Policy",
-        "Regulation",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260529-us-regulator-says-247-trading-is-great-for-crypto-may-not-be-fit-for-other-secto",
-      "localUrl": "/news/20260529-us-regulator-says-247-trading-is-great-for-crypto-may-not-be-fit-for-other-secto.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Wintermute Is Providing Liquidity on Kalshi and Polymarket, Linking Two Giants",
       "summary": "Wintermute is providing liquidity on the two biggest prediction markets, linking flows for both firms, according to a source familiar with the matter.",
@@ -821,50 +874,6 @@
       "localUrl": "/news/20260529-wintermute-is-providing-liquidity-on-kalshi-and-polymarket-linking-two-giants.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Mass deployment of AI agents is a disaster waiting to happen, says CertiK CEO",
-      "summary": "Ronghui Gu shares tips on how to isolate AI agents while testing them so they do not have access to critical personal information or digital assets.",
-      "url": "https://www.coindesk.com/tech/2026/05/29/mass-deployment-of-ai-agents-is-a-disaster-waiting-to-happen-says-certik-ceo",
-      "publishedAt": "2026-05-29T15:31:07.000Z",
-      "keywords": [
-        "Tech",
-        "Artificial Intelligence",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260529-mass-deployment-of-ai-agents-is-a-disaster-waiting-to-happen-says-certik-ceo",
-      "localUrl": "/news/20260529-mass-deployment-of-ai-agents-is-a-disaster-waiting-to-happen-says-certik-ceo.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Clarity Act Risks Regulation Without Oversight, Brookings Fellow Says",
-      "summary": "As Congress weighs crypto legislation, Aaron Klein says the CFTC needs more resources, independence and coordination to oversee digital markets.",
-      "url": "https://www.coindesk.com/policy/2026/05/29/clarity-act-risks-regulation-without-oversight-brookings-fellow-says",
-      "publishedAt": "2026-05-29T15:14:55.000Z",
-      "keywords": [
-        "Policy",
-        "Media Network Interview",
-        "Clarity Act",
-        "CFTC",
-        "Regulation",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260529-clarity-act-risks-regulation-without-oversight-brookings-fellow-says",
-      "localUrl": "/news/20260529-clarity-act-risks-regulation-without-oversight-brookings-fellow-says.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "CFTC Approves First Regulated Bitcoin Perpetual Contract in U.S. CFTC Chairman Mike Selig said the agency has approved the listing of the first “true” Bitcoin perpetual contract on a CFTC-registered exchange, marking a major step toward bringing crypto pe - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Hd3FtdVhSYS1zRnFaR1JXMUN2RTBUMEJRR1BQOV9XTVpBMzlCN09Hb0hMN0ZkRngtajlYSUxxV3pQXzI3bmVNcmRwQ1ZKeVZla0pTQzlja0xMUVdYQUNVbW9PZw?oc=5\" target=\"_blank\">CFTC Approves First Regulated Bi…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Hd3FtdVhSYS1zRnFaR1JXMUN2RTBUMEJRR1BQOV9XTVpBMzlCN09Hb0hMN0ZkRngtajlYSUxxV3pQXzI3bmVNcmRwQ1ZKeVZla0pTQzlja0xMUVdYQUNVbW9PZw?oc=5",
-      "publishedAt": "2026-05-29T15:07:44.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260529-cftc-approves-first-regulated-bitcoin-perpetual-contract-in-us-cftc-chairman-mik",
-      "localUrl": "/news/20260529-cftc-approves-first-regulated-bitcoin-perpetual-contract-in-us-cftc-chairman-mik.html"
-    },
-    {
       "source": "Decrypt",
       "title": "CFTC Approves Bitcoin Perpetual Futures on Prediction Market Kalshi",
       "summary": "The CFTC issued an order allowing Kalshi to offer perpetual futures in the U.S., starting with contracts tied to Bitcoin's price.",
@@ -876,22 +885,6 @@
       "category": "市场",
       "slug": "20260529-cftc-approves-bitcoin-perpetual-futures-on-prediction-market-kalshi",
       "localUrl": "/news/20260529-cftc-approves-bitcoin-perpetual-futures-on-prediction-market-kalshi.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live markets: Bitcoin shrugs off early decline, but two-month winning streak is in jeopardy",
-      "summary": "A hopeful posting on Iran from President Trump helped erase morning losses.",
-      "url": "https://www.coindesk.com/markets/2026/05/29/live-markets-bitcoin-slides-further-putting-two-month-winning-streak-in-jeopardy",
-      "publishedAt": "2026-05-29T14:50:50.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Live News",
-        "live_news"
-      ],
-      "category": "市场",
-      "slug": "20260529-live-markets-bitcoin-shrugs-off-early-decline-but-two-month-winning-streak-is-in",
-      "localUrl": "/news/20260529-live-markets-bitcoin-shrugs-off-early-decline-but-two-month-winning-streak-is-in.html"
     },
     {
       "source": "Decrypt",
@@ -963,14 +956,14 @@
     },
     {
       "source": "X Wire",
-      "title": "In my first public remarks as @CFTC Chairman, I made clear that the agency would use the tools at its disposal to onshore crypto asset perpetuals. Today, the @CFTC delivered on that commitment. This morning, the @CFTC took historic action to permit the list - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTNFk3LXFLOFhwekhpbHRIcUR2ejRaaXBDakF5M2h1UllyWEdQMUZ6V0NaM3VoYTg2dzA5b0tERE9vdWNRd2dtb2dDejRlcWxqdDhqM2VLZnlFSmZRdmRfNFpTOUo?oc=5\" target=\"_blank\">In my first public remarks as @…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTNFk3LXFLOFhwekhpbHRIcUR2ejRaaXBDakF5M2h1UllyWEdQMUZ6V0NaM3VoYTg2dzA5b0tERE9vdWNRd2dtb2dDejRlcWxqdDhqM2VLZnlFSmZRdmRfNFpTOUo?oc=5",
-      "publishedAt": "2026-05-29T14:07:23.000Z",
+      "title": "JUST IN: Someone publishes the entire U.S. Constitution on the Bitcoin blockchain 🇺🇸 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5VFdsUVpMOFhTRlR4ZWRlRmhlVWtRcVRBQjdNODNMWnFXV1N3V2MzVUVNYjhWMDUxdmNaY3A5MzcxdnVRX1lpMVNQRldCTW95V1U5ZVF1MnZid0xKbnFQTkpsc1BabG8?oc=5\" target=\"_blank\">JUST IN: Someone publishes …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5VFdsUVpMOFhTRlR4ZWRlRmhlVWtRcVRBQjdNODNMWnFXV1N3V2MzVUVNYjhWMDUxdmNaY3A5MzcxdnVRX1lpMVNQRldCTW95V1U5ZVF1MnZid0xKbnFQTkpsc1BabG8?oc=5",
+      "publishedAt": "2026-05-29T13:14:24.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260529-in-my-first-public-remarks-as-cftc-chairman-i-made-clear-that-the-agency-would-u",
-      "localUrl": "/news/20260529-in-my-first-public-remarks-as-cftc-chairman-i-made-clear-that-the-agency-would-u.html"
+      "slug": "20260529-just-in-someone-publishes-the-entire-us-constitution-on-the-bitcoin-blockchain-x",
+      "localUrl": "/news/20260529-just-in-someone-publishes-the-entire-us-constitution-on-the-bitcoin-blockchain-x.html"
     },
     {
       "source": "Decrypt",
@@ -1026,14 +1019,14 @@
     },
     {
       "source": "X Wire",
-      "title": "🔥 BIG: The SEC has approved Paxos as the first blockchain-native clearing agency in the US, a milestone for crypto and traditional finance convergence. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xRERwVGpnbENXOUJEc0ZwMXYxSUVUOWg4UnZZYzIyMDhkcEFFcmlMNnd1OHhjVGJCdkdaeEFUZmc0RHFqNDFKSmE1RGZWQnJWcDhWZ09qeGZHWlA5c0NQdUJjR3Y?oc=5\" target=\"_blank\">🔥 BIG: The SEC has approved Pa…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xRERwVGpnbENXOUJEc0ZwMXYxSUVUOWg4UnZZYzIyMDhkcEFFcmlMNnd1OHhjVGJCdkdaeEFUZmc0RHFqNDFKSmE1RGZWQnJWcDhWZ09qeGZHWlA5c0NQdUJjR3Y?oc=5",
-      "publishedAt": "2026-05-29T05:20:39.000Z",
+      "title": "🔥 BREAKING: CME Group launches 24/7 crypto trading today. Starting May 29 at 4:00 p.m. CT, institutions can trade BTC, ETH, SOL, XRP, ADA, LINK, XLM, AVAX, and SUI futures around the clock. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxT3VHcVlNUkRFbWI4bDBsdGJuZm9xSmkwOG45ZVlYTmU1WktaYnZ0SVI4NTU5M0l4YXV2dnpOcF82OGFMa2N6NUdCbHp2RGViTUhfX3poRlVxQVVscTh1dm9IM2U?oc=5\" target=\"_blank\">🔥 BREAKING: CME Group launches…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxT3VHcVlNUkRFbWI4bDBsdGJuZm9xSmkwOG45ZVlYTmU1WktaYnZ0SVI4NTU5M0l4YXV2dnpOcF82OGFMa2N6NUdCbHp2RGViTUhfX3poRlVxQVVscTh1dm9IM2U?oc=5",
+      "publishedAt": "2026-05-29T10:08:31.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260529-big-the-sec-has-approved-paxos-as-the-first-blockchain-native-clearing-agency-in",
-      "localUrl": "/news/20260529-big-the-sec-has-approved-paxos-as-the-first-blockchain-native-clearing-agency-in.html"
+      "slug": "20260529-breaking-cme-group-launches-247-crypto-trading-today-starting-may-29-at-400-pm-c",
+      "localUrl": "/news/20260529-breaking-cme-group-launches-247-crypto-trading-today-starting-may-29-at-400-pm-c.html"
     },
     {
       "source": "Decrypt",
