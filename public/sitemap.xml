@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-04T21:51:41.480Z</lastmod>
+    <lastmod>2026-06-04T23:21:39.070Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-04T21:51:41.480Z</lastmod>
+    <lastmod>2026-06-04T23:21:39.070Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260604-comptroller-says-only-democrats-pressuring-over-crypto-trust-charter.html</loc>
+    <lastmod>2026-06-04T21:54:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260604-ai-is-already-developing-ai-says-anthropicand-humans-may-be-slowing-things-down.html</loc>
@@ -57,6 +63,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260604-google-deepmind-ceo-says-agi-is-coming-fast-we-dont-have-long-to-prepare.html</loc>
     <lastmod>2026-06-04T18:54:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260604-just-in-bitcoin-is-now-below-the-fire-sale-territory-for-the-second-time-in-4-ye.html</loc>
+    <lastmod>2026-06-04T18:53:35.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -139,14 +151,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260604-crypto-for-advisors-the-crypto-due-diligence-questions-you-forgot-to-ask.html</loc>
-    <lastmod>2026-06-04T15:00:00.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260604-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-06-04T15:02:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260604-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-06-04T14:58:17.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260604-crypto-for-advisors-the-crypto-due-diligence-questions-you-forgot-to-ask.html</loc>
+    <lastmod>2026-06-04T15:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -177,12 +189,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260604-not-all-ethereum-layer-2s-are-dying-but-many-general-purpose-chains-no-longer-ha.html</loc>
     <lastmod>2026-06-04T13:52:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260604-no-one-has-ever-had-worse-timing-with-crypto-than-me-ddtg-xcom.html</loc>
-    <lastmod>2026-06-04T13:32:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -267,12 +273,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260604-us-bitcoin-reserve-moving-ahead-at-deliberate-speed-bessent.html</loc>
     <lastmod>2026-06-04T12:08:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260604-is-the-crypto-market-being-manipulated-after-the-crpto-market-structure-bill-pas.html</loc>
-    <lastmod>2026-06-04T12:06:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -409,8 +409,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260604-bitmine-eyes-dividend-paying-preferred-shares-echoing-strategys-playbook.html</loc>
-    <lastmod>2026-06-04T05:34:46.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260604-bitcoin-is-at-the-same-price-as-two-years-ago-but-one-thing-is-different-the-6m2.html</loc>
+    <lastmod>2026-06-04T04:57:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -481,6 +481,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260603-just-in-126-trillion-charles-schwab-launches-247-bitcoin-futures-trading-xcom.html</loc>
+    <lastmod>2026-06-03T14:06:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260603-agentic-payments-cross-the-threshold-inside-x402s-path-to-meaningful-adoption.html</loc>
     <lastmod>2026-06-03T11:55:38.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -495,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260603-ofac-sanctions-nobitex-and-major-iranian-cryptocurrency-exchanges-in-sweeping-ev.html</loc>
     <lastmod>2026-06-03T00:38:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260602-12-reasons-why-its-the-coldest-crypto-winter-ever-back-in-february-i-wrote-a-lis.html</loc>
-    <lastmod>2026-06-02T18:02:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
