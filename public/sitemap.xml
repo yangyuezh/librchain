@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-05T20:53:25.773Z</lastmod>
+    <lastmod>2026-06-05T22:22:16.431Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-05T20:53:25.773Z</lastmod>
+    <lastmod>2026-06-05T22:22:16.431Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260605-travala-lets-ai-agents-book-hotels-with-usdc-on-base.html</loc>
+    <lastmod>2026-06-05T20:55:27.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260605-crypto-tax-proposals-weighed-ahead-of-tuesday-house-hearing.html</loc>
+    <lastmod>2026-06-05T20:41:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260605-zcash-bug-crisis-shows-privacy-cuts-both-ways-experts-say.html</loc>
     <lastmod>2026-06-05T20:26:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260605-breaking-our-traders-forecast-bitcoin-to-reach-a-low-of-43000-xcom.html</loc>
+    <lastmod>2026-06-05T20:18:13.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -361,12 +379,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260605-grayscale-head-of-research-pressure-on-strategys-leveraged-model-is-fueling-bitc.html</loc>
-    <lastmod>2026-06-05T10:34:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260605-jpmorgan-bank-of-america-citi-to-start-blockchain-offensive-with-shared-tokenize.html</loc>
     <lastmod>2026-06-05T09:16:29.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -405,18 +417,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260605-bitcoin-plunges-to-near-62000-as-the-ai-trade-unwinds-hype-falls-14.html</loc>
     <lastmod>2026-06-05T06:08:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260605-anthropic-says-self-improving-ai-may-be-closer-than-expected.html</loc>
-    <lastmod>2026-06-05T06:03:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260605-zec-drops-30-as-shielded-labs-reveals-more-about-infinite-counterfeit-bug.html</loc>
-    <lastmod>2026-06-05T05:09:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,8 +475,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260604-bitcoin-risks-deeper-pullback-prediction-market-kalshi-now-points-to-a-potential.html</loc>
-    <lastmod>2026-06-04T17:13:07.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260604-who-murdered-bitcoin-xcom.html</loc>
+    <lastmod>2026-06-04T15:56:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
