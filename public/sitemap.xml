@@ -2,15 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-06T12:14:26.722Z</lastmod>
+    <lastmod>2026-06-06T14:51:47.009Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-06T12:14:26.722Z</lastmod>
+    <lastmod>2026-06-06T14:51:47.009Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260606-meet-the-guys-still-clinging-to-the-terra-luna-that-do-kwon-abandoned.html</loc>
+    <lastmod>2026-06-06T14:26:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260606-satoshi-era-bitcoin-at-center-of-285-billion-lawsuit-moves-after-14-years.html</loc>
+    <lastmod>2026-06-06T13:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260606-a-massive-hiring-wave-reveals-trading-firms-are-no-longer-viewing-polymarket-as-.html</loc>
+    <lastmod>2026-06-06T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260606-michael-saylors-rallying-cry-bitcoin-needs-four-forces-to-win.html</loc>
+    <lastmod>2026-06-06T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260606-just-in-michael-saylor-says-the-ai-buildout-is-absorbing-capital-bitcoin-remains.html</loc>
+    <lastmod>2026-06-06T12:53:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260606-the-ai-buildout-is-absorbing-capital-at-historic-scale-creating-temporary-pressu.html</loc>
+    <lastmod>2026-06-06T12:46:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260606-are-retail-traders-selling-their-bitcoin-to-buy-the-spacex-ipo.html</loc>
@@ -253,6 +289,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260605-criticism-over-bitcoins-price-decline-should-be-directed-more-at-og-whales-than-.html</loc>
+    <lastmod>2026-06-05T15:04:16.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260605-bitcoin-loses-60000-falls-to-weakest-price-since-october-2024.html</loc>
     <lastmod>2026-06-05T15:02:28.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -379,20 +421,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260605-arthur-hayes-dumps-zcash-holdings-after-orchard-pool-vulnerability-revealed.html</loc>
-    <lastmod>2026-06-05T11:57:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260605-pumpfuns-latest-experiment-is-already-getting-weird.html</loc>
     <lastmod>2026-06-05T11:33:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260605-bitcoin-sentiment-hit-peak-bearishness-at-recent-lows-peak-bullishness-near-tops.html</loc>
-    <lastmod>2026-06-05T11:25:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -417,18 +447,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260605-zec-crashes-38-as-zcash-discloses-critical-counterfeiting-vulnerability.html</loc>
     <lastmod>2026-06-05T10:41:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260605-cryptos-worst-week-since-july-2024-deepens-as-bitcoin-ether-near-critical-price-.html</loc>
-    <lastmod>2026-06-05T10:39:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260605-new-jpmorgan-citi-and-bankofamerica-are-building-a-shared-blockchain-network-to-.html</loc>
-    <lastmod>2026-06-05T09:58:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -481,26 +499,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260604-crypto-billionaires-donate-94m-to-farages-reform-uk-in-q1.html</loc>
-    <lastmod>2026-06-04T17:20:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260604-who-murdered-bitcoin-xcom.html</loc>
-    <lastmod>2026-06-04T15:56:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260604-the-100-million-crypto-looksmaxxing-boom-how-chinese-cartel-suppliers-pivoted-to.html</loc>
     <lastmod>2026-06-04T11:55:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260604-breaking-bitcoins-selloff-accelerates-dropping-below-63000-for-the-first-time-si.html</loc>
-    <lastmod>2026-06-04T00:44:35.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -513,12 +513,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260603-ofac-sanctions-nobitex-and-major-iranian-cryptocurrency-exchanges-in-sweeping-ev.html</loc>
     <lastmod>2026-06-03T00:38:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260602-solana-now-has-native-subscriptions-allowances.html</loc>
-    <lastmod>2026-06-02T14:45:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
