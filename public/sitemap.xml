@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-06T14:51:47.009Z</lastmod>
+    <lastmod>2026-06-06T16:17:22.113Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-06T14:51:47.009Z</lastmod>
+    <lastmod>2026-06-06T16:17:22.113Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260606-bitcoin-has-dumped-all-of-its-gains-since-trump-was-reelectedand-then-some.html</loc>
+    <lastmod>2026-06-06T15:59:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260606-americas-largest-banks-are-building-a-new-digital-currency-network-to-stop-a-mas.html</loc>
+    <lastmod>2026-06-06T15:59:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260606-a-crypto-pioneer-who-turned-a-20-million-family-stake-into-a-billion-dollar-fund.html</loc>
+    <lastmod>2026-06-06T15:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260606-meet-the-guys-still-clinging-to-the-terra-luna-that-do-kwon-abandoned.html</loc>
@@ -49,6 +67,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260606-sad-day-for-ethereum-holders-eth-is-no-longer-the-largest-stablecoin-in-crypto-t.html</loc>
+    <lastmod>2026-06-06T11:14:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260606-are-retail-traders-selling-their-bitcoin-to-buy-the-spacex-ipo.html</loc>
     <lastmod>2026-06-06T09:45:15.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -75,6 +99,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260606-is-ethereum-co-founder-joseph-lubin-ethereumjoseph-preparing-to-dump-eth-a-walle.html</loc>
     <lastmod>2026-06-06T04:42:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260606-hunter-biden-saving-crypto-xcom.html</loc>
+    <lastmod>2026-06-06T03:58:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -289,12 +319,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260605-criticism-over-bitcoins-price-decline-should-be-directed-more-at-og-whales-than-.html</loc>
-    <lastmod>2026-06-05T15:04:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260605-bitcoin-loses-60000-falls-to-weakest-price-since-october-2024.html</loc>
     <lastmod>2026-06-05T15:02:28.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -379,12 +403,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260605-bearish-zcash-bets-hit-record-high-as-privacy-tokens-price-crashes.html</loc>
-    <lastmod>2026-06-05T12:54:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260605-morning-minute-massive-zcash-exploit-found-by-claude-extent-unknown.html</loc>
     <lastmod>2026-06-05T12:49:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -405,18 +423,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260605-how-low-can-bitcoin-price-go-if-60k-support-fails.html</loc>
     <lastmod>2026-06-05T12:24:23.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260605-bitcoin-slump-cuts-us-government-holdings-in-half-the-value-of-us-government-bit.html</loc>
-    <lastmod>2026-06-05T12:23:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260605-live-updates-bitcoin-tumbles-to-60000-as-blowout-jobs-data-zcash-bug-keeps-press.html</loc>
-    <lastmod>2026-06-05T12:08:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260604-just-in-bitcoin-is-now-below-the-fire-sale-territory-for-the-second-time-in-4-ye.html</loc>
     <lastmod>2026-06-04T18:53:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260604-strategys-michael-saylor-blames-capital-rotation-into-ai-as-bitcoin-dives-13.html</loc>
-    <lastmod>2026-06-04T18:06:15.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
