@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-06T20:19:50.045Z</lastmod>
+    <lastmod>2026-06-06T22:14:13.004Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-06T20:19:50.045Z</lastmod>
+    <lastmod>2026-06-06T22:14:13.004Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260606-ai-is-helping-discover-tech-vulnerabilitiesand-zcash-is-just-the-latest-example.html</loc>
+    <lastmod>2026-06-06T20:56:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260606-bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-390-billi.html</loc>
@@ -265,12 +271,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260605-breaking-bitcoin-is-now-expected-to-fall-below-50000-this-year-there-is-now-a-re.html</loc>
-    <lastmod>2026-06-05T16:48:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260605-blackrock-backed-tokenization-firm-securitize-clears-key-hurdle-to-go-public-on-.html</loc>
     <lastmod>2026-06-05T16:46:28.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -297,6 +297,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260605-what-is-strategy-mstr-the-bitcoin-treasury-company.html</loc>
     <lastmod>2026-06-05T16:15:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260605-breaking-bitcoin-officially-falls-below-60000-as-selling-pressure-accelerates-to.html</loc>
+    <lastmod>2026-06-05T16:14:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -433,12 +439,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260605-bitcoin-slump-cuts-us-government-holdings-in-half-the-value-of-us-government-bit.html</loc>
-    <lastmod>2026-06-05T12:23:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260605-pumpfuns-latest-experiment-is-already-getting-weird.html</loc>
     <lastmod>2026-06-05T11:33:50.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -487,20 +487,20 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260604-looksmaxxing-trend-spawns-100m-gray-market-fueled-by-bitcoin-stablecoins-chainal.html</loc>
-    <lastmod>2026-06-04T19:54:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260604-just-in-bitcoin-is-now-below-the-fire-sale-territory-for-the-second-time-in-4-ye.html</loc>
-    <lastmod>2026-06-04T18:53:35.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260604-the-ethereum-not-eth-stuff-is-the-mental-fallacy-that-triggered-me-into-writing-.html</loc>
+    <lastmod>2026-06-04T18:12:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260604-the-100-million-crypto-looksmaxxing-boom-how-chinese-cartel-suppliers-pivoted-to.html</loc>
     <lastmod>2026-06-04T11:55:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260604-breaking-bitcoins-selloff-accelerates-dropping-below-63000-for-the-first-time-si.html</loc>
+    <lastmod>2026-06-04T00:44:35.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
