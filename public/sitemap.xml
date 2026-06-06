@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-06T16:17:22.113Z</lastmod>
+    <lastmod>2026-06-06T18:19:17.854Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-06T16:17:22.113Z</lastmod>
+    <lastmod>2026-06-06T18:19:17.854Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260606-claude-code-vulnerability-could-let-attackers-steal-credentials-from-github-says.html</loc>
+    <lastmod>2026-06-06T18:08:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260606-meta-is-paying-creators-in-stablecoins-spending-them-is-someone-elses-problem.html</loc>
+    <lastmod>2026-06-06T16:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260606-bitcoin-most-oversold-since-2020-crash-can-btc-rebound-to-70k-next.html</loc>
+    <lastmod>2026-06-06T16:06:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260606-bitcoin-has-dumped-all-of-its-gains-since-trump-was-reelectedand-then-some.html</loc>
@@ -67,6 +85,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260606-latest-benjamin-cowen-says-bitcoin-will-eventually-hit-1-million-but-not-until-a.html</loc>
+    <lastmod>2026-06-06T12:20:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260606-sad-day-for-ethereum-holders-eth-is-no-longer-the-largest-stablecoin-in-crypto-t.html</loc>
     <lastmod>2026-06-06T11:14:21.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -99,12 +123,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260606-is-ethereum-co-founder-joseph-lubin-ethereumjoseph-preparing-to-dump-eth-a-walle.html</loc>
     <lastmod>2026-06-06T04:42:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260606-hunter-biden-saving-crypto-xcom.html</loc>
-    <lastmod>2026-06-06T03:58:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -259,12 +277,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260605-breaking-bitcoin-officially-falls-below-60000-as-selling-pressure-accelerates-to.html</loc>
-    <lastmod>2026-06-05T16:14:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260605-breaking-bitcoin-crashes-under-60000-xcom.html</loc>
     <lastmod>2026-06-05T16:13:35.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -313,6 +325,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260605-pretty-wild-to-see-everything-not-just-crypto-trading-down-particularly-in-the-f.html</loc>
+    <lastmod>2026-06-05T15:11:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260605-alsobrooks-says-clarity-act-needs-ethics-deal-before-senate-vote.html</loc>
     <lastmod>2026-06-05T15:05:55.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -355,12 +373,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260605-deribit-executive-bitcoin-break-below-60k-could-trigger-liquidations-coindesk-re.html</loc>
-    <lastmod>2026-06-05T13:25:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260605-zcash-weighs-new-shielded-pool-after-counterfeiting-flaw.html</loc>
     <lastmod>2026-06-05T13:18:41.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -397,12 +409,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260605-us-job-growth-blows-past-forecasts-setting-stage-for-fed-rate-hikes.html</loc>
-    <lastmod>2026-06-05T12:57:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260605-morning-minute-massive-zcash-exploit-found-by-claude-extent-unknown.html</loc>
     <lastmod>2026-06-05T12:49:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -423,6 +429,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260605-how-low-can-bitcoin-price-go-if-60k-support-fails.html</loc>
     <lastmod>2026-06-05T12:24:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260605-bitcoin-slump-cuts-us-government-holdings-in-half-the-value-of-us-government-bit.html</loc>
+    <lastmod>2026-06-05T12:23:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -457,12 +469,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260605-crypto-billionaires-bankroll-nigel-farages-pro-crypto-party.html</loc>
-    <lastmod>2026-06-05T07:02:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260605-solana-ecosystem-roundup-may-2026.html</loc>
     <lastmod>2026-06-05T03:15:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260604-looksmaxxing-trend-spawns-100m-gray-market-fueled-by-bitcoin-stablecoins-chainal.html</loc>
     <lastmod>2026-06-04T19:54:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260604-google-deepmind-ceo-says-agi-is-coming-fast-we-dont-have-long-to-prepare.html</loc>
-    <lastmod>2026-06-04T18:54:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
