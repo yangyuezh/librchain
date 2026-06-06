@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-05T22:22:16.431Z</lastmod>
+    <lastmod>2026-06-06T00:18:03.384Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-05T22:22:16.431Z</lastmod>
+    <lastmod>2026-06-06T00:18:03.384Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260605-eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-n.html</loc>
+    <lastmod>2026-06-05T22:18:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260605-travala-lets-ai-agents-book-hotels-with-usdc-on-base.html</loc>
@@ -31,14 +37,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260605-breaking-our-traders-forecast-bitcoin-to-reach-a-low-of-43000-xcom.html</loc>
-    <lastmod>2026-06-05T20:18:13.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260605-strategy-shares-fall-to-4-month-low-as-strc-dips-and-bitcoin-sinks-under-60k.html</loc>
+    <lastmod>2026-06-05T20:02:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260605-strategy-shares-fall-to-4-month-low-as-strc-dips-and-bitcoin-sinks-under-60k.html</loc>
-    <lastmod>2026-06-05T20:02:53.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260605-adding-even-more-fuel-to-the-fire-is-the-drawdown-in-crypto-with-bitcoin-now-dow.html</loc>
+    <lastmod>2026-06-05T20:02:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -97,6 +103,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260605-just-in-peter-schiff-says-prepare-for-a-crypto-black-monday-xcom.html</loc>
+    <lastmod>2026-06-05T17:10:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260605-crypto-biz-nobody-told-saylor-never-sell.html</loc>
     <lastmod>2026-06-05T17:04:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -105,6 +117,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260605-heres-what-happened-in-crypto-today.html</loc>
     <lastmod>2026-06-05T16:55:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260605-breaking-bitcoin-is-now-expected-to-fall-below-50000-this-year-there-is-now-a-re.html</loc>
+    <lastmod>2026-06-05T16:48:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -337,12 +355,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260605-zcash-is-starting-to-feel-exactly-like-the-early-days-of-bitcoin-some-of-the-sma.html</loc>
-    <lastmod>2026-06-05T11:26:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260605-bitcoin-sentiment-hit-peak-bearishness-at-recent-lows-peak-bullishness-near-tops.html</loc>
     <lastmod>2026-06-05T11:25:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -399,12 +411,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260605-crypto-billionaires-bankroll-nigel-farages-pro-crypto-party.html</loc>
     <lastmod>2026-06-05T07:02:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260605-strategys-leveraged-bitcoin-model-has-faced-its-first-stress-test-grayscale.html</loc>
-    <lastmod>2026-06-05T07:00:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -477,12 +483,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260604-who-murdered-bitcoin-xcom.html</loc>
     <lastmod>2026-06-04T15:56:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260604-breaking-the-first-federal-national-mortgage-association-backed-mortgage-using-b.html</loc>
-    <lastmod>2026-06-04T14:06:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
