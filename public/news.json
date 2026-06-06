@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-06-06T08:01:27.002Z",
+  "updatedAt": "2026-06-06T10:17:56.711Z",
   "total": 85,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Researcher who found Zcash's bug with AI adds Monero to his audit queue",
+      "summary": "Taylor Hornby, who uncovered the Orchard flaw that sent Zcash down 38%, says other privacy coins are on his list too.",
+      "url": "https://www.coindesk.com/tech/2026/06/06/researcher-who-found-zcash-s-bug-with-ai-adds-monero-to-his-audit-queue",
+      "publishedAt": "2026-06-06T09:38:00.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260606-researcher-who-found-zcashs-bug-with-ai-adds-monero-to-his-audit-queue",
+      "localUrl": "/news/20260606-researcher-who-found-zcashs-bug-with-ai-adds-monero-to-his-audit-queue.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "WLD plunges 20% as Hayes dumps token a day after saying he would keep holding it",
+      "summary": "The BitMEX co-founder and Maelstrom CIO cited a falling chart of SpaceX stock, which does not begin trading until June 12, as Worldcoin slid about 10%.",
+      "url": "https://www.coindesk.com/markets/2026/06/06/wld-plunges-20-as-hayes-dumps-token-a-day-after-saying-he-would-keep-holding-it",
+      "publishedAt": "2026-06-06T08:25:36.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260606-wld-plunges-20-as-hayes-dumps-token-a-day-after-saying-he-would-keep-holding-it",
+      "localUrl": "/news/20260606-wld-plunges-20-as-hayes-dumps-token-a-day-after-saying-he-would-keep-holding-it.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin back above $61,000 after rout leads to $1.6 billion liquidations",
@@ -40,6 +68,17 @@
       "category": "市场",
       "slug": "20260606-cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows",
       "localUrl": "/news/20260606-cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Coinbase CEO Brian Armstrong says \"Bitcoin is going to do great…one of many cycles we've all been through.\" - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE94MjZtUV9NWWR0WnpBbXVZYUprZUV3TVEyN0N6M0VVM2N6VU5sR1laelQyTUtla3dwOXB0dG1ZZUZBWnlXUzhGZjZzZlY0ZW94S3NwR25RRE9iSExIdHVvNlRn?oc=5\" target=\"_blank\">JUST IN: Coinbase CEO Brian Armstr…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94MjZtUV9NWWR0WnpBbXVZYUprZUV3TVEyN0N6M0VVM2N6VU5sR1laelQyTUtla3dwOXB0dG1ZZUZBWnlXUzhGZjZzZlY0ZW94S3NwR25RRE9iSExIdHVvNlRn?oc=5",
+      "publishedAt": "2026-06-05T22:44:03.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260605-just-in-coinbase-ceo-brian-armstrong-says-bitcoin-is-going-to-do-greatone-of-man",
+      "localUrl": "/news/20260605-just-in-coinbase-ceo-brian-armstrong-says-bitcoin-is-going-to-do-greatone-of-man.html"
     },
     {
       "source": "X Wire",
@@ -128,17 +167,6 @@
       "category": "X热点",
       "slug": "20260605-adding-even-more-fuel-to-the-fire-is-the-drawdown-in-crypto-with-bitcoin-now-dow",
       "localUrl": "/news/20260605-adding-even-more-fuel-to-the-fire-is-the-drawdown-in-crypto-with-bitcoin-now-dow.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Michael Saylor spent $64 Billion to buy $50 Billion of Bitcoin. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zcmxWSEhacDBEU2gtRnppMHV0aXdsTTg3UkViVmJtNTRuZUNYVGZfY2JLWFFIWVZlTlV4UjlkcTZWNVNjeHItNmt2M2JkVHRrbG12WU9oWFljZ1E?oc=5\" target=\"_blank\">Michael Saylor spent $64 Billion to buy $50…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zcmxWSEhacDBEU2gtRnppMHV0aXdsTTg3UkViVmJtNTRuZUNYVGZfY2JLWFFIWVZlTlV4UjlkcTZWNVNjeHItNmt2M2JkVHRrbG12WU9oWFljZ1E?oc=5",
-      "publishedAt": "2026-06-05T19:39:50.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260605-michael-saylor-spent-64-billion-to-buy-50-billion-of-bitcoin-xcom",
-      "localUrl": "/news/20260605-michael-saylor-spent-64-billion-to-buy-50-billion-of-bitcoin-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -301,17 +329,6 @@
       "category": "监管",
       "slug": "20260605-heres-what-happened-in-crypto-today",
       "localUrl": "/news/20260605-heres-what-happened-in-crypto-today.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: Bitcoin is now expected to fall below $50,000 this year. There is now a record high 65% chance of Bitcoin falling below $50,000 in 2026. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwWDBwUHhvYjNXQkQwakhTRm4xOGd0WDRXMGlLa0RubEwzSFVCUzFDMG8zTjhnelNnMlowRm1iNW9tN3hsNzdoYVZhR0JYaHJQc0xkdVFZbkl0OUlSSzlyM0g0QXltdw?oc=5\" target=\"_blank\">BREAKING: Bitcoin is now exp…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwWDBwUHhvYjNXQkQwakhTRm4xOGd0WDRXMGlLa0RubEwzSFVCUzFDMG8zTjhnelNnMlowRm1iNW9tN3hsNzdoYVZhR0JYaHJQc0xkdVFZbkl0OUlSSzlyM0g0QXltdw?oc=5",
-      "publishedAt": "2026-06-05T16:48:58.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260605-breaking-bitcoin-is-now-expected-to-fall-below-50000-this-year-there-is-now-a-re",
-      "localUrl": "/news/20260605-breaking-bitcoin-is-now-expected-to-fall-below-50000-this-year-there-is-now-a-re.html"
     },
     {
       "source": "CoinDesk",
@@ -493,6 +510,17 @@
       "category": "X热点",
       "slug": "20260605-breaking-morgan-stanley-launches-in-kind-creations-for-its-spot-bitcoin-etf-xcom",
       "localUrl": "/news/20260605-breaking-morgan-stanley-launches-in-kind-creations-for-its-spot-bitcoin-etf-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Pretty wild to see everything -- not just crypto -- trading down, particularly in the face of the strong employment numbers. Also interesting to see value holding up well. It feels like there's a real worry that these upcoming mega-IPOs will mark the top of the recent t - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qY1ZCYTVrT01aeE1XcE1yNW5ValVWSUlBa0l2ZDNPc0dLVGp1eFAzcURDWUxiT0owT2o0NWNIcG9lbjNiT2tjelh3bnQ0aEYxdWR1ZV9CcmJ5a0Fsb2NmaGdn?oc=5\" target=\"_blank\">Pretty wild to see everything -- n…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qY1ZCYTVrT01aeE1XcE1yNW5ValVWSUlBa0l2ZDNPc0dLVGp1eFAzcURDWUxiT0owT2o0NWNIcG9lbjNiT2tjelh3bnQ0aEYxdWR1ZV9CcmJ5a0Fsb2NmaGdn?oc=5",
+      "publishedAt": "2026-06-05T15:11:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260605-pretty-wild-to-see-everything-not-just-crypto-trading-down-particularly-in-the-f",
+      "localUrl": "/news/20260605-pretty-wild-to-see-everything-not-just-crypto-trading-down-particularly-in-the-f.html"
     },
     {
       "source": "CoinDesk",
@@ -750,6 +778,17 @@
       "localUrl": "/news/20260605-how-low-can-bitcoin-price-go-if-60k-support-fails.html"
     },
     {
+      "source": "X Wire",
+      "title": "BITCOIN SLUMP CUTS U.S. GOVERNMENT HOLDINGS IN HALF The value of U.S. government bitcoin holdings has fallen to $20.8B from a $40.7B peak in October, according to Glassnode, as the crypto market declines. The stash was built through seized cri - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xNm05bVRfUU5fcjZiYVA4ZE9ES1J1V1BlOUZCODJnNE9ZRS1EaWdHQXAyU0pzWEkwWkh1VUJjcjBNREYwUWNKaGZETTgzNGdBeWZmQkJHUWJxWUQzeHc?oc=5\" target=\"_blank\">BITCOIN SLUMP CUTS U.S. GOVERNMENT HOLD…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xNm05bVRfUU5fcjZiYVA4ZE9ES1J1V1BlOUZCODJnNE9ZRS1EaWdHQXAyU0pzWEkwWkh1VUJjcjBNREYwUWNKaGZETTgzNGdBeWZmQkJHUWJxWUQzeHc?oc=5",
+      "publishedAt": "2026-06-05T12:23:08.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260605-bitcoin-slump-cuts-us-government-holdings-in-half-the-value-of-us-government-bit",
+      "localUrl": "/news/20260605-bitcoin-slump-cuts-us-government-holdings-in-half-the-value-of-us-government-bit.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Live updates: bitcoin tumbles to $60,000 as blowout jobs data, Zcash bug keeps pressure on crypto",
       "summary": "Zcash plummeted 40% after Shielded Labs revealed a major bug that went undetected for 4 years.",
@@ -901,39 +940,6 @@
       "localUrl": "/news/20260605-jpmorgan-bank-of-america-citi-to-start-blockchain-offensive-with-shared-tokenize.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. bitcoin, ether ETFs end record multibillion outflow streak",
-      "summary": "U.S. spot bitcoin ETFs pulled in a net $3.05 million on Thursday, capping 13 straight sessions of outflows totaling roughly $4.4 billion. Ether ETFs ended a 17-day outflow streak.",
-      "url": "https://www.coindesk.com/markets/2026/06/05/bitcoin-and-ether-etfs-end-record-multi-billion-outflow-streak",
-      "publishedAt": "2026-06-05T08:53:30.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "ETFs",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260605-us-bitcoin-ether-etfs-end-record-multibillion-outflow-streak",
-      "localUrl": "/news/20260605-us-bitcoin-ether-etfs-end-record-multibillion-outflow-streak.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Here's what could happen if bitcoin breaks below $60,000",
-      "summary": "A confluence of factors makes $60,000 as key level to watch for in the near term, according to Deribit.",
-      "url": "https://www.coindesk.com/markets/2026/06/05/here-s-what-could-happen-if-bitcoin-breaks-below-usd60-000",
-      "publishedAt": "2026-06-05T07:52:25.000Z",
-      "keywords": [
-        "Markets",
-        "Derivatives",
-        "Bitcoin News",
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260605-heres-what-could-happen-if-bitcoin-breaks-below-60000",
-      "localUrl": "/news/20260605-heres-what-could-happen-if-bitcoin-breaks-below-60000.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Crypto billionaires bankroll Nigel Farage's pro-crypto party",
       "summary": "Tether-linked billionaire Christopher Harborne and BitMEX co-founder Ben Delo donated $9.4 million to Nigel Farage’s Reform UK in the first quarter.",
@@ -1019,17 +1025,6 @@
       "category": "X热点",
       "slug": "20260604-just-in-bitcoin-is-now-below-the-fire-sale-territory-for-the-second-time-in-4-ye",
       "localUrl": "/news/20260604-just-in-bitcoin-is-now-below-the-fire-sale-territory-for-the-second-time-in-4-ye.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The Ethereum not ETH stuff is the mental fallacy that triggered me into writing and podcasting in the first place. There is no strong Ethereum without an ETH worth trillions. Without ETH as a global store of value, Ethereum is a failed project. Full stop. ETH is eco - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEaGVqa3J1TzVkRjF6WFVxN2diM0FoVmd0QWhBU0kxTVA4SEdnRFVPX1MzczRfOExkNXZIb1BIckRmS1A5aEpHcjVQTE5sTnZ2V1hQUUloYVlJczQ2OTJWNg?oc=5\" target=\"_blank\">The Ethereum not ETH stuff is the me…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEaGVqa3J1TzVkRjF6WFVxN2diM0FoVmd0QWhBU0kxTVA4SEdnRFVPX1MzczRfOExkNXZIb1BIckRmS1A5aEpHcjVQTE5sTnZ2V1hQUUloYVlJczQ2OTJWNg?oc=5",
-      "publishedAt": "2026-06-04T18:12:38.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260604-the-ethereum-not-eth-stuff-is-the-mental-fallacy-that-triggered-me-into-writing-",
-      "localUrl": "/news/20260604-the-ethereum-not-eth-stuff-is-the-mental-fallacy-that-triggered-me-into-writing-.html"
     },
     {
       "source": "Decrypt",
