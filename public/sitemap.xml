@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-07T09:32:25.345Z</lastmod>
+    <lastmod>2026-06-07T12:00:28.799Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-07T09:32:25.345Z</lastmod>
+    <lastmod>2026-06-07T12:00:28.799Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260607-im-imagining-the-bears-who-think-that-bitcoin-is-so-weak-that-if-you-buy-4-of-it.html</loc>
+    <lastmod>2026-06-07T03:50:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260606-ai-is-helping-discover-tech-vulnerabilitiesand-zcash-is-just-the-latest-example.html</loc>
@@ -79,6 +85,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260606-all-of-you-in-the-crypto-cheap-seats-can-keep-dunking-on-zcash-for-crashing-to-t.html</loc>
+    <lastmod>2026-06-06T14:08:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260606-htx-suspends-wlfi-and-usd1-trading-converting-all-user-usd1-to-usdt-after-freeze.html</loc>
+    <lastmod>2026-06-06T13:30:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260606-satoshi-era-bitcoin-at-center-of-285-billion-lawsuit-moves-after-14-years.html</loc>
     <lastmod>2026-06-06T13:30:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -105,12 +123,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260606-latest-benjamin-cowen-says-bitcoin-will-eventually-hit-1-million-but-not-until-a.html</loc>
     <lastmod>2026-06-06T12:20:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260606-sad-day-for-ethereum-holders-eth-is-no-longer-the-largest-stablecoin-in-crypto-t.html</loc>
-    <lastmod>2026-06-06T11:14:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -199,8 +211,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260605-michael-saylor-spent-64-billion-to-buy-50-billion-of-bitcoin-xcom.html</loc>
-    <lastmod>2026-06-05T19:39:50.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260605-adding-even-more-fuel-to-the-fire-is-the-drawdown-in-crypto-with-bitcoin-now-dow.html</loc>
+    <lastmod>2026-06-05T20:02:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -285,12 +297,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260605-pumpfun-bounty-platform-pays-users-to-tattoo-tokens-and-chase-viral-stunts.html</loc>
     <lastmod>2026-06-05T16:44:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260605-woke-up-extremely-bullish-on-defi-and-ethereum-today-uniswap-launched-in-the-201.html</loc>
-    <lastmod>2026-06-05T16:20:04.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -403,12 +409,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260605-strive-ceo-colemacro-explains-why-michael-saylor-sold-32-bitcoin-he-had-to-messa.html</loc>
-    <lastmod>2026-06-05T13:15:27.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260605-hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny.html</loc>
     <lastmod>2026-06-05T13:10:25.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -501,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260604-the-100-million-crypto-looksmaxxing-boom-how-chinese-cartel-suppliers-pivoted-to.html</loc>
     <lastmod>2026-06-04T11:55:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260603-agentic-payments-cross-the-threshold-inside-x402s-path-to-meaningful-adoption.html</loc>
-    <lastmod>2026-06-03T11:55:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
