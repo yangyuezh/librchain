@@ -1,7 +1,439 @@
 {
-  "updatedAt": "2026-06-08T11:19:13.390Z",
-  "total": 82,
+  "updatedAt": "2026-06-08T16:15:46.710Z",
+  "total": 81,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Sam Bankman-Fried officially asks Trump for a presidential pardon",
+      "summary": "The fallen crypto mogul serving a 25-year sentence filed a clemency petition, betting on Donald Trump's history of crypto pardons even though the president had told him not to count on one.",
+      "url": "https://www.coindesk.com/policy/2026/06/08/sam-bankman-fried-officially-asks-donald-trump-for-a-presidential-pardon",
+      "publishedAt": "2026-06-08T15:41:10.000Z",
+      "keywords": [
+        "Policy",
+        "Sam Bankman-Fried",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260608-sam-bankman-fried-officially-asks-trump-for-a-presidential-pardon",
+      "localUrl": "/news/20260608-sam-bankman-fried-officially-asks-trump-for-a-presidential-pardon.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The startup killer: Ledger CTO says the EU's crushing compliance costs are choking Web3 innovation",
+      "summary": "Industry insiders warn that MiCA's steep financial barriers are choking early-stage innovation.",
+      "url": "https://www.coindesk.com/business/2026/06/08/europe-s-strict-new-crypto-rules-are-crushing-small-startups-ledger-cto-says",
+      "publishedAt": "2026-06-08T15:38:03.000Z",
+      "keywords": [
+        "Finance",
+        "Ledger",
+        "MiCA",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260608-the-startup-killer-ledger-cto-says-the-eus-crushing-compliance-costs-are-choking",
+      "localUrl": "/news/20260608-the-startup-killer-ledger-cto-says-the-eus-crushing-compliance-costs-are-choking.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tom Lee's BitMine Buys the Dip Amid 'Superficial' Crypto Selloff, Adding $214M in Ethereum",
+      "summary": "Leading Ethereum treasury firm BitMine Immersion Technologies bought the dip, making its largest weekly ETH purchase so far this year.",
+      "url": "https://decrypt.co/370315/tom-lees-bitmine-buys-dip-superficial-crypto-selloff-214m-ethereum",
+      "publishedAt": "2026-06-08T15:18:37.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "基础设施",
+      "slug": "20260608-tom-lees-bitmine-buys-the-dip-amid-superficial-crypto-selloff-adding-214m-in-eth",
+      "localUrl": "/news/20260608-tom-lees-bitmine-buys-the-dip-amid-superficial-crypto-selloff-adding-214m-in-eth.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Aave chief defends protocol's 'resilience' after $8.45 billion bank run",
+      "summary": "The founder of the largest DeFi platform blamed \"third-party” entities for decentralized finance’s vulnerabilities, while independent data highlights severe gaps in Aave’s own risk architecture.",
+      "url": "https://www.coindesk.com/business/2026/06/08/aave-labs-founder-stani-kulechov-deflects-responsibility-in-usd8-billion-run-on-stage",
+      "publishedAt": "2026-06-08T15:17:44.000Z",
+      "keywords": [
+        "Finance",
+        "DeFi",
+        "Hack",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260608-aave-chief-defends-protocols-resilience-after-845-billion-bank-run",
+      "localUrl": "/news/20260608-aave-chief-defends-protocols-resilience-after-845-billion-bank-run.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price $60K support not yet safe as more macro headwinds stack up",
+      "summary": "Bitcoin analysis warned that $60,000 may not hold next, as bear-market moves continued and macro hurdles multiplied.",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-60k-support-not-yet-safe-as-more-macro-headwinds-stack-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-06-08T15:17:15.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260608-bitcoin-price-60k-support-not-yet-safe-as-more-macro-headwinds-stack-up",
+      "localUrl": "/news/20260608-bitcoin-price-60k-support-not-yet-safe-as-more-macro-headwinds-stack-up.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Spot Bitcoin ETFs bleed $1.7B as outflow streak hits four weeks",
+      "summary": "BlackRock’s IBIT accounted for most of the weekly Bitcoin ETF redemptions, while Fidelity and Grayscale funds also saw outflows.",
+      "url": "https://cointelegraph.com/news/bitcoin-etfs-outflows-ether-altcoin-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-06-08T14:46:26.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260608-spot-bitcoin-etfs-bleed-17b-as-outflow-streak-hits-four-weeks",
+      "localUrl": "/news/20260608-spot-bitcoin-etfs-bleed-17b-as-outflow-streak-hits-four-weeks.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Blame bitcoin's tumble on rising inflation, not Strategy, 10xResearch argues",
+      "summary": "The main driver behind bitcoin's weakness was ETF selling after red-hot April U.S. inflation data, 10x's Markus Thielen argued. The bounce may hinge on Wednesday's CPI data, he said.",
+      "url": "https://www.coindesk.com/markets/2026/06/08/blame-bitcoin-s-tumble-on-rising-inflation-not-strategy-10xresearch-argues",
+      "publishedAt": "2026-06-08T14:37:27.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260608-blame-bitcoins-tumble-on-rising-inflation-not-strategy-10xresearch-argues",
+      "localUrl": "/news/20260608-blame-bitcoins-tumble-on-rising-inflation-not-strategy-10xresearch-argues.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price eyes $90K as FTX-era BTC bullish divergence flashes again",
+      "summary": "Bitcoin flashes only its second weekly bullish divergence on record, a signal that previously preceded a 755% BTC price rally.",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-90k-as-ftx-era-btc-bullish-divergence-flashes-again?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-06-08T14:30:28.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260608-bitcoin-price-eyes-90k-as-ftx-era-btc-bullish-divergence-flashes-again",
+      "localUrl": "/news/20260608-bitcoin-price-eyes-90k-as-ftx-era-btc-bullish-divergence-flashes-again.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korea police raid Bithumb over lawmaker hiring favoritism probe: report",
+      "summary": "South Korean lawmaker Kim Byung-gi faces probe over alleged nepotism tied to his son’s crypto jobs as police raid Bithumb's offices.",
+      "url": "https://cointelegraph.com/news/south-korea-police-raid-bithumb-over-lawmaker-hiring-favoritism-probe-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-06-08T14:02:36.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260608-south-korea-police-raid-bithumb-over-lawmaker-hiring-favoritism-probe-report",
+      "localUrl": "/news/20260608-south-korea-police-raid-bithumb-over-lawmaker-hiring-favoritism-probe-report.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Congress to Discuss Crypto Tax Rules: What to Watch",
+      "summary": "The House Ways and Means committee will review draft crypto tax bills covering staking, mining, network fees, and reporting.",
+      "url": "https://decrypt.co/370310/congress-to-discuss-crypto-tax-rules-what-to-watch",
+      "publishedAt": "2026-06-08T13:52:16.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "DeFi",
+      "slug": "20260608-congress-to-discuss-crypto-tax-rules-what-to-watch",
+      "localUrl": "/news/20260608-congress-to-discuss-crypto-tax-rules-what-to-watch.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-06-08T13:49:27.000Z",
+      "keywords": [
+        "Trump memecoin",
+        "Solana memecoin",
+        "TRUMP token",
+        "Solana",
+        "SOL",
+        "Nova Labs",
+        "SEC",
+        "Securities and Exchange Commission",
+        "Crypto regulation",
+        "TRUMP rally",
+        "Bitcoin",
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260608-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260608-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Buys Bitcoin, Pads Cash Reserves Following Biggest Weekly Stock Drop Since 2022",
+      "summary": "Strategy’s stockpile was $10.7 billion underwater as of Monday morning after Bitcoin hit its lowest price since October 2024.s",
+      "url": "https://decrypt.co/370309/strategy-buys-bitcoin-pads-cash-reserves-biggest-weekly-drop-2022",
+      "publishedAt": "2026-06-08T13:46:18.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "RWA",
+      "slug": "20260608-strategy-buys-bitcoin-pads-cash-reserves-following-biggest-weekly-stock-drop-sin",
+      "localUrl": "/news/20260608-strategy-buys-bitcoin-pads-cash-reserves-following-biggest-weekly-stock-drop-sin.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy buys 1,550 Bitcoin after controversial 32 BTC sale",
+      "summary": "Strategy resumed Bitcoin buying by purchasing 1,550 BTC for $101.3 million, bringing its total holdings to 845,256 BTC after last week’s controversial sale.",
+      "url": "https://cointelegraph.com/news/strategy-resumes-bitcoin-purchases-1550-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-06-08T13:45:48.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260608-strategy-buys-1550-bitcoin-after-controversial-32-btc-sale",
+      "localUrl": "/news/20260608-strategy-buys-1550-bitcoin-after-controversial-32-btc-sale.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CoinDesk 20 performance update: NEAR gains 12.3% as almost all assets trade higher",
+      "summary": "Bittensor (TAO), up 12% from Friday, joined NEAR Protocol (NEAR) as a top performer.",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/08/coindesk-20-performance-update-near-gains-12-3-as-almost-all-assets-trade-higher",
+      "publishedAt": "2026-06-08T13:12:12.000Z",
+      "keywords": [
+        "CoinDesk Indices",
+        "CoinDesk Indices",
+        "CoinDesk 20",
+        "charts",
+        "Prices",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260608-coindesk-20-performance-update-near-gains-123-as-almost-all-assets-trade-higher",
+      "localUrl": "/news/20260608-coindesk-20-performance-update-near-gains-123-as-almost-all-assets-trade-higher.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇺🇸 LATEST: Stand With Crypto and more than 200 companies and organizations have signed a letter urging Senate leaders to bring the Clarity Act to the Senate floor. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBObWNZcWpMaHhNNmtONjNSdktZbjR1MmdIdnRacUh5cTBjdnRicW5Eb1E2Zl9RUWJ6YXVETHlDMVctdXZveVVMMnZrT2JsVlY2d2p4dzFid3ZWYm9CclNlVEtTYlo?oc=5\" target=\"_blank\">🇺🇸 LATEST: Stand With Crypto …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBObWNZcWpMaHhNNmtONjNSdktZbjR1MmdIdnRacUh5cTBjdnRicW5Eb1E2Zl9RUWJ6YXVETHlDMVctdXZveVVMMnZrT2JsVlY2d2p4dzFid3ZWYm9CclNlVEtTYlo?oc=5",
+      "publishedAt": "2026-06-08T13:09:06.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260608-latest-stand-with-crypto-and-more-than-200-companies-and-organizations-have-sign",
+      "localUrl": "/news/20260608-latest-stand-with-crypto-and-more-than-200-companies-and-organizations-have-sign.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "MetaMask Launches AI Agent Wallet With Built-In Security Controls",
+      "summary": "MetaMask's new self-custodial wallet is designed to let AI agents trade across DeFi while keeping users in control of funds and approvals.",
+      "url": "https://decrypt.co/370239/metamask-launches-ai-agent-wallet-security-controls",
+      "publishedAt": "2026-06-08T13:01:03.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260608-metamask-launches-ai-agent-wallet-with-built-in-security-controls",
+      "localUrl": "/news/20260608-metamask-launches-ai-agent-wallet-with-built-in-security-controls.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "MetaMask launches AI agent wallet with built-in security for crypto trades",
+      "summary": "The launch comes as AI agents increasingly emerge as participants in crypto markets, executing trades and managing capital on behalf of users.",
+      "url": "https://www.coindesk.com/tech/2026/06/08/metamask-launches-ai-agent-wallet-with-built-in-security-for-crypto-trades",
+      "publishedAt": "2026-06-08T13:00:00.000Z",
+      "keywords": [
+        "Tech",
+        "Ethereum News",
+        "ConsenSys",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260608-metamask-launches-ai-agent-wallet-with-built-in-security-for-crypto-trades",
+      "localUrl": "/news/20260608-metamask-launches-ai-agent-wallet-with-built-in-security-for-crypto-trades.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitmine bought the dip, making its biggest ether purchase in 2026 as prices tanked",
+      "summary": "The company bought 126,971 ETH last week, worth roughly $214 million at current prices, despite chairman Tom Lee's earlier calls to slow purchases.",
+      "url": "https://www.coindesk.com/markets/2026/06/07/bitmine-bought-the-dip-making-its-biggest-ether-purchase-in-2026-as-prices-tanked",
+      "publishedAt": "2026-06-08T12:53:30.000Z",
+      "keywords": [
+        "Markets",
+        "Ethereum News",
+        "Digital Asset Treasury",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260608-bitmine-bought-the-dip-making-its-biggest-ether-purchase-in-2026-as-prices-tanke",
+      "localUrl": "/news/20260608-bitmine-bought-the-dip-making-its-biggest-ether-purchase-in-2026-as-prices-tanke.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin's $63K Reclaim Liquidates $540M in Crypto Shorts, a 7-Week High",
+      "summary": "Experts remain cautious of Bitcoin’s weekend rebound to $63,000, pointing to ETF outflows and CME BTC volatility.",
+      "url": "https://decrypt.co/370306/bitcoins-63k-reclaim-liquidates-540m-in-shorts-a-7-week-high",
+      "publishedAt": "2026-06-08T12:41:22.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260608-bitcoins-63k-reclaim-liquidates-540m-in-crypto-shorts-a-7-week-high",
+      "localUrl": "/news/20260608-bitcoins-63k-reclaim-liquidates-540m-in-crypto-shorts-a-7-week-high.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Bitcoin Recovers After Fall Below $60k",
+      "summary": "Crypto rebounded Monday after Friday's selloff, driven by strong jobs data, AI IPO liquidity drain and Saylor worries.",
+      "url": "https://decrypt.co/370303/morning-minute-bitcoin-recovers-after-fall-below-60k",
+      "publishedAt": "2026-06-08T12:21:16.000Z",
+      "keywords": [
+        "zcash",
+        "Opinion"
+      ],
+      "category": "DeFi",
+      "slug": "20260608-morning-minute-bitcoin-recovers-after-fall-below-60k",
+      "localUrl": "/news/20260608-morning-minute-bitcoin-recovers-after-fall-below-60k.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy buys 1,550 bitcoin one week after selling $2.5 million of coins",
+      "summary": "Strategy adds bitcoin and cash after raising $181 million through stock sales.",
+      "url": "https://www.coindesk.com/markets/2026/06/08/strategy-buys-1-550-bitcoin-boosts-cash-reserves-to-usd1-billion",
+      "publishedAt": "2026-06-08T12:12:45.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260608-strategy-buys-1550-bitcoin-one-week-after-selling-25-million-of-coins",
+      "localUrl": "/news/20260608-strategy-buys-1550-bitcoin-one-week-after-selling-25-million-of-coins.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "White hats rescue $500K in NFTs after Flooring exploit",
+      "summary": "CoinGecko and NFT Price Floor data show NFT market cap has cooled since April, while CryptoPunks and BAYC remain top collections by value.",
+      "url": "https://cointelegraph.com/news/yuga-labs-nft-rescue-flooring-protocol-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-06-08T12:08:18.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260608-white-hats-rescue-500k-in-nfts-after-flooring-exploit",
+      "localUrl": "/news/20260608-white-hats-rescue-500k-in-nfts-after-flooring-exploit.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin tops $63,000 as Strategy adds $100 million BTC in latest purchase",
+      "summary": "Meanwhile, Strive bought 32 bitcoin, the same number Strategy dumped last week.",
+      "url": "https://www.coindesk.com/business/2026/06/08/live-updates-bitcoin-above-usd63-400-as-strategy-adds-usd100-million-btc-in-latest-purchase",
+      "publishedAt": "2026-06-08T12:05:01.000Z",
+      "keywords": [
+        "Finance",
+        "Live News",
+        "live_news"
+      ],
+      "category": "市场",
+      "slug": "20260608-live-updates-bitcoin-tops-63000-as-strategy-adds-100-million-btc-in-latest-purch",
+      "localUrl": "/news/20260608-live-updates-bitcoin-tops-63000-as-strategy-adds-100-million-btc-in-latest-purch.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A crucial bitcoin market indicator is signaling that the worst of the crypto crash might be over",
+      "summary": "The metric shows bitcoin's market price is getting close to its realized fair value after the recent sell-off.",
+      "url": "https://www.coindesk.com/markets/2026/06/08/a-crucial-bitcoin-market-indicator-is-signaling-that-the-worst-of-the-crypto-crash-might-be-over",
+      "publishedAt": "2026-06-08T12:02:21.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260608-a-crucial-bitcoin-market-indicator-is-signaling-that-the-worst-of-the-crypto-cra",
+      "localUrl": "/news/20260608-a-crucial-bitcoin-market-indicator-is-signaling-that-the-worst-of-the-crypto-cra.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Vivek Ramaswamy's 'Strive' buys 32 Bitcoin worth $2 million. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYlptajdzV1I0VkNUNDZYM0k3X2Yxc3ZpV2RqMThGN3FYaXJJSC10c3o0ZF9PZ0Nfc3JMcHBhaUQ0VmZ3WEpBYXlod1FHWFVIRTNicERTcDNHNGZ5ZEhWZVN3?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Vivek Ramaswamy's 'S…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYlptajdzV1I0VkNUNDZYM0k3X2Yxc3ZpV2RqMThGN3FYaXJJSC10c3o0ZF9PZ0Nfc3JMcHBhaUQ0VmZ3WEpBYXlod1FHWFVIRTNicERTcDNHNGZ5ZEhWZVN3?oc=5",
+      "publishedAt": "2026-06-08T11:51:21.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260608-just-in-vivek-ramaswamys-strive-buys-32-bitcoin-worth-2-million-xcom",
+      "localUrl": "/news/20260608-just-in-vivek-ramaswamys-strive-buys-32-bitcoin-worth-2-million-xcom.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BTC price bottom not due until Q4? Five things to know in Bitcoin this week",
+      "summary": "Bitcoin traders warned that it should be Q3 at least before the real BTC price bear market bottom entered.",
+      "url": "https://cointelegraph.com/markets/btc-price-bottom-not-due-until-q4-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-06-08T11:40:55.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260608-btc-price-bottom-not-due-until-q4-five-things-to-know-in-bitcoin-this-week",
+      "localUrl": "/news/20260608-btc-price-bottom-not-due-until-q4-five-things-to-know-in-bitcoin-this-week.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Reform UK's Farage 'Evading' Scrutiny Over Tether Billionaire's $6.7M Gift: Labour",
+      "summary": "Labour Party Chair Anna Turley wrote to Nigel Farage accusing him of “evading reasonable scrutiny” over Christopher Harborne’s gift.",
+      "url": "https://decrypt.co/370295/reform-uks-farage-evading-scrutiny-over-tether-billionaires-6-7m-gift-labour",
+      "publishedAt": "2026-06-08T11:35:27.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "市场",
+      "slug": "20260608-reform-uks-farage-evading-scrutiny-over-tether-billionaires-67m-gift-labour",
+      "localUrl": "/news/20260608-reform-uks-farage-evading-scrutiny-over-tether-billionaires-67m-gift-labour.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bybit challenges Wall Street with a massive push into tokenized U.S. stock IPOs",
+      "summary": "Retail investors can now buy shares at official underwritten prices through the crypto exchange, bypassing Wall Street’s exclusive pre-IPO clubs.",
+      "url": "https://www.coindesk.com/markets/2026/06/08/bybit-launches-tokenized-ipo-service-starting-with-elon-musk-s-spacex",
+      "publishedAt": "2026-06-08T11:34:57.000Z",
+      "keywords": [
+        "Markets",
+        "SpaceX",
+        "Elon Musk",
+        "IPOs",
+        "Tokenization",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260608-bybit-challenges-wall-street-with-a-massive-push-into-tokenized-us-stock-ipos",
+      "localUrl": "/news/20260608-bybit-challenges-wall-street-with-a-massive-push-into-tokenized-us-stock-ipos.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's recovery remains elusive as SpaceX, Anthropic IPOs loom",
+      "summary": "Your day-ahead look for June 8, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/06/08/crypto-s-recovery-remains-unsecure-as-spacex-anthropic-ipos-loom-stronger-etf-inflows-would-help",
+      "publishedAt": "2026-06-08T11:24:06.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "X热点",
+      "slug": "20260608-cryptos-recovery-remains-elusive-as-spacex-anthropic-ipos-loom",
+      "localUrl": "/news/20260608-cryptos-recovery-remains-elusive-as-spacex-anthropic-ipos-loom.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Chinese court treats Bitcoin as property in 107 BTC memory theft case",
+      "summary": "Man in eastern China who stole 107 Bitcoin using a memorized seed phrase gets 10 years and nine months behind bars.",
+      "url": "https://cointelegraph.com/news/man-who-memorized-wallet-mnemonic-jailed-in-china-for-107-btc-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-06-08T11:23:19.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260608-chinese-court-treats-bitcoin-as-property-in-107-btc-memory-theft-case",
+      "localUrl": "/news/20260608-chinese-court-treats-bitcoin-as-property-in-107-btc-memory-theft-case.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin holds steady after Sunday's rally, though full-fledged reversal may take longer",
@@ -16,6 +448,28 @@
       "category": "市场",
       "slug": "20260608-bitcoin-holds-steady-after-sundays-rally-though-full-fledged-reversal-may-take-l",
       "localUrl": "/news/20260608-bitcoin-holds-steady-after-sundays-rally-though-full-fledged-reversal-may-take-l.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Recent UK crypto sanctions seem to be a bit of an overreach. Wonder if it will ever get to the point where it’s ignored because HTX address tainting onchain has been catastrophic. In the past sanctions were done and those crypto businesses typically had a hig - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WR0l6NExUUlVDUmtMQlN0eXlraFUzSHFZMklwdmV3bHlQLXJDUUJNV0RlbTZ5R0NqbHJNWi1JclowWk1nMHljai1PQXdzYlRYd05BZ0NQSkUxYmFi?oc=5\" target=\"_blank\">Recent UK crypto sanctions seem to be a bi…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WR0l6NExUUlVDUmtMQlN0eXlraFUzSHFZMklwdmV3bHlQLXJDUUJNV0RlbTZ5R0NqbHJNWi1JclowWk1nMHljai1PQXdzYlRYd05BZ0NQSkUxYmFi?oc=5",
+      "publishedAt": "2026-06-08T10:39:20.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260608-recent-uk-crypto-sanctions-seem-to-be-a-bit-of-an-overreach-wonder-if-it-will-ev",
+      "localUrl": "/news/20260608-recent-uk-crypto-sanctions-seem-to-be-a-bit-of-an-overreach-wonder-if-it-will-ev.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Stand With Crypto and over 200 organizations sent a simple message to Senate leadership: it's time for the Clarity Act. The community is unified — large companies, startups, associations, and grassroots groups across the country are counting on their lawmak - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kTXl3bG95VnZhWEN5RkN1Q3FqLUZZc2VZaEc2RU1rQUM1V3FzQ2h6MGdXMHlVSmJkZWV3MjFZY1BKNWxrOXR6NzQzdmdRVlY1X0poWmZLVnMzZjBPMXowYWRNN1FXWlU?oc=5\" target=\"_blank\">Stand With Crypto and over …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kTXl3bG95VnZhWEN5RkN1Q3FqLUZZc2VZaEc2RU1rQUM1V3FzQ2h6MGdXMHlVSmJkZWV3MjFZY1BKNWxrOXR6NzQzdmdRVlY1X0poWmZLVnMzZjBPMXowYWRNN1FXWlU?oc=5",
+      "publishedAt": "2026-06-08T10:30:11.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260608-stand-with-crypto-and-over-200-organizations-sent-a-simple-message-to-senate-lea",
+      "localUrl": "/news/20260608-stand-with-crypto-and-over-200-organizations-sent-a-simple-message-to-senate-lea.html"
     },
     {
       "source": "Cointelegraph",
@@ -44,6 +498,17 @@
       "category": "市场",
       "slug": "20260608-gold-slips-below-200-day-moving-average-offering-glimmer-of-hope-for-bitcoin-bul",
       "localUrl": "/news/20260608-gold-slips-below-200-day-moving-average-offering-glimmer-of-hope-for-bitcoin-bul.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "#Bitcoin acting at a higher timeframe support and it bounced upwards from the 200-Week MA. Very likely that price doesn't cascade down today if indices are turning green, yields fall and $STRC doesn't continue to depeg. Even better: If Michael Saylor has be - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VVjhBWG1OMGRSbm1jSHpfZWRHcV9jclBlc2N0SWFaT1Y3QVNjMnRfR1N4dXFFdWdqbmtiTDdoWmRrbHB5d3FDeUZFVjI4M2JZWDVGZEFrV1lLZHE0QTh0dUdKaw?oc=5\" target=\"_blank\">#Bitcoin acting at a higher time…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VVjhBWG1OMGRSbm1jSHpfZWRHcV9jclBlc2N0SWFaT1Y3QVNjMnRfR1N4dXFFdWdqbmtiTDdoWmRrbHB5d3FDeUZFVjI4M2JZWDVGZEFrV1lLZHE0QTh0dUdKaw?oc=5",
+      "publishedAt": "2026-06-08T09:47:32.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260608-bitcoin-acting-at-a-higher-timeframe-support-and-it-bounced-upwards-from-the-200",
+      "localUrl": "/news/20260608-bitcoin-acting-at-a-higher-timeframe-support-and-it-bounced-upwards-from-the-200.html"
     },
     {
       "source": "CoinDesk",
@@ -183,6 +648,17 @@
     },
     {
       "source": "X Wire",
+      "title": "🚨 ASIAN MARKETS ARE BLEEDING. Around $1.5 TRILLION was wiped out from Asian stocks today. 🇯🇵 Japan: ¥61.6T erased 🇰🇷 South Korea: ₩556T wiped out 🇹🇼 Taiwan: NT$7.4T gone 🇨🇳 China: ¥2.1T+ erased 🇭🇰 Hong Kong: HK$848B wiped out 🇮🇳 I - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0VTh2cnBBMXhON0NDajdGdTF3Q1haTk9HcXNoSEh5QUNWY3NNRjFYU0tEdW1vSVZmblc3b20wUGZWLWFsNWstVDBqRV9idzJGbEFOQW4tQ3NSS3FCY3lXU0tR?oc=5\" target=\"_blank\">🚨 ASIAN MARKETS ARE BLEEDING. Aro…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0VTh2cnBBMXhON0NDajdGdTF3Q1haTk9HcXNoSEh5QUNWY3NNRjFYU0tEdW1vSVZmblc3b20wUGZWLWFsNWstVDBqRV9idzJGbEFOQW4tQ3NSS3FCY3lXU0tR?oc=5",
+      "publishedAt": "2026-06-08T05:06:15.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260608-asian-markets-are-bleeding-around-15-trillion-was-wiped-out-from-asian-stocks-to",
+      "localUrl": "/news/20260608-asian-markets-are-bleeding-around-15-trillion-was-wiped-out-from-asian-stocks-to.html"
+    },
+    {
+      "source": "X Wire",
       "title": "I'll be the first to turn bullish on Bitcoin when the long-term technicals hit exhaustion and the trend turns. I've argued Q2/Q3 would mark the bottom based on historical bear-market structures. Its playing out that way. The relative setup is approaching very attracti - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE56Z2JDU0FxWEFfRVV4SG9PSXV0TE5hZDJYT2s5XzctVXVnYWpMWU9fTVRhTXJSMk9VdUZEQ0RMT09Db043UnFtQlJFNkFHdlAxNE5rTXFhUVltcHl5aUFqMXJaWQ?oc=5\" target=\"_blank\">I'll be the first to turn bullis…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56Z2JDU0FxWEFfRVV4SG9PSXV0TE5hZDJYT2s5XzctVXVnYWpMWU9fTVRhTXJSMk9VdUZEQ0RMT09Db043UnFtQlJFNkFHdlAxNE5rTXFhUVltcHl5aUFqMXJaWQ?oc=5",
@@ -206,21 +682,6 @@
       "localUrl": "/news/20260608-tokenization-firm-securitize-clears-key-sec-hurdle-for-nyse-listing.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin falls back below $63,000 as Iran-Israel trade strikes and Korean stocks crash",
-      "summary": "BTC has pulled back from overnight highs as escalating geopolitical tensions weigh over risk sentiment and send oil price higher.",
-      "url": "https://www.coindesk.com/markets/2026/06/08/bitcoin-recedes-to-usd63-000-as-iran-israel-trade-strikes-and-korean-stocks-crash",
-      "publishedAt": "2026-06-08T04:21:53.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260608-bitcoin-falls-back-below-63000-as-iran-israel-trade-strikes-and-korean-stocks-cr",
-      "localUrl": "/news/20260608-bitcoin-falls-back-below-63000-as-iran-israel-trade-strikes-and-korean-stocks-cr.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Justin Sun’s HTX delists Trump family’s USD1 amid freeze fight",
       "summary": "HTX said World Liberty froze its addresses and has responded by delisting and suspending the platform’s token.",
@@ -235,14 +696,14 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: $320,000,000 worth of shorts liquidated from the crypto market in the past 15 minutes. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5haXFrdmRvaEQwTXRJSlZyTlJZV08wOFBzRE83U0pQeFJGWmNVX2d4VTJWSEZKeGxTM0NDYzhYWlM4eXNadjZVNUNVTnRudE9raFVleEM1Zld5dnJZeW52S2d3?oc=5\" target=\"_blank\">JUST IN: $320,000,000 worth of sho…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5haXFrdmRvaEQwTXRJSlZyTlJZV08wOFBzRE83U0pQeFJGWmNVX2d4VTJWSEZKeGxTM0NDYzhYWlM4eXNadjZVNUNVTnRudE9raFVleEM1Zld5dnJZeW52S2d3?oc=5",
-      "publishedAt": "2026-06-07T22:25:35.000Z",
+      "title": "Bitcoin closed the week above the 200W SMA after sweeping the low from February - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE51ckRKUWlQaUQ5RFVReWFXb2l0UmVoMzZEWWotUzRLT0dZUDFMbVVvbEVMcFNYOFNJZWtmVVF6LTYtWlowQkdDelZhUWJ6VFQxN2lrYXBYWWwxQUxnY21ZMEdhM1U?oc=5\" target=\"_blank\">Bitcoin closed the week above t…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51ckRKUWlQaUQ5RFVReWFXb2l0UmVoMzZEWWotUzRLT0dZUDFMbVVvbEVMcFNYOFNJZWtmVVF6LTYtWlowQkdDelZhUWJ6VFQxN2lrYXBYWWwxQUxnY21ZMEdhM1U?oc=5",
+      "publishedAt": "2026-06-08T00:02:46.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260607-just-in-320000000-worth-of-shorts-liquidated-from-the-crypto-market-in-the-past-",
-      "localUrl": "/news/20260607-just-in-320000000-worth-of-shorts-liquidated-from-the-crypto-market-in-the-past-.html"
+      "slug": "20260608-bitcoin-closed-the-week-above-the-200w-sma-after-sweeping-the-low-from-february-",
+      "localUrl": "/news/20260608-bitcoin-closed-the-week-above-the-200w-sma-after-sweeping-the-low-from-february-.html"
     },
     {
       "source": "X Wire",
@@ -267,22 +728,6 @@
       "category": "市场",
       "slug": "20260607-what-happens-to-bitcoin-if-nasdaq-falls-further",
       "localUrl": "/news/20260607-what-happens-to-bitcoin-if-nasdaq-falls-further.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "A quick review of the Ways and Means tax bills: State of Crypto",
-      "summary": "The House Ways and Means Committee is gearing up for its big tax push.",
-      "url": "https://www.coindesk.com/policy/2026/06/07/a-quick-review-of-the-ways-and-means-tax-bills-state-of-crypto",
-      "publishedAt": "2026-06-07T20:27:12.000Z",
-      "keywords": [
-        "Policy",
-        "Newsletters",
-        "State of Crypto",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260607-a-quick-review-of-the-ways-and-means-tax-bills-state-of-crypto",
-      "localUrl": "/news/20260607-a-quick-review-of-the-ways-and-means-tax-bills-state-of-crypto.html"
     },
     {
       "source": "Cointelegraph",
@@ -323,50 +768,15 @@
       "localUrl": "/news/20260607-frontier-ai-models-can-find-cryptos-biggest-bugs-experts-warn-the-industry-isnt-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Michael Saylor revives bitcoin-buy speculation as scrutiny over Strategy grows",
-      "summary": "The firm's executive chairman posted a familiar chart with Strategy's previous BTC purchases writing \"a good time to add more dots.\"",
-      "url": "https://www.coindesk.com/business/2026/06/06/michael-saylor-revives-bitcoin-buy-speculation-as-scrutiny-over-strategy-grows",
-      "publishedAt": "2026-06-07T17:41:57.000Z",
-      "keywords": [
-        "Finance",
-        "MicroStrategy",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260607-michael-saylor-revives-bitcoin-buy-speculation-as-scrutiny-over-strategy-grows",
-      "localUrl": "/news/20260607-michael-saylor-revives-bitcoin-buy-speculation-as-scrutiny-over-strategy-grows.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin near $60,000 today vs February: Institutional sentiment has flipped",
-      "summary": "Bitcoin’s return to $60,000 is drawing heavy ETF outflows, marking a sharp reversal from February when institutional selling eased into the dip.",
-      "url": "https://www.coindesk.com/markets/2026/06/07/bitcoin-near-usd60-000-today-vs-february-institutional-mood-is-starkly-different",
-      "publishedAt": "2026-06-07T16:14:08.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260607-bitcoin-near-60000-today-vs-february-institutional-sentiment-has-flipped",
-      "localUrl": "/news/20260607-bitcoin-near-60000-today-vs-february-institutional-sentiment-has-flipped.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin's slide has no single cause. AI, tech IPOs, quantum, Strategy sale all play a role, NYDIG says",
-      "summary": "Not one, but several overlapping headwinds are hitting the crypto market at once, weighing on bitcoin's price, the firm's head of research Greg Cipolaro said.",
-      "url": "https://www.coindesk.com/markets/2026/06/07/bitcoin-s-slide-has-no-single-cause-ai-tech-ipos-quantum-strategy-sale-all-play-a-role-nydig-says",
-      "publishedAt": "2026-06-07T16:00:00.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260607-bitcoins-slide-has-no-single-cause-ai-tech-ipos-quantum-strategy-sale-all-play-a",
-      "localUrl": "/news/20260607-bitcoins-slide-has-no-single-cause-ai-tech-ipos-quantum-strategy-sale-all-play-a.html"
+      "source": "X Wire",
+      "title": "🚨 JAPAN MAY BE ABOUT TO TRIGGER ANOTHER CRYPTO CRASH. USD/JPY is back above 160 again. This is the same danger zone where Japan usually starts getting serious about defending the yen. And when Japan intervenes, the chain reaction is sim - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Ya1djZjZOeUN3ZHE2UGQxQVhvVGIwbnJyZHpqVW93cTBIVG5WOHpKZ3ZvWEpjWGtMZk80MVBaazhsZjVOS2dTSXZHY0VScjhaa0dITFJPbWY0cHFmZVlTQWVB?oc=5\" target=\"_blank\">🚨 JAPAN MAY BE ABOUT TO TRIGGER A…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Ya1djZjZOeUN3ZHE2UGQxQVhvVGIwbnJyZHpqVW93cTBIVG5WOHpKZ3ZvWEpjWGtMZk80MVBaazhsZjVOS2dTSXZHY0VScjhaa0dITFJPbWY0cHFmZVlTQWVB?oc=5",
+      "publishedAt": "2026-06-07T17:08:25.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260607-japan-may-be-about-to-trigger-another-crypto-crash-usdjpy-is-back-above-160-agai",
+      "localUrl": "/news/20260607-japan-may-be-about-to-trigger-another-crypto-crash-usdjpy-is-back-above-160-agai.html"
     },
     {
       "source": "Decrypt",
@@ -380,24 +790,6 @@
       "category": "基础设施",
       "slug": "20260607-wall-street-is-coming-for-hyperliquids-perps-crown-arthur-hayes-says",
       "localUrl": "/news/20260607-wall-street-is-coming-for-hyperliquids-perps-crown-arthur-hayes-says.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Abra’s Bill Barhydt says Wall Street’s next crypto bet is tokenization",
-      "summary": "As Abra prepares for a Nasdaq debut, CEO Bill Barhydt is betting tokenized yield products and onchain lending will drive the next phase of crypto wealth management.",
-      "url": "https://www.coindesk.com/business/2026/06/07/abra-s-bill-barhydt-says-wall-street-s-next-crypto-bet-is-tokenization",
-      "publishedAt": "2026-06-07T15:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Tokenization",
-        "Stablecoins",
-        "Exclusive",
-        "Abra",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260607-abras-bill-barhydt-says-wall-streets-next-crypto-bet-is-tokenization",
-      "localUrl": "/news/20260607-abras-bill-barhydt-says-wall-streets-next-crypto-bet-is-tokenization.html"
     },
     {
       "source": "Cointelegraph",
@@ -424,17 +816,6 @@
       "localUrl": "/news/20260607-our-corporate-strategy-is-to-increase-net-bitcoin-and-bitcoin-per-share-over-tim.html"
     },
     {
-      "source": "X Wire",
-      "title": "I think you are being provided misleading information. These “crypto entrepreneurs” you refer to were threat actors involved in high profile social engineering crypto fraud and data extortion. $18.9M of stolen funds was seized by law enforcement. 1) Danish Zulf - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxQ0kzbDRZNVFmZUt2bUJZRUdhOTZMWU5Od1U0d05PdXAwM0hHMEZFb2pEZ3EzTkgxLXZjXzNoa0ZHZEJxc3lOaDFydVlic1lxbVFlODRNbndsZGUt?oc=5\" target=\"_blank\">I think you are being provided misleading …",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxQ0kzbDRZNVFmZUt2bUJZRUdhOTZMWU5Od1U0d05PdXAwM0hHMEZFb2pEZ3EzTkgxLXZjXzNoa0ZHZEJxc3lOaDFydVlic1lxbVFlODRNbndsZGUt?oc=5",
-      "publishedAt": "2026-06-07T13:23:07.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260607-i-think-you-are-being-provided-misleading-information-these-crypto-entrepreneurs",
-      "localUrl": "/news/20260607-i-think-you-are-being-provided-misleading-information-these-crypto-entrepreneurs.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Claude Opus 4.8 Review: Better At What’s It Good At, Worse At What It’s Not",
       "summary": "Anthropic's new flagship aced our math problem and shipped a spotless game—then drained our entire token quota in a single prompt. We ran it through six tests, and here's how it did.",
@@ -446,33 +827,6 @@
       "category": "综合",
       "slug": "20260607-claude-opus-48-review-better-at-whats-it-good-at-worse-at-what-its-not",
       "localUrl": "/news/20260607-claude-opus-48-review-better-at-whats-it-good-at-worse-at-what-its-not.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ethereum Foundation cuts and departures aren't a crisis, Joe Lubin says",
-      "summary": "The Consensys leader told CoinDesk the Ethereum Foundation's role should be narrower and more focused on stewarding the network's core technology and values.",
-      "url": "https://www.coindesk.com/tech/2026/06/07/ethereum-foundation-cuts-and-departures-aren-t-a-crisis-joe-lubin-says",
-      "publishedAt": "2026-06-07T13:00:00.000Z",
-      "keywords": [
-        "Tech",
-        "Ethereum News",
-        "Joe Lubin",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260607-ethereum-foundation-cuts-and-departures-arent-a-crisis-joe-lubin-says",
-      "localUrl": "/news/20260607-ethereum-foundation-cuts-and-departures-arent-a-crisis-joe-lubin-says.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "I’ll forever be bullish on crypto. I think we overestimated how quickly crypto would become the next major computing paradigm. A lot of people were searching for the next platform shift and assumed it would be crypto, but in many ways that ended up being AI. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1leGVZVGp1SmpXTXQ0cjVVREVyeHQxWk5mSW9kLTJxcVRfd2s1MlZXUnZvSEN0U0haS3d0WkNnTjN2cWdscFZrTHBfUHRpVXBLbEE3ejlob0dBZW9qV2xR?oc=5\" target=\"_blank\">I’ll forever be bullish on crypto. I t…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1leGVZVGp1SmpXTXQ0cjVVREVyeHQxWk5mSW9kLTJxcVRfd2s1MlZXUnZvSEN0U0haS3d0WkNnTjN2cWdscFZrTHBfUHRpVXBLbEE3ejlob0dBZW9qV2xR?oc=5",
-      "publishedAt": "2026-06-07T07:13:33.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260607-ill-forever-be-bullish-on-crypto-i-think-we-overestimated-how-quickly-crypto-wou",
-      "localUrl": "/news/20260607-ill-forever-be-bullish-on-crypto-i-think-we-overestimated-how-quickly-crypto-wou.html"
     },
     {
       "source": "X Wire",
@@ -533,22 +887,6 @@
       "localUrl": "/news/20260606-ai-is-helping-discover-tech-vulnerabilitiesand-zcash-is-just-the-latest-example.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
-      "summary": "A week that began with Strategy's bitcoin sale ended with one of the largest crypto market drawdowns in years.",
-      "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion",
-      "publishedAt": "2026-06-06T19:58:54.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Ethereum News",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260606-bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-390-billi",
-      "localUrl": "/news/20260606-bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-390-billi.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Claude Code Vulnerability Could Let Attackers Steal Credentials From GitHub, Says Microsoft",
       "summary": "Researchers say prompt injection attacks could manipulate AI coding agents to access sensitive credentials stored in software development pipelines.",
@@ -560,21 +898,6 @@
       "category": "安全",
       "slug": "20260606-claude-code-vulnerability-could-let-attackers-steal-credentials-from-github-says",
       "localUrl": "/news/20260606-claude-code-vulnerability-could-let-attackers-steal-credentials-from-github-says.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
-      "summary": "Meta’s decision to pay creators in USDC validates stablecoins as a mainstream disbursement tool, Joslyn suggests, but it also exposes the industry’s unresolved problem: moving seamlessly from digital dollars to usable local currency.",
-      "url": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
-      "publishedAt": "2026-06-06T16:30:00.000Z",
-      "keywords": [
-        "Opinion",
-        "Stablecoins",
-        "Opinion"
-      ],
-      "category": "综合",
-      "slug": "20260606-meta-is-paying-creators-in-stablecoins-spending-them-is-someone-elses-problem",
-      "localUrl": "/news/20260606-meta-is-paying-creators-in-stablecoins-spending-them-is-someone-elses-problem.html"
     },
     {
       "source": "Cointelegraph",
@@ -603,22 +926,6 @@
       "localUrl": "/news/20260606-bitcoin-has-dumped-all-of-its-gains-since-trump-was-reelectedand-then-some.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "America’s largest banks are building a new digital currency network to stop a massive deposit drain",
-      "summary": "America’s biggest banks are launching tokenized deposits to compete with stablecoins, opening a new front in the race to become the dominant form of cash on blockchain networks.",
-      "url": "https://www.coindesk.com/business/2026/06/06/america-s-largest-banks-are-building-a-new-digital-currency-network-to-stop-a-massive-deposit-drain",
-      "publishedAt": "2026-06-06T15:59:00.000Z",
-      "keywords": [
-        "Finance",
-        "Stablecoins",
-        "Tokenization",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260606-americas-largest-banks-are-building-a-new-digital-currency-network-to-stop-a-mas",
-      "localUrl": "/news/20260606-americas-largest-banks-are-building-a-new-digital-currency-network-to-stop-a-mas.html"
-    },
-    {
       "source": "X Wire",
       "title": "Don’t fall for false narratives - Equity bull market intact - Crypto only way for tokenization - Crypto key in a machine to machine AI world - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WNEUzcWdxcG1hX3U1aWM5aGN2YzMtNFFBU05Vand4Xy1fV2t0b195ZGZJaDNFQVY1eHRtX0RrcS1aRGJFVHhsRnhOVWdYZDBudjRVbUlqSERXM3pXeDlv?oc=5\" target=\"_blank\">Don’t fall for false narratives - Equi…",
@@ -628,23 +935,6 @@
       "category": "X热点",
       "slug": "20260606-dont-fall-for-false-narratives-equity-bull-market-intact-crypto-only-way-for-tok",
       "localUrl": "/news/20260606-dont-fall-for-false-narratives-equity-bull-market-intact-crypto-only-way-for-tok.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin",
-      "summary": "Sourcing initial capital from his mother to build a $1 billion crypto empire, DFG CEO James Wo says market metrics do not support Tom Lee’s $250,000 ether prediction.",
-      "url": "https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin",
-      "publishedAt": "2026-06-06T15:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Ethereum News",
-        "Bitcoin News",
-        "Exclusive",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260606-a-crypto-pioneer-who-turned-a-20-million-family-stake-into-a-billion-dollar-fund",
-      "localUrl": "/news/20260606-a-crypto-pioneer-who-turned-a-20-million-family-stake-into-a-billion-dollar-fund.html"
     },
     {
       "source": "Decrypt",
@@ -661,50 +951,14 @@
     },
     {
       "source": "X Wire",
-      "title": "All of you in the crypto cheap seats can keep dunking on Zcash for 'crashing' to the price six weeks ago, or you can instead learn something and spend your energy helping get your own crypto house in order for the AI & quantum risks ahead - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IVkRqLW9Yd3A1aEtFN1hLOWtWYy1IS0x2VERDbTUzVGhrTENjSkZmc3NydnFYbUxkQW10REhWZTdkTS1HbHNpdU43eDJrS2h4Y1l4UXc5bFdSUF9uczZydHNXcw?oc=5\" target=\"_blank\">All of you in the crypto cheap s…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IVkRqLW9Yd3A1aEtFN1hLOWtWYy1IS0x2VERDbTUzVGhrTENjSkZmc3NydnFYbUxkQW10REhWZTdkTS1HbHNpdU43eDJrS2h4Y1l4UXc5bFdSUF9uczZydHNXcw?oc=5",
-      "publishedAt": "2026-06-06T14:08:36.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260606-all-of-you-in-the-crypto-cheap-seats-can-keep-dunking-on-zcash-for-crashing-to-t",
-      "localUrl": "/news/20260606-all-of-you-in-the-crypto-cheap-seats-can-keep-dunking-on-zcash-for-crashing-to-t.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Satoshi-era bitcoin at center of $285 billion lawsuit moves after 14 years",
-      "summary": "The 1LwWt address received a legal notice from Salomon Brothers via Bitcoin's OP_RETURN field in July 2025 demanding the owner prove ownership by November 5, 2025.",
-      "url": "https://www.coindesk.com/markets/2026/06/06/satoshi-era-bitcoin-at-center-of-usd285-billion-lawsuit-moves-after-14-years",
-      "publishedAt": "2026-06-06T13:30:00.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260606-satoshi-era-bitcoin-at-center-of-285-billion-lawsuit-moves-after-14-years",
-      "localUrl": "/news/20260606-satoshi-era-bitcoin-at-center-of-285-billion-lawsuit-moves-after-14-years.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "HUNTER BIDEN SAVING CRYPTO - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xQ0xHTUFPT2VfMlNoejRHTy11aXhXb0dXODFOWndRTXhULTFpTWR6bXhUUFY3RXlsWERrdWdidGNNZmF0U2oyUndTMkJLN0ZLUHJUSm1EMWs2alE?oc=5\" target=\"_blank\">HUNTER BIDEN SAVING CRYPTO</a> <font color=…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xQ0xHTUFPT2VfMlNoejRHTy11aXhXb0dXODFOWndRTXhULTFpTWR6bXhUUFY3RXlsWERrdWdidGNNZmF0U2oyUndTMkJLN0ZLUHJUSm1EMWs2alE?oc=5",
-      "publishedAt": "2026-06-06T03:58:54.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260606-hunter-biden-saving-crypto-xcom",
-      "localUrl": "/news/20260606-hunter-biden-saving-crypto-xcom.html"
-    },
-    {
-      "source": "X Wire",
       "title": "HUNTER BIDEN SAVING CRYPTO - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxeXNiLTlwa2N3US1VQ0VxeHFqbHkyNW9aQk1KQkdWTDVuX252a0thUjR4bHRCSEhKb3g2d3A5Q1JoRF9uWnc4b2s5TFZwX1JCckVXd19yXzJqbWMxaUJXVTRfRnprZw?oc=5\" target=\"_blank\">HUNTER BIDEN SAVING CRYPTO</…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxeXNiLTlwa2N3US1VQ0VxeHFqbHkyNW9aQk1KQkdWTDVuX252a0thUjR4bHRCSEhKb3g2d3A5Q1JoRF9uWnc4b2s5TFZwX1JCckVXd19yXzJqbWMxaUJXVTRfRnprZw?oc=5",
       "publishedAt": "2026-06-06T03:58:54.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260606-hunter-biden-saving-crypto-xcom-2",
-      "localUrl": "/news/20260606-hunter-biden-saving-crypto-xcom-2.html"
+      "slug": "20260606-hunter-biden-saving-crypto-xcom",
+      "localUrl": "/news/20260606-hunter-biden-saving-crypto-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -731,19 +985,6 @@
       "category": "基础设施",
       "slug": "20260605-travala-lets-ai-agents-book-hotels-with-usdc-on-base",
       "localUrl": "/news/20260605-travala-lets-ai-agents-book-hotels-with-usdc-on-base.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto tax proposals weighed ahead of Tuesday House hearing",
-      "summary": "Among the issues US lawmakers are expected to discuss in a digital asset taxation hearing are “de minimis” reporting exceptions for crypto transactions.",
-      "url": "https://cointelegraph.com/news/crypto-tax-bills-house-ways-means-hearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-06-05T20:41:38.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260605-crypto-tax-proposals-weighed-ahead-of-tuesday-house-hearing",
-      "localUrl": "/news/20260605-crypto-tax-proposals-weighed-ahead-of-tuesday-house-hearing.html"
     },
     {
       "source": "Decrypt",
@@ -773,30 +1014,6 @@
       "localUrl": "/news/20260605-strategy-shares-fall-to-4-month-low-as-strc-dips-and-bitcoin-sinks-under-60k.html"
     },
     {
-      "source": "X Wire",
-      "title": "Adding even more fuel to the fire is the drawdown in crypto, with Bitcoin now down -53% since October. In fact, Bitcoin is down 20% this week ALONE, with crypto erasing ~$2.5 trillion since October 2025. The bear market gained momentum this week and crus - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IOWxSa1BEaXdpaEFlcHB2Z0NzaGw4WVFIbXpYS2ZBNlp3Z1BSY01ZT1pHdEFvek5MeG5DQnFUcGk5N2o5MWYxUjBHUEtNUWtBSFVVbXRZcl9Ea3o1M0tNcFJyeUhVQQ?oc=5\" target=\"_blank\">Adding even more fuel to the…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IOWxSa1BEaXdpaEFlcHB2Z0NzaGw4WVFIbXpYS2ZBNlp3Z1BSY01ZT1pHdEFvek5MeG5DQnFUcGk5N2o5MWYxUjBHUEtNUWtBSFVVbXRZcl9Ea3o1M0tNcFJyeUhVQQ?oc=5",
-      "publishedAt": "2026-06-05T20:02:08.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260605-adding-even-more-fuel-to-the-fire-is-the-drawdown-in-crypto-with-bitcoin-now-dow",
-      "localUrl": "/news/20260605-adding-even-more-fuel-to-the-fire-is-the-drawdown-in-crypto-with-bitcoin-now-dow.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin bears face $2.6B trap as BTC funding rate drops: Is a short squeeze brewing?",
-      "summary": "Bitcoin bears piled into short positions as BTC price slid to $60,000. Will the $2.6 billion in short leverage lead to an upside squeeze?",
-      "url": "https://cointelegraph.com/markets/bitcoin-bears-face-26b-trap-as-btc-funding-rate-drops-is-a-short-squeeze-brewing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-06-05T19:28:53.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260605-bitcoin-bears-face-26b-trap-as-btc-funding-rate-drops-is-a-short-squeeze-brewing",
-      "localUrl": "/news/20260605-bitcoin-bears-face-26b-trap-as-btc-funding-rate-drops-is-a-short-squeeze-brewing.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI",
       "summary": "The company behind Claude embedded engineers at the NSA for offensive cyber ops, then published a report warning AI could soon build itself without humans in the loop.",
@@ -824,19 +1041,6 @@
       "localUrl": "/news/20260605-zcash-crash-just-wiped-billions-from-the-privacy-coins-market-capcan-zec-recover.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Kraken offers SpaceX IPO access through xStocks",
-      "summary": "Eligible users in more than 110 markets can register for tokenized SpaceX equity ahead of the company's highly anticipated public listing.",
-      "url": "https://cointelegraph.com/news/kraken-offers-spacex-ipo-access-through-xstocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-06-05T18:17:50.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260605-kraken-offers-spacex-ipo-access-through-xstocks",
-      "localUrl": "/news/20260605-kraken-offers-spacex-ipo-access-through-xstocks.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Congress Gets 7 New Crypto Tax Bills: Here's What's In Them",
       "summary": "The crypto tax bills—the first of their kind to be deliberated by congressional leadership—will be discussed at a House hearing on Tuesday.",
@@ -848,19 +1052,6 @@
       "category": "监管",
       "slug": "20260605-congress-gets-7-new-crypto-tax-bills-heres-whats-in-them",
       "localUrl": "/news/20260605-congress-gets-7-new-crypto-tax-bills-heres-whats-in-them.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto tax in Illinois FY2027 budget is one step away from becoming law",
-      "summary": "The law, part of a budget plan passed by Illinois lawmakers, would put the burden of collecting a 0.2% tax on crypto transactions on a registered broker.",
-      "url": "https://cointelegraph.com/news/cryptocurrency-tax-illinois-fy2027-budget-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-06-05T18:10:59.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260605-crypto-tax-in-illinois-fy2027-budget-is-one-step-away-from-becoming-law",
-      "localUrl": "/news/20260605-crypto-tax-in-illinois-fy2027-budget-is-one-step-away-from-becoming-law.html"
     },
     {
       "source": "Decrypt",
@@ -876,197 +1067,6 @@
       "localUrl": "/news/20260605-tom-lees-ethereum-treasury-bitmine-prices-preferred-shares-with-95-dividend.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Crypto Biz: Nobody told Saylor ‘never sell’",
-      "summary": "Strategy’s Bitcoin sale challenged the “never sell” narrative, while JPMorgan attacked CLARITY and Capital B pursued a huge fundraising plan for BTC.",
-      "url": "https://cointelegraph.com/news/strategy-bitcoin-sale-clarity-act-jpmorgan-capital-b-fundraising?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-06-05T17:04:07.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260605-crypto-biz-nobody-told-saylor-never-sell",
-      "localUrl": "/news/20260605-crypto-biz-nobody-told-saylor-never-sell.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-06-05T16:55:50.000Z",
-      "keywords": [
-        "Trump memecoin",
-        "Solana memecoin",
-        "TRUMP token",
-        "Solana",
-        "SOL",
-        "Nova Labs",
-        "SEC",
-        "Securities and Exchange Commission",
-        "Crypto regulation",
-        "TRUMP rally",
-        "Bitcoin",
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260605-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260605-heres-what-happened-in-crypto-today.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts",
-      "summary": "Pump.fun launched a new bounty platform where users started funding bizarre memecoin marketing stunts, including forehead tattoos, skydiving as a mascot and setting a vehicle on fire.",
-      "url": "https://cointelegraph.com/news/pumpfun-bounty-platforms-funds-memecoin-tattoos-world-cup-skydives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-06-05T16:44:44.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260605-pumpfun-bounty-platform-pays-users-to-tattoo-tokens-and-chase-viral-stunts",
-      "localUrl": "/news/20260605-pumpfun-bounty-platform-pays-users-to-tattoo-tokens-and-chase-viral-stunts.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin Dives Below $60K Following Strong Jobs Data, Zcash Crash Shaking Crypto Confidence",
-      "summary": "Bitcoin has now fallen more than 50% from its October peak, dipping below $60,000 as the crypto industry reckons with the Zcash vulnerability.",
-      "url": "https://decrypt.co/370120/bitcoin-dives-below-60k-first-time-2024-zcash-crash",
-      "publishedAt": "2026-06-05T16:15:42.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "安全",
-      "slug": "20260605-bitcoin-dives-below-60k-following-strong-jobs-data-zcash-crash-shaking-crypto-co",
-      "localUrl": "/news/20260605-bitcoin-dives-below-60k-following-strong-jobs-data-zcash-crash-shaking-crypto-co.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
-      "summary": "Software firm Strategy (formerly MicroStrategy) and its co-founder Michael Saylor have become synonymous with Bitcoin. Here’s what you need to know.",
-      "url": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
-      "publishedAt": "2026-06-05T16:15:02.000Z",
-      "keywords": [
-        "The Landscape"
-      ],
-      "category": "RWA",
-      "slug": "20260605-what-is-strategy-mstr-the-bitcoin-treasury-company",
-      "localUrl": "/news/20260605-what-is-strategy-mstr-the-bitcoin-treasury-company.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Saylor says Bitcoin needs ‘disciplined expansion’ as analysts weigh demand reset",
-      "summary": "Michael Saylor’s essay calls for Bitcoin to expand through banks, credit, securities and higher layers while preserving its base layer.",
-      "url": "https://cointelegraph.com/news/saylor-bitcoin-disciplined-expansion-demand-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-06-05T16:09:40.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260605-saylor-says-bitcoin-needs-disciplined-expansion-as-analysts-weigh-demand-reset",
-      "localUrl": "/news/20260605-saylor-says-bitcoin-needs-disciplined-expansion-as-analysts-weigh-demand-reset.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Government Stablecoin Payments Would Fuel 'Tax Evasion Economy,' Lawmaker Warns",
-      "summary": "Rep. Brad Sherman warned that allowing government payments in stablecoins would \"sanctify an alternative to the U.S. dollar.\"",
-      "url": "https://decrypt.co/370121/government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns",
-      "publishedAt": "2026-06-05T15:52:15.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "监管",
-      "slug": "20260605-government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns",
-      "localUrl": "/news/20260605-government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Winklevoss-Backed Zcash Treasury Plunges Nearly 40% on ZEC Privacy Bug Concerns",
-      "summary": "Cypherpunk Technologies shares tumbled to their lowest point since March as jitters tied to a Zcash bug knocked the Winklevoss-backed firm.",
-      "url": "https://decrypt.co/370127/winklevoss-backed-zcash-treasury-plunges-nearly-40-zec-privacy-bug",
-      "publishedAt": "2026-06-05T15:49:08.000Z",
-      "keywords": [
-        "zcash",
-        "Markets"
-      ],
-      "category": "RWA",
-      "slug": "20260605-winklevoss-backed-zcash-treasury-plunges-nearly-40-on-zec-privacy-bug-concerns",
-      "localUrl": "/news/20260605-winklevoss-backed-zcash-treasury-plunges-nearly-40-on-zec-privacy-bug-concerns.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin teases 'seller exhaustion' as BTC price downside reaches $60.3K",
-      "summary": "Bitcoin sellers were losing steam, market analysis said as ongoing BTC price downside brought the market closer to $60,000.",
-      "url": "https://cointelegraph.com/markets/bitcoin-approaches-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-06-05T15:43:14.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260605-bitcoin-teases-seller-exhaustion-as-btc-price-downside-reaches-603k",
-      "localUrl": "/news/20260605-bitcoin-teases-seller-exhaustion-as-btc-price-downside-reaches-603k.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: Bitcoin falls below $61,000, now down -$18,000 in 10 days. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IancydlhMc3NQOUotbm1UejZOWG1sYndfMDc4Yk10cU5hcWp5bVVPTGIzR294aWhEUXhaZ3dzSmdaaFJXdTg0TlBiazZWZ0tSTFlsU0JRNm1qM3EzUXpscy0wOUdIUQ?oc=5\" target=\"_blank\">BREAKING: Bitcoin falls belo…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IancydlhMc3NQOUotbm1UejZOWG1sYndfMDc4Yk10cU5hcWp5bVVPTGIzR294aWhEUXhaZ3dzSmdaaFJXdTg0TlBiazZWZ0tSTFlsU0JRNm1qM3EzUXpscy0wOUdIUQ?oc=5",
-      "publishedAt": "2026-06-05T14:01:55.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260605-breaking-bitcoin-falls-below-61000-now-down-18000-in-10-days-xcom",
-      "localUrl": "/news/20260605-breaking-bitcoin-falls-below-61000-now-down-18000-in-10-days-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Saylor murdered Bitcoin - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QRDNZWXdvTmg3T25jYUdFcEp4YlMteEFnUmdyUlB1dzRjRlhodHh1QlZyVGNqVHhvM05FN2JRcF8zSlRtM043SXpJQ0VCYVJhNlpEMi1uZHpzNVJVakM0?oc=5\" target=\"_blank\">Saylor murdered Bitcoin</a> <font colo…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QRDNZWXdvTmg3T25jYUdFcEp4YlMteEFnUmdyUlB1dzRjRlhodHh1QlZyVGNqVHhvM05FN2JRcF8zSlRtM043SXpJQ0VCYVJhNlpEMi1uZHpzNVJVakM0?oc=5",
-      "publishedAt": "2026-06-05T13:16:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260605-saylor-murdered-bitcoin-xcom",
-      "localUrl": "/news/20260605-saylor-murdered-bitcoin-xcom.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Hyperliquid Hit by UK FCA Warning as Crypto Perps Face Scrutiny",
-      "summary": "The warning from the UK’s Financial Conduct Authority adds pressure to a perps market already under increasing scrutiny from regulators.",
-      "url": "https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
-      "publishedAt": "2026-06-05T13:10:25.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260605-hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
-      "localUrl": "/news/20260605-hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Massive ZCash Exploit Found by Claude, Extent Unknown",
-      "summary": "The ZCash team hired a hacker to find an exploit in the ZCash protocol, and he exposed a glitch that has been out there for four years.",
-      "url": "https://decrypt.co/370112/morning-minute-massive-zcash-exploit-found-by-claude-extent-unknown",
-      "publishedAt": "2026-06-05T12:49:04.000Z",
-      "keywords": [
-        "zcash",
-        "Opinion"
-      ],
-      "category": "安全",
-      "slug": "20260605-morning-minute-massive-zcash-exploit-found-by-claude-extent-unknown",
-      "localUrl": "/news/20260605-morning-minute-massive-zcash-exploit-found-by-claude-extent-unknown.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Pump.fun's Latest Experiment Is Already Getting Weird",
-      "summary": "Pump.fun's GO bounty platform already has hundreds of listings following its pitch to let users “Pay ANYONE to do ANYTHING.”",
-      "url": "https://decrypt.co/370108/pump-funs-latest-experiment-is-already-getting-weird",
-      "publishedAt": "2026-06-05T11:33:50.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "综合",
-      "slug": "20260605-pumpfuns-latest-experiment-is-already-getting-weird",
-      "localUrl": "/news/20260605-pumpfuns-latest-experiment-is-already-getting-weird.html"
-    },
-    {
       "source": "Solana Blog",
       "title": "Solana Ecosystem Roundup: May 2026",
       "summary": "Solana Ecosystem Roundup May 2026: RWA ATH at $2.8B+, 97% tokenized equities share, $16.4B stablecoin supply, and record ETF inflows.",
@@ -1076,26 +1076,6 @@
       "category": "监管",
       "slug": "20260605-solana-ecosystem-roundup-may-2026",
       "localUrl": "/news/20260605-solana-ecosystem-roundup-may-2026.html"
-    },
-    {
-      "source": "Chainalysis Blog",
-      "title": "The $100 Million Crypto “Looksmaxxing” Boom: How Chinese Cartel Suppliers Pivoted to the Gray-Market Peptide Ecosystem",
-      "summary": "Summary A $100 Million Shadow Economy: The on-chain gray-market peptide industry has experienced a breakout, surging past a $100 million… The post The $100 Million Crypto “Looksmaxxing” Boom: How Chinese Cartel Suppliers Pivoted to the Gra…",
-      "url": "https://www.chainalysis.com/blog/gray-market-peptide-crypto-boom/",
-      "publishedAt": "2026-06-04T11:55:25.000Z",
-      "keywords": [
-        "Crime",
-        "China",
-        "Crypto crime",
-        "Darknet Markets",
-        "Drugs",
-        "Fentanyl",
-        "Looksmaxxing",
-        "Peptides"
-      ],
-      "category": "市场",
-      "slug": "20260604-the-100-million-crypto-looksmaxxing-boom-how-chinese-cartel-suppliers-pivoted-to",
-      "localUrl": "/news/20260604-the-100-million-crypto-looksmaxxing-boom-how-chinese-cartel-suppliers-pivoted-to.html"
     }
   ]
 }
