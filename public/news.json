@@ -1,7 +1,167 @@
 {
-  "updatedAt": "2026-06-09T08:39:22.732Z",
+  "updatedAt": "2026-06-09T12:14:09.254Z",
   "total": 80,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Wall Street will run entirely on the blockchain by 2030, says Brickken CEO",
+      "summary": "Edwin Mata argues that EU regulations are choking local startups, leaving the U.S. and automated AI tools to run the future of tokenized finance.",
+      "url": "https://www.coindesk.com/business/2026/06/09/wall-street-will-be-entirely-onchain-by-2030-brickken-ceo-edwin-mata-says",
+      "publishedAt": "2026-06-09T12:08:56.000Z",
+      "keywords": [
+        "Finance",
+        "Tokenization",
+        "Real World Assets",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260609-wall-street-will-run-entirely-on-the-blockchain-by-2030-says-brickken-ceo",
+      "localUrl": "/news/20260609-wall-street-will-run-entirely-on-the-blockchain-by-2030-says-brickken-ceo.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "This is Bitcoin's Shallowest Bear Market—But is the Bottom In?",
+      "summary": "Bitcoin is down 50% from its all-time high in the shallowest bear market to date—but analysts caution that the bottom isn't in yet.",
+      "url": "https://decrypt.co/370495/this-is-bitcoins-shallowest-bear-market-but-is-the-bottom-in",
+      "publishedAt": "2026-06-09T12:06:13.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260609-this-is-bitcoins-shallowest-bear-marketbut-is-the-bottom-in",
+      "localUrl": "/news/20260609-this-is-bitcoins-shallowest-bear-marketbut-is-the-bottom-in.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Humanity's $36 million exploit tied to compromised laptop hosting a 'multisig' wallet",
+      "summary": "The compromised laptop held enough multisig keys to take over the project's bridges on two chains, a basic security failure for a startup backed by Pantera and Jump Crypto.",
+      "url": "https://www.coindesk.com/tech/2026/06/09/humanity-s-usd36-million-exploit-happened-because-a-multisig-wallet-lived-on-one-laptop",
+      "publishedAt": "2026-06-09T12:02:07.000Z",
+      "keywords": [
+        "Tech",
+        "Hack",
+        "Crime",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260609-humanitys-36-million-exploit-tied-to-compromised-laptop-hosting-a-multisig-walle",
+      "localUrl": "/news/20260609-humanitys-36-million-exploit-tied-to-compromised-laptop-hosting-a-multisig-walle.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "OKX expands X-Perps in Europe with Magnificent 7, gold and oil futures",
+      "summary": "OKX rolls out tokenized stock and commodity perps for EU retail traders, expanding competition with Coinbase, Kraken and Binance in regulated derivatives.",
+      "url": "https://cointelegraph.com/news/okx-targets-eu-retail-mica-mag-7-stock-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-06-09T11:52:15.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260609-okx-expands-x-perps-in-europe-with-magnificent-7-gold-and-oil-futures",
+      "localUrl": "/news/20260609-okx-expands-x-perps-in-europe-with-magnificent-7-gold-and-oil-futures.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Saylor is Back to Buying",
+      "summary": "Saylor answers doubts with a $100M purchase. Citrini just called Hyperliquid a buy. And SBF is formally asking Trump for a pardon.",
+      "url": "https://decrypt.co/370492/morning-minute-saylor-is-back-to-buying",
+      "publishedAt": "2026-06-09T11:48:53.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "综合",
+      "slug": "20260609-morning-minute-saylor-is-back-to-buying",
+      "localUrl": "/news/20260609-morning-minute-saylor-is-back-to-buying.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's bounce isn't a bullish revival, with anything from $68,000 to $80,000 seen as a marker",
+      "summary": "Your day-ahead look for June 9, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/06/09/bitcoin-s-bounce-isn-t-a-bullish-revival-with-anything-from-usd68-000-to-usd80-000-seen-as-a-marker",
+      "publishedAt": "2026-06-09T11:16:56.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260609-bitcoins-bounce-isnt-a-bullish-revival-with-anything-from-68000-to-80000-seen-as",
+      "localUrl": "/news/20260609-bitcoins-bounce-isnt-a-bullish-revival-with-anything-from-68000-to-80000-seen-as.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Humanity Protocol Loses $36M After Private Keys 'Compromised,' Token Crashes 73%",
+      "summary": "The decentralized identity protocol said a compromised employee's laptop let attackers seize its bridges and mint tokens at will.",
+      "url": "https://decrypt.co/370485/humanity-protocol-loses-36m-after-private-keys-compromised-token-crashes-73",
+      "publishedAt": "2026-06-09T10:54:37.000Z",
+      "keywords": [
+        "DeFi"
+      ],
+      "category": "基础设施",
+      "slug": "20260609-humanity-protocol-loses-36m-after-private-keys-compromised-token-crashes-73",
+      "localUrl": "/news/20260609-humanity-protocol-loses-36m-after-private-keys-compromised-token-crashes-73.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy's bitcoin purchase fails to stir BTC price",
+      "summary": "Bitcoin is little changed despite a new purchase by Strategy as risk-averse investors await U.S. inflation data and next week’s Fed meeting.",
+      "url": "https://www.coindesk.com/markets/2026/06/09/strategy-s-bitcoin-purchase-fails-to-stir-btc-price",
+      "publishedAt": "2026-06-09T10:37:56.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260609-strategys-bitcoin-purchase-fails-to-stir-btc-price",
+      "localUrl": "/news/20260609-strategys-bitcoin-purchase-fails-to-stir-btc-price.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "SBI Shinsei links bank deposits to crypto rewards in Japan: Nikkei",
+      "summary": "SBI will give out vouchers that can be redeemed for Bitcoin, Ether or XRP through SBI VC Trade, linking bank savings with the group’s crypto exchange arm.",
+      "url": "https://cointelegraph.com/news/sbi-shinsei-bank-crypto-vouchers-deposit-interest-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-06-09T10:32:48.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260609-sbi-shinsei-links-bank-deposits-to-crypto-rewards-in-japan-nikkei",
+      "localUrl": "/news/20260609-sbi-shinsei-links-bank-deposits-to-crypto-rewards-in-japan-nikkei.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle debuts cirBTC on Ethereum to challenge Coinbase in the wrapped bitcoin market",
+      "summary": "Circle unveiled cirBTC, a token backed 1:1 by the world's largest cryptocurrency, to allow traders to use their bitcoin wealth in DeFi protocols.",
+      "url": "https://www.coindesk.com/business/2026/06/09/circle-debuts-cirbtc-on-ethereum-to-challenge-coinbase-in-the-wrapped-bitcoin-market",
+      "publishedAt": "2026-06-09T10:14:24.000Z",
+      "keywords": [
+        "Finance",
+        "Circle",
+        "Bitcoin News",
+        "Ethereum News",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260609-circle-debuts-cirbtc-on-ethereum-to-challenge-coinbase-in-the-wrapped-bitcoin-ma",
+      "localUrl": "/news/20260609-circle-debuts-cirbtc-on-ethereum-to-challenge-coinbase-in-the-wrapped-bitcoin-ma.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "USDT's flashing a golden cross and that may be bad news for bitcoin",
+      "summary": "USDT's dominance rate has flashed a golden crossover in a sign of caution for the broader crypto market.",
+      "url": "https://www.coindesk.com/markets/2026/06/09/usdt-s-flashing-a-golden-cross-and-that-may-be-bad-news-for-bitcoin",
+      "publishedAt": "2026-06-09T09:27:02.000Z",
+      "keywords": [
+        "Markets",
+        "Tether",
+        "Technical Analysis",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260609-usdts-flashing-a-golden-cross-and-that-may-be-bad-news-for-bitcoin",
+      "localUrl": "/news/20260609-usdts-flashing-a-golden-cross-and-that-may-be-bad-news-for-bitcoin.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Coinbase and Cardless unveil credit card backed by stablecoins",
@@ -74,7 +234,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live markets: Bitcoin above $63,000 as some traders peg SpaceX's IPO as 'next catalyst'",
+      "title": "Live updates: Bitcoin drops to $62,600 as some traders peg SpaceX's IPO as 'next catalyst'",
       "summary": "Stocks recovered through SpaceX's oversubscribed IPO, an Nvidia and SK Hynix chip pact, and Apple's AI reboot, while crypto trailed.",
       "url": "https://www.coindesk.com/business/2026/06/09/bitcoin-steady-above-usd63-000-bnb-sol-edge-higher-as-ai-stocks-rebound",
       "publishedAt": "2026-06-09T05:17:13.000Z",
@@ -84,8 +244,8 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260609-live-markets-bitcoin-above-63000-as-some-traders-peg-spacexs-ipo-as-next-catalys",
-      "localUrl": "/news/20260609-live-markets-bitcoin-above-63000-as-some-traders-peg-spacexs-ipo-as-next-catalys.html"
+      "slug": "20260609-live-updates-bitcoin-drops-to-62600-as-some-traders-peg-spacexs-ipo-as-next-cata",
+      "localUrl": "/news/20260609-live-updates-bitcoin-drops-to-62600-as-some-traders-peg-spacexs-ipo-as-next-cata.html"
     },
     {
       "source": "CoinDesk",
@@ -356,6 +516,17 @@
       "category": "市场",
       "slug": "20260608-live-updates-bitcoin-tops-63000-as-strategy-adds-100-million-btc-in-latest-purch",
       "localUrl": "/news/20260608-live-updates-bitcoin-tops-63000-as-strategy-adds-100-million-btc-in-latest-purch.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "cirBTC is live on @ethereum. Circle helped establish the institutional standard for dollar collateral with USDC. Now cirBTC brings that same approach to Bitcoin, bringing 1:1 BTC-backed collateral to institutional DeFi markets with neutrality, transparency, and - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nYXpsYm1QX2VadUdwb1ZrQm1naDYxekY1b2dJOFYyRS1nWUF2WjZPYW9uMFpmZGhxTVJxcDhWSU9FcmRCMXhQcFJNa2RUUHdVVk5ybWlXeDBVeWs?oc=5\" target=\"_blank\">cirBTC is live on @ethereum. Circle helped …",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nYXpsYm1QX2VadUdwb1ZrQm1naDYxekY1b2dJOFYyRS1nWUF2WjZPYW9uMFpmZGhxTVJxcDhWSU9FcmRCMXhQcFJNa2RUUHdVVk5ybWlXeDBVeWs?oc=5",
+      "publishedAt": "2026-06-08T16:39:52.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260608-cirbtc-is-live-on-ethereum-circle-helped-establish-the-institutional-standard-fo",
+      "localUrl": "/news/20260608-cirbtc-is-live-on-ethereum-circle-helped-establish-the-institutional-standard-fo.html"
     },
     {
       "source": "Decrypt",
@@ -631,22 +802,6 @@
       "localUrl": "/news/20260608-metamask-launches-ai-agent-wallet-with-built-in-security-for-crypto-trades.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitmine bought the dip, making its biggest ether purchase in 2026 as prices tanked",
-      "summary": "The company bought 126,971 ETH last week, worth roughly $214 million at current prices, despite chairman Tom Lee's earlier calls to slow purchases.",
-      "url": "https://www.coindesk.com/markets/2026/06/07/bitmine-bought-the-dip-making-its-biggest-ether-purchase-in-2026-as-prices-tanked",
-      "publishedAt": "2026-06-08T12:53:30.000Z",
-      "keywords": [
-        "Markets",
-        "Ethereum News",
-        "Digital Asset Treasury",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260608-bitmine-bought-the-dip-making-its-biggest-ether-purchase-in-2026-as-prices-tanke",
-      "localUrl": "/news/20260608-bitmine-bought-the-dip-making-its-biggest-ether-purchase-in-2026-as-prices-tanke.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin's $63K Reclaim Liquidates $540M in Crypto Shorts, a 7-Week High",
       "summary": "Experts remain cautious of Bitcoin’s weekend rebound to $63,000, pointing to ETF outflows and CME BTC volatility.",
@@ -674,19 +829,15 @@
       "localUrl": "/news/20260608-morning-minute-bitcoin-recovers-after-fall-below-60k.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Strategy buys 1,550 bitcoin one week after selling $2.5 million of coins",
-      "summary": "Strategy adds bitcoin and cash after raising $181 million through stock sales.",
-      "url": "https://www.coindesk.com/markets/2026/06/08/strategy-buys-1-550-bitcoin-boosts-cash-reserves-to-usd1-billion",
-      "publishedAt": "2026-06-08T12:12:45.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260608-strategy-buys-1550-bitcoin-one-week-after-selling-25-million-of-coins",
-      "localUrl": "/news/20260608-strategy-buys-1550-bitcoin-one-week-after-selling-25-million-of-coins.html"
+      "source": "X Wire",
+      "title": "JUST IN: Michael Saylor's 'Strategy' buys 1,550 Bitcoin worth $98 million. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wQ0txUE0zU0VFTFZQUDY0enBGbHRFV2FEa1VjR3Y1VGRkRHlDYkRQbGdhcGhTaG9uN1RhMEZQX2FiZDhMOEh1MFlfNWRIcjBfV3c3bUh2blJUMjZ2cmhRLWZ3?oc=5\" target=\"_blank\">JUST IN: Michael Saylor's 'Strateg…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wQ0txUE0zU0VFTFZQUDY0enBGbHRFV2FEa1VjR3Y1VGRkRHlDYkRQbGdhcGhTaG9uN1RhMEZQX2FiZDhMOEh1MFlfNWRIcjBfV3c3bUh2blJUMjZ2cmhRLWZ3?oc=5",
+      "publishedAt": "2026-06-08T12:08:25.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260608-just-in-michael-saylors-strategy-buys-1550-bitcoin-worth-98-million-xcom",
+      "localUrl": "/news/20260608-just-in-michael-saylors-strategy-buys-1550-bitcoin-worth-98-million-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -724,21 +875,6 @@
       "localUrl": "/news/20260608-just-in-michael-saylors-strategy-buys-1550-bitcoin-for-1013-million-xcom.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "A crucial bitcoin market indicator is signaling that the worst of the crypto crash might be over",
-      "summary": "The metric shows bitcoin's market price is getting close to its realized fair value after the recent sell-off.",
-      "url": "https://www.coindesk.com/markets/2026/06/08/a-crucial-bitcoin-market-indicator-is-signaling-that-the-worst-of-the-crypto-crash-might-be-over",
-      "publishedAt": "2026-06-08T12:02:21.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260608-a-crucial-bitcoin-market-indicator-is-signaling-that-the-worst-of-the-crypto-cra",
-      "localUrl": "/news/20260608-a-crucial-bitcoin-market-indicator-is-signaling-that-the-worst-of-the-crypto-cra.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: 🇺🇸 Vivek Ramaswamy's 'Strive' buys 32 Bitcoin worth $2 million. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYlptajdzV1I0VkNUNDZYM0k3X2Yxc3ZpV2RqMThGN3FYaXJJSC10c3o0ZF9PZ0Nfc3JMcHBhaUQ0VmZ3WEpBYXlod1FHWFVIRTNicERTcDNHNGZ5ZEhWZVN3?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Vivek Ramaswamy's 'S…",
@@ -774,52 +910,6 @@
       "localUrl": "/news/20260608-btc-price-bottom-not-due-until-q4-five-things-to-know-in-bitcoin-this-week.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Reform UK's Farage 'Evading' Scrutiny Over Tether Billionaire's $6.7M Gift: Labour",
-      "summary": "Labour Party Chair Anna Turley wrote to Nigel Farage accusing him of “evading reasonable scrutiny” over Christopher Harborne’s gift.",
-      "url": "https://decrypt.co/370295/reform-uks-farage-evading-scrutiny-over-tether-billionaires-6-7m-gift-labour",
-      "publishedAt": "2026-06-08T11:35:27.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "市场",
-      "slug": "20260608-reform-uks-farage-evading-scrutiny-over-tether-billionaires-67m-gift-labour",
-      "localUrl": "/news/20260608-reform-uks-farage-evading-scrutiny-over-tether-billionaires-67m-gift-labour.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bybit challenges Wall Street with a massive push into tokenized U.S. stock IPOs",
-      "summary": "Retail investors can now buy shares at official underwritten prices through the crypto exchange, bypassing Wall Street’s exclusive pre-IPO clubs.",
-      "url": "https://www.coindesk.com/markets/2026/06/08/bybit-launches-tokenized-ipo-service-starting-with-elon-musk-s-spacex",
-      "publishedAt": "2026-06-08T11:34:57.000Z",
-      "keywords": [
-        "Markets",
-        "SpaceX",
-        "Elon Musk",
-        "IPOs",
-        "Tokenization",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260608-bybit-challenges-wall-street-with-a-massive-push-into-tokenized-us-stock-ipos",
-      "localUrl": "/news/20260608-bybit-challenges-wall-street-with-a-massive-push-into-tokenized-us-stock-ipos.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto's recovery remains elusive as SpaceX, Anthropic IPOs loom",
-      "summary": "Your day-ahead look for June 8, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/06/08/crypto-s-recovery-remains-unsecure-as-spacex-anthropic-ipos-loom-stronger-etf-inflows-would-help",
-      "publishedAt": "2026-06-08T11:24:06.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "X热点",
-      "slug": "20260608-cryptos-recovery-remains-elusive-as-spacex-anthropic-ipos-loom",
-      "localUrl": "/news/20260608-cryptos-recovery-remains-elusive-as-spacex-anthropic-ipos-loom.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Chinese court treats Bitcoin as property in 107 BTC memory theft case",
       "summary": "Man in eastern China who stole 107 Bitcoin using a memorized seed phrase gets 10 years and nine months behind bars.",
@@ -831,21 +921,6 @@
       "category": "市场",
       "slug": "20260608-chinese-court-treats-bitcoin-as-property-in-107-btc-memory-theft-case",
       "localUrl": "/news/20260608-chinese-court-treats-bitcoin-as-property-in-107-btc-memory-theft-case.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin holds steady after Sunday's rally, though full-fledged reversal may take longer",
-      "summary": "Bitcoin is holding above $63,000 after rallying on Sunday. The price is now hovering near a key 200-week moving average that often marks major cycle turning points.",
-      "url": "https://www.coindesk.com/markets/2026/06/08/bitcoin-holds-steady-after-sunday-s-rally-though-full-fledged-reversal-may-take-longer",
-      "publishedAt": "2026-06-08T11:00:18.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260608-bitcoin-holds-steady-after-sundays-rally-though-full-fledged-reversal-may-take-l",
-      "localUrl": "/news/20260608-bitcoin-holds-steady-after-sundays-rally-though-full-fledged-reversal-may-take-l.html"
     },
     {
       "source": "X Wire",
@@ -906,6 +981,17 @@
     },
     {
       "source": "X Wire",
+      "title": "#Bitcoin Bottom zone The Quarterly chart may provide clues about where #BTC could find its cycle low. Historically, it has often revisited these quarterly FVGs before forming a major bottom. Current zone: $56.8K - $44.6K - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xcWJhanZYZGM2WGhkTXZmRkFQMEpCWXFlbV9TTDVFMnFveVpBeTJXa1k5RUppQVV4M1pDVVFqRHF3Z3B3RHgzWEFBNmVDQ2xZV1laeFFqMDEyRG0zWmc0bWZR?oc=5\" target=\"_blank\">#Bitcoin Bottom zone The Quarterly…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xcWJhanZYZGM2WGhkTXZmRkFQMEpCWXFlbV9TTDVFMnFveVpBeTJXa1k5RUppQVV4M1pDVVFqRHF3Z3B3RHgzWEFBNmVDQ2xZV1laeFFqMDEyRG0zWmc0bWZR?oc=5",
+      "publishedAt": "2026-06-08T09:10:06.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260608-bitcoin-bottom-zone-the-quarterly-chart-may-provide-clues-about-where-btc-could-",
+      "localUrl": "/news/20260608-bitcoin-bottom-zone-the-quarterly-chart-may-provide-clues-about-where-btc-could-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Bitcoin crashed. Bitcoin crashes are a recurring feature of crypto markets. Liquidation cascades, macro shocks, and excessive leverage can all trigger sharp drawdowns across the entire ecosystem. Our research team breaks down why Bitcoin crashes happen, - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfZGQzN0VDQnNOQnZ3blJFdzlJNmlQVHRwSGl1T1EtYXBqeTRCQWdSeDAxeTl3anNMOUxZeWQ2TjBxUTNQN1ZwcHpzY3hYcG9wZlJ1MjZkdS1POG8?oc=5\" target=\"_blank\">Bitcoin crashed. Bitcoin crashes are a recu…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfZGQzN0VDQnNOQnZ3blJFdzlJNmlQVHRwSGl1T1EtYXBqeTRCQWdSeDAxeTl3anNMOUxZeWQ2TjBxUTNQN1ZwcHpzY3hYcG9wZlJ1MjZkdS1POG8?oc=5",
@@ -914,32 +1000,6 @@
       "category": "X热点",
       "slug": "20260608-bitcoin-crashed-bitcoin-crashes-are-a-recurring-feature-of-crypto-markets-liquid",
       "localUrl": "/news/20260608-bitcoin-crashed-bitcoin-crashes-are-a-recurring-feature-of-crypto-markets-liquid.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Arthur Hayes dumps WLD days after Maelstrom’s AI IPO pitch",
-      "summary": "Maelstrom’s Arthur Hayes has been on a selling spree recently, offloading positions in HYPE, ZEC, NEAR and now WLD.",
-      "url": "https://cointelegraph.com/news/arthur-hayes-offloads-wld-days-after-maelstrom-touted-it-as-an-ai-ipo-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-06-08T07:02:30.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260608-arthur-hayes-dumps-wld-days-after-maelstroms-ai-ipo-pitch",
-      "localUrl": "/news/20260608-arthur-hayes-dumps-wld-days-after-maelstroms-ai-ipo-pitch.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Galaxy drops CLARITY Act odds to 60% as time is running out",
-      "summary": "Galaxy Digital says the Senate has a tight calendar ahead of the November elections, and the time needed to fix up and pass a key crypto bill is quickly fading.",
-      "url": "https://cointelegraph.com/news/galaxy-drops-clarity-act-passage-odds-to-60-percent-as-time-runs-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-06-08T07:01:15.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260608-galaxy-drops-clarity-act-odds-to-60-as-time-is-running-out",
-      "localUrl": "/news/20260608-galaxy-drops-clarity-act-odds-to-60-as-time-is-running-out.html"
     },
     {
       "source": "X Wire",
@@ -962,44 +1022,6 @@
       "category": "X热点",
       "slug": "20260608-bitcoin-closed-the-week-above-the-200w-sma-after-sweeping-the-low-from-february-",
       "localUrl": "/news/20260608-bitcoin-closed-the-week-above-the-200w-sma-after-sweeping-the-low-from-february-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "First time I've heard someone outside of crypto argue that stablecoin issuers shouldn't be regulated like banks. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzMVNqNmdpNkk2aGdXLUJsQktyVEtmTEZRSEpJNm5tZ2p0Z0FXcFFvandxWlF4M0NmOU9PZEktWEtjTUx0TDN6ZWxtSEpacExSUFpUbWthRkRPZHBqczVfYlhxNDVBQQ?oc=5\" target=\"_blank\">First time I've heard someon…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzMVNqNmdpNkk2aGdXLUJsQktyVEtmTEZRSEpJNm5tZ2p0Z0FXcFFvandxWlF4M0NmOU9PZEktWEtjTUx0TDN6ZWxtSEpacExSUFpUbWthRkRPZHBqczVfYlhxNDVBQQ?oc=5",
-      "publishedAt": "2026-06-07T22:56:46.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260607-first-time-ive-heard-someone-outside-of-crypto-argue-that-stablecoin-issuers-sho",
-      "localUrl": "/news/20260607-first-time-ive-heard-someone-outside-of-crypto-argue-that-stablecoin-issuers-sho.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Frontier AI Models Can Find Crypto's Biggest Bugs. Experts Warn the Industry Isn't Ready",
-      "summary": "The Zcash vulnerability uncovered with help from Anthropic's Claude Opus 4.8 signals a shift in who may discover critical flaws first.",
-      "url": "https://decrypt.co/370232/frontier-ai-models-find-crypto-bugs-industry-isnt-ready",
-      "publishedAt": "2026-06-07T18:01:03.000Z",
-      "keywords": [
-        "zcash",
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260607-frontier-ai-models-can-find-cryptos-biggest-bugs-experts-warn-the-industry-isnt-",
-      "localUrl": "/news/20260607-frontier-ai-models-can-find-cryptos-biggest-bugs-experts-warn-the-industry-isnt-.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Wall Street Is Coming for Hyperliquid's Perps Crown, Arthur Hayes Says",
-      "summary": "Arthur Hayes warned that Hyperliquid's core value driver—using trading fees to burn tokens—exposes the protocol to market share losses.",
-      "url": "https://decrypt.co/370236/wall-street-coming-hyperliquid-perps-crown-arthur-hayes-says",
-      "publishedAt": "2026-06-07T15:48:14.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "基础设施",
-      "slug": "20260607-wall-street-is-coming-for-hyperliquids-perps-crown-arthur-hayes-says",
-      "localUrl": "/news/20260607-wall-street-is-coming-for-hyperliquids-perps-crown-arthur-hayes-says.html"
     },
     {
       "source": "X Wire",
@@ -1036,17 +1058,6 @@
     },
     {
       "source": "X Wire",
-      "title": "CRYPTO RALLYING - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBENFRLeDdnX3pCelktQmZEd2NQQkNnLTEwWlltZ0N4SHZsQVVzT3N6S2VqSFFFOHVsd2xKM3lFVExuaXpXRENhMFN6TjIyanItaDU4dmhoNWZ4NGc?oc=5\" target=\"_blank\">CRYPTO RALLYING</a> <font color=\"#6f6f6f\">x…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBENFRLeDdnX3pCelktQmZEd2NQQkNnLTEwWlltZ0N4SHZsQVVzT3N6S2VqSFFFOHVsd2xKM3lFVExuaXpXRENhMFN6TjIyanItaDU4dmhoNWZ4NGc?oc=5",
-      "publishedAt": "2026-06-07T03:01:36.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260607-crypto-rallying-xcom",
-      "localUrl": "/news/20260607-crypto-rallying-xcom.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Don’t fall for false narratives - Equity bull market intact - Crypto only way for tokenization - Crypto key in a machine to machine AI world - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WNEUzcWdxcG1hX3U1aWM5aGN2YzMtNFFBU05Vand4Xy1fV2t0b195ZGZJaDNFQVY1eHRtX0RrcS1aRGJFVHhsRnhOVWdYZDBudjRVbUlqSERXM3pXeDlv?oc=5\" target=\"_blank\">Don’t fall for false narratives - Equi…",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WNEUzcWdxcG1hX3U1aWM5aGN2YzMtNFFBU05Vand4Xy1fV2t0b195ZGZJaDNFQVY1eHRtX0RrcS1aRGJFVHhsRnhOVWdYZDBudjRVbUlqSERXM3pXeDlv?oc=5",
@@ -1055,17 +1066,6 @@
       "category": "X热点",
       "slug": "20260606-dont-fall-for-false-narratives-equity-bull-market-intact-crypto-only-way-for-tok",
       "localUrl": "/news/20260606-dont-fall-for-false-narratives-equity-bull-market-intact-crypto-only-way-for-tok.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "All of you in the crypto cheap seats can keep dunking on Zcash for 'crashing' to the price six weeks ago, or you can instead learn something and spend your energy helping get your own crypto house in order for the AI & quantum risks ahead - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IVkRqLW9Yd3A1aEtFN1hLOWtWYy1IS0x2VERDbTUzVGhrTENjSkZmc3NydnFYbUxkQW10REhWZTdkTS1HbHNpdU43eDJrS2h4Y1l4UXc5bFdSUF9uczZydHNXcw?oc=5\" target=\"_blank\">All of you in the crypto cheap s…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IVkRqLW9Yd3A1aEtFN1hLOWtWYy1IS0x2VERDbTUzVGhrTENjSkZmc3NydnFYbUxkQW10REhWZTdkTS1HbHNpdU43eDJrS2h4Y1l4UXc5bFdSUF9uczZydHNXcw?oc=5",
-      "publishedAt": "2026-06-06T14:08:36.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260606-all-of-you-in-the-crypto-cheap-seats-can-keep-dunking-on-zcash-for-crashing-to-t",
-      "localUrl": "/news/20260606-all-of-you-in-the-crypto-cheap-seats-can-keep-dunking-on-zcash-for-crashing-to-t.html"
     }
   ]
 }
