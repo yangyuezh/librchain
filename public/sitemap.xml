@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-13T10:06:56.036Z</lastmod>
+    <lastmod>2026-06-13T12:02:45.173Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-13T10:06:56.036Z</lastmod>
+    <lastmod>2026-06-13T12:02:45.173Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260613-ripple-wants-ai-agents-to-pay-in-xrp-and-rlusd-the-market-is-still-mostly-usdc.html</loc>
+    <lastmod>2026-06-13T11:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260613-top-cryptographers-cant-agree-on-bitcoins-biggest-quantum-question.html</loc>
@@ -159,6 +165,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260612-1-blockworks-has-acquired-messari-were-bringing-together-cryptos-two-largest-dat.html</loc>
     <lastmod>2026-06-12T16:16:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260612-latest-arthur-hayes-called-the-spacex-ipo-a-classic-crypto-grift-predicting-insi.html</loc>
+    <lastmod>2026-06-12T16:11:13.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -343,18 +355,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260612-the-on-chain-reset-bitcoin-needs-before-a-durable-bottom-historically-this-band-.html</loc>
-    <lastmod>2026-06-12T09:11:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260612-we-are-pleased-to-announce-that-metaplanet-has-entered-into-an-agreement-to-acqu.html</loc>
-    <lastmod>2026-06-12T08:28:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260612-zachxbt-120m-usdt-wallet-linked-to-xmr-surge-tether-freezes-72m-according-to-zac.html</loc>
     <lastmod>2026-06-12T08:16:30.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -399,18 +399,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260612-sec-plan-to-scrap-rule-611-positive-for-tokenized-us-stocks-galaxy.html</loc>
     <lastmod>2026-06-12T06:44:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260612-latest-lg-electronics-and-arbitrum-are-building-a-blockchain-based-ad-network-ai.html</loc>
-    <lastmod>2026-06-12T06:40:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260612-xrp-jumps-3-above-114-as-institutional-buying-meets-key-resistance-test.html</loc>
-    <lastmod>2026-06-12T06:38:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -493,8 +481,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260611-just-in-japans-parliament-has-advanced-a-bill-that-would-reclassify-crypto-as-a-.html</loc>
+    <lastmod>2026-06-11T08:35:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260611-new-blackrock-has-filed-its-latest-amendment-for-a-bitcoin-covered-call-etf-bita.html</loc>
     <lastmod>2026-06-11T07:16:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260611-cryptoquant-sees-bitcoins-potential-bottom-near-53600-cryptoquant-said-bitcoins-.html</loc>
+    <lastmod>2026-06-11T02:50:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
