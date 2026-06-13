@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-13T06:30:35.081Z</lastmod>
+    <lastmod>2026-06-13T10:06:56.036Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-13T06:30:35.081Z</lastmod>
+    <lastmod>2026-06-13T10:06:56.036Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -69,6 +69,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260612-bitcoin-rally-to-70k-builds-as-orderbook-structure-highlights-traders-confidence.html</loc>
     <lastmod>2026-06-12T23:42:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260612-bullish-spacex-holds-approximately-6-of-its-corporate-treasury-in-bitcoin-xcom.html</loc>
+    <lastmod>2026-06-12T23:00:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -247,7 +253,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260612-kucoin-has-not-paid-2m-award-tied-to-delisted-token-dispute-investor-says.html</loc>
+    <loc>https://www.librchain.com/news/20260612-exclusive-kucoin-has-not-paid-2m-award-tied-to-delisted-token-dispute-investor-s.html</loc>
     <lastmod>2026-06-12T13:03:23.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -333,6 +339,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260612-crypto-scammers-exploit-world-cup-ticket-demand-trm-warns.html</loc>
     <lastmod>2026-06-12T09:52:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260612-the-on-chain-reset-bitcoin-needs-before-a-durable-bottom-historically-this-band-.html</loc>
+    <lastmod>2026-06-12T09:11:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -481,20 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260611-just-in-japans-parliament-has-advanced-a-bill-that-would-reclassify-crypto-as-a-.html</loc>
-    <lastmod>2026-06-11T08:35:28.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260611-new-blackrock-has-filed-its-latest-amendment-for-a-bitcoin-covered-call-etf-bita.html</loc>
     <lastmod>2026-06-11T07:16:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260611-cryptoquant-sees-bitcoins-potential-bottom-near-53600-cryptoquant-said-bitcoins-.html</loc>
-    <lastmod>2026-06-11T02:50:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
