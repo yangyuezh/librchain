@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-14T00:19:06.850Z</lastmod>
+    <lastmod>2026-06-14T06:03:55.681Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-14T00:19:06.850Z</lastmod>
+    <lastmod>2026-06-14T06:03:55.681Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260614-amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports.html</loc>
+    <lastmod>2026-06-14T03:36:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260613-us-government-orders-anthropic-to-pull-claude-fable-mythos-ai-models.html</loc>
@@ -37,8 +43,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260613-learning-from-wall-street-and-bringing-nasdaq-level-financial-infrastructure-onc.html</loc>
-    <lastmod>2026-06-13T16:44:11.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260613-unlike-many-investors-in-crypto-i-did-not-pivot-to-ai-in-the-last-few-years-howe.html</loc>
+    <lastmod>2026-06-13T16:50:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260613-ethereum-researcher-says-post-quantum-account-protection-can-be-implemented-toda.html</loc>
+    <lastmod>2026-06-13T16:36:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -121,12 +133,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260613-shit-show-in-crypto-continues-siren-crashed-90-in-the-last-5-days-wiped-out-760-.html</loc>
-    <lastmod>2026-06-13T09:02:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260613-top-cryptographers-cant-agree-on-bitcoins-biggest-quantum-question.html</loc>
     <lastmod>2026-06-13T06:07:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -135,12 +141,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260613-anthropics-pre-ipo-shares-fall-as-us-government-shuts-down-its-most-powerful-ai-.html</loc>
     <lastmod>2026-06-13T06:02:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260613-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-06-13T05:47:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -261,12 +261,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260612-bitcoin-surfs-spacex-ipo-at-64k-as-trader-warns-key-btc-price-support-may-crumbl.html</loc>
     <lastmod>2026-06-12T16:17:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260612-1-blockworks-has-acquired-messari-were-bringing-together-cryptos-two-largest-dat.html</loc>
-    <lastmod>2026-06-12T16:16:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,6 +409,24 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260612-the-markets-are-unchanged-on-bitcoin-still-no-clear-breakout-above-the-crucial-6.html</loc>
+    <lastmod>2026-06-12T06:48:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260612-latest-lg-electronics-and-arbitrum-are-building-a-blockchain-based-ad-network-ai.html</loc>
+    <lastmod>2026-06-12T06:40:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260612-binance-wallet-spacex-ipo-subscription-attracts-about-557m-from-27689-addresses-.html</loc>
+    <lastmod>2026-06-12T05:14:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260612-just-in-prosecutors-say-teen-crypto-scammer-stole-13-million-by-posing-as-google.html</loc>
     <lastmod>2026-06-12T04:18:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -463,12 +475,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260611-impressive-from-canton-for-years-banks-talked-about-creating-private-blockchain-.html</loc>
-    <lastmod>2026-06-11T13:41:13.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260611-just-in-chainlink-ranked-4-in-blockchain-protocols-on-fortunemagazines-crypto-10.html</loc>
     <lastmod>2026-06-11T12:35:32.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260611-binance-xcom.html</loc>
     <lastmod>2026-06-11T08:00:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260611-cryptoquant-sees-bitcoins-potential-bottom-near-53600-cryptoquant-said-bitcoins-.html</loc>
-    <lastmod>2026-06-11T02:50:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
