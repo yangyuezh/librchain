@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-15T21:18:15.022Z</lastmod>
+    <lastmod>2026-06-15T23:59:28.061Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-15T21:18:15.022Z</lastmod>
+    <lastmod>2026-06-15T23:59:28.061Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260615-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-06-15T22:39:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260615-trump-crypto-companys-usd1-stablecoins-backing-ufc-event-bonuses.html</loc>
+    <lastmod>2026-06-15T22:10:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260615-elon-musk-loses-again-to-openai-as-judge-dismisses-xai-trade-secret-lawsuit.html</loc>
@@ -27,6 +39,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260615-nvidias-20-billion-debt-boom-reinforces-bitcoin-miners-ai-pivot.html</loc>
     <lastmod>2026-06-15T20:15:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260615-just-in-blackrock-to-launch-bitcoin-premium-income-etf-tomorrow-xcom.html</loc>
+    <lastmod>2026-06-15T20:13:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -117,6 +135,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260615-pudgy-penguins-winds-down-pudgy-party-mobile-game.html</loc>
     <lastmod>2026-06-15T15:05:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260615-bybit-expands-rwa-push-with-tokenized-bond-funds-from-pimco-cmbi.html</loc>
+    <lastmod>2026-06-15T15:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -271,12 +295,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260615-bybit-expands-rwa-push-with-tokenized-bond-funds-from-pimco-cmbi.html</loc>
-    <lastmod>2026-06-15T07:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260615-bitcoin-nears-66k-as-trump-says-us-has-peace-deal-with-iran.html</loc>
     <lastmod>2026-06-15T06:47:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -303,6 +321,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260615-live-markets-bitcoin-gives-back-some-gains-as-spacexs-post-ipo-rally-extends-to-.html</loc>
     <lastmod>2026-06-15T05:19:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260615-eus-mica-deadline-could-wipe-out-thousands-of-crypto-firms-the-eus-mica-transiti.html</loc>
+    <lastmod>2026-06-15T05:07:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -349,8 +373,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260614-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-06-14T22:19:35.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260614-bitcoin-and-ethereum-are-pumping-after-the-us-iran-peace-deal-xcom.html</loc>
+    <lastmod>2026-06-14T21:29:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -379,32 +403,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260614-ethereum-can-quantum-proof-accounts-for-just-7-cents-says-ethereums-kohaku-lead.html</loc>
-    <lastmod>2026-06-14T13:49:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260614-pokemon-card-sales-are-surging-on-crypto-platformsjust-dont-call-it-gambling.html</loc>
     <lastmod>2026-06-14T13:01:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260614-bitcoin-mining-difficulty-falls-1009-second-largest-drop-of-2026-at-block-953568.html</loc>
-    <lastmod>2026-06-14T12:19:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260614-bps-measures-bitcoin-per-common-share-before-senior-claims-cebe-bps-measures-bit.html</loc>
     <lastmod>2026-06-14T08:06:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260614-eth-is-it-time-for-accumulation-yet-ethereum-is-on-track-for-its-2nd-worst-first.html</loc>
-    <lastmod>2026-06-14T07:03:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -477,12 +483,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260613-standard-chartereds-kendrick-crypto-winter-is-over-100k-btc-and-4k-eth-year-end-.html</loc>
     <lastmod>2026-06-13T03:21:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260612-bullish-spacex-holds-approximately-6-of-its-corporate-treasury-in-bitcoin-xcom.html</loc>
-    <lastmod>2026-06-12T23:00:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
