@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-06-19T19:07:13.615Z",
+  "updatedAt": "2026-06-19T20:46:00.604Z",
   "total": 87,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "WhiteBIT secures MiCA license in Austria ahead of July 1 EU deadline",
+      "summary": "The Austrian authorization gives WhiteBIT access to the EU's unified crypto framework, which will require exchanges to hold MiCA licenses or stop serving clients after July 1.",
+      "url": "https://cointelegraph.com/news/whitebit-secures-mica-license-austria-gains-access-eu-crypto-market?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "2026-06-19T20:07:27.000Z",
+      "keywords": [
+        "Latest News",
+        "MiCA",
+        "Europe",
+        "European Union",
+        "Cryptocurrency Exchange",
+        "Binance"
+      ],
+      "category": "监管",
+      "slug": "20260619-whitebit-secures-mica-license-in-austria-ahead-of-july-1-eu-deadline",
+      "localUrl": "/news/20260619-whitebit-secures-mica-license-in-austria-ahead-of-july-1-eu-deadline.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Charles Schwab Planning to Roll Out S&P 500 Prediction Markets With Cboe: WSJ",
+      "summary": "Global financial institution Charles Schwab is the latest firm hoping to steal a piece of the growing prediction market pie.",
+      "url": "https://decrypt.co/371708/charles-schwab-planning-sp-500-prediction-markets-cboe",
+      "publishedAt": "2026-06-19T20:02:32.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "市场",
+      "slug": "20260619-charles-schwab-planning-to-roll-out-sp-500-prediction-markets-with-cboe-wsj",
+      "localUrl": "/news/20260619-charles-schwab-planning-to-roll-out-sp-500-prediction-markets-with-cboe-wsj.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "House Republican Introduces Insider Trading Bill to Ban Lawmaker Prediction Market Bets",
+      "summary": "The bill is meant to curb potential insider trading, blocking lawmakers and family members from policy-related prediction market bets.",
+      "url": "https://decrypt.co/371705/house-republican-insider-trading-bill-ban-lawmaker-prediction-market",
+      "publishedAt": "2026-06-19T19:36:09.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260619-house-republican-introduces-insider-trading-bill-to-ban-lawmaker-prediction-mark",
+      "localUrl": "/news/20260619-house-republican-introduces-insider-trading-bill-to-ban-lawmaker-prediction-mark.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Republican lawmaker proposes prediction markets insider trading ban, not including White House officials",
@@ -666,21 +710,6 @@
       "localUrl": "/news/20260619-us-crypto-etfs-are-pulling-bitcoiners-into-tradfi-blackrockaposs-jay-jacobs.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Celsius’ Mashinsky gets permanent trading ban in CFTC settlement",
-      "summary": "The US commodities watchdog has settled with Celsius founder Alex Mashinsky, ending the agency’s first-ever case against a crypto lending platform.",
-      "url": "https://cointelegraph.com/news/cftc-permanently-bans-celsius-mashinsky-from-trading?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "2026-06-19T02:33:11.000Z",
-      "keywords": [
-        "Latest News",
-        "CFTC",
-        "Celsius"
-      ],
-      "category": "DeFi",
-      "slug": "20260619-celsius-mashinsky-gets-permanent-trading-ban-in-cftc-settlement",
-      "localUrl": "/news/20260619-celsius-mashinsky-gets-permanent-trading-ban-in-cftc-settlement.html"
-    },
-    {
       "source": "Decrypt",
       "title": "China’s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus—Using Zero Nvidia Chips",
       "summary": "Z.ai's GLM-5.2 sits within 1% of Claude Opus 4.8 on long-horizon coding benchmarks, runs entirely on Huawei silicon, and undercuts Western frontier models by up to 82% per token.",
@@ -902,19 +931,6 @@
       "localUrl": "/news/20260618-us-agencies-seek-stablecoin-customer-id-rules-akin-to-banks-in-new-genius-act-pi.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Everyday Savers Bet Big on Bitcoin Giant Strategy's STRC—Now It's Falling",
-      "summary": "Everyday investors that own Strategy’s STRC have been drawn to double-digit yields, but the preferred stock’s volatility has shaken some.",
-      "url": "https://decrypt.co/371529/everyday-savers-bet-big-bitcoin-giant-strategy-strc-falling",
-      "publishedAt": "2026-06-18T15:48:32.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "DeFi",
-      "slug": "20260618-everyday-savers-bet-big-on-bitcoin-giant-strategys-strcnow-its-falling",
-      "localUrl": "/news/20260618-everyday-savers-bet-big-on-bitcoin-giant-strategys-strcnow-its-falling.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Ethereum Foundation loses another key leader as co-executive director Hsiao-Wei Wang resigns",
       "summary": "Wang's departure follows the resignation of fellow co-executive director Tomasz Stańczak and marks the latest in a string of high-profile exits at the EF.",
@@ -928,19 +944,6 @@
       "category": "基础设施",
       "slug": "20260618-ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-",
       "localUrl": "/news/20260618-ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Jerome Powell Supports Fed's New Stablecoin Policies—But Chair Kevin Warsh Abstains",
-      "summary": "The proposed rulemaking establishes how U.S. crypto companies will have to screen stablecoin customers after the passage of the GENIUS Act.",
-      "url": "https://decrypt.co/371548/jerome-powell-supports-fed-stablecoin-policies-chair-kevin-warsh-abstains",
-      "publishedAt": "2026-06-18T15:33:27.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260618-jerome-powell-supports-feds-new-stablecoin-policiesbut-chair-kevin-warsh-abstain",
-      "localUrl": "/news/20260618-jerome-powell-supports-feds-new-stablecoin-policiesbut-chair-kevin-warsh-abstain.html"
     },
     {
       "source": "CoinDesk",
@@ -1127,14 +1130,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Almost every crypto company will disappear. most of the infra is already built or about to be built. crypto will collapse into bitcoin, ethereum, and maybe solana. the only relevant products will be stablecoins, AMMs, wallets, and perps. ethereum will enable expor - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fU2RpQ0xNbTNfSGNDbjdveUlHR0xlekU3aFRDa1JnRlloUDhwbXdjQkVFTldKQzBxc21ZdzFTNDZZOEhEMkx5RGlNYllZS0piNTMwMVpWVWxHTEVyX2M2ellR?oc=5\" target=\"_blank\">Almost every crypto company will d…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fU2RpQ0xNbTNfSGNDbjdveUlHR0xlekU3aFRDa1JnRlloUDhwbXdjQkVFTldKQzBxc21ZdzFTNDZZOEhEMkx5RGlNYllZS0piNTMwMVpWVWxHTEVyX2M2ellR?oc=5",
-      "publishedAt": "2026-06-18T09:56:46.000Z",
+      "title": "Bitcoin payments are now even easier on Square Register. Your customers can flip the toggle at checkout and pay with bitcoin. No new training needed. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE85cGFJa1c3V0VaZ1RYWVkyeEwzTVRNbkJvajNDSmF5azN3SVBSeTk1SEZjSldGb0thYVlIRVBmOUkwNnVRRDdWdElURmxGZU0xdl9MYXZQQjF6VDQ?oc=5\" target=\"_blank\">Bitcoin payments are now even easier on Squ…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85cGFJa1c3V0VaZ1RYWVkyeEwzTVRNbkJvajNDSmF5azN3SVBSeTk1SEZjSldGb0thYVlIRVBmOUkwNnVRRDdWdElURmxGZU0xdl9MYXZQQjF6VDQ?oc=5",
+      "publishedAt": "2026-06-17T22:30:20.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260618-almost-every-crypto-company-will-disappear-most-of-the-infra-is-already-built-or",
-      "localUrl": "/news/20260618-almost-every-crypto-company-will-disappear-most-of-the-infra-is-already-built-or.html"
+      "slug": "20260617-bitcoin-payments-are-now-even-easier-on-square-register-your-customers-can-flip-",
+      "localUrl": "/news/20260617-bitcoin-payments-are-now-even-easier-on-square-register-your-customers-can-flip-.html"
     },
     {
       "source": "X Wire",
