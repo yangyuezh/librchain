@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-18T23:02:07.367Z</lastmod>
+    <lastmod>2026-06-19T01:51:05.491Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-18T23:02:07.367Z</lastmod>
+    <lastmod>2026-06-19T01:51:05.491Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260619-ether-analysts-predict-another-selling-wave-as-eth-struggles-to-overcome-17k.html</loc>
+    <lastmod>2026-06-19T00:26:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260618-malta-proposes-defi-rulebook-covering-daos-under-mica-era-framework.html</loc>
@@ -51,6 +57,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260618-midjourney-pivots-from-ai-images-to-medical-imaging-aiming-to-build-a-better-mri.html</loc>
     <lastmod>2026-06-18T21:18:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260618-new-morganstanley-just-filed-amendments-for-both-their-ethereum-and-solana-etfs-.html</loc>
+    <lastmod>2026-06-18T21:15:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -105,12 +117,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260618-bitcoins-deeply-discounted-versus-ai-stocks-but-hawkish-fed-risk-lingers-bitwise.html</loc>
     <lastmod>2026-06-18T19:41:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260618-just-in-there-will-be-a-sprint-of-meetings-next-week-to-finalize-key-details-for.html</loc>
-    <lastmod>2026-06-18T19:41:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -349,12 +355,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260618-aztec-hit-by-second-21m-exploit-in-less-than-week-slowmist.html</loc>
-    <lastmod>2026-06-18T10:28:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260618-bitcoin-steadies-near-64k-as-analysts-eye-floor-after-hawkish-fed.html</loc>
     <lastmod>2026-06-18T10:07:12.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -433,6 +433,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260617-1-executive-summaryethereum-eth-is-a-public-permissionless-blockchain-that-provi.html</loc>
+    <lastmod>2026-06-17T16:04:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260617-just-in-mexican-billionaire-ricardo-salinas-says-bitcoin-is-a-better-investment-.html</loc>
     <lastmod>2026-06-17T15:51:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -475,6 +481,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260617-ethereums-glamsterdam-upgrade-the-biggest-planned-upgrade-for-2026-ethereum-core.html</loc>
+    <lastmod>2026-06-17T04:07:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260617-this-is-one-of-the-most-anti-crypto-laws-in-the-us-it-taxes-the-exchange-transfe.html</loc>
     <lastmod>2026-06-17T00:42:32.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -511,26 +523,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260616-just-in-blackrocks-chief-investment-officer-rick-rieder-says-i-think-bitcoin-is-.html</loc>
-    <lastmod>2026-06-16T13:02:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260616-wintermute-says-bitcoin-could-still-fall-into-the-50000-range-wintermute-a-leadi.html</loc>
-    <lastmod>2026-06-16T11:29:40.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260616-digital-money-should-be-stable-liquid-digital-and-yield-bearing-bitcoin-backed-c.html</loc>
+    <lastmod>2026-06-16T10:52:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260616-how-ghanas-eoco-and-the-uk-nca-are-using-blockchain-analysis-to-return-15-millio.html</loc>
     <lastmod>2026-06-16T08:32:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260615-our-debt-is-real-our-fiscal-trajectory-is-unsustainable-bitcoin-is-one-of-the-fe.html</loc>
-    <lastmod>2026-06-15T23:16:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
