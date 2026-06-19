@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-19T20:46:00.644Z</lastmod>
+    <lastmod>2026-06-19T22:12:08.902Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-19T20:46:00.644Z</lastmod>
+    <lastmod>2026-06-19T22:12:08.902Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260619-charles-schwab-to-enter-prediction-markets-with-sp-500-wagers-wsj.html</loc>
+    <lastmod>2026-06-19T21:11:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260619-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-06-19T21:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260619-13b-bitcoin-options-expiry-looms-will-bulls-endure-more-pain-in-june.html</loc>
+    <lastmod>2026-06-19T20:57:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260619-whitebit-secures-mica-license-in-austria-ahead-of-july-1-eu-deadline.html</loc>
@@ -105,12 +123,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260619-just-in-fbi-director-kash-patel-says-the-fbi-will-find-crypto-scammers-and-will-.html</loc>
     <lastmod>2026-06-19T14:12:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260619-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-06-19T14:09:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -253,12 +265,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260619-microsoft-warns-users-of-aposcrypto-clipperapos-malware-spread-via-usb-drives.html</loc>
-    <lastmod>2026-06-19T05:33:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260619-xrp-falls-3-after-losing-115-support-as-breakout-attempt-fades.html</loc>
     <lastmod>2026-06-19T05:14:20.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -283,12 +289,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260619-us-crypto-etfs-are-pulling-bitcoiners-into-tradfi-blackrockaposs-jay-jacobs.html</loc>
-    <lastmod>2026-06-19T04:16:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260618-chinas-zai-releases-glm-52-a-model-that-rivals-claude-opususing-zero-nvidia-chip.html</loc>
     <lastmod>2026-06-18T21:26:34.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -297,6 +297,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260618-midjourney-pivots-from-ai-images-to-medical-imaging-aiming-to-build-a-better-mri.html</loc>
     <lastmod>2026-06-18T21:18:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260618-new-morganstanley-just-filed-amendments-for-both-their-ethereum-and-solana-etfs-.html</loc>
+    <lastmod>2026-06-18T21:15:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -513,12 +519,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260617-new-illinois-governor-pritzker-has-signed-a-02-tax-on-crypto-transactions-into-l.html</loc>
     <lastmod>2026-06-17T11:48:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260616-illinois-governor-pritzker-just-signed-the-most-punitive-digital-asset-tax-in-th.html</loc>
-    <lastmod>2026-06-16T21:18:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
