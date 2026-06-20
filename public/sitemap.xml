@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-20T00:20:53.012Z</lastmod>
+    <lastmod>2026-06-20T05:42:09.329Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-20T00:20:53.012Z</lastmod>
+    <lastmod>2026-06-20T05:42:09.329Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260620-crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty.html</loc>
+    <lastmod>2026-06-20T05:12:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260620-s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board.html</loc>
+    <lastmod>2026-06-20T01:41:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260619-latest-a-bitcoin-whale-sold-800-btc-worth-502-million-after-holding-for-7-months.html</loc>
+    <lastmod>2026-06-19T23:00:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260619-i-think-if-somebody-made-a-cartoon-tv-show-about-crypto-twitter-the-past-five-ye.html</loc>
+    <lastmod>2026-06-19T22:51:59.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260619-charles-schwab-to-enter-prediction-markets-with-sp-500-wagers-wsj.html</loc>
@@ -31,6 +55,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260619-bitcoin-options-traders-target-52k-by-july-bitcoin-is-trading-near-625k-after-dr.html</loc>
+    <lastmod>2026-06-19T20:35:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260619-whitebit-secures-mica-license-in-austria-ahead-of-july-1-eu-deadline.html</loc>
     <lastmod>2026-06-19T20:07:27.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -39,6 +69,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260619-charles-schwab-planning-to-roll-out-sp-500-prediction-markets-with-cboe-wsj.html</loc>
     <lastmod>2026-06-19T20:02:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260619-alert-bitcoin-traders-are-eyeing-a-potential-sweep-below-59000-but-declining-exc.html</loc>
+    <lastmod>2026-06-19T19:51:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -169,7 +205,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260619-binance-can-serve-philippine-traders-under-sec-framework-blockshoals-says.html</loc>
+    <loc>https://www.librchain.com/news/20260619-blockshoals-lawyer-clarifies-binances-regulatory-status-in-the-philippines.html</loc>
     <lastmod>2026-06-19T12:15:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -177,6 +213,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260619-a-short-story-about-indian-scammers-who-called-the-cops-on-themselves-earlier-th.html</loc>
     <lastmod>2026-06-19T11:52:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260619-insight-a-former-ethereum-foundation-contributor-warns-eths-core-development-eco.html</loc>
+    <lastmod>2026-06-19T11:45:31.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -255,18 +297,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260619-markets-are-closed-today-volatility-is-never-easy-bitcoin-keeps-working-so-do-we.html</loc>
     <lastmod>2026-06-19T06:45:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260619-franklin-templeton-files-etfs-that-turn-stock-dividends-into-bitcoin-exposure.html</loc>
-    <lastmod>2026-06-19T06:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260619-algorand-plans-broad-quantum-resilience-by-2027.html</loc>
-    <lastmod>2026-06-19T05:51:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,32 +505,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260617-bitcoin-payments-are-now-even-easier-on-square-register-your-customers-can-flip-.html</loc>
-    <lastmod>2026-06-17T22:30:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260617-ethereum-is-inspired-by-tools-that-keep-the-internet-open-under-pressure-torproj.html</loc>
-    <lastmod>2026-06-17T17:36:27.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260617-seeing-the-full-picture-why-pre-and-post-designation-exposure-changes-everything.html</loc>
     <lastmod>2026-06-17T17:04:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260617-1-executive-summaryethereum-eth-is-a-public-permissionless-blockchain-that-provi.html</loc>
-    <lastmod>2026-06-17T16:04:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260617-new-top-10-crypto-exchange-with-120m-users-okx-adopts-chainlink-to-unlock-the-80.html</loc>
-    <lastmod>2026-06-17T13:04:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -513,12 +519,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260617-approval-phishing-from-just-one-case-to-full-scale-disruption.html</loc>
     <lastmod>2026-06-17T11:56:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260617-new-illinois-governor-pritzker-has-signed-a-02-tax-on-crypto-transactions-into-l.html</loc>
-    <lastmod>2026-06-17T11:48:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
