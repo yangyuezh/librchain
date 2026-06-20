@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-20T16:45:43.558Z</lastmod>
+    <lastmod>2026-06-20T18:43:44.922Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-20T16:45:43.558Z</lastmod>
+    <lastmod>2026-06-20T18:43:44.922Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260620-openrouters-fusion-promises-claude-fable-level-ai-for-cheapright-as-fable-5-goes.html</loc>
+    <lastmod>2026-06-20T18:01:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260620-ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore.html</loc>
@@ -97,12 +103,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260620-bitcoin-analyst-consensus-currently-leans-bearish-xcom.html</loc>
-    <lastmod>2026-06-20T01:58:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260620-s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board.html</loc>
     <lastmod>2026-06-20T01:41:39.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -121,6 +121,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260619-i-think-if-somebody-made-a-cartoon-tv-show-about-crypto-twitter-the-past-five-ye.html</loc>
+    <lastmod>2026-06-19T22:51:59.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260619-charles-schwab-to-enter-prediction-markets-with-sp-500-wagers-wsj.html</loc>
     <lastmod>2026-06-19T21:11:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -135,6 +141,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260619-13b-bitcoin-options-expiry-looms-will-bulls-endure-more-pain-in-june.html</loc>
     <lastmod>2026-06-19T20:57:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260619-trumps-family-crypto-business-is-expected-to-soon-be-allowed-to-operate-like-a-b.html</loc>
+    <lastmod>2026-06-19T20:25:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -283,14 +295,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260619-the-biggest-bitcoin-treasury-company-on-earth-may-be-entering-its-most-dangerous.html</loc>
-    <lastmod>2026-06-19T12:28:00.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260619-blockshoals-lawyer-clarifies-binances-regulatory-status-in-the-philippines.html</loc>
+    <lastmod>2026-06-19T12:15:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260619-blockshoals-lawyer-clarifies-binances-regulatory-status-in-the-philippines.html</loc>
-    <lastmod>2026-06-19T12:15:20.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260619-a-short-story-about-indian-scammers-who-called-the-cops-on-themselves-earlier-th.html</loc>
+    <lastmod>2026-06-19T11:52:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -391,12 +403,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260618-new-morganstanley-just-filed-amendments-for-both-their-ethereum-and-solana-etfs-.html</loc>
-    <lastmod>2026-06-18T21:15:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260618-cftc-hits-celsius-crypto-fraudster-alex-mashinsky-with-permanent-trading-ban.html</loc>
     <lastmod>2026-06-18T21:02:06.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -441,12 +447,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260618-kentucky-sues-kalshi-polymarket-as-prediction-market-legal-battle-swells.html</loc>
     <lastmod>2026-06-18T18:28:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260618-why-bitcoin-titan-strategys-strc-is-falling-to-new-lows.html</loc>
-    <lastmod>2026-06-18T18:01:42.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
