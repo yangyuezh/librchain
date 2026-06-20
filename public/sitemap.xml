@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-20T18:43:44.922Z</lastmod>
+    <lastmod>2026-06-20T20:38:59.033Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-20T18:43:44.922Z</lastmod>
+    <lastmod>2026-06-20T20:38:59.033Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260620-bitcoin-rotations-into-altcoins-collapses-have-altseasons-aposdisappearedapos.html</loc>
+    <lastmod>2026-06-20T19:09:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260620-openrouters-fusion-promises-claude-fable-level-ai-for-cheapright-as-fable-5-goes.html</loc>
@@ -91,12 +97,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260620-bitcoin-to-altcoin-asset-rotation-that-once-fueled-alt-seasons-has-basically-dis.html</loc>
-    <lastmod>2026-06-20T02:29:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260620-eu-aml-rules-to-impose-10000-cash-payment-cap-and-tighter-crypto-kyc-from-2027-t.html</loc>
     <lastmod>2026-06-20T02:17:42.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -123,6 +123,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260619-i-think-if-somebody-made-a-cartoon-tv-show-about-crypto-twitter-the-past-five-ye.html</loc>
     <lastmod>2026-06-19T22:51:59.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260619-prediction-markets-hit-a-record-108-billion-in-weekly-trading-volume-in-the-week.html</loc>
+    <lastmod>2026-06-19T22:18:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -331,12 +337,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260619-bitcoin-tipped-for-q3-aposmacro-bottomapos-near-50k-as-major-liquidity-grab-loom.html</loc>
-    <lastmod>2026-06-19T10:44:28.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260619-franklin-templeton-files-for-etfs-that-funnel-stock-dividends-into-bitcoin.html</loc>
     <lastmod>2026-06-19T10:01:57.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -351,12 +351,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260619-microsoft-found-malware-that-hijacks-crypto-wallets-and-spreads-through-usb-stic.html</loc>
     <lastmod>2026-06-19T08:48:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260619-bitcoins-biggest-risk-is-not-a-crash-it-is-boredom-saylors-strc-structure-become.html</loc>
-    <lastmod>2026-06-19T08:23:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -399,6 +393,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260618-midjourney-pivots-from-ai-images-to-medical-imaging-aiming-to-build-a-better-mri.html</loc>
     <lastmod>2026-06-18T21:18:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260618-new-morganstanley-just-filed-amendments-for-both-their-ethereum-and-solana-etfs-.html</loc>
+    <lastmod>2026-06-18T21:15:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
