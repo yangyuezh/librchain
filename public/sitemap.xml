@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-21T19:59:26.797Z</lastmod>
+    <lastmod>2026-06-21T21:39:46.114Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-21T19:59:26.797Z</lastmod>
+    <lastmod>2026-06-21T21:39:46.114Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -129,6 +129,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260620-at-least-eight-senior-ethereum-foundation-members-have-departed-in-five-months-a.html</loc>
     <lastmod>2026-06-20T04:57:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260619-the-people-who-are-leaving-the-ethereum-foundation-are-crops-believers-the-probl.html</loc>
+    <lastmod>2026-06-19T23:12:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -259,6 +265,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260619-bitcoins-biggest-risk-is-not-a-crash-it-is-boredom-saylors-strc-structure-become.html</loc>
+    <lastmod>2026-06-19T08:23:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260619-markets-are-closed-today-volatility-is-never-easy-bitcoin-keeps-working-so-do-we.html</loc>
     <lastmod>2026-06-19T06:45:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -301,12 +313,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260618-new-morganstanley-just-filed-amendments-for-both-their-ethereum-and-solana-etfs-.html</loc>
-    <lastmod>2026-06-18T21:15:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260618-cftc-hits-celsius-crypto-fraudster-alex-mashinsky-with-permanent-trading-ban.html</loc>
     <lastmod>2026-06-18T21:02:06.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -321,12 +327,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260618-ethereum-foundation-exodus-continues-as-co-director-hsiao-wei-wang-departs.html</loc>
     <lastmod>2026-06-18T20:16:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260618-ethereum-is-for-shipping-here-are-25-things-the-ethereum-ecosystem-launched-upgr.html</loc>
-    <lastmod>2026-06-18T20:16:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
