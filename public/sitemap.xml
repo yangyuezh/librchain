@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-21T00:19:38.224Z</lastmod>
+    <lastmod>2026-06-21T06:16:54.038Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-21T00:19:38.224Z</lastmod>
+    <lastmod>2026-06-21T06:16:54.038Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260621-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-06-21T04:36:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260621-bitcoin-etfs-shed-a-record-64b-in-30-days-amid-crypto-winter-chill.html</loc>
+    <lastmod>2026-06-21T04:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260621-notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m.html</loc>
@@ -19,8 +31,20 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260620-ripple-ceo-blasts-jpmorgan-intentional-misrepresentation-to-protect-profits-on-j.html</loc>
-    <lastmod>2026-06-20T20:11:00.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260620-ethereums-well-known-mev-bot-jaredfromsubway-exploited-suffers-75-million-loss-b.html</loc>
+    <lastmod>2026-06-20T23:51:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260620-mainstreet-related-msusd-drops-85-morpho-market-hits-100-utilization-amid-liquid.html</loc>
+    <lastmod>2026-06-20T23:37:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260620-bitcoin-price-has-failed-to-break-down-further-makes-me-think-we-are-more-likely.html</loc>
+    <lastmod>2026-06-20T23:08:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -109,12 +133,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260620-bitcoin-to-altcoin-asset-rotation-that-once-fueled-alt-seasons-has-basically-dis.html</loc>
-    <lastmod>2026-06-20T02:29:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260620-eu-aml-rules-to-impose-10000-cash-payment-cap-and-tighter-crypto-kyc-from-2027-t.html</loc>
     <lastmod>2026-06-20T02:17:42.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -139,12 +157,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260619-i-think-if-somebody-made-a-cartoon-tv-show-about-crypto-twitter-the-past-five-ye.html</loc>
-    <lastmod>2026-06-19T22:51:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260619-prediction-markets-hit-a-record-108-billion-in-weekly-trading-volume-in-the-week.html</loc>
     <lastmod>2026-06-19T22:18:59.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -153,12 +165,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260619-charles-schwab-to-enter-prediction-markets-with-sp-500-wagers-wsj.html</loc>
     <lastmod>2026-06-19T21:11:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260619-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-06-19T21:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -247,12 +253,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260619-just-in-while-everyone-else-is-selling-morgan-stanelys-bitcoin-etf-bought-over-2.html</loc>
-    <lastmod>2026-06-19T16:12:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260619-alert-bitcoin-has-not-yet-seen-large-scale-capitulation-typically-associated-wit.html</loc>
     <lastmod>2026-06-19T15:59:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -303,12 +303,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260619-binances-mica-fight-raises-questions-over-ecb-influence.html</loc>
     <lastmod>2026-06-19T13:38:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260619-ethereum-faces-core-development-funding-crisis-former-contributor-warns.html</loc>
-    <lastmod>2026-06-19T13:16:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -399,6 +393,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260618-midjourney-pivots-from-ai-images-to-medical-imaging-aiming-to-build-a-better-mri.html</loc>
     <lastmod>2026-06-18T21:18:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260618-new-morganstanley-just-filed-amendments-for-both-their-ethereum-and-solana-etfs-.html</loc>
+    <lastmod>2026-06-18T21:15:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
