@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2026-06-22T23:41:34.661Z",
-  "total": 81,
+  "updatedAt": "2026-06-23T04:17:50.902Z",
+  "total": 82,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitmine, Sharplink and Joe Lubin back Ethereum R&D nonprofit",
+      "summary": "Sharplink says the new nonprofit, Ethlabs, “exists to ensure the network is ready to absorb” the demand that institutions will place on it with stablecoins, tokenization and AI.",
+      "url": "https://cointelegraph.com/news/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "2026-06-23T03:21:28.000Z",
+      "keywords": [
+        "Latest News",
+        "Tom Lee",
+        "Developers",
+        "ConsenSys"
+      ],
+      "category": "基础设施",
+      "slug": "20260623-bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit",
+      "localUrl": "/news/20260623-bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit.html"
+    },
+    {
+      "source": "Chainalysis Blog",
+      "title": "OFAC Sanctions ISIS Operators for Financing Terror Group with Crypto",
+      "summary": "Summary OFAC designated three individuals and six entities across Europe, the Middle East, and West Africa for facilitating financial transactions… The post OFAC Sanctions ISIS Operators for Financing Terror Group with Crypto appeared firs…",
+      "url": "https://www.chainalysis.com/blog/ofac-sanctions-isis-financial-facilitators-june-2026/",
+      "publishedAt": "2026-06-23T00:27:35.000Z",
+      "keywords": [
+        "Crime",
+        "ISIS",
+        "OFAC",
+        "Sanctions"
+      ],
+      "category": "综合",
+      "slug": "20260623-ofac-sanctions-isis-operators-for-financing-terror-group-with-crypto",
+      "localUrl": "/news/20260623-ofac-sanctions-isis-operators-for-financing-terror-group-with-crypto.html"
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. Senate passes housing bill that carries four-year ban on a Fed CBDC",
@@ -17,6 +49,17 @@
       "category": "监管",
       "slug": "20260622-us-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc",
       "localUrl": "/news/20260622-us-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇺🇸 LATEST: Senator Cynthia Lummis says legal uncertainty is driving crypto developers offshore and is urging Congress to pass the CLARITY Act. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPeU9HR2hoWERET0U4bFgxUi10U2pRcmRlY1FtQjlfM0NZa3hZTURPWTl4T2hJLU93em5MM0wzUnhWZkZYRWF6bDdESDRoV2M3eE8xX3JEUW9pVVFCRHFYelF3MWI?oc=5\" target=\"_blank\">🇺🇸 LATEST: Senator Cynthia Lu…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPeU9HR2hoWERET0U4bFgxUi10U2pRcmRlY1FtQjlfM0NZa3hZTURPWTl4T2hJLU93em5MM0wzUnhWZkZYRWF6bDdESDRoV2M3eE8xX3JEUW9pVVFCRHFYelF3MWI?oc=5",
+      "publishedAt": "2026-06-22T22:30:32.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260622-latest-senator-cynthia-lummis-says-legal-uncertainty-is-driving-crypto-developer",
+      "localUrl": "/news/20260622-latest-senator-cynthia-lummis-says-legal-uncertainty-is-driving-crypto-developer.html"
     },
     {
       "source": "Cointelegraph",
@@ -256,6 +299,17 @@
       "localUrl": "/news/20260622-crypto-industry-urges-congress-to-pass-tax-billbut-will-it-happen-this-year.html"
     },
     {
+      "source": "X Wire",
+      "title": "Five former Ethereum Foundation researchers just launched @ethlabs_org, an independent non-profit R&D lab for Ethereum. Behind the new org: Ansgar Dietrichs, Barnabé Monnot, Caspar Schwarz-Schilling, Josh Rudolf, and Julian Ma Backers: @BitMNR, - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE01R1E2ZmtVeVVVTUMzYTY5NHNyZkhUcXpTNVl1N1psd2lNTnZtZVRIeUxTYjZJQktudWRyTUcyNWdvbEJSQS1tMUtuaDNOT0k5X1NpVjVFOU51cTJMN18wc1p3?oc=5\" target=\"_blank\">Five former Ethereum Foundation re…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01R1E2ZmtVeVVVTUMzYTY5NHNyZkhUcXpTNVl1N1psd2lNTnZtZVRIeUxTYjZJQktudWRyTUcyNWdvbEJSQS1tMUtuaDNOT0k5X1NpVjVFOU51cTJMN18wc1p3?oc=5",
+      "publishedAt": "2026-06-22T18:20:42.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260622-five-former-ethereum-foundation-researchers-just-launched-ethlabs_org-an-indepen",
+      "localUrl": "/news/20260622-five-former-ethereum-foundation-researchers-just-launched-ethlabs_org-an-indepen.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Ethereum MEV Bot JaredFromSubway Threatens Legal Action After $7.5 Million Loss",
       "summary": "The well-known trading bot took a hit this weekend after it fell victim to a series of transactions that left its logic exposed.",
@@ -280,6 +334,17 @@
       "category": "监管",
       "slug": "20260622-ice-and-okx-are-teaming-up-to-bring-tokenized-securities-to-wall-street",
       "localUrl": "/news/20260622-ice-and-okx-are-teaming-up-to-bring-tokenized-securities-to-wall-street.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Extremely excited to announce our support of @ethlabs_org alongside @fundstrat ( @BitMNR), @ethereumjoseph, and other Ethereum stakeholders. Founded by former senior Ethereum Foundation researchers, this independent nonprofit will ready Ethereum - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE16TDFqeEdfNG4tNzc1ZTBmQk1CaUloT3QyU3BqMGZ0QkRUMXdfTThDLVRtLURPeDlncWdUc2JjTF9ETW9waEhDazRuYkk1RDRpd1VQYWdfMGg4aURfbl9F?oc=5\" target=\"_blank\">Extremely excited to announce our supp…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16TDFqeEdfNG4tNzc1ZTBmQk1CaUloT3QyU3BqMGZ0QkRUMXdfTThDLVRtLURPeDlncWdUc2JjTF9ETW9waEhDazRuYkk1RDRpd1VQYWdfMGg4aURfbl9F?oc=5",
+      "publishedAt": "2026-06-22T17:39:50.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260622-extremely-excited-to-announce-our-support-of-ethlabs_org-alongside-fundstrat-bit",
+      "localUrl": "/news/20260622-extremely-excited-to-announce-our-support-of-ethlabs_org-alongside-fundstrat-bit.html"
     },
     {
       "source": "Decrypt",
@@ -501,6 +566,17 @@
       "localUrl": "/news/20260622-strategy-pads-cash-reserves-to-14b-after-strcs-stumble.html"
     },
     {
+      "source": "X Wire",
+      "title": "EF Executive: MEV May Become the Next Major Front in the Cypherpunk War Ethereum Foundation management team member Bastian Aue (Aerugo) said MEV may become “the next major front in the cypherpunk war,” as the EF sharpens its focus on censors - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SSEN4ekhRM05TTjJKXzRxREd3TWV4Z0MxMy1UVjhMaUh1bFpVLWI1QVRGNndOelgwcVhDQXVxdXJxU0h6UC1qeE5EQXFLRV9vM2FxNTZMQzM5UTd5ZUpJQ3lZaw?oc=5\" target=\"_blank\">EF Executive: MEV May Become the…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SSEN4ekhRM05TTjJKXzRxREd3TWV4Z0MxMy1UVjhMaUh1bFpVLWI1QVRGNndOelgwcVhDQXVxdXJxU0h6UC1qeE5EQXFLRV9vM2FxNTZMQzM5UTd5ZUpJQ3lZaw?oc=5",
+      "publishedAt": "2026-06-22T14:47:40.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260622-ef-executive-mev-may-become-the-next-major-front-in-the-cypherpunk-war-ethereum-",
+      "localUrl": "/news/20260622-ef-executive-mev-may-become-the-next-major-front-in-the-cypherpunk-war-ethereum-.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Why Google search can be a crypto wallet risk",
       "summary": "Think your wallet is safe? A major crypto risk may start with a Google search and one wrong click.",
@@ -650,17 +726,6 @@
       "localUrl": "/news/20260622-bitcoin-mining-network-becoming-more-sensitive-to-price-swings-jpmorgan-says.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: $65,000 Bitcoin - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZcjFpWTZIUVhzb0VBNVhHeHFZVW9uSy1NTkNUckFQOW1SM0Q0bVY3dFFZQzMwZWNUV3NWMTA3RkI0ZjcyNG9ubi1vUGM2eEE2bzdOQ3dMSzRzRkdKdXJTOEtR?oc=5\" target=\"_blank\">JUST IN: $65,000 Bitcoin</a> <font…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZcjFpWTZIUVhzb0VBNVhHeHFZVW9uSy1NTkNUckFQOW1SM0Q0bVY3dFFZQzMwZWNUV3NWMTA3RkI0ZjcyNG9ubi1vUGM2eEE2bzdOQ3dMSzRzRkdKdXJTOEtR?oc=5",
-      "publishedAt": "2026-06-22T12:41:24.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260622-just-in-65000-bitcoin-xcom",
-      "localUrl": "/news/20260622-just-in-65000-bitcoin-xcom.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Strategy added $35 million in bitcoin, $300 million in cash reserves last week",
       "summary": "The boost to cash reserves is meant to reassure investors about dividend payments on the company's hard-hit preferred shares, STRC.",
@@ -716,17 +781,6 @@
       "category": "监管",
       "slug": "20260622-bitcoin-resilient-after-hawkish-fed-but-no-return-of-demand-analysts",
       "localUrl": "/news/20260622-bitcoin-resilient-after-hawkish-fed-but-no-return-of-demand-analysts.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Michael Saylor's 'Strategy' buys 520 Bitcoin worth $35 million. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GVjZ2QjBjLXg5cWo0MzQwMWVhYXJ4dG5oQVpSSUdMRDFpWTJ5aTUwdFpJZEdxRjNPa25LSUY1eVFVQV8zaXgxV2JINXBaMlNDQy1ORS1jMWN5RnhtbDZDUkRR?oc=5\" target=\"_blank\">JUST IN: Michael Saylor's 'Strateg…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GVjZ2QjBjLXg5cWo0MzQwMWVhYXJ4dG5oQVpSSUdMRDFpWTJ5aTUwdFpJZEdxRjNPa25LSUY1eVFVQV8zaXgxV2JINXBaMlNDQy1ORS1jMWN5RnhtbDZDUkRR?oc=5",
-      "publishedAt": "2026-06-22T12:05:29.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260622-just-in-michael-saylors-strategy-buys-520-bitcoin-worth-35-million-xcom",
-      "localUrl": "/news/20260622-just-in-michael-saylors-strategy-buys-520-bitcoin-worth-35-million-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -985,23 +1039,6 @@
       "localUrl": "/news/20260622-moneygram-joins-solana-as-validator-expanding-role-in-blockchain-infrastructure.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Morgan Stanley amends Ethereum, Solana ETFs to reveal record cheap fees",
-      "summary": "ETF analyst Eric Balchunas says Morgan Stanley’s plan to charge 0.14% fees on two upcoming crypto ETFs makes them “the cheapest in [the] US and world.”",
-      "url": "https://cointelegraph.com/news/morgan-stanley-amends-ethereum-solana-etfs-to-undercut-rivals-fees?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "2026-06-22T05:40:26.000Z",
-      "keywords": [
-        "Latest News",
-        "ETF",
-        "Ethereum ETF",
-        "Solana",
-        "Morgan Stanley"
-      ],
-      "category": "监管",
-      "slug": "20260622-morgan-stanley-amends-ethereum-solana-etfs-to-reveal-record-cheap-fees",
-      "localUrl": "/news/20260622-morgan-stanley-amends-ethereum-solana-etfs-to-reveal-record-cheap-fees.html"
-    },
-    {
       "source": "X Wire",
       "title": "🔥 LATEST: Bitcoin's Rainbow Chart has fallen below \"Fire Sale\". - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uemI0bzBhMVFZa29ucFVXeWNPbzQ5M0ZGMF8zcGFNRVhpTGFxMHhVOXRTVGFoR2M3Vy1iVjlPN1p6QVZSY1BWYzQyYjN2QjRQSzFJdE56SDVFUTJoMzBaNTU2S0Q?oc=5\" target=\"_blank\">🔥 LATEST: Bitcoin's Rainbow Ch…",
@@ -1051,17 +1088,6 @@
     },
     {
       "source": "X Wire",
-      "title": "My view on the Ethereum Foundation turmoil: I'm not here to join those bashing EF, or saying this is the end of Ethereum. I’m also not here to defend it and say all is rosy. Ethereum has many strengths, and it also has its politics. I'm here to share my point of vie - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aQS1qeGRUalAzTjFYOFVIWGZpVjZDQUoyN1dmemk4TTZ5cGNhNGVvU1RhNXprYnNBRXhmeGpHX1BXOXdFYThOeVF4WEVSV1U4UFg1LThkWlRwXzZsOW1mN1JkVQ?oc=5\" target=\"_blank\">My view on the Ethereum Foundati…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aQS1qeGRUalAzTjFYOFVIWGZpVjZDQUoyN1dmemk4TTZ5cGNhNGVvU1RhNXprYnNBRXhmeGpHX1BXOXdFYThOeVF4WEVSV1U4UFg1LThkWlRwXzZsOW1mN1JkVQ?oc=5",
-      "publishedAt": "2026-06-21T12:12:33.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260621-my-view-on-the-ethereum-foundation-turmoil-im-not-here-to-join-those-bashing-ef-",
-      "localUrl": "/news/20260621-my-view-on-the-ethereum-foundation-turmoil-im-not-here-to-join-those-bashing-ef-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "JUST IN: Ethereum's most notorious sandwich bot, jaredfromsubway.eth, has been drained of $7.5M + An attacker spent weeks deploying fake tokens and liquidity pools to trick the bot into approving transfers, then draining its $WETH, $USDC and $USDT. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE13ei00SVdKSGVybVBRSEpBY2dqLUoxQzhYekhMS0tTZDBGbXpxMExMb2xoeTRBMVp0bm8wTnllNC1sUlh6WUZXUnZRM2g0TUNaQU5pRnQ2MS1jSXhma0E?oc=5\" target=\"_blank\">JUST IN: Ethereum's most notorious sand…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13ei00SVdKSGVybVBRSEpBY2dqLUoxQzhYekhMS0tTZDBGbXpxMExMb2xoeTRBMVp0bm8wTnllNC1sUlh6WUZXUnZRM2g0TUNaQU5pRnQ2MS1jSXhma0E?oc=5",
@@ -1070,17 +1096,6 @@
       "category": "X热点",
       "slug": "20260621-just-in-ethereums-most-notorious-sandwich-bot-jaredfromsubwayeth-has-been-draine",
       "localUrl": "/news/20260621-just-in-ethereums-most-notorious-sandwich-bot-jaredfromsubwayeth-has-been-draine.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Beautifully crafted piece on \"Why Ethereum?\" Very powerful. Some quotes: “The original vision of consortium blockchains – the idea that you have 5 banks or major companies that come together and create their own chain – has been mostly a failure,” Vitalik B - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE94Y0xUUkpGRWhZeTFmdHI1UEhibE5CLVgwaWRJZW5qNzRVb1RYaDNYM2dCZ1Vxc05iVDVnYmFoMnUtOU1lMGZQM0xZZXh6MVpSSGI1Wk44Q3RNMUprRnhOTkNJUHB6UQ?oc=5\" target=\"_blank\">Beautifully crafted piece on…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94Y0xUUkpGRWhZeTFmdHI1UEhibE5CLVgwaWRJZW5qNzRVb1RYaDNYM2dCZ1Vxc05iVDVnYmFoMnUtOU1lMGZQM0xZZXh6MVpSSGI1Wk44Q3RNMUprRnhOTkNJUHB6UQ?oc=5",
-      "publishedAt": "2026-06-21T09:07:56.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260621-beautifully-crafted-piece-on-why-ethereum-very-powerful-some-quotes-the-original",
-      "localUrl": "/news/20260621-beautifully-crafted-piece-on-why-ethereum-very-powerful-some-quotes-the-original.html"
     },
     {
       "source": "X Wire",
