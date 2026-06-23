@@ -1,7 +1,379 @@
 {
-  "updatedAt": "2026-06-23T12:13:51.596Z",
-  "total": 82,
+  "updatedAt": "2026-06-23T16:05:39.210Z",
+  "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Tests Two-Week Low at $62K as Tech Stocks Waver on Wall Street",
+      "summary": "Investors are digesting a hawkish Fed, with risk-off sentiment driving a sell-off in AI and crypto",
+      "url": "https://decrypt.co/371867/bitcoin-tests-two-week-low-at-62k-as-tech-stocks-waver-on-wall-street",
+      "publishedAt": "2026-06-23T15:54:07.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260623-bitcoin-tests-two-week-low-at-62k-as-tech-stocks-waver-on-wall-street",
+      "localUrl": "/news/20260623-bitcoin-tests-two-week-low-at-62k-as-tech-stocks-waver-on-wall-street.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Chainlink joins European and Korean bank consortia to develop FX settlement network",
+      "summary": "Banks across Europe and South Korea will study whether regulated euro and won stablecoins can enable real-time cross-border foreign exchange settlement.",
+      "url": "https://cointelegraph.com/news/chainlink-europe-korea-banks-stablecoin-fx-settlement-project-pangea?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "2026-06-23T15:45:00.000Z",
+      "keywords": [
+        "Latest News",
+        "Stablecoin",
+        "Banks",
+        "Chainlink",
+        "South Korea",
+        "Europe",
+        "FX"
+      ],
+      "category": "市场",
+      "slug": "20260623-chainlink-joins-european-and-korean-bank-consortia-to-develop-fx-settlement-netw",
+      "localUrl": "/news/20260623-chainlink-joins-european-and-korean-bank-consortia-to-develop-fx-settlement-netw.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Chainlink teams up with 47 South Korean, European banks to speed up international money transfers",
+      "summary": "The alliance, called Project Pangea, plans to use stablecoins to settle multimillion-dollar currency trades between Europe and South Korea in near real time.",
+      "url": "https://www.coindesk.com/markets/2026/06/23/chainlink-teams-up-with-47-south-korean-european-banks-to-speed-up-international-money-transfers",
+      "publishedAt": "2026-06-23T15:40:00.000Z",
+      "keywords": [
+        "Markets",
+        "Stablecoins",
+        "banks",
+        "South Korea",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260623-chainlink-teams-up-with-47-south-korean-european-banks-to-speed-up-international",
+      "localUrl": "/news/20260623-chainlink-teams-up-with-47-south-korean-european-banks-to-speed-up-international.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ethereum Foundation Cuts 20% of Workforce in 'Leaner' Reorganization",
+      "summary": "The non-profit is cutting 54 jobs as it reorganizes into focused \"clusters,\" following a succession of leadership departures.",
+      "url": "https://decrypt.co/371864/ethereum-foundation-cuts-20-of-workforce-in-leaner-reorganization",
+      "publishedAt": "2026-06-23T15:19:46.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "基础设施",
+      "slug": "20260623-ethereum-foundation-cuts-20-of-workforce-in-leaner-reorganization",
+      "localUrl": "/news/20260623-ethereum-foundation-cuts-20-of-workforce-in-leaner-reorganization.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin teases $62K breakdown as analysis sees Micron earnings volatility next",
+      "summary": "Bitcoin stayed volatile while bulls tried to preserve support at local lows while stocks prepared for Micron forward earnings and digested Asia losses.",
+      "url": "https://cointelegraph.com/markets/bitcoin-teases-62k-breakdown-as-analysis-sees-micron-earnings-volatility-next?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "2026-06-23T15:15:41.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin Price",
+        "Market Analysis",
+        "Markets"
+      ],
+      "category": "RWA",
+      "slug": "20260623-bitcoin-teases-62k-breakdown-as-analysis-sees-micron-earnings-volatility-next",
+      "localUrl": "/news/20260623-bitcoin-teases-62k-breakdown-as-analysis-sees-micron-earnings-volatility-next.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Vitalik Buterin says Ethereum Foundation will cut budget 40% in major reset",
+      "summary": "The reduction comes on the same day the EF confirmed a 20% reduction in headcount and follows the resignation of co-Executive Director Hsiao-Wei Wang. Her departure brings the total number of senior Ethereum Foundation figures to leave sin…",
+      "url": "https://www.coindesk.com/tech/2026/06/23/vitalik-buterin-says-ethereum-foundation-will-cut-budget-40-in-major-reset",
+      "publishedAt": "2026-06-23T15:00:00.000Z",
+      "keywords": [
+        "Tech",
+        "Ethereum News",
+        "Vitalik Buterin",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260623-vitalik-buterin-says-ethereum-foundation-will-cut-budget-40-in-major-reset",
+      "localUrl": "/news/20260623-vitalik-buterin-says-ethereum-foundation-will-cut-budget-40-in-major-reset.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's recent drop below $60,000 signals Fed, ETF and AI pressures: Deutsche Bank",
+      "summary": "Bitcoin's slump to its lowest level since late 2024 reflects a hawkish Federal Reserve, exchange-traded fund outflows and a shift of capital into AI, the bank said.",
+      "url": "https://www.coindesk.com/markets/2026/06/23/bitcoin-s-recent-drop-below-usd60-000-signals-fed-etf-and-ai-pressures-deutsche-bank",
+      "publishedAt": "2026-06-23T14:54:17.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "ETFs",
+        "Interest Rates",
+        "Deutsche Bank",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260623-bitcoins-recent-drop-below-60000-signals-fed-etf-and-ai-pressures-deutsche-bank",
+      "localUrl": "/news/20260623-bitcoins-recent-drop-below-60000-signals-fed-etf-and-ai-pressures-deutsche-bank.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "This year, the EF is decreasing its budget by roughly 40%, which entails some difficult decisions. The goal of the decreases was set out in the Treasury Management Policy last year: the EF is transitioning into being a long-term-oriented endowment-based orga - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yUktGOWJlLXZuWnFza3hEU2lzY0doSlp5a1ZHVHBiTU02X0JkWFJVZEdMV1lkQzVuNFAyUWM0ejZiVE1MbXNWVXA0cEpmRHUtQXRuWnZnLTk0VndvNnl6TEFoT0NQUQ?oc=5\" target=\"_blank\">This year, the EF is decreas…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yUktGOWJlLXZuWnFza3hEU2lzY0doSlp5a1ZHVHBiTU02X0JkWFJVZEdMV1lkQzVuNFAyUWM0ejZiVE1MbXNWVXA0cEpmRHUtQXRuWnZnLTk0VndvNnl6TEFoT0NQUQ?oc=5",
+      "publishedAt": "2026-06-23T14:44:52.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260623-this-year-the-ef-is-decreasing-its-budget-by-roughly-40-which-entails-some-diffi",
+      "localUrl": "/news/20260623-this-year-the-ef-is-decreasing-its-budget-by-roughly-40-which-entails-some-diffi.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin slump worsens amid SpaceX rout: Can BTC price hold $60K any longer?",
+      "summary": "SpaceX’s $600 billion wipeout rattles tech markets, putting Bitcoin’s $60,000 support at risk as traders brace for a deeper BTC selloff.",
+      "url": "https://cointelegraph.com/markets/bitcoin-slump-worsens-amid-spacex-rout-can-btc-price-hold-60k-any-longer?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "2026-06-23T14:38:32.000Z",
+      "keywords": [
+        "Markets",
+        "Markets",
+        "BTC Markets",
+        "Bitcoin Analysis",
+        "Market Analysis",
+        "Elon Musk",
+        "IPO",
+        "Tech Analysis",
+        "Stocks"
+      ],
+      "category": "市场",
+      "slug": "20260623-bitcoin-slump-worsens-amid-spacex-rout-can-btc-price-hold-60k-any-longer",
+      "localUrl": "/news/20260623-bitcoin-slump-worsens-amid-spacex-rout-can-btc-price-hold-60k-any-longer.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Why tokenized SpaceX shares broke before retail investors could buy them",
+      "summary": "Tokenized SpaceX shares drew more than $1 billion in demand, but many investors received refunds instead. What went wrong?",
+      "url": "https://cointelegraph.com/learn/tokenized-spacex-shares-xstocks-refunds?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "2026-06-23T14:30:00.000Z",
+      "keywords": [
+        "Learn",
+        "RWA Tokenization",
+        "Tokenization",
+        "Binance"
+      ],
+      "category": "RWA",
+      "slug": "20260623-why-tokenized-spacex-shares-broke-before-retail-investors-could-buy-them",
+      "localUrl": "/news/20260623-why-tokenized-spacex-shares-broke-before-retail-investors-could-buy-them.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Ethereum Foundation fires 20% of its staff. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxUG5fVkl1QlY3aVpPU0w1QmNxcERJOU16bGFKeE5oT3dEcWd2WFVoLVNTTEg2c1huSjB0d0dkR283WGZobm52Nm1CZ05iaXoydkY4c0l6Q1lmdU9fNWEtQzl3?oc=5\" target=\"_blank\">JUST IN: Ethereum Foundation fires…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxUG5fVkl1QlY3aVpPU0w1QmNxcERJOU16bGFKeE5oT3dEcWd2WFVoLVNTTEg2c1huSjB0d0dkR283WGZobm52Nm1CZ05iaXoydkY4c0l6Q1lmdU9fNWEtQzl3?oc=5",
+      "publishedAt": "2026-06-23T14:02:20.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260623-just-in-ethereum-foundation-fires-20-of-its-staff-xcom",
+      "localUrl": "/news/20260623-just-in-ethereum-foundation-fires-20-of-its-staff-xcom.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The SEC delayed tokenizing stocks, and here’s why that’s a relief",
+      "summary": "Before we rush to tokenize U.S. equities, we need compliance systems that understand context, not just checkboxes. Investors like Michael Burry see the danger, so should the rest of us, urges Chamarajnagar.",
+      "url": "https://www.coindesk.com/opinion/2026/06/23/the-sec-delayed-tokenizing-stocks-and-here-s-why-that-s-a-relief",
+      "publishedAt": "2026-06-23T14:01:44.000Z",
+      "keywords": [
+        "Opinion",
+        "SEC",
+        "Opinion"
+      ],
+      "category": "监管",
+      "slug": "20260623-the-sec-delayed-tokenizing-stocks-and-heres-why-thats-a-relief",
+      "localUrl": "/news/20260623-the-sec-delayed-tokenizing-stocks-and-heres-why-thats-a-relief.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum Foundation cuts 20% of staff amid leadership exodus",
+      "summary": "The reduction follows a period of significant upheaval at the organization’s leadership level.",
+      "url": "https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus",
+      "publishedAt": "2026-06-23T13:45:22.000Z",
+      "keywords": [
+        "Tech",
+        "Ethereum News",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260623-ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus",
+      "localUrl": "/news/20260623-ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Thailand Expands Crypto Mining Probe Into $300M Chinese Laundering Network",
+      "summary": "Thailand's DSI says a Chinese \"grey capital\" network used illegal crypto mining and cash mules to launder more than $300 million a year.",
+      "url": "https://decrypt.co/371854/thailand-expands-crypto-mining-probe-into-300m-chinese-laundering-network",
+      "publishedAt": "2026-06-23T13:40:47.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260623-thailand-expands-crypto-mining-probe-into-300m-chinese-laundering-network",
+      "localUrl": "/news/20260623-thailand-expands-crypto-mining-probe-into-300m-chinese-laundering-network.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin may need to plunge 15% or more to mark bottom, according to this long-time indicator",
+      "summary": "With bitcoin testing its 200 week moving average, on-chain data suggests the $50,000 to $54,000 range could become the next key battleground.",
+      "url": "https://www.coindesk.com/markets/2026/06/23/bitcoin-may-need-to-plunge-15-or-more-to-mark-bottom-according-to-this-long-time-indicator",
+      "publishedAt": "2026-06-23T13:08:31.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260623-bitcoin-may-need-to-plunge-15-or-more-to-mark-bottom-according-to-this-long-time",
+      "localUrl": "/news/20260623-bitcoin-may-need-to-plunge-15-or-more-to-mark-bottom-according-to-this-long-time.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "2026-06-23T13:07:43.000Z",
+      "keywords": [
+        "Latest News",
+        "MiCA",
+        "CBDC",
+        "BIS",
+        "Stablecoin",
+        "Central Bank"
+      ],
+      "category": "监管",
+      "slug": "20260623-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260623-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Former Robinhood Crypto COO Tanya Denisova joins stablecoin issuer Agora as head of operations",
+      "summary": "The former Robinhood Crypto executive will oversee operations as Agora scales its rapidly growing AUSD stablecoin business.",
+      "url": "https://www.coindesk.com/business/2026/06/23/former-robinhood-crypto-coo-tanya-denisova-joins-stablecoin-issuer-agora-as-head-of-operations",
+      "publishedAt": "2026-06-23T13:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Robinhood",
+        "Exclusive",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260623-former-robinhood-crypto-coo-tanya-denisova-joins-stablecoin-issuer-agora-as-head",
+      "localUrl": "/news/20260623-former-robinhood-crypto-coo-tanya-denisova-joins-stablecoin-issuer-agora-as-head.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "In Clarity Act's final weeks, its path through U.S. Senate not getting much clearer",
+      "summary": "Tough negotiations linger in several difficult arenas, but crypto's Washington lobbyists are flying in allies this week and still hoping for a July vote.",
+      "url": "https://www.coindesk.com/news-analysis/2026/06/22/in-clarity-act-s-final-weeks-its-path-through-u-s-senate-not-getting-much-clearer",
+      "publishedAt": "2026-06-23T13:00:00.000Z",
+      "keywords": [
+        "News Analysis",
+        "Clarity Act",
+        "Regulation",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260623-in-clarity-acts-final-weeks-its-path-through-us-senate-not-getting-much-clearer",
+      "localUrl": "/news/20260623-in-clarity-acts-final-weeks-its-path-through-us-senate-not-getting-much-clearer.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kalshi adds India to growing list of restricted jurisdictions",
+      "summary": "Kalshi has added India to its list of 55 restricted jurisdictions, months after Indian authorities warned VPN providers to stop facilitating access to these platforms.",
+      "url": "https://cointelegraph.com/news/kalshi-adds-india-restricted-jurisdictions?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "2026-06-23T12:40:13.000Z",
+      "keywords": [
+        "Latest News",
+        "India",
+        "Kalshi",
+        "Polymarket",
+        "Prediction Markets",
+        "Law"
+      ],
+      "category": "监管",
+      "slug": "20260623-kalshi-adds-india-to-growing-list-of-restricted-jurisdictions",
+      "localUrl": "/news/20260623-kalshi-adds-india-to-growing-list-of-restricted-jurisdictions.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The ECB digital euro takes step forward after winning key European Parliament vote",
+      "summary": "EU lawmakers backed a legal framework to develop an ECB digital currency by 2029 so the continent can stop relying entirely on U.S. credit card and stablecoin giants.",
+      "url": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
+      "publishedAt": "2026-06-23T12:37:20.000Z",
+      "keywords": [
+        "Policy",
+        "Stablecoins",
+        "ECB",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260623-the-ecb-digital-euro-takes-step-forward-after-winning-key-european-parliament-vo",
+      "localUrl": "/news/20260623-the-ecb-digital-euro-takes-step-forward-after-winning-key-european-parliament-vo.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Franklin Templeton closes 250 Digital acquisition deal and sets up new Franklin Crypto division",
+      "summary": "The $1.7 trillion asset manager did not disclose the amount paid for the acquisition of 250 Digital but revealed its plans for a new corporate division exclusively for crypto investments.",
+      "url": "https://www.coindesk.com/business/2026/06/23/franklin-templeton-closes-250-digital-acquisition-deal-and-sets-up-new-franklin-crypto-division",
+      "publishedAt": "2026-06-23T12:35:57.000Z",
+      "keywords": [
+        "Finance",
+        "Institutional Investors",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260623-franklin-templeton-closes-250-digital-acquisition-deal-and-sets-up-new-franklin-",
+      "localUrl": "/news/20260623-franklin-templeton-closes-250-digital-acquisition-deal-and-sets-up-new-franklin-.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "EU committee advances digital euro bill after key vote",
+      "summary": "EU lawmakers backed rules for an offline and online digital euro, with privacy safeguards, holding limits and no interest payments.",
+      "url": "https://cointelegraph.com/news/eu-committee-digital-euro-cbdc-bill-key-vote?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "2026-06-23T12:24:54.000Z",
+      "keywords": [
+        "Latest News",
+        "European Union",
+        "Euro",
+        "CBDC",
+        "Law"
+      ],
+      "category": "监管",
+      "slug": "20260623-eu-committee-advances-digital-euro-bill-after-key-vote",
+      "localUrl": "/news/20260623-eu-committee-advances-digital-euro-bill-after-key-vote.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Fomo's $75M Raise Shows Big VCs Are Still Betting on Consumer Crypto",
+      "summary": "Crypto majors are selling off as big Tech gets routed; Saylor is hoarding cash; and ETH heavyweights team up to fund R&D with ETHLabs.",
+      "url": "https://decrypt.co/371851/morning-minute-fomos-75m-raise-shows-big-vcs-are-still-betting-on-consumer-crypto",
+      "publishedAt": "2026-06-23T12:23:09.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "市场",
+      "slug": "20260623-morning-minute-fomos-75m-raise-shows-big-vcs-are-still-betting-on-consumer-crypt",
+      "localUrl": "/news/20260623-morning-minute-fomos-75m-raise-shows-big-vcs-are-still-betting-on-consumer-crypt.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy's STRC slump prompts Terra comparisons that don't hold up, says analyst",
+      "summary": "Benchmark's Mark Palmer says the comparison misreads what STRC is — a dividend-paying share backed indirectly by bitcoin, not a peg waiting to break.",
+      "url": "https://www.coindesk.com/markets/2026/06/23/strategy-s-strc-slid-below-par-reviving-terra-comparisons-that-don-t-hold-up",
+      "publishedAt": "2026-06-23T12:14:07.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260623-strategys-strc-slump-prompts-terra-comparisons-that-dont-hold-up-says-analyst",
+      "localUrl": "/news/20260623-strategys-strc-slump-prompts-terra-comparisons-that-dont-hold-up-says-analyst.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Former BIS chief softens stance on stablecoins, backs coexistence with fiat",
@@ -193,7 +565,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin drops to $62,000 as South Korea's Kospi crashes 10%",
+      "title": "Live updates: Bitcoin drops to $62,000 as Nasdaq sinks 2% following Korea's market plunge",
       "summary": "The fast decline in prices set off $700 million in forced liquidations across the market.",
       "url": "https://www.coindesk.com/markets/2026/06/23/live-updates-an-altcoin-season-signal-flashed-but-bitcoin-s-slide-is-what-set-it-off",
       "publishedAt": "2026-06-23T06:30:21.000Z",
@@ -203,8 +575,8 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260623-live-updates-bitcoin-drops-to-62000-as-south-koreas-kospi-crashes-10",
-      "localUrl": "/news/20260623-live-updates-bitcoin-drops-to-62000-as-south-koreas-kospi-crashes-10.html"
+      "slug": "20260623-live-updates-bitcoin-drops-to-62000-as-nasdaq-sinks-2-following-koreas-market-pl",
+      "localUrl": "/news/20260623-live-updates-bitcoin-drops-to-62000-as-nasdaq-sinks-2-following-koreas-market-pl.html"
     },
     {
       "source": "CoinDesk",
@@ -249,22 +621,6 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "2026-06-23T06:00:00.000Z",
-      "keywords": [
-        "Latest News",
-        "Binance",
-        "MiCA",
-        "CBDC"
-      ],
-      "category": "监管",
-      "slug": "20260623-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260623-heres-what-happened-in-crypto-today.html"
-    },
-    {
-      "source": "Cointelegraph",
       "title": "US Senate passes housing bill with CBDC ban until 2030",
       "summary": "The Senate voted 85-5 to pass a major housing affordability bill that includes a ban on the Federal Reserve making a central bank digital currency until 2030.",
       "url": "https://cointelegraph.com/news/senate-passes-housing-bill-that-includes-a-cbdc-ban-through-2030?utm_source=rss&utm_medium=rss&utm_campaign=rss",
@@ -292,21 +648,6 @@
       "category": "市场",
       "slug": "20260623-bitcoin-falls-under-63000-as-a-tech-selloff-drags-risk-assets-lower",
       "localUrl": "/news/20260623-bitcoin-falls-under-63000-as-a-tech-selloff-drags-risk-assets-lower.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump signs orders to build a quantum computer and protect against the one that could break encryption",
-      "summary": "The White House issued twin executive orders to accelerate U.S. development of large-scale quantum computers while simultaneously hardening defenses against such machines.",
-      "url": "https://www.coindesk.com/tech/2026/06/23/trump-signs-orders-to-build-a-quantum-computer-and-protect-against-the-one-that-could-break-encryption",
-      "publishedAt": "2026-06-23T05:15:16.000Z",
-      "keywords": [
-        "Tech",
-        "quantum computing",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260623-trump-signs-orders-to-build-a-quantum-computer-and-protect-against-the-one-that-",
-      "localUrl": "/news/20260623-trump-signs-orders-to-build-a-quantum-computer-and-protect-against-the-one-that-.html"
     },
     {
       "source": "Cointelegraph",
@@ -379,20 +720,17 @@
       "localUrl": "/news/20260623-ofac-sanctions-isis-operators-for-financing-terror-group-with-crypto.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. Senate passes housing bill that carries four-year ban on a Fed CBDC",
-      "summary": "The idea of a U.S. central bank digital currency — though little more than a research topic at the Federal Reserve — may be getting formally blocked.",
-      "url": "https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc",
-      "publishedAt": "2026-06-22T23:01:15.000Z",
+      "source": "Ethereum Blog",
+      "title": "The EF’s new structure",
+      "summary": "Today, the EF is changing shape, concluding a months-long process of reorganization as part of the implementation of the Mandate and the Treasury Management Policy. We come out of this process with the structure, activities, and people nec…",
+      "url": "https://blog.ethereum.org/en/2026/06/23/ef-structure",
+      "publishedAt": "2026-06-23T00:00:00.000Z",
       "keywords": [
-        "Policy",
-        "CBDC",
-        "Regulation",
-        "News"
+        "Organizational"
       ],
       "category": "监管",
-      "slug": "20260622-us-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc",
-      "localUrl": "/news/20260622-us-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc.html"
+      "slug": "20260623-the-efs-new-structure",
+      "localUrl": "/news/20260623-the-efs-new-structure.html"
     },
     {
       "source": "Cointelegraph",
@@ -412,54 +750,6 @@
       "category": "监管",
       "slug": "20260622-bitcoin-funding-rate-hits-2-week-high-is-70k-next",
       "localUrl": "/news/20260622-bitcoin-funding-rate-hits-2-week-high-is-70k-next.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Securitize and tZERO clash over patents as race to bring Wall Street onchain heats up",
-      "summary": "tZERO and Securitize are squaring off over tokenization patents as the market attracts more of Wall Street's attention.",
-      "url": "https://www.coindesk.com/business/2026/06/22/securitize-and-tzero-clash-over-patents-as-race-to-bring-wall-street-onchain-heats-up",
-      "publishedAt": "2026-06-22T21:08:50.000Z",
-      "keywords": [
-        "Finance",
-        "Tokenization",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260622-securitize-and-tzero-clash-over-patents-as-race-to-bring-wall-street-onchain-hea",
-      "localUrl": "/news/20260622-securitize-and-tzero-clash-over-patents-as-race-to-bring-wall-street-onchain-hea.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ric Edelman says crypto’s biggest growth story is happening off the price chart",
-      "summary": "Crypto prices remain under pressure, but Ric Edelman says institutional adoption and tokenization are accelerating behind the scenes.",
-      "url": "https://www.coindesk.com/markets/2026/06/22/ric-edelman-says-crypto-s-biggest-growth-story-is-happening-off-the-price-chart",
-      "publishedAt": "2026-06-22T20:58:40.000Z",
-      "keywords": [
-        "Markets",
-        "Media Network Interview",
-        "Tokenization",
-        "Clarity Act",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260622-ric-edelman-says-cryptos-biggest-growth-story-is-happening-off-the-price-chart",
-      "localUrl": "/news/20260622-ric-edelman-says-cryptos-biggest-growth-story-is-happening-off-the-price-chart.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "21Shares co-founder warns tokenization hype is outrunning Wall Street reality",
-      "summary": "Tokenization can improve settlement and asset movement, but key pieces of financial infrastructure remain unprepared for institutional-scale adoption.",
-      "url": "https://www.coindesk.com/markets/2026/06/22/21shares-co-founder-warns-tokenization-hype-is-outrunning-wall-street-reality",
-      "publishedAt": "2026-06-22T20:53:39.000Z",
-      "keywords": [
-        "Markets",
-        "Media Network Interview",
-        "Tokenization",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260622-21shares-co-founder-warns-tokenization-hype-is-outrunning-wall-street-reality",
-      "localUrl": "/news/20260622-21shares-co-founder-warns-tokenization-hype-is-outrunning-wall-street-reality.html"
     },
     {
       "source": "Decrypt",
@@ -490,20 +780,6 @@
       "category": "监管",
       "slug": "20260622-franklin-templeton-launches-dedicated-crypto-division-after-closing-250-digital-",
       "localUrl": "/news/20260622-franklin-templeton-launches-dedicated-crypto-division-after-closing-250-digital-.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Strive says digital credit selloff was a liquidation event, not a credit crisis",
-      "summary": "A sharp selloff in digital credit products exposed growing pains in a young market, a Strive executive argues the underlying credit fundamentals remain intact.",
-      "url": "https://www.coindesk.com/markets/2026/06/22/strive-says-digital-credit-selloff-was-a-liquidation-event-not-a-credit-crisis",
-      "publishedAt": "2026-06-22T20:14:02.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260622-strive-says-digital-credit-selloff-was-a-liquidation-event-not-a-credit-crisis",
-      "localUrl": "/news/20260622-strive-says-digital-credit-selloff-was-a-liquidation-event-not-a-credit-crisis.html"
     },
     {
       "source": "Decrypt",
@@ -573,21 +849,6 @@
       "localUrl": "/news/20260622-new-bitcoin-long-term-holder-supply-hits-an-all-time-high-of-1664m-btc-83-of-the.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Ether’s biggest corporate holders back new Ethereum research hub",
-      "summary": "Ethlabs was formed with support from SharpLink, Bitmine and Consensys CEO Joe Lubin as the network's development is expanding beyond the Ethereum Foundation.",
-      "url": "https://www.coindesk.com/business/2026/06/22/ether-s-biggest-corporate-holders-back-new-ethereum-research-hub",
-      "publishedAt": "2026-06-22T19:20:45.000Z",
-      "keywords": [
-        "Finance",
-        "Ethereum News",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260622-ethers-biggest-corporate-holders-back-new-ethereum-research-hub",
-      "localUrl": "/news/20260622-ethers-biggest-corporate-holders-back-new-ethereum-research-hub.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Solana grabs 95% of tokenized equity as traders debate if SOL bottom is in",
       "summary": "Solana captured 95% of tokenized equity volumes as analysts debate whether $60 was the bottom for SOL.",
@@ -625,14 +886,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Five former Ethereum Foundation researchers just launched @ethlabs_org, an independent non-profit R&D lab for Ethereum. Behind the new org: Ansgar Dietrichs, Barnabé Monnot, Caspar Schwarz-Schilling, Josh Rudolf, and Julian Ma Backers: @BitMNR, - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE01R1E2ZmtVeVVVTUMzYTY5NHNyZkhUcXpTNVl1N1psd2lNTnZtZVRIeUxTYjZJQktudWRyTUcyNWdvbEJSQS1tMUtuaDNOT0k5X1NpVjVFOU51cTJMN18wc1p3?oc=5\" target=\"_blank\">Five former Ethereum Foundation re…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01R1E2ZmtVeVVVTUMzYTY5NHNyZkhUcXpTNVl1N1psd2lNTnZtZVRIeUxTYjZJQktudWRyTUcyNWdvbEJSQS1tMUtuaDNOT0k5X1NpVjVFOU51cTJMN18wc1p3?oc=5",
-      "publishedAt": "2026-06-22T18:20:42.000Z",
+      "title": "🚨 JUST IN: Former Ethereum Foundation contributors have launched Ethlabs, a nonprofit research and development lab focused on Ethereum and ETH. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZaWRqZ0tkemtaZmFDb0VlUzR2eUJRaVc0NTZEVDZqNWhla0lCZHVGSjJ4WlFqTk1aalpXRjNLWmRpcHV4QXA5dl9DV28xRmxjTzBfR1V1NjVWeko5dnVHczllWlc?oc=5\" target=\"_blank\">🚨 JUST IN: Former Ethereum Fou…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZaWRqZ0tkemtaZmFDb0VlUzR2eUJRaVc0NTZEVDZqNWhla0lCZHVGSjJ4WlFqTk1aalpXRjNLWmRpcHV4QXA5dl9DV28xRmxjTzBfR1V1NjVWeko5dnVHczllWlc?oc=5",
+      "publishedAt": "2026-06-22T18:50:30.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260622-five-former-ethereum-foundation-researchers-just-launched-ethlabs_org-an-indepen",
-      "localUrl": "/news/20260622-five-former-ethereum-foundation-researchers-just-launched-ethlabs_org-an-indepen.html"
+      "slug": "20260622-just-in-former-ethereum-foundation-contributors-have-launched-ethlabs-a-nonprofi",
+      "localUrl": "/news/20260622-just-in-former-ethereum-foundation-contributors-have-launched-ethlabs-a-nonprofi.html"
     },
     {
       "source": "Decrypt",
@@ -659,17 +920,6 @@
       "category": "监管",
       "slug": "20260622-ice-and-okx-are-teaming-up-to-bring-tokenized-securities-to-wall-street",
       "localUrl": "/news/20260622-ice-and-okx-are-teaming-up-to-bring-tokenized-securities-to-wall-street.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Extremely excited to announce our support of @ethlabs_org alongside @fundstrat ( @BitMNR), @ethereumjoseph, and other Ethereum stakeholders. Founded by former senior Ethereum Foundation researchers, this independent nonprofit will ready Ethereum - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE16TDFqeEdfNG4tNzc1ZTBmQk1CaUloT3QyU3BqMGZ0QkRUMXdfTThDLVRtLURPeDlncWdUc2JjTF9ETW9waEhDazRuYkk1RDRpd1VQYWdfMGg4aURfbl9F?oc=5\" target=\"_blank\">Extremely excited to announce our supp…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16TDFqeEdfNG4tNzc1ZTBmQk1CaUloT3QyU3BqMGZ0QkRUMXdfTThDLVRtLURPeDlncWdUc2JjTF9ETW9waEhDazRuYkk1RDRpd1VQYWdfMGg4aURfbl9F?oc=5",
-      "publishedAt": "2026-06-22T17:39:50.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260622-extremely-excited-to-announce-our-support-of-ethlabs_org-alongside-fundstrat-bit",
-      "localUrl": "/news/20260622-extremely-excited-to-announce-our-support-of-ethlabs_org-alongside-fundstrat-bit.html"
     },
     {
       "source": "Decrypt",
@@ -707,46 +957,15 @@
       "localUrl": "/news/20260622-new-ethereum-org-just-dropped-while-the-ef-is-shrinking-its-mandate-and-more-foc.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Andrew Cuomo to lead joint TradFi-crypto venture between OKX and Intercontinental Exchange",
-      "summary": "The venture is subject to regulatory approvals but will be co-chaired by ICE and former New York Governor Andrew Cuomo, who began working with OKX in 2023.",
-      "url": "https://cointelegraph.com/news/andrew-cuomo-okx-intercontinental-exchange-venture?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "2026-06-22T16:53:35.000Z",
-      "keywords": [
-        "Latest News",
-        "New York",
-        "OKX",
-        "Cryptocurrencies",
-        "Finance",
-        "Cryptocurrency Exchange"
-      ],
-      "category": "监管",
-      "slug": "20260622-andrew-cuomo-to-lead-joint-tradfi-crypto-venture-between-okx-and-intercontinenta",
-      "localUrl": "/news/20260622-andrew-cuomo-to-lead-joint-tradfi-crypto-venture-between-okx-and-intercontinenta.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin weekly close above $63K amid RSI divergence may be bottom signal: Data",
-      "summary": "Bitcoin's repeated weekly candle close above $63,000 align with signals that may mark a market bottom.",
-      "url": "https://cointelegraph.com/markets/bitcoin-holds-63k-as-three-market-signals-remain-supportive?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "2026-06-22T16:52:38.000Z",
-      "keywords": [
-        "Markets",
-        "Markets",
-        "BTC Markets",
-        "Price Analysis",
-        "Market Analysis",
-        "Cryptocurrencies",
-        "Cryptocurrency Exchange",
-        "Bitcoin Futures",
-        "Derivatives",
-        "Binance",
-        "Bitcoin ETF",
-        "Funding"
-      ],
-      "category": "监管",
-      "slug": "20260622-bitcoin-weekly-close-above-63k-amid-rsi-divergence-may-be-bottom-signal-data",
-      "localUrl": "/news/20260622-bitcoin-weekly-close-above-63k-amid-rsi-divergence-may-be-bottom-signal-data.html"
+      "source": "X Wire",
+      "title": "We just announced Ethlabs ( @ethlabs_org). Its mission is stewarding the growth of Ethereum and ETH. Here is why I decided to stay in Ethereum after four years at the Foundation. We are at the moment Ethereum was built for. Adoption is here. Blokchains ar - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tS2tSb2ZXRUxDaFJseHRmRU9VRlFaS0tkaFVKNFFZejFQT0ZVNjB0S3hvN1VqSTk0RkZJUU13b1VtRkpsd2dHMENiV0ZxSDhWYzNnNVFyWXhaODVXSEhF?oc=5\" target=\"_blank\">We just announced Ethlabs ( @ethlabs_o…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tS2tSb2ZXRUxDaFJseHRmRU9VRlFaS0tkaFVKNFFZejFQT0ZVNjB0S3hvN1VqSTk0RkZJUU13b1VtRkpsd2dHMENiV0ZxSDhWYzNnNVFyWXhaODVXSEhF?oc=5",
+      "publishedAt": "2026-06-22T17:05:49.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260622-we-just-announced-ethlabs-ethlabs_org-its-mission-is-stewarding-the-growth-of-et",
+      "localUrl": "/news/20260622-we-just-announced-ethlabs-ethlabs_org-its-mission-is-stewarding-the-growth-of-et.html"
     },
     {
       "source": "Decrypt",
@@ -760,65 +979,6 @@
       "category": "综合",
       "slug": "20260622-bank-of-england-eases-stablecoin-rules-swaps-holding-caps-for-40b-guardrail",
       "localUrl": "/news/20260622-bank-of-england-eases-stablecoin-rules-swaps-holding-caps-for-40b-guardrail.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ethereum Foundation talent exodus sparks fresh debate over leadership",
-      "summary": "The Ethereum community is once again debating the future of the foundation after co-executive director Hsiao-Wei Wang announced she would step down.",
-      "url": "https://www.coindesk.com/tech/2026/06/22/ethereum-foundation-talent-exodus-sparks-fresh-debate-over-leadership",
-      "publishedAt": "2026-06-22T16:39:41.000Z",
-      "keywords": [
-        "Tech",
-        "Ethereum News",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260622-ethereum-foundation-talent-exodus-sparks-fresh-debate-over-leadership",
-      "localUrl": "/news/20260622-ethereum-foundation-talent-exodus-sparks-fresh-debate-over-leadership.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto's second U.S. lobbying front — tax policy — sees industry push on mining, staking",
-      "summary": "The crypto sector's leading U.S. advocacy groups asked the U.S. House's tax committee to advance a bill to clarify treatment of assets from mining and staking.",
-      "url": "https://www.coindesk.com/policy/2026/06/22/crypto-s-second-u-s-lobbying-front-tax-policy-sees-industry-push-on-mining-staking",
-      "publishedAt": "2026-06-22T15:56:13.000Z",
-      "keywords": [
-        "Policy",
-        "Mining",
-        "Regulation",
-        "Tax",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260622-cryptos-second-us-lobbying-front-tax-policy-sees-industry-push-on-mining-staking",
-      "localUrl": "/news/20260622-cryptos-second-us-lobbying-front-tax-policy-sees-industry-push-on-mining-staking.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price taps $65.5K as Iran deal sees oil drop toward 16-week low",
-      "summary": "Bitcoin sought a breakout toward a potential BTC price target near $70,000 as Iran news sent oil toward its lowest levels since early March.",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-taps-655k-as-iran-deal-sees-oil-drop-toward-16-week-low?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "2026-06-22T15:48:49.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin Price",
-        "Markets",
-        "Market Analysis"
-      ],
-      "category": "市场",
-      "slug": "20260622-bitcoin-price-taps-655k-as-iran-deal-sees-oil-drop-toward-16-week-low",
-      "localUrl": "/news/20260622-bitcoin-price-taps-655k-as-iran-deal-sees-oil-drop-toward-16-week-low.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "There have recently been claims that AI text analysis will make online anonymity untenable. So let me cannibalize a piece of my own anonymity to do an experiment. At some point this decade, I wrote a published document of medium importance to Ethereum - - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UNUVFbWRtaFdaUUJ6OWtWenNWZTZYbGd4M1I2VDJyeDA0LXZEZDREamZtOVBweW1VUW1uVWk3TEpyTmx2NzNrTHd4eXNxWElkcGkzdzdWb2dWZk45TmpZWU5lX3ozQQ?oc=5\" target=\"_blank\">There have recently been cla…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UNUVFbWRtaFdaUUJ6OWtWenNWZTZYbGd4M1I2VDJyeDA0LXZEZDREamZtOVBweW1VUW1uVWk3TEpyTmx2NzNrTHd4eXNxWElkcGkzdzdWb2dWZk45TmpZWU5lX3ozQQ?oc=5",
-      "publishedAt": "2026-06-22T15:32:03.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260622-there-have-recently-been-claims-that-ai-text-analysis-will-make-online-anonymity",
-      "localUrl": "/news/20260622-there-have-recently-been-claims-that-ai-text-analysis-will-make-online-anonymity.html"
     },
     {
       "source": "X Wire",
@@ -871,24 +1031,6 @@
       "localUrl": "/news/20260622-morning-minute-bitcoin-at-65000-as-iran-deal-wobbles.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Anchorage aims to bring banks onchain with new tokenized deposit platform",
-      "summary": "The crypto bank aims to help financial institutions offer round-the-clock payments and settlement without replacing their core systems.",
-      "url": "https://www.coindesk.com/business/2026/06/19/anchorage-aims-to-bring-banks-onchain-with-new-tokenized-deposit-platform",
-      "publishedAt": "2026-06-22T15:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Tokenization",
-        "tokenized deposits",
-        "Anchorage Digital",
-        "Exclusive",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260622-anchorage-aims-to-bring-banks-onchain-with-new-tokenized-deposit-platform",
-      "localUrl": "/news/20260622-anchorage-aims-to-bring-banks-onchain-with-new-tokenized-deposit-platform.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Strategy Pads Cash Reserves to $1.4B After STRC's Stumble",
       "summary": "Michael Saylor’s firm topped up its USD cash reserve to $1.4 billion as it made its smallest Bitcoin buy since selling 32 BTC three weeks ago",
@@ -911,89 +1053,6 @@
       "category": "X热点",
       "slug": "20260622-ef-executive-mev-may-become-the-next-major-front-in-the-cypherpunk-war-ethereum-",
       "localUrl": "/news/20260622-ef-executive-mev-may-become-the-next-major-front-in-the-cypherpunk-war-ethereum-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Why Google search can be a crypto wallet risk",
-      "summary": "Think your wallet is safe? A major crypto risk may start with a Google search and one wrong click.",
-      "url": "https://cointelegraph.com/learn/fake-google-ads-crypto-wallet-security?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "2026-06-22T14:30:00.000Z",
-      "keywords": [
-        "Learn",
-        "Scams",
-        "Mobile Wallet",
-        "Google"
-      ],
-      "category": "综合",
-      "slug": "20260622-why-google-search-can-be-a-crypto-wallet-risk",
-      "localUrl": "/news/20260622-why-google-search-can-be-a-crypto-wallet-risk.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Enso launches RWA app and trading for over 500 tokenized assets",
-      "summary": "Enso launched access to over 500 tokenized assets and US stocks, citing a growing demand for US equity exposure among European investors.",
-      "url": "https://cointelegraph.com/news/enso-launches-rwa-app-trading-500-tokenized-assets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "2026-06-22T14:00:00.000Z",
-      "keywords": [
-        "Latest News",
-        "RWA Tokenization",
-        "Tokenization",
-        "Stocks",
-        "Stock Investment",
-        "Cryptocurrency Exchange",
-        "Europe"
-      ],
-      "category": "RWA",
-      "slug": "20260622-enso-launches-rwa-app-and-trading-for-over-500-tokenized-assets",
-      "localUrl": "/news/20260622-enso-launches-rwa-app-and-trading-for-over-500-tokenized-assets.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "MoneyGram joins Solana as validator amid stablecoin payment push",
-      "summary": "The remittances firm has become a validator on the Solana blockchain, helping process and secure transactions as it expands its stablecoin payments strategy.",
-      "url": "https://www.coindesk.com/business/2026/06/22/moneygram-joins-solana-as-validator-amid-stablecoin-payment-push",
-      "publishedAt": "2026-06-22T13:53:16.000Z",
-      "keywords": [
-        "Finance",
-        "Solana News",
-        "MoneyGram",
-        "Stablecoins",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260622-moneygram-joins-solana-as-validator-amid-stablecoin-payment-push",
-      "localUrl": "/news/20260622-moneygram-joins-solana-as-validator-amid-stablecoin-payment-push.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Social trading platform Fomo raises $75M, reaches $550M valuation",
-      "summary": "The Series B round values the social trading and token discovery platform at $550 million as crypto venture funding remains active in 2026.",
-      "url": "https://cointelegraph.com/news/fomo-raise-series-b-trading-app-550m-valuation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "2026-06-22T13:42:45.000Z",
-      "keywords": [
-        "Latest News",
-        "Cryptocurrency Investment",
-        "Venture Capital",
-        "Trading",
-        "SocialFi",
-        "Cryptocurrencies",
-        "Apple Pay",
-        "Funding"
-      ],
-      "category": "综合",
-      "slug": "20260622-social-trading-platform-fomo-raises-75m-reaches-550m-valuation",
-      "localUrl": "/news/20260622-social-trading-platform-fomo-raises-75m-reaches-550m-valuation.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The future of capital markets will not be built by crypto alone. It will require technology, regulation, institutions, and public policy working together. That is why we are excited about the partnership between ICE and OKX. We have also brought together leaders w - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFR2ltaGNPeURWY29jSlVZQ1RubFptTFpmQVYwMmRJcWlveE5MV0xQSWRXSE9Na29SVXZjR01YS29TUzZzMldyeGpFamZ5R0JPR25ySE9QdldmS0JOYXc?oc=5\" target=\"_blank\">The future of capital markets will not …",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFR2ltaGNPeURWY29jSlVZQ1RubFptTFpmQVYwMmRJcWlveE5MV0xQSWRXSE9Na29SVXZjR01YS29TUzZzMldyeGpFamZ5R0JPR25ySE9QdldmS0JOYXc?oc=5",
-      "publishedAt": "2026-06-22T12:21:28.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260622-the-future-of-capital-markets-will-not-be-built-by-crypto-alone-it-will-require-",
-      "localUrl": "/news/20260622-the-future-of-capital-markets-will-not-be-built-by-crypto-alone-it-will-require-.html"
     },
     {
       "source": "Decrypt",
@@ -1078,32 +1137,6 @@
       "localUrl": "/news/20260622-just-in-tech-and-crypto-firms-including-google-meta-paypal-and-chainalysis-commi.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Inception Labs' Mercury 2 AI Beats Google's DiffusionGemma at Its Own Game",
-      "summary": "Both models trade word-by-word generation for parallel denoising. Only one of them does it without losing intelligence in the trade.",
-      "url": "https://decrypt.co/371722/inception-labs-mercury-2-ai-beats-googles-diffusiongemma",
-      "publishedAt": "2026-06-21T16:01:03.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260621-inception-labs-mercury-2-ai-beats-googles-diffusiongemma-at-its-own-game",
-      "localUrl": "/news/20260621-inception-labs-mercury-2-ai-beats-googles-diffusiongemma-at-its-own-game.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "AI 'Amplification Spiral' May Be Causing Delusions Among Users, Study Suggests",
-      "summary": "New research outlines how chatbot behaviors, including personalization, mirroring, and excessive agreement, reinforce delusions.",
-      "url": "https://decrypt.co/371648/ai-amplification-spiral-causing-delusions-among-users-study",
-      "publishedAt": "2026-06-21T13:01:03.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260621-ai-amplification-spiral-may-be-causing-delusions-among-users-study-suggests",
-      "localUrl": "/news/20260621-ai-amplification-spiral-may-be-causing-delusions-among-users-study-suggests.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Michael Saylor hints that Strategy bought more bitcoin 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XaEpJOUhDTEo2ZEpUQWQzTm1TLU5jNGRWSDMtODM0amZuM214NlJxdVJjMXVTUkVXMWtIdWU4dVZmY0x4dkFieTljOGtGS1VuVlQwYUhzX3RCVkFkdklFRU92Y2VYMkk?oc=5\" target=\"_blank\">JUST IN: Michael Saylor hin…",
@@ -1157,32 +1190,6 @@
       "category": "X热点",
       "slug": "20260620-free-market-capitalism-is-indeed-the-best-system-though-via-shared-protocols-we-",
       "localUrl": "/news/20260620-free-market-capitalism-is-indeed-the-best-system-though-via-shared-protocols-we-.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenRouter's Fusion Promises Claude Fable-Level AI for Cheap—Right as Fable 5 Goes Dark",
-      "summary": "OpenRouter's compound-model API stacks budget AI models—and beat GPT-5.5 and Claude Opus 4.8 outright in benchmark testing.",
-      "url": "https://decrypt.co/371711/openrouter-fusion-claude-fable-level-ai-cheap",
-      "publishedAt": "2026-06-20T18:01:04.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260620-openrouters-fusion-promises-claude-fable-level-ai-for-cheapright-as-fable-5-goes",
-      "localUrl": "/news/20260620-openrouters-fusion-promises-claude-fable-level-ai-for-cheapright-as-fable-5-goes.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin Network Activity Is Rising as BTC Falls Nearly 50% Below Peak Price: CryptoQuant",
-      "summary": "Activity on the Bitcoin network is surging, CryptoQuant said, but it's not correlating with price movement for its native asset.",
-      "url": "https://decrypt.co/371702/bitcoin-network-activity-rising-btc-falls-50-percent-below-peak-price",
-      "publishedAt": "2026-06-20T14:59:51.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "市场",
-      "slug": "20260620-bitcoin-network-activity-is-rising-as-btc-falls-nearly-50-below-peak-price-crypt",
-      "localUrl": "/news/20260620-bitcoin-network-activity-is-rising-as-btc-falls-nearly-50-below-peak-price-crypt.html"
     }
   ]
 }
