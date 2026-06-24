@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-06-23T22:36:36.113Z",
+  "updatedAt": "2026-06-24T00:08:20.000Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum’s much-hated staking &apos;tax&apos; may already be obsolete",
+      "summary": "Ethereum’s latest “funding crisis” has triggered a fierce debate: a contentious plan to tax staking rewards versus a new wave of labs and large ETH holders funding development offchain.",
+      "url": "https://cointelegraph.com/features/ethereums-funding-scare-why-a-hated-staking-tax-may-already-be-obsolete?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "2026-06-23T23:18:08.000Z",
+      "keywords": [
+        "Features",
+        "Funding",
+        "Developers",
+        "Validator",
+        "Staking",
+        "Foundation"
+      ],
+      "category": "基础设施",
+      "slug": "20260623-ethereums-much-hated-staking-apostaxapos-may-already-be-obsolete",
+      "localUrl": "/news/20260623-ethereums-much-hated-staking-apostaxapos-may-already-be-obsolete.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AI chipmaker Cerebras down 11% after first public earnings report",
+      "summary": "While revenue was up 92% from year-ago levels, the company forecasted a lower core gross margin next quarter.",
+      "url": "https://www.coindesk.com/markets/2026/06/23/ai-chipmaker-cerebras-down-11-after-first-public-earnings-report",
+      "publishedAt": "2026-06-23T22:58:44.000Z",
+      "keywords": [
+        "Markets",
+        "Artificial Intelligence",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260623-ai-chipmaker-cerebras-down-11-after-first-public-earnings-report",
+      "localUrl": "/news/20260623-ai-chipmaker-cerebras-down-11-after-first-public-earnings-report.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "$170M Ether longs liquidated as crypto market tumbles: Is ETH doomed?",
@@ -18,6 +51,17 @@
       "category": "市场",
       "slug": "20260623-170m-ether-longs-liquidated-as-crypto-market-tumbles-is-eth-doomed",
       "localUrl": "/news/20260623-170m-ether-longs-liquidated-as-crypto-market-tumbles-is-eth-doomed.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Senate to release crypto tax legislation as early as fall 2026. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrZkEtQlhvc0pBSF83cExwX1dWSjY2SE9BU3JNTXdiZ1BySXZvNHFBSEFJMnBGMUlZLWpkUml5akZFUHBjYnliX01LY1lMdzJ1RDZxUGUwOU5raERCU1hiQU53?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Senate to release cr…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrZkEtQlhvc0pBSF83cExwX1dWSjY2SE9BU3JNTXdiZ1BySXZvNHFBSEFJMnBGMUlZLWpkUml5akZFUHBjYnliX01LY1lMdzJ1RDZxUGUwOU5raERCU1hiQU53?oc=5",
+      "publishedAt": "2026-06-23T22:01:42.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260623-just-in-senate-to-release-crypto-tax-legislation-as-early-as-fall-2026-xcom",
+      "localUrl": "/news/20260623-just-in-senate-to-release-crypto-tax-legislation-as-early-as-fall-2026-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -236,6 +280,17 @@
       "localUrl": "/news/20260623-meta-is-developing-a-prediction-market-app-called-arena-as-sector-booms-nyt.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 US House Committee schedules crypto Clarity Act hearing for July 17. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZRk9hUnJIamh4SDYwVm5hSnp3TjZNMHBsMERrVkJuTFpjeWptWjlvTHYtV2lsby1SQklEYml1VnBWRldMYTJTQVg1U2FxaXR4SkpnMHZGX2pEOGlOaWNoWU5R?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 US House Committee s…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZRk9hUnJIamh4SDYwVm5hSnp3TjZNMHBsMERrVkJuTFpjeWptWjlvTHYtV2lsby1SQklEYml1VnBWRldMYTJTQVg1U2FxaXR4SkpnMHZGX2pEOGlOaWNoWU5R?oc=5",
+      "publishedAt": "2026-06-23T17:23:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260623-just-in-us-house-committee-schedules-crypto-clarity-act-hearing-for-july-17-xcom",
+      "localUrl": "/news/20260623-just-in-us-house-committee-schedules-crypto-clarity-act-hearing-for-july-17-xcom.html"
+    },
+    {
       "source": "Decrypt",
       "title": "A New OpenClaw Competitor: ToqanClaw Promises Privacy in AI Agent Race",
       "summary": "Prosus launched ToqanClaw, a no-code AI platform positioned as an European alternative to AI agents like OpenClaw.",
@@ -264,17 +319,6 @@
       "category": "监管",
       "slug": "20260623-cftc-chair-says-perp-trading-not-suitable-for-all-assets-it-regulates",
       "localUrl": "/news/20260623-cftc-chair-says-perp-trading-not-suitable-for-all-assets-it-regulates.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Crypto prediction platform Polymarket unveils Fifa World Cup commercial. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mbGdZekU3UlU0UzhSNTdTN1c5LTdDWTB2bi1yd0FtOGdXMk5GZUd6eXhuNGlMbHB4SUtTYVQ2TGhZeGZlQmdlU1YwSVhqNWNhNlpTU1N5S1F2TjFKVHNRUVRn?oc=5\" target=\"_blank\">JUST IN: Crypto prediction platfor…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mbGdZekU3UlU0UzhSNTdTN1c5LTdDWTB2bi1yd0FtOGdXMk5GZUd6eXhuNGlMbHB4SUtTYVQ2TGhZeGZlQmdlU1YwSVhqNWNhNlpTU1N5S1F2TjFKVHNRUVRn?oc=5",
-      "publishedAt": "2026-06-23T16:49:42.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260623-just-in-crypto-prediction-platform-polymarket-unveils-fifa-world-cup-commercial-",
-      "localUrl": "/news/20260623-just-in-crypto-prediction-platform-polymarket-unveils-fifa-world-cup-commercial-.html"
     },
     {
       "source": "CoinDesk",
@@ -477,6 +521,17 @@
       "category": "RWA",
       "slug": "20260623-why-tokenized-spacex-shares-broke-before-retail-investors-could-buy-them",
       "localUrl": "/news/20260623-why-tokenized-spacex-shares-broke-before-retail-investors-could-buy-them.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "New asset now available to trade on Robinhood Crypto. $WLD (Worldcoin) - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNTjRRVldDMGJxX2Jwb0hXdnNiSzJGZ1RfZkw1MTF6ZTItXzFkUVo3LVdELTB0U1YxTzNCTXBXZjdfSEZQRk04S3F5YWtFTTBqeWRhSWl2blp5Sm9VVDVKQmFhUQ?oc=5\" target=\"_blank\">New asset now available to trade…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNTjRRVldDMGJxX2Jwb0hXdnNiSzJGZ1RfZkw1MTF6ZTItXzFkUVo3LVdELTB0U1YxTzNCTXBXZjdfSEZQRk04S3F5YWtFTTBqeWRhSWl2blp5Sm9VVDVKQmFhUQ?oc=5",
+      "publishedAt": "2026-06-23T14:03:45.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260623-new-asset-now-available-to-trade-on-robinhood-crypto-wld-worldcoin-xcom",
+      "localUrl": "/news/20260623-new-asset-now-available-to-trade-on-robinhood-crypto-wld-worldcoin-xcom.html"
     },
     {
       "source": "X Wire",
@@ -691,17 +746,6 @@
       "localUrl": "/news/20260623-former-bis-chief-softens-stance-on-stablecoins-backs-coexistence-with-fiat.html"
     },
     {
-      "source": "X Wire",
-      "title": "BREAKING: 💥 🚀 Long-term holders are accumulating Bitcoin like crazy! What do they know about $BTC, we don't? - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ScG1RYVNCeFp4WHRlRjF1OU5BOE9NaXBnMVZadHA4RUppcERwUFhkXzcwS193ZTUyMU5TSHdpR1o5dXUyUHRpQjVEU01CTEhhLWwyWUlORjJyUnVQeU11alR3?oc=5\" target=\"_blank\">BREAKING: 💥 🚀 Long-term holders …",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ScG1RYVNCeFp4WHRlRjF1OU5BOE9NaXBnMVZadHA4RUppcERwUFhkXzcwS193ZTUyMU5TSHdpR1o5dXUyUHRpQjVEU01CTEhhLWwyWUlORjJyUnVQeU11alR3?oc=5",
-      "publishedAt": "2026-06-23T11:42:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260623-breaking-long-term-holders-are-accumulating-bitcoin-like-crazy-what-do-they-know",
-      "localUrl": "/news/20260623-breaking-long-term-holders-are-accumulating-bitcoin-like-crazy-what-do-they-know.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin volatility looks cheap as $10 billion options settlement nears",
       "summary": "Your day-ahead look for June 23, 2026",
@@ -828,24 +872,6 @@
       "localUrl": "/news/20260623-hut-8-to-pay-235-million-to-settle-investor-suit-over-us-bitcoin-merger.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Ripple gains preliminary MiCA license ahead of July 1 EU deadline",
-      "summary": "Ripple secures preliminary CASP approval in Luxembourg ahead of July 1 MiCA deadline as companies race for EU crypto licensing.",
-      "url": "https://cointelegraph.com/news/ripple-preliminary-casp-mica-license-july-1-deadline?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "2026-06-23T08:47:59.000Z",
-      "keywords": [
-        "Latest News",
-        "MiCA",
-        "Ripple",
-        "Europe",
-        "Policy",
-        "Luxemburg"
-      ],
-      "category": "监管",
-      "slug": "20260623-ripple-gains-preliminary-mica-license-ahead-of-july-1-eu-deadline",
-      "localUrl": "/news/20260623-ripple-gains-preliminary-mica-license-ahead-of-july-1-eu-deadline.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin price has limited downside, likely near bottom, contrarian indicator suggests",
       "summary": "The bitcoin price's long-term moving averages are set to flash a bearish signal soon. That's good news for the bulls.",
@@ -871,21 +897,6 @@
       "category": "X热点",
       "slug": "20260623-more-licensing-momentum-ripple-has-secured-its-preliminary-crypto-asset-service-",
       "localUrl": "/news/20260623-more-licensing-momentum-ripple-has-secured-its-preliminary-crypto-asset-service-.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Saylor's Strategy sinks to new 52-week low as bitcoin drops to $62,000",
-      "summary": "Crypto prices are again on the defensive amid a global stock rout set off by a 10% plunge in South Korea's Kospi.",
-      "url": "https://www.coindesk.com/markets/2026/06/23/live-updates-an-altcoin-season-signal-flashed-but-bitcoin-s-slide-is-what-set-it-off",
-      "publishedAt": "2026-06-23T06:30:21.000Z",
-      "keywords": [
-        "Markets",
-        "Live News",
-        "live_news"
-      ],
-      "category": "市场",
-      "slug": "20260623-live-updates-saylors-strategy-sinks-to-new-52-week-low-as-bitcoin-drops-to-62000",
-      "localUrl": "/news/20260623-live-updates-saylors-strategy-sinks-to-new-52-week-low-as-bitcoin-drops-to-62000.html"
     },
     {
       "source": "X Wire",
@@ -1083,17 +1094,6 @@
     },
     {
       "source": "X Wire",
-      "title": "We just announced Ethlabs ( @ethlabs_org). Its mission is stewarding the growth of Ethereum and ETH. Here is why I decided to stay in Ethereum after four years at the Foundation. We are at the moment Ethereum was built for. Adoption is here. Blokchains ar - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tS2tSb2ZXRUxDaFJseHRmRU9VRlFaS0tkaFVKNFFZejFQT0ZVNjB0S3hvN1VqSTk0RkZJUU13b1VtRkpsd2dHMENiV0ZxSDhWYzNnNVFyWXhaODVXSEhF?oc=5\" target=\"_blank\">We just announced Ethlabs ( @ethlabs_o…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tS2tSb2ZXRUxDaFJseHRmRU9VRlFaS0tkaFVKNFFZejFQT0ZVNjB0S3hvN1VqSTk0RkZJUU13b1VtRkpsd2dHMENiV0ZxSDhWYzNnNVFyWXhaODVXSEhF?oc=5",
-      "publishedAt": "2026-06-22T17:05:49.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260622-we-just-announced-ethlabs-ethlabs_org-its-mission-is-stewarding-the-growth-of-et",
-      "localUrl": "/news/20260622-we-just-announced-ethlabs-ethlabs_org-its-mission-is-stewarding-the-growth-of-et.html"
-    },
-    {
-      "source": "X Wire",
       "title": "JUST IN: Bitcoin is performing the strongest it ever has during a bear market in its history 👀 Bullish! 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SQTdTeS1RRmFDa2NmSjFPc0ExemtINl8wUUJnNmVpOWw5dWNJWGJLdndUTWhBUXZOY0s4R2pxOG13LVExMnhyM184QXNfbEdpWkxjYTBsbUctS1dvN3ZPSm9fSWNtdkU?oc=5\" target=\"_blank\">JUST IN: Bitcoin is perform…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SQTdTeS1RRmFDa2NmSjFPc0ExemtINl8wUUJnNmVpOWw5dWNJWGJLdndUTWhBUXZOY0s4R2pxOG13LVExMnhyM184QXNfbEdpWkxjYTBsbUctS1dvN3ZPSm9fSWNtdkU?oc=5",
@@ -1138,17 +1138,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Tokyo Arrest: Prince Group Crypto Kingpin Hu Xiaowei (Hu Shi) Nabbed – Linked to $15B Bitcoin Scam Empire According to Asahi Shimbun, Tokyo police arrested Hu Xiaowei (Hu Shi), a senior figure allegedly tied to Cambodia-based Prince Group, one of As - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qXzZGZ2JpdFFfcU9ZaXR4ZXhXRHNIRUxocUluS09BSjJOekpxRElXRDVlZ2cyNzhNTkgzbHJvbUs0YUtNOVlXVUFFa0c0ck51NFdVVlRFVjM2bFV3QkJsOF9Mcw?oc=5\" target=\"_blank\">Tokyo Arrest: Prince Group Crypt…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qXzZGZ2JpdFFfcU9ZaXR4ZXhXRHNIRUxocUluS09BSjJOekpxRElXRDVlZ2cyNzhNTkgzbHJvbUs0YUtNOVlXVUFFa0c0ck51NFdVVlRFVjM2bFV3QkJsOF9Mcw?oc=5",
-      "publishedAt": "2026-06-22T09:35:46.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260622-tokyo-arrest-prince-group-crypto-kingpin-hu-xiaowei-hu-shi-nabbed-linked-to-15b-",
-      "localUrl": "/news/20260622-tokyo-arrest-prince-group-crypto-kingpin-hu-xiaowei-hu-shi-nabbed-linked-to-15b-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "🚨 JUST IN: Tech and crypto firms including Google, Meta, PayPal, and Chainalysis commit to fighting the illegal wildlife trade using AI detection and blockchain analytics, per Reuters. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkRXFNaUhWVC1rVFZiUS1wWWJjbU1EWlRGLTBENmpMYUlrdnlPV3FGcm9RcHFqZXpabkFhSGpza0FOSFRkSWNJTWZRVEllRUVDZS1jcXNlcS1MYmM3RzAtXzR3Yi0?oc=5\" target=\"_blank\">🚨 JUST IN: Tech and crypto fir…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkRXFNaUhWVC1rVFZiUS1wWWJjbU1EWlRGLTBENmpMYUlrdnlPV3FGcm9RcHFqZXpabkFhSGpza0FOSFRkSWNJTWZRVEllRUVDZS1jcXNlcS1MYmM3RzAtXzR3Yi0?oc=5",
@@ -1179,6 +1168,17 @@
       "category": "X热点",
       "slug": "20260621-just-in-ethereums-most-notorious-sandwich-bot-jaredfromsubwayeth-has-been-draine",
       "localUrl": "/news/20260621-just-in-ethereums-most-notorious-sandwich-bot-jaredfromsubwayeth-has-been-draine.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Happy Father’s Day! Save some crypto for your kids. They will thank you one day. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGM3NEM01RRkxIN1JEYlFQMm1JdlFhRWZJeV94QWZFQU5Yb0QweF9ubEFoZzJtX0RERzdkVlpmODNUVVU1dFNlWnZlMGdrNUxzQ0xfUVM1dnE3ckMtRkkzUA?oc=5\" target=\"_blank\">Happy Father’s Day! Save some crypto…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGM3NEM01RRkxIN1JEYlFQMm1JdlFhRWZJeV94QWZFQU5Yb0QweF9ubEFoZzJtX0RERzdkVlpmODNUVVU1dFNlWnZlMGdrNUxzQ0xfUVM1dnE3ckMtRkkzUA?oc=5",
+      "publishedAt": "2026-06-21T06:47:08.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260621-happy-fathers-day-save-some-crypto-for-your-kids-they-will-thank-you-one-day-xco",
+      "localUrl": "/news/20260621-happy-fathers-day-save-some-crypto-for-your-kids-they-will-thank-you-one-day-xco.html"
     },
     {
       "source": "X Wire",
