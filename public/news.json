@@ -1,11 +1,125 @@
 {
-  "updatedAt": "2026-06-26T09:49:17.921Z",
-  "total": 83,
+  "updatedAt": "2026-06-26T12:24:44.941Z",
+  "total": 82,
   "items": [
     {
+      "source": "Decrypt",
+      "title": "Morning Minute: Kraken Eyes 15% Stake in Aave at $385M Valuation",
+      "summary": "Bitcoin sinks to a fresh 2026 low as the selloff drags on. Kraken makes a major move into DeFi. And BlackBerry is staging a comeback.",
+      "url": "https://decrypt.co/372166/morning-minute-kraken-eyes-15-stake-in-aave-at-385m-valuation",
+      "publishedAt": "2026-06-26T12:20:32.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "DeFi",
+      "slug": "20260626-morning-minute-kraken-eyes-15-stake-in-aave-at-385m-valuation",
+      "localUrl": "/news/20260626-morning-minute-kraken-eyes-15-stake-in-aave-at-385m-valuation.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Australian regulator extends no-action period for crypto licensing",
+      "summary": "Australia’s financial regulator extended temporary enforcement relief for digital asset businesses until Sept. 30 as firms transition into the country’s licensing system.",
+      "url": "https://cointelegraph.com/news/australia-asic-extends-crypto-licensing-relief-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-06-26T12:14:31.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260626-australian-regulator-extends-no-action-period-for-crypto-licensing",
+      "localUrl": "/news/20260626-australian-regulator-extends-no-action-period-for-crypto-licensing.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "AscendEX withdrawal complaints mount as ZachXBT questions reserves",
+      "summary": "Multiple users reported delayed AscendEX withdrawals after ZachXBT flagged potential liquidity issues and urged the exchange to explain its reserves.",
+      "url": "https://cointelegraph.com/news/ascendex-exchange-reportedly-faces-liquidity-issues-claims-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-06-26T11:47:02.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260626-ascendex-withdrawal-complaints-mount-as-zachxbt-questions-reserves",
+      "localUrl": "/news/20260626-ascendex-withdrawal-complaints-mount-as-zachxbt-questions-reserves.html"
+    },
+    {
       "source": "CoinDesk",
-      "title": "Ethereum treasury firm Sharplink takes in ether for the first time in eight months",
-      "summary": "The second-largest corporate ether holder received 5,000 ETH worth about $7.85 million on Thursday, its first inflow since October, even as it sits on a paper loss of roughly $1.8 billion.",
+      "title": "With crypto ending the first half in the red, bitcoin's solace is it beat Strategy",
+      "summary": "Your day-ahead look for June 26, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/06/26/with-crypto-ending-the-first-half-in-the-red-bitcoin-s-solace-is-it-beat-strategy",
+      "publishedAt": "2026-06-26T11:36:01.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260626-with-crypto-ending-the-first-half-in-the-red-bitcoins-solace-is-it-beat-strategy",
+      "localUrl": "/news/20260626-with-crypto-ending-the-first-half-in-the-red-bitcoins-solace-is-it-beat-strategy.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin bounces from $58,000 as derivatives signal more pain in the pipeline",
+      "summary": "BTC touched its lowest level since September 2024 before rebounding to $59,770, while ETH slipped further and another $1 billion in futures positions were wiped out.",
+      "url": "https://www.coindesk.com/markets/2026/06/26/bitcoin-bounces-from-usd58-000-as-derivatives-signal-more-pain-in-the-pipeline",
+      "publishedAt": "2026-06-26T11:03:20.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260626-bitcoin-bounces-from-58000-as-derivatives-signal-more-pain-in-the-pipeline",
+      "localUrl": "/news/20260626-bitcoin-bounces-from-58000-as-derivatives-signal-more-pain-in-the-pipeline.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "All eyes on Strategy's June 30 ex-dividend date and monthly STRC dividend rate reset",
+      "summary": "Investors are watching the preferred stock's ex-dividend date and monthly dividend rate reset closely.",
+      "url": "https://www.coindesk.com/markets/2026/06/26/all-eyes-on-strategy-s-june-30-ex-dividend-date-and-monthly-strc-dividend-rate-reset",
+      "publishedAt": "2026-06-26T10:28:24.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260626-all-eyes-on-strategys-june-30-ex-dividend-date-and-monthly-strc-dividend-rate-re",
+      "localUrl": "/news/20260626-all-eyes-on-strategys-june-30-ex-dividend-date-and-monthly-strc-dividend-rate-re.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance tells EU users it will no longer provide services after failing to secure MiCA license",
+      "summary": "A day after withdrawing its MiCA license application in Greece and saying it is ‘not leaving Europe,’ Binance notified users across the European Union that it will suspend some services.",
+      "url": "https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license",
+      "publishedAt": "2026-06-26T10:19:22.000Z",
+      "keywords": [
+        "Policy",
+        "Binance",
+        "MiCA",
+        "Regulation",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260626-binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secur",
+      "localUrl": "/news/20260626-binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secur.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "BitGo Joins Crypto's AI Layoff Wave, Slashing Staff by 15%",
+      "summary": "The newly public crypto custodian is slashing nearly 15% of its workforce as it pivots to focus on stablecoins and AI infrastructure.",
+      "url": "https://decrypt.co/372164/bitgo-joins-cryptos-ai-layoff-wave-slashing-staff-by-15",
+      "publishedAt": "2026-06-26T10:15:33.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "综合",
+      "slug": "20260626-bitgo-joins-cryptos-ai-layoff-wave-slashing-staff-by-15",
+      "localUrl": "/news/20260626-bitgo-joins-cryptos-ai-layoff-wave-slashing-staff-by-15.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum treasury firm Sharplink buys ether for the first time in eight months",
+      "summary": "The second-largest corporate ether holder purchased 5,000 ETH worth about $7.85 million on Thursday, its first inflow since October, even as it sits on a paper loss of roughly $1.8 billion.",
       "url": "https://www.coindesk.com/markets/2026/06/26/ethereum-treasury-firm-sharplink-takes-in-ether-for-the-first-time-in-eight-months",
       "publishedAt": "2026-06-26T09:47:07.000Z",
       "keywords": [
@@ -14,26 +128,32 @@
         "News"
       ],
       "category": "监管",
-      "slug": "20260626-ethereum-treasury-firm-sharplink-takes-in-ether-for-the-first-time-in-eight-mont",
-      "localUrl": "/news/20260626-ethereum-treasury-firm-sharplink-takes-in-ether-for-the-first-time-in-eight-mont.html"
+      "slug": "20260626-ethereum-treasury-firm-sharplink-buys-ether-for-the-first-time-in-eight-months",
+      "localUrl": "/news/20260626-ethereum-treasury-firm-sharplink-buys-ether-for-the-first-time-in-eight-months.html"
     },
     {
       "source": "Cointelegraph",
-      "title": "Bitcoin ETFs post June&apos;s biggest daily outflows as BTC falls below $60K",
+      "title": "Bitcoin ETFs post June's biggest daily outflows as BTC falls below $60K",
       "summary": "US Bitcoin ETFs recorded $696.3 million in outflows as Bitcoin slipped below $60,000, lifting year-to-date losses to $4.6 billion.",
-      "url": "https://cointelegraph.com/news/bitcoin-etfs-biggest-outflows-june-btc-below-60k?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/news/bitcoin-etfs-biggest-outflows-june-btc-below-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-06-26T09:36:34.000Z",
       "keywords": [
-        "Latest News",
-        "MicroStrategy",
-        "Bitcoin ETF",
-        "Bitcoin Price",
-        "ETF",
-        "Institutions"
+        "Latest News"
       ],
       "category": "监管",
-      "slug": "20260626-bitcoin-etfs-post-juneaposs-biggest-daily-outflows-as-btc-falls-below-60k",
-      "localUrl": "/news/20260626-bitcoin-etfs-post-juneaposs-biggest-daily-outflows-as-btc-falls-below-60k.html"
+      "slug": "20260626-bitcoin-etfs-post-junes-biggest-daily-outflows-as-btc-falls-below-60k",
+      "localUrl": "/news/20260626-bitcoin-etfs-post-junes-biggest-daily-outflows-as-btc-falls-below-60k.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "After holding $ETH for 8 years, these #Ethereum OGs finally gave up. Four #Ethereum OG wallets received 37,602 $ETH($58.66M) 8 years ago at ~$830. During the 2021 and 2025 bull markets, their unrealized profit exceeded $150M, but they never sold. Afte - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pTGZNdHNtbVdJTE94T1Q5eWhIMm1ma21Ob3E4N2toWG5pTDNIZU5zZC1pYko0WnpjZUNtckg3dG5iaWg2VTBfb2dubVM1VWV2TVh5MHlRRXphWkdoMDdjT3l3?oc=5\" target=\"_blank\">After holding $ETH for 8 years, th…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pTGZNdHNtbVdJTE94T1Q5eWhIMm1ma21Ob3E4N2toWG5pTDNIZU5zZC1pYko0WnpjZUNtckg3dG5iaWg2VTBfb2dubVM1VWV2TVh5MHlRRXphWkdoMDdjT3l3?oc=5",
+      "publishedAt": "2026-06-26T09:29:57.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260626-after-holding-eth-for-8-years-these-ethereum-ogs-finally-gave-up-four-ethereum-o",
+      "localUrl": "/news/20260626-after-holding-eth-for-8-years-these-ethereum-ogs-finally-gave-up-four-ethereum-o.html"
     },
     {
       "source": "CoinDesk",
@@ -71,21 +191,36 @@
       "source": "Cointelegraph",
       "title": "Polymarket hit by $2.9M theft, users to be refunded",
       "summary": "Polymarket said it contained the compromise and removed the affected dependency after attackers injected a malicious script into its frontend.",
-      "url": "https://cointelegraph.com/news/polymarket-vendor-compromise-drains-29m-users?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/news/polymarket-vendor-compromise-drains-29m-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-06-26T08:20:37.000Z",
       "keywords": [
-        "Latest News",
-        "Polymarket",
-        "Hacks",
-        "Hackers",
-        "Phishing",
-        "Prediction Markets",
-        "DeFi",
-        "Cybersecurity"
+        "Latest News"
       ],
-      "category": "监管",
+      "category": "市场",
       "slug": "20260626-polymarket-hit-by-29m-theft-users-to-be-refunded",
       "localUrl": "/news/20260626-polymarket-hit-by-29m-theft-users-to-be-refunded.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Volatility tests every capital structure. Strategy remains focused on Bitcoin, disciplined capital allocation, credit quality, and long-term value creation. We appreciate our investors and will continue to execute with transparency and resolve. $MSTR - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PaFlNTTlUM21adzFRd3gwb0I5WE9sYkV3X3c3VFk0UFB0dW9EMktYUkNvOE5BM3JWaUZWQ3dYdGYwajhQMS12TVhBQnVnNUp3LVVHSFVnSzVjaE0?oc=5\" target=\"_blank\">Volatility tests every capital structure. S…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PaFlNTTlUM21adzFRd3gwb0I5WE9sYkV3X3c3VFk0UFB0dW9EMktYUkNvOE5BM3JWaUZWQ3dYdGYwajhQMS12TVhBQnVnNUp3LVVHSFVnSzVjaE0?oc=5",
+      "publishedAt": "2026-06-26T08:16:08.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260626-volatility-tests-every-capital-structure-strategy-remains-focused-on-bitcoin-dis",
+      "localUrl": "/news/20260626-volatility-tests-every-capital-structure-strategy-remains-focused-on-bitcoin-dis.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Here’s a log-scale chart. From a traditional cycle perspective, Bitcoin does not look close to a bottom yet. Risk/reward improves sharply as price approaches investors’ cost basis. Every major cycle has touched realized price. If not, maybe “this time is different.” - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVOVpUdnNkaUdRYUtzd1FrOHhkOTVVbThxd2JBVWVfWHM2TnE0Y2hrRnUxekxQY3NsRkF5TVdCM3IweEdGaDVTN1c3aGd2MWVZU3lCMTJTdWUyZHVVbTFha0R3?oc=5\" target=\"_blank\">Here’s a log-scale chart. From a t…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVOVpUdnNkaUdRYUtzd1FrOHhkOTVVbThxd2JBVWVfWHM2TnE0Y2hrRnUxekxQY3NsRkF5TVdCM3IweEdGaDVTN1c3aGd2MWVZU3lCMTJTdWUyZHVVbTFha0R3?oc=5",
+      "publishedAt": "2026-06-26T07:02:27.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260626-heres-a-log-scale-chart-from-a-traditional-cycle-perspective-bitcoin-does-not-lo",
+      "localUrl": "/news/20260626-heres-a-log-scale-chart-from-a-traditional-cycle-perspective-bitcoin-does-not-lo.html"
     },
     {
       "source": "X Wire",
@@ -118,19 +253,10 @@
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-06-26T06:04:04.000Z",
       "keywords": [
-        "Latest News",
-        "CBDC",
-        "BIS",
-        "Stablecoin",
-        "Cryptocurrency Exchange",
-        "Bithumb",
-        "South Korea",
-        "Tether",
-        "Market Capitalization",
-        "Ether Price"
+        "Latest News"
       ],
       "category": "监管",
       "slug": "20260626-heres-what-happened-in-crypto-today",
@@ -140,13 +266,10 @@
       "source": "Cointelegraph",
       "title": "Tether stablecoin flips Ether by market cap as ETH routs to $1.5K",
       "summary": "Ether prices are currently back at crucial long-term support levels last visited in October 2023 and April 2025.",
-      "url": "https://cointelegraph.com/news/tether-stablecoin-flips-ether-by-market-cap-as-eth-routs-to-15k?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/news/tether-stablecoin-flips-ether-by-market-cap-as-eth-routs-to-15k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-06-26T06:02:01.000Z",
       "keywords": [
-        "Latest News",
-        "Ether Price",
-        "Tether",
-        "Market Capitalization"
+        "Latest News"
       ],
       "category": "市场",
       "slug": "20260626-tether-stablecoin-flips-ether-by-market-cap-as-eth-routs-to-15k",
@@ -168,22 +291,20 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Coinbase&apos;s Base resumes block production after 2-hour outage",
+      "title": "Coinbase's Base resumes block production after 2-hour outage",
       "summary": "Coinbase's blockchain Base says a consensus problem knocked its network offline for around two hours on Thursday before it returned online.",
-      "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-06-26T05:10:44.000Z",
       "keywords": [
-        "Latest News",
-        "Base",
-        "Coinbase"
+        "Latest News"
       ],
       "category": "综合",
-      "slug": "20260626-coinbaseaposs-base-resumes-block-production-after-2-hour-outage",
-      "localUrl": "/news/20260626-coinbaseaposs-base-resumes-block-production-after-2-hour-outage.html"
+      "slug": "20260626-coinbases-base-resumes-block-production-after-2-hour-outage",
+      "localUrl": "/news/20260626-coinbases-base-resumes-block-production-after-2-hour-outage.html"
     },
     {
       "source": "CoinDesk",
-      "title": "Live markets: Bitcoin rebounds to nearly $60,000. Kospi, Nikkei sink",
+      "title": "Live markets: Bitcoin falls below $60,000. Kospi, Nikkei sink",
       "summary": "BTC sees a relief bounce as Asian stocks wilt following sharp losses on Wall Street.",
       "url": "https://www.coindesk.com/tech/2026/06/26/live-markets-bitcoin-rebounds-to-nearly-usd60-000-kospi-nikkei-sink",
       "publishedAt": "2026-06-26T05:10:37.000Z",
@@ -194,19 +315,17 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260626-live-markets-bitcoin-rebounds-to-nearly-60000-kospi-nikkei-sink",
-      "localUrl": "/news/20260626-live-markets-bitcoin-rebounds-to-nearly-60000-kospi-nikkei-sink.html"
+      "slug": "20260626-live-markets-bitcoin-falls-below-60000-kospi-nikkei-sink",
+      "localUrl": "/news/20260626-live-markets-bitcoin-falls-below-60000-kospi-nikkei-sink.html"
     },
     {
       "source": "Cointelegraph",
       "title": "Sharplink buys ETH after 8-month pause as token hits 2026 low",
       "summary": "In May, Sharplink CEO Joseph Chalom named three catalysts that could push up the price of Ether, some of which have begun to materialize.",
-      "url": "https://cointelegraph.com/news/sharplink-buys-eth-after-8-month-pause-as-token-hits-2026-low?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/news/sharplink-buys-eth-after-8-month-pause-as-token-hits-2026-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-06-26T03:56:08.000Z",
       "keywords": [
-        "Latest News",
-        "Ether Price",
-        "Business"
+        "Latest News"
       ],
       "category": "市场",
       "slug": "20260626-sharplink-buys-eth-after-8-month-pause-as-token-hits-2026-low",
@@ -216,12 +335,10 @@
       "source": "Cointelegraph",
       "title": "StablecoinX bets on Ethena ecosystem with Nasdaq debut",
       "summary": "USDe circulating supply has shrunk by 70% since the October bull market peak, when it topped $14 billion.",
-      "url": "https://cointelegraph.com/news/stablecoinx-merges-with-tlgy-and-begins-trading-on-nasdaq-friday?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/news/stablecoinx-merges-with-tlgy-and-begins-trading-on-nasdaq-friday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-06-26T03:48:03.000Z",
       "keywords": [
-        "Latest News",
-        "Stablecoin",
-        "Nasdaq"
+        "Latest News"
       ],
       "category": "市场",
       "slug": "20260626-stablecoinx-bets-on-ethena-ecosystem-with-nasdaq-debut",
@@ -231,12 +348,10 @@
       "source": "Cointelegraph",
       "title": "BitGo cuts 15% of staff to sharpen focus on AI, stablecoins",
       "summary": "BitGo co-founder and CEO Mike Belshe says the layoffs are “a one-time action” and the company doesn’t see the need for further staff reductions.",
-      "url": "https://cointelegraph.com/news/crypto-infrastructure-firm-bitgo-lays-off-15-of-staff?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/news/crypto-infrastructure-firm-bitgo-lays-off-15-of-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-06-26T00:41:02.000Z",
       "keywords": [
-        "Latest News",
-        "Business",
-        "BitGo"
+        "Latest News"
       ],
       "category": "综合",
       "slug": "20260626-bitgo-cuts-15-of-staff-to-sharpen-focus-on-ai-stablecoins",
@@ -246,15 +361,10 @@
       "source": "Cointelegraph",
       "title": "Does Botanix’s failure prove Bitcoiners don’t care about DeFi?",
       "summary": "The failure of Botanix suggests that Bitcoiners still prefer Ethereum DeFi to Bitcoin L2s. How can Bitcoin L2s change to win hodlers over?",
-      "url": "https://cointelegraph.com/features/does-botanixs-failure-prove-bitcoiners-dont-care-about-defi?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/features/does-botanixs-failure-prove-bitcoiners-dont-care-about-defi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-06-25T23:09:10.000Z",
       "keywords": [
-        "Features",
-        "DeFi",
-        "Developers",
-        "Yields",
-        "Lending",
-        "Layer2"
+        "Features"
       ],
       "category": "基础设施",
       "slug": "20260625-does-botanixs-failure-prove-bitcoiners-dont-care-about-defi",
@@ -277,16 +387,10 @@
       "source": "Cointelegraph",
       "title": "Bitcoin bounces off new 2026 price lows: Will US stock weakness push BTC lower?",
       "summary": "Bitcoin’s trek into new 2026 lows continued as spot BTC ETF outflows, a bearish monthly options expiry and Strategy’s unrealized losses widened its gap with AI-connected stock returns.",
-      "url": "https://cointelegraph.com/markets/bitcoin-bounces-off-new-2026-price-lows-will-us-stock-weakness-push-btc-lower?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/markets/bitcoin-bounces-off-new-2026-price-lows-will-us-stock-weakness-push-btc-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-06-25T21:02:50.000Z",
       "keywords": [
-        "Markets",
-        "Markets",
-        "Market Analysis",
-        "Bitcoin Price",
-        "Bitcoin ETF",
-        "MicroStrategy",
-        "Stocks"
+        "Markets"
       ],
       "category": "监管",
       "slug": "20260625-bitcoin-bounces-off-new-2026-price-lows-will-us-stock-weakness-push-btc-lower",
@@ -325,15 +429,10 @@
       "source": "Cointelegraph",
       "title": "Bitcoin options traders hedge downside as uncertainty lingers, Anchorage says",
       "summary": "Anchorage Digital’s latest analysis shows Bitcoin options traders remain defensive as near-term uncertainty persists, though markets are not pricing an extreme downside scenario for Strategy.",
-      "url": "https://cointelegraph.com/news/bitcoin-options-traders-hedge-downside-as-uncertainty-lingers-anchorage-says?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/news/bitcoin-options-traders-hedge-downside-as-uncertainty-lingers-anchorage-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-06-25T20:10:41.000Z",
       "keywords": [
-        "Latest News",
-        "MicroStrategy",
-        "Bitcoin Price",
-        "Michael Saylor",
-        "Bitcoin Options",
-        "BlackRock"
+        "Latest News"
       ],
       "category": "市场",
       "slug": "20260625-bitcoin-options-traders-hedge-downside-as-uncertainty-lingers-anchorage-says",
@@ -343,19 +442,10 @@
       "source": "Cointelegraph",
       "title": "Bitcoin may fall lower but BTC power-law frames crash to $58K as ‘normal’",
       "summary": "Bitcoin’s drop to $58,000 lines up with the power-law model’s cycle lows, even though futures market data points to deeper lows for BTC price.",
-      "url": "https://cointelegraph.com/markets/key-bitcoin-price-levels-after-btc-power-law-says-58k-is-normal?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/markets/key-bitcoin-price-levels-after-btc-power-law-says-58k-is-normal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-06-25T19:51:35.000Z",
       "keywords": [
-        "Markets",
-        "Bitcoin Price",
-        "Bitcoin Analysis",
-        "Markets",
-        "BTC Markets",
-        "Binance",
-        "Cryptocurrency Exchange",
-        "Cryptocurrencies",
-        "Liquidity",
-        "Bitcoin Futures"
+        "Markets"
       ],
       "category": "监管",
       "slug": "20260625-bitcoin-may-fall-lower-but-btc-power-law-frames-crash-to-58k-as-normal",
@@ -389,20 +479,16 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Half of UK wealth advisers say clients&apos; crypto is ‘invisible’ to them: CoinShares survey",
+      "title": "Half of UK wealth advisers say clients' crypto is ‘invisible’ to them: CoinShares survey",
       "summary": "A CoinShares survey found than many EU-based wealth management companies had policies that restricted investments in digital assets or provided no guidance on the matter.",
-      "url": "https://cointelegraph.com/news/uk-wealth-advisors-clients-crypto-invisible-survey?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/news/uk-wealth-advisors-clients-crypto-invisible-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-06-25T19:18:03.000Z",
       "keywords": [
-        "Latest News",
-        "Cryptocurrency Investment",
-        "United Kingdom",
-        "Survey",
-        "CoinShares"
+        "Latest News"
       ],
       "category": "基础设施",
-      "slug": "20260625-half-of-uk-wealth-advisers-say-clientsapos-crypto-is-invisible-to-them-coinshare",
-      "localUrl": "/news/20260625-half-of-uk-wealth-advisers-say-clientsapos-crypto-is-invisible-to-them-coinshare.html"
+      "slug": "20260625-half-of-uk-wealth-advisers-say-clients-crypto-is-invisible-to-them-coinshares-su",
+      "localUrl": "/news/20260625-half-of-uk-wealth-advisers-say-clients-crypto-is-invisible-to-them-coinshares-su.html"
     },
     {
       "source": "Decrypt",
@@ -457,18 +543,24 @@
       "localUrl": "/news/20260625-just-in-53-of-all-bitcoin-btc-in-circulation-is-now-held-at-an-unrealized-loss-x.html"
     },
     {
+      "source": "X Wire",
+      "title": "CZ Suggests Freezing Satoshi's Bitcoin to Address Quantum Threats Binance founder Changpeng Zhao (CZ) @cz_binance said in a June 18 interview with Galaxy that if Bitcoin forks in the future to adopt quantum-resistant cryptography, the community could g - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmQkU3V3FmSTNGY2ZyNFptSzRzWHdCU3kwTVhQWTZQUVl3ckcxVWJ4c2hqeXNNcm1xSmgzWUxKa2h4TjFKWXlJY21xSUJOalptLVB2clhnWUVvTGdQQ0JBMTIyMA?oc=5\" target=\"_blank\">CZ Suggests Freezing Satoshi's B…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmQkU3V3FmSTNGY2ZyNFptSzRzWHdCU3kwTVhQWTZQUVl3ckcxVWJ4c2hqeXNNcm1xSmgzWUxKa2h4TjFKWXlJY21xSUJOalptLVB2clhnWUVvTGdQQ0JBMTIyMA?oc=5",
+      "publishedAt": "2026-06-25T18:32:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260625-cz-suggests-freezing-satoshis-bitcoin-to-address-quantum-threats-binance-founder",
+      "localUrl": "/news/20260625-cz-suggests-freezing-satoshis-bitcoin-to-address-quantum-threats-binance-founder.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Bitcoin drop to $58K brings out bears: Is BTC’s next stop below $50K?",
       "summary": "Bitcoin’s crash to $58,000 confirmed a bear flag breakdown, setting a new price target of $54,000 or lower.",
-      "url": "https://cointelegraph.com/markets/bitcoin-under-60k-activates-multiple-setups-with-54k-btc-price-target?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/markets/bitcoin-under-60k-activates-multiple-setups-with-54k-btc-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-06-25T18:05:06.000Z",
       "keywords": [
-        "Markets",
-        "BTC Markets",
-        "Markets",
-        "Bitcoin Analysis",
-        "Tech Analysis",
-        "Price Analysis"
+        "Markets"
       ],
       "category": "市场",
       "slug": "20260625-bitcoin-drop-to-58k-brings-out-bears-is-btcs-next-stop-below-50k",
@@ -503,6 +595,17 @@
       "localUrl": "/news/20260625-ai-took-your-job-california-wants-to-know.html"
     },
     {
+      "source": "X Wire",
+      "title": "SCOOP: Crypto exchange Kraken is in talks to buy a 15% stake in decentralized finance protocol Aave at a $385 million valuation, according to sources. @willcanny99 reports - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UcmpYWFBuRTlPdnFSckNDNGV0VE9BeXVkQlhvbXRRSzhrQTFqdnk2S3RnamZDSFFfY1BEM05HQThzZ2Voc1lJQ2FoakVhMWhGWVZnc2RtUlFhWlFZS2c?oc=5\" target=\"_blank\">SCOOP: Crypto exchange Kraken is in tal…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UcmpYWFBuRTlPdnFSckNDNGV0VE9BeXVkQlhvbXRRSzhrQTFqdnk2S3RnamZDSFFfY1BEM05HQThzZ2Voc1lJQ2FoakVhMWhGWVZnc2RtUlFhWlFZS2c?oc=5",
+      "publishedAt": "2026-06-25T17:18:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260625-scoop-crypto-exchange-kraken-is-in-talks-to-buy-a-15-stake-in-decentralized-fina",
+      "localUrl": "/news/20260625-scoop-crypto-exchange-kraken-is-in-talks-to-buy-a-15-stake-in-decentralized-fina.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Kraken in talks to buy 15% stake in DeFi lender Aave at $385 million valuation",
       "summary": "The DeFi lender is rebuilding after the fallout from April's KelpDAO exploit sparked a multibillion-dollar exodus of deposits despite Aave itself not being hacked.",
@@ -525,21 +628,12 @@
       "source": "Cointelegraph",
       "title": "XRP risks drop below $1, but onchain data highlights silver lining",
       "summary": "XRP’s chance of a daily close below $1 are rising, but whale accumulation and shrinking exchange supply may be a sign that traders are buying.",
-      "url": "https://cointelegraph.com/markets/xrp-may-lose-1-but-onchain-data-signals-improving-outlook-heres-why?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/markets/xrp-may-lose-1-but-onchain-data-signals-improving-outlook-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-06-25T17:11:33.000Z",
       "keywords": [
-        "Markets",
-        "XRP",
-        "Markets",
-        "Price Analysis",
-        "Market Analysis",
-        "Cryptocurrencies",
-        "Cryptocurrency Exchange",
-        "Binance",
-        "Whale",
-        "Liquidity"
+        "Markets"
       ],
-      "category": "DeFi",
+      "category": "市场",
       "slug": "20260625-xrp-risks-drop-below-1-but-onchain-data-highlights-silver-lining",
       "localUrl": "/news/20260625-xrp-risks-drop-below-1-but-onchain-data-highlights-silver-lining.html"
     },
@@ -553,17 +647,6 @@
       "category": "X热点",
       "slug": "20260625-just-in-coinbases-base-blockchain-has-been-down-for-over-an-hour-xcom",
       "localUrl": "/news/20260625-just-in-coinbases-base-blockchain-has-been-down-for-over-an-hour-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: Our traders forecast Bitcoin to reach a low of $45,000 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBSHh2Y3dVbURpc1l3QllOT2M0cUVNemR4UlR4dUNrT2ZQTnVzbnc2bWNnLWRabEVYTHRFMlBHcTRKTzVhazRLdmstcGdYam1mNllFQnNKQ2xOd2c?oc=5\" target=\"_blank\">BREAKING: Our traders forecast Bitcoin to r…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBSHh2Y3dVbURpc1l3QllOT2M0cUVNemR4UlR4dUNrT2ZQTnVzbnc2bWNnLWRabEVYTHRFMlBHcTRKTzVhazRLdmstcGdYam1mNllFQnNKQ2xOd2c?oc=5",
-      "publishedAt": "2026-06-25T17:08:12.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260625-breaking-our-traders-forecast-bitcoin-to-reach-a-low-of-45000-xcom",
-      "localUrl": "/news/20260625-breaking-our-traders-forecast-bitcoin-to-reach-a-low-of-45000-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -584,13 +667,10 @@
       "source": "Cointelegraph",
       "title": "21shares trims 2026 crypto forecasts despite institutional adoption gains",
       "summary": "Asset manager 21shares sees crypto infrastructure advancing faster than prices, as ETFs, stablecoins and prediction markets mature while several 2026 targets slip.",
-      "url": "https://cointelegraph.com/news/21shares-trims-2026-crypto-forecasts-etf-adoption?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/news/21shares-trims-2026-crypto-forecasts-etf-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-06-25T17:00:58.000Z",
       "keywords": [
-        "Latest News",
-        "Research",
-        "Bitcoin ETF",
-        "Bitcoin Price"
+        "Latest News"
       ],
       "category": "监管",
       "slug": "20260625-21shares-trims-2026-crypto-forecasts-despite-institutional-adoption-gains",
@@ -600,15 +680,10 @@
       "source": "Cointelegraph",
       "title": "Kraken, Maple launch onchain warehouse facility for crypto-backed institutional loans",
       "summary": "Kraken's new facility with Maple brings a traditional warehouse financing model onchain, allowing the exchange to expand its institutional crypto lending business using blockchain-based structured credit.",
-      "url": "https://cointelegraph.com/news/kraken-maple-launch-onchain-warehouse-facility-for-crypto-backed-institutional-loans?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/news/kraken-maple-launch-onchain-warehouse-facility-for-crypto-backed-institutional-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-06-25T16:41:47.000Z",
       "keywords": [
-        "Latest News",
-        "Kraken",
-        "Lending",
-        "Ripple",
-        "RWA",
-        "Loans"
+        "Latest News"
       ],
       "category": "DeFi",
       "slug": "20260625-kraken-maple-launch-onchain-warehouse-facility-for-crypto-backed-institutional-l",
@@ -642,15 +717,10 @@
       "source": "Cointelegraph",
       "title": "South Korean authorities fine Bithumb $136K over sharing user information overseas",
       "summary": "The fine comes after an investigation concluded that Bithumb shared information with many overseas exchanges in violation of laws intended to protect user data.",
-      "url": "https://cointelegraph.com/news/south-korea-investigation-bithumb-user-information?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/news/south-korea-investigation-bithumb-user-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-06-25T16:13:43.000Z",
       "keywords": [
-        "Latest News",
-        "Cryptocurrency Exchange",
-        "South Korea",
-        "Privacy",
-        "Identity",
-        "Bithumb"
+        "Latest News"
       ],
       "category": "监管",
       "slug": "20260625-south-korean-authorities-fine-bithumb-136k-over-sharing-user-information-oversea",
@@ -685,22 +755,6 @@
       "category": "市场",
       "slug": "20260625-strategy-has-a-10-month-cash-runway-for-dividends-but-retail-investors-are-losin",
       "localUrl": "/news/20260625-strategy-has-a-10-month-cash-runway-for-dividends-but-retail-investors-are-losin.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin drops to $58K on high US PCE inflation as trader sees &apos;manipulation&apos;",
-      "summary": "Bitcoin fell to 21-month lows as stock market volatility accompanied three-year highs in US PCE inflation, leading to $600 million in hourly crypto liquidations.",
-      "url": "https://cointelegraph.com/markets/bitcoin-drops-to-58-on-pce-highs?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "2026-06-25T15:34:45.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin Price",
-        "Market Analysis",
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260625-bitcoin-drops-to-58k-on-high-us-pce-inflation-as-trader-sees-aposmanipulationapo",
-      "localUrl": "/news/20260625-bitcoin-drops-to-58k-on-high-us-pce-inflation-as-trader-sees-aposmanipulationapo.html"
     },
     {
       "source": "X Wire",
@@ -776,38 +830,6 @@
       "localUrl": "/news/20260625-crypto-for-advisors-bitcoin-planning-for-inheritance.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Why Wall Street values some crypto firms for AI power, not just crypto",
-      "summary": "Galaxy Digital’s stock surge points to a new trend: Investors are rewarding some crypto firms for AI infrastructure, not just digital asset exposure.",
-      "url": "https://cointelegraph.com/learn/galaxy-digital-ai-infrastructure-valuation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "2026-06-25T15:00:00.000Z",
-      "keywords": [
-        "Learn",
-        "AI",
-        "Bitcoin Mining"
-      ],
-      "category": "市场",
-      "slug": "20260625-why-wall-street-values-some-crypto-firms-for-ai-power-not-just-crypto",
-      "localUrl": "/news/20260625-why-wall-street-values-some-crypto-firms-for-ai-power-not-just-crypto.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin likely to fall another 30% to $44,000 by year-end, prominent BTC miner says",
-      "summary": "An early miner says Strategy's stock mNAV has fallen to 0.72, near the level that marked the last cycle's turn, and that bitcoin historically bottoms about six months after that signal.",
-      "url": "https://www.coindesk.com/markets/2026/06/25/bitcoin-can-fall-another-30-to-usd44-000-prominent-btc-miner-says",
-      "publishedAt": "2026-06-25T14:39:55.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Markets",
-        "MicroStrategy",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260625-bitcoin-likely-to-fall-another-30-to-44000-by-year-end-prominent-btc-miner-says",
-      "localUrl": "/news/20260625-bitcoin-likely-to-fall-another-30-to-44000-by-year-end-prominent-btc-miner-says.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin Plummets Lower as Strategy's STRC Dives Further From $100 Mark",
       "summary": "The price of Bitcoin rapidly fell to nearly $58,000 after Strategy's STRC preferred shares notched a new low and MSTR fell alongside.",
@@ -854,40 +876,6 @@
       "localUrl": "/news/20260625-the-us-crypto-spot-etf-aggregate-dashboard-is-now-live-on-sosovalue-in-2024-soso.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Kraken sues crypto derivatives firm PowerTrade over 'misappropriated' funds claim",
-      "summary": "PowerTrade changed Kraken’s positive balance of more than $6 million to a $2 million deficit via a series of unauthorized “corrections” related to trades that had expired or settled months earlier, according to a legal filing.",
-      "url": "https://www.coindesk.com/policy/2026/06/25/kraken-sues-crypto-derivatives-firm-powertrade-over-misappropriated-funds-claim",
-      "publishedAt": "2026-06-25T13:53:28.000Z",
-      "keywords": [
-        "Policy",
-        "Kraken",
-        "Exclusive",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260625-kraken-sues-crypto-derivatives-firm-powertrade-over-misappropriated-funds-claim",
-      "localUrl": "/news/20260625-kraken-sues-crypto-derivatives-firm-powertrade-over-misappropriated-funds-claim.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "CoinDesk 20 performance update: AAVE gains 10.1% as index rises",
-      "summary": "Bitcoin Cash (BCH), up 5.8% from Wednesday, joined Aave (AAVE) as a top performer.",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/25/coindesk-20-performance-update-aave-gains-10-1-as-index-rises",
-      "publishedAt": "2026-06-25T13:15:26.000Z",
-      "keywords": [
-        "CoinDesk Indices",
-        "CoinDesk Indices",
-        "CoinDesk 20",
-        "charts",
-        "Prices",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260625-coindesk-20-performance-update-aave-gains-101-as-index-rises",
-      "localUrl": "/news/20260625-coindesk-20-performance-update-aave-gains-101-as-index-rises.html"
-    },
-    {
       "source": "X Wire",
       "title": "0/ The Tornado Cash legal saga continues. Alex Pertsev is still fighting for his freedom. Guest thread by @ameensol spotlighting @alex_pertsev's legal case in the Netherlands and the ongoing battle to protect privacy. 🧵 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE03YUlEN3R1RnMwQ013MnNqUUR4bXhoM29kemg3WmZuTmptRmtSMlUwd2ZfaEZHaVA2MUJaR3BRRW5kOWlfV3RjRFE3cG9mMEF3NW1BZmYwZ3llU3E2UWc?oc=5\" target=\"_blank\">0/ The Tornado Cash legal saga continue…",
@@ -897,22 +885,6 @@
       "category": "X热点",
       "slug": "20260625-0-the-tornado-cash-legal-saga-continues-alex-pertsev-is-still-fighting-for-his-f",
       "localUrl": "/news/20260625-0-the-tornado-cash-legal-saga-continues-alex-pertsev-is-still-fighting-for-his-f.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Uniswap, Spark aim to build stablecoin FX market as banks, fintechs enter the industry",
-      "summary": "The protocols are building shared liquidity and trading infrastructure for a future with hundreds of competing digital currencies on blockchain rails.",
-      "url": "https://www.coindesk.com/business/2026/06/25/uniswap-spark-aim-to-build-stablecoin-fx-market-as-banks-fintechs-enter-the-industry",
-      "publishedAt": "2026-06-25T13:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "DeFi",
-        "Stablecoins",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260625-uniswap-spark-aim-to-build-stablecoin-fx-market-as-banks-fintechs-enter-the-indu",
-      "localUrl": "/news/20260625-uniswap-spark-aim-to-build-stablecoin-fx-market-as-banks-fintechs-enter-the-indu.html"
     },
     {
       "source": "Decrypt",
@@ -963,28 +935,6 @@
       "category": "X热点",
       "slug": "20260625-bitcoin-will-likely-bottom-below-realized-price-53k-just-like-it-did-in-every-pr",
       "localUrl": "/news/20260625-bitcoin-will-likely-bottom-below-realized-price-53k-just-like-it-did-in-every-pr.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Fast sweep of the lows on #Bitcoin and a quick move upwards. The weekly hasn't closed yet, but if the weekly can close above the 200-Week MA, we're in great territory for more upside. Ultimately; don't sell your #Bitcoin to buy it back lower. Just simply hold wo - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqLUQtMUg3U0lCS2tjaGFfOE9ZLUVVZmJ1VDFVLS12N3IxX3BnTEwwc0RpSWRUSHd6Vk1hQUlMdVk2ek10T25vdGx2YVp4RWt0UU5UY2tDMzEzV3Z6dlVYNUVvZw?oc=5\" target=\"_blank\">Fast sweep of the lows on #Bitco…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqLUQtMUg3U0lCS2tjaGFfOE9ZLUVVZmJ1VDFVLS12N3IxX3BnTEwwc0RpSWRUSHd6Vk1hQUlMdVk2ek10T25vdGx2YVp4RWt0UU5UY2tDMzEzV3Z6dlVYNUVvZw?oc=5",
-      "publishedAt": "2026-06-25T06:55:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260625-fast-sweep-of-the-lows-on-bitcoin-and-a-quick-move-upwards-the-weekly-hasnt-clos",
-      "localUrl": "/news/20260625-fast-sweep-of-the-lows-on-bitcoin-and-a-quick-move-upwards-the-weekly-hasnt-clos.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "One of China’s Best-Known Bitcoin Miners Sees BTC Bear-Market Bottom at $42,000-$44,000 in Late 2026 Jiang Zhuoer, one of China’s best-known Bitcoin miners, predicted that the current BTC bear market may bottom between October and December 2026 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVSlVlRldVa0psTzVGZ1JHN2p4SF95aWtDajRpVEtHcEQ3UFhTdHcxNURiVmpVdE9ISFVYQ1N2MkJnZ2lvSzZiWVFlNlBjRFh0RXRHNTlCTjJoS1lSM2d0Tlc2RQ?oc=5\" target=\"_blank\">One of China’s Best-Known Bitcoi…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVSlVlRldVa0psTzVGZ1JHN2p4SF95aWtDajRpVEtHcEQ3UFhTdHcxNURiVmpVdE9ISFVYQ1N2MkJnZ2lvSzZiWVFlNlBjRFh0RXRHNTlCTjJoS1lSM2d0Tlc2RQ?oc=5",
-      "publishedAt": "2026-06-25T03:28:35.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260625-one-of-chinas-best-known-bitcoin-miners-sees-btc-bear-market-bottom-at-42000-440",
-      "localUrl": "/news/20260625-one-of-chinas-best-known-bitcoin-miners-sees-btc-bear-market-bottom-at-42000-440.html"
     },
     {
       "source": "X Wire",
@@ -1076,32 +1026,6 @@
       "localUrl": "/news/20260624-leaked-code-suggests-anthropic-is-preparing-to-bring-fable-5-back.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Researcher Throws Cold Water on Microsoft Quantum Claims",
-      "summary": "A physicist's formal critique argues Microsoft has not demonstrated the topological qubit behind its Majorana 2 quantum chip.",
-      "url": "https://decrypt.co/371998/microsoft-topological-qubit-quantum-claims-challenge",
-      "publishedAt": "2026-06-24T19:07:12.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "综合",
-      "slug": "20260624-researcher-throws-cold-water-on-microsoft-quantum-claims",
-      "localUrl": "/news/20260624-researcher-throws-cold-water-on-microsoft-quantum-claims.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "'Stop Buying Bitcoin': Strategy Needs More Cash Fast, Analyst Says as STRC Hits New Low",
-      "summary": "STRC fell even lower Wednesday while MSTR bleeds. CryptoQuant says that Strategy needs to stop buying Bitcoin and start stacking cash.",
-      "url": "https://decrypt.co/371995/stop-buying-bitcoin-strategy-needs-more-cash-fast-strc-new-low",
-      "publishedAt": "2026-06-24T18:40:29.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "市场",
-      "slug": "20260624-stop-buying-bitcoin-strategy-needs-more-cash-fast-analyst-says-as-strc-hits-new-",
-      "localUrl": "/news/20260624-stop-buying-bitcoin-strategy-needs-more-cash-fast-analyst-says-as-strc-hits-new-.html"
-    },
-    {
       "source": "X Wire",
       "title": "It's official: Crypto has now erased more than HALF of its value in just 8 months. On October 6th, 2025, the total market cap of crypto hit a record $4.3 trillion. Today, 261 days later, crypto is worth just $2.0 trillion, marking a -54% decline in value. This means cry - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LNkM5TW1OVmdfMEN0SzdVZGI5SW1LaHFqWnFfTUstbjEteWVuY3Z1dndJMTZ0cV9ERVViS3YtMmpIU0piNWpHcjl0TGVWSnI3WHpncnA3bUFGcVZTY3BRUjZ0bjhtUQ?oc=5\" target=\"_blank\">It's official: Crypto has no…",
@@ -1122,28 +1046,6 @@
       "category": "X热点",
       "slug": "20260624-i-need-all-the-bitcoin-and-crypto-people-who-say-its-going-to-a-million-and-how-",
       "localUrl": "/news/20260624-i-need-all-the-bitcoin-and-crypto-people-who-say-its-going-to-a-million-and-how-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: Bitcoin falls below $60,000, now down nearly -20% this month. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QQnRfNXdxYnczQzItSGswN1lneW9kakNwNEpFR1lxRENlYW1zZGxSeUJQZVJ4NkU2a3lWc2I4T1luWUZTOXBuWWVXbnhCbEtlNmhqdldBc0xQeVpKZlpZcjhJTGpTQQ?oc=5\" target=\"_blank\">BREAKING: Bitcoin falls belo…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QQnRfNXdxYnczQzItSGswN1lneW9kakNwNEpFR1lxRENlYW1zZGxSeUJQZVJ4NkU2a3lWc2I4T1luWUZTOXBuWWVXbnhCbEtlNmhqdldBc0xQeVpKZlpZcjhJTGpTQQ?oc=5",
-      "publishedAt": "2026-06-24T16:54:52.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260624-breaking-bitcoin-falls-below-60000-now-down-nearly-20-this-month-xcom",
-      "localUrl": "/news/20260624-breaking-bitcoin-falls-below-60000-now-down-nearly-20-this-month-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: $12.6 trillion Charles Schwab officially rolls out Bitcoin trading 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tSV9SNnJKemp4MnZVVFM3TGNiNEJ3MUI2SnpDdVBtSXhqSjFHTGZCUUdXdk56UWFCdVo2czNxLVhoZmd1aHpXeS0zSENaUk5GbTJEUHdJb3VqcFYwOEM2WURLUDhkYVk?oc=5\" target=\"_blank\">JUST IN: $12.6 trillion Cha…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tSV9SNnJKemp4MnZVVFM3TGNiNEJ3MUI2SnpDdVBtSXhqSjFHTGZCUUdXdk56UWFCdVo2czNxLVhoZmd1aHpXeS0zSENaUk5GbTJEUHdJb3VqcFYwOEM2WURLUDhkYVk?oc=5",
-      "publishedAt": "2026-06-24T16:13:18.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260624-just-in-126-trillion-charles-schwab-officially-rolls-out-bitcoin-trading-xcom",
-      "localUrl": "/news/20260624-just-in-126-trillion-charles-schwab-officially-rolls-out-bitcoin-trading-xcom.html"
     },
     {
       "source": "X Wire",
@@ -1190,17 +1092,6 @@
       "category": "监管",
       "slug": "20260623-the-efs-new-structure",
       "localUrl": "/news/20260623-the-efs-new-structure.html"
-    },
-    {
-      "source": "Solana Blog",
-      "title": "MoneyGram Joins Solana Developer Platform",
-      "summary": "MoneyGram joins Solana Developer Platform as an infrastructure partner and validator, advancing blockchain-powered global payments with compliant, API-driven infrastructure.",
-      "url": "https://solana.com/news/money-gram-joins-solana-developer-platform",
-      "publishedAt": "2026-06-22T11:00:00.000Z",
-      "keywords": [],
-      "category": "基础设施",
-      "slug": "20260622-moneygram-joins-solana-developer-platform",
-      "localUrl": "/news/20260622-moneygram-joins-solana-developer-platform.html"
     }
   ]
 }
