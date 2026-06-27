@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-27T08:04:14.576Z</lastmod>
+    <lastmod>2026-06-27T10:20:34.932Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-27T08:04:14.576Z</lastmod>
+    <lastmod>2026-06-27T10:20:34.932Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260627-eu-lawmakers-urge-assessing-defi-staking-nft-regulation.html</loc>
+    <lastmod>2026-06-27T08:21:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260627-ripple-ceo-stays-bullish-on-bitcoin-but-says-saylors-strategy-has-hurt-crypto.html</loc>
@@ -39,6 +45,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260627-sol-reclaims-72-but-onchain-data-flags-weakening-momentum.html</loc>
     <lastmod>2026-06-27T02:47:59.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260627-interesting-bitcoin-is-less-than-3000-away-from-where-germany-sold-should-german.html</loc>
+    <lastmod>2026-06-27T02:30:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -199,6 +211,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260626-each-bitcoin-bear-market-is-shallower-than-the-last-because-the-wave-of-high-con.html</loc>
+    <lastmod>2026-06-26T14:55:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260626-inside-a-sandwich-attack-lessons-from-the-75-million-heist-against-jaredfromsubw.html</loc>
     <lastmod>2026-06-26T14:38:22.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -343,12 +361,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260626-heres-a-log-scale-chart-from-a-traditional-cycle-perspective-bitcoin-does-not-lo.html</loc>
-    <lastmod>2026-06-26T07:02:27.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260626-not-sure-bitcoin-is-at-the-cycle-bottom-xcom.html</loc>
     <lastmod>2026-06-26T07:02:25.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -381,18 +393,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260626-live-markets-bitcoin-edges-higher-as-us-stocks-recover-from-big-early-losses.html</loc>
     <lastmod>2026-06-26T05:10:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260626-sharplink-buys-eth-after-8-month-pause-as-token-hits-2026-low.html</loc>
-    <lastmod>2026-06-26T03:56:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260626-just-in-tether-flips-ethereum-in-market-cap-usdt-18606b-eth-18566b-xcom.html</loc>
-    <lastmod>2026-06-26T02:32:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
