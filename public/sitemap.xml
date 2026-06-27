@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-27T14:53:22.829Z</lastmod>
+    <lastmod>2026-06-27T16:17:44.261Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-27T14:53:22.829Z</lastmod>
+    <lastmod>2026-06-27T16:17:44.261Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260627-coinbase-circle-underperform-big-tech-as-crypto-stock-slump-deepens.html</loc>
+    <lastmod>2026-06-27T16:02:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260627-retail-investors-appear-to-be-rotating-out-of-gold-and-bitcoin-into-semiconducto.html</loc>
+    <lastmod>2026-06-27T15:02:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260627-tether-putting-23-billion-gold-stockpile-to-work-with-bullion-backed-loans.html</loc>
+    <lastmod>2026-06-27T15:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260627-billionaire-jeremy-grantham-dismisses-bitcoin-says-crypto-will-fade-with-a-whimp.html</loc>
@@ -93,12 +111,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260627-sol-reclaims-72-but-onchain-data-flags-weakening-momentum.html</loc>
     <lastmod>2026-06-27T02:47:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260627-interesting-bitcoin-is-less-than-3000-away-from-where-germany-sold-should-german.html</loc>
-    <lastmod>2026-06-27T02:30:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -379,12 +391,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260626-japanese-financial-services-giant-sbi-holdings-to-buy-bitbank-for-289-million.html</loc>
-    <lastmod>2026-06-26T08:31:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260626-polymarket-hit-by-29m-theft-users-to-be-refunded.html</loc>
     <lastmod>2026-06-26T08:20:37.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -399,12 +405,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260626-breaking-parliamentary-finance-panel-to-meet-rbi-over-crypto-regulations-on-july.html</loc>
     <lastmod>2026-06-26T07:35:36.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260626-tether-stablecoin-flips-ether-by-market-cap-as-eth-routs-to-15k.html</loc>
-    <lastmod>2026-06-26T06:02:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
