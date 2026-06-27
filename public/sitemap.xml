@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-27T20:17:54.553Z</lastmod>
+    <lastmod>2026-06-27T22:14:18.721Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-27T20:17:54.553Z</lastmod>
+    <lastmod>2026-06-27T22:14:18.721Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260627-fidelity-rebuts-claims-bitcoin-becomes-less-secure-after-halvings.html</loc>
+    <lastmod>2026-06-27T20:53:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260627-heres-what-happened-in-crypto-today.html</loc>
@@ -369,12 +375,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260626-australian-regulator-extends-no-action-period-for-crypto-licensing.html</loc>
     <lastmod>2026-06-26T12:14:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260626-ascendex-withdrawal-complaints-mount-as-zachxbt-questions-reserves.html</loc>
-    <lastmod>2026-06-26T11:47:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
