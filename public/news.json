@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-06-28T00:12:42.038Z",
+  "updatedAt": "2026-06-28T05:43:14.260Z",
   "total": 81,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Base post-mortem reveals sequencer bug behind back-to-back outages",
+      "summary": "A “race condition” after the system was reset prevented the sequencers from catching up, causing the second outage.",
+      "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-06-28T05:14:05.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260628-base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages",
+      "localUrl": "/news/20260628-base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin unspent transaction outputs signal capitulation underway: analyst",
+      "summary": "“These periods have always been profitable for long-term investors,” said CryptoQuant analyst Darkfost.",
+      "url": "https://cointelegraph.com/news/bitcoin-unspent-transaction-outputs-signal-capitulation-underway-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-06-28T02:51:04.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260628-bitcoin-unspent-transaction-outputs-signal-capitulation-underway-analyst",
+      "localUrl": "/news/20260628-bitcoin-unspent-transaction-outputs-signal-capitulation-underway-analyst.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Fidelity rebuts claims Bitcoin becomes less secure after halvings",
@@ -637,17 +663,6 @@
       "localUrl": "/news/20260626-us-senators-push-to-end-cftc-assault-on-state-oversight-of-prediction-markets.html"
     },
     {
-      "source": "X Wire",
-      "title": "Bitcoin miners secured blockspace. OptimAI miners secure intelligence. Every device becomes a sensor. Every user becomes a trainer. Every interaction improves AI. 💡 optimai.network/optimai-nodes#… - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE01WFNramZrT3E0RlVSeGZ2dWdpUGNSeG13S0RhV28xYVIyZFlLYmtEaVVNQTlsdUxOeTZuMlhEUEJoX0ZYdFZJYVlnNkVJVDJNR1BybFg5Z085Ny12LXRZTDlRbjdXUQ?oc=5\" target=\"_blank\">Bitcoin miners secured block…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01WFNramZrT3E0RlVSeGZ2dWdpUGNSeG13S0RhV28xYVIyZFlLYmtEaVVNQTlsdUxOeTZuMlhEUEJoX0ZYdFZJYVlnNkVJVDJNR1BybFg5Z085Ny12LXRZTDlRbjdXUQ?oc=5",
-      "publishedAt": "2026-06-26T16:01:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260626-bitcoin-miners-secured-blockspace-optimai-miners-secure-intelligence-every-devic",
-      "localUrl": "/news/20260626-bitcoin-miners-secured-blockspace-optimai-miners-secure-intelligence-every-devic.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’",
       "summary": "Bitcoin risked turning $60,000 into resistance as BTC price weakness persisted following another tech-driven sell-off in Asian stock markets.",
@@ -762,19 +777,6 @@
       "localUrl": "/news/20260626-coindesk-20-performance-update-aave-jumps-89-leading-index-higher.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Hyperliquid added to Singapore's Investor Alert List",
-      "summary": "Singapore’s financial regulator added Hyperliquid to its Investor Alert List, as a reminder that the decentralized exchange was not licensed in the region.",
-      "url": "https://cointelegraph.com/news/hyperliquid-singapore-mas-investor-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-06-26T13:11:29.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260626-hyperliquid-added-to-singapores-investor-alert-list",
-      "localUrl": "/news/20260626-hyperliquid-added-to-singapores-investor-alert-list.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Wall Street's IPO revival hasn't reached dot-com euphoria levels, Goldman Sachs says",
       "summary": "U.S. IPO issuance has rebounded sharply in 2026, but the bank said the current surge lacks the deal volume and speculative excess that defined the dot-com era.",
@@ -813,19 +815,6 @@
       "category": "DeFi",
       "slug": "20260626-morning-minute-kraken-eyes-15-stake-in-aave-at-385m-valuation",
       "localUrl": "/news/20260626-morning-minute-kraken-eyes-15-stake-in-aave-at-385m-valuation.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Australian regulator extends no-action period for crypto licensing",
-      "summary": "Australia’s financial regulator extended temporary enforcement relief for digital asset businesses until Sept. 30 as firms transition into the country’s licensing system.",
-      "url": "https://cointelegraph.com/news/australia-asic-extends-crypto-licensing-relief-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-06-26T12:14:31.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260626-australian-regulator-extends-no-action-period-for-crypto-licensing",
-      "localUrl": "/news/20260626-australian-regulator-extends-no-action-period-for-crypto-licensing.html"
     },
     {
       "source": "CoinDesk",
@@ -1042,6 +1031,17 @@
     },
     {
       "source": "X Wire",
+      "title": "BITCOIN SLIDES AS ETF OUTFLOWS SPIKE Bitcoin fell below $60,000 after nearly $500 million flowed out of spot Bitcoin ETFs on Wednesday. Crypto markets also saw $660 million in liquidations, with long positions taking the biggest hit. Ethereum and XRP - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE85bmJHS3BFaXhPV3JmTFBISnoyOS1nVV9HMkRtNzByRW1qTXNZbTFrS2lSMTBEU0ZmTEVrNFRnSG1XbHdmNEdwd0NJWmZkTFlZdXA3UTdqdzVxNUdGZmc?oc=5\" target=\"_blank\">BITCOIN SLIDES AS ETF OUTFLOWS SPIKE Bi…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85bmJHS3BFaXhPV3JmTFBISnoyOS1nVV9HMkRtNzByRW1qTXNZbTFrS2lSMTBEU0ZmTEVrNFRnSG1XbHdmNEdwd0NJWmZkTFlZdXA3UTdqdzVxNUdGZmc?oc=5",
+      "publishedAt": "2026-06-25T15:19:47.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260625-bitcoin-slides-as-etf-outflows-spike-bitcoin-fell-below-60000-after-nearly-500-m",
+      "localUrl": "/news/20260625-bitcoin-slides-as-etf-outflows-spike-bitcoin-fell-below-60000-after-nearly-500-m.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Adding fuel to the fire is the ongoing carnage in crypto. In 60 minutes, amid the reversal in stocks, nearly $500 million worth of levered crypto longs were liquidated. This sent Bitcoin to $58,000 for the first time in 21 months. And, leverage is now a market-wide i - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HV1owSlBUQ1dOOVRjMUJybDRoXzhHbndVNy12WVdlVkFsUkFPS3BzaUdCN0NCNTA0ek8yYVZISktxeUViZko5R0NEc2NVN2szekNpUDJZVXpxeGNfcmJmWUlpVWd1QQ?oc=5\" target=\"_blank\">Adding fuel to the fire is t…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HV1owSlBUQ1dOOVRjMUJybDRoXzhHbndVNy12WVdlVkFsUkFPS3BzaUdCN0NCNTA0ek8yYVZISktxeUViZko5R0NEc2NVN2szekNpUDJZVXpxeGNfcmJmWUlpVWd1QQ?oc=5",
@@ -1053,6 +1053,17 @@
     },
     {
       "source": "X Wire",
+      "title": "JUST IN: 🇯🇵 Financial giant SBI Holdings agrees to buy Japanese Bitcoin exchange 'Bitbank' for $288 million 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3MGNSZlRPRmlqcGFtSWluNEFvcTZJb0JIUGwwQUVHR0I5anBQY3BjX0wxcGxueUw4aVZFeVpLRUhjN1AxWWpKRmgzSFBZU3RpVllmTzFlcFpIRDIxMTVwYmhBQ21fQWs?oc=5\" target=\"_blank\">JUST IN: 🇯🇵 Financial gia…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3MGNSZlRPRmlqcGFtSWluNEFvcTZJb0JIUGwwQUVHR0I5anBQY3BjX0wxcGxueUw4aVZFeVpLRUhjN1AxWWpKRmgzSFBZU3RpVllmTzFlcFpIRDIxMTVwYmhBQ21fQWs?oc=5",
+      "publishedAt": "2026-06-25T13:10:47.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260625-just-in-financial-giant-sbi-holdings-agrees-to-buy-japanese-bitcoin-exchange-bit",
+      "localUrl": "/news/20260625-just-in-financial-giant-sbi-holdings-agrees-to-buy-japanese-bitcoin-exchange-bit.html"
+    },
+    {
+      "source": "X Wire",
       "title": "JUST IN: Bitcoin has already risen back above $61,000 since falling below the 'Bitcoin Power Law' for the first time ever yesterday 👀 Bullish! 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85NTNIR1pRQUZSSXFjVFFVTUtYYVFXR0l6OUlqcnItN0U0UldMMzkxRjYzckhzdm1MTUNxc3dHVXFQR2tvV2dwcVNVUEZOeDhtVHdMT0pRTkItdW1iU25PbFdtMEtxYlU?oc=5\" target=\"_blank\">JUST IN: Bitcoin has alread…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85NTNIR1pRQUZSSXFjVFFVTUtYYVFXR0l6OUlqcnItN0U0UldMMzkxRjYzckhzdm1MTUNxc3dHVXFQR2tvV2dwcVNVUEZOeDhtVHdMT0pRTkItdW1iU25PbFdtMEtxYlU?oc=5",
@@ -1061,17 +1072,6 @@
       "category": "X热点",
       "slug": "20260625-just-in-bitcoin-has-already-risen-back-above-61000-since-falling-below-the-bitco",
       "localUrl": "/news/20260625-just-in-bitcoin-has-already-risen-back-above-61000-since-falling-below-the-bitco.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin has always been operating in 4 year cycles where it crashes at the end 2014, 2018, 2022, 2026 It's actually great because every 4th year people really get super sad and give up on it (or well that's how it feels like) There's also surely some sentiment pu - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PeTA1UXNSampaZ0J3RG5YUDkxUk1ocl9Fal80RWc0bzhwLVdfVTVkQV8wRlFpeUZmS2Jtd3JKaXY0bEFHcUhoOHdBeGp4VTNsZ1BnYlAtOGV4b194N3c?oc=5\" target=\"_blank\">Bitcoin has always been operating in 4 …",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PeTA1UXNSampaZ0J3RG5YUDkxUk1ocl9Fal80RWc0bzhwLVdfVTVkQV8wRlFpeUZmS2Jtd3JKaXY0bEFHcUhoOHdBeGp4VTNsZ1BnYlAtOGV4b194N3c?oc=5",
-      "publishedAt": "2026-06-25T01:16:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260625-bitcoin-has-always-been-operating-in-4-year-cycles-where-it-crashes-at-the-end-2",
-      "localUrl": "/news/20260625-bitcoin-has-always-been-operating-in-4-year-cycles-where-it-crashes-at-the-end-2.html"
     }
   ]
 }
