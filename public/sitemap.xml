@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-28T09:29:35.238Z</lastmod>
+    <lastmod>2026-06-28T11:57:20.683Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-28T09:29:35.238Z</lastmod>
+    <lastmod>2026-06-28T11:57:20.683Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -27,6 +27,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260628-base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages.html</loc>
     <lastmod>2026-06-28T05:14:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260628-grayscale-research-head-strategy-selling-over-3b-in-btc-could-help-restore-marke.html</loc>
+    <lastmod>2026-06-28T04:05:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -67,6 +73,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260627-the-demise-of-strategy-portends-far-greater-negative-consequences-for-bitcoin-an.html</loc>
+    <lastmod>2026-06-27T18:47:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260627-why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down.html</loc>
     <lastmod>2026-06-27T18:11:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -93,6 +105,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260627-coinbase-circle-underperform-big-tech-as-crypto-stock-slump-deepens.html</loc>
     <lastmod>2026-06-27T16:02:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260627-wild-ethereum-is-no-longer-a-top-100-asset-ranked-by-market-cap-xcom.html</loc>
+    <lastmod>2026-06-27T15:30:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -201,12 +219,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260627-ripple-ceo-michael-saylors-bitcoin-strategy-has-hurt-crypto-market-ripple-ceo-br.html</loc>
     <lastmod>2026-06-27T01:57:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260627-latest-bitcoins-current-53-drawdown-is-its-shallowest-bear-market-on-record-far-.html</loc>
-    <lastmod>2026-06-27T00:30:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -411,18 +423,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260626-bitgo-joins-cryptos-ai-layoff-wave-slashing-staff-by-15.html</loc>
     <lastmod>2026-06-26T10:15:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260626-after-holding-eth-for-8-years-these-ethereum-ogs-finally-gave-up-four-ethereum-o.html</loc>
-    <lastmod>2026-06-26T09:29:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260626-how-to-use-ai-for-crypto-trading-ai-is-transforming-how-traders-research-markets.html</loc>
-    <lastmod>2026-06-26T09:22:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
