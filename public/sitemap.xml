@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-28T05:43:14.300Z</lastmod>
+    <lastmod>2026-06-28T09:29:35.238Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-28T05:43:14.300Z</lastmod>
+    <lastmod>2026-06-28T09:29:35.238Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260628-grayscales-pandl-hopes-strategy-sells-3b-in-bitcoin-to-restore-confidence.html</loc>
+    <lastmod>2026-06-28T07:59:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260628-bitcoin-falls-below-60000-on-track-for-a-rare-back-to-back-quarterly-loss.html</loc>
+    <lastmod>2026-06-28T07:10:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260628-base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages.html</loc>
@@ -21,6 +33,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260628-bitcoin-unspent-transaction-outputs-signal-capitulation-underway-analyst.html</loc>
     <lastmod>2026-06-28T02:51:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260627-wdyt-billionaire-jeremy-grantham-says-bitcoin-will-fade-away-with-a-whimper-sinc.html</loc>
+    <lastmod>2026-06-27T23:20:30.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -87,6 +105,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260627-tether-putting-23-billion-gold-stockpile-to-work-with-bullion-backed-loans.html</loc>
     <lastmod>2026-06-27T15:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260627-1-crypto-expert-goes-up-against-10-traditional-bankers-to-argue-that-stablecoins.html</loc>
+    <lastmod>2026-06-27T14:41:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -325,6 +349,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260626-shutdown-surge-60-crypto-projects-dead-top-three-all-a16z-backed-according-to-ro.html</loc>
+    <lastmod>2026-06-26T15:21:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260626-securitize-expects-to-raise-400-million-as-tokenization-firm-nears-public-debut.html</loc>
     <lastmod>2026-06-26T15:04:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -333,12 +363,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260626-inside-a-sandwich-attack-lessons-from-the-75-million-heist-against-jaredfromsubw.html</loc>
     <lastmod>2026-06-26T14:38:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260626-framework-ventures-raises-400m-to-invest-beyond-crypto-report.html</loc>
-    <lastmod>2026-06-26T13:58:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -385,14 +409,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260626-all-eyes-on-strategys-june-30-ex-dividend-date-and-monthly-strc-dividend-rate-re.html</loc>
-    <lastmod>2026-06-26T10:28:24.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260626-bitgo-joins-cryptos-ai-layoff-wave-slashing-staff-by-15.html</loc>
+    <lastmod>2026-06-26T10:15:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260626-bitgo-joins-cryptos-ai-layoff-wave-slashing-staff-by-15.html</loc>
-    <lastmod>2026-06-26T10:15:33.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260626-after-holding-eth-for-8-years-these-ethereum-ogs-finally-gave-up-four-ethereum-o.html</loc>
+    <lastmod>2026-06-26T09:29:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -405,18 +429,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260626-volatility-tests-every-capital-structure-strategy-remains-focused-on-bitcoin-dis.html</loc>
     <lastmod>2026-06-26T08:16:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260626-breaking-parliamentary-finance-panel-to-meet-rbi-over-crypto-regulations-on-july.html</loc>
-    <lastmod>2026-06-26T07:35:36.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260626-bitmine-largest-ethereum-treasury-company-to-join-russell-1000-as-staked-eth-rea.html</loc>
-    <lastmod>2026-06-26T05:29:43.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,20 +487,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260625-bitcoin-slides-as-etf-outflows-spike-bitcoin-fell-below-60000-after-nearly-500-m.html</loc>
-    <lastmod>2026-06-25T15:19:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260625-adding-fuel-to-the-fire-is-the-ongoing-carnage-in-crypto-in-60-minutes-amid-the-.html</loc>
     <lastmod>2026-06-25T15:04:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260625-just-in-financial-giant-sbi-holdings-agrees-to-buy-japanese-bitcoin-exchange-bit.html</loc>
-    <lastmod>2026-06-25T13:10:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
