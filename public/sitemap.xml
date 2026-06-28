@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-28T20:21:46.146Z</lastmod>
+    <lastmod>2026-06-28T22:12:48.483Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-28T20:21:46.146Z</lastmod>
+    <lastmod>2026-06-28T22:12:48.483Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260628-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-06-28T21:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260628-cz-wants-to-make-the-us-the-capital-of-crypto-state-of-crypto.html</loc>
@@ -81,12 +87,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260628-breaking-michael-saylor-just-announced-that-strategy-just-bought-more-bitcoin-th.html</loc>
     <lastmod>2026-06-28T11:41:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260628-just-in-michael-saylor-hints-at-buying-more-bitcoin-were-gonna-need-more-charts-.html</loc>
-    <lastmod>2026-06-28T11:38:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -229,6 +229,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260627-new-bitcoin-is-a-useless-speculative-mechanism-over-years-and-years-decades-and-.html</loc>
+    <lastmod>2026-06-27T11:27:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260627-why-did-bitcoin-crash-bitcoin-crashes-are-a-recurring-feature-of-crypto-markets-.html</loc>
     <lastmod>2026-06-27T10:37:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -279,6 +285,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260627-ripple-ceo-michael-saylors-bitcoin-strategy-has-hurt-crypto-market-ripple-ceo-br.html</loc>
     <lastmod>2026-06-27T01:57:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260626-strategy-mnav-falls-below-1-undercutting-its-bitcoin-accretion-threshold-as-of-t.html</loc>
+    <lastmod>2026-06-26T22:21:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -391,12 +403,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260626-ethereum-whale-who-shorted-october-2025-crash-opens-197m-eth-short-position.html</loc>
-    <lastmod>2026-06-26T17:02:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260626-trump-administration-asks-openai-to-limit-gpt-56-rollout-reports.html</loc>
     <lastmod>2026-06-26T16:38:33.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -411,12 +417,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260626-bitcoin-etfs-see-13b-exodus-bitcoin-etfs-recorded-134-billion-in-net-outflows-th.html</loc>
     <lastmod>2026-06-26T15:33:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260626-shutdown-surge-60-crypto-projects-dead-top-three-all-a16z-backed-according-to-ro.html</loc>
-    <lastmod>2026-06-26T15:21:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
