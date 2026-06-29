@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-06-28T22:12:48.483Z</lastmod>
+    <lastmod>2026-06-29T00:18:08.451Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-06-28T22:12:48.483Z</lastmod>
+    <lastmod>2026-06-29T00:18:08.451Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260628-binance-booted-from-eu-ethlabs-rises-up-to-save-ethereum-hodlers-digest-june-14-.html</loc>
+    <lastmod>2026-06-28T22:59:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260628-heres-what-happened-in-crypto-today.html</loc>
@@ -229,12 +235,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260627-new-bitcoin-is-a-useless-speculative-mechanism-over-years-and-years-decades-and-.html</loc>
-    <lastmod>2026-06-27T11:27:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260627-why-did-bitcoin-crash-bitcoin-crashes-are-a-recurring-feature-of-crypto-markets-.html</loc>
     <lastmod>2026-06-27T10:37:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -385,12 +385,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260626-sec-cftc-seek-input-on-unified-portfolio-margin-rules-across-securities-and-deri.html</loc>
-    <lastmod>2026-06-26T17:43:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260626-kalshi-scores-fifa-world-cup-spotlight-as-prediction-market-trading-surges-to-re.html</loc>
     <lastmod>2026-06-26T17:35:20.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -417,6 +411,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260626-bitcoin-etfs-see-13b-exodus-bitcoin-etfs-recorded-134-billion-in-net-outflows-th.html</loc>
     <lastmod>2026-06-26T15:33:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260626-shutdown-surge-60-crypto-projects-dead-top-three-all-a16z-backed-according-to-ro.html</loc>
+    <lastmod>2026-06-26T15:21:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
