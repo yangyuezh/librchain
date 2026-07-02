@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-02T21:21:47.842Z</lastmod>
+    <lastmod>2026-07-02T23:20:02.322Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-02T21:21:47.842Z</lastmod>
+    <lastmod>2026-07-02T23:20:02.322Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260702-ripple-co-founder-backs-venture-launched-by-us-senators-son-report.html</loc>
+    <lastmod>2026-07-02T22:01:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260702-openai-offers-us-government-a-42-billion-slice-of-itself-report.html</loc>
+    <lastmod>2026-07-02T21:39:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260702-russia-is-ready-for-widespread-use-of-digital-ruble-by-september-says-bank-gover.html</loc>
@@ -129,6 +141,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260702-sbi-crypto-to-shut-down-mining-pool-that-holds-roughly-2-of-bitcoins-hashrate.html</loc>
     <lastmod>2026-07-02T14:44:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260702-solana-summer-school-let-these-kids-teach-you-how-crypto-works-gentry-no-need-to.html</loc>
+    <lastmod>2026-07-02T14:34:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -337,12 +355,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260702-dubai-crypto-market-hits-50-licensed-firms-after-new-vara-approval.html</loc>
-    <lastmod>2026-07-02T04:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260701-breaking-total-crypto-card-deposits-have-officially-crossed-above-10-billion-for.html</loc>
     <lastmod>2026-07-01T22:05:33.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -427,12 +439,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260701-ahead-of-nyse-listing-securitize-exec-says-defi-can-break-wall-streets-grip-on-s.html</loc>
-    <lastmod>2026-07-01T16:36:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260701-1-today-the-global-policy-strategy-gps-team-is-publishing-ethereum-basics-for-go.html</loc>
     <lastmod>2026-07-01T16:19:47.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -507,12 +513,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260630-donald-trump-reported-earning-at-least-12-billion-in-2025-from-crypto-and-memeco.html</loc>
     <lastmod>2026-06-30T21:26:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260630-were-proud-to-be-the-first-crypto-exchange-partnering-with-anchorage-to-bring-ba.html</loc>
-    <lastmod>2026-06-30T15:00:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
