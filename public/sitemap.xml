@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-02T19:47:08.090Z</lastmod>
+    <lastmod>2026-07-02T21:21:47.842Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-02T19:47:08.090Z</lastmod>
+    <lastmod>2026-07-02T21:21:47.842Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260702-russia-is-ready-for-widespread-use-of-digital-ruble-by-september-says-bank-gover.html</loc>
+    <lastmod>2026-07-02T21:13:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260702-treasury-department-sanctions-over-130-isis-affiliated-crypto-wallets-on-tron.html</loc>
+    <lastmod>2026-07-02T20:59:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260702-ai-researchers-got-chatbots-to-share-cocaine-recipes-using-this-one-wild-trick.html</loc>
@@ -123,12 +135,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260702-ondo-finance-debuts-sec-aligned-tokenized-stock-model-with-blackrock-etf-micron-.html</loc>
     <lastmod>2026-07-02T14:16:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260702-just-in-bitcoin-reclaims-62000-xcom.html</loc>
-    <lastmod>2026-07-02T14:05:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -427,20 +433,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260701-anthropic-bringing-claude-fable-5-back-online-as-us-lifts-export-controls.html</loc>
-    <lastmod>2026-07-01T16:24:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260701-1-today-the-global-policy-strategy-gps-team-is-publishing-ethereum-basics-for-go.html</loc>
     <lastmod>2026-07-01T16:19:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260701-forward-industries-shares-spike-as-leading-solana-treasury-adds-38-million-in-so.html</loc>
-    <lastmod>2026-07-01T15:09:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -465,6 +459,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260701-bitcoin-is-now-down-over-54-from-its-peak-last-october-its-biggest-and-longest-d.html</loc>
     <lastmod>2026-07-01T12:17:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260701-bitcoin-hit-by-rate-strategy-concerns-bitcoin-remains-under-pressure-as-expectat.html</loc>
+    <lastmod>2026-07-01T12:07:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
