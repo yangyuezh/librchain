@@ -1,7 +1,100 @@
 {
-  "updatedAt": "2026-07-02T18:00:20.708Z",
-  "total": 85,
+  "updatedAt": "2026-07-02T19:47:08.047Z",
+  "total": 86,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "AI Researchers Got Chatbots to Share Cocaine Recipes Using This One Wild Trick",
+      "summary": "Researchers say a new jailbreak technique tricked AI models into treating attacker-written text as their own reasoning, bypassing safety guardrails and exposing a deeper security flaw.",
+      "url": "https://decrypt.co/372688/ai-researchers-chatbots-share-cocaine-recipes-wild-trick",
+      "publishedAt": "2026-07-02T19:36:58.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260702-ai-researchers-got-chatbots-to-share-cocaine-recipes-using-this-one-wild-trick",
+      "localUrl": "/news/20260702-ai-researchers-got-chatbots-to-share-cocaine-recipes-using-this-one-wild-trick.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "IMF says tokenization could transform settlement and financial stability",
+      "summary": "The global lender says blockchain-based finance could streamline markets but warns that fragmented standards and regulations may create new systemic risks.",
+      "url": "https://cointelegraph.com/news/imf-tokenization-financial-markets-settlement-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-02T19:17:32.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260702-imf-says-tokenization-could-transform-settlement-and-financial-stability",
+      "localUrl": "/news/20260702-imf-says-tokenization-could-transform-settlement-and-financial-stability.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-02T19:15:44.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260702-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260702-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Russia on track for digital ruble rollout on Sept. 1: Central bank governor",
+      "summary": "EU authorities already preemptively sanctioned Russia’s digital ruble in 2025 as part of measures in response to the country’s war against Ukraine.",
+      "url": "https://cointelegraph.com/news/russia-digital-ruble-rollout-september-central-bank-governor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-02T19:04:55.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260702-russia-on-track-for-digital-ruble-rollout-on-sept-1-central-bank-governor",
+      "localUrl": "/news/20260702-russia-on-track-for-digital-ruble-rollout-on-sept-1-central-bank-governor.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
+      "summary": "The newly-public company's shares are the largest issuer-sponsored tokenized stock at launch, aiming to make a point against rival third-party stock token issuers.",
+      "url": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut",
+      "publishedAt": "2026-07-02T19:00:03.000Z",
+      "keywords": [
+        "Finance",
+        "Tokenization",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260702-securitize-tokenizes-295-million-of-its-own-stock-on-solana-and-avalanche-amid-n",
+      "localUrl": "/news/20260702-securitize-tokenizes-295-million-of-its-own-stock-on-solana-and-avalanche-amid-n.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Securitize Begins Trading on NYSE as Tokenized Shares Land on Solana, Avalanche",
+      "summary": "BlackRock-backed tokenization firm Securitize now has shares trading on the New York Stock Exchange—or via Solana and Avalanche.",
+      "url": "https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche",
+      "publishedAt": "2026-07-02T18:43:50.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260702-securitize-begins-trading-on-nyse-as-tokenized-shares-land-on-solana-avalanche",
+      "localUrl": "/news/20260702-securitize-begins-trading-on-nyse-as-tokenized-shares-land-on-solana-avalanche.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Japanese Financial Giant SBI to Shut Down Bitcoin Mining Pool",
+      "summary": "SBI Crypto, the subsidiary of the Japanese financial giant, is the latest firm to shutter its Bitcoin mining endeavor.",
+      "url": "https://decrypt.co/372686/japanese-financial-giant-sbi-shut-down-bitcoin-mining-pool",
+      "publishedAt": "2026-07-02T18:28:47.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "市场",
+      "slug": "20260702-japanese-financial-giant-sbi-to-shut-down-bitcoin-mining-pool",
+      "localUrl": "/news/20260702-japanese-financial-giant-sbi-to-shut-down-bitcoin-mining-pool.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin price taps new July high above $62K on weak US jobs data",
@@ -74,6 +167,17 @@
       "category": "市场",
       "slug": "20260702-bitwise-says-strc-selloff-signals-crypto-cycle-nearing-a-bottom-not-strategys-br",
       "localUrl": "/news/20260702-bitwise-says-strc-selloff-signals-crypto-cycle-nearing-a-bottom-not-strategys-br.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "VALR, Africa's largest crypto exchange by trading volume, is using Hyperliquid as the onchain infrastructure layer to bring perpetuals to its users. This marks the first time a centralized exchange has integrated Hyperliquid directly. By building on Hyperliquid, V - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mVTVRRFJtaUl5UWc3OHZnU0g2SFNfeTRJRGpXSWNHSHFkQVdkdWRpLVBjWDkwRjQtcFR2WVJrOXk0a1J3SUx1WmJhUVNTTF9ra1ZoVXI1TkhEWHNubWZIUXo5Yw?oc=5\" target=\"_blank\">VALR, Africa's largest crypto ex…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mVTVRRFJtaUl5UWc3OHZnU0g2SFNfeTRJRGpXSWNHSHFkQVdkdWRpLVBjWDkwRjQtcFR2WVJrOXk0a1J3SUx1WmJhUVNTTF9ra1ZoVXI1TkhEWHNubWZIUXo5Yw?oc=5",
+      "publishedAt": "2026-07-02T16:38:51.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260702-valr-africas-largest-crypto-exchange-by-trading-volume-is-using-hyperliquid-as-t",
+      "localUrl": "/news/20260702-valr-africas-largest-crypto-exchange-by-trading-volume-is-using-hyperliquid-as-t.html"
     },
     {
       "source": "Cointelegraph",
@@ -266,19 +370,6 @@
       "localUrl": "/news/20260702-us-payroll-growth-slowed-sharply-in-june-with-only-57000-jobs-added.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-02T12:34:45.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260702-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260702-heres-what-happened-in-crypto-today.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "A struggling Nasdaq-listed company that tried to copy Saylor's Bitcoin playbook is completely dumping crypto for AI",
       "summary": "The Nasdaq-listed Korean media company once lined up $1 billion in financing to buy 10,000 bitcoin. A recent filing confirms its balance is now zero as it pivots to AI infrastructure and fights to stay listed.",
@@ -376,17 +467,6 @@
       "category": "市场",
       "slug": "20260702-smaller-tokens-lead-as-bitcoin-sol-rally-in-first-real-bounce-of-the-selloff",
       "localUrl": "/news/20260702-smaller-tokens-lead-as-bitcoin-sol-rally-in-first-real-bounce-of-the-selloff.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitget is bridging crypto and traditional finance with a new suite of industry-leading products built to make trading simpler, faster, and more accessible. Tune in to our CEO’s Mid-Year Speech and discover how Bitget UEX is reshaping the future of trading. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xU2VuUzMtTndQUWstOXJia0RXWHNhMzN4N1Ffc2tKLWo5S09yVUtKQlNIRXAzTzRlaWV1dnJDR29tTmNJc3NlLU84bURwT1prbmY3Xy1uMG1TT1E?oc=5\" target=\"_blank\">Bitget is bridging crypto and traditional f…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xU2VuUzMtTndQUWstOXJia0RXWHNhMzN4N1Ffc2tKLWo5S09yVUtKQlNIRXAzTzRlaWV1dnJDR29tTmNJc3NlLU84bURwT1prbmY3Xy1uMG1TT1E?oc=5",
-      "publishedAt": "2026-07-02T11:00:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260702-bitget-is-bridging-crypto-and-traditional-finance-with-a-new-suite-of-industry-l",
-      "localUrl": "/news/20260702-bitget-is-bridging-crypto-and-traditional-finance-with-a-new-suite-of-industry-l.html"
     },
     {
       "source": "Cointelegraph",
@@ -638,21 +718,6 @@
       "localUrl": "/news/20260702-robinhood-links-with-dydx-labs-to-launch-new-dex-arcus.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "FBI Director Kash Patel caught sleeping on required disclosure of six-figure MSTR investment: Report",
-      "summary": "Patel loaded up on BTC-holder MSTR shares but failed to file a timely disclosure, according to a report by nonpartisan news outlet NOTUS.",
-      "url": "https://www.coindesk.com/policy/2026/07/02/fbi-director-kash-patel-caught-sleeping-on-required-disclosure-of-six-figure-mstr-investment",
-      "publishedAt": "2026-07-02T05:24:18.000Z",
-      "keywords": [
-        "Policy",
-        "MicroStrategy",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260702-fbi-director-kash-patel-caught-sleeping-on-required-disclosure-of-six-figure-mst",
-      "localUrl": "/news/20260702-fbi-director-kash-patel-caught-sleeping-on-required-disclosure-of-six-figure-mst.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "France to strengthen response as crypto wrench attacks hit 77",
       "summary": "French Interior Minister Laurent Nuñez promised a “more ambitious” three-part plan to reinforce security measures for the crypto sector.",
@@ -677,32 +742,6 @@
       "category": "市场",
       "slug": "20260702-dubai-crypto-market-hits-50-licensed-firms-after-new-vara-approval",
       "localUrl": "/news/20260702-dubai-crypto-market-hits-50-licensed-firms-after-new-vara-approval.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Analyst warns BTC could drop further after worst June since 2022",
-      "summary": "The June close above realized price but below the 200-week moving average “signals the bear bottom is still ahead per prior cycles,” one analyst said.",
-      "url": "https://cointelegraph.com/news/renowned-analyst-predicts-btc-drop-to-52k-after-worst-june-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-02T03:42:24.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260702-analyst-warns-btc-could-drop-further-after-worst-june-since-2022",
-      "localUrl": "/news/20260702-analyst-warns-btc-could-drop-further-after-worst-june-since-2022.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Venice AI becomes unicorn after $65M Series A as AI privacy concerns grow",
-      "summary": "The funding round is Venice AI’s first external capital raise since it launched in May 2024.",
-      "url": "https://cointelegraph.com/news/venice-ai-becomes-a-unicorn-as-ai-privacy-concerns-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-02T03:31:39.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260702-venice-ai-becomes-unicorn-after-65m-series-a-as-ai-privacy-concerns-grow",
-      "localUrl": "/news/20260702-venice-ai-becomes-unicorn-after-65m-series-a-as-ai-privacy-concerns-grow.html"
     },
     {
       "source": "X Wire",
@@ -941,6 +980,17 @@
       "localUrl": "/news/20260701-forward-industries-shares-spike-as-leading-solana-treasury-adds-38-million-in-so.html"
     },
     {
+      "source": "Solana Blog",
+      "title": "How External Assets Start Trading on Solana From Day One",
+      "summary": "Discover how Sunrise brings external assets to Solana as canonical mints, enabling faster market formation across tokenized stocks, crypto, and more.",
+      "url": "https://solana.com/news/how-external-assets-start-trading-on-solana-from-day-one",
+      "publishedAt": "2026-07-01T15:08:00.000Z",
+      "keywords": [],
+      "category": "基础设施",
+      "slug": "20260701-how-external-assets-start-trading-on-solana-from-day-one",
+      "localUrl": "/news/20260701-how-external-assets-start-trading-on-solana-from-day-one.html"
+    },
+    {
       "source": "X Wire",
       "title": "JUST IN: 🇺🇸 U.S. M2 money supply surpasses $23 trillion for the first time in history 👀 This is why we Bitcoin. Prepare accordingly 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFd2NnWEE0QzA3UzhFS1RjNE5NTl9YcGtQRHB6YU5DWjB0Q0JSaGxPMHV1WnZjcHZ2YWZiYU1nQlRHWU5vZmNhUUJscmlfQTQ5cUZuQVUxUHprVlNDLWROTW5sMVV1LXM?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 U.S. M2 money…",
@@ -963,19 +1013,6 @@
       "localUrl": "/news/20260701-ethereum-institutional-launches-to-support-institutional-adoption-of-ethereum-et.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Morning Minute: Major New Stablecoin Launch Shakes Incumbents",
-      "summary": "Open USD takes a shot at USDC and USDT, with backing from heavy hitters including Visa, Mastercard and Google.",
-      "url": "https://decrypt.co/372513/morning-minute-major-new-stablecoin-launch-shakes-incumbents",
-      "publishedAt": "2026-07-01T12:31:07.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "综合",
-      "slug": "20260701-morning-minute-major-new-stablecoin-launch-shakes-incumbents",
-      "localUrl": "/news/20260701-morning-minute-major-new-stablecoin-launch-shakes-incumbents.html"
-    },
-    {
       "source": "X Wire",
       "title": "Bitcoin is now down over 54% from its peak last October, its biggest and longest drawdown since 2022. bitcoin:native Video: youtube.com/watch?v=F_-VTZ… - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtNlJMMHpZRmlGc0NqNmt6amV4Y3pXSGYtWlFObVpVdHJTTmxGRDJnLUhPTDVQRGJ6WE9jSFhpNF9CU3puR3dRWTFEZVRqbjN6R0pBMXRDdGI3VVlUSWQzZldZT1JGZw?oc=5\" target=\"_blank\">Bitcoin is now down over 54%…",
@@ -985,19 +1022,6 @@
       "category": "X热点",
       "slug": "20260701-bitcoin-is-now-down-over-54-from-its-peak-last-october-its-biggest-and-longest-d",
       "localUrl": "/news/20260701-bitcoin-is-now-down-over-54-from-its-peak-last-october-its-biggest-and-longest-d.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Taiwan Passes Sweeping Crypto Law With Licensing, Stablecoin Rules",
-      "summary": "The new law puts virtual asset firms under FSC oversight for the first time and sets reserve-and-trust rules for stablecoins.",
-      "url": "https://decrypt.co/372505/taiwan-passes-sweeping-crypto-law-with-licensing-stablecoin-rules",
-      "publishedAt": "2026-07-01T12:00:33.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260701-taiwan-passes-sweeping-crypto-law-with-licensing-stablecoin-rules",
-      "localUrl": "/news/20260701-taiwan-passes-sweeping-crypto-law-with-licensing-stablecoin-rules.html"
     },
     {
       "source": "X Wire",
@@ -1022,19 +1046,6 @@
       "localUrl": "/news/20260701-just-in-citi-cuts-its-12-month-bitcoin-forecast-to-82000-from-112000-as-crypto-e.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Goliath Ventures CEO Pleads Guilty to $250M Crypto Ponzi Scheme",
-      "summary": "Christopher Delgado’s \"liquidity pool\" fraud took in at least $400 million, with the proceeds spent on mansions, Lamborghinis, and Rolexes.",
-      "url": "https://decrypt.co/372502/goliath-ventures-ceo-pleads-guilty-to-250m-crypto-ponzi-scheme",
-      "publishedAt": "2026-07-01T08:43:31.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260701-goliath-ventures-ceo-pleads-guilty-to-250m-crypto-ponzi-scheme",
-      "localUrl": "/news/20260701-goliath-ventures-ceo-pleads-guilty-to-250m-crypto-ponzi-scheme.html"
-    },
-    {
       "source": "X Wire",
       "title": "BREAKING: Bitcoin falls below $58,000 as levered liquidations accelerate. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GVFQ4bXV4VGpucHpDcFJSV016azZyWDBmNGtjZ3BFdVB2UTc5dmdJNHV6Z1V0em9QQWQ1OXViMktZV3FjQmx6aGhHR3pfMUQ1U3V2eExtV2RLMnJvZXc4T3RLN2ZkZw?oc=5\" target=\"_blank\">BREAKING: Bitcoin falls belo…",
@@ -1044,6 +1055,17 @@
       "category": "X热点",
       "slug": "20260701-breaking-bitcoin-falls-below-58000-as-levered-liquidations-accelerate-xcom",
       "localUrl": "/news/20260701-breaking-bitcoin-falls-below-58000-as-levered-liquidations-accelerate-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Trump made more than $1 billion on crypto deals last year, a new disclosure report shows - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BRmJkTEsxOVoxY2tUaWxVNnU4dXBiM3Y0TTNaZkdRUENMSW84b3o1cWNBMDlXTHFMdFJrNUdBOE80TUk5Tk9fWEUwVVREU1VCQU1fY3Brcw?oc=5\" target=\"_blank\">Trump made more than $1 billion on crypto deals …",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BRmJkTEsxOVoxY2tUaWxVNnU4dXBiM3Y0TTNaZkdRUENMSW84b3o1cWNBMDlXTHFMdFJrNUdBOE80TUk5Tk9fWEUwVVREU1VCQU1fY3Brcw?oc=5",
+      "publishedAt": "2026-07-01T00:29:06.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260701-trump-made-more-than-1-billion-on-crypto-deals-last-year-a-new-disclosure-report",
+      "localUrl": "/news/20260701-trump-made-more-than-1-billion-on-crypto-deals-last-year-a-new-disclosure-report.html"
     },
     {
       "source": "Ethereum Blog",
@@ -1079,17 +1101,6 @@
       "category": "X热点",
       "slug": "20260630-donald-trump-reported-earning-at-least-12-billion-in-2025-from-crypto-and-memeco",
       "localUrl": "/news/20260630-donald-trump-reported-earning-at-least-12-billion-in-2025-from-crypto-and-memeco.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: The amount of Bitcoin held in long-term holder addresses has reached a NEW ALL-TIME HIGH 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BT3lqQnlEOTRPdXFfUVZBVTRuQ29UVUpEOE0tc3FXdmt6cFJOMk5DenRnN2puS2plSFZseDlyQ3NEemRVOV9JN2RqNm9najVZUC10Wjg3WS1GUU43LWl3NjRGZzduMTg?oc=5\" target=\"_blank\">JUST IN: The amount of Bitc…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BT3lqQnlEOTRPdXFfUVZBVTRuQ29UVUpEOE0tc3FXdmt6cFJOMk5DenRnN2puS2plSFZseDlyQ3NEemRVOV9JN2RqNm9najVZUC10Wjg3WS1GUU43LWl3NjRGZzduMTg?oc=5",
-      "publishedAt": "2026-06-30T16:37:11.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260630-just-in-the-amount-of-bitcoin-held-in-long-term-holder-addresses-has-reached-a-n",
-      "localUrl": "/news/20260630-just-in-the-amount-of-bitcoin-held-in-long-term-holder-addresses-has-reached-a-n.html"
     },
     {
       "source": "X Wire",
