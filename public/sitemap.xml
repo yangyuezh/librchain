@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-01T22:38:10.410Z</lastmod>
+    <lastmod>2026-07-02T00:18:38.982Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-01T22:38:10.410Z</lastmod>
+    <lastmod>2026-07-02T00:18:38.982Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260701-breaking-total-crypto-card-deposits-have-officially-crossed-above-10-billion-for.html</loc>
+    <lastmod>2026-07-01T22:05:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260701-bitcoin-tops-60k-amid-fed-inflation-talks-is-bull-trap-or-65k-next.html</loc>
@@ -73,6 +79,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260701-new-cryptos-bear-market-hasnt-scared-off-wall-street-as-the-race-for-clarity-con.html</loc>
+    <lastmod>2026-07-01T20:06:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260701-just-in-robinhood-to-launch-crypto-trading-in-uk-xcom.html</loc>
     <lastmod>2026-07-01T19:48:23.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -121,20 +133,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260701-a-new-era-of-finance-begins-now-see-whats-possible-on-robinhood-chain-learn-more.html</loc>
-    <lastmod>2026-07-01T18:41:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260701-bitmine-sharplink-and-joe-lubin-accelerate-wall-street-ethereum-push-with-nonpro.html</loc>
     <lastmod>2026-07-01T18:40:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260701-robinhood-chain-mainnet-is-live-an-ai-native-blockchain-built-to-bring-real-worl.html</loc>
-    <lastmod>2026-07-01T18:39:30.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -391,12 +391,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260701-bitcoin-closed-june-at-58526-below-200-week-moving-average-62k-above-realized-co.html</loc>
-    <lastmod>2026-07-01T08:50:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260701-goliath-ventures-ceo-pleads-guilty-to-250m-crypto-ponzi-scheme.html</loc>
     <lastmod>2026-07-01T08:43:31.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -423,6 +417,18 @@
   <url>
     <loc>https://www.librchain.com/news/20260701-anthropic-to-bring-back-fable-5-as-us-lifts-export-controls.html</loc>
     <lastmod>2026-07-01T06:14:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260701-new-dubai-braces-for-a-wave-of-european-crypto-founders-fleeing-ahead-of-micas-j.html</loc>
+    <lastmod>2026-07-01T02:00:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260701-the-crypto-legislation-heading-to-the-senate-floor-must-stop-the-president-and-h.html</loc>
+    <lastmod>2026-07-01T01:17:15.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -513,12 +519,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260629-10-questions-to-ask-your-blockchain-analytics-provider-about-data-quality.html</loc>
     <lastmod>2026-06-29T15:00:13.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260629-i-agree-with-leaderjohnthune-the-senate-should-vote-on-crypto-market-structure-l.html</loc>
-    <lastmod>2026-06-29T14:00:14.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
