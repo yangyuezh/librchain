@@ -1,10 +1,83 @@
 {
-  "updatedAt": "2026-07-03T07:33:53.994Z",
+  "updatedAt": "2026-07-03T10:48:18.711Z",
   "total": 86,
   "items": [
     {
       "source": "CoinDesk",
-      "title": "Live updates: More bitcoin is now held at a loss than at a profit",
+      "title": "Memory and semiconductor stocks lose momentum, bitcoin rebounds in sign of changing investor focus",
+      "summary": "After dominating markets in 2026, AI-tied memory and semiconductor stocks are losing momentum, raising the question whether capital will shift back into bitcoin.",
+      "url": "https://www.coindesk.com/markets/2026/07/03/memory-and-semiconductor-stocks-lose-momentum-bitcoin-rebounds-in-sign-of-changing-investor-focus",
+      "publishedAt": "2026-07-03T10:41:52.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Artificial Intelligence",
+        "ETFs",
+        "No Grayscale",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260703-memory-and-semiconductor-stocks-lose-momentum-bitcoin-rebounds-in-sign-of-changi",
+      "localUrl": "/news/20260703-memory-and-semiconductor-stocks-lose-momentum-bitcoin-rebounds-in-sign-of-changi.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "India's central bank revives push to isolate banks from crypto: Report",
+      "summary": "The Indian central bank reportedly urged lawmakers to keep banks insulated from crypto and private stablecoins while preserving room for regulated tokenization.",
+      "url": "https://cointelegraph.com/news/rbi-crypto-containment-india-policy-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-03T09:26:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260703-indias-central-bank-revives-push-to-isolate-banks-from-crypto-report",
+      "localUrl": "/news/20260703-indias-central-bank-revives-push-to-isolate-banks-from-crypto-report.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenization could make finance faster, but also more susceptible to shocks, IMF says",
+      "summary": "Tokenization could make finance faster and cheaper. It also makes it more vulnerable to sudden shocks, the International Monetary Fund said.",
+      "url": "https://www.coindesk.com/markets/2026/07/03/tokenization-could-make-finance-faster-but-also-more-susceptible-to-shocks-imf-says",
+      "publishedAt": "2026-07-03T09:06:29.000Z",
+      "keywords": [
+        "Markets",
+        "IMF",
+        "Tokenization",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260703-tokenization-could-make-finance-faster-but-also-more-susceptible-to-shocks-imf-s",
+      "localUrl": "/news/20260703-tokenization-could-make-finance-faster-but-also-more-susceptible-to-shocks-imf-s.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Irish authorities seize another 500 Bitcoin, bringing 2026 total to 1,500 BTC",
+      "summary": "Irish authorities recovered 500 Bitcoin in criminal proceeds, bringing the total seized by the Criminal Assets Bureau to about $92 million in BTC for 2026.",
+      "url": "https://cointelegraph.com/news/irish-authorities-recover-500-bitcoin-criminal-proceeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-03T08:47:45.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260703-irish-authorities-seize-another-500-bitcoin-bringing-2026-total-to-1500-btc",
+      "localUrl": "/news/20260703-irish-authorities-seize-another-500-bitcoin-bringing-2026-total-to-1500-btc.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US spot Bitcoin ETFs top $200M in daily inflows for first time since May",
+      "summary": "US spot Bitcoin ETFs post $221.7 million inflows, the strongest daily intake since early May, as Bitcoin recovers above $61,000.",
+      "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-222-million-daily-inflow-reverse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-03T07:56:40.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260703-us-spot-bitcoin-etfs-top-200m-in-daily-inflows-for-first-time-since-may",
+      "localUrl": "/news/20260703-us-spot-bitcoin-etfs-top-200m-in-daily-inflows-for-first-time-since-may.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin rises above $61,000 as the red hot semiconductor trade starts to fade",
       "summary": "",
       "url": "https://www.coindesk.com/tech/2026/07/03/live-updates-more-bitcoin-is-now-held-at-a-loss-than-at-a-profit",
       "publishedAt": "2026-07-03T07:05:31.000Z",
@@ -14,8 +87,8 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260703-live-updates-more-bitcoin-is-now-held-at-a-loss-than-at-a-profit",
-      "localUrl": "/news/20260703-live-updates-more-bitcoin-is-now-held-at-a-loss-than-at-a-profit.html"
+      "slug": "20260703-live-updates-bitcoin-rises-above-61000-as-the-red-hot-semiconductor-trade-starts",
+      "localUrl": "/news/20260703-live-updates-bitcoin-rises-above-61000-as-the-red-hot-semiconductor-trade-starts.html"
     },
     {
       "source": "CoinDesk",
@@ -104,9 +177,20 @@
       "localUrl": "/news/20260703-ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-62000.html"
     },
     {
+      "source": "X Wire",
+      "title": "We are aware of reports regarding unusual activity involving USDC on Ethereum and other chains within Hinkal. As a precautionary measure, the affected contracts have been frozen while our engineering team investigates and analyzes the on-chain activity i - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXX1V4bTdyTWxubjJzcFNuQ1BfTFlzVDZ1b1Btc2Y5LWc2MXduWlRMcXM5RDdZZ3RqcTEzU1loUmpDSng4TDJvTHhnRXdKY1dscW81enF5TlZPY0wyWlI4bGVSMms0bjQ?oc=5\" target=\"_blank\">We are aware of reports reg…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXX1V4bTdyTWxubjJzcFNuQ1BfTFlzVDZ1b1Btc2Y5LWc2MXduWlRMcXM5RDdZZ3RqcTEzU1loUmpDSng4TDJvTHhnRXdKY1dscW81enF5TlZPY0wyWlI4bGVSMms0bjQ?oc=5",
+      "publishedAt": "2026-07-03T05:14:08.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260703-we-are-aware-of-reports-regarding-unusual-activity-involving-usdc-on-ethereum-an",
+      "localUrl": "/news/20260703-we-are-aware-of-reports-regarding-unusual-activity-involving-usdc-on-ethereum-an.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "US dominates Polymarket political bets despite geoblock: Report",
-      "summary": "New data from Allium suggest that US users are bypassing geoblocks to bet on markets offered on Polymarket’s global platform.",
+      "summary": "New data from Allium suggests that US users are bypassing geoblocks to bet on markets offered on Polymarket’s global platform.",
       "url": "https://cointelegraph.com/news/us-dominates-polymarket-political-bets-despite-geoblock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-03T03:38:37.000Z",
       "keywords": [
@@ -167,6 +251,17 @@
       "category": "市场",
       "slug": "20260702-is-bitcoin-heading-for-65k-sharplink-buys-16m-eth-market-moves",
       "localUrl": "/news/20260702-is-bitcoin-heading-for-65k-sharplink-buys-16m-eth-market-moves.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "That same logic applies to Bitcoin as well. It’s getting closer to its power law support line. Again, I don’t see the catalyst yet for a reversal. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvU2VrbkljUTR6NVl1VFZHcHA2eE8yQ1hkbHpBZFd3T3VSbThjTlZSNmFQbEl6QnlxTHBWRGZGdlNkemFWZzJOZzlqY0hrX2JHbWZaeVUxZmJ4TFdVR2lGX2FlcGU3dw?oc=5\" target=\"_blank\">That same logic applies to B…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvU2VrbkljUTR6NVl1VFZHcHA2eE8yQ1hkbHpBZFd3T3VSbThjTlZSNmFQbEl6QnlxTHBWRGZGdlNkemFWZzJOZzlqY0hrX2JHbWZaeVUxZmJ4TFdVR2lGX2FlcGU3dw?oc=5",
+      "publishedAt": "2026-07-02T22:17:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260702-that-same-logic-applies-to-bitcoin-as-well-its-getting-closer-to-its-power-law-s",
+      "localUrl": "/news/20260702-that-same-logic-applies-to-bitcoin-as-well-its-getting-closer-to-its-power-law-s.html"
     },
     {
       "source": "Cointelegraph",
@@ -660,19 +755,6 @@
       "localUrl": "/news/20260702-warshs-comments-set-the-stage-for-us-jobs-data-to-ignite-bitcoin-gold-rally.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Standard Chartered, Circle bring USDC minting onto banking rails",
-      "summary": "Standard Chartered and Circle launch bank-led USDC minting and redemption for institutions, starting in Dubai’s DIFC with planned global expansion.",
-      "url": "https://cointelegraph.com/news/standard-chartered-circle-usdc-minting-banking-rails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-02T11:41:44.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260702-standard-chartered-circle-bring-usdc-minting-onto-banking-rails",
-      "localUrl": "/news/20260702-standard-chartered-circle-bring-usdc-minting-onto-banking-rails.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: 🇯🇵 Japan's Metaplanet buys 2,823 Bitcoin worth $172.7 million 🚀 They now own 43,000 BTC 🤯 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wNU5rdjV2QUpqN21id3VDY3J3Z3JNSVFlbzFVcW9pcVdEdndqTHNCY1hJMExGMGs0b3ZQT05CcTRySUtKcFVqVVQwRFdjZ0QzY0g1R3UyeVBGT05tT1JOMFgtd3VJZjA?oc=5\" target=\"_blank\">JUST IN: 🇯🇵 Japan's Metap…",
@@ -699,32 +781,6 @@
       "localUrl": "/news/20260702-smaller-tokens-lead-as-bitcoin-sol-rally-in-first-real-bounce-of-the-selloff.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Solana Foundation launches framework for protocol-level governance",
-      "summary": "The Solana Foundation launched a framework for protocol-level governance, enabling validators with at least 100,000 delegated SOL to publish new proposals.",
-      "url": "https://cointelegraph.com/news/solana-foundation-framework-protocol-governance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-02T10:59:43.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260702-solana-foundation-launches-framework-for-protocol-level-governance",
-      "localUrl": "/news/20260702-solana-foundation-launches-framework-for-protocol-level-governance.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "SBI Crypto shuts Bitcoin mining pool after 5-year run",
-      "summary": "SBI Crypto will shut down its Bitcoin mining pool on July 31 after more than five years, ranking 12th globally with about 2.2% of hashrate share.",
-      "url": "https://cointelegraph.com/news/sbi-bitcoin-mining-pool-shutdown-five-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-02T10:37:14.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260702-sbi-crypto-shuts-bitcoin-mining-pool-after-5-year-run",
-      "localUrl": "/news/20260702-sbi-crypto-shuts-bitcoin-mining-pool-after-5-year-run.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin rises 4% to above $61,000 as inflation fears soften",
       "summary": "Bitcoin rose after Fed Chair Kevin Warsh said inflation risks had eased. A 7.9% drop in South Korea's Kospi on renewed AI chip worries did little to dent the bid.",
@@ -739,21 +795,6 @@
       "localUrl": "/news/20260702-bitcoin-rises-4-to-above-61000-as-inflation-fears-soften.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "ChatGPT developer OpenAI said to discuss offering U.S. government a 5% stake: FT",
-      "summary": "The proposal aims to give the American public a financial stake in AI while easing political scrutiny of the industry.",
-      "url": "https://www.coindesk.com/policy/2026/07/02/openai-reported-to-discuss-offering-u-s-government-a-5-stake",
-      "publishedAt": "2026-07-02T10:06:22.000Z",
-      "keywords": [
-        "Policy",
-        "Artificial Intelligence",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260702-chatgpt-developer-openai-said-to-discuss-offering-us-government-a-5-stake-ft",
-      "localUrl": "/news/20260702-chatgpt-developer-openai-said-to-discuss-offering-us-government-a-5-stake-ft.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Scattered Spider Suspect Extradited to US Over $8M Crypto Ransom Demand",
       "summary": "The teenager allegedly helped to breach a luxury jeweler and demand $8 million in crypto, as part of a crew tied to $100 million in ransoms.",
@@ -765,23 +806,6 @@
       "category": "监管",
       "slug": "20260702-scattered-spider-suspect-extradited-to-us-over-8m-crypto-ransom-demand",
       "localUrl": "/news/20260702-scattered-spider-suspect-extradited-to-us-over-8m-crypto-ransom-demand.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin holds above $61,000 as momentum stocks plunge to start quarter",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/07/02/live-markets-bitcoin-holds-above-usd60-000-as-yen-jumps-on-intervention-fears",
-      "publishedAt": "2026-07-02T09:42:41.000Z",
-      "keywords": [
-        "Tech",
-        "Bitcoin News",
-        "Japan",
-        "Live News",
-        "live_news"
-      ],
-      "category": "市场",
-      "slug": "20260702-live-updates-bitcoin-holds-above-61000-as-momentum-stocks-plunge-to-start-quarte",
-      "localUrl": "/news/20260702-live-updates-bitcoin-holds-above-61000-as-momentum-stocks-plunge-to-start-quarte.html"
     },
     {
       "source": "X Wire",
@@ -979,6 +1003,17 @@
       "localUrl": "/news/20260701-crcl-sell-off-looks-overdone-say-analysts-as-circle-ceo-addresses-open-usd-threa.html"
     },
     {
+      "source": "X Wire",
+      "title": "I stated that I ignore Bitcoin as an investment in the 1st half of midterm years. The second half of midterm years usually marks the accumulation zone/market cycle bottom. Today (July 1st), Bitcoin put in a new low, justifying the views I held for the 1st half of the y - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhNlhBRU9wYjZYd2ZlRFFZRXNZYU44TjNKYVdVZkdDX0F2emJQazREM2F5MWlmNWRScGdBNlRQSzZhTWVWalZ3VUxBV0JOT0NycGxIdzRzcWtmS29MZk84ZG4yZXk?oc=5\" target=\"_blank\">I stated that I ignore Bitcoin …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhNlhBRU9wYjZYd2ZlRFFZRXNZYU44TjNKYVdVZkdDX0F2emJQazREM2F5MWlmNWRScGdBNlRQSzZhTWVWalZ3VUxBV0JOT0NycGxIdzRzcWtmS29MZk84ZG4yZXk?oc=5",
+      "publishedAt": "2026-07-01T17:29:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260701-i-stated-that-i-ignore-bitcoin-as-an-investment-in-the-1st-half-of-midterm-years",
+      "localUrl": "/news/20260701-i-stated-that-i-ignore-bitcoin-as-an-investment-in-the-1st-half-of-midterm-years.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Bitcoin Pops Off 21-Month Low to $60K as Soft Data Eases Rate-Hike Fears",
       "summary": "BTC recovered from local lows to $60,000 after softer U.S. jobs and factory data revived hopes the Fed's hawkish turn could be easing.",
@@ -1026,28 +1061,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Ethereum Institutional Launches to Support Institutional Adoption of Ethereum Ethereum Institutional announced its launch as an independent non-profit focused on accelerating institutional adoption of Ethereum, its L2s, applications and broader ecosystem. It - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQUnk2SkJsdWJFbG1WSTFkWU5aeTRYMG5yZzBoNWZFZTJoUE5IZUZOQVFveTIyYWR5M0M4ejhnMDk4UzN6RTF6b0lTTHRZUm1wYmxoTVB5MThGZm45Q0R2TVlVUQ?oc=5\" target=\"_blank\">Ethereum Institutional Launches …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQUnk2SkJsdWJFbG1WSTFkWU5aeTRYMG5yZzBoNWZFZTJoUE5IZUZOQVFveTIyYWR5M0M4ejhnMDk4UzN6RTF6b0lTTHRZUm1wYmxoTVB5MThGZm45Q0R2TVlVUQ?oc=5",
-      "publishedAt": "2026-07-01T13:30:14.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260701-ethereum-institutional-launches-to-support-institutional-adoption-of-ethereum-et",
-      "localUrl": "/news/20260701-ethereum-institutional-launches-to-support-institutional-adoption-of-ethereum-et.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin is now down over 54% from its peak last October, its biggest and longest drawdown since 2022. bitcoin:native Video: youtube.com/watch?v=F_-VTZ… - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtNlJMMHpZRmlGc0NqNmt6amV4Y3pXSGYtWlFObVpVdHJTTmxGRDJnLUhPTDVQRGJ6WE9jSFhpNF9CU3puR3dRWTFEZVRqbjN6R0pBMXRDdGI3VVlUSWQzZldZT1JGZw?oc=5\" target=\"_blank\">Bitcoin is now down over 54%…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtNlJMMHpZRmlGc0NqNmt6amV4Y3pXSGYtWlFObVpVdHJTTmxGRDJnLUhPTDVQRGJ6WE9jSFhpNF9CU3puR3dRWTFEZVRqbjN6R0pBMXRDdGI3VVlUSWQzZldZT1JGZw?oc=5",
-      "publishedAt": "2026-07-01T12:17:14.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260701-bitcoin-is-now-down-over-54-from-its-peak-last-october-its-biggest-and-longest-d",
-      "localUrl": "/news/20260701-bitcoin-is-now-down-over-54-from-its-peak-last-october-its-biggest-and-longest-d.html"
-    },
-    {
-      "source": "X Wire",
       "title": "THE WINKLEVOSS TWINS ARE SELLING BITCOIN The Winklevoss Twins just moved $60M of BTC to Gemini, and $7M of ETH. This activity pattern matches usual selling patterns (custody > hot wallet). The Winklevosses still hold over $300M of BTC. They ma - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQMGlhU01ORS1XUzVIYktjemluUHNIWXhSbld3aElkLVJlNE50MV8tWTNSUEQzS2djVE5Rc0U2dFhUMFgyYzYwZzdfY08zN3FmZFZuTXJMUXhRbjQ?oc=5\" target=\"_blank\">THE WINKLEVOSS TWINS ARE SELLING BITCOIN Th…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQMGlhU01ORS1XUzVIYktjemluUHNIWXhSbld3aElkLVJlNE50MV8tWTNSUEQzS2djVE5Rc0U2dFhUMFgyYzYwZzdfY08zN3FmZFZuTXJMUXhRbjQ?oc=5",
@@ -1056,17 +1069,6 @@
       "category": "X热点",
       "slug": "20260701-the-winklevoss-twins-are-selling-bitcoin-the-winklevoss-twins-just-moved-60m-of-",
       "localUrl": "/news/20260701-the-winklevoss-twins-are-selling-bitcoin-the-winklevoss-twins-just-moved-60m-of-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 JUST IN: Citi cuts its 12-month Bitcoin forecast to $82,000 from $112,000 as crypto ETF flows turn negative, per Reuters. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fX1hGWVVYTjRGQWpqTWFXQVkydFp6QzZ0SURTaHhoMWlQUXVwVGtRYUc4MHFlWkxuamhiWWhzcTgxQlBoZndnbzVWLUotN3M1MmczaEZTcF9QVE9hV3lSTlAxbFU?oc=5\" target=\"_blank\">🚨 JUST IN: Citi cuts its 12-mo…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fX1hGWVVYTjRGQWpqTWFXQVkydFp6QzZ0SURTaHhoMWlQUXVwVGtRYUc4MHFlWkxuamhiWWhzcTgxQlBoZndnbzVWLUotN3M1MmczaEZTcF9QVE9hV3lSTlAxbFU?oc=5",
-      "publishedAt": "2026-07-01T09:34:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260701-just-in-citi-cuts-its-12-month-bitcoin-forecast-to-82000-from-112000-as-crypto-e",
-      "localUrl": "/news/20260701-just-in-citi-cuts-its-12-month-bitcoin-forecast-to-82000-from-112000-as-crypto-e.html"
     },
     {
       "source": "X Wire",
@@ -1105,14 +1107,14 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 Vice President JD Vance discloses owning $250,001 to $500,000 in Bitcoin. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLOVMzV3V5NHU0OUVWRjJBd1ZZWFExNW1EbWQxV3l5UVFzSXl0aWpZdTU5VXdQbDFlYzRmalpTNHA5VFQ4SGdSSTZkZ25lc25yX2x5aExaNUlwRm9KU2JqS0F6X2NNYWs?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Vice Presiden…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLOVMzV3V5NHU0OUVWRjJBd1ZZWFExNW1EbWQxV3l5UVFzSXl0aWpZdTU5VXdQbDFlYzRmalpTNHA5VFQ4SGdSSTZkZ25lc25yX2x5aExaNUlwRm9KU2JqS0F6X2NNYWs?oc=5",
-      "publishedAt": "2026-06-30T21:58:00.000Z",
+      "title": "Donald Trump reported earning at least $1.2 billion in 2025 from crypto and memecoin-related businesses, according to his latest annual financial disclosure - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPYUZFZ052SUtWb2YxRV83bTAzSUFWUlh2bzY3SzZxZmxlWE1RRGpiQ2RWZ3V0QTdHQU9fbGZUTE1RenhLSlZDb2M0c1FuTTI4WmJQTmRlT3hDWFVPT0E?oc=5\" target=\"_blank\">Donald Trump reported earning at least …",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPYUZFZ052SUtWb2YxRV83bTAzSUFWUlh2bzY3SzZxZmxlWE1RRGpiQ2RWZ3V0QTdHQU9fbGZUTE1RenhLSlZDb2M0c1FuTTI4WmJQTmRlT3hDWFVPT0E?oc=5",
+      "publishedAt": "2026-06-30T21:26:44.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260630-just-in-vice-president-jd-vance-discloses-owning-250001-to-500000-in-bitcoin-xco",
-      "localUrl": "/news/20260630-just-in-vice-president-jd-vance-discloses-owning-250001-to-500000-in-bitcoin-xco.html"
+      "slug": "20260630-donald-trump-reported-earning-at-least-12-billion-in-2025-from-crypto-and-memeco",
+      "localUrl": "/news/20260630-donald-trump-reported-earning-at-least-12-billion-in-2025-from-crypto-and-memeco.html"
     },
     {
       "source": "Chainalysis Blog",
