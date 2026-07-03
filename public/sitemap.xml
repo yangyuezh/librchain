@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-03T21:20:35.091Z</lastmod>
+    <lastmod>2026-07-03T23:16:34.140Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-03T21:20:35.091Z</lastmod>
+    <lastmod>2026-07-03T23:16:34.140Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260703-sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back.html</loc>
+    <lastmod>2026-07-03T21:36:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260703-claude-fable-5-isnt-nerfed-the-router-is-just-paranoid.html</loc>
@@ -241,6 +247,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260703-crypto-looks-very-ready-for-one-of-the-most-hated-rallies-in-a-long-time-xcom.html</loc>
+    <lastmod>2026-07-03T07:51:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260703-latest-jpmorgan-says-strategys-new-bitcoin-sale-policy-introduces-avoidable-two-.html</loc>
     <lastmod>2026-07-03T07:20:39.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -303,12 +315,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260703-us-dominates-polymarket-political-bets-despite-geoblock-report.html</loc>
     <lastmod>2026-07-03T03:38:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260703-strategy-will-be-less-important-in-bitcoin-after-strc-incident-bitwise.html</loc>
-    <lastmod>2026-07-03T03:12:04.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -459,12 +465,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260702-metaplanet-acquires-additional-2823-bitcoin-total-holdings-reach-43000-btc-xcom.html</loc>
     <lastmod>2026-07-02T06:48:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260702-notice-regarding-the-q2-fy2026-results-of-the-bitcoin-income-generation-business.html</loc>
-    <lastmod>2026-07-02T06:46:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
