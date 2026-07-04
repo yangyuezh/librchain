@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-04T07:11:40.343Z</lastmod>
+    <lastmod>2026-07-04T10:22:31.439Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-04T07:11:40.343Z</lastmod>
+    <lastmod>2026-07-04T10:22:31.439Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260704-tim-draper-denies-moving-bitcoin-reiterates-250000-btc-prediction.html</loc>
+    <lastmod>2026-07-04T08:31:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260704-xrp-climbs-8-as-record-holder-losses-signal-better-risk-reward-for-buyers.html</loc>
@@ -145,12 +151,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260703-the-internet-is-better-when-everyday-services-respect-the-people-using-them-prot.html</loc>
-    <lastmod>2026-07-03T13:58:23.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260703-brand-legal-political-technical-institutional-cultural-and-physical-power-can-in.html</loc>
     <lastmod>2026-07-03T13:25:41.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -279,12 +279,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260703-irish-authorities-seize-another-500-bitcoin-bringing-2026-total-to-1500-btc.html</loc>
     <lastmod>2026-07-03T08:47:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260703-us-spot-bitcoin-etfs-top-200m-in-daily-inflows-for-first-time-since-may.html</loc>
-    <lastmod>2026-07-03T07:56:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -495,6 +489,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260701-chainalysis-supports-robinhood-chain-with-automatic-token-support.html</loc>
     <lastmod>2026-07-01T19:30:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260701-ethereum-institutional-ethereuminsti-will-play-a-central-and-key-role-as-a-neutr.html</loc>
+    <lastmod>2026-07-01T18:53:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
