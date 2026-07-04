@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-04T10:22:31.439Z</lastmod>
+    <lastmod>2026-07-04T12:15:29.055Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-04T10:22:31.439Z</lastmod>
+    <lastmod>2026-07-04T12:15:29.055Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260704-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-07-04T12:04:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260704-uks-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-h.html</loc>
+    <lastmod>2026-07-04T12:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260704-revolut-to-delist-usdt-in-august-citing-regulatory-and-risk-concerns.html</loc>
+    <lastmod>2026-07-04T11:25:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260704-tim-draper-denies-moving-bitcoin-reiterates-250000-btc-prediction.html</loc>
@@ -33,12 +51,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260704-bitcoin-profit-and-loss-ratio-falls-to-43-month-low.html</loc>
     <lastmod>2026-07-04T05:05:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260704-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-07-04T05:02:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -277,18 +289,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260703-irish-authorities-seize-another-500-bitcoin-bringing-2026-total-to-1500-btc.html</loc>
-    <lastmod>2026-07-03T08:47:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260703-crypto-looks-very-ready-for-one-of-the-most-hated-rallies-in-a-long-time-xcom.html</loc>
-    <lastmod>2026-07-03T07:51:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260703-latest-jpmorgan-says-strategys-new-bitcoin-sale-policy-introduces-avoidable-two-.html</loc>
     <lastmod>2026-07-03T07:20:39.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -337,6 +337,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260703-second-largest-bitcoin-miner-riot-platforms-deposits-another-500-btc-307m-to-nyd.html</loc>
+    <lastmod>2026-07-03T04:15:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260702-that-same-logic-applies-to-bitcoin-as-well-its-getting-closer-to-its-power-law-s.html</loc>
     <lastmod>2026-07-02T22:17:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -375,6 +381,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260702-securitize-begins-trading-on-nyse-as-tokenized-shares-land-on-solana-avalanche.html</loc>
     <lastmod>2026-07-02T18:43:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260702-here-is-a-chart-highlighting-a-developing-w-pattern-in-bitcoinnative-note-that-i.html</loc>
+    <lastmod>2026-07-02T18:39:35.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -433,12 +445,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260702-ondo-finance-debuts-sec-aligned-tokenized-stock-model-with-blackrock-etf-micron-.html</loc>
-    <lastmod>2026-07-02T14:16:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260702-standard-chartered-becomes-first-global-bank-to-offer-direct-usdc-access-to-inst.html</loc>
     <lastmod>2026-07-02T13:58:09.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260701-chainalysis-supports-robinhood-chain-with-automatic-token-support.html</loc>
     <lastmod>2026-07-01T19:30:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260701-ethereum-institutional-ethereuminsti-will-play-a-central-and-key-role-as-a-neutr.html</loc>
-    <lastmod>2026-07-01T18:53:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
