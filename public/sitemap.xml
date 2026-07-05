@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-05T08:16:04.094Z</lastmod>
+    <lastmod>2026-07-05T11:11:39.325Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-05T08:16:04.094Z</lastmod>
+    <lastmod>2026-07-05T11:11:39.325Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260705-binance-outflows-triple-to-12b-as-eth-withdrawals-hit-3-year-high.html</loc>
+    <lastmod>2026-07-05T08:33:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260705-bitcoins-greatest-evolution-over-the-next-decade-will-come-from-changing-less-at.html</loc>
+    <lastmod>2026-07-05T08:29:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260705-barstools-portnoy-plans-to-hold-bitcoin-down-to-zero-after-timing-it-wrong-every.html</loc>
@@ -33,6 +45,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260705-i-am-contemplating-selling-some-of-my-bitcoin-and-going-to-gold-with-the-money-l.html</loc>
     <lastmod>2026-07-05T02:36:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260705-data-bitcoins-realized-profitloss-ratio-just-hit-a-43-month-low-this-is-a-level-.html</loc>
+    <lastmod>2026-07-05T02:30:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -355,20 +373,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260703-belgian-police-arrest-suspected-phishing-gang-leader-tied-to-572k-theft.html</loc>
-    <lastmod>2026-07-03T12:43:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260703-trump-says-there-is-nothing-wrong-with-familys-crypto-windfall.html</loc>
     <lastmod>2026-07-03T12:04:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260703-nothing-says-crypto-in-america-quite-like-going-public-on-the-nyse-during-the-we.html</loc>
-    <lastmod>2026-07-03T12:01:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,14 +421,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260703-latest-jpmorgan-says-strategys-new-bitcoin-sale-policy-introduces-avoidable-two-.html</loc>
-    <lastmod>2026-07-03T07:20:39.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260703-live-updates-bitcoin-rises-above-62000-as-the-red-hot-semiconductor-trade-starts.html</loc>
+    <lastmod>2026-07-03T07:05:31.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260703-live-updates-bitcoin-rises-above-62000-as-the-red-hot-semiconductor-trade-starts.html</loc>
-    <lastmod>2026-07-03T07:05:31.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260702-that-same-logic-applies-to-bitcoin-as-well-its-getting-closer-to-its-power-law-s.html</loc>
+    <lastmod>2026-07-02T22:17:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -465,12 +471,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260702-crypto-shorts-get-rekt-as-bitcoin-ethereum-and-xrp-rise-to-weekly-high-prices.html</loc>
     <lastmod>2026-07-02T17:29:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260702-tiger-research-turns-more-bullish-on-bitcoin-tiger-research-says-it-is-becoming-.html</loc>
-    <lastmod>2026-07-02T16:56:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
