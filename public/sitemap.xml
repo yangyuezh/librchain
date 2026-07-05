@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-05T14:04:17.625Z</lastmod>
+    <lastmod>2026-07-05T15:35:28.551Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-05T14:04:17.625Z</lastmod>
+    <lastmod>2026-07-05T15:35:28.551Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260705-americans-traded-571-million-on-polymarket-politic-bets-despite-us-ban.html</loc>
+    <lastmod>2026-07-05T15:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260705-banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-theyre-considerin.html</loc>
@@ -39,6 +45,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260705-south-africa-proposes-crypto-tax-guidance-under-existing-framework.html</loc>
     <lastmod>2026-07-05T11:52:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260705-cz-uncertain-about-receiving-subpoenas-from-next-us-administration-binance-found.html</loc>
+    <lastmod>2026-07-05T10:07:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -104,7 +116,7 @@
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260704-kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades.html</loc>
-    <lastmod>2026-07-04T19:37:11.000Z</lastmod>
+    <lastmod>2026-07-04T19:40:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -145,8 +157,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260704-kalshi-hits-record-june-trading-volume-as-world-cup-fuels-prediction-markets.html</loc>
-    <lastmod>2026-07-04T16:47:27.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260704-kalshi-june-trading-volume-tops-9b-as-world-cup-fuels-prediction-markets.html</loc>
+    <lastmod>2026-07-04T16:50:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,20 +427,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260703-africas-largest-crypto-exchange-will-power-their-core-perps-offering-directly-us.html</loc>
-    <lastmod>2026-07-03T11:45:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260703-bitcoin-ether-traders-arent-fully-buying-the-bounce-options-markets-show.html</loc>
     <lastmod>2026-07-03T11:27:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260703-crypto-bulls-on-firmer-footing-as-us-rate-hike-risk-recedes.html</loc>
-    <lastmod>2026-07-03T11:11:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -501,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260701-chainalysis-supports-robinhood-chain-with-automatic-token-support.html</loc>
     <lastmod>2026-07-01T19:30:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260701-how-external-assets-start-trading-on-solana-from-day-one.html</loc>
-    <lastmod>2026-07-01T15:08:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
