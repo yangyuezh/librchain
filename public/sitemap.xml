@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-05T05:07:04.002Z</lastmod>
+    <lastmod>2026-07-05T08:16:04.094Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-05T05:07:04.002Z</lastmod>
+    <lastmod>2026-07-05T08:16:04.094Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260705-barstools-portnoy-plans-to-hold-bitcoin-down-to-zero-after-timing-it-wrong-every.html</loc>
+    <lastmod>2026-07-05T06:00:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260705-heres-what-happened-in-crypto-today.html</loc>
@@ -33,6 +39,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260705-moonbeam-to-pivot-from-polkadot-to-base-unveils-ai-agent-framework.html</loc>
     <lastmod>2026-07-05T00:50:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260705-vitalik-outlines-ethereums-lean-ethereum-roadmap-targeting-native-starks-and-qua.html</loc>
+    <lastmod>2026-07-05T00:18:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -157,7 +169,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260704-tim-draper-denies-moving-bitcoin-reiterates-250000-btc-prediction.html</loc>
+    <loc>https://www.librchain.com/news/20260704-tim-draper-says-arkham-got-bitcoin-wallet-attribution-wrong.html</loc>
     <lastmod>2026-07-04T08:31:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -165,6 +177,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260704-bitcoins-realized-pl-signal-hits-lowest-level-in-43-months-bitcoins-realized-pl-.html</loc>
     <lastmod>2026-07-04T08:20:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260704-throwback-bitcoins-rough-price-on-the-4th-of-july-throughout-history-2016-683-20.html</loc>
+    <lastmod>2026-07-04T07:30:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -313,6 +331,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260703-the-internet-is-better-when-everyday-services-respect-the-people-using-them-prot.html</loc>
+    <lastmod>2026-07-03T13:58:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260703-bitcoins-future-is-shaped-by-dynamic-consensus-among-nodes-miners-and-holders-in.html</loc>
     <lastmod>2026-07-03T13:25:40.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -333,12 +357,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260703-belgian-police-arrest-suspected-phishing-gang-leader-tied-to-572k-theft.html</loc>
     <lastmod>2026-07-03T12:43:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260703-bitwise-cio-strategy-is-no-longer-just-a-one-way-bitcoin-buyer-bitwise-cio-matt-.html</loc>
-    <lastmod>2026-07-03T12:09:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -409,12 +427,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260703-binance-says-mica-should-be-judged-by-who-it-licenses-not-who-it-excludes.html</loc>
-    <lastmod>2026-07-03T06:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260702-openai-offers-us-government-a-42-billion-slice-of-itself-report.html</loc>
     <lastmod>2026-07-02T21:39:25.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -429,12 +441,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260702-treasury-department-sanctions-over-130-isis-affiliated-crypto-wallets-on-tron.html</loc>
     <lastmod>2026-07-02T20:59:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260702-ethereum-ecosystem-large-and-mature-enough-to-warrant-creation-of-stand-alone-or.html</loc>
-    <lastmod>2026-07-02T20:52:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260702-standard-chartered-becomes-first-global-bank-to-offer-direct-usdc-access-to-inst.html</loc>
     <lastmod>2026-07-02T13:58:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260702-metaplanet-acquires-additional-2823-bitcoin-total-holdings-reach-43000-btc-xcom.html</loc>
-    <lastmod>2026-07-02T06:48:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
