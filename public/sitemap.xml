@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-05T19:40:04.186Z</lastmod>
+    <lastmod>2026-07-05T21:16:43.064Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-05T19:40:04.186Z</lastmod>
+    <lastmod>2026-07-05T21:16:43.064Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -21,6 +21,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260705-bitcoin-nears-635k-into-weekly-close-as-trader-warns-of-terrible-monday.html</loc>
     <lastmod>2026-07-05T16:06:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260705-germanys-largest-banking-network-adopts-crypto-germanys-sparkassen-network-is-ro.html</loc>
+    <lastmod>2026-07-05T16:03:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,12 +421,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260703-bitcoins-future-is-shaped-by-dynamic-consensus-among-nodes-miners-and-holders-in.html</loc>
-    <lastmod>2026-07-03T13:25:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260703-farage-reported-to-uk-standards-watchdog-over-alleged-crypto-lobbying.html</loc>
     <lastmod>2026-07-03T13:06:56.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260702-fbi-director-kash-patels-undisclosed-stock-buy-in-bitcoin-giant-strategy-is-down.html</loc>
     <lastmod>2026-07-02T14:50:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260701-ofac-updates-isis-khorasan-sanctions-with-over-100-cryptocurrency-wallets.html</loc>
-    <lastmod>2026-07-01T20:26:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
