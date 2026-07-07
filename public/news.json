@@ -1,19 +1,175 @@
 {
-  "updatedAt": "2026-07-07T15:14:23.539Z",
+  "updatedAt": "2026-07-07T18:15:39.220Z",
   "total": 81,
   "items": [
     {
       "source": "Cointelegraph",
-      "title": "How Onchain Capital Can Reach Europe’s Underserved SMEs",
-      "summary": "Novel models for RWA tokenization could allow SMEs to receive credit using tangible assets as collateral. A new Cointelegraph Research report presents a case study.",
-      "url": "https://cointelegraph.com/research/how-onchain-capital-can-reach-europes-underserved-smes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "USDT wins payments, USDC wins DeFi as stablecoins diverge: Dune",
+      "summary": "Dune data shows Tether's USDT has become crypto’s dominant payments stablecoin while Circle's USDC powers DeFi, highlighting how blockchain choice shapes stablecoin use.",
+      "url": "https://cointelegraph.com/news/usdt-wins-payments-usdc-wins-defi-as-stablecoins-diverge-dune?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-07T18:05:08.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260707-usdt-wins-payments-usdc-wins-defi-as-stablecoins-diverge-dune",
+      "localUrl": "/news/20260707-usdt-wins-payments-usdc-wins-defi-as-stablecoins-diverge-dune.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Kenya's Markets Regulator Seeks Blockchain Tool to Track Crypto Crime",
+      "summary": "The Capital Markets Authority wants to monitor over 20 blockchains for fraud, laundering, and sanctions evasion under Kenya's new crypto law.",
+      "url": "https://decrypt.co/372932/kenyas-markets-regulator-seeks-blockchain-tool-to-track-crypto-crime",
+      "publishedAt": "2026-07-07T17:29:39.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "监管",
+      "slug": "20260707-kenyas-markets-regulator-seeks-blockchain-tool-to-track-crypto-crime",
+      "localUrl": "/news/20260707-kenyas-markets-regulator-seeks-blockchain-tool-to-track-crypto-crime.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Wintermute Cautions 'Relief Rally' Likely as Bitcoin Touches Highest Price in Weeks",
+      "summary": "Market maker Wintermute remains cautious, suggesting that recent Bitcoin action is a relief rally rather than a fundamental market change.",
+      "url": "https://decrypt.co/372929/wintermute-cautions-relief-rally-bitcoin-touches-highest-price-weeks",
+      "publishedAt": "2026-07-07T17:16:27.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260707-wintermute-cautions-relief-rally-likely-as-bitcoin-touches-highest-price-in-week",
+      "localUrl": "/news/20260707-wintermute-cautions-relief-rally-likely-as-bitcoin-touches-highest-price-in-week.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tether invests in Mercado Bitcoin as blockchain finance expands in Latin America",
+      "summary": "Mercado Bitcoin will use the funding to expand tokenized finance across Latin America, adding to Tether's growing portfolio of infrastructure investments.",
+      "url": "https://cointelegraph.com/news/tether-invests-20m-in-mercado-bitcoin-to-expand-tokenized-finance-in-latin-america?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-07T16:43:07.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260707-tether-invests-in-mercado-bitcoin-as-blockchain-finance-expands-in-latin-america",
+      "localUrl": "/news/20260707-tether-invests-in-mercado-bitcoin-as-blockchain-finance-expands-in-latin-america.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Nigel Farage to resign from UK Parliament amid crypto “gift” scandal, will stand in by-election",
+      "summary": "The Reform party leader and Brexit champion confirmed that he was the subject of probes by UK authorities following reports of what he called “gifts” from figures tied to cry pto ventures.",
+      "url": "https://cointelegraph.com/news/nigel-farage-resigns-crypto-donation-scandal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-07T16:27:19.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260707-nigel-farage-to-resign-from-uk-parliament-amid-crypto-gift-scandal-will-stand-in",
+      "localUrl": "/news/20260707-nigel-farage-to-resign-from-uk-parliament-amid-crypto-gift-scandal-will-stand-in.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SpaceX IPO powers record $3.86 billion in tokenized equities trading in June",
+      "summary": "SpaceX tokens captured $1.19 billion, or 31% of total monthly volume, with Backpack’s SPCX leading trading at $1.08 billion.",
+      "url": "https://www.coindesk.com/markets/2026/07/07/spacex-ipo-powers-record-usd3-86-billion-in-tokenized-equities-trading-in-june",
+      "publishedAt": "2026-07-07T16:18:18.000Z",
+      "keywords": [
+        "Markets",
+        "On-chain Data",
+        "Tokenization",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260707-spacex-ipo-powers-record-386-billion-in-tokenized-equities-trading-in-june",
+      "localUrl": "/news/20260707-spacex-ipo-powers-record-386-billion-in-tokenized-equities-trading-in-june.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Institutional crypto exchange EDX lands $76M from SBI Holdings",
+      "summary": "The funding round comes as institutional investors continue backing crypto market infrastructure despite slower venture investment across the digital asset sector.",
+      "url": "https://cointelegraph.com/news/institutional-crypto-exchange-edx-lands-76m-from-sbi-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-07T16:16:35.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260707-institutional-crypto-exchange-edx-lands-76m-from-sbi-holdings",
+      "localUrl": "/news/20260707-institutional-crypto-exchange-edx-lands-76m-from-sbi-holdings.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: $12 trillion Vanguard is hiring new head of crypto. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GZklqOHEyRHJ3M1ItX3h2Q09kc01CUjNxczdXYUN3Z2c5dS1qWmkwZUlNWUNieDFac0NmMFVzTXZyT2NXTnBPdzViU25XSFV4cnVxV3FWXzFLM2hWenE0Mm1B?oc=5\" target=\"_blank\">JUST IN: $12 trillion Vanguard is …",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GZklqOHEyRHJ3M1ItX3h2Q09kc01CUjNxczdXYUN3Z2c5dS1qWmkwZUlNWUNieDFac0NmMFVzTXZyT2NXTnBPdzViU25XSFV4cnVxV3FWXzFLM2hWenE0Mm1B?oc=5",
+      "publishedAt": "2026-07-07T16:12:46.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260707-just-in-12-trillion-vanguard-is-hiring-new-head-of-crypto-xcom",
+      "localUrl": "/news/20260707-just-in-12-trillion-vanguard-is-hiring-new-head-of-crypto-xcom.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. SEC to propose crypto rule as soon as this month to ease startups, fundraising",
+      "summary": "A newly updated agenda from the securities regulator shows so-called Reg Crypto high on its near-term list.",
+      "url": "https://www.coindesk.com/policy/2026/07/07/u-s-sec-to-propose-crypto-rule-as-soon-as-this-month-to-ease-startups-fundraising",
+      "publishedAt": "2026-07-07T16:08:19.000Z",
+      "keywords": [
+        "Policy",
+        "Regulation",
+        "Tokenization",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260707-us-sec-to-propose-crypto-rule-as-soon-as-this-month-to-ease-startups-fundraising",
+      "localUrl": "/news/20260707-us-sec-to-propose-crypto-rule-as-soon-as-this-month-to-ease-startups-fundraising.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin bulls battle for $63K as Micron stock eyes 10% drop in US chip sell-off",
+      "summary": "Bitcoin came off two-week highs while US stocks dipped and John Bollinger described BTC price action as \"at a critical point.\"",
+      "url": "https://cointelegraph.com/markets/bitcoin-bulls-battle-for-63k-as-micron-stock-eyes-10-drop-in-us-chip-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-07T15:13:25.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260707-bitcoin-bulls-battle-for-63k-as-micron-stock-eyes-10-drop-in-us-chip-sell-off",
+      "localUrl": "/news/20260707-bitcoin-bulls-battle-for-63k-as-micron-stock-eyes-10-drop-in-us-chip-sell-off.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin Covenants part 3: SIGHASH_ANYPREVOUT",
+      "summary": "APO lets a Bitcoin signature authorize any compatible UTXO rather than one fixed outpoint. It allows for rebindable pre-signed transactions for Lightning, vaults, and layer-2 protocols without new key management overhead.",
+      "url": "https://cointelegraph.com/research/bitcoin-covenants-part-3-sighash-anyprevout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-07T15:00:00.000Z",
       "keywords": [
         "Research"
       ],
-      "category": "RWA",
-      "slug": "20260707-how-onchain-capital-can-reach-europes-underserved-smes",
-      "localUrl": "/news/20260707-how-onchain-capital-can-reach-europes-underserved-smes.html"
+      "category": "基础设施",
+      "slug": "20260707-bitcoin-covenants-part-3-sighash_anyprevout",
+      "localUrl": "/news/20260707-bitcoin-covenants-part-3-sighash_anyprevout.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 New Hampshire Governor & Executive Council to hold a hearing tomorrow on establishing a Bitcoin-backed $100 million municipal bond 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kNl9laTJZN0FnSlEwY1NCMHJCdUZtSUdveDQ5U19jQ2c3SFJGZlpXejMtTnhjazJ5QVl4VGV5YzhWRnRuWXcwc194OW5VNWplb19tYlIwVlFTdUNlMW04bDhCSkNiQTQ?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 New Hampshire…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kNl9laTJZN0FnSlEwY1NCMHJCdUZtSUdveDQ5U19jQ2c3SFJGZlpXejMtTnhjazJ5QVl4VGV5YzhWRnRuWXcwc194OW5VNWplb19tYlIwVlFTdUNlMW04bDhCSkNiQTQ?oc=5",
+      "publishedAt": "2026-07-07T14:45:21.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260707-just-in-new-hampshire-governor-executive-council-to-hold-a-hearing-tomorrow-on-e",
+      "localUrl": "/news/20260707-just-in-new-hampshire-governor-executive-council-to-hold-a-hearing-tomorrow-on-e.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "STABLECOIN MARKET POSTS BIGGEST DROP SINCE TERRA COLLAPSE The stablecoin market shrank 2.4% ($7.7 billion) to $312 billion in June, marking its biggest monthly decline since the 2022 TerraUSD collapse. The drop came alongside an 18% fall - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OLUFBbWt3TXRVTEQ5UjEyT1hTVUpLcHNhclA3LXU5Tm9od3pROFdFTFh2LXhkQnpoUmdkUndsc1AzX3c1ZEhpcl9sTkxYVUJNRDJ6c3A3UFBMMk5RSHc?oc=5\" target=\"_blank\">STABLECOIN MARKET POSTS BIGGEST DROP SI…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OLUFBbWt3TXRVTEQ5UjEyT1hTVUpLcHNhclA3LXU5Tm9od3pROFdFTFh2LXhkQnpoUmdkUndsc1AzX3c1ZEhpcl9sTkxYVUJNRDJ6c3A3UFBMMk5RSHc?oc=5",
+      "publishedAt": "2026-07-07T14:42:14.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260707-stablecoin-market-posts-biggest-drop-since-terra-collapse-the-stablecoin-market-",
+      "localUrl": "/news/20260707-stablecoin-market-posts-biggest-drop-since-terra-collapse-the-stablecoin-market-.html"
     },
     {
       "source": "CoinDesk",
@@ -344,17 +500,6 @@
       "localUrl": "/news/20260707-your-bitcoin-sitting-idle-try-btc-yield-subscribe-with-btc-and-receive-btcy-acce.html"
     },
     {
-      "source": "X Wire",
-      "title": "Bitcoin just touched the 200-week MA again.📉 Nobody knows if this is THE bottom... But history shows: 🔵Blue zones are the BEST buying opportunities 🔵They ALWAYS touch the 200W MA 🔵They go up: ~$250 → ~$4k ~$4k → ~$20k ~$20k → ~$60k Interestin - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE44LUNJakpmbEwxWW54dk5GVDhuS2F3bkMtVUlxdklRd2xwX2RDLVRmZ0pWR1VjZ3lCVnlxemNUdG01R2s5Tk5MYUFrMkZGMG9zbVVHSmNZd3piLThaREs5T09JYkhzUQ?oc=5\" target=\"_blank\">Bitcoin just touched the 200…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44LUNJakpmbEwxWW54dk5GVDhuS2F3bkMtVUlxdklRd2xwX2RDLVRmZ0pWR1VjZ3lCVnlxemNUdG01R2s5Tk5MYUFrMkZGMG9zbVVHSmNZd3piLThaREs5T09JYkhzUQ?oc=5",
-      "publishedAt": "2026-07-07T08:20:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260707-bitcoin-just-touched-the-200-week-ma-again-nobody-knows-if-this-is-the-bottom-bu",
-      "localUrl": "/news/20260707-bitcoin-just-touched-the-200-week-ma-again-nobody-knows-if-this-is-the-bottom-bu.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Binance taps into Bitcoin holders’ hunger for yield with new covered call yield play",
       "summary": "The product, called BTC Yield, is designed exclusively for people who already hold bitcoin.",
@@ -399,9 +544,20 @@
       "localUrl": "/news/20260707-bitcoin-looks-great-here-it-had-a-short-test-of-the-61000-level-earlier-and-easi.html"
     },
     {
+      "source": "X Wire",
+      "title": "Tether Brings USDT Back to Bitcoin With RGB Rollout Tether, issuer of USDT, the world’s largest stablecoin, plans to issue USDT natively on Bitcoin through RGB protocol v0.11.1, with UTEXO leading the commercial rollout. The move would bring USDT back t - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE16T3RJTzF5c2lQbkRESkJtajZOUm1OQmY0NFRlekprYjluVGZBNWh3LWNCTkNtWlRXVWtIS1BhNmFVdkZGMW1GUUJUVE1GaE50XzBmZVF3eW1zRDZpOTY5azdoaw?oc=5\" target=\"_blank\">Tether Brings USDT Back to Bitco…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16T3RJTzF5c2lQbkRESkJtajZOUm1OQmY0NFRlekprYjluVGZBNWh3LWNCTkNtWlRXVWtIS1BhNmFVdkZGMW1GUUJUVE1GaE50XzBmZVF3eW1zRDZpOTY5azdoaw?oc=5",
+      "publishedAt": "2026-07-07T06:56:46.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260707-tether-brings-usdt-back-to-bitcoin-with-rgb-rollout-tether-issuer-of-usdt-the-wo",
+      "localUrl": "/news/20260707-tether-brings-usdt-back-to-bitcoin-with-rgb-rollout-tether-issuer-of-usdt-the-wo.html"
+    },
+    {
       "source": "CoinDesk",
-      "title": "Live markets: Bitcoin trying to hold $63,000 as AI favorites plunge on Tuesday",
-      "summary": "Spot bitcoin ETFs still lost a net $526.6 million over the shortened holiday week, an eighth straight week of negative flows.",
+      "title": "Live markets: Bitcoin climbs near $64,000 as AI favorites plunge on Tuesday",
+      "summary": "Bitcoin and ether ETFs drew fresh inflows Monday as the bid starts to return.",
       "url": "https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday",
       "publishedAt": "2026-07-07T06:51:28.000Z",
       "keywords": [
@@ -410,8 +566,19 @@
         "live_news"
       ],
       "category": "监管",
-      "slug": "20260707-live-markets-bitcoin-trying-to-hold-63000-as-ai-favorites-plunge-on-tuesday",
-      "localUrl": "/news/20260707-live-markets-bitcoin-trying-to-hold-63000-as-ai-favorites-plunge-on-tuesday.html"
+      "slug": "20260707-live-markets-bitcoin-climbs-near-64000-as-ai-favorites-plunge-on-tuesday",
+      "localUrl": "/news/20260707-live-markets-bitcoin-climbs-near-64000-as-ai-favorites-plunge-on-tuesday.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BONK DAO lost $20 MILLION without being hacked. Here's what happened: - An attacker bought ~$4M of BONK tokens. - They created a fake governance proposal to send 4.4 trillion BONK ($20M) to their own wallet. - The proposal went unnoticed for 7 days. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE00SnR3V1h2NlRIN1U5R3VwbWVwdnlUX3JOa0lPa25zZEdqSGxOcE5fU3NybkNRVldrWGU2VV83b3lLUlRsblNhbG42OVZUY2t5anlGM1ZMR3FkV25FRnNz?oc=5\" target=\"_blank\">BONK DAO lost $20 MILLION without bein…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00SnR3V1h2NlRIN1U5R3VwbWVwdnlUX3JOa0lPa25zZEdqSGxOcE5fU3NybkNRVldrWGU2VV83b3lLUlRsblNhbG42OVZUY2t5anlGM1ZMR3FkV25FRnNz?oc=5",
+      "publishedAt": "2026-07-07T06:43:39.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260707-bonk-dao-lost-20-million-without-being-hacked-heres-what-happened-an-attacker-bo",
+      "localUrl": "/news/20260707-bonk-dao-lost-20-million-without-being-hacked-heres-what-happened-an-attacker-bo.html"
     },
     {
       "source": "X Wire",
@@ -519,43 +686,15 @@
       "localUrl": "/news/20260707-trump-says-he-became-a-big-crypto-guy-partly-for-politics.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "L1s face decentralization 'tug-of-war' as adoption grows: Injective CEO",
-      "summary": "Blockchains will face increasing pressure to compromise on decentralization to meet user demand for speed and scalability, Injective CEO Eric Chen said.",
-      "url": "https://cointelegraph.com/news/injective-ceo-warns-layer-1-chains-risk-sacrificing-decentralization-for-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-07T03:28:23.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260707-l1s-face-decentralization-tug-of-war-as-adoption-grows-injective-ceo",
-      "localUrl": "/news/20260707-l1s-face-decentralization-tug-of-war-as-adoption-grows-injective-ceo.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US Bitcoin reserve hits snag as federal agencies debate for control: Bloomberg",
-      "summary": "The report follows comments from White House crypto adviser Patrick Witt in May, who said the administration was examining the legal implications of creating a Bitcoin reserve.",
-      "url": "https://cointelegraph.com/news/trumps-bitcoin-reserve-stalled-by-interagency-dispute-over-control-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-07T02:17:58.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260707-us-bitcoin-reserve-hits-snag-as-federal-agencies-debate-for-control-bloomberg",
-      "localUrl": "/news/20260707-us-bitcoin-reserve-hits-snag-as-federal-agencies-debate-for-control-bloomberg.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin bulls shake off Strategy's $216M BTC sale as price overtakes $64K",
-      "summary": "Bitcoin reversed course from its Monday open selloff and closed the day above $64,000 as bulls began to price in Strategy’s selling.",
-      "url": "https://cointelegraph.com/markets/bitcoin-bulls-shake-off-strategys-216m-btc-sale-as-price-overtakes-64k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-07T01:55:34.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260707-bitcoin-bulls-shake-off-strategys-216m-btc-sale-as-price-overtakes-64k",
-      "localUrl": "/news/20260707-bitcoin-bulls-shake-off-strategys-216m-btc-sale-as-price-overtakes-64k.html"
+      "source": "X Wire",
+      "title": "🚨 LATEST: Grayscale's Zach Pandl says Strategy's shift to sell Bitcoin as needed for its USD reserves reduces tail risk and could help Bitcoin find a more durable bottom. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PNkN5NVBIWjhzdEFTa2FVbzdTQ2pIZzRmYUd1UEpha1dGM19XeGpEeFRJN01LYUJ3a2pKQXNsRWlzM1ItQVdRNGJwbHZTeHlaaFF4RG85ZDBWbUdmWjBzdUpoR1M?oc=5\" target=\"_blank\">🚨 LATEST: Grayscale's Zach Pan…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PNkN5NVBIWjhzdEFTa2FVbzdTQ2pIZzRmYUd1UEpha1dGM19XeGpEeFRJN01LYUJ3a2pKQXNsRWlzM1ItQVdRNGJwbHZTeHlaaFF4RG85ZDBWbUdmWjBzdUpoR1M?oc=5",
+      "publishedAt": "2026-07-07T02:40:24.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260707-latest-grayscales-zach-pandl-says-strategys-shift-to-sell-bitcoin-as-needed-for-",
+      "localUrl": "/news/20260707-latest-grayscales-zach-pandl-says-strategys-shift-to-sell-bitcoin-as-needed-for-.html"
     },
     {
       "source": "X Wire",
@@ -567,32 +706,6 @@
       "category": "X热点",
       "slug": "20260707-a-lot-of-crypto-charts-coiling-under-really-important-levels-am-leaning-towards-",
       "localUrl": "/news/20260707-a-lot-of-crypto-charts-coiling-under-really-important-levels-am-leaning-towards-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Strategy sells $216M Bitcoin, Bollinger bullish on BTC: Hodler's Digest, June 29-July 6, 2026",
-      "summary": "Bollinger Bands creator John Bollinger says the charts suggest Bitcoin could take off from here. Vitalik Buterin unveils a new Ethereum strawmap, but why is it taking so long?",
-      "url": "https://cointelegraph.com/features/bollinger-is-bullish-on-bitcoin-trumps-ludicrous-crypto-profits-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-07T00:03:30.000Z",
-      "keywords": [
-        "Features"
-      ],
-      "category": "基础设施",
-      "slug": "20260707-strategy-sells-216m-bitcoin-bollinger-bullish-on-btc-hodlers-digest-june-29-july",
-      "localUrl": "/news/20260707-strategy-sells-216m-bitcoin-bollinger-bullish-on-btc-hodlers-digest-june-29-july.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Former Tether CIO seeks to sell stake in stablecoin issuer, Bloomberg reports",
-      "summary": "The reported transaction comes as Tether maintains it has no plans to go public, even as other crypto companies pursue or delay IPOs.",
-      "url": "https://cointelegraph.com/news/former-tether-cio-seeks-to-sell-stake-in-stablecoin-issuer-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-06T21:57:20.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260706-former-tether-cio-seeks-to-sell-stake-in-stablecoin-issuer-bloomberg-reports",
-      "localUrl": "/news/20260706-former-tether-cio-seeks-to-sell-stake-in-stablecoin-issuer-bloomberg-reports.html"
     },
     {
       "source": "CoinDesk",
@@ -622,6 +735,17 @@
       "category": "综合",
       "slug": "20260706-bytedance-and-alibaba-to-pull-agent-features-as-china-cracks-down-on-humanlike-a",
       "localUrl": "/news/20260706-bytedance-and-alibaba-to-pull-agent-features-as-china-cracks-down-on-humanlike-a.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: Bitcoin reclaims $64,000 after the White House confirms the U.S. strategic Bitcoin reserve, and Trump says he is a \"Big Fan of Crypto.\" $360 million in short positions were liquidated today. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ySEVHYUNqbjFqa0NfRElfVjZoYVFjSlpEc3pwZVBQVVpUZHBDcGdTMVpJbGRKQU1INHVteXI2aXlzcktVbG91S2dVb0tlRnREdVJUQW5SM2dWODZrdXVQTWtPaw?oc=5\" target=\"_blank\">BREAKING: Bitcoin reclaims $64,0…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ySEVHYUNqbjFqa0NfRElfVjZoYVFjSlpEc3pwZVBQVVpUZHBDcGdTMVpJbGRKQU1INHVteXI2aXlzcktVbG91S2dVb0tlRnREdVJUQW5SM2dWODZrdXVQTWtPaw?oc=5",
+      "publishedAt": "2026-07-06T21:21:11.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260706-breaking-bitcoin-reclaims-64000-after-the-white-house-confirms-the-us-strategic-",
+      "localUrl": "/news/20260706-breaking-bitcoin-reclaims-64000-after-the-white-house-confirms-the-us-strategic-.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -731,17 +855,6 @@
       "localUrl": "/news/20260706-breaking-the-white-house-just-confirmed-the-us-strategic-bitcoin-reserve-is-bein.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 White House says “To deliver on the president’s vision, the Trump administration continues to evaluate the best structure for a Strategic Bitcoin Reserve” 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZeTdWNlhvUXhnNExkOVZueXNBb1pYc1FVUzM0eDlsR0tjZWNoZnFfVWNzSEIzNzh5TDAtSlNVTG1fZTFlemdLTHRETy16TE5taDYwYlVtWGU1b2VSZHJpRGU0U1diQ1U?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 White House s…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZeTdWNlhvUXhnNExkOVZueXNBb1pYc1FVUzM0eDlsR0tjZWNoZnFfVWNzSEIzNzh5TDAtSlNVTG1fZTFlemdLTHRETy16TE5taDYwYlVtWGU1b2VSZHJpRGU0U1diQ1U?oc=5",
-      "publishedAt": "2026-07-06T19:22:06.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260706-just-in-white-house-says-to-deliver-on-the-presidents-vision-the-trump-administr",
-      "localUrl": "/news/20260706-just-in-white-house-says-to-deliver-on-the-presidents-vision-the-trump-administr.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Coinbase's AI System Hallucinated a World Cup Result Before the Match Even Started",
       "summary": "Coinbase said it updated its systems after an AI-generated alert incorrectly reported the outcome of the Norway-Brazil match before kickoff.",
@@ -811,22 +924,6 @@
       "localUrl": "/news/20260706-strategy-selling-hundreds-of-millions-worth-of-bitcoin-raises-question-about-its.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution",
-      "summary": "The \"Lean Ethereum\" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen.",
-      "url": "https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution",
-      "publishedAt": "2026-07-06T15:34:33.000Z",
-      "keywords": [
-        "Tech",
-        "Ethereum News",
-        "Vitalik Buterin",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260706-ethereum-developers-embrace-vitalik-buterins-long-term-vision-but-urge-quicker-e",
-      "localUrl": "/news/20260706-ethereum-developers-embrace-vitalik-buterins-long-term-vision-but-urge-quicker-e.html"
-    },
-    {
       "source": "X Wire",
       "title": "going to say this again for crypto, think the downside is very very limited at this point. the worst of it is imo certainly over if the bottom isn't already in. the challenging aspect may be that we haven't done the time capitulation yet like we historically get where volati - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ob2JyRW5IOHZGVFYxRlVhNmZGai1NRW9lSUxMdHowblhhaUlFT2l2d3Z6MkppdTY5bWhrZklaLUw2amhrQVpxMVJkdFhNLXRjRG1SUEtwdl9Rd09zbFE?oc=5\" target=\"_blank\">going to say this again for crypto, thi…",
@@ -875,22 +972,6 @@
       "localUrl": "/news/20260706-tom-lees-bitmine-adds-73-million-in-ethereum-while-strategy-dumps-bitcoin.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Securitize eyes acquisitions with $400 million war chest after going public, CEO says",
-      "summary": "Following its NYSE debut, Securitize CEO Carlos Domingo said the firm wants to expand its institutional tokenization platform rather than buy competitors.",
-      "url": "https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says",
-      "publishedAt": "2026-07-06T14:25:32.000Z",
-      "keywords": [
-        "Finance",
-        "Tokenization",
-        "Exclusive",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260706-securitize-eyes-acquisitions-with-400-million-war-chest-after-going-public-ceo-s",
-      "localUrl": "/news/20260706-securitize-eyes-acquisitions-with-400-million-war-chest-after-going-public-ceo-s.html"
-    },
-    {
       "source": "X Wire",
       "title": "TRUMP, ON WHETHER TRUMP ACCOUNTS COULD INCLUDE BITCOIN: SOMETHING COULD HAPPEN - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3QmlGVEpLUkhERUFLZDA0LVVSMnNLQk12SFhnT2poMWRGQXZIdlYyRUpUdjBJdzRrMnhvaTFGZ3RIZVJiamtadjBPVEpCTkIyeVpaY0owVTEzdHdwc1E?oc=5\" target=\"_blank\">TRUMP, ON WHETHER TRUMP ACCOUNTS COULD …",
@@ -900,17 +981,6 @@
       "category": "X热点",
       "slug": "20260706-trump-on-whether-trump-accounts-could-include-bitcoin-something-could-happen-xco",
       "localUrl": "/news/20260706-trump-on-whether-trump-accounts-could-include-bitcoin-something-could-happen-xco.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The US crypto market is massive. And largely underserved by platforms that understand real traders. @czrexus is here. Institutional-grade tools, mobile-first design, and fees that don't eat your gains. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBReVQ4VklWbUdwRF9xYnV2TmRfdE1wdjdTX09PdzNTQTBPR1RJNkowU0Itd2NnRlV6VHFxZVlGN0VmMWNaUzBqV0g4LTR4ZzZPNkZLN0Z0QzNvbzlPalhPYWtR?oc=5\" target=\"_blank\">The US crypto market is massive. A…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBReVQ4VklWbUdwRF9xYnV2TmRfdE1wdjdTX09PdzNTQTBPR1RJNkowU0Itd2NnRlV6VHFxZVlGN0VmMWNaUzBqV0g4LTR4ZzZPNkZLN0Z0QzNvbzlPalhPYWtR?oc=5",
-      "publishedAt": "2026-07-06T14:00:01.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260706-the-us-crypto-market-is-massive-and-largely-underserved-by-platforms-that-unders",
-      "localUrl": "/news/20260706-the-us-crypto-market-is-massive-and-largely-underserved-by-platforms-that-unders.html"
     },
     {
       "source": "X Wire",
@@ -975,17 +1045,6 @@
       "localUrl": "/news/20260706-morning-minute-crypto-surges-over-holiday-weekend.html"
     },
     {
-      "source": "X Wire",
-      "title": "STRIVE BITCOIN UPDATE Strive purchased 17.76 Bitcoin last week and now holds ₿19,882. More importantly, during 2Q26 @Strive acquired 6,236 Bitcoin, achieved 24.0% BTC Yield, generated ₿3,264 of BTC Gain, and ended the quarter with an amplificati - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nOTMxVHUtY2Z5cXhlb0hQM1pwaFdCS0U0cG40RE9WWjMxS0NFcmY1UzlPRVpGbTdZS1hfQndubmt3SFdDem9LdHBKWFZwbHNFR3NzYWJ1UFFHUE5GWHlB?oc=5\" target=\"_blank\">STRIVE BITCOIN UPDATE Strive purchased…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nOTMxVHUtY2Z5cXhlb0hQM1pwaFdCS0U0cG40RE9WWjMxS0NFcmY1UzlPRVpGbTdZS1hfQndubmt3SFdDem9LdHBKWFZwbHNFR3NzYWJ1UFFHUE5GWHlB?oc=5",
-      "publishedAt": "2026-07-06T12:06:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260706-strive-bitcoin-update-strive-purchased-1776-bitcoin-last-week-and-now-holds-1988",
-      "localUrl": "/news/20260706-strive-bitcoin-update-strive-purchased-1776-bitcoin-last-week-and-now-holds-1988.html"
-    },
-    {
       "source": "Decrypt",
       "title": "New UK Election Funding Rules Could Hit Reform's Crypto Billionaire Donors",
       "summary": "The crackdown on overseas cash comes after billionaire Tether investor and Reform donor Christopher Harborne registered to vote in the UK.",
@@ -1000,41 +1059,6 @@
     },
     {
       "source": "X Wire",
-      "title": "If we want to make the Lean Ethereum consensus chain aggressively more \"lean\", and add strong validator privacy (ZK-unlink deposit from staking activity from withdrawal, and re-anonymize stakers every day), here is a path: - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yVndnSjJST2xtc0x3c3k5OHI3N0F3dVFuSmpDRVJocUZ2Y29McFZreGFVZFI2VTlFeDVvNXJ1NDc4eTY0Z21Yc09RSEh1X2ZvOXJYUWtRV0ZJR3RRa2NOZURTMDl6Zw?oc=5\" target=\"_blank\">If we want to make the Lean …",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yVndnSjJST2xtc0x3c3k5OHI3N0F3dVFuSmpDRVJocUZ2Y29McFZreGFVZFI2VTlFeDVvNXJ1NDc4eTY0Z21Yc09RSEh1X2ZvOXJYUWtRV0ZJR3RRa2NOZURTMDl6Zw?oc=5",
-      "publishedAt": "2026-07-06T07:30:49.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260706-if-we-want-to-make-the-lean-ethereum-consensus-chain-aggressively-more-lean-and-",
-      "localUrl": "/news/20260706-if-we-want-to-make-the-lean-ethereum-consensus-chain-aggressively-more-lean-and-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin will evolve by changing less at the protocol layer and mattering more everywhere else. The base layer will harden. The capital markets will deepen. Digital Credit will expand. The world will build on Bitcoin. $BTC - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcmxsX243cWRaVnJpT2lzUVJFOFJMdk5pZFZyZVRDVno1VnhYN0hlQVNjc3lJd0NiWWpDdFR2dk45eml0XzZCNXR5Rk82ZGxGV1JjSkR2R2FVcE0?oc=5\" target=\"_blank\">Bitcoin will evolve by changing less at the…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcmxsX243cWRaVnJpT2lzUVJFOFJMdk5pZFZyZVRDVno1VnhYN0hlQVNjc3lJd0NiWWpDdFR2dk45eml0XzZCNXR5Rk82ZGxGV1JjSkR2R2FVcE0?oc=5",
-      "publishedAt": "2026-07-06T05:06:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260706-bitcoin-will-evolve-by-changing-less-at-the-protocol-layer-and-mattering-more-ev",
-      "localUrl": "/news/20260706-bitcoin-will-evolve-by-changing-less-at-the-protocol-layer-and-mattering-more-ev.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Fake Mac Clipboard App Delivers New Password-Stealing Malware",
-      "summary": "A new Mac infostealer dubbed PamStealer impersonates the open-source Maccy clipboard manager to steal passwords and more.",
-      "url": "https://decrypt.co/372743/fake-mac-clipboard-app-delivers-password-stealing-malware",
-      "publishedAt": "2026-07-05T15:46:01.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "综合",
-      "slug": "20260705-fake-mac-clipboard-app-delivers-new-password-stealing-malware",
-      "localUrl": "/news/20260705-fake-mac-clipboard-app-delivers-new-password-stealing-malware.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Bitcoin is Digital Energy. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zMWNEdUVGT24tYjdrTTFqa1AwSjZqZjFwUVBabVliMkxJdFhrLTg2bEQwaGNRVnlrcTI0aWlrQ2h4aXlGaGdpbkx4QkJvb09EUm82VnNXRkczQnM?oc=5\" target=\"_blank\">Bitcoin is Digital Energy.</a> <font color=…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zMWNEdUVGT24tYjdrTTFqa1AwSjZqZjFwUVBabVliMkxJdFhrLTg2bEQwaGNRVnlrcTI0aWlrQ2h4aXlGaGdpbkx4QkJvb09EUm82VnNXRkczQnM?oc=5",
@@ -1043,30 +1067,6 @@
       "category": "X热点",
       "slug": "20260705-bitcoin-is-digital-energy-xcom",
       "localUrl": "/news/20260705-bitcoin-is-digital-energy-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Two weeks ago, Ethereum researchers met in Berlin to continue charting the protocol's long-term trajectory, following along discussions with client teams in Svalbard in April. The updated strawmap is at strawmap.org, and I attached a picture of it to this post. M - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XTGdwcUtRelc0MzdaQU5yakpjRkxlbFpmSVFONUtSZ0JUdVBsbG42TU9sTDlFcTI1MmpBMkZnLXcyOHdIcnd4V3R0R21fWGdiS2lKdi1ubUZvUV9td1R4Q1gtekZwdw?oc=5\" target=\"_blank\">Two weeks ago, Ethereum rese…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XTGdwcUtRelc0MzdaQU5yakpjRkxlbFpmSVFONUtSZ0JUdVBsbG42TU9sTDlFcTI1MmpBMkZnLXcyOHdIcnd4V3R0R21fWGdiS2lKdi1ubUZvUV9td1R4Q1gtekZwdw?oc=5",
-      "publishedAt": "2026-07-04T17:28:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260704-two-weeks-ago-ethereum-researchers-met-in-berlin-to-continue-charting-the-protoc",
-      "localUrl": "/news/20260704-two-weeks-ago-ethereum-researchers-met-in-berlin-to-continue-charting-the-protoc.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin to $53K? Exchange Deposits Jump as Analysts Warn of Increased Volatility",
-      "summary": "Bitcoin bounced back above $60,000 this week, but increased volatility might be on the way as crypto deposits to exchanges spike.",
-      "url": "https://decrypt.co/372744/bitcoin-53k-exchange-deposits-jump-analysts-warn-increased-volatility",
-      "publishedAt": "2026-07-04T16:57:08.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260704-bitcoin-to-53k-exchange-deposits-jump-as-analysts-warn-of-increased-volatility",
-      "localUrl": "/news/20260704-bitcoin-to-53k-exchange-deposits-jump-as-analysts-warn-of-increased-volatility.html"
     }
   ]
 }
