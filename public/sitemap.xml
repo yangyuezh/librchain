@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-08T21:20:49.287Z</lastmod>
+    <lastmod>2026-07-08T23:21:16.394Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-08T21:20:49.287Z</lastmod>
+    <lastmod>2026-07-08T23:21:16.394Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260708-the-new-grok-45-is-out-elon-musk-says-it-competes-with-last-years-claude-opus.html</loc>
+    <lastmod>2026-07-08T22:26:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260708-bitcoin-tumbles-back-to-key-60k-support-level-whats-behind-the-sell-pressure.html</loc>
+    <lastmod>2026-07-08T21:55:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260708-paradigm-raises-12-billion-fund-as-crypto-vc-pushes-further-into-ai.html</loc>
@@ -123,12 +135,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260708-crypto-vc-paradigm-launches-12-billion-ai-fund-as-it-broadens-beyond-digital-ass.html</loc>
     <lastmod>2026-07-08T15:11:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260708-paradigms-4th-fund-12b-to-invest-and-build-in-crypto-ai-robotics-and-other-areas.html</loc>
-    <lastmod>2026-07-08T15:09:43.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -301,12 +307,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260708-breaking-rbi-reiterates-call-for-a-crypto-ban-according-to-documents-reviewed-by.html</loc>
-    <lastmod>2026-07-08T08:23:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260708-breaking-indias-central-bank-is-backing-a-crypto-ban-the-rbi-wants-indias-crypto.html</loc>
     <lastmod>2026-07-08T08:15:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -327,12 +327,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260708-cryptoquant-tether-burns-25-billion-usdt-on-ethereum-largest-since-february-acco.html</loc>
     <lastmod>2026-07-08T06:46:27.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260708-eu-to-again-vote-to-extend-chat-control-rules.html</loc>
-    <lastmod>2026-07-08T06:33:46.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -387,6 +381,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260707-just-in-sec-released-its-regulatory-agenda-for-2026-with-a-crypto-regulation-mee.html</loc>
     <lastmod>2026-07-07T21:02:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260707-just-in-strike-launches-bitcoin-backed-loans-that-cannot-be-liquidated-jack-mall.html</loc>
+    <lastmod>2026-07-07T21:00:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -469,6 +469,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260707-ton-ventures-and-hack-vc-backed-tac-plunges-over-90-in-15-minutes-binance-alpha-.html</loc>
+    <lastmod>2026-07-07T16:01:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260707-analysts-see-more-upside-for-spacex-as-post-ipo-research-begins.html</loc>
     <lastmod>2026-07-07T14:39:24.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -477,12 +483,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260707-vanguard-opens-search-for-digital-assets-leader-in-sign-of-evolving-crypto-strat.html</loc>
     <lastmod>2026-07-07T14:28:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260707-coinbase-wins-uk-license-to-offer-stocks-and-derivatives-alongside-crypto.html</loc>
-    <lastmod>2026-07-07T13:48:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
