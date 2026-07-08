@@ -2,15 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-08T07:39:56.966Z</lastmod>
+    <lastmod>2026-07-08T10:29:27.552Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-08T07:39:56.966Z</lastmod>
+    <lastmod>2026-07-08T10:29:27.552Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260708-berachain-hard-fork-to-replace-dual-token-model-with-wbera-rewards.html</loc>
+    <lastmod>2026-07-08T10:21:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260708-reserve-bank-of-india-still-favors-crypto-prohibition-to-curtail-tax-evasion-reu.html</loc>
+    <lastmod>2026-07-08T09:45:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260708-base-to-activate-b20-standard-for-stablecoins-rwas-and-other-tokens.html</loc>
+    <lastmod>2026-07-08T08:46:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260708-validators-embrace-xrp-ledgers-recent-upgrade-but-not-everyones-on-board-yet.html</loc>
+    <lastmod>2026-07-08T08:40:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260708-just-in-indias-central-bank-backs-crypto-ban-xcom.html</loc>
+    <lastmod>2026-07-08T08:03:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260708-eu-to-again-vote-to-extend-chat-control-rules.html</loc>
@@ -37,13 +67,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260708-live-markets-japans-collapsing-yen-is-pushing-companies-into-bitcoin-and-xrp.html</loc>
+    <loc>https://www.librchain.com/news/20260708-live-markets-bitcoin-drops-as-yen-iran-ceasefire-collapse.html</loc>
     <lastmod>2026-07-08T05:29:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260708-bitcoin-under-pressure-as-us-iran-escalation-lifts-oil.html</loc>
+    <loc>https://www.librchain.com/news/20260708-bitcoin-under-pressure-as-trump-says-iran-ceasefire-is-over.html</loc>
     <lastmod>2026-07-08T04:30:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -51,6 +81,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260708-secret-network-cites-ai-exploit-risks-in-proposed-arbitrum-move.html</loc>
     <lastmod>2026-07-08T03:54:27.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260708-just-in-robinhood-ceo-vlad-tenev-says-the-robinhood-crypto-blockchain-is-great-f.html</loc>
+    <lastmod>2026-07-08T03:33:35.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -193,12 +229,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260707-six-months-ago-ethereum-was-almost-5000-today-its-under-2000-when-i-put-that-to-.html</loc>
-    <lastmod>2026-07-07T17:00:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260707-tether-invests-in-mercado-bitcoin-as-blockchain-finance-expands-in-latin-america.html</loc>
     <lastmod>2026-07-07T16:43:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -313,18 +343,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260707-has-bitcoin-bottomed-for-this-cycle-analysts-say-not-yet.html</loc>
-    <lastmod>2026-07-07T13:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260707-bitcoin-nears-cycle-bottom-as-over-half-of-supply-is-held-at-a-loss-says-k33.html</loc>
-    <lastmod>2026-07-07T13:29:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260707-bitcoin-xrp-draw-japanese-firms-as-weak-yen-drives-treasury-diversification.html</loc>
     <lastmod>2026-07-07T13:26:59.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -385,12 +403,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260707-your-bitcoin-sitting-idle-try-btc-yield-subscribe-with-btc-and-receive-btcy-acce.html</loc>
-    <lastmod>2026-07-07T08:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260707-binance-taps-into-bitcoin-holders-hunger-for-yield-with-new-covered-call-yield-p.html</loc>
     <lastmod>2026-07-07T08:20:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -423,18 +435,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260707-great-to-see-national-blockchain-deployments-xcom.html</loc>
     <lastmod>2026-07-07T06:19:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260707-bonk-faces-20-million-treasury-drain-after-attacker-spends-4-million-to-pass-mal.html</loc>
-    <lastmod>2026-07-07T05:40:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260707-xrp-stalls-near-114-as-breakout-attempt-struggles-for-volume.html</loc>
-    <lastmod>2026-07-07T04:46:30.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
