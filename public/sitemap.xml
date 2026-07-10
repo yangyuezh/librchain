@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-10T20:40:30.759Z</lastmod>
+    <lastmod>2026-07-10T22:13:24.652Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-10T20:40:30.759Z</lastmod>
+    <lastmod>2026-07-10T22:13:24.652Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260710-apple-sues-openai-claims-former-employees-stole-trade-secrets.html</loc>
+    <lastmod>2026-07-10T21:50:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260710-metas-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business.html</loc>
+    <lastmod>2026-07-10T21:26:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260710-kraken-to-overhaul-app-with-ai-investing-assistant.html</loc>
+    <lastmod>2026-07-10T21:07:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260710-senate-democrats-call-for-hearings-into-trumps-ties-to-crypto-amid-clarity-act-d.html</loc>
+    <lastmod>2026-07-10T21:03:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260710-democrats-call-for-senate-hearings-on-trumps-massive-crypto-profits.html</loc>
@@ -265,6 +289,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260710-japan-is-playing-with-fire-usdjpy-just-plunged-a-full-1-in-minutes-the-move-came.html</loc>
+    <lastmod>2026-07-10T05:44:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260710-robinhood-chain-sees-over-70m-in-eth-bridged-during-first-week.html</loc>
     <lastmod>2026-07-10T05:44:20.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -283,20 +313,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260710-zcash-targets-july-28-launch-for-ironwood-network-upgrade.html</loc>
-    <lastmod>2026-07-10T04:25:27.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260710-bitcoin-zips-higher-to-nearly-64000-as-chip-rally-and-yen-strength-drive-gains.html</loc>
     <lastmod>2026-07-10T03:57:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260710-hackers-tried-to-backdoor-injective-npm-package-to-steal-wallet-keys.html</loc>
-    <lastmod>2026-07-10T03:07:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -385,12 +403,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260709-billions-flowing-out-of-bitcoin-etfs-and-private-credit-funds-suggest-rising-mar.html</loc>
-    <lastmod>2026-07-09T18:13:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260709-former-meta-engineer-explains-why-he-sold-all-his-bitcoin-former-meta-engineer-t.html</loc>
     <lastmod>2026-07-09T18:00:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -451,12 +463,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260709-morning-minute-paradigm-raises-12b-fund-as-cryptos-top-vc-pushes-into-ai.html</loc>
-    <lastmod>2026-07-09T12:23:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260709-solana-changelog-july-9-2026.html</loc>
     <lastmod>2026-07-09T12:05:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,12 +487,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260709-most-people-are-missing-the-eth-angle-behind-robinhood-chain-at-first-glance-it-.html</loc>
-    <lastmod>2026-07-09T06:07:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260709-the-triage-is-the-product-running-ai-agents-against-ethereums-protocol-code.html</loc>
     <lastmod>2026-07-09T00:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -507,12 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260708-new-bitcoin-and-ethereum-exchange-supplies-are-near-historic-lows-with-btcs-lowe.html</loc>
     <lastmod>2026-07-08T07:40:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260706-breadth-depth-and-quality-why-comparing-blockchain-analytics-vendors-by-cluster-.html</loc>
-    <lastmod>2026-07-06T21:03:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
