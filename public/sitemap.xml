@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-11T13:49:00.433Z</lastmod>
+    <lastmod>2026-07-11T15:11:24.601Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-11T13:49:00.433Z</lastmod>
+    <lastmod>2026-07-11T15:11:24.601Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260711-the-uk-has-finally-shown-its-serious-about-crypto.html</loc>
+    <lastmod>2026-07-11T15:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260711-bitcoin-nearing-late-stages-of-bear-market-jamie-coutts-real-vision.html</loc>
@@ -51,6 +57,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260711-bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bea.html</loc>
     <lastmod>2026-07-11T11:21:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260711-on-the-filter-fork-topic-i-dont-usually-have-time-but-this-morning-listened-to-o.html</loc>
+    <lastmod>2026-07-11T10:08:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -235,12 +247,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260710-i-am-going-to-spend-a-good-deal-on-this-important-take-from-matt-this-weekend-on.html</loc>
-    <lastmod>2026-07-10T13:58:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260710-standard-chartered-says-bitcoin-at-64k-is-a-screaming-buy-maintains-100k-target-.html</loc>
     <lastmod>2026-07-10T13:56:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -405,12 +411,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260709-avalanche-treasury-firm-avax-one-reclaims-nasdaq-compliance-after-reverse-stock-.html</loc>
     <lastmod>2026-07-09T20:57:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260709-grayscales-cfo-exits-after-7-years-with-crypto-asset-manager.html</loc>
-    <lastmod>2026-07-09T20:42:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
