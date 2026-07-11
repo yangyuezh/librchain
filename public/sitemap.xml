@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-11T08:57:08.717Z</lastmod>
+    <lastmod>2026-07-11T10:32:05.340Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-11T08:57:08.717Z</lastmod>
+    <lastmod>2026-07-11T10:32:05.340Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260711-dollar-stablecoins-could-improve-fx-access-but-amplify-currency-runs-imf-paper.html</loc>
+    <lastmod>2026-07-11T09:14:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260711-we-really-ctod-all-of-crypto-from-the-stone-bottom-xcom.html</loc>
@@ -79,8 +85,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260710-just-in-japan-is-planning-to-legalize-crypto-etfs-finance-minister-satsuki-katay.html</loc>
+    <lastmod>2026-07-10T20:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260710-crypto-is-coming-to-agentic-trading-eligible-us-customers-will-soon-be-able-to-c.html</loc>
     <lastmod>2026-07-10T20:06:16.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260710-just-in-japans-metaplanet-will-offer-bitcoin-backed-digital-credit-products-bull.html</loc>
+    <lastmod>2026-07-10T19:35:13.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -123,12 +141,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260710-backpack-joins-race-for-247-stock-markets-with-tokenized-equities.html</loc>
     <lastmod>2026-07-10T16:36:36.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260710-bottom-formation-viewed-through-the-sth-bands-bitcoin-xcom.html</loc>
-    <lastmod>2026-07-10T16:26:42.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -297,12 +309,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260710-polymarket-seeks-approval-to-bring-margin-trading-to-us-customers.html</loc>
     <lastmod>2026-07-10T09:35:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260710-bitcoin-returns-to-643k-with-new-3-week-btc-price-highs-imminent.html</loc>
-    <lastmod>2026-07-10T09:32:23.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -501,12 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260709-the-triage-is-the-product-running-ai-agents-against-ethereums-protocol-code.html</loc>
     <lastmod>2026-07-09T00:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260708-after-a-decade-of-blockspace-fears-and-non-monetary-use-panics-bitcoin-still-has.html</loc>
-    <lastmod>2026-07-08T16:06:29.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
