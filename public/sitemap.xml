@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-11T06:23:56.179Z</lastmod>
+    <lastmod>2026-07-11T08:57:08.717Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-11T06:23:56.179Z</lastmod>
+    <lastmod>2026-07-11T08:57:08.717Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -27,6 +27,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260711-robinhood-says-its-ai-agent-feature-will-soon-be-assisting-crypto-traders.html</loc>
     <lastmod>2026-07-11T04:12:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260711-insight-ethereums-energy-use-has-fallen-more-than-999-since-the-merge-according-.html</loc>
+    <lastmod>2026-07-11T02:30:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -111,12 +117,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260710-new-hampshire-council-votes-down-100m-bitcoin-bonds.html</loc>
     <lastmod>2026-07-10T17:23:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260710-live-from-day-one-on-robinhood-chain-if-youre-building-agents-the-infras-ready-x.html</loc>
-    <lastmod>2026-07-10T17:11:30.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -361,12 +361,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260710-the-most-bullish-thing-that-happened-this-week-saylor-sold-bitcoin-nobody-flinch.html</loc>
-    <lastmod>2026-07-10T02:14:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260710-bitcoin-fell-to-its-2nd-most-oversold-level-in-history-on-the-monthly-chart-the-.html</loc>
     <lastmod>2026-07-10T00:35:58.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -435,6 +429,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260709-openai-releases-gpt-56-sol-heres-how-it-stacks-up-against-other-ai-models.html</loc>
     <lastmod>2026-07-09T17:24:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260709-just-in-47-trillion-jpmorgan-says-the-biggest-risk-to-bitcoin-isnt-strategy-but-.html</loc>
+    <lastmod>2026-07-09T17:17:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
