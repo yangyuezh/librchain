@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-11T10:32:05.340Z</lastmod>
+    <lastmod>2026-07-11T12:02:02.538Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-11T10:32:05.340Z</lastmod>
+    <lastmod>2026-07-11T12:02:02.538Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260711-bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bea.html</loc>
+    <lastmod>2026-07-11T11:21:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260711-dollar-stablecoins-could-improve-fx-access-but-amplify-currency-runs-imf-paper.html</loc>
@@ -193,6 +199,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260710-standard-chartered-says-bitcoin-at-64k-is-a-screaming-buy-maintains-100k-target-.html</loc>
+    <lastmod>2026-07-10T13:56:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260710-mica-licensing-only-the-beginning-as-crypto-custodians-face-scrutiny.html</loc>
     <lastmod>2026-07-10T13:54:50.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -301,12 +313,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260710-metaplanet-explores-bitcoin-backed-digital-credit-with-jpyc-in-japan.html</loc>
-    <lastmod>2026-07-10T09:58:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260710-polymarket-seeks-approval-to-bring-margin-trading-to-us-customers.html</loc>
     <lastmod>2026-07-10T09:35:21.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -357,12 +363,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260710-bitcoin-zips-higher-to-nearly-64000-as-chip-rally-and-yen-strength-drive-gains.html</loc>
     <lastmod>2026-07-10T03:57:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260710-bitwise-crypto-posts-third-straight-quarter-of-negative-returns-longest-streak-s.html</loc>
-    <lastmod>2026-07-10T02:20:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
