@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-11T22:03:41.521Z</lastmod>
+    <lastmod>2026-07-11T23:07:06.618Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-11T22:03:41.521Z</lastmod>
+    <lastmod>2026-07-11T23:07:06.618Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260711-just-in-eric-trump-says-eth-is-pumping-hardcrypto-is-the-future-xcom.html</loc>
+    <lastmod>2026-07-11T22:14:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260711-eth-is-pumping-hard-great-to-see-crypto-is-the-future-xcom.html</loc>
+    <lastmod>2026-07-11T22:04:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260711-lending-protocol-bonzo-loses-77-of-value-locked-as-9-million-oracle-exploit-ratt.html</loc>
@@ -33,6 +45,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260711-the-uk-has-finally-shown-its-serious-about-crypto.html</loc>
     <lastmod>2026-07-11T15:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260711-just-in-crypto-prediction-platform-polymarket-officially-launches-combo-trading-.html</loc>
+    <lastmod>2026-07-11T14:45:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -403,12 +421,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260710-bitwise-crypto-posts-third-straight-quarter-of-negative-returns-longest-streak-s.html</loc>
-    <lastmod>2026-07-10T02:20:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260709-ai-agents-could-be-turned-into-botnets-through-hallucinations-researchers-warn.html</loc>
     <lastmod>2026-07-09T21:45:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,18 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260709-digital-credit-is-transparent-because-the-principal-market-risk-factor-is-bitcoi.html</loc>
     <lastmod>2026-07-09T11:23:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260709-alert-a-crypto-user-lost-nearly-1-million-in-usdt-after-signing-a-phishing-token.html</loc>
-    <lastmod>2026-07-09T10:50:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260709-bitwise-10-crypto-index-etf-bitw-adds-hype-removes-dot-and-avax-bitwise-has-offi.html</loc>
-    <lastmod>2026-07-09T09:30:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
