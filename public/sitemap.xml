@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-12T22:04:06.861Z</lastmod>
+    <lastmod>2026-07-12T23:06:32.321Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-12T22:04:06.861Z</lastmod>
+    <lastmod>2026-07-12T23:06:32.321Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260712-hood-i-have-covered-robinhood-for-the-past-3-years-and-it-is-fair-to-say-that-so.html</loc>
+    <lastmod>2026-07-12T18:37:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260712-signs-of-life-state-of-crypto.html</loc>
@@ -357,12 +363,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260710-crypto-biz-how-stablecoins-found-their-niche.html</loc>
     <lastmod>2026-07-10T15:37:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260710-just-in-japans-finance-minister-satsuki-katayama-on-bitcoin-and-crypto-etfs-we-w.html</loc>
-    <lastmod>2026-07-10T15:32:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
