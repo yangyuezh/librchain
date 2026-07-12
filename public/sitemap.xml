@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-12T09:59:45.659Z</lastmod>
+    <lastmod>2026-07-12T11:22:14.001Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-12T09:59:45.659Z</lastmod>
+    <lastmod>2026-07-12T11:22:14.001Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260712-bitcoin-is-an-emergent-network-of-wallets-weighted-by-satoshis-nodes-weighted-by.html</loc>
+    <lastmod>2026-07-12T10:02:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260712-cambridge-study-puts-ethereum-near-the-lower-end-of-pos-energy-intensity.html</loc>
@@ -195,12 +201,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260711-robinhood-says-its-ai-agent-feature-will-soon-be-assisting-crypto-traders.html</loc>
     <lastmod>2026-07-11T04:12:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260711-insight-ethereums-energy-use-has-fallen-more-than-999-since-the-merge-according-.html</loc>
-    <lastmod>2026-07-11T02:30:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
