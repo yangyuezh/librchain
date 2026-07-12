@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-12T15:11:53.609Z</lastmod>
+    <lastmod>2026-07-12T17:13:17.220Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-12T15:11:53.609Z</lastmod>
+    <lastmod>2026-07-12T17:13:17.220Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -27,6 +27,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260712-stablecoin-market-cap-has-shrunk-by-10-billion-since-may-but-analyst-sees-no-rea.html</loc>
     <lastmod>2026-07-12T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260712-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom.html</loc>
+    <lastmod>2026-07-12T12:51:04.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -55,8 +61,14 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260712-blackrocks-buidl-tops-900m-on-avalanche-doubles-in-a-week-according-to-rwa-xyz-b.html</loc>
+    <lastmod>2026-07-12T09:59:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260712-cambridge-study-puts-ethereum-near-the-lower-end-of-pos-energy-intensity.html</loc>
-    <lastmod>2026-07-12T09:20:00.000Z</lastmod>
+    <lastmod>2026-07-12T09:29:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -79,14 +91,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260712-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-07-12T04:24:58.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260712-bitcoin-bulls-michael-saylor-adam-back-slam-bip-110-ordinals-proposal.html</loc>
+    <lastmod>2026-07-12T04:28:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260712-bitcoin-bulls-michael-saylor-adam-back-slam-bip-110-ordinals-proposal.html</loc>
-    <lastmod>2026-07-12T04:24:36.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260712-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-07-12T04:24:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -97,8 +109,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260712-empery-digital-shares-rise-after-selling-bitcoin-to-fund-ai-data-center-project.html</loc>
-    <lastmod>2026-07-12T01:00:54.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260712-empery-digital-shares-rise-after-selling-btc-to-fund-ai-data-center-project.html</loc>
+    <lastmod>2026-07-12T01:05:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -153,12 +165,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260711-what-is-robinhood-chain-the-ethereum-layer-2-network-for-tokenized-stocks.html</loc>
     <lastmod>2026-07-11T16:21:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260711-latest-standard-chartereds-geoff-kendrick-predicts-bitcoin-will-hit-100k-by-the-.html</loc>
-    <lastmod>2026-07-11T15:15:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -218,7 +224,7 @@
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260711-bonzo-lend-loses-9m-in-oracle-exploit-on-hedera.html</loc>
-    <lastmod>2026-07-11T11:58:00.000Z</lastmod>
+    <lastmod>2026-07-11T11:59:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -236,13 +242,7 @@
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260711-dollar-stablecoins-could-improve-fx-access-but-amplify-currency-runs-imf.html</loc>
-    <lastmod>2026-07-11T09:20:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260711-former-meta-engineer-quantum-computing-and-miners-are-bitcoins-two-ticking-time-.html</loc>
-    <lastmod>2026-07-11T08:11:35.000Z</lastmod>
+    <lastmod>2026-07-11T09:25:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
