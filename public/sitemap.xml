@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-12T13:51:28.638Z</lastmod>
+    <lastmod>2026-07-12T15:11:53.609Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-12T13:51:28.638Z</lastmod>
+    <lastmod>2026-07-12T15:11:53.609Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260712-how-to-make-product-ads-with-ai-for-tiktok-and-youtubefor-almost-free.html</loc>
+    <lastmod>2026-07-12T14:01:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260712-say-hello-to-robinhood-chain-mainnet-the-blockchain-built-specifically-for-finan.html</loc>
+    <lastmod>2026-07-12T14:00:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260712-stablecoin-market-cap-has-shrunk-by-10-billion-since-may-but-analyst-sees-no-rea.html</loc>
@@ -44,7 +56,7 @@
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260712-cambridge-study-puts-ethereum-near-the-lower-end-of-pos-energy-intensity.html</loc>
-    <lastmod>2026-07-12T09:18:17.000Z</lastmod>
+    <lastmod>2026-07-12T09:20:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -75,6 +87,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260712-bitcoin-bulls-michael-saylor-adam-back-slam-bip-110-ordinals-proposal.html</loc>
     <lastmod>2026-07-12T04:24:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260712-ripple-ceo-says-company-considered-shutting-down-after-2020-sec-lawsuit-ripple-c.html</loc>
+    <lastmod>2026-07-12T03:05:43.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -111,6 +129,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260711-just-in-fidelitys-bitcoins-support-resistance-data-shows-btc-in-an-accumulation-.html</loc>
     <lastmod>2026-07-11T17:39:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260711-just-in-ai-found-a-bug-that-could-crash-ethereum-validators-ethereum-foundation-.html</loc>
+    <lastmod>2026-07-11T17:25:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -194,7 +218,7 @@
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260711-bonzo-lend-loses-9m-in-oracle-exploit-on-hedera.html</loc>
-    <lastmod>2026-07-11T11:56:54.000Z</lastmod>
+    <lastmod>2026-07-11T11:58:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -211,8 +235,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260711-dollar-stablecoins-could-improve-fx-access-but-amplify-currency-runs-imf-paper.html</loc>
-    <lastmod>2026-07-11T09:14:12.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260711-dollar-stablecoins-could-improve-fx-access-but-amplify-currency-runs-imf.html</loc>
+    <lastmod>2026-07-11T09:20:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -237,12 +261,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260711-doj-moves-to-dismiss-charges-against-alleged-722m-bitclub-fraudster-report.html</loc>
     <lastmod>2026-07-11T01:30:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260711-6404487-bitcoin-xcom.html</loc>
-    <lastmod>2026-07-11T00:44:42.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -367,12 +385,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260710-standard-chartered-says-bitcoin-at-64k-is-a-screaming-buy-maintains-100k-target-.html</loc>
-    <lastmod>2026-07-10T13:56:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260710-strategy-bitcoin-sales-mostly-noise-standard-chartered-says-holding-100k-btc-cal.html</loc>
     <lastmod>2026-07-10T13:52:30.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,18 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260709-swift-readies-ledger-for-247-token-transfersthough-true-settlement-is-stuck-on-o.html</loc>
     <lastmod>2026-07-09T16:23:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260709-implemented-in-9-months-global-from-day-one-swifts-blockchain-based-ledger-is-re.html</loc>
-    <lastmod>2026-07-09T15:50:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260709-mara-stock-pops-as-bitcoin-miner-agrees-to-acquire-massive-powered-texas-land-pl.html</loc>
-    <lastmod>2026-07-09T15:44:31.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
