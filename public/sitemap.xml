@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-12T04:34:55.580Z</lastmod>
+    <lastmod>2026-07-12T07:36:18.103Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-12T04:34:55.580Z</lastmod>
+    <lastmod>2026-07-12T07:36:18.103Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260712-bitcoin-ether-little-changed-as-us-launches-fresh-iran-strikes.html</loc>
+    <lastmod>2026-07-12T06:18:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260712-ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says.html</loc>
+    <lastmod>2026-07-12T06:09:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260712-bitcoins-bip-110-fork-deadline-nears-with-miner-support-at-zero.html</loc>
+    <lastmod>2026-07-12T05:49:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260712-heres-what-happened-in-crypto-today.html</loc>
@@ -411,24 +429,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260710-bitcoin-gets-a-green-light-from-a-reliable-momentum-gauge-here-are-key-levels-to.html</loc>
     <lastmod>2026-07-10T06:49:13.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260710-live-updates-bitcoin-rises-to-64000-as-sk-hynix-opens-for-trade-after-265-billio.html</loc>
-    <lastmod>2026-07-10T06:21:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260710-xrp-up-2-as-buyers-push-through-110-resistance.html</loc>
-    <lastmod>2026-07-10T05:13:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260710-bitcoins-quiet-split-strong-in-usd-lagging-in-jpy-as-yen-rises-on-intervention-f.html</loc>
-    <lastmod>2026-07-10T04:34:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
