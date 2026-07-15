@@ -1,7 +1,100 @@
 {
-  "updatedAt": "2026-07-15T14:06:01.203Z",
+  "updatedAt": "2026-07-15T15:47:50.009Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ostium suffers $18 million exploit as oracle attack wave continues to hit DeFi",
+      "summary": "A hacker used Ostium's own price-reporting infrastructure against the protocol, submitting falsified future-dated oracle data to manufacture fake trading profits and trigger an $18 million payout.",
+      "url": "https://www.coindesk.com/business/2026/07/15/ostium-suffers-usd18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi",
+      "publishedAt": "2026-07-15T15:27:43.000Z",
+      "keywords": [
+        "Finance",
+        "Hack",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260715-ostium-suffers-18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi",
+      "localUrl": "/news/20260715-ostium-suffers-18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The privacy paradox of protecting kids online",
+      "summary": "We don’t need to imagine the privacy pitfalls of age verification. They’ve been happening for years, argues Cardano Foundation CEO Frederik Gregaard.",
+      "url": "https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online",
+      "publishedAt": "2026-07-15T14:58:50.000Z",
+      "keywords": [
+        "Opinion",
+        "Opinion"
+      ],
+      "category": "综合",
+      "slug": "20260715-the-privacy-paradox-of-protecting-kids-online",
+      "localUrl": "/news/20260715-the-privacy-paradox-of-protecting-kids-online.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: To ETH or not to ETH — is SOL the better diversifier?",
+      "summary": "In this week's, Morgan Stanley’s Denny Galindo writes that as the crypto market expands, solana has historically been a better portfolio diversifier than ether, despite being more volatile.",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/07/15/crypto-long-and-short-to-eth-or-not-to-eth-is-sol-the-better-diversifier",
+      "publishedAt": "2026-07-15T14:58:09.000Z",
+      "keywords": [
+        "CoinDesk Indices",
+        "Institutional Investors",
+        "Institutional Adoption",
+        "CoinDesk Indices",
+        "Crypto Long & Short",
+        "Newsletters",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260715-crypto-long-short-to-eth-or-not-to-eth-is-sol-the-better-diversifier",
+      "localUrl": "/news/20260715-crypto-long-short-to-eth-or-not-to-eth-is-sol-the-better-diversifier.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin hits $65.5K as more surprise US inflation data sparks three-week BTC price high",
+      "summary": "Bitcoin moved up to its highest levels since June 22 as US PPI inflation numbers provided the week’s second surprise macro data drop.",
+      "url": "https://cointelegraph.com/markets/bitcoin-hits-655k-as-more-surprise-us-inflation-data-sparks-three-week-btc-price-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-15T14:45:28.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260715-bitcoin-hits-655k-as-more-surprise-us-inflation-data-sparks-three-week-btc-price",
+      "localUrl": "/news/20260715-bitcoin-hits-655k-as-more-surprise-us-inflation-data-sparks-three-week-btc-price.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "White House expected to meet with senators to work on ethics concerns in crypto bill",
+      "summary": "The most contentious piece of the crypto market structure bill is unresolved in the final weeks of Senate runway, and administration officials are expected to meet on it.",
+      "url": "https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section",
+      "publishedAt": "2026-07-15T14:37:36.000Z",
+      "keywords": [
+        "Policy",
+        "Donald Trump",
+        "Clarity Act",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260715-white-house-expected-to-meet-with-senators-to-work-on-ethics-concerns-in-crypto-",
+      "localUrl": "/news/20260715-white-house-expected-to-meet-with-senators-to-work-on-ethics-concerns-in-crypto-.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korea to modify 76-year-old law to classify cryptocurrencies as national assets",
+      "summary": "The government also reaffirmed plans to pilot tokenized government bonds next year and explore tokenizing state-owned real estate.",
+      "url": "https://www.coindesk.com/policy/2026/07/15/south-korea-to-modify-76-year-old-law-to-classify-cryptocurrencies-as-national-assets",
+      "publishedAt": "2026-07-15T14:35:26.000Z",
+      "keywords": [
+        "Policy",
+        "South Korea",
+        "Cryptocurrency",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260715-south-korea-to-modify-76-year-old-law-to-classify-cryptocurrencies-as-national-a",
+      "localUrl": "/news/20260715-south-korea-to-modify-76-year-old-law-to-classify-cryptocurrencies-as-national-a.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Open USD poses biggest threat yet to Circle's USDC, CoinShares says",
@@ -177,6 +270,17 @@
       "localUrl": "/news/20260715-bitcoin-rally-cools-as-investors-digest-inflation-data-oil-clouds-outlook.html"
     },
     {
+      "source": "X Wire",
+      "title": "Here's why I think Bitcoin drops lower first. Whales are stacking massive $BTC bids below the current price. There's a HUGE wall of buy orders stretching from around $57K down into the high-$40Ks. One single bid alone is worth $81 million at $61,500. Smart - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qLWtyZF9wTVJ4ZjJDQy12a01menVUckNqendRWVFhVlpXdmljdUFjSi1LckI5Uk9NMTduX09zc0E4WGdtTGxrbktzY0VRbWM3TzhoXy1BOGJGSXNLNENaR0FR?oc=5\" target=\"_blank\">Here's why I think Bitcoin drops l…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qLWtyZF9wTVJ4ZjJDQy12a01menVUckNqendRWVFhVlpXdmljdUFjSi1LckI5Uk9NMTduX09zc0E4WGdtTGxrbktzY0VRbWM3TzhoXy1BOGJGSXNLNENaR0FR?oc=5",
+      "publishedAt": "2026-07-15T11:32:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260715-heres-why-i-think-bitcoin-drops-lower-first-whales-are-stacking-massive-btc-bids",
+      "localUrl": "/news/20260715-heres-why-i-think-bitcoin-drops-lower-first-whales-are-stacking-massive-btc-bids.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Team Behind Ethereum's Institutional Privacy Push Spins Out For-Profit Firm EthSystems",
       "summary": "The startup's backers, including Bitmine and Joe Lubin, are betting institutions need a privacy layer before running money on a public chain.",
@@ -259,6 +363,17 @@
       "localUrl": "/news/20260715-breaking-south-korea-just-made-crypto-part-of-its-national-assets-the-new-nation.html"
     },
     {
+      "source": "X Wire",
+      "title": "🚨 JAPAN JUST FLIPPED THE SWITCH 🇯🇵 Crypto is now officially \"financial assets\" under Japanese law. Not payment tokens. Not a gray area. Real financial assets, regulated like securities. New insider trading rules. Real disclosure requirements. Exchange - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE91QlBjc0RmNWFpaUtfcUIxalMwVS0weWg1LUpsLXgwMjkxcWlnczhtVnBfQ01yNnVVWXdsWV9EMXpzYzVtcWw2cmhqbVBxdnkwNTVoQzJSS2hya2VZ?oc=5\" target=\"_blank\">🚨 JAPAN JUST FLIPPED THE SWITCH 🇯🇵 Cryp…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91QlBjc0RmNWFpaUtfcUIxalMwVS0weWg1LUpsLXgwMjkxcWlnczhtVnBfQ01yNnVVWXdsWV9EMXpzYzVtcWw2cmhqbVBxdnkwNTVoQzJSS2hya2VZ?oc=5",
+      "publishedAt": "2026-07-15T10:28:56.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260715-japan-just-flipped-the-switch-crypto-is-now-officially-financial-assets-under-ja",
+      "localUrl": "/news/20260715-japan-just-flipped-the-switch-crypto-is-now-officially-financial-assets-under-ja.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Bitcoin gets new $80K August target: Watch these BTC price levels next",
       "summary": "BTC price upside predictions include $68,000 within two weeks and up to $80,000 next month, contrasting with warnings of a 2022 bear-market rerun for the rest of 2026.",
@@ -285,6 +400,17 @@
       "localUrl": "/news/20260715-czech-republic-tells-isps-to-block-polymarket-after-gambling-blacklisting.html"
     },
     {
+      "source": "X Wire",
+      "title": "💥 BREAKING: Asia is going ALL-IN on crypto. President Trump warned that other nations could outpace the U.S. on crypto regulation. South Korea has now recognized crypto as a “national asset” and plans to tokenize state-owned real estate. Meanwhile, Jap - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zVFRpay1yaUloR1pYajh1RmZ3ZXJMM0pHN1JzTnktMVI4enI4ZkZvSVhkUDFyVVhXZVQ5U2RCS0d5VXJWR19KbXdSc3N1akIwRU5hdFZURk1iNXdfRjdfYVd3?oc=5\" target=\"_blank\">💥 BREAKING: Asia is going ALL-IN …",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zVFRpay1yaUloR1pYajh1RmZ3ZXJMM0pHN1JzTnktMVI4enI4ZkZvSVhkUDFyVVhXZVQ5U2RCS0d5VXJWR19KbXdSc3N1akIwRU5hdFZURk1iNXdfRjdfYVd3?oc=5",
+      "publishedAt": "2026-07-15T09:41:56.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260715-breaking-asia-is-going-all-in-on-crypto-president-trump-warned-that-other-nation",
+      "localUrl": "/news/20260715-breaking-asia-is-going-all-in-on-crypto-president-trump-warned-that-other-nation.html"
+    },
+    {
       "source": "Decrypt",
       "title": "US, UK Outline Recommendations to Align Stablecoin and Tokenization Rules",
       "summary": "The joint recommendations back cross-border stablecoins and tokenized markets, setting a shared direction while avoiding binding rules.",
@@ -309,6 +435,17 @@
       "category": "综合",
       "slug": "20260715-cathie-woods-ark-buys-another-220k-circle-shares-despite-sell-off",
       "localUrl": "/news/20260715-cathie-woods-ark-buys-another-220k-circle-shares-despite-sell-off.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: 🇯🇵 JAPAN The world's 4th-largest economy just approved Bitcoin ETFs. Japan's Upper House committee approved the bill reclassifying crypto as a financial instrument, the same category as stocks and bonds. It already passed the Lower House, - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MN3RpQlNabDg5aXFjaGk3RWVmUGRacHdtNThhaEpobDQzMk90TEI4eEU0Q0tGUDFPeWxxNjU3cnFGaDZ6MGo4WmIwVklRaEZPdkpzWnBYNEl1LWdKNlozdmZWQQ?oc=5\" target=\"_blank\">BREAKING: 🇯🇵 JAPAN The world's…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MN3RpQlNabDg5aXFjaGk3RWVmUGRacHdtNThhaEpobDQzMk90TEI4eEU0Q0tGUDFPeWxxNjU3cnFGaDZ6MGo4WmIwVklRaEZPdkpzWnBYNEl1LWdKNlozdmZWQQ?oc=5",
+      "publishedAt": "2026-07-15T08:54:51.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260715-breaking-japan-the-worlds-4th-largest-economy-just-approved-bitcoin-etfs-japans-",
+      "localUrl": "/news/20260715-breaking-japan-the-worlds-4th-largest-economy-just-approved-bitcoin-etfs-japans-.html"
     },
     {
       "source": "X Wire",
@@ -466,6 +603,17 @@
       "localUrl": "/news/20260715-bitmine-generated-46m-from-ethereum-staking-last-quarter.html"
     },
     {
+      "source": "X Wire",
+      "title": "Interactive Brokers, the Fourth-Largest U.S. Brokerage, Adds Nine Crypto Tokens and Two-Way Stablecoin Transfers Interactive Brokers has added trading support for nine tokens through zerohash: AAVE, APT, CC, LDO, MON, NEAR, XPL, PAXG and UNI. Th - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE96YzBRNU8xa3VCNHFiT3FacUxEbjVxTUg4YzVkUjdydF9lZnlmeGV5YUZTbGUzcmdTeWc4bUwyU2tUVVE5c0JsLTJ4enBlVmNmODJQVGxYXzk1YWFoeEF6Y3JHQQ?oc=5\" target=\"_blank\">Interactive Brokers, the Fourth-…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96YzBRNU8xa3VCNHFiT3FacUxEbjVxTUg4YzVkUjdydF9lZnlmeGV5YUZTbGUzcmdTeWc4bUwyU2tUVVE5c0JsLTJ4enBlVmNmODJQVGxYXzk1YWFoeEF6Y3JHQQ?oc=5",
+      "publishedAt": "2026-07-14T23:50:19.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260714-interactive-brokers-the-fourth-largest-us-brokerage-adds-nine-crypto-tokens-and-",
+      "localUrl": "/news/20260714-interactive-brokers-the-fourth-largest-us-brokerage-adds-nine-crypto-tokens-and-.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Over 95% of Coinbase’s code is now written with help of AI",
       "summary": "Coinbase’s Rob Witoff said the company is leaning more on AI to help with execution, but still needs high-agency humans for judgment and strategy.",
@@ -477,17 +625,6 @@
       "category": "综合",
       "slug": "20260714-over-95-of-coinbases-code-is-now-written-with-help-of-ai",
       "localUrl": "/news/20260714-over-95-of-coinbases-code-is-now-written-with-help-of-ai.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: $65,000 Bitcoin - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLVWdLdl9IWU1fRW5sWjZVR0JEdWN2Q3BnOHdPZkZ4V0hZMjVGcS1uQXItOXpTeUJVZmxWOUVmaTRkdXdpMWFvRlBnbk1teG9UdG44Z2NuNEpDeUNPcS1RTTJR?oc=5\" target=\"_blank\">JUST IN: $65,000 Bitcoin</a> <font…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLVWdLdl9IWU1fRW5sWjZVR0JEdWN2Q3BnOHdPZkZ4V0hZMjVGcS1uQXItOXpTeUJVZmxWOUVmaTRkdXdpMWFvRlBnbk1teG9UdG44Z2NuNEpDeUNPcS1RTTJR?oc=5",
-      "publishedAt": "2026-07-14T22:23:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260714-just-in-65000-bitcoin-xcom",
-      "localUrl": "/news/20260714-just-in-65000-bitcoin-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -520,17 +657,6 @@
       "localUrl": "/news/20260714-us-cftc-moves-to-stop-kalshi-from-canceling-trades-as-ordered-by-michigan-court.html"
     },
     {
-      "source": "X Wire",
-      "title": "Top traders on Hyperliquid are aggressively long bitcoin:native , showing some of the highest sustained long positioning we’ve recorded. This exposure exceeds what was seen during the last run to around $83k, pointing to strong speculative demand at these - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpQWJwWWJzd25fdE96S0VIS1NFOGRPWlluVkRRd0tOV1hVZ0c5RVdVRVBVS1lLWllSd3cxbE1ubkdMeENUSG15VWpvWm1CMnVKUGJ4dW5VY3dEMlFVTHk0?oc=5\" target=\"_blank\">Top traders on Hyperliquid are aggress…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpQWJwWWJzd25fdE96S0VIS1NFOGRPWlluVkRRd0tOV1hVZ0c5RVdVRVBVS1lLWllSd3cxbE1ubkdMeENUSG15VWpvWm1CMnVKUGJ4dW5VY3dEMlFVTHk0?oc=5",
-      "publishedAt": "2026-07-14T20:37:18.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260714-top-traders-on-hyperliquid-are-aggressively-long-bitcoinnative-showing-some-of-t",
-      "localUrl": "/news/20260714-top-traders-on-hyperliquid-are-aggressively-long-bitcoinnative-showing-some-of-t.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Velocity raises $38M to build stablecoin treasury infrastructure for enterprises",
       "summary": "Backed by Dragonfly, FirstMark and Coinbase Ventures, the startup is expanding software that helps businesses integrate stablecoins into treasury and payment workflows.",
@@ -555,6 +681,17 @@
       "category": "综合",
       "slug": "20260714-deepmind-ceo-says-agi-will-be-bigger-than-electricity-or-fire",
       "localUrl": "/news/20260714-deepmind-ceo-says-agi-will-be-bigger-than-electricity-or-fire.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "NEW: @MorganStanley has filed updated documents for both their Ethereum ETF and their Solana ETF. Tickers will be $MSSE and $MSOL. Fees will be 0.14%. Launch likely getting pretty close. solana:So11111111111111111111111111111111111111112 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vbzBXTkFudG9lOXVTR1pwZGF4SEZSMFlnU29ZZWp3Y1VXSG9kdjllOWg1YkhyTVVwbU1QT2tNem13VWV6Z3Z6M0h6X3lYMnA1T01TbVN2TDg4WXc?oc=5\" target=\"_blank\">NEW: @MorganStanley has filed updated docum…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vbzBXTkFudG9lOXVTR1pwZGF4SEZSMFlnU29ZZWp3Y1VXSG9kdjllOWg1YkhyTVVwbU1QT2tNem13VWV6Z3Z6M0h6X3lYMnA1T01TbVN2TDg4WXc?oc=5",
+      "publishedAt": "2026-07-14T19:55:58.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260714-new-morganstanley-has-filed-updated-documents-for-both-their-ethereum-etf-and-th",
+      "localUrl": "/news/20260714-new-morganstanley-has-filed-updated-documents-for-both-their-ethereum-etf-and-th.html"
     },
     {
       "source": "Cointelegraph",
@@ -587,34 +724,6 @@
       "localUrl": "/news/20260714-some-us-senate-democrats-come-out-against-clarity-act-calling-it-a-corrupt-bill.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Binance bets on becoming a crypto 'super app' as stablecoins reshape growth",
-      "summary": "Shunyet Jan, Binance’s head of spot trading and derivatives, said the exchange is focusing more on payments and financial services than on trading alone as it drives the next phase of its expansion.",
-      "url": "https://www.coindesk.com/business/2026/07/14/binance-bets-on-becoming-a-crypto-super-app-as-stablecoins-reshape-growth",
-      "publishedAt": "2026-07-14T17:33:19.000Z",
-      "keywords": [
-        "Finance",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260714-binance-bets-on-becoming-a-crypto-super-app-as-stablecoins-reshape-growth",
-      "localUrl": "/news/20260714-binance-bets-on-becoming-a-crypto-super-app-as-stablecoins-reshape-growth.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The Clarity Act isn't a ticket to sanctions evasion, actually",
-      "summary": "The bill, as currently drafted, has the power to stop sanctions evasion at scale, argues Ari Redbord, global head of policy at TRM Labs.",
-      "url": "https://www.coindesk.com/opinion/2026/07/14/the-clarity-act-isn-t-a-ticket-to-sanctions-evasion-actually",
-      "publishedAt": "2026-07-14T17:27:48.000Z",
-      "keywords": [
-        "Opinion",
-        "Opinion"
-      ],
-      "category": "监管",
-      "slug": "20260714-the-clarity-act-isnt-a-ticket-to-sanctions-evasion-actually",
-      "localUrl": "/news/20260714-the-clarity-act-isnt-a-ticket-to-sanctions-evasion-actually.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "UK government defers capital gains on certain crypto with ‘no gain, no loss’ approach",
       "summary": "The change in tax policy, expected to affect about 700,000 people in the UK, is tied to the disposal of crypto in lending and liquidity pools.",
@@ -628,17 +737,6 @@
       "localUrl": "/news/20260714-uk-government-defers-capital-gains-on-certain-crypto-with-no-gain-no-loss-approa.html"
     },
     {
-      "source": "X Wire",
-      "title": "I❤️this new chart! Bitcoin’s entire cost basis through time: • Satoshi-era coins still sitting at - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KLUs1VTdwaldadjVXbGUtNVU5QklaSzk2UFFpQmtOWGdBZ1R4ZWRjMWZHSUlkVXFsZEVqQ2c0VnZ4emJkU2p1VEEzNzRfYUNPclhfVmI4YUEtV0dxWFY2TGxmZG9WZw?oc=5\" target=\"_blank\">I❤️this new chart! Bitcoin’s…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KLUs1VTdwaldadjVXbGUtNVU5QklaSzk2UFFpQmtOWGdBZ1R4ZWRjMWZHSUlkVXFsZEVqQ2c0VnZ4emJkU2p1VEEzNzRfYUNPclhfVmI4YUEtV0dxWFY2TGxmZG9WZw?oc=5",
-      "publishedAt": "2026-07-14T17:22:03.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260714-ithis-new-chart-bitcoins-entire-cost-basis-through-time-satoshi-era-coins-still-",
-      "localUrl": "/news/20260714-ithis-new-chart-bitcoins-entire-cost-basis-through-time-satoshi-era-coins-still-.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "JCB signs Circle MOU to test stablecoin payments in Japan",
       "summary": "The companies will explore using USDC for JCB’s cross-border treasury operations and merchant payments in Japan as regulated stablecoin adoption gains momentum.",
@@ -650,53 +748,6 @@
       "category": "RWA",
       "slug": "20260714-jcb-signs-circle-mou-to-test-stablecoin-payments-in-japan",
       "localUrl": "/news/20260714-jcb-signs-circle-mou-to-test-stablecoin-payments-in-japan.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Mizuho downgrades Circle to underperform, cuts price target to $50 on Open USD threat",
-      "summary": "The Japanese investment bank said Open USD's yield pass-through model could pressure Circle's margins by shifting more reserve income to distributors.",
-      "url": "https://www.coindesk.com/business/2026/07/14/mizuho-downgrades-circle-to-underperform-cuts-price-target-to-usd50-on-open-usd-threat",
-      "publishedAt": "2026-07-14T16:59:44.000Z",
-      "keywords": [
-        "Finance",
-        "Circle",
-        "Stablecoins",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260714-mizuho-downgrades-circle-to-underperform-cuts-price-target-to-50-on-open-usd-thr",
-      "localUrl": "/news/20260714-mizuho-downgrades-circle-to-underperform-cuts-price-target-to-50-on-open-usd-thr.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Wikipedia blackout could hurt how AI engines like ChatGPT understand crypto",
-      "summary": "Wikipedia observes guidelines on crypto coverage that date back many years and may now be outdated, according to the report.",
-      "url": "https://www.coindesk.com/policy/2026/07/14/wikipedia-blackout-could-hurt-how-ai-engines-like-chatgpt-understand-crypto",
-      "publishedAt": "2026-07-14T16:39:26.000Z",
-      "keywords": [
-        "Policy",
-        "Artificial Intelligence",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260714-wikipedia-blackout-could-hurt-how-ai-engines-like-chatgpt-understand-crypto",
-      "localUrl": "/news/20260714-wikipedia-blackout-could-hurt-how-ai-engines-like-chatgpt-understand-crypto.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S., UK move to align rules for tokenized finance across world's largest financial markets",
-      "summary": "The joint roadmap aims to reduce regulatory friction for tokenized assets while strengthening ties between the world's two largest financial centers.",
-      "url": "https://www.coindesk.com/policy/2026/07/14/u-s-uk-move-to-align-rules-for-tokenized-finance-across-world-s-largest-financial-markets",
-      "publishedAt": "2026-07-14T16:29:48.000Z",
-      "keywords": [
-        "Policy",
-        "Regulation",
-        "Tokenization",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260714-us-uk-move-to-align-rules-for-tokenized-finance-across-worlds-largest-financial-",
-      "localUrl": "/news/20260714-us-uk-move-to-align-rules-for-tokenized-finance-across-worlds-largest-financial-.html"
     },
     {
       "source": "Cointelegraph",
@@ -769,19 +820,6 @@
       "localUrl": "/news/20260714-uk-to-defer-capital-gains-tax-on-defi-lending-liquidity-pool-deposits.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Anchorage Digital expands Tron support with institutional TRX staking",
-      "summary": "Institutions can now stake Tron's native token directly from Anchorage's custody platform as the company expands support for one of the largest USDT settlement networks.",
-      "url": "https://cointelegraph.com/news/anchorage-digital-expands-tron-support-with-institutional-trx-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-14T15:00:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "DeFi",
-      "slug": "20260714-anchorage-digital-expands-tron-support-with-institutional-trx-staking",
-      "localUrl": "/news/20260714-anchorage-digital-expands-tron-support-with-institutional-trx-staking.html"
-    },
-    {
       "source": "X Wire",
       "title": "Just In: Coinbase Opens Registration to Users in China On July 14, multiple social media users reported that Coinbase had opened account registration to users in China. Wu Blockchain confirmed the change with Coinbase staff, who said users can now comp - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zZVR5YWRzclBQMnZRWHVZdTRXZ2lxZ0FYWEdCcnZjVHRXY2ZCVkNKSmdReV81U3I2ZFZQdmNUQ0w3Z2FPc0M4Y1VVakJ1emJCRmtCUDRKYW9HeWstMmw0RHBXaw?oc=5\" target=\"_blank\">Just In: Coinbase Opens Registra…",
@@ -838,17 +876,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Trading activity in crypto treasury preferreds has accelerated sharply in 2026, with monthly par-normalized volume reaching approximately $13B in June. The step-change has been driven by STRC and a growing number of new preferred listings, transforming - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1S2NLM0J2bXJaOWFhODh4Q1F3NUdzQ0pVc2k5Y2pwaUNaYzVYSnM1UExUaHJrTENEMExhY1ZrSGJ2Y3Bodzh6MEFuYVQ4WWt6YjRYLThfaTU3RzBkSFVuaEwzdVY?oc=5\" target=\"_blank\">Trading activity in crypto trea…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1S2NLM0J2bXJaOWFhODh4Q1F3NUdzQ0pVc2k5Y2pwaUNaYzVYSnM1UExUaHJrTENEMExhY1ZrSGJ2Y3Bodzh6MEFuYVQ4WWt6YjRYLThfaTU3RzBkSFVuaEwzdVY?oc=5",
-      "publishedAt": "2026-07-14T07:57:18.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260714-trading-activity-in-crypto-treasury-preferreds-has-accelerated-sharply-in-2026-w",
-      "localUrl": "/news/20260714-trading-activity-in-crypto-treasury-preferreds-has-accelerated-sharply-in-2026-w.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Me explaining crypto for 17th time - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TZ2pRU0FTcjdMcmU2cWJlbTBzV0hqUm9xNVBiZHhMeWtrWlpWV0VEd2VkTDFnaTFHMmlqTDlYY05PalAxZU1nTjhiVmt0d29KTDRLMEUwMy1pb0da?oc=5\" target=\"_blank\">Me explaining crypto for 17th time</a> <fo…",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TZ2pRU0FTcjdMcmU2cWJlbTBzV0hqUm9xNVBiZHhMeWtrWlpWV0VEd2VkTDFnaTFHMmlqTDlYY05PalAxZU1nTjhiVmt0d29KTDRLMEUwMy1pb0da?oc=5",
@@ -857,17 +884,6 @@
       "category": "X热点",
       "slug": "20260714-me-explaining-crypto-for-17th-time-xcom",
       "localUrl": "/news/20260714-me-explaining-crypto-for-17th-time-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Binance Releases 44th Proof of Reserves Report Binance, the world’s largest crypto exchange by user count and trading volume, released its 44th Proof of Reserves report with a July 1 snapshot. User BTC holdings rose 1.22% from June 1 to about 640,000 B - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NSHBOUVFmMGNzR2UyRmJLQTlobkF0ODFhSTJYcVdWUkJsTmZVekU2YTR6dlRkb1NLZ1oyTkRHSVNGSzdJdUlnOUdWd2hrOEZDNDk2WExCU1RvR0ttbW40aHMyVQ?oc=5\" target=\"_blank\">Binance Releases 44th Proof of R…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NSHBOUVFmMGNzR2UyRmJLQTlobkF0ODFhSTJYcVdWUkJsTmZVekU2YTR6dlRkb1NLZ1oyTkRHSVNGSzdJdUlnOUdWd2hrOEZDNDk2WExCU1RvR0ttbW40aHMyVQ?oc=5",
-      "publishedAt": "2026-07-14T01:26:24.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260714-binance-releases-44th-proof-of-reserves-report-binance-the-worlds-largest-crypto",
-      "localUrl": "/news/20260714-binance-releases-44th-proof-of-reserves-report-binance-the-worlds-largest-crypto.html"
     },
     {
       "source": "X Wire",
@@ -1109,17 +1125,6 @@
       "category": "综合",
       "slug": "20260713-courtroom-ready-analytics-how-chainalysis-met-the-daubert-standard",
       "localUrl": "/news/20260713-courtroom-ready-analytics-how-chainalysis-met-the-daubert-standard.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "This part is key \"steering user towards positive sum crypto use case, liquidity, users/customers are your best moat\" - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6VjJSR3NlMFYxekxkcUUxY2RWbmRROTRnTVJVdEJXd0lXcUZPaEs3QkJJYmZjc01oM2lieVVCQm5wZHNYMjgwWUFSaXlwVTE5U25LcXo1T0dMMU5ubFI1RXM4NlVKMG8?oc=5\" target=\"_blank\">This part is key \"steering …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6VjJSR3NlMFYxekxkcUUxY2RWbmRROTRnTVJVdEJXd0lXcUZPaEs3QkJJYmZjc01oM2lieVVCQm5wZHNYMjgwWUFSaXlwVTE5U25LcXo1T0dMMU5ubFI1RXM4NlVKMG8?oc=5",
-      "publishedAt": "2026-07-13T03:19:44.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260713-this-part-is-key-steering-user-towards-positive-sum-crypto-use-case-liquidity-us",
-      "localUrl": "/news/20260713-this-part-is-key-steering-user-towards-positive-sum-crypto-use-case-liquidity-us.html"
     }
   ]
 }
