@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-14T22:09:39.997Z</lastmod>
+    <lastmod>2026-07-15T00:02:25.646Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-14T22:09:39.997Z</lastmod>
+    <lastmod>2026-07-15T00:02:25.646Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260714-just-in-65000-bitcoin-xcom.html</loc>
+    <lastmod>2026-07-14T22:23:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260714-three-us-senators-oppose-clarity-act-on-ethics-grounds-with-vote-expected-soon.html</loc>
@@ -337,6 +343,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260714-me-explaining-crypto-for-17th-time-xcom.html</loc>
+    <lastmod>2026-07-14T06:01:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260714-scoop-top-white-house-crypto-adviser-to-take-military-leave-as-clarity-act-enter.html</loc>
     <lastmod>2026-07-14T02:43:53.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -469,12 +481,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260713-just-in-public-company-strive-purchases-18-bitcoin-for-12-million-now-holds-127-.html</loc>
-    <lastmod>2026-07-13T12:40:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260713-strategy-sells-4667m-in-mstr-shares-makes-no-bitcoin-purchases-according-to-a-ju.html</loc>
     <lastmod>2026-07-13T12:07:39.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -495,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260713-in-bitcoin-influence-is-earned-through-work-not-ambition-those-who-contribute-mo.html</loc>
     <lastmod>2026-07-13T06:08:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260713-whale-alert-a-bitcoin-whale-moved-2931-btc-worth-roughly-188m-after-seven-years-.html</loc>
-    <lastmod>2026-07-13T02:42:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
