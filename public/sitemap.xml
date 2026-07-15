@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-15T21:12:23.359Z</lastmod>
+    <lastmod>2026-07-15T23:09:56.160Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-15T21:12:23.359Z</lastmod>
+    <lastmod>2026-07-15T23:09:56.160Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260715-ofac-sanctions-iran-central-bank-crypto-wallets-freezing-131m-in-stablecoins.html</loc>
+    <lastmod>2026-07-15T22:37:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260715-why-analysts-arent-worried-about-coinbases-30-drop.html</loc>
+    <lastmod>2026-07-15T21:38:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260715-openai-uses-ai-red-team-to-strengthen-gpt-56-against-prompt-injection-attacks.html</loc>
@@ -501,12 +513,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260713-stop-over-prompting-openais-new-gpt-56-guidelines-change-everything.html</loc>
     <lastmod>2026-07-13T22:46:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260713-protesters-march-on-openai-anthropic-and-google-deepmind-demanding-ai-developmen.html</loc>
-    <lastmod>2026-07-13T22:11:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
