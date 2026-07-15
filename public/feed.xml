@@ -5,7 +5,31 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 15 Jul 2026 17:35:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 19:33:39 GMT</lastBuildDate>
+    <item>
+      <title>Base Creator Jesse Pollak Steps Back From App Leadership After Admitting Social Bet &apos;Was Wrong&apos;</title>
+      <link>https://www.librchain.com/news/20260715-base-creator-jesse-pollak-steps-back-from-app-leadership-after-admitting-social-.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260715-base-creator-jesse-pollak-steps-back-from-app-leadership-after-admitting-social-.html</guid>
+      <description>Pollak said he is handing the Base App back to Coinbase to focus on building Base into &quot;the blockchain for global finance&quot; after conceding the network&apos;s push into on-chain social missed the mark.</description>
+      <pubDate>Wed, 15 Jul 2026 18:50:55 GMT</pubDate>
+      <source url="https://decrypt.co/373574/base-jesse-pollak-steps-back-social-bet-wrong">Decrypt</source>
+    </item>
+    <item>
+      <title>BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try</title>
+      <link>https://www.librchain.com/news/20260715-blackrock-goldman-and-jp-morgan-will-give-tokenized-stocks-a-try.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260715-blackrock-goldman-and-jp-morgan-will-give-tokenized-stocks-a-try.html</guid>
+      <description>The Depository Trust &amp; Clearing Corporation is working with nearly 40 financial firms in a pilot to test tokenized stocks and U.S. treasuries.</description>
+      <pubDate>Wed, 15 Jul 2026 18:02:06 GMT</pubDate>
+      <source url="https://decrypt.co/373571/blackrock-goldman-sachs-jp-morgan-dtcc-tokenized-stocks">Decrypt</source>
+    </item>
+    <item>
+      <title>US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon</title>
+      <link>https://www.librchain.com/news/20260715-us-senator-blasts-ag-pick-for-dismantling-crypto-unit-trumps-cz-pardon.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260715-us-senator-blasts-ag-pick-for-dismantling-crypto-unit-trumps-cz-pardon.html</guid>
+      <description>President Donald Trump’s pick for US Attorney General faced criticism from members of the Senate Judiciary Committee on his approach to crypto enforcement and the pardon of former Binance CEO Changpeng Zhao.</description>
+      <pubDate>Wed, 15 Jul 2026 17:56:00 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/todd-blanche-hearing-dismantling-justice-crypto-unit-donald-trumps-pardon?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
     <item>
       <title>Ostium pauses trading as security firms report multimillion-dollar oracle exploit</title>
       <link>https://www.librchain.com/news/20260715-ostium-pauses-trading-as-security-firms-report-multimillion-dollar-oracle-exploi.html</link>
@@ -29,14 +53,6 @@
       <description>Hackers manipulated Ostium&apos;s price feed by compromising an oracle signer key, allowing them to drain roughly $18 million from the Arbitrum-based perpetuals exchange.</description>
       <pubDate>Wed, 15 Jul 2026 17:01:25 GMT</pubDate>
       <source url="https://decrypt.co/373566/defi-exploit-ostium-oracle-hack">Decrypt</source>
-    </item>
-    <item>
-      <title>SEC Update: @TRowePrice Active Crypto ETF is about to go live as they file the final 424B3 today. Ticker: TKNZ sec.gov/Archives/edgar… - x.com</title>
-      <link>https://www.librchain.com/news/20260715-sec-update-troweprice-active-crypto-etf-is-about-to-go-live-as-they-file-the-fin.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260715-sec-update-troweprice-active-crypto-etf-is-about-to-go-live-as-they-file-the-fin.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43TXJyVDRvOG5KOGNsc2tTR1A2SHA4dldnRDZYRV9uNHVNeDhxSS1FdDlnYS1mcDE2ZjA4OFdPdGhiMUp6U2VhYmZpOXpSeFRkeWg3azRSeE5nMGkxQjh6QWRuN1BOS3c?oc=5&quot; target=&quot;_blank&quot;&gt;SEC Update: @TRowePrice Act…</description>
-      <pubDate>Wed, 15 Jul 2026 16:56:47 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43TXJyVDRvOG5KOGNsc2tTR1A2SHA4dldnRDZYRV9uNHVNeDhxSS1FdDlnYS1mcDE2ZjA4OFdPdGhiMUp6U2VhYmZpOXpSeFRkeWg3azRSeE5nMGkxQjh6QWRuN1BOS3c?oc=5">X Wire</source>
     </item>
     <item>
       <title>US Treasury Freezes $131 Million in Iran-Linked Crypto Wallets</title>
@@ -101,6 +117,14 @@
       <description>A hacker used Ostium&apos;s own price-reporting infrastructure against the protocol, submitting falsified future-dated oracle data to manufacture fake trading profits and trigger an $18 million payout.</description>
       <pubDate>Wed, 15 Jul 2026 15:27:43 GMT</pubDate>
       <source url="https://www.coindesk.com/business/2026/07/15/ostium-suffers-usd18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi">CoinDesk</source>
+    </item>
+    <item>
+      <title>RWA Perpetual Protocol Ostium Suffers Suspected $18 Million Exploit on Arbitrum Security firm Blockaid said it detected an exploit involving Ostium Vault on Arbitrum. According to Blockaid, the attacker used a registered PriceUpKeep forwarder and future-dat - x.com</title>
+      <link>https://www.librchain.com/news/20260715-rwa-perpetual-protocol-ostium-suffers-suspected-18-million-exploit-on-arbitrum-s.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260715-rwa-perpetual-protocol-ostium-suffers-suspected-18-million-exploit-on-arbitrum-s.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiY0FVX3lxTE9za0djRnAwN1Jnclc4RHkyTkhpazAtZjFKalZMQzJGTW40S2c4RWJPN19yeUt2YV9sMzhVRjZyZlVGM09kTXlpZVFTSkRHWkx0Y1Y0Q25SRGJ0LWlqdFdrLUtiZw?oc=5&quot; target=&quot;_blank&quot;&gt;RWA Perpetual Protocol Ostium Su…</description>
+      <pubDate>Wed, 15 Jul 2026 15:10:15 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiY0FVX3lxTE9za0djRnAwN1Jnclc4RHkyTkhpazAtZjFKalZMQzJGTW40S2c4RWJPN19yeUt2YV9sMzhVRjZyZlVGM09kTXlpZVFTSkRHWkx0Y1Y0Q25SRGJ0LWlqdFdrLUtiZw?oc=5">X Wire</source>
     </item>
     <item>
       <title>The privacy paradox of protecting kids online</title>
@@ -189,6 +213,14 @@
       <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xczcwVUFqUmFZUUgxdGVSTnpwazQzeXhtN2FTSDA4bUpVSk8zV0pvc3JYTGZaYzZ2Q2UyNUZkakxWZ09KdC1NbGhKVFg3Nlp1VXAtcXYwaFVUaUxkS2d6Mk5Baw?oc=5&quot; target=&quot;_blank&quot;&gt;BREAKING: Bitcoin reclaims $65,0…</description>
       <pubDate>Wed, 15 Jul 2026 13:04:32 GMT</pubDate>
       <source url="https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xczcwVUFqUmFZUUgxdGVSTnpwazQzeXhtN2FTSDA4bUpVSk8zV0pvc3JYTGZaYzZ2Q2UyNUZkakxWZ09KdC1NbGhKVFg3Nlp1VXAtcXYwaFVUaUxkS2d6Mk5Baw?oc=5">X Wire</source>
+    </item>
+    <item>
+      <title>Many asking what blockchain they are using, here is the answer: The digital conversions occurred on HyperLedger Besu (DTCC’s private network) and Canton (a public network). This is part of DTCC&apos;s multi-chain strategy to ensure resiliency, scalability and ch - x.com</title>
+      <link>https://www.librchain.com/news/20260715-many-asking-what-blockchain-they-are-using-here-is-the-answer-the-digital-conver.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260715-many-asking-what-blockchain-they-are-using-here-is-the-answer-the-digital-conver.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lcC16bVJlRmswSTRvei1ndDN6UHduWFpZLXBnUU03a3QzRGVXd0lwOTl0cVgtcDczNXBnN3hITUZ4dE9hcDJ2LTNHaC1rcTA0djVNMktXeTFmbjQtMldSNjBoSTc?oc=5&quot; target=&quot;_blank&quot;&gt;Many asking what blockchain the…</description>
+      <pubDate>Wed, 15 Jul 2026 12:59:07 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lcC16bVJlRmswSTRvei1ndDN6UHduWFpZLXBnUU03a3QzRGVXd0lwOTl0cVgtcDczNXBnN3hITUZ4dE9hcDJ2LTNHaC1rcTA0djVNMktXeTFmbjQtMldSNjBoSTc?oc=5">X Wire</source>
     </item>
     <item>
       <title>Morning Minute: Crypto Rips on Cool CPI</title>
@@ -327,6 +359,14 @@
       <source url="https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zVFRpay1yaUloR1pYajh1RmZ3ZXJMM0pHN1JzTnktMVI4enI4ZkZvSVhkUDFyVVhXZVQ5U2RCS0d5VXJWR19KbXdSc3N1akIwRU5hdFZURk1iNXdfRjdfYVd3?oc=5">X Wire</source>
     </item>
     <item>
+      <title>JUST IN: 🇯🇵 Japan officially passes law recognizing crypto as &quot;financial assets.&quot; - x.com</title>
+      <link>https://www.librchain.com/news/20260715-just-in-japan-officially-passes-law-recognizing-crypto-as-financial-assets-xcom.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260715-just-in-japan-officially-passes-law-recognizing-crypto-as-financial-assets-xcom.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiYkFVX3lxTE81d244UEJmVUVRUU9tS2ZPa21FcFMzSEVmMExDTlhwZXdEeTVvR3BZeU9GRWJUZWRDOFdXbkMxcVZkVWpwcC1lRFh2R2xqandXdFh1SDM3eXdsaGZ1em1VbXJB?oc=5&quot; target=&quot;_blank&quot;&gt;JUST IN: 🇯🇵 Japan officially pas…</description>
+      <pubDate>Wed, 15 Jul 2026 09:34:38 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiYkFVX3lxTE81d244UEJmVUVRUU9tS2ZPa21FcFMzSEVmMExDTlhwZXdEeTVvR3BZeU9GRWJUZWRDOFdXbkMxcVZkVWpwcC1lRFh2R2xqandXdFh1SDM3eXdsaGZ1em1VbXJB?oc=5">X Wire</source>
+    </item>
+    <item>
       <title>US, UK Outline Recommendations to Align Stablecoin and Tokenization Rules</title>
       <link>https://www.librchain.com/news/20260715-us-uk-outline-recommendations-to-align-stablecoin-and-tokenization-rules.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260715-us-uk-outline-recommendations-to-align-stablecoin-and-tokenization-rules.html</guid>
@@ -359,9 +399,9 @@
       <source url="https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IMVdqWFl4UTBOeWl2aXNObjh5R3dqeXRXeWgycTl4NXRwRzhiYUYtZ3hRNWRoWS0yWjFrenF0eTZQd3VTNG9TcUQ5d3ZqdHg4SEdKMF8xaGZaU1RYVmNlTg?oc=5">X Wire</source>
     </item>
     <item>
-      <title>Live markets: Bitcoin tops $65,000 as markets get more good inflation news</title>
-      <link>https://www.librchain.com/news/20260715-live-markets-bitcoin-tops-65000-as-markets-get-more-good-inflation-news.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260715-live-markets-bitcoin-tops-65000-as-markets-get-more-good-inflation-news.html</guid>
+      <title>Live updates: Bitcoin rises near $65,000 as markets get more good inflation news</title>
+      <link>https://www.librchain.com/news/20260715-live-updates-bitcoin-rises-near-65000-as-markets-get-more-good-inflation-news.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260715-live-updates-bitcoin-rises-near-65000-as-markets-get-more-good-inflation-news.html</guid>
       <description>U.S. spot bitcoin ETFs took in about $181 million on Tuesday, a day after shedding roughly $425 million, per SoSoValue data. Ether ETFs added about $58 million.</description>
       <pubDate>Wed, 15 Jul 2026 08:29:18 GMT</pubDate>
       <source url="https://www.coindesk.com/tech/2026/07/15/live-markets-bitcoin-ether-etfs-draw-inflows-as-majors-rise-as-much-as-5">CoinDesk</source>
@@ -445,46 +485,6 @@
       <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiY0FVX3lxTE96YzBRNU8xa3VCNHFiT3FacUxEbjVxTUg4YzVkUjdydF9lZnlmeGV5YUZTbGUzcmdTeWc4bUwyU2tUVVE5c0JsLTJ4enBlVmNmODJQVGxYXzk1YWFoeEF6Y3JHQQ?oc=5&quot; target=&quot;_blank&quot;&gt;Interactive Brokers, the Fourth-…</description>
       <pubDate>Tue, 14 Jul 2026 23:50:19 GMT</pubDate>
       <source url="https://news.google.com/rss/articles/CBMiY0FVX3lxTE96YzBRNU8xa3VCNHFiT3FacUxEbjVxTUg4YzVkUjdydF9lZnlmeGV5YUZTbGUzcmdTeWc4bUwyU2tUVVE5c0JsLTJ4enBlVmNmODJQVGxYXzk1YWFoeEF6Y3JHQQ?oc=5">X Wire</source>
-    </item>
-    <item>
-      <title>Over 95% of Coinbase’s code is now written with help of AI</title>
-      <link>https://www.librchain.com/news/20260714-over-95-of-coinbases-code-is-now-written-with-help-of-ai.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260714-over-95-of-coinbases-code-is-now-written-with-help-of-ai.html</guid>
-      <description>Coinbase’s Rob Witoff said the company is leaning more on AI to help with execution, but still needs high-agency humans for judgment and strategy.</description>
-      <pubDate>Tue, 14 Jul 2026 22:30:00 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/over-95-of-coinbases-code-is-now-written-with-ai?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>Three US senators oppose CLARITY Act on ethics grounds with vote expected soon</title>
-      <link>https://www.librchain.com/news/20260714-three-us-senators-oppose-clarity-act-on-ethics-grounds-with-vote-expected-soon.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260714-three-us-senators-oppose-clarity-act-on-ethics-grounds-with-vote-expected-soon.html</guid>
-      <description>Senate Majority Leader John Thune reportedly said the chamber will consider a vote on the crypto market structure bill before Aug. 10, though it’s unclear whether it has enough Democratic support to pass.</description>
-      <pubDate>Tue, 14 Jul 2026 21:30:26 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/us-senators-oppose-clarity-act-vote-senate?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>Velocity raises $38M to build stablecoin treasury infrastructure for enterprises</title>
-      <link>https://www.librchain.com/news/20260714-velocity-raises-38m-to-build-stablecoin-treasury-infrastructure-for-enterprises.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260714-velocity-raises-38m-to-build-stablecoin-treasury-infrastructure-for-enterprises.html</guid>
-      <description>Backed by Dragonfly, FirstMark and Coinbase Ventures, the startup is expanding software that helps businesses integrate stablecoins into treasury and payment workflows.</description>
-      <pubDate>Tue, 14 Jul 2026 20:04:31 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/velocity-raises-38m-to-build-stablecoin-treasury-infrastructure-for-enterprises?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire</title>
-      <link>https://www.librchain.com/news/20260714-deepmind-ceo-says-agi-will-be-bigger-than-electricity-or-fire.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260714-deepmind-ceo-says-agi-will-be-bigger-than-electricity-or-fire.html</guid>
-      <description>Demis Hassabis says artificial general intelligence is only a few years away and proposes a new U.S. standards body to test frontier AI models before release.</description>
-      <pubDate>Tue, 14 Jul 2026 19:57:49 GMT</pubDate>
-      <source url="https://decrypt.co/373511/deepmind-ceo-agi-bigger-than-electricity-fire">Decrypt</source>
-    </item>
-    <item>
-      <title>NEW: @MorganStanley has filed updated documents for both their Ethereum ETF and their Solana ETF. Tickers will be $MSSE and $MSOL. Fees will be 0.14%. Launch likely getting pretty close. solana:So11111111111111111111111111111111111111112 - x.com</title>
-      <link>https://www.librchain.com/news/20260714-new-morganstanley-has-filed-updated-documents-for-both-their-ethereum-etf-and-th.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260714-new-morganstanley-has-filed-updated-documents-for-both-their-ethereum-etf-and-th.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vbzBXTkFudG9lOXVTR1pwZGF4SEZSMFlnU29ZZWp3Y1VXSG9kdjllOWg1YkhyTVVwbU1QT2tNem13VWV6Z3Z6M0h6X3lYMnA1T01TbVN2TDg4WXc?oc=5&quot; target=&quot;_blank&quot;&gt;NEW: @MorganStanley has filed updated docum…</description>
-      <pubDate>Tue, 14 Jul 2026 19:55:58 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vbzBXTkFudG9lOXVTR1pwZGF4SEZSMFlnU29ZZWp3Y1VXSG9kdjllOWg1YkhyTVVwbU1QT2tNem13VWV6Z3Z6M0h6X3lYMnA1T01TbVN2TDg4WXc?oc=5">X Wire</source>
     </item>
   </channel>
 </rss>
