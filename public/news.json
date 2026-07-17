@@ -1,7 +1,105 @@
 {
-  "updatedAt": "2026-07-17T16:33:43.270Z",
+  "updatedAt": "2026-07-17T18:15:29.798Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
+      "summary": "Polymarket bettors have cut the odds of the CLARITY Act passing this year to a record low as Senate negotiations over ethics provisions remain unresolved.",
+      "url": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
+      "publishedAt": "2026-07-17T18:00:11.000Z",
+      "keywords": [
+        "Markets",
+        "Clarity Act",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260717-polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-dr",
+      "localUrl": "/news/20260717-polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-dr.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Kimi K3 Just Triggered DeepSeek Flashbacks for the Stock Market",
+      "summary": "Moonshot AI's 2.8-trillion-parameter open-weight model sent chip stocks tumbling and gave Wall Street a Friday it would rather forget.",
+      "url": "https://decrypt.co/373736/kimi-k3-triggered-deepseek-flashbacks-stock-market",
+      "publishedAt": "2026-07-17T17:55:32.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260717-kimi-k3-just-triggered-deepseek-flashbacks-for-the-stock-market",
+      "localUrl": "/news/20260717-kimi-k3-just-triggered-deepseek-flashbacks-for-the-stock-market.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "China’s Kimi K3 Is Out—And Beats Claude Fable and GPT 5.6 Sol on Key Benchmarks",
+      "summary": "Moonshot AI's 2.8-trillion-parameter model tops Fable 5 on a creative writing benchmark and leads Arena AI's frontend code leaderboard—at Claude Sonnet pricing.",
+      "url": "https://decrypt.co/373716/china-kimi-k3-largest-open-source-ai-model-ever-beats-claude-fable-gpt-5-6-sol",
+      "publishedAt": "2026-07-17T17:36:42.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260717-chinas-kimi-k3-is-outand-beats-claude-fable-and-gpt-56-sol-on-key-benchmarks",
+      "localUrl": "/news/20260717-chinas-kimi-k3-is-outand-beats-claude-fable-and-gpt-56-sol-on-key-benchmarks.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stripe and Swift race to control the next generation of global payments infrastructure",
+      "summary": "Crypto and blockchain experts say this week's moves show the two established finance companies are increasingly competing for control of the infrastructure behind digital payments.",
+      "url": "https://www.coindesk.com/business/2026/07/17/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure",
+      "publishedAt": "2026-07-17T17:23:01.000Z",
+      "keywords": [
+        "Finance",
+        "Stripe",
+        "Stablecoins",
+        "banks",
+        "DeFi",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260717-stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastr",
+      "localUrl": "/news/20260717-stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastr.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Galaxy Puts Its Name on Texas Tech's Stadium in a 15-Year, Crypto-Native Deal",
+      "summary": "The Nasdaq-listed digital-asset firm will rebrand the Red Raiders' home as \"Galaxy Stadium.\" The bigger bet is on the cheap power and open land of West Texas.",
+      "url": "https://decrypt.co/373710/galaxy-texas-tech-stadium-15-year-crypto-native-deal",
+      "publishedAt": "2026-07-17T17:09:33.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "综合",
+      "slug": "20260717-galaxy-puts-its-name-on-texas-techs-stadium-in-a-15-year-crypto-native-deal",
+      "localUrl": "/news/20260717-galaxy-puts-its-name-on-texas-techs-stadium-in-a-15-year-crypto-native-deal.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "OKX Europe lets users convert USDT to MiCA-compliant USDC",
+      "summary": "The feature offers European customers a voluntary path away from Tether’s USDT as MiCA rules reshape the region’s stablecoin market.",
+      "url": "https://cointelegraph.com/news/okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-17T16:54:37.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260717-okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc",
+      "localUrl": "/news/20260717-okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Senator Warren requests 2026 reporting for Trump’s crypto earnings after $1.4B disclosure",
+      "summary": "With the Senate likely voting on a crypto bill within days, Elizabeth Warren asked for information on Donald Trump’s earnings between January and July ahead of a 2027 deadline.",
+      "url": "https://cointelegraph.com/news/senator-warren-2026-reporting-donald-trump-crypto-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-17T16:48:22.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260717-senator-warren-requests-2026-reporting-for-trumps-crypto-earnings-after-14b-disc",
+      "localUrl": "/news/20260717-senator-warren-requests-2026-reporting-for-trumps-crypto-earnings-after-14b-disc.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Cardano hands core development to outside teams in decentralization push",
@@ -215,6 +313,17 @@
       "localUrl": "/news/20260717-stablecoin-growth-will-erode-bank-deposits-says-ecbs-cipollone.html"
     },
     {
+      "source": "X Wire",
+      "title": "Every Bitcoin bear market has established a higher floor than the last. I fit a simple power-law model to the historical Bitcoin cycle lows. It estimates a cycle low of ~$61k for 2026, ~$188k by 2030, and ~$582k by 2035. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNnpHSlNYSWVQc29SRklOTkRjZ0FsOEpQN2lWdXl0VTJDZXZSVUlHZXhiSHJsYU5YSWpkZkMzeUNTOEF5Qlp3d202eDhFaXNLeDNTY1JPMld2QXNrVUJZVQ?oc=5\" target=\"_blank\">Every Bitcoin bear market has establ…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNnpHSlNYSWVQc29SRklOTkRjZ0FsOEpQN2lWdXl0VTJDZXZSVUlHZXhiSHJsYU5YSWpkZkMzeUNTOEF5Qlp3d202eDhFaXNLeDNTY1JPMld2QXNrVUJZVQ?oc=5",
+      "publishedAt": "2026-07-17T12:00:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260717-every-bitcoin-bear-market-has-established-a-higher-floor-than-the-last-i-fit-a-s",
+      "localUrl": "/news/20260717-every-bitcoin-bear-market-has-established-a-higher-floor-than-the-last-i-fit-a-s.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "AI frenzy losing steam leaves bitcoin less volatile than South Korean stocks",
       "summary": "Your day-ahead look for July 17, 2026",
@@ -257,7 +366,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live markets: Bitcoin slips below $63,000 as the chip rout goes global",
+      "title": "Live markets: Bitcoin returns to $63,000 as Nasdaq trims large early loss",
       "summary": "A deepening global selloff in chipmakers dragged risk assets lower, pulling bitcoin back from the $65,000 level it reached on this week's soft inflation print.",
       "url": "https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global",
       "publishedAt": "2026-07-17T10:43:57.000Z",
@@ -267,8 +376,8 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260717-live-markets-bitcoin-slips-below-63000-as-the-chip-rout-goes-global",
-      "localUrl": "/news/20260717-live-markets-bitcoin-slips-below-63000-as-the-chip-rout-goes-global.html"
+      "slug": "20260717-live-markets-bitcoin-returns-to-63000-as-nasdaq-trims-large-early-loss",
+      "localUrl": "/news/20260717-live-markets-bitcoin-returns-to-63000-as-nasdaq-trims-large-early-loss.html"
     },
     {
       "source": "X Wire",
@@ -515,19 +624,6 @@
       "localUrl": "/news/20260717-bitcoin-liquidity-clusters-determine-btcs-price-direction-as-futures-flow-fuels-.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Citadel Securities invests $400M in Crypto.com at $20B valuation",
-      "summary": "Crypto exchanges have increasingly positioned themselves as bridges between digital asset markets and traditional finance.",
-      "url": "https://cointelegraph.com/news/citadel-securities-invests-400m-in-cryptocom-at-20b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-16T23:47:12.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260716-citadel-securities-invests-400m-in-cryptocom-at-20b-valuation",
-      "localUrl": "/news/20260716-citadel-securities-invests-400m-in-cryptocom-at-20b-valuation.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: 🇺🇸 Crypto Clarity Act expected to be released today does not have Senate Democrat support, Politico reports. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCbm5hR2tjT1h0YlYtWWlBRHJrT2dtUWtfXzlrU2NTdHpEUmREUFdPeS1wd0x5M1BFUHRZRTAyeENpTnZndHNSY3Y3enFDN1RVQlNvY3FZUVF5UVpGWlI0a1VB?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Crypto Clarity Act e…",
@@ -537,19 +633,6 @@
       "category": "X热点",
       "slug": "20260716-just-in-crypto-clarity-act-expected-to-be-released-today-does-not-have-senate-de",
       "localUrl": "/news/20260716-just-in-crypto-clarity-act-expected-to-be-released-today-does-not-have-senate-de.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Polygon CEO announces job cuts amid Coinme acquisition",
-      "summary": "The round of layoffs was part of Polygon transitioning operations to payments following a $250 million deal to acquire Coinme and Sequence in January.",
-      "url": "https://cointelegraph.com/news/polygon-ceo-job-cuts-coinme-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-16T22:05:06.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260716-polygon-ceo-announces-job-cuts-amid-coinme-acquisition",
-      "localUrl": "/news/20260716-polygon-ceo-announces-job-cuts-amid-coinme-acquisition.html"
     },
     {
       "source": "Decrypt",
@@ -661,17 +744,6 @@
       "category": "市场",
       "slug": "20260716-mira-murati-drops-her-first-ai-model-after-leaving-openaiand-its-fully-open-sour",
       "localUrl": "/news/20260716-mira-murati-drops-her-first-ai-model-after-leaving-openaiand-its-fully-open-sour.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Citadel Securities invests $400 million into cryptocurrency exchange Crypto․com at a $20,000,000,000 valuation. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BOE42bEdadjlGaGVJTjR3SzAyX2pUTW8xRk5EYV8wTmN2NHk1Ty1EbnNLYjlFYjh0cVFFTDNsQW5uNDliSTJjX1h5SkZhMFY5a3BxdmZfNVFSbTVpVFg3UjBB?oc=5\" target=\"_blank\">JUST IN: Citadel Securities invest…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BOE42bEdadjlGaGVJTjR3SzAyX2pUTW8xRk5EYV8wTmN2NHk1Ty1EbnNLYjlFYjh0cVFFTDNsQW5uNDliSTJjX1h5SkZhMFY5a3BxdmZfNVFSbTVpVFg3UjBB?oc=5",
-      "publishedAt": "2026-07-16T18:12:25.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260716-just-in-citadel-securities-invests-400-million-into-cryptocurrency-exchange-cryp",
-      "localUrl": "/news/20260716-just-in-citadel-securities-invests-400-million-into-cryptocurrency-exchange-cryp.html"
     },
     {
       "source": "CoinDesk",
@@ -837,51 +909,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Very crypto of us to launch $HOOD on Solana - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UUjV3NXFRS2I4TTE1OWJPb3ZsdDRwTEpkNnM3Y1B1Q0Y1NU90VGpkRk8zQjNUYnpkby1zdThmelhVVmNqWFp0OTNKQ1RlVUZxUFN4R0VVaU9MYjA?oc=5\" target=\"_blank\">Very crypto of us to launch $HOOD on Solana…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UUjV3NXFRS2I4TTE1OWJPb3ZsdDRwTEpkNnM3Y1B1Q0Y1NU90VGpkRk8zQjNUYnpkby1zdThmelhVVmNqWFp0OTNKQ1RlVUZxUFN4R0VVaU9MYjA?oc=5",
-      "publishedAt": "2026-07-16T15:00:01.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260716-very-crypto-of-us-to-launch-hood-on-solana-xcom",
-      "localUrl": "/news/20260716-very-crypto-of-us-to-launch-hood-on-solana-xcom.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: Strengthening defenses against AI fraud",
-      "summary": "Strengthening defenses against AI fraud",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/07/16/crypto-for-advisors-strengthening-defenses-against-ai-fraud",
-      "publishedAt": "2026-07-16T14:54:11.000Z",
-      "keywords": [
-        "CoinDesk Indices",
-        "Financial Advisors",
-        "Crypto for Advisors",
-        "Newsletters",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260716-crypto-for-advisors-strengthening-defenses-against-ai-fraud",
-      "localUrl": "/news/20260716-crypto-for-advisors-strengthening-defenses-against-ai-fraud.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto brokerage firm Alpaca raises $135 million for tokenized stock infrastructure",
-      "summary": "The company has previously cleared or held in custody roughly 94% of tokenized U.S. equities and now holds over $1.5 billion in underlying stocks.",
-      "url": "https://www.coindesk.com/business/2026/07/16/crypto-brokerage-firm-alpaca-raises-usd135-million-for-tokenized-stock-infrastructure",
-      "publishedAt": "2026-07-16T14:19:32.000Z",
-      "keywords": [
-        "Finance",
-        "Fundraising",
-        "Funding Rounds",
-        "Tokenization",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260716-crypto-brokerage-firm-alpaca-raises-135-million-for-tokenized-stock-infrastructu",
-      "localUrl": "/news/20260716-crypto-brokerage-firm-alpaca-raises-135-million-for-tokenized-stock-infrastructu.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Polygon Labs Announces Layoffs, Shifts From Blockchain Foundation to Blockchain Payments Company Polygon Labs CEO Marc Boiron said the company is in the final stage of acquiring Coinme and integrating its team. To achieve profitability in 2027, Polyg - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sZVVsZDg2UWFzb3AtZ0RXTFFJb20tbE1LOVZ2VEljYVBUUnlscHBWa2xzS2JGdkQzQW1JX2t0OGZyVE0wSTlPanpoZGhYWTlMUXJ6akRkSUZ2UDdSaUpfektlNA?oc=5\" target=\"_blank\">Polygon Labs Announces Layoffs, …",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sZVVsZDg2UWFzb3AtZ0RXTFFJb20tbE1LOVZ2VEljYVBUUnlscHBWa2xzS2JGdkQzQW1JX2t0OGZyVE0wSTlPanpoZGhYWTlMUXJ6akRkSUZ2UDdSaUpfektlNA?oc=5",
@@ -927,17 +954,6 @@
       "localUrl": "/news/20260716-morning-minute-base-hands-its-app-over-to-cobie.html"
     },
     {
-      "source": "X Wire",
-      "title": "My new Bitcoin Cycle Memo is live for July 2026 Bitcoin topped in October on apathy, not euphoria. Nine months later the 2019 analog just passed its timing window without the event that ended it. So what actually ends this one, and when? 20 charts, full frame - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE81MnN0U0tCVUlIb082dC1Nc0paeWtoYkhrNzJVSGxjWFVtZ1VzVUNVdldHQjFpX0ttdVJXMzFxTlpBZVl2ZjliNXA2bTJtYlk4WVlacDZhelM3SlFTUXV4eC1wOTg?oc=5\" target=\"_blank\">My new Bitcoin Cycle Memo is li…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81MnN0U0tCVUlIb082dC1Nc0paeWtoYkhrNzJVSGxjWFVtZ1VzVUNVdldHQjFpX0ttdVJXMzFxTlpBZVl2ZjliNXA2bTJtYlk4WVlacDZhelM3SlFTUXV4eC1wOTg?oc=5",
-      "publishedAt": "2026-07-16T11:00:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260716-my-new-bitcoin-cycle-memo-is-live-for-july-2026-bitcoin-topped-in-october-on-apa",
-      "localUrl": "/news/20260716-my-new-bitcoin-cycle-memo-is-live-for-july-2026-bitcoin-topped-in-october-on-apa.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Feds Arrest Florida Man Over Video Game Malware That Stole $220K in Crypto",
       "summary": "Zyaire Wilkins allegedly procured malware hidden in video games that infected 8,000 devices and broke into 80 crypto wallets, the FBI says.",
@@ -963,6 +979,17 @@
       "category": "监管",
       "slug": "20260716-us-senate-unanimously-opposes-sam-bankman-fried-pardon",
       "localUrl": "/news/20260716-us-senate-unanimously-opposes-sam-bankman-fried-pardon.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 BULLISH: BlackRock CEO Larry Fink says excessive leverage in Bitcoin and crypto has been washed out, bringing greater stability at current levels. He added that he is “very bullish” on markets over the next 12 months. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZLU9Gd0k5YkEzZHp4a2tnUWpVSjJocjJfbndDc2V1VWpyaUdfeVluN0JOMkdzZ3dHN3VZdkd4Q25uQWNGM0s1aVhSSHUyMEpxVkg2M1NZenVDNFRTdlFYUDBqbFU?oc=5\" target=\"_blank\">🔥 BULLISH: BlackRock CEO Larry…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZLU9Gd0k5YkEzZHp4a2tnUWpVSjJocjJfbndDc2V1VWpyaUdfeVluN0JOMkdzZ3dHN3VZdkd4Q25uQWNGM0s1aVhSSHUyMEpxVkg2M1NZenVDNFRTdlFYUDBqbFU?oc=5",
+      "publishedAt": "2026-07-16T02:21:22.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260716-bullish-blackrock-ceo-larry-fink-says-excessive-leverage-in-bitcoin-and-crypto-h",
+      "localUrl": "/news/20260716-bullish-blackrock-ceo-larry-fink-says-excessive-leverage-in-bitcoin-and-crypto-h.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -1022,19 +1049,6 @@
       "localUrl": "/news/20260715-meet-bonsai-the-first-27b-ai-model-that-fits-on-your-phone.html"
     },
     {
-      "source": "Decrypt",
-      "title": "What Is BIP-110 and Why Is It Dividing the Bitcoin Community?",
-      "summary": "A proposal to restrict non-financial data on Bitcoin has split prominent developers, miners, and industry leaders ahead of a key activation deadline, reopening one of the network's biggest governance debates since the Blocksize Wars.",
-      "url": "https://decrypt.co/373577/what-is-bip-110-why-dividing-bitcoin-community",
-      "publishedAt": "2026-07-15T19:43:10.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "市场",
-      "slug": "20260715-what-is-bip-110-and-why-is-it-dividing-the-bitcoin-community",
-      "localUrl": "/news/20260715-what-is-bip-110-and-why-is-it-dividing-the-bitcoin-community.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: 🇺🇸 Lyn Alden's 'ORANGE JUICE' Raises $40 million to launch a permanent capital holding company backed by a BTC treasury 👀 \"It’s a company that acquires, improves, and permanently holds cash-flowing businesses, backed by a bitcoin treasury\" - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03YXhMb3kwRXp3aVRQUjZxOUdiU2lKckZZRTVTU1M1UkpYQVBiWFBna0pTQlpJNm9lUlVaMXVQdUtrSkFnbGVmNEhHc2J3TjdaeGgtZDI4TFozZHkxYm1kYTF2bldjUnc?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Lyn Alden's '…",
@@ -1046,30 +1060,15 @@
       "localUrl": "/news/20260715-just-in-lyn-aldens-orange-juice-raises-40-million-to-launch-a-permanent-capital-.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Base Creator Jesse Pollak Steps Back From App Leadership After Admitting Social Bet 'Was Wrong'",
-      "summary": "Pollak said he is handing the Base App back to Coinbase to focus on building Base into \"the blockchain for global finance\" after conceding the network's push into on-chain social missed the mark.",
-      "url": "https://decrypt.co/373574/base-jesse-pollak-steps-back-social-bet-wrong",
-      "publishedAt": "2026-07-15T18:50:55.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "综合",
-      "slug": "20260715-base-creator-jesse-pollak-steps-back-from-app-leadership-after-admitting-social-",
-      "localUrl": "/news/20260715-base-creator-jesse-pollak-steps-back-from-app-leadership-after-admitting-social-.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try",
-      "summary": "The Depository Trust & Clearing Corporation is working with nearly 40 financial firms in a pilot to test tokenized stocks and U.S. treasuries.",
-      "url": "https://decrypt.co/373571/blackrock-goldman-sachs-jp-morgan-dtcc-tokenized-stocks",
-      "publishedAt": "2026-07-15T18:02:06.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "RWA",
-      "slug": "20260715-blackrock-goldman-and-jp-morgan-will-give-tokenized-stocks-a-try",
-      "localUrl": "/news/20260715-blackrock-goldman-and-jp-morgan-will-give-tokenized-stocks-a-try.html"
+      "source": "X Wire",
+      "title": "Over the past year, while every category of crypto token lost value, privacy tokens climbed 127.3%, becoming the best-performing sector in crypto. To understand why privacy coins are surging, we need to explore a core monetary feature that’s missing from the - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iSGp1Nlc2N2JsWTlDYzY5M1E0YjdfYTB3bE1sbUhEcnpneFhUWGNYWXgxSjZxNWFYLUhqLWFzX3VheEFyTEI5U19WLWt2WDJ5N1lYT2NiTllibzFu?oc=5\" target=\"_blank\">Over the past year, while every category o…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iSGp1Nlc2N2JsWTlDYzY5M1E0YjdfYTB3bE1sbUhEcnpneFhUWGNYWXgxSjZxNWFYLUhqLWFzX3VheEFyTEI5U19WLWt2WDJ5N1lYT2NiTllibzFu?oc=5",
+      "publishedAt": "2026-07-15T18:53:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260715-over-the-past-year-while-every-category-of-crypto-token-lost-value-privacy-token",
+      "localUrl": "/news/20260715-over-the-past-year-while-every-category-of-crypto-token-lost-value-privacy-token.html"
     },
     {
       "source": "Chainalysis Blog",
