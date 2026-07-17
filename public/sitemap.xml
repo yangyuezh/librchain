@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-16T22:12:45.048Z</lastmod>
+    <lastmod>2026-07-17T00:09:42.023Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-16T22:12:45.048Z</lastmod>
+    <lastmod>2026-07-17T00:09:42.023Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260716-citadel-securities-invests-400m-in-cryptocom-at-20b-valuation.html</loc>
+    <lastmod>2026-07-16T23:47:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260716-just-in-crypto-clarity-act-expected-to-be-released-today-does-not-have-senate-de.html</loc>
+    <lastmod>2026-07-16T22:24:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260716-polygon-ceo-announces-job-cuts-amid-coinme-acquisition.html</loc>
@@ -313,12 +325,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260716-us-senate-unanimously-adopts-resolution-opposing-clemency-for-sbf.html</loc>
-    <lastmod>2026-07-16T09:26:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260716-us-senate-unanimously-opposes-sam-bankman-fried-pardon.html</loc>
     <lastmod>2026-07-16T08:34:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260715-sentiment-negative-but-you-all-bought-bitcoin-today-xcom.html</loc>
     <lastmod>2026-07-15T02:50:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260715-ethereum-xcom.html</loc>
-    <lastmod>2026-07-15T02:11:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
