@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-18T12:01:29.716Z</lastmod>
+    <lastmod>2026-07-18T13:44:18.749Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-18T12:01:29.716Z</lastmod>
+    <lastmod>2026-07-18T13:44:18.749Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -147,6 +147,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260717-hsbc-wins-bank-of-england-approval-to-enter-digital-securities-sandbox.html</loc>
     <lastmod>2026-07-17T13:54:27.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260717-coinbase-bitcoin-premium-index-stays-negative-for-record-60-consecutive-days-acc.html</loc>
+    <lastmod>2026-07-17T13:51:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -321,12 +327,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260716-to-the-person-who-hacked-my-account-earlier-this-week-thanks-for-all-the-new-cry.html</loc>
     <lastmod>2026-07-16T22:56:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260716-just-in-crypto-clarity-act-expected-to-be-released-today-does-not-have-senate-de.html</loc>
-    <lastmod>2026-07-16T22:24:43.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
