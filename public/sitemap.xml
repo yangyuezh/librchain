@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-18T13:44:18.749Z</lastmod>
+    <lastmod>2026-07-18T15:10:13.062Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-18T13:44:18.749Z</lastmod>
+    <lastmod>2026-07-18T15:10:13.062Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260718-massive-bitcoin-call-spreads-target-72000-by-month-end-right-when-the-fed-meets.html</loc>
+    <lastmod>2026-07-18T14:15:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260718-tokenization-has-become-a-strategic-priority-for-84-of-financial-firms.html</loc>
+    <lastmod>2026-07-18T14:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260718-heres-what-happened-in-crypto-today.html</loc>
@@ -21,6 +33,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260718-kaspersky-identifies-malware-framework-targeting-crypto-investors.html</loc>
     <lastmod>2026-07-18T11:40:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260718-latest-brian-armstrong-says-bitcoin-has-succeeded-as-a-store-of-value-but-not-as.html</loc>
+    <lastmod>2026-07-18T11:05:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -325,12 +343,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260716-to-the-person-who-hacked-my-account-earlier-this-week-thanks-for-all-the-new-cry.html</loc>
-    <lastmod>2026-07-16T22:56:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260716-leaks-reveal-suno-fed-thousands-of-hours-of-deezer-youtube-and-pond5-data-into-i.html</loc>
     <lastmod>2026-07-16T21:01:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -427,20 +439,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260716-keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-busine.html</loc>
-    <lastmod>2026-07-16T15:26:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260716-t-rowe-active-crypto-etf-tknz-is-live-today-first-multi-token-active-spot-etf-al.html</loc>
     <lastmod>2026-07-16T15:17:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260716-the-clarity-act-is-the-most-important-consumer-protection-effort-in-years.html</loc>
-    <lastmod>2026-07-16T15:07:30.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -507,12 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260714-stern-likely-most-prolific-ransomware-operator-ever-sanctioned-by-eu-as-action-t.html</loc>
     <lastmod>2026-07-14T15:24:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260714-chainalysis-supports-stable-with-automatic-token-support.html</loc>
-    <lastmod>2026-07-14T14:00:14.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
