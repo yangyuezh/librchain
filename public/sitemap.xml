@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-19T19:21:59.979Z</lastmod>
+    <lastmod>2026-07-19T21:03:51.976Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-19T19:21:59.979Z</lastmod>
+    <lastmod>2026-07-19T21:03:51.976Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -81,6 +81,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260719-bitcoins-quantum-problem-gets-a-recovery-tool-but-not-for-satoshis-11-million-co.html</loc>
     <lastmod>2026-07-19T10:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260719-new-a-company-literally-called-bitcoin-japan-is-raising-60-million-and-has-never.html</loc>
+    <lastmod>2026-07-19T08:45:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -423,12 +429,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260717-cryptocom-hits-20b-valuation-after-400m-citadel-securities-investment.html</loc>
     <lastmod>2026-07-17T10:12:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260716-to-the-person-who-hacked-my-account-earlier-this-week-thanks-for-all-the-new-cry.html</loc>
-    <lastmod>2026-07-16T22:56:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
