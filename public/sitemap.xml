@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-19T21:03:51.976Z</lastmod>
+    <lastmod>2026-07-19T22:06:27.954Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-19T21:03:51.976Z</lastmod>
+    <lastmod>2026-07-19T22:06:27.954Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -27,6 +27,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260719-saylor-turns-up-heat-with-110-reasons-why-bip-110-is-a-bad-idea.html</loc>
     <lastmod>2026-07-19T16:37:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260719-there-are-two-problems-rn-for-crypto-and-specifically-bitcoin-bulls-1-marginal-l.html</loc>
+    <lastmod>2026-07-19T16:36:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -85,14 +91,26 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260719-new-a-company-literally-called-bitcoin-japan-is-raising-60-million-and-has-never.html</loc>
-    <lastmod>2026-07-19T08:45:00.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260719-btc-update-bitcoin-is-currently-outperforming-its-average-july-return-by-3-if-th.html</loc>
+    <lastmod>2026-07-19T09:26:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260719-wataa-xcom.html</loc>
+    <lastmod>2026-07-19T09:10:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260719-many-bitcoiners-i-respect-support-bip-110-i-understand-and-share-their-desire-to.html</loc>
     <lastmod>2026-07-19T08:09:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260719-crypto-has-a-way-of-humbling-exactly-the-people-who-think-theyve-figured-it-out-.html</loc>
+    <lastmod>2026-07-19T07:02:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -283,20 +301,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260717-great-discussion-with-the-top-execs-from-cryptos-top-trade-associations-at-hlglo.html</loc>
-    <lastmod>2026-07-17T17:18:12.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260717-galaxy-puts-its-name-on-texas-techs-stadium-in-a-15-year-crypto-native-deal.html</loc>
     <lastmod>2026-07-17T17:09:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260717-love-crypto-pass-clarity-to-promote-its-growth-hate-crypto-pass-clarity-to-preve.html</loc>
-    <lastmod>2026-07-17T16:56:43.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -339,12 +345,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260717-hsbc-wins-bank-of-england-approval-to-enter-digital-securities-sandbox.html</loc>
     <lastmod>2026-07-17T13:54:27.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260717-coinbase-bitcoin-premium-index-stays-negative-for-record-60-consecutive-days-acc.html</loc>
-    <lastmod>2026-07-17T13:51:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
