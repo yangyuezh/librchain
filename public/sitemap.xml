@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-20T19:04:40.828Z</lastmod>
+    <lastmod>2026-07-20T20:38:33.891Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-20T19:04:40.828Z</lastmod>
+    <lastmod>2026-07-20T20:38:33.891Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260720-sec-sues-mining-automatic-and-founder-over-alleged-22m-crypto-mining-scheme.html</loc>
+    <lastmod>2026-07-20T20:27:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260720-russias-first-comprehensive-crypto-law-is-two-votes-away-from-passing.html</loc>
+    <lastmod>2026-07-20T20:02:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260720-exodus-to-cut-25-of-staff-in-company-reorganization.html</loc>
+    <lastmod>2026-07-20T19:29:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260720-cardano-triggers-hard-fork-with-first-community-voted-upgrade.html</loc>
@@ -283,7 +301,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260720-live-updates-bitcoin-rises-to-one-month-high-of-65400.html</loc>
+    <loc>https://www.librchain.com/news/20260720-live-updates-bitcoin-rises-to-one-month-high-of-65700-before-pulling-back-with-s.html</loc>
     <lastmod>2026-07-20T07:15:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -313,20 +331,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260720-cardano-activates-van-rossem-hard-fork.html</loc>
-    <lastmod>2026-07-20T04:26:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260720-aurora-mainnet-may-be-down-according-to-onchain-lens-aurora-mainnet-has-been-dow.html</loc>
     <lastmod>2026-07-20T03:26:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260720-allbridge-pauses-cross-chain-bridge-after-165m-exploit.html</loc>
-    <lastmod>2026-07-20T02:23:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -397,8 +403,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260718-fbi-arrests-hacker-for-hiding-crypto-stealing-malware-inside-steam-video-games-o.html</loc>
-    <lastmod>2026-07-18T15:47:48.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260718-a-large-group-of-investors-are-waiting-for-bitcoin-to-drop-to-40000-and-to-botto.html</loc>
+    <lastmod>2026-07-18T21:54:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -477,12 +483,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260716-leaks-reveal-suno-fed-thousands-of-hours-of-deezer-youtube-and-pond5-data-into-i.html</loc>
     <lastmod>2026-07-16T21:01:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260716-morgan-stanley-launches-bitcoin-ethereum-and-solana-trading-on-etrade.html</loc>
-    <lastmod>2026-07-16T20:01:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
