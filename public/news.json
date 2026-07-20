@@ -1,7 +1,103 @@
 {
-  "updatedAt": "2026-07-20T03:58:57.711Z",
+  "updatedAt": "2026-07-20T07:25:03.297Z",
   "total": 81,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live markets: Oil bounce and lingering AI selloff pushes bitcoin under $64,000",
+      "summary": "War drives oil up, the Kimi selloff drags chips down, and bitcoin sits between them.",
+      "url": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
+      "publishedAt": "2026-07-20T07:15:47.000Z",
+      "keywords": [
+        "Tech",
+        "Live News",
+        "live_news"
+      ],
+      "category": "市场",
+      "slug": "20260720-live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-64000",
+      "localUrl": "/news/20260720-live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-64000.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Moonshot AI IPO push follows Kimi, Alibaba AI releases that shook bitcoin",
+      "summary": "Days after Kimi K3 rattled chip stocks, Moonshot is moving toward a Hong Kong listing at a $30 billion-plus valuation while Alibaba's Qwen goes open-weight.",
+      "url": "https://www.coindesk.com/tech/2026/07/20/moonshot-ai-ipo-push-follows-kimi-alibaba-ai-releases-that-shook-bitcoin",
+      "publishedAt": "2026-07-20T07:08:07.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260720-moonshot-ai-ipo-push-follows-kimi-alibaba-ai-releases-that-shook-bitcoin",
+      "localUrl": "/news/20260720-moonshot-ai-ipo-push-follows-kimi-alibaba-ai-releases-that-shook-bitcoin.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin ETFs see new money again, but inflows remain ‘peanuts’ relative to the recent exodus",
+      "summary": "Bitcoin ETFs have attracted $273 million in new inflows in two weeks, but the total is barely enough to cover a single \"slow\" week of recent selling.",
+      "url": "https://www.coindesk.com/markets/2026/07/20/bitcoin-etfs-see-new-money-again-but-inflows-remain-peanuts-relative-to-the-recent-exodus",
+      "publishedAt": "2026-07-20T05:46:36.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "ETFs",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260720-bitcoin-etfs-see-new-money-again-but-inflows-remain-peanuts-relative-to-the-rece",
+      "localUrl": "/news/20260720-bitcoin-etfs-see-new-money-again-but-inflows-remain-peanuts-relative-to-the-rece.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin flat near $64,000 as oil hits a one-month high and Kimi AI selloff lingers",
+      "summary": "Brent jumped almost 4% on escalating U.S.-Iran strikes, while Asian chip stocks stayed under pressure from Friday's Chinese AI shock.",
+      "url": "https://www.coindesk.com/markets/2026/07/20/bitcoin-flat-near-usd64-000-as-oil-hits-a-one-month-high-and-kimi-ai-selloff-lingers",
+      "publishedAt": "2026-07-20T05:31:43.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260720-bitcoin-flat-near-64000-as-oil-hits-a-one-month-high-and-kimi-ai-selloff-lingers",
+      "localUrl": "/news/20260720-bitcoin-flat-near-64000-as-oil-hits-a-one-month-high-and-kimi-ai-selloff-lingers.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-20T04:56:55.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260720-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260720-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Cardano activates van Rossem hard fork",
+      "summary": "The upgrade reduces smart contract execution costs while laying the groundwork for Ouroboros Leios, a major scalability upgrade expected later this year.",
+      "url": "https://cointelegraph.com/news/cardano-activates-van-rossem-hard-fork-paving-way-for-leios?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-20T04:26:17.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260720-cardano-activates-van-rossem-hard-fork",
+      "localUrl": "/news/20260720-cardano-activates-van-rossem-hard-fork.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Hyperliquid’s HIP-4 Outcome Markets to Support Permissionless Deployment with 500k HYPE Stake Hyperliquid said HIP-4 Outcome Markets will first launch on testnet in a future upgrade and eventually support permissionless deployment. Deployers must st - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HYkNHS0RCc2VlSms0VTRjXzNBbjRmNG51SV9QMWt2SHdaX0xUcUUyWHlLS2o3d2ZfZndoTlVsV3YyczlwNXMxUkFHdW1KeDBQb2hZeWttVGhYRXlpaEFOVmlSVQ?oc=5\" target=\"_blank\">Hyperliquid’s HIP-4 Outcome Mark…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HYkNHS0RCc2VlSms0VTRjXzNBbjRmNG51SV9QMWt2SHdaX0xUcUUyWHlLS2o3d2ZfZndoTlVsV3YyczlwNXMxUkFHdW1KeDBQb2hZeWttVGhYRXlpaEFOVmlSVQ?oc=5",
+      "publishedAt": "2026-07-20T04:12:42.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260720-hyperliquids-hip-4-outcome-markets-to-support-permissionless-deployment-with-500",
+      "localUrl": "/news/20260720-hyperliquids-hip-4-outcome-markets-to-support-permissionless-deployment-with-500.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Allbridge pauses cross-chain bridge after $1.65M exploit",
@@ -25,6 +121,17 @@
       "category": "X热点",
       "slug": "20260720-interesting-point-the-first-one-feels-temporary-the-second-one-more-durable-but-",
       "localUrl": "/news/20260720-interesting-point-the-first-one-feels-temporary-the-second-one-more-durable-but-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Allbridge Core Paused After $1.65M Exploit on Solana Allbridge said it paused Allbridge Core following a security incident and urged LPs in affected pools to withdraw funds. PeckShield said the protocol was exploited for about $1.65 million, with the attacker - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CSXU0VnpGaWFNWmxZanpKX1BBemxqMDBfMlk2NHpNSTAzRncydkIwMkhOeDViYkQ4ZFRPaDdJWWtaVFZpSjNpOElBbkhNTkFlQWswc1ZaVUJWdDFIODBHTkg1Zw?oc=5\" target=\"_blank\">Allbridge Core Paused After $1.6…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CSXU0VnpGaWFNWmxZanpKX1BBemxqMDBfMlk2NHpNSTAzRncydkIwMkhOeDViYkQ4ZFRPaDdJWWtaVFZpSjNpOElBbkhNTkFlQWswc1ZaVUJWdDFIODBHTkg1Zw?oc=5",
+      "publishedAt": "2026-07-20T01:54:57.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260720-allbridge-core-paused-after-165m-exploit-on-solana-allbridge-said-it-paused-allb",
+      "localUrl": "/news/20260720-allbridge-core-paused-after-165m-exploit-on-solana-allbridge-said-it-paused-allb.html"
     },
     {
       "source": "Cointelegraph",
@@ -81,19 +188,6 @@
       "category": "监管",
       "slug": "20260719-the-genius-act-turns-1-state-of-crypto",
       "localUrl": "/news/20260719-the-genius-act-turns-1-state-of-crypto.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-19T18:23:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260719-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260719-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "Cointelegraph",
@@ -268,17 +362,6 @@
     },
     {
       "source": "X Wire",
-      "title": "wataa - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCLXBoZHl5dEZ1MHN5T1VrUWVKNDFQNlJGaGI0TDhvWDM0Qkw5bC1QMnVOY1plUGM5Q2xwVGw1c1BoeTN1c1FXc0VWeUVFT09RODRKMjJLdVJzSXUzMDMtV0RYbDU?oc=5\" target=\"_blank\">wataa</a> <font color=\"#6f6f6f\"…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCLXBoZHl5dEZ1MHN5T1VrUWVKNDFQNlJGaGI0TDhvWDM0Qkw5bC1QMnVOY1plUGM5Q2xwVGw1c1BoeTN1c1FXc0VWeUVFT09RODRKMjJLdVJzSXUzMDMtV0RYbDU?oc=5",
-      "publishedAt": "2026-07-19T09:10:34.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260719-wataa-xcom",
-      "localUrl": "/news/20260719-wataa-xcom.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Many Bitcoiners I respect support BIP 110. I understand and share their desire to protect Bitcoin, but believe the proposed cure is more dangerous than the condition. Here are 110 reasons why Bitcoin needs guardians of neutrality. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xSVJfdnRlUGN2eEFKX1FNUEZXSHJZRkdqb0loNmJEMm5yU0xCclRfRS13eXI1allDNWJqdDhOUzU3REJoREhxc0lDZDR6Nk9ueDVQQ3hYV2ZIWkE?oc=5\" target=\"_blank\">Many Bitcoiners I respect support BIP 110. …",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xSVJfdnRlUGN2eEFKX1FNUEZXSHJZRkdqb0loNmJEMm5yU0xCclRfRS13eXI1allDNWJqdDhOUzU3REJoREhxc0lDZDR6Nk9ueDVQQ3hYV2ZIWkE?oc=5",
@@ -298,17 +381,6 @@
       "category": "X热点",
       "slug": "20260719-crypto-has-a-way-of-humbling-exactly-the-people-who-think-theyve-figured-it-out-",
       "localUrl": "/news/20260719-crypto-has-a-way-of-humbling-exactly-the-people-who-think-theyve-figured-it-out-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🇰🇷 SOUTH KOREA IS GOING ALL IN ON CRYPTO The government unveiled a sweeping digital asset strategy covering stablecoins, tokenized bonds, and spot ETFs in a single policy package. Seoul is drafting a Basic Law on Digital Assets to legalize stablec - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hMDZFLWIyVkZXY0RkSEJoa20wRkZYal9HX3hoLWhZWjF6cjFoMEY1bG5jUFRnVnZ6X0cxTkdQdVJHdU9lZTVYSGllWHF4Q0RlaWNhZl83MGFmaTZiZjJSTw?oc=5\" target=\"_blank\">🇰🇷 SOUTH KOREA IS GOING ALL IN ON …",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hMDZFLWIyVkZXY0RkSEJoa20wRkZYal9HX3hoLWhZWjF6cjFoMEY1bG5jUFRnVnZ6X0cxTkdQdVJHdU9lZTVYSGllWHF4Q0RlaWNhZl83MGFmaTZiZjJSTw?oc=5",
-      "publishedAt": "2026-07-19T06:40:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260719-south-korea-is-going-all-in-on-crypto-the-government-unveiled-a-sweeping-digital",
-      "localUrl": "/news/20260719-south-korea-is-going-all-in-on-crypto-the-government-unveiled-a-sweeping-digital.html"
     },
     {
       "source": "CoinDesk",
@@ -400,17 +472,6 @@
       "category": "市场",
       "slug": "20260718-crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
       "localUrl": "/news/20260718-crypto-executives-say-digital-native-generations-may-never-need-a-bank-account.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Alleged crypto scammer busted after FBI traced his Uber Eats orders. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2Rkhuamp4NGlQU2swNXFyTVRadmd0WkZKajJBV3hEVDc1NFR3QVkxZmJKOGVVd1ZNaFNtT1RjMXYyemFuaTdCWkZhdTRMdmI2eWEwcHNmN21ta1pqUm01dg?oc=5\" target=\"_blank\">JUST IN: Alleged crypto scammer bust…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2Rkhuamp4NGlQU2swNXFyTVRadmd0WkZKajJBV3hEVDc1NFR3QVkxZmJKOGVVd1ZNaFNtT1RjMXYyemFuaTdCWkZhdTRMdmI2eWEwcHNmN21ta1pqUm01dg?oc=5",
-      "publishedAt": "2026-07-18T17:48:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260718-just-in-alleged-crypto-scammer-busted-after-fbi-traced-his-uber-eats-orders-xcom",
-      "localUrl": "/news/20260718-just-in-alleged-crypto-scammer-busted-after-fbi-traced-his-uber-eats-orders-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -533,6 +594,17 @@
       "category": "X热点",
       "slug": "20260718-cobie-coinbase-has-long-been-distant-from-crypto-native-users-kol-rune-asked-coi",
       "localUrl": "/news/20260718-cobie-coinbase-has-long-been-distant-from-crypto-native-users-kol-rune-asked-coi.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "TOP 100 CRYPTO HOLDERS The biggest crypto holders aren't individuals: they're exchanges, asset managers, governments, and protocols. Our research team ranked the Top 100 crypto-holding entities by verified on-chain holdings, from Binance and Coinb - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ZUxTUnJIclRYbjFWdEMzU2ZwUnNrMTZNR3BXdDBXeDExdmtQZWxsdXV0VnZKY0tVOERBM2NZeTFyOGJzU0kxTjRsYW1UbHE3S2FrNWJIS0dBNUE?oc=5\" target=\"_blank\">TOP 100 CRYPTO HOLDERS The biggest crypto h…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ZUxTUnJIclRYbjFWdEMzU2ZwUnNrMTZNR3BXdDBXeDExdmtQZWxsdXV0VnZKY0tVOERBM2NZeTFyOGJzU0kxTjRsYW1UbHE3S2FrNWJIS0dBNUE?oc=5",
+      "publishedAt": "2026-07-18T12:06:42.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260718-top-100-crypto-holders-the-biggest-crypto-holders-arent-individuals-theyre-excha",
+      "localUrl": "/news/20260718-top-100-crypto-holders-the-biggest-crypto-holders-arent-individuals-theyre-excha.html"
     },
     {
       "source": "Cointelegraph",
@@ -737,38 +809,6 @@
       "localUrl": "/news/20260717-senator-warren-requests-2026-reporting-for-trumps-crypto-earnings-after-14b-disc.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Cardano hands core development to outside teams in decentralization push",
-      "summary": "Input Output will transfer control of the Haskell node, Plutus, Hydra and other components as founder Charles Hoskinson says the network must change and start growing again.",
-      "url": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push",
-      "publishedAt": "2026-07-17T16:23:26.000Z",
-      "keywords": [
-        "Tech",
-        "Cardano",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260717-cardano-hands-core-development-to-outside-teams-in-decentralization-push",
-      "localUrl": "/news/20260717-cardano-hands-core-development-to-outside-teams-in-decentralization-push.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Inside Robinhood’s high-stakes bet to onboard millions of casual users onto decentralized finance",
-      "summary": "The company says its advantage lies in bringing retail customers onchain, but early activity remains dominated by memecoins, while its original tokenization vision remains small.",
-      "url": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
-      "publishedAt": "2026-07-17T15:36:39.000Z",
-      "keywords": [
-        "Finance",
-        "Robinhood",
-        "Exclusive",
-        "Top Stories",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260717-inside-robinhoods-high-stakes-bet-to-onboard-millions-of-casual-users-onto-decen",
-      "localUrl": "/news/20260717-inside-robinhoods-high-stakes-bet-to-onboard-millions-of-casual-users-onto-decen.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure",
       "summary": "Bitcoin saw a key rejection at local highs before reversing lower, moving with stocks for a second day as US-Iran war downside took its toll.",
@@ -819,22 +859,6 @@
       "localUrl": "/news/20260717-three-men-jailed-for-posing-as-police-in-53m-uk-crypto-fraud.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Japan's SBI Group is building Asia's first cross-border digital asset empire",
-      "summary": "The securities giant announced today the consolidation of Singapore-based Coinhako as part of a rapid regional expansion that includes a tokenization partnership with Ondo Finance.",
-      "url": "https://www.coindesk.com/business/2026/07/17/japan-s-sbi-group-is-building-asia-s-first-cross-border-digital-asset-empire",
-      "publishedAt": "2026-07-17T13:46:46.000Z",
-      "keywords": [
-        "Finance",
-        "SBI Holdings",
-        "Japan",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260717-japans-sbi-group-is-building-asias-first-cross-border-digital-asset-empire",
-      "localUrl": "/news/20260717-japans-sbi-group-is-building-asias-first-cross-border-digital-asset-empire.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "SBI acquires Singaporean crypto platform Coinhako after MAS approval",
       "summary": "SBI Holdings received regulatory approval to acquire a majority stake in Singapore-based crypto exchange Coinhako as it expands into stablecoins, onchain finance and tokenized assets.",
@@ -848,19 +872,6 @@
       "localUrl": "/news/20260717-sbi-acquires-singaporean-crypto-platform-coinhako-after-mas-approval.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "The British Virgin Islands are a top crypto hub no one ever talks about: Here’s why",
-      "summary": "Kraken, Bitstamp, 1inch and Bitfinex have all set up shop in the British Virgin Islands — but you might find it tricky to book an on-site meeting with one of their executives.",
-      "url": "https://cointelegraph.com/magazine/why-is-the-british-virgin-islands-becoming-a-legal-home-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-17T13:30:00.000Z",
-      "keywords": [
-        "Magazine"
-      ],
-      "category": "综合",
-      "slug": "20260717-the-british-virgin-islands-are-a-top-crypto-hub-no-one-ever-talks-about-heres-wh",
-      "localUrl": "/news/20260717-the-british-virgin-islands-are-a-top-crypto-hub-no-one-ever-talks-about-heres-wh.html"
-    },
-    {
       "source": "X Wire",
       "title": "Bitcoin ETFs Likely to Mirror Gold's History of Triumph and Pain.. New from me on how gold ETFs' 22-year history may offer the closest roadmap yet for Bitcoin ETF investors. Both are wrappers around non-yielding stores of value that generate no cash flow, lea - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RXzdqaWFDOU1ucy1pdFhkX2lFNVRvMWU5d0xuVWN5QlpYZ2dkTXQyb1NCcEFNMVRrRkhtQ081alZBZEpQdndKVTR3T0Z2d3JTRWJZWUNlbTJPNTdZMzlHV3lSRjU?oc=5\" target=\"_blank\">Bitcoin ETFs Likely to Mirror G…",
@@ -870,20 +881,6 @@
       "category": "X热点",
       "slug": "20260717-bitcoin-etfs-likely-to-mirror-golds-history-of-triumph-and-pain-new-from-me-on-h",
       "localUrl": "/news/20260717-bitcoin-etfs-likely-to-mirror-golds-history-of-triumph-and-pain-new-from-me-on-h.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin faces fresh headwinds as China’s Kimi beats Claude, GPT in coding benchmark",
-      "summary": "Moonshot's Kimi K3 took the top spot in frontend coding away from Claude and OpenAI, and it's free. Semiconductor stocks fell, and crypto fell with them.",
-      "url": "https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark",
-      "publishedAt": "2026-07-17T12:45:11.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260717-bitcoin-faces-fresh-headwinds-as-chinas-kimi-beats-claude-gpt-in-coding-benchmar",
-      "localUrl": "/news/20260717-bitcoin-faces-fresh-headwinds-as-chinas-kimi-beats-claude-gpt-in-coding-benchmar.html"
     },
     {
       "source": "Decrypt",
