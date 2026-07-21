@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-20T22:10:26.062Z</lastmod>
+    <lastmod>2026-07-21T00:06:41.247Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-20T22:10:26.062Z</lastmod>
+    <lastmod>2026-07-21T00:06:41.247Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260720-update-white-house-crypto-council-executive-director-patrickjwitts-military-trai.html</loc>
+    <lastmod>2026-07-20T21:59:27.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260720-democrats-added-certain-consumer-protection-rules-to-clarity-coinbase-exec.html</loc>
@@ -423,12 +429,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260718-top-100-crypto-holders-the-biggest-crypto-holders-arent-individuals-theyre-excha.html</loc>
     <lastmod>2026-07-18T12:06:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260718-web2-models-often-follow-a-repeatable-playbook-crypto-rarely-does-its-constantly.html</loc>
-    <lastmod>2026-07-18T02:00:23.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
