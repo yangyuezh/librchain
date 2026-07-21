@@ -1,7 +1,90 @@
 {
-  "updatedAt": "2026-07-21T20:32:45.148Z",
+  "updatedAt": "2026-07-21T22:10:28.999Z",
   "total": 80,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto lobby group TDC sues Illinois to block digital asset tax",
+      "summary": "Illinois enacted a 0.2% tax on all crypto transactions last month, with the tax taking effect next year.",
+      "url": "https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax",
+      "publishedAt": "2026-07-21T22:08:10.000Z",
+      "keywords": [
+        "Policy",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260721-crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax",
+      "localUrl": "/news/20260721-crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CLARITY Act could help CFTC deal with prediction markets: Lawyer",
+      "summary": "According to one lawyer testifying before a House subcommittee hearing, the CLARITY Act could grant the CFTC the authority it needs to address the “explosive growth of prediction markets.”",
+      "url": "https://cointelegraph.com/news/clarity-act-cftc-prediction-markets-resources?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-21T21:36:43.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260721-clarity-act-could-help-cftc-deal-with-prediction-markets-lawyer",
+      "localUrl": "/news/20260721-clarity-act-could-help-cftc-deal-with-prediction-markets-lawyer.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
+      "summary": "OpenAI's own models just broke out of a sandboxed environment, hacked Hugging Face, just to cheat on a cybersecurity evaluation.",
+      "url": "https://decrypt.co/374015/openai-models-escaped-test-environment-hacked-hugging-face-cheat-benchmark",
+      "publishedAt": "2026-07-21T21:29:03.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260721-openai-models-escaped-locked-test-environment-hacked-hugging-face-to-cheat-on-be",
+      "localUrl": "/news/20260721-openai-models-escaped-locked-test-environment-hacked-hugging-face-to-cheat-on-be.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
+      "summary": "The White House has circulated some details of the conflict-of-interest limits the president agreed to with Republican negotiators, but talks are still underway.",
+      "url": "https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal",
+      "publishedAt": "2026-07-21T21:14:03.000Z",
+      "keywords": [
+        "Policy",
+        "Exclusive",
+        "Clarity Act",
+        "Donald Trump",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260721-crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-d",
+      "localUrl": "/news/20260721-crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-d.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil",
+      "summary": "The blockchain developer will continue operating under court supervision as it restructures following a market-making scandal, a co-founder’s suspension, and exchange delistings that rocked the project.",
+      "url": "https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-21T20:59:32.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260721-movement-labs-files-for-chapter-11-bankruptcy-after-months-of-move-token-turmoil",
+      "localUrl": "/news/20260721-movement-labs-files-for-chapter-11-bankruptcy-after-months-of-move-token-turmoil.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ether breaks the $1.9K resistance; is $2.1K the next target for ETH bulls?",
+      "summary": "Ether’s rally faces onchain headwinds, but rising staking demand and Google earnings could spark the push toward $2,100.",
+      "url": "https://cointelegraph.com/markets/ether-breaks-the-1900-resistance-is-2100-the-next-target-for-eth-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-21T20:26:13.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "DeFi",
+      "slug": "20260721-ether-breaks-the-19k-resistance-is-21k-the-next-target-for-eth-bulls",
+      "localUrl": "/news/20260721-ether-breaks-the-19k-resistance-is-21k-the-next-target-for-eth-bulls.html"
+    },
     {
       "source": "Decrypt",
       "title": "Pavel Durov Wants to Give a Billion Telegram Users a Crypto Wallet",
@@ -636,19 +719,6 @@
       "localUrl": "/news/20260721-xrp-jumps-4-as-traders-watch-triangle-breakout-toward-135.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
-      "summary": "The Coinbase-backed Ethereum layer-2 is preparing to expand its financial offerings as it pivots away from its earlier social-first strategy.",
-      "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-21T07:06:12.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260721-bases-11-backed-tokenized-equities-launch-imminent-pollak-says",
-      "localUrl": "/news/20260721-bases-11-backed-tokenized-equities-launch-imminent-pollak-says.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Live markets: Bitcoin pulls back from five-week high on new Trump threats over Iran",
       "summary": "Bitcoin ETFs have pulled in roughly $727 million over the past week, the most sustained stretch of buying since the record outflows of June.",
@@ -692,32 +762,6 @@
       "category": "监管",
       "slug": "20260721-bitcoin-hits-one-month-high-above-66000-as-the-chip-trade-turns-back-into-a-tail",
       "localUrl": "/news/20260721-bitcoin-hits-one-month-high-above-66000-as-the-chip-trade-turns-back-into-a-tail.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Grayscale files S-1 for first US Worldcoin ETF",
-      "summary": "The filing expands Grayscale’s growing lineup of crypto-related exchange-traded products outside of Bitcoin and Ether.",
-      "url": "https://cointelegraph.com/news/grayscale-files-s-1-for-worldcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-21T03:56:10.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260721-grayscale-files-s-1-for-first-us-worldcoin-etf",
-      "localUrl": "/news/20260721-grayscale-files-s-1-for-first-us-worldcoin-etf.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Celsius co-founders Leon, Goldstein to pay FTC over $6M",
-      "summary": "The settlements add to former Celsius CEO Alex Mashinsky’s $10 million FTC settlement in April.",
-      "url": "https://cointelegraph.com/news/celsius-co-founders-leon-goldstein-to-pay-ftc-over-6m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-21T03:21:52.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260721-celsius-co-founders-leon-goldstein-to-pay-ftc-over-6m",
-      "localUrl": "/news/20260721-celsius-co-founders-leon-goldstein-to-pay-ftc-over-6m.html"
     },
     {
       "source": "X Wire",
@@ -916,22 +960,6 @@
       "localUrl": "/news/20260720-exodus-to-cut-25-of-global-workforce-in-payments-shift.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "AI compute stocks bounce as Hut 8, IREN land billions in new contracts",
-      "summary": "The deals sparked a rebound in AI compute stocks after investors questioned demand for new data center capacity.",
-      "url": "https://www.coindesk.com/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector",
-      "publishedAt": "2026-07-20T13:49:24.000Z",
-      "keywords": [
-        "Finance",
-        "Artificial Intelligence",
-        "Bitcoin Mining",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260720-ai-compute-stocks-bounce-as-hut-8-iren-land-billions-in-new-contracts",
-      "localUrl": "/news/20260720-ai-compute-stocks-bounce-as-hut-8-iren-land-billions-in-new-contracts.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
       "summary": "An attacker used a flash loan to distort the bridge's Solana stablecoin pools before moving the proceeds to Ethereum, security firms said.",
@@ -967,22 +995,6 @@
       "localUrl": "/news/20260720-just-in-russias-state-duma-to-consider-bill-to-regulate-bitcoin-crypto-tomorrow-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Tom Lee's Bitmine slowed ether purchases as it bought back $86 million in stock",
-      "summary": "The company added just 7,430 ETH, worth about $14 million, last week as it nears its goal to corner 5% of Ethereum's supply.",
-      "url": "https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock",
-      "publishedAt": "2026-07-20T12:55:36.000Z",
-      "keywords": [
-        "Finance",
-        "Ethereum News",
-        "Digital Asset Treasury",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260720-tom-lees-bitmine-slowed-ether-purchases-as-it-bought-back-86-million-in-stock",
-      "localUrl": "/news/20260720-tom-lees-bitmine-slowed-ether-purchases-as-it-bought-back-86-million-in-stock.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Morning Minute: Hyperliquid Opens Prediction Markets to Anyone in HIP-4 Upgrade",
       "summary": "Plus, a selloff in Oil has markets looking green into the Monday open. And PUMP is leading all alt movers on the week at a surprising time.",
@@ -994,19 +1006,6 @@
       "category": "基础设施",
       "slug": "20260720-morning-minute-hyperliquid-opens-prediction-markets-to-anyone-in-hip-4-upgrade",
       "localUrl": "/news/20260720-morning-minute-hyperliquid-opens-prediction-markets-to-anyone-in-hip-4-upgrade.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Strategy's Michael Saylor Makes 110-Point Case Against Bitcoin's BIP-110",
-      "summary": "The Strategy chairman argued that the soft fork is a 'bad idea,' warning that it would cause more harm than the problem it aims to solve.",
-      "url": "https://decrypt.co/373819/strategys-michael-saylor-makes-110-point-case-against-bitcoins-bip-110",
-      "publishedAt": "2026-07-20T11:12:57.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "市场",
-      "slug": "20260720-strategys-michael-saylor-makes-110-point-case-against-bitcoins-bip-110",
-      "localUrl": "/news/20260720-strategys-michael-saylor-makes-110-point-case-against-bitcoins-bip-110.html"
     },
     {
       "source": "X Wire",
