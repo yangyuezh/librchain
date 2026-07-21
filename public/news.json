@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-07-21T03:43:11.930Z",
+  "updatedAt": "2026-07-21T06:38:38.454Z",
   "total": 79,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
+      "summary": "The UK’s Crypto and Digital Assets All-Party Parliamentary Group (APPG) is focused on banks that refused crypto firms accounts or introduced restrictions on crypto transactions.",
+      "url": "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses",
+      "publishedAt": "2026-07-21T06:15:26.000Z",
+      "keywords": [
+        "Policy",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260721-uk-parliament-begins-inquiry-into-banking-chokepoint-for-crypto-businesses",
+      "localUrl": "/news/20260721-uk-parliament-begins-inquiry-into-banking-chokepoint-for-crypto-businesses.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-21T05:50:34.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260721-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260721-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin hits a two-week high near $65,500 as the chip trade turns back into a tailwind",
+      "summary": "Asian semiconductor shares rebounded hard, a five-day ETF inflow streak passed $600 million, and oil pulled back on Middle East diplomacy.",
+      "url": "https://www.coindesk.com/markets/2026/07/21/bitcoin-hits-a-two-week-high-near-usd65-500-as-the-chip-trade-turns-back-into-a-tailwind",
+      "publishedAt": "2026-07-21T05:34:00.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260721-bitcoin-hits-a-two-week-high-near-65500-as-the-chip-trade-turns-back-into-a-tail",
+      "localUrl": "/news/20260721-bitcoin-hits-a-two-week-high-near-65500-as-the-chip-trade-turns-back-into-a-tail.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Grayscale files S-1 for first US Worldcoin ETF",
+      "summary": "The filing expands Grayscale’s growing lineup of crypto-related exchange-traded products outside of Bitcoin and Ether.",
+      "url": "https://cointelegraph.com/news/grayscale-files-s-1-for-worldcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-21T03:56:10.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260721-grayscale-files-s-1-for-first-us-worldcoin-etf",
+      "localUrl": "/news/20260721-grayscale-files-s-1-for-first-us-worldcoin-etf.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Celsius co-founders Leon, Goldstein to pay FTC over $6M",
@@ -55,6 +109,17 @@
       "localUrl": "/news/20260721-patrick-witt-defers-military-training-as-clarity-heads-to-senate.html"
     },
     {
+      "source": "X Wire",
+      "title": "An #Ethereum ICO participant \"0x45BB\" transferred all 2,000 $ETH($3.79M) to a new wallet after being dormant for 11 years. He invested only $620 in the ICO and received 2,000 $ETH — now worth $3.79M, a 6,113x return! etherscan.io/address/0x45bb… - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrMzFVSmxTc2JBYnplSWc1TmI1dGc1ZzZ2U0JyT3pfNDVrZnBRUlQtTmRFVmJvSFFvSHFxZ0ZQQTZvNkl0aHV4OThBMExqRFhGWTZjYV9yaWVCWXJzdXhCdnZB?oc=5\" target=\"_blank\">An #Ethereum ICO participant \"0x45…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrMzFVSmxTc2JBYnplSWc1TmI1dGc1ZzZ2U0JyT3pfNDVrZnBRUlQtTmRFVmJvSFFvSHFxZ0ZQQTZvNkl0aHV4OThBMExqRFhGWTZjYV9yaWVCWXJzdXhCdnZB?oc=5",
+      "publishedAt": "2026-07-20T23:55:17.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260720-an-ethereum-ico-participant-0x45bb-transferred-all-2000-eth379m-to-a-new-wallet-",
+      "localUrl": "/news/20260720-an-ethereum-ico-participant-0x45bb-transferred-all-2000-eth379m-to-a-new-wallet-.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Democrats added certain consumer protection rules to CLARITY: Coinbase exec",
       "summary": "Coinbase vice chair Ryan VanGrack said that Democratic lawmakers had added provisions on customer protection to a digital asset market structure bill under consideration in the US Senate.",
@@ -82,7 +147,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Bitcoin defies recent tech stocks sell-off. Are bulls eyeing a $70K rally?",
+      "title": "Bitcoin defies recent tech stocks sell-off: Are bulls eyeing $70K rally?",
       "summary": "Despite muted derivatives sentiment, Bitcoin’s decoupling and Strategy’s cash raise set the stage for a potential rally to $70,000.",
       "url": "https://cointelegraph.com/markets/bitcoin-defies-recent-tech-stocks-sell-off-are-bulls-eyeing-70k-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-20T21:20:09.000Z",
@@ -90,8 +155,8 @@
         "Markets"
       ],
       "category": "DeFi",
-      "slug": "20260720-bitcoin-defies-recent-tech-stocks-sell-off-are-bulls-eyeing-a-70k-rally",
-      "localUrl": "/news/20260720-bitcoin-defies-recent-tech-stocks-sell-off-are-bulls-eyeing-a-70k-rally.html"
+      "slug": "20260720-bitcoin-defies-recent-tech-stocks-sell-off-are-bulls-eyeing-70k-rally",
+      "localUrl": "/news/20260720-bitcoin-defies-recent-tech-stocks-sell-off-are-bulls-eyeing-70k-rally.html"
     },
     {
       "source": "Decrypt",
@@ -105,19 +170,6 @@
       "category": "综合",
       "slug": "20260720-bank-of-korea-scales-up-cbdc-pilot-with-half-a-million-users",
       "localUrl": "/news/20260720-bank-of-korea-scales-up-cbdc-pilot-with-half-a-million-users.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-20T21:07:27.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260720-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260720-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "Cointelegraph",
@@ -496,19 +548,6 @@
       "localUrl": "/news/20260720-vietnam-sets-fines-for-unlicensed-crypto-trading-ahead-of-regulation-rollout.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Zilliqa asks exchanges to pause ZIL transfers after suspected cold wallet theft",
-      "summary": "Zilliqa said exchanges paused ZIL deposits and withdrawals after an exchange partner’s cold wallet was compromised, with the amount stolen still undisclosed.",
-      "url": "https://cointelegraph.com/news/zilliqa-zil-deposit-halt-exchange-partner-wallet-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-20T12:03:35.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260720-zilliqa-asks-exchanges-to-pause-zil-transfers-after-suspected-cold-wallet-theft",
-      "localUrl": "/news/20260720-zilliqa-asks-exchanges-to-pause-zil-transfers-after-suspected-cold-wallet-theft.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Brazil’s securities regulator sets up task force with 60-day deadline for tokenization proposal",
       "summary": "The framework will address critical issues like official ownership records, private key custody, transaction reversibility and system liability.",
@@ -741,17 +780,6 @@
       "localUrl": "/news/20260720-aurora-mainnet-may-be-down-according-to-onchain-lens-aurora-mainnet-has-been-dow.html"
     },
     {
-      "source": "X Wire",
-      "title": "Bitcoin (-27%) and Gold (-7%) are the two worst performing major assets so far in 2026. This is something we haven't seen before in any calendar year. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aYllYbUY0RTBtQ25vZ0JOYU1pTWZJYUNDNGRwMG5IY213Z3NfRDFUTEdnSURqbXJjWlNIUHUwUGhIOXdFbUJIV1c5WjFQc214UEwzLXlrbFI1SlNwR255R0FUVzR5QQ?oc=5\" target=\"_blank\">Bitcoin (-27%) and Gold (-7%…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aYllYbUY0RTBtQ25vZ0JOYU1pTWZJYUNDNGRwMG5IY213Z3NfRDFUTEdnSURqbXJjWlNIUHUwUGhIOXdFbUJIV1c5WjFQc214UEwzLXlrbFI1SlNwR255R0FUVzR5QQ?oc=5",
-      "publishedAt": "2026-07-19T23:07:30.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260719-bitcoin-27-and-gold-7-are-the-two-worst-performing-major-assets-so-far-in-2026-t",
-      "localUrl": "/news/20260719-bitcoin-27-and-gold-7-are-the-two-worst-performing-major-assets-so-far-in-2026-t.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "The GENIUS Act turns 1: State of Crypto",
       "summary": "The stablecoin-focused GENIUS Act became a law a year ago.",
@@ -781,32 +809,6 @@
     },
     {
       "source": "X Wire",
-      "title": "It’s 2026 Bitcoin is more than halfway through its second year in the current #BTC Four Year Cycle 2025 proved to be the year of the $BTC Bull Market peak And 2026 has proven itself to be the year of the Bitcoin Bear Market 2027 will be the Bottoming Out yea - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NRG1tcmhHMVBlSk5yQ3VxWVBDMTI2OWhDSFVvdDJ2RXplRTl6azFxMzE5Rko4dldxcHplbnhKcVNpTV9Hc1VvMGFjSlVzZjBHTU41eGlia1VraEdSYjZaR0hR?oc=5\" target=\"_blank\">It’s 2026 Bitcoin is more than hal…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NRG1tcmhHMVBlSk5yQ3VxWVBDMTI2OWhDSFVvdDJ2RXplRTl6azFxMzE5Rko4dldxcHplbnhKcVNpTV9Hc1VvMGFjSlVzZjBHTU41eGlia1VraEdSYjZaR0hR?oc=5",
-      "publishedAt": "2026-07-19T16:10:04.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260719-its-2026-bitcoin-is-more-than-halfway-through-its-second-year-in-the-current-btc",
-      "localUrl": "/news/20260719-its-2026-bitcoin-is-more-than-halfway-through-its-second-year-in-the-current-btc.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'",
-      "summary": "Michael Saylor argues that a new proposal, BIP-110, to temporarily block \"spam\" data from the Bitcoin blockchain would undermine the network's neutrality and create a dangerous precedent for censorship.",
-      "url": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea",
-      "publishedAt": "2026-07-19T15:19:21.000Z",
-      "keywords": [
-        "Tech",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260719-bitcoins-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchai",
-      "localUrl": "/news/20260719-bitcoins-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchai.html"
-    },
-    {
-      "source": "X Wire",
       "title": "JUST IN: Michael Saylor hints at another Bitcoin announcement tomorrow 👀 What's next? - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CaWVheWE0SEN6RVhvcjBKZWZUU3dkaEtHa1hxVHNZZThCUHctVVF3TVpIQUtTS1R4SWFlR3FIc3c1UERhbzloVTgxN3ZoY3NLRnNHZVJTY3drMXprRXBrODU0TlFqZlk?oc=5\" target=\"_blank\">JUST IN: Michael Saylor hin…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CaWVheWE0SEN6RVhvcjBKZWZUU3dkaEtHa1hxVHNZZThCUHctVVF3TVpIQUtTS1R4SWFlR3FIc3c1UERhbzloVTgxN3ZoY3NLRnNHZVJTY3drMXprRXBrODU0TlFqZlk?oc=5",
@@ -828,20 +830,6 @@
       "localUrl": "/news/20260719-latest-sharplink-ceo-joseph-chalom-says-ethereum-is-becoming-the-global-settleme.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "AI is destroying the internet. Math is our only hope.",
-      "summary": "The rise of autonomous AI agents necessitates the utilization of zero-knowledge proofs, argues Brian Trunzo, chief growth officer at Succinct Labs.",
-      "url": "https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope",
-      "publishedAt": "2026-07-19T14:00:00.000Z",
-      "keywords": [
-        "Opinion",
-        "Opinion"
-      ],
-      "category": "综合",
-      "slug": "20260719-ai-is-destroying-the-internet-math-is-our-only-hope",
-      "localUrl": "/news/20260719-ai-is-destroying-the-internet-math-is-our-only-hope.html"
-    },
-    {
       "source": "X Wire",
       "title": "NEW: 🇺🇸 Around 2,000 institutional investors reported Bitcoin holdings in their Q1 2026 filings. Institutional demand for Bitcoin is growing! 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44UFZNVThOVm5qNmJYWFQ4MVEzZnZiNG5OdUpZOUZGUDZ6VFc1bmNUSTl4ZUFDWHBZZ3VpeHRncW5GSmQ5TTdmWXl3dHVXRkxUbkdScDBPWFd4eVVpdm5wRXRJdFBfNGs?oc=5\" target=\"_blank\">NEW: 🇺🇸 Around 2,000 inst…",
@@ -851,6 +839,17 @@
       "category": "X热点",
       "slug": "20260719-new-around-2000-institutional-investors-reported-bitcoin-holdings-in-their-q1-20",
       "localUrl": "/news/20260719-new-around-2000-institutional-investors-reported-bitcoin-holdings-in-their-q1-20.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "The #Bitcoin chart looks to continue the run here, where my next target zone is $68,000. There are multiple support levels beneath us indicating that there's going to be a strong rally on the horizon. The fourth test of $65,000 = the breakout. Additionally to $68,0 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Tb3ROQVJhUHlkODJ0M3JzNDRCZlhuUXVQXzB5YU9tWmJ3SXpyNU1QS01EZ1NRZXo0dWktbjZBaExFaktpT2tJRllXSWIzbUMxaFFIc19qa1liYjdFZlZ5bnFKWQ?oc=5\" target=\"_blank\">The #Bitcoin chart looks to cont…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Tb3ROQVJhUHlkODJ0M3JzNDRCZlhuUXVQXzB5YU9tWmJ3SXpyNU1QS01EZ1NRZXo0dWktbjZBaExFaktpT2tJRllXSWIzbUMxaFFIc19qa1liYjdFZlZ5bnFKWQ?oc=5",
+      "publishedAt": "2026-07-19T09:55:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260719-the-bitcoin-chart-looks-to-continue-the-run-here-where-my-next-target-zone-is-68",
+      "localUrl": "/news/20260719-the-bitcoin-chart-looks-to-continue-the-run-here-where-my-next-target-zone-is-68.html"
     },
     {
       "source": "X Wire",
