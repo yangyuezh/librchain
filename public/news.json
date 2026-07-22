@@ -1,7 +1,191 @@
 {
-  "updatedAt": "2026-07-22T09:36:07.007Z",
+  "updatedAt": "2026-07-22T12:00:54.802Z",
   "total": 80,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face",
+      "summary": "Plus, the BTC ETFs stay green. The Clarity Act hits a wall over who enforces the ethics rules. And Jack Mallers walks away from XXI Capital.",
+      "url": "https://decrypt.co/374029/morning-minute-openai-model-escapes-containment-hacks-hugging-face",
+      "publishedAt": "2026-07-22T11:50:29.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "监管",
+      "slug": "20260722-morning-minute-openai-model-escapes-containment-hacks-hugging-face",
+      "localUrl": "/news/20260722-morning-minute-openai-model-escapes-containment-hacks-hugging-face.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Zilliqa Ledger app vulnerability lets attackers recover signer’s private keys",
+      "summary": "A security vulnerability in the Zilliqa Ledger app is enabling attackers to reconstruct private keys using publicly available onchain data.",
+      "url": "https://cointelegraph.com/news/zilliqa-ledger-vulnerability-attackers-recover-private-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-22T11:49:53.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260722-zilliqa-ledger-app-vulnerability-lets-attackers-recover-signers-private-keys",
+      "localUrl": "/news/20260722-zilliqa-ledger-app-vulnerability-lets-attackers-recover-signers-private-keys.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Midnight token rebounds 19% after Wanchain bridge hack, Hoskinson calls for ZK revamp",
+      "summary": "Charles Hoskinson says the exploit, which briefly sent NIGHT to an all-time low, underscores why the industry needs to move beyond legacy bridge infrastructure.",
+      "url": "https://www.coindesk.com/business/2026/07/22/midnight-token-rebounds-after-wanchain-bridge-hack-hoskinson-calls-for-industry-overhaul",
+      "publishedAt": "2026-07-22T11:45:42.000Z",
+      "keywords": [
+        "Finance",
+        "Cardano",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260722-midnight-token-rebounds-19-after-wanchain-bridge-hack-hoskinson-calls-for-zk-rev",
+      "localUrl": "/news/20260722-midnight-token-rebounds-19-after-wanchain-bridge-hack-hoskinson-calls-for-zk-rev.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US seeks forfeiture of $25M in crypto tied to romance, investment scams",
+      "summary": "US prosecutors are seeking more than $25 million in cryptocurrency allegedly connected to international fraud and laundering networks.",
+      "url": "https://cointelegraph.com/news/doj-25m-crypto-forfeiture-romance-investment-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-22T11:32:40.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260722-us-seeks-forfeiture-of-25m-in-crypto-tied-to-romance-investment-scams",
+      "localUrl": "/news/20260722-us-seeks-forfeiture-of-25m-in-crypto-tied-to-romance-investment-scams.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Here's why bitcoin bulls should take a closer look at interest rates",
+      "summary": "Your day-ahead look for July 22, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/07/22/here-s-why-bitcoin-bulls-should-take-a-closer-look-at-interest-rates",
+      "publishedAt": "2026-07-22T11:23:36.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260722-heres-why-bitcoin-bulls-should-take-a-closer-look-at-interest-rates",
+      "localUrl": "/news/20260722-heres-why-bitcoin-bulls-should-take-a-closer-look-at-interest-rates.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SecondFi to shut down after $2.4 million ADA wallet theft",
+      "summary": "The breach stemmed from a vulnerability in transaction signing software that enabled the derivation of private keys from blockchain transaction data.",
+      "url": "https://www.coindesk.com/web3/2026/07/22/secondfi-to-shut-down-after-usd2-4-million-ada-wallet-theft",
+      "publishedAt": "2026-07-22T11:10:27.000Z",
+      "keywords": [
+        "Web3",
+        "Cardano",
+        "Web3",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260722-secondfi-to-shut-down-after-24-million-ada-wallet-theft",
+      "localUrl": "/news/20260722-secondfi-to-shut-down-after-24-million-ada-wallet-theft.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Jack Dorsey's Block Launches Buzz, a Nostr-Based Slack and GitHub Rival for AI Agents",
+      "summary": "The free, open source workspace runs on Nostr, gives AI agents their own cryptographic identities, and challenges Slack and GitHub.",
+      "url": "https://decrypt.co/374026/jack-dorseys-block-launches-buzz-a-nostr-based-slack-and-github-rival-for-ai-agents",
+      "publishedAt": "2026-07-22T11:03:43.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "X热点",
+      "slug": "20260722-jack-dorseys-block-launches-buzz-a-nostr-based-slack-and-github-rival-for-ai-age",
+      "localUrl": "/news/20260722-jack-dorseys-block-launches-buzz-a-nostr-based-slack-and-github-rival-for-ai-age.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Talos brings institutional trading tools to Kalshi prediction markets",
+      "summary": "The integration provides institutional clients with access to Kalshi’s event contracts and crypto perpetuals via Talos’ existing trading infrastructure.",
+      "url": "https://cointelegraph.com/news/talos-brings-institutional-trading-tools-to-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-22T11:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260722-talos-brings-institutional-trading-tools-to-kalshi-prediction-markets",
+      "localUrl": "/news/20260722-talos-brings-institutional-trading-tools-to-kalshi-prediction-markets.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korea crypto volumes shrink as retail investors shift to stocks",
+      "summary": "Trading activity on South Korea’s five major crypto exchanges fell sharply as the KOSPI surged, signaling a shift in retail investors toward equities.",
+      "url": "https://cointelegraph.com/news/south-korea-crypto-volume-decline-kospi-retail-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-22T10:47:09.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260722-south-korea-crypto-volumes-shrink-as-retail-investors-shift-to-stocks",
+      "localUrl": "/news/20260722-south-korea-crypto-volumes-shrink-as-retail-investors-shift-to-stocks.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin retreats from one-month high as oil tops $85, inflation concerns resurface",
+      "summary": "BTC retreated from a one-month high as WTI crude topped $85 for the first time since June, reigniting inflation concerns and pushing investors toward gold, silver and the safety of bitcoin over altcoins.",
+      "url": "https://www.coindesk.com/markets/2026/07/22/bitcoin-retreats-from-one-month-high-as-oil-tops-usd85-inflation-concerns-resurface",
+      "publishedAt": "2026-07-22T10:33:33.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260722-bitcoin-retreats-from-one-month-high-as-oil-tops-85-inflation-concerns-resurface",
+      "localUrl": "/news/20260722-bitcoin-retreats-from-one-month-high-as-oil-tops-85-inflation-concerns-resurface.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kraken parent expands tokenized stocks to Hong Kong, UK and South Korea equities",
+      "summary": "Payward's xStocks pushes beyond U.S. equities as competition to bring global stock markets onchain accelerates.",
+      "url": "https://www.coindesk.com/business/2026/07/22/kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea-equities",
+      "publishedAt": "2026-07-22T10:30:00.000Z",
+      "keywords": [
+        "Finance",
+        "Tokenization",
+        "Real World Assets",
+        "Payward",
+        "Kraken",
+        "Exclusive",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260722-kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea-equities",
+      "localUrl": "/news/20260722-kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea-equities.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Foundry asks Bitcoin miners to vote on BIP-110 support",
+      "summary": "Foundry USA asked its mining customers to signal their support for BIP-110, an actively debated proposal seeking to shrink the amount of data that can be stored in a Bitcoin transaction.",
+      "url": "https://cointelegraph.com/news/foundry-bitcoin-miners-vote-bip-110?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-22T10:29:42.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260722-foundry-asks-bitcoin-miners-to-vote-on-bip-110-support",
+      "localUrl": "/news/20260722-foundry-asks-bitcoin-miners-to-vote-on-bip-110-support.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "SecondFi to wind down after $2.6M ADA theft linked to wallet flaw",
+      "summary": "SecondFi will wind down after a $2.6 million ADA theft, while users still await recovery tools that were initially expected within weeks of the exploit.",
+      "url": "https://cointelegraph.com/news/secondfi-shutdown-ada-theft-wallet-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-22T09:42:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260722-secondfi-to-wind-down-after-26m-ada-theft-linked-to-wallet-flaw",
+      "localUrl": "/news/20260722-secondfi-to-wind-down-after-26m-ada-theft-linked-to-wallet-flaw.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Galaxy pledges $5M for developers quantum-proofing Bitcoin",
@@ -33,8 +217,8 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin under $66,000 as traders await Alphabet earnings to gauge AI trade",
-      "summary": "A two-day chip rebound stalled ahead of Alphabet's earnings in a sign of whether the hundreds of billions going into AI is paying off. Bitcoin has tracked that trade all month.",
+      "title": "Live updates: Bitcoin slips under $66,000 as oil's surge sacks strength from risk markets",
+      "summary": "Later on Wednesday, Alphabet's earnings should give a sign of whether the hundreds of billions going into AI is paying off.",
       "url": "https://www.coindesk.com/tech/2026/07/22/live-updates-bitcoin-under-usd66-000-as-traders-await-alphabet-earnings-to-gauge-ai-trade",
       "publishedAt": "2026-07-22T08:13:28.000Z",
       "keywords": [
@@ -43,8 +227,19 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260722-live-updates-bitcoin-under-66000-as-traders-await-alphabet-earnings-to-gauge-ai-",
-      "localUrl": "/news/20260722-live-updates-bitcoin-under-66000-as-traders-await-alphabet-earnings-to-gauge-ai-.html"
+      "slug": "20260722-live-updates-bitcoin-slips-under-66000-as-oils-surge-sacks-strength-from-risk-ma",
+      "localUrl": "/news/20260722-live-updates-bitcoin-slips-under-66000-as-oils-surge-sacks-strength-from-risk-ma.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "⚖️LATEST: President Trump AGREES to crypto ethics rules in the CLARITY Act. The proposal would ban the president, members of Congress and other federal officials from issuing crypto while in office. Bipartisan talks are underway, with updated ethics text - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZeDVXTUpnNXE5UENRWHZXVDFUOHdSLW80RlMzbEpRQ2pRa1NZWndKSXlpTjM2aXZMLXptUUJld2tzZG5fZGE5M1JuZFg5Z2xQajVHWnpBSkRfSTJwcGdiVA?oc=5\" target=\"_blank\">⚖️LATEST: President Trump AGREES to …",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZeDVXTUpnNXE5UENRWHZXVDFUOHdSLW80RlMzbEpRQ2pRa1NZWndKSXlpTjM2aXZMLXptUUJld2tzZG5fZGE5M1JuZFg5Z2xQajVHWnpBSkRfSTJwcGdiVA?oc=5",
+      "publishedAt": "2026-07-22T08:07:27.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260722-latest-president-trump-agrees-to-crypto-ethics-rules-in-the-clarity-act-the-prop",
+      "localUrl": "/news/20260722-latest-president-trump-agrees-to-crypto-ethics-rules-in-the-clarity-act-the-prop.html"
     },
     {
       "source": "Cointelegraph",
@@ -492,19 +687,6 @@
       "localUrl": "/news/20260721-jack-mallers-quits-twenty-one-capital-as-tethers-bitcoin-merger-collapses.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "MEXC adds Bittensor TAO staking for its global user base",
-      "summary": "The integration with validator Yuma gives millions of MEXC users access to Bittensor, an AI-focused blockchain whose ecosystem now spans 128 specialized subnets.",
-      "url": "https://cointelegraph.com/news/mexc-adds-bittensor-tao-staking-for-its-global-user-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-21T15:53:08.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "DeFi",
-      "slug": "20260721-mexc-adds-bittensor-tao-staking-for-its-global-user-base",
-      "localUrl": "/news/20260721-mexc-adds-bittensor-tao-staking-for-its-global-user-base.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Russia’s parliament passes crypto market law with $3,800 annual cap for retail investors",
       "summary": "While citizens still cannot use Bitcoin to buy groceries, the Kremlin is officially letting companies use digital tokens to bypass sanctions and other global trade hurdles.",
@@ -519,19 +701,6 @@
       "category": "监管",
       "slug": "20260721-russias-parliament-passes-crypto-market-law-with-3800-annual-cap-for-retail-inve",
       "localUrl": "/news/20260721-russias-parliament-passes-crypto-market-law-with-3800-annual-cap-for-retail-inve.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin nears seven-week high as stocks ignore Iran strikes, Trump 10% tariff plans",
-      "summary": "Bitcoin and crypto joined US stocks in brushing off US-Iran war escalation and the threat of fresh trade tariffs before the end of the month.",
-      "url": "https://cointelegraph.com/markets/bitcoin-nears-seven-week-high-as-stocks-ignore-iran-strikes-trump-10-tariff-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-21T15:14:37.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260721-bitcoin-nears-seven-week-high-as-stocks-ignore-iran-strikes-trump-10-tariff-plan",
-      "localUrl": "/news/20260721-bitcoin-nears-seven-week-high-as-stocks-ignore-iran-strikes-trump-10-tariff-plan.html"
     },
     {
       "source": "CoinDesk",
@@ -588,45 +757,6 @@
       "localUrl": "/news/20260721-moneygrams-ceo-says-blockchain-works-best-when-customers-dont-know-its-there.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "CoinShares debuts Bitcoin mining ETF in Europe entrance",
-      "summary": "The UCITS ETF, CoinShares’ first in Europe, began trading on Deutsche Börse Xetra, tracking a rules-based index of publicly listed BTC miners.",
-      "url": "https://cointelegraph.com/news/coinshares-debuts-bitcoin-mining-ucits-etf-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-21T13:34:26.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260721-coinshares-debuts-bitcoin-mining-etf-in-europe-entrance",
-      "localUrl": "/news/20260721-coinshares-debuts-bitcoin-mining-etf-in-europe-entrance.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Robinhood-backed DEX Arcus expands with tokenized assets, perps",
-      "summary": "Arcus, built by the dYdX team, adds tokenized stocks and perpetual futures on Robinhood Chain as platforms compete to bring traditional assets onchain.",
-      "url": "https://cointelegraph.com/news/robinhood-backed-dex-arcus-debut-multi-asset-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-21T13:16:22.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "DeFi",
-      "slug": "20260721-robinhood-backed-dex-arcus-expands-with-tokenized-assets-perps",
-      "localUrl": "/news/20260721-robinhood-backed-dex-arcus-expands-with-tokenized-assets-perps.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Morpho launches fixed-rate lending protocol on Base",
-      "summary": "Morpho Midnight introduces fixed rates and defined maturities alongside Morpho Blue’s variable-rate lending markets.",
-      "url": "https://cointelegraph.com/news/morpho-midnight-fixed-rate-lending-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-21T13:00:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260721-morpho-launches-fixed-rate-lending-protocol-on-base",
-      "localUrl": "/news/20260721-morpho-launches-fixed-rate-lending-protocol-on-base.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Jack Mallers steps down as XXI Capital CEO as Tether's plans to merge three bitcoin firms falls",
       "summary": "The proposed three-way merger between Twenty One Capital, Mallers' Strike, and Elektron Energy has been abandoned.",
@@ -643,28 +773,15 @@
       "localUrl": "/news/20260721-jack-mallers-steps-down-as-xxi-capital-ceo-as-tethers-plans-to-merge-three-bitco.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Tether-backed Twenty One, Strike merger plan scrapped: Bloomberg",
-      "summary": "Strike will remain a standalone company after the proposed three-way merger was scrapped, while Twenty One Capital and Elektron continue discussions, Bloomberg reported.",
-      "url": "https://cointelegraph.com/news/tether-twenty-one-strike-merger-plan-scrapped-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-21T12:29:25.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260721-tether-backed-twenty-one-strike-merger-plan-scrapped-bloomberg",
-      "localUrl": "/news/20260721-tether-backed-twenty-one-strike-merger-plan-scrapped-bloomberg.html"
-    },
-    {
       "source": "X Wire",
-      "title": "I've decided to step down as CEO of Twenty One. This wasn't an easy decision, but it was the right one. This experience brought tremendous clarity about who I am and what I want to build. My life's work remains Bitcoin. My Bitcoin company is @Strike. The wor - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lN2hHQ0NWTWYtdDFDbjYxSWVRQTJhQkNEMUpER2RiZGJhRUZMMG5mUVp5YktJRWpXVkw3UVNVZmF6RTZzZ1JEYzYzbUZkNEItLVJQTXNUVnVueEtUbktCRVN3?oc=5\" target=\"_blank\">I've decided to step down as CEO o…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lN2hHQ0NWTWYtdDFDbjYxSWVRQTJhQkNEMUpER2RiZGJhRUZMMG5mUVp5YktJRWpXVkw3UVNVZmF6RTZzZ1JEYzYzbUZkNEItLVJQTXNUVnVueEtUbktCRVN3?oc=5",
-      "publishedAt": "2026-07-21T12:27:18.000Z",
+      "title": "Today we're launching the Galaxy Bitcoin Quantum Readiness Initiative. No quantum computer today can break Bitcoin's security. But that could change faster than expected, and Bitcoin is slow to update by design. We love Bitcoin and believe in its long-term i - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LY0Flbm1aR2FaR2FDbVNwTk1US1pLOUEyTEJmbEtMZ2d4cTJERjZmSlIxekxDbDlOY0xFc1RKS0tvRU1wQXZIb3B3NlV6ZVhnbzY5czhub1ZBWUx0Smc?oc=5\" target=\"_blank\">Today we're launching the Galaxy Bitcoi…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LY0Flbm1aR2FaR2FDbVNwTk1US1pLOUEyTEJmbEtMZ2d4cTJERjZmSlIxekxDbDlOY0xFc1RKS0tvRU1wQXZIb3B3NlV6ZVhnbzY5czhub1ZBWUx0Smc?oc=5",
+      "publishedAt": "2026-07-21T12:11:27.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260721-ive-decided-to-step-down-as-ceo-of-twenty-one-this-wasnt-an-easy-decision-but-it",
-      "localUrl": "/news/20260721-ive-decided-to-step-down-as-ceo-of-twenty-one-this-wasnt-an-easy-decision-but-it.html"
+      "slug": "20260721-today-were-launching-the-galaxy-bitcoin-quantum-readiness-initiative-no-quantum-",
+      "localUrl": "/news/20260721-today-were-launching-the-galaxy-bitcoin-quantum-readiness-initiative-no-quantum-.html"
     },
     {
       "source": "X Wire",
@@ -715,17 +832,6 @@
       "localUrl": "/news/20260721-morning-minute-the-clarity-act-has-new-life.html"
     },
     {
-      "source": "X Wire",
-      "title": "🇷🇺 BREAKING: Russia’s State Duma passes a major crypto bill, pending President Vladimir Putin’s signature before taking effect on Sept. 1. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Kal92dm5xNnY0RHJkdG1iQUlPX3g2bjAtb1FTeWgzUzRSbm4waEZqcmxIN3FXR0pXLUZfNzllWHl5N2txeVpWbHFFUkw5bWQ0djQ2Ykg3eHRra2J1LURaWHMyMl8?oc=5\" target=\"_blank\">🇷🇺 BREAKING: Russia’s State D…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Kal92dm5xNnY0RHJkdG1iQUlPX3g2bjAtb1FTeWgzUzRSbm4waEZqcmxIN3FXR0pXLUZfNzllWHl5N2txeVpWbHFFUkw5bWQ0djQ2Ykg3eHRra2J1LURaWHMyMl8?oc=5",
-      "publishedAt": "2026-07-21T11:44:23.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260721-breaking-russias-state-duma-passes-a-major-crypto-bill-pending-president-vladimi",
-      "localUrl": "/news/20260721-breaking-russias-state-duma-passes-a-major-crypto-bill-pending-president-vladimi.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Pakistan Launches Crypto Investigation Unit to Fight Money Laundering",
       "summary": "Islamabad is building the enforcement side of its crypto push, standing up a unit to police money laundering even as it licenses exchanges.",
@@ -737,52 +843,6 @@
       "category": "监管",
       "slug": "20260721-pakistan-launches-crypto-investigation-unit-to-fight-money-laundering",
       "localUrl": "/news/20260721-pakistan-launches-crypto-investigation-unit-to-fight-money-laundering.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin rally has broad-based support as institutions, whales, options traders pile in",
-      "summary": "Your day-ahead look for July 21, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/21/bitcoin-rally-has-broad-based-support-as-institutions-whales-options-traders-pile-in",
-      "publishedAt": "2026-07-21T11:37:22.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260721-bitcoin-rally-has-broad-based-support-as-institutions-whales-options-traders-pil",
-      "localUrl": "/news/20260721-bitcoin-rally-has-broad-based-support-as-institutions-whales-options-traders-pil.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Clarity odds jump to 43% on Polymarket after unverified reports Trump agreed to ethics deal",
-      "summary": "Bettors moved the crypto market structure bill to a 43% chance of passing this year, up from a record low last week, though no bill text has appeared.",
-      "url": "https://www.coindesk.com/markets/2026/07/21/clarity-act-odds-jump-11-points-on-polymarket-after-reports-trump-agreed-to-ethics-deal",
-      "publishedAt": "2026-07-21T11:19:18.000Z",
-      "keywords": [
-        "Markets",
-        "Polymarket",
-        "Clarity Act",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260721-clarity-odds-jump-to-43-on-polymarket-after-unverified-reports-trump-agreed-to-e",
-      "localUrl": "/news/20260721-clarity-odds-jump-to-43-on-polymarket-after-unverified-reports-trump-agreed-to-e.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto markets rally on Clarity progress report, Asian chip-stock rebound",
-      "summary": "Speculation that President Donald Trump agreed to a crucial ethics provision for the crypto market structure bill underpinned the gains.",
-      "url": "https://www.coindesk.com/markets/2026/07/21/crypto-markets-rally-on-clarity-progress-report-asian-chip-stock-rebound",
-      "publishedAt": "2026-07-21T11:02:48.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260721-crypto-markets-rally-on-clarity-progress-report-asian-chip-stock-rebound",
-      "localUrl": "/news/20260721-crypto-markets-rally-on-clarity-progress-report-asian-chip-stock-rebound.html"
     },
     {
       "source": "Decrypt",
@@ -834,35 +894,6 @@
       "localUrl": "/news/20260721-12m-crypto-followers-crypto-is-not-going-away-ai-will-need-to-use-money-you-will.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "XRP jumps 4% as traders watch 'triangle breakout' toward $1.35",
-      "summary": "XRP pushed higher over 24 hours and tested short-term resistance, but the larger chart still needs a clean break above the $1.24-$1.28 supply zone to confirm a stronger reversal.",
-      "url": "https://www.coindesk.com/markets/2026/07/21/xrp-jumps-4-as-traders-watch-triangle-breakout-toward-usd1-35",
-      "publishedAt": "2026-07-21T07:21:04.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260721-xrp-jumps-4-as-traders-watch-triangle-breakout-toward-135",
-      "localUrl": "/news/20260721-xrp-jumps-4-as-traders-watch-triangle-breakout-toward-135.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live markets: Bitcoin pulls back from five-week high on new Trump threats over Iran",
-      "summary": "Bitcoin ETFs have pulled in roughly $727 million over the past week, the most sustained stretch of buying since the record outflows of June.",
-      "url": "https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april",
-      "publishedAt": "2026-07-21T06:42:52.000Z",
-      "keywords": [
-        "Finance",
-        "Live News",
-        "live_news"
-      ],
-      "category": "监管",
-      "slug": "20260721-live-markets-bitcoin-pulls-back-from-five-week-high-on-new-trump-threats-over-ir",
-      "localUrl": "/news/20260721-live-markets-bitcoin-pulls-back-from-five-week-high-on-new-trump-threats-over-ir.html"
-    },
-    {
       "source": "X Wire",
       "title": "Trump Agrees to Ethics Provision, Clearing Key Hurdle for CLARITY Act According to The Block, US President Donald Trump has agreed to an ethics provision in the CLARITY Act, removing the final major hurdle to advancing the crypto market structure bill tow - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jbDdkQk9iR2JBbm5jVDE1U0RFZ1lmVk1kWjlsTWJxQnpuVTVjalpsblhXUlVPbEc1QjlENjhsMHJUaG1BdTRwNTVKeVhiZ0FSZEVPSW5CRDlXZVZmWF80VFV1dw?oc=5\" target=\"_blank\">Trump Agrees to Ethics Provision…",
@@ -883,6 +914,17 @@
       "category": "X热点",
       "slug": "20260721-on-crypto-moreno-told-me-this-evening-that-the-president-has-agreed-to-the-most-",
       "localUrl": "/news/20260721-on-crypto-moreno-told-me-this-evening-that-the-president-has-agreed-to-the-most-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 LATEST: MetaMask, Chainlink, and Ethereum ranked as the top three Ethereum ecosystem projects by development activity, according to Santiment. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE56Sk1OMUEyckFNUVdLT2ZVQlBDMWFicnluZUFLMDFjdG12eUdSSHQ2N1Vlb1A2MlZtMmV5Q3JudDRhYk14SjFqd3JVWkNlalFBdlc4WVNMNDJWNm5VNU1ud09FVEM?oc=5\" target=\"_blank\">🔥 LATEST: MetaMask, Chainlink,…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56Sk1OMUEyckFNUVdLT2ZVQlBDMWFicnluZUFLMDFjdG12eUdSSHQ2N1Vlb1A2MlZtMmV5Q3JudDRhYk14SjFqd3JVWkNlalFBdlc4WVNMNDJWNm5VNU1ud09FVEM?oc=5",
+      "publishedAt": "2026-07-20T22:20:29.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260720-latest-metamask-chainlink-and-ethereum-ranked-as-the-top-three-ethereum-ecosyste",
+      "localUrl": "/news/20260720-latest-metamask-chainlink-and-ethereum-ranked-as-the-top-three-ethereum-ecosyste.html"
     },
     {
       "source": "Decrypt",
@@ -961,19 +1003,6 @@
       "localUrl": "/news/20260720-tom-lees-bitmine-taps-the-brakes-on-eth-buys-pivots-86m-into-stock-buyback.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Strategy Pads Cash Reserve By $225M With MSTR Sale, Bitcoin Stash Remains Untouched",
-      "summary": "For the second consecutive week, Saylor's company sold MSTR stock instead of BTC to pad its reserves to $3.2 billion.",
-      "url": "https://decrypt.co/373834/strategy-raises-225m-for-cash-reserve-mstr-sale-bitcoin",
-      "publishedAt": "2026-07-20T15:57:29.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260720-strategy-pads-cash-reserve-by-225m-with-mstr-sale-bitcoin-stash-remains-untouche",
-      "localUrl": "/news/20260720-strategy-pads-cash-reserve-by-225m-with-mstr-sale-bitcoin-stash-remains-untouche.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Bitcoin pumps to $65, 214 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yNzJWVEYwQzE2WG9qUy0xT2F3NG8tR3lmZE83RjlzUXd4RURvSDZNYmRXZF9ueEo1NEU2SUVPclZ4NjhBWS1vSGUxYVZZZGpvb2t3SzZudVhyMU5rdlBXalZfZXVFNzQ?oc=5\" target=\"_blank\">JUST IN: Bitcoin pumps to $…",
@@ -1007,19 +1036,6 @@
       "localUrl": "/news/20260720-ethereum-is-for-shipping-here-are-some-of-the-things-the-ethereum-ecosystem-laun.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
-      "summary": "An attacker used a flash loan to distort the bridge's Solana stablecoin pools before moving the proceeds to Ethereum, security firms said.",
-      "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
-      "publishedAt": "2026-07-20T13:47:06.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "监管",
-      "slug": "20260720-allbridge-pauses-cross-chain-protocol-after-165m-flash-loan-attack",
-      "localUrl": "/news/20260720-allbridge-pauses-cross-chain-protocol-after-165m-flash-loan-attack.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: 🇷🇺 Russia's State Duma to consider bill to regulate Bitcoin & crypto tomorrow, TASS reports 👀 \"Tomorrow we'll be passing the law in its second and third readings. It's aimed at creating the legal conditions for cryptocurrencies to function in our country - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3V21fSFQ1WTE2ajdGM3NBaDJNb0tXeEYyU2Y0amlnUmQyeGtKTkhmaG8tSE1yNWh1Y0dDdXZOSjI1OUtSMy1yV3FPWlNra2ZVTTJzT3Z0YTRGbUlUZlRaNXZGOEc2RVk?oc=5\" target=\"_blank\">JUST IN: 🇷🇺 Russia's Stat…",
@@ -1040,17 +1056,6 @@
       "category": "X热点",
       "slug": "20260719-bitcoin-27-and-gold-7-are-the-two-worst-performing-major-assets-so-far-in-2026-t",
       "localUrl": "/news/20260719-bitcoin-27-and-gold-7-are-the-two-worst-performing-major-assets-so-far-in-2026-t.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "There are two problems rn for crypto and, specifically, bitcoin bulls: 1) marginal liquidity would rather speculate in prediction markets and equity markets 2) marginal energy to mine BTC is worth 10-20x if reallocated to serving AI tokens These changes feel stru - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzNHg3cW5MSUh6aU9fU3NEcUpvOWxXRDVRTmxQcGFxYmhxdHdJZ0d3eHZnYnNnUUp2X0xuZHRLczJBdV90ZmluVW5EWnV0MkRNOHpXT0NQSHdTTGp2?oc=5\" target=\"_blank\">There are two problems rn for crypto and, …",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzNHg3cW5MSUh6aU9fU3NEcUpvOWxXRDVRTmxQcGFxYmhxdHdJZ0d3eHZnYnNnUUp2X0xuZHRLczJBdV90ZmluVW5EWnV0MkRNOHpXT0NQSHdTTGp2?oc=5",
-      "publishedAt": "2026-07-19T16:36:41.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260719-there-are-two-problems-rn-for-crypto-and-specifically-bitcoin-bulls-1-marginal-l",
-      "localUrl": "/news/20260719-there-are-two-problems-rn-for-crypto-and-specifically-bitcoin-bulls-1-marginal-l.html"
     }
   ]
 }
