@@ -1,17 +1,58 @@
 {
-  "updatedAt": "2026-07-22T03:39:54.765Z",
+  "updatedAt": "2026-07-22T06:40:17.233Z",
   "total": 80,
   "items": [
     {
+      "source": "CoinDesk",
+      "title": "AI models escaped OpenAI’s sandbox and hit Hugging Face. Crypto is where that gets dangerous",
+      "summary": "OpenAI said the systems had their cyber guardrails lowered for an internal benchmark, but the incident shows how autonomous exploit chains could pose a deeper threat to smart contracts, where losses are final.",
+      "url": "https://www.coindesk.com/markets/2026/07/22/ai-models-escaped-openai-s-sandbox-and-hit-hugging-face-crypto-is-where-that-gets-dangerous",
+      "publishedAt": "2026-07-22T06:01:56.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260722-ai-models-escaped-openais-sandbox-and-hit-hugging-face-crypto-is-where-that-gets",
+      "localUrl": "/news/20260722-ai-models-escaped-openais-sandbox-and-hit-hugging-face-crypto-is-where-that-gets.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-22T05:43:51.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260722-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260722-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holds near $66,300 as chips extend their rally and the yen hits a 40-year low",
+      "summary": "Semiconductor stocks led a second day of gains on AI optimism, while the yen slid past 163 per dollar for the first time since 1986.",
+      "url": "https://www.coindesk.com/markets/2026/07/22/bitcoin-holds-near-usd66-300-as-chips-extend-their-rally-and-the-yen-hits-a-40-year-low",
+      "publishedAt": "2026-07-22T05:03:39.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260722-bitcoin-holds-near-66300-as-chips-extend-their-rally-and-the-yen-hits-a-40-year-",
+      "localUrl": "/news/20260722-bitcoin-holds-near-66300-as-chips-extend-their-rally-and-the-yen-hits-a-40-year-.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Balance Coin crashes 99% after reported $915K exploit",
-      "summary": "Blockchain security firms linked the collapse to a suspected attack on 42DAO, the decentralized organization that governs the Balance Protocol ecosystem.",
+      "summary": "The attack allowed the exploiter to liquidate multiple Bitcoin-backed vaults before swapping the assets for profit.",
       "url": "https://cointelegraph.com/news/algorithmic-stablecoin-balance-coin-plummets-99-after-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-22T03:12:48.000Z",
       "keywords": [
         "Latest News"
       ],
-      "category": "监管",
+      "category": "安全",
       "slug": "20260722-balance-coin-crashes-99-after-reported-915k-exploit",
       "localUrl": "/news/20260722-balance-coin-crashes-99-after-reported-915k-exploit.html"
     },
@@ -115,7 +156,7 @@
     {
       "source": "Cointelegraph",
       "title": "Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil",
-      "summary": "The blockchain developer will continue operating under court supervision as it restructures following a market-making scandal, a co-founder’s suspension, and exchange delistings that rocked the project.",
+      "summary": "The blockchain developer will continue operating under court supervision as it restructures following a market-making scandal, a co-founder’s suspension and exchange delistings that rocked the project.",
       "url": "https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-21T20:59:32.000Z",
       "keywords": [
@@ -127,7 +168,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Ether breaks the $1.9K resistance; is $2.1K the next target for ETH bulls?",
+      "title": "Ether breaks the $1.9K resistance: Is $2.1K the next target for ETH bulls?",
       "summary": "Ether’s rally faces onchain headwinds, but rising staking demand and Google earnings could spark the push toward $2,100.",
       "url": "https://cointelegraph.com/markets/ether-breaks-the-1900-resistance-is-2100-the-next-target-for-eth-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-21T20:26:13.000Z",
@@ -151,19 +192,6 @@
       "category": "综合",
       "slug": "20260721-pavel-durov-wants-to-give-a-billion-telegram-users-a-crypto-wallet",
       "localUrl": "/news/20260721-pavel-durov-wants-to-give-a-billion-telegram-users-a-crypto-wallet.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-21T20:12:18.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260721-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260721-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "CoinDesk",
@@ -352,7 +380,7 @@
     {
       "source": "CoinDesk",
       "title": "Claude's Fable 5 just solved an 87-year-old math problem, and it matters for bitcoin",
-      "summary": "Claude Fabel 5 disproved the Jacobian conjecture over the weekend, landing days after the capabilities of China's Kimi AI became the biggest force moving bitcoin markets.",
+      "summary": "Claude Fable 5 disproved the Jacobian conjecture over the weekend, landing days after the capabilities of China's Kimi AI became the biggest force moving bitcoin markets.",
       "url": "https://www.coindesk.com/tech/2026/07/21/claude-s-fable-5-just-solved-an-87-year-old-math-problem-and-it-matters-for-bitcoin",
       "publishedAt": "2026-07-21T16:19:24.000Z",
       "keywords": [
@@ -473,6 +501,17 @@
       "category": "X热点",
       "slug": "20260721-breaking-russia-officially-passes-its-landmark-cryptocurrency-bill-legalizing-cr",
       "localUrl": "/news/20260721-breaking-russia-officially-passes-its-landmark-cryptocurrency-bill-legalizing-cr.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇷🇺 Russia passes bill establishing legal framework for crypto. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0NjJKdldGZU1Jbk55TEVGX2JMNzN2MjAzNTlRcno4c2NsTnRsR19lTGREY3l6YU1rdkRKV2FqM0RnYTdHWTFIdDM3QmVEQl9aZ3ZBTkZPSkVGYjRXX1BEcjd3?oc=5\" target=\"_blank\">JUST IN: 🇷🇺 Russia passes bill e…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0NjJKdldGZU1Jbk55TEVGX2JMNzN2MjAzNTlRcno4c2NsTnRsR19lTGREY3l6YU1rdkRKV2FqM0RnYTdHWTFIdDM3QmVEQl9aZ3ZBTkZPSkVGYjRXX1BEcjd3?oc=5",
+      "publishedAt": "2026-07-21T13:48:37.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260721-just-in-russia-passes-bill-establishing-legal-framework-for-crypto-xcom",
+      "localUrl": "/news/20260721-just-in-russia-passes-bill-establishing-legal-framework-for-crypto-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -812,6 +851,17 @@
     },
     {
       "source": "X Wire",
+      "title": "BREAKING: 🇮🇳 Maharashtra unveils DELTA Act to tokenize real estate using blockchain. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1leGhNUkJ5dW02QmxLbm94Yk5uV19IV3F1dE4wR19kbVFNY1NJNlduOXdtQU40RjF6SEJ2Sy14WjVFSWVZMDdicGJ4RVpoNXRuOGlYN2hRY0RUcUZ1SlY4allZcw?oc=5\" target=\"_blank\">BREAKING: 🇮🇳 Maharashtra unvei…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1leGhNUkJ5dW02QmxLbm94Yk5uV19IV3F1dE4wR19kbVFNY1NJNlduOXdtQU40RjF6SEJ2Sy14WjVFSWVZMDdicGJ4RVpoNXRuOGlYN2hRY0RUcUZ1SlY4allZcw?oc=5",
+      "publishedAt": "2026-07-21T05:09:41.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260721-breaking-maharashtra-unveils-delta-act-to-tokenize-real-estate-using-blockchain-",
+      "localUrl": "/news/20260721-breaking-maharashtra-unveils-delta-act-to-tokenize-real-estate-using-blockchain-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Trump Agrees to Ethics Provision, Clearing Key Hurdle for CLARITY Act According to The Block, US President Donald Trump has agreed to an ethics provision in the CLARITY Act, removing the final major hurdle to advancing the crypto market structure bill tow - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jbDdkQk9iR2JBbm5jVDE1U0RFZ1lmVk1kWjlsTWJxQnpuVTVjalpsblhXUlVPbEc1QjlENjhsMHJUaG1BdTRwNTVKeVhiZ0FSZEVPSW5CRDlXZVZmWF80VFV1dw?oc=5\" target=\"_blank\">Trump Agrees to Ethics Provision…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jbDdkQk9iR2JBbm5jVDE1U0RFZ1lmVk1kWjlsTWJxQnpuVTVjalpsblhXUlVPbEc1QjlENjhsMHJUaG1BdTRwNTVKeVhiZ0FSZEVPSW5CRDlXZVZmWF80VFV1dw?oc=5",
@@ -831,17 +881,6 @@
       "category": "X热点",
       "slug": "20260721-on-crypto-moreno-told-me-this-evening-that-the-president-has-agreed-to-the-most-",
       "localUrl": "/news/20260721-on-crypto-moreno-told-me-this-evening-that-the-president-has-agreed-to-the-most-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: 🇺🇸 WHITE HOUSE REPORTER JUST SAID PRESIDENT TRUMP HAS OFFICIALLY AGREED ON ETHICS FOR #BITCOIN AND CRYPTO CLARITY ACT FINAL LANGUAGE WAS SENT TO SENATE REPUBLICANS THIS AFTERNOON THE UPDA - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KLUZuZkFTaE9fOVJpeV9Cb1pkWlg4ekNYVG85ZUNUWEh3X3pydjMycDFKa3otNGlGLWMwalNnU1dMYThOYjlYaHhIQk1rNnNiYnFsUjF1UjBZaWE3S2tPdGN3?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 WHITE HOUSE REPORTE…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KLUZuZkFTaE9fOVJpeV9Cb1pkWlg4ekNYVG85ZUNUWEh3X3pydjMycDFKa3otNGlGLWMwalNnU1dMYThOYjlYaHhIQk1rNnNiYnFsUjF1UjBZaWE3S2tPdGN3?oc=5",
-      "publishedAt": "2026-07-20T22:36:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260720-breaking-white-house-reporter-just-said-president-trump-has-officially-agreed-on",
-      "localUrl": "/news/20260720-breaking-white-house-reporter-just-said-president-trump-has-officially-agreed-on.html"
     },
     {
       "source": "Decrypt",
@@ -907,17 +946,6 @@
       "localUrl": "/news/20260720-i-wouldnt-be-surprised-to-see-a-rally-of-bitcoin-towards-80000-85000-from-here-t.html"
     },
     {
-      "source": "X Wire",
-      "title": "Vietnam to Fine Users Up to $1,900 for Trading on Unlicensed Crypto Platforms Vietnam has issued Decree No. 284/2026/ND-CP, introducing administrative penalties for crypto-related violations ahead of the launch of its regulated digital asset market. Under t - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JVjhZSC1PVEpkOVU5UzhWSlJKeFVfaXhSNDg2QTUtSXJJNXZrVmxfc2JWT0VtcjQ3R3JDOWVBR0pqdE13MzRweVVjS1dxX3hoaXRaWFg0YUdEMnRseHJGVVUxZw?oc=5\" target=\"_blank\">Vietnam to Fine Users Up to $1,9…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JVjhZSC1PVEpkOVU5UzhWSlJKeFVfaXhSNDg2QTUtSXJJNXZrVmxfc2JWT0VtcjQ3R3JDOWVBR0pqdE13MzRweVVjS1dxX3hoaXRaWFg0YUdEMnRseHJGVVUxZw?oc=5",
-      "publishedAt": "2026-07-20T16:59:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260720-vietnam-to-fine-users-up-to-1900-for-trading-on-unlicensed-crypto-platforms-viet",
-      "localUrl": "/news/20260720-vietnam-to-fine-users-up-to-1900-for-trading-on-unlicensed-crypto-platforms-viet.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Tom Lee's Bitmine Taps the Brakes on ETH Buys, Pivots $86M Into Stock Buyback",
       "summary": "\"The reduced pace of buys reflects that Bitmine repurchased 5.5 million common shares,\" Bitmine Chairman Tom Lee said in a statement.",
@@ -945,6 +973,17 @@
     },
     {
       "source": "X Wire",
+      "title": "JUST IN: Bitcoin pumps to $65, 214 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yNzJWVEYwQzE2WG9qUy0xT2F3NG8tR3lmZE83RjlzUXd4RURvSDZNYmRXZF9ueEo1NEU2SUVPclZ4NjhBWS1vSGUxYVZZZGpvb2t3SzZudVhyMU5rdlBXalZfZXVFNzQ?oc=5\" target=\"_blank\">JUST IN: Bitcoin pumps to $…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yNzJWVEYwQzE2WG9qUy0xT2F3NG8tR3lmZE83RjlzUXd4RURvSDZNYmRXZF9ueEo1NEU2SUVPclZ4NjhBWS1vSGUxYVZZZGpvb2t3SzZudVhyMU5rdlBXalZfZXVFNzQ?oc=5",
+      "publishedAt": "2026-07-20T15:44:20.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260720-just-in-bitcoin-pumps-to-65-214-xcom",
+      "localUrl": "/news/20260720-just-in-bitcoin-pumps-to-65-214-xcom.html"
+    },
+    {
+      "source": "X Wire",
       "title": "JUST IN: 🇺🇸 U.S. spot Bitcoin ETFs continued inflows for a second week last week, totaling $75.7 million. This marks the second consecutive positive week following eight weeks of outflows. 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MUk9KOHotNm1TV1FBUWpFZHp2TEEwYkh3V2tDLUtwcnRWdW1KUmFOU05uMHJZaUlIQnJQaHdLb3JVYWItS2JpQ2txU2JDcm0ySzlrTFZ6RlNkdGRHOE5XcXZQQVZzVlU?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 U.S. spot Bit…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MUk9KOHotNm1TV1FBUWpFZHp2TEEwYkh3V2tDLUtwcnRWdW1KUmFOU05uMHJZaUlIQnJQaHdLb3JVYWItS2JpQ2txU2JDcm0ySzlrTFZ6RlNkdGRHOE5XcXZQQVZzVlU?oc=5",
@@ -956,17 +995,6 @@
     },
     {
       "source": "X Wire",
-      "title": "LATEST: Vietnam will fine investors up to $1,900 for trading crypto on unlicensed platforms under new rules taking effect Sept. 1, as the country prepares to launch its regulated digital asset market. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjMEd6bXMzQ09HZ20xT3RQb1dibV9ZRW5WRW5HX0tKM3BjQ3pCWk1GWVFNdUxpWjUxUmFzcTE3VlAtTzdZZzZiUC1tNDItaE1xOFNMUlNTV2tKaG1Pbnc?oc=5\" target=\"_blank\">LATEST: Vietnam will fine investors up …",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjMEd6bXMzQ09HZ20xT3RQb1dibV9ZRW5WRW5HX0tKM3BjQ3pCWk1GWVFNdUxpWjUxUmFzcTE3VlAtTzdZZzZiUC1tNDItaE1xOFNMUlNTV2tKaG1Pbnc?oc=5",
-      "publishedAt": "2026-07-20T15:29:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260720-latest-vietnam-will-fine-investors-up-to-1900-for-trading-crypto-on-unlicensed-p",
-      "localUrl": "/news/20260720-latest-vietnam-will-fine-investors-up-to-1900-for-trading-crypto-on-unlicensed-p.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Ethereum is for shipping. Here are some of the things the Ethereum ecosystem launched, upgraded, and announced over the past month. 0/ @RobinhoodApp launched Robinhood Chain ( @RobinhoodCrypto) on mainnet, an Ethereum Layer 2 built on the @a - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjY2FCdVJhbEJoa05iRkRTT1JSUTFCb1duc3VLR1haLVc0dVQtYVdOLUkzN2dDVVdBMTg0YkZ1V2hqNVNVQ3NHdHIwejNReENYT0wteFMzcjM1Szl2WXc?oc=5\" target=\"_blank\">Ethereum is for shipping. Here are some…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjY2FCdVJhbEJoa05iRkRTT1JSUTFCb1duc3VLR1haLVc0dVQtYVdOLUkzN2dDVVdBMTg0YkZ1V2hqNVNVQ3NHdHIwejNReENYT0wteFMzcjM1Szl2WXc?oc=5",
@@ -975,36 +1003,6 @@
       "category": "X热点",
       "slug": "20260720-ethereum-is-for-shipping-here-are-some-of-the-things-the-ethereum-ecosystem-laun",
       "localUrl": "/news/20260720-ethereum-is-for-shipping-here-are-some-of-the-things-the-ethereum-ecosystem-laun.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
-      "summary": "The Van Rossem hard fork moved Cardano to version 11 on Saturday. And for the first time, Cardano's community voted in the upgrade, not the company that built it.",
-      "url": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users",
-      "publishedAt": "2026-07-20T14:31:23.000Z",
-      "keywords": [
-        "Markets",
-        "Cardano",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260720-inside-cardanos-van-rossum-hard-fork-and-what-it-means-for-users",
-      "localUrl": "/news/20260720-inside-cardanos-van-rossum-hard-fork-and-what-it-means-for-users.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Exodus to cut 25% of global workforce in payments shift",
-      "summary": "This restructuring is part of a strategy to build a full-stack payments platform following the company's acquisitions of Monavate and Baanx.",
-      "url": "https://www.coindesk.com/business/2026/07/20/exodus-to-cut-25-of-global-workforce-in-payments-shift",
-      "publishedAt": "2026-07-20T13:53:08.000Z",
-      "keywords": [
-        "Finance",
-        "Crypto News",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260720-exodus-to-cut-25-of-global-workforce-in-payments-shift",
-      "localUrl": "/news/20260720-exodus-to-cut-25-of-global-workforce-in-payments-shift.html"
     },
     {
       "source": "Decrypt",
