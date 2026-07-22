@@ -1,15 +1,73 @@
 {
-  "updatedAt": "2026-07-22T06:40:17.233Z",
+  "updatedAt": "2026-07-22T09:36:07.007Z",
   "total": 80,
   "items": [
     {
+      "source": "Cointelegraph",
+      "title": "Galaxy pledges $5M for developers quantum-proofing Bitcoin",
+      "summary": "Galaxy pledged up to $5 million in grants for developers working on Bitcoin’s quantum security and elected a council of quantum-advisory experts to research quantum-resistant migration solutions.",
+      "url": "https://cointelegraph.com/news/galaxy-pledges-5m-developers-quantum-proofing-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-22T09:30:05.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260722-galaxy-pledges-5m-for-developers-quantum-proofing-bitcoin",
+      "localUrl": "/news/20260722-galaxy-pledges-5m-for-developers-quantum-proofing-bitcoin.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Balance stablecoin collapses 99% after $1 million exploit drains its bitcoin vaults",
+      "summary": "An attacker fed the lending system a fake, abnormally low bitcoin price, liquidated vaults that should have been safe, and pocketed the difference in a single transaction.",
+      "url": "https://www.coindesk.com/tech/2026/07/22/balance-stablecoin-collapses-99-after-usd1-million-exploit-drains-its-bitcoin-vaults",
+      "publishedAt": "2026-07-22T09:01:54.000Z",
+      "keywords": [
+        "Tech",
+        "Stablecoins",
+        "Hack",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260722-balance-stablecoin-collapses-99-after-1-million-exploit-drains-its-bitcoin-vault",
+      "localUrl": "/news/20260722-balance-stablecoin-collapses-99-after-1-million-exploit-drains-its-bitcoin-vault.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin under $66,000 as traders await Alphabet earnings to gauge AI trade",
+      "summary": "A two-day chip rebound stalled ahead of Alphabet's earnings in a sign of whether the hundreds of billions going into AI is paying off. Bitcoin has tracked that trade all month.",
+      "url": "https://www.coindesk.com/tech/2026/07/22/live-updates-bitcoin-under-usd66-000-as-traders-await-alphabet-earnings-to-gauge-ai-trade",
+      "publishedAt": "2026-07-22T08:13:28.000Z",
+      "keywords": [
+        "Tech",
+        "Live News",
+        "live_news"
+      ],
+      "category": "市场",
+      "slug": "20260722-live-updates-bitcoin-under-66000-as-traders-await-alphabet-earnings-to-gauge-ai-",
+      "localUrl": "/news/20260722-live-updates-bitcoin-under-66000-as-traders-await-alphabet-earnings-to-gauge-ai-.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs extend inflow streak to 6 days with $203M added",
+      "summary": "US spot Bitcoin ETFs extended their inflow streak to six sessions, bringing in about $930 million while remaining down $4.84 billion on a net basis year to date.",
+      "url": "https://cointelegraph.com/news/bitcoin-etfs-203-million-inflow-streak-six-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-22T07:57:03.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260722-bitcoin-etfs-extend-inflow-streak-to-6-days-with-203m-added",
+      "localUrl": "/news/20260722-bitcoin-etfs-extend-inflow-streak-to-6-days-with-203m-added.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "AI models escaped OpenAI’s sandbox and hit Hugging Face. Crypto is where that gets dangerous",
-      "summary": "OpenAI said the systems had their cyber guardrails lowered for an internal benchmark, but the incident shows how autonomous exploit chains could pose a deeper threat to smart contracts, where losses are final.",
+      "summary": "OpenAI said the systems had their cyber guardrails lowered for an internal benchmark, but the incident shows how autonomous exploit chains could pose a deeper threat to smart contracts.",
       "url": "https://www.coindesk.com/markets/2026/07/22/ai-models-escaped-openai-s-sandbox-and-hit-hugging-face-crypto-is-where-that-gets-dangerous",
       "publishedAt": "2026-07-22T06:01:56.000Z",
       "keywords": [
         "Markets",
+        "Artificial Intelligence",
         "News"
       ],
       "category": "安全",
@@ -644,19 +702,6 @@
       "localUrl": "/news/20260721-galaxy-commits-up-to-5-million-to-prepare-bitcoin-for-quantum-threat.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "More MiCA-licensed crypto firms may exit EU market: Gate Europe CEO",
-      "summary": "Gate Europe’s Giovanni Cunti says some MiCA-licensed crypto firms may struggle to sustain compliance costs as Europe enters its new regulatory era.",
-      "url": "https://cointelegraph.com/news/mica-licensed-crypto-firms-eu-market-gate-europe-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-21T11:58:02.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260721-more-mica-licensed-crypto-firms-may-exit-eu-market-gate-europe-ceo",
-      "localUrl": "/news/20260721-more-mica-licensed-crypto-firms-may-exit-eu-market-gate-europe-ceo.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Morning Minute: The Clarity Act Has New Life",
       "summary": "Odds of the Clarity Act passing in 2026 jumped to 42% after a surprising new development from the White House.",
@@ -670,17 +715,15 @@
       "localUrl": "/news/20260721-morning-minute-the-clarity-act-has-new-life.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Russian parliament passes law regulating crypto market",
-      "summary": "The State Duma legislation creates a regulated framework for crypto market participants and now moves to President Vladimir Putin for his signature before becoming law.",
-      "url": "https://cointelegraph.com/news/russias-parliament-passes-law-regulating-crypto-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-21T11:49:30.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260721-russian-parliament-passes-law-regulating-crypto-market",
-      "localUrl": "/news/20260721-russian-parliament-passes-law-regulating-crypto-market.html"
+      "source": "X Wire",
+      "title": "🇷🇺 BREAKING: Russia’s State Duma passes a major crypto bill, pending President Vladimir Putin’s signature before taking effect on Sept. 1. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Kal92dm5xNnY0RHJkdG1iQUlPX3g2bjAtb1FTeWgzUzRSbm4waEZqcmxIN3FXR0pXLUZfNzllWHl5N2txeVpWbHFFUkw5bWQ0djQ2Ykg3eHRra2J1LURaWHMyMl8?oc=5\" target=\"_blank\">🇷🇺 BREAKING: Russia’s State D…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Kal92dm5xNnY0RHJkdG1iQUlPX3g2bjAtb1FTeWgzUzRSbm4waEZqcmxIN3FXR0pXLUZfNzllWHl5N2txeVpWbHFFUkw5bWQ0djQ2Ykg3eHRra2J1LURaWHMyMl8?oc=5",
+      "publishedAt": "2026-07-21T11:44:23.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260721-breaking-russias-state-duma-passes-a-major-crypto-bill-pending-president-vladimi",
+      "localUrl": "/news/20260721-breaking-russias-state-duma-passes-a-major-crypto-bill-pending-president-vladimi.html"
     },
     {
       "source": "Decrypt",
@@ -818,47 +861,6 @@
       "category": "监管",
       "slug": "20260721-live-markets-bitcoin-pulls-back-from-five-week-high-on-new-trump-threats-over-ir",
       "localUrl": "/news/20260721-live-markets-bitcoin-pulls-back-from-five-week-high-on-new-trump-threats-over-ir.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
-      "summary": "The U.K.’s Crypto and Digital Assets All-Party Parliamentary Group (APPG) is focused on banks that refused crypto firms accounts or introduced restrictions on crypto transactions.",
-      "url": "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses",
-      "publishedAt": "2026-07-21T06:15:26.000Z",
-      "keywords": [
-        "Policy",
-        "UK",
-        "banks",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260721-uk-parliament-begins-inquiry-into-banking-chokepoint-for-crypto-businesses",
-      "localUrl": "/news/20260721-uk-parliament-begins-inquiry-into-banking-chokepoint-for-crypto-businesses.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin hits one-month high above $66,000 as the chip trade turns back into a tailwind",
-      "summary": "Asian semiconductor shares rebounded hard, a five-day ETF inflow streak passed $600 million, and oil pulled back on Middle East diplomacy.",
-      "url": "https://www.coindesk.com/markets/2026/07/21/bitcoin-hits-a-two-week-high-near-usd65-500-as-the-chip-trade-turns-back-into-a-tailwind",
-      "publishedAt": "2026-07-21T05:34:00.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260721-bitcoin-hits-one-month-high-above-66000-as-the-chip-trade-turns-back-into-a-tail",
-      "localUrl": "/news/20260721-bitcoin-hits-one-month-high-above-66000-as-the-chip-trade-turns-back-into-a-tail.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: 🇮🇳 Maharashtra unveils DELTA Act to tokenize real estate using blockchain. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1leGhNUkJ5dW02QmxLbm94Yk5uV19IV3F1dE4wR19kbVFNY1NJNlduOXdtQU40RjF6SEJ2Sy14WjVFSWVZMDdicGJ4RVpoNXRuOGlYN2hRY0RUcUZ1SlY4allZcw?oc=5\" target=\"_blank\">BREAKING: 🇮🇳 Maharashtra unvei…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1leGhNUkJ5dW02QmxLbm94Yk5uV19IV3F1dE4wR19kbVFNY1NJNlduOXdtQU40RjF6SEJ2Sy14WjVFSWVZMDdicGJ4RVpoNXRuOGlYN2hRY0RUcUZ1SlY4allZcw?oc=5",
-      "publishedAt": "2026-07-21T05:09:41.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260721-breaking-maharashtra-unveils-delta-act-to-tokenize-real-estate-using-blockchain-",
-      "localUrl": "/news/20260721-breaking-maharashtra-unveils-delta-act-to-tokenize-real-estate-using-blockchain-.html"
     },
     {
       "source": "X Wire",
