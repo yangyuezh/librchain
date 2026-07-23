@@ -2,15 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-23T19:41:28.459Z</lastmod>
+    <lastmod>2026-07-23T21:18:44.125Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-23T19:41:28.459Z</lastmod>
+    <lastmod>2026-07-23T21:18:44.125Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260723-coinbase-lets-businesses-accept-usdc-payments-from-ai-agents.html</loc>
+    <lastmod>2026-07-23T20:51:27.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260723-goldman-sachs-ceo-breaks-with-wall-street-to-back-crypto-clarity-act.html</loc>
+    <lastmod>2026-07-23T20:44:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260723-bitcoin-slides-below-65k-as-iran-conflict-fuels-100-oil-and-bond-yield-surge.html</loc>
+    <lastmod>2026-07-23T20:32:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260723-clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-.html</loc>
+    <lastmod>2026-07-23T20:16:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260723-nasdaq-listed-zhibao-wants-a-bitcoin-treasury-plans-to-sell-220m-in-stock-for-bt.html</loc>
+    <lastmod>2026-07-23T20:12:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260723-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-07-23T19:45:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260723-crypto-industry-to-contribute-55b-to-us-economy-in-2026-nca-study.html</loc>
+    <lastmod>2026-07-23T19:41:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260723-as-bitmex-exits-analysts-warn-crypto-consolidation-is-accelerating.html</loc>
@@ -121,12 +163,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260723-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-07-23T13:31:28.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260723-fears-of-ai-driven-defi-hack-epidemic-overstated-for-now-but-not-for-long.html</loc>
     <lastmod>2026-07-23T13:30:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -163,6 +199,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260723-deploying-enterprise-stablecoin-rails-on-solana-in-days-with-crossmint.html</loc>
+    <lastmod>2026-07-23T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260723-blackrock-coinbase-strategy-in-a-new-group-pledging-15-million-to-prepare-bitcoi.html</loc>
     <lastmod>2026-07-23T12:54:27.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -177,6 +219,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260723-bitget-secures-license-for-new-zealand-expansion.html</loc>
     <lastmod>2026-07-23T12:33:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260723-were-proud-to-announce-the-launch-of-the-bitcoin-security-consortium-in-partners.html</loc>
+    <lastmod>2026-07-23T12:25:04.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -289,12 +337,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260723-bitcoin-may-have-bottomed-before-its-traditional-cycle-low-grayscales-pandl.html</loc>
-    <lastmod>2026-07-23T09:03:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260723-bitmex-to-close-on-september-23-halts-new-sign-ups.html</loc>
     <lastmod>2026-07-23T08:46:51.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -313,26 +355,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260723-home-invasions-became-most-common-crypto-wrench-attack-in-h1-2026-certik.html</loc>
-    <lastmod>2026-07-23T08:29:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260723-bitmex-to-shut-down-after-11-years-in-crypto-derivatives.html</loc>
-    <lastmod>2026-07-23T08:14:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260723-breaking-arthur-hayes-founded-crypto-exchange-bitmex-is-shutting-down-after-over.html</loc>
     <lastmod>2026-07-23T08:07:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260723-theoretically-the-target-area-for-bitcoin-is-reached-however-as-long-as-this-sta.html</loc>
-    <lastmod>2026-07-23T07:08:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -355,20 +379,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260723-xrp-whales-accumulate-as-small-holders-capitulate.html</loc>
-    <lastmod>2026-07-23T04:11:13.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260723-blockaid-detected-a-veruscoin-ethereum-bridge-exploit-on-ethereum-an-attacker-us.html</loc>
     <lastmod>2026-07-23T04:08:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260723-latest-pro-crypto-democrats-have-released-a-statement-sharply-criticizing-not-on.html</loc>
-    <lastmod>2026-07-23T02:01:04.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -387,6 +399,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260723-6612746-bitcoin-xcom-2.html</loc>
     <lastmod>2026-07-23T00:44:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260722-new-a-group-of-pro-crypto-democrats-say-theyre-unhappy-not-only-with-the-clarity.html</loc>
+    <lastmod>2026-07-22T22:27:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -427,6 +445,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260722-ethereum-set-the-evm-standard-solana-redefined-performance-sei-giga-will-bring-b.html</loc>
+    <lastmod>2026-07-22T18:03:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260722-crypto-is-finally-showing-signs-of-a-bottom-since-july-1-bitcoin-is-up-9-even-as.html</loc>
     <lastmod>2026-07-22T17:58:33.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -435,12 +459,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260722-clarity-act-latest-draft-bars-trump-from-crypto-venturesbut-only-until-2029.html</loc>
     <lastmod>2026-07-22T17:51:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260722-senate-crypto-bill-heads-for-showdown-senate-republicans-released-updated-text-o.html</loc>
-    <lastmod>2026-07-22T16:54:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -457,20 +475,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260722-just-in-senate-republicans-release-updated-clarity-act-text-that-bans-the-presid.html</loc>
-    <lastmod>2026-07-22T16:26:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260722-just-in-us-senate-republicans-release-new-crypto-clarity-act-draft-bill-xcom.html</loc>
-    <lastmod>2026-07-22T16:25:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260722-hugging-face-ceo-thanks-chinese-ai-for-saving-the-day-after-openai-hack.html</loc>
     <lastmod>2026-07-22T16:23:16.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260722-the-clarity-act-can-do-for-the-industry-what-crypto-etfs-did-unlock-the-next-wav.html</loc>
+    <lastmod>2026-07-22T15:40:42.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -493,14 +505,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260722-justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs.html</loc>
-    <lastmod>2026-07-22T12:44:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260722-morning-minute-openai-model-escapes-containment-hacks-hugging-face.html</loc>
-    <lastmod>2026-07-22T11:50:29.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260722-latest-president-trump-agrees-to-crypto-ethics-rules-in-the-clarity-act-the-prop.html</loc>
+    <lastmod>2026-07-22T08:07:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
