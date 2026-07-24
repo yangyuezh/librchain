@@ -2,15 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-24T06:36:31.499Z</lastmod>
+    <lastmod>2026-07-24T09:29:28.177Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-24T06:36:31.499Z</lastmod>
+    <lastmod>2026-07-24T09:29:28.177Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260724-south-koreas-korbit-to-rebrand-as-digital-x-under-mirae-report.html</loc>
+    <lastmod>2026-07-24T08:51:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260724-ripple-launches-mint-to-expand-institutional-access-to-rlusd.html</loc>
+    <lastmod>2026-07-24T08:47:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260724-bitcoin-mining-pool-poolin-files-for-chapter-11-bankruptcy.html</loc>
+    <lastmod>2026-07-24T08:38:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260724-eu-widens-belarus-ownership-ban-to-all-crypto-service-providers.html</loc>
+    <lastmod>2026-07-24T08:06:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260724-live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings.html</loc>
+    <lastmod>2026-07-24T07:22:26.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260724-bitcoin-etfs-snap-seven-day-inflow-streak-with-225m-in-outflows.html</loc>
+    <lastmod>2026-07-24T07:17:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260724-ripples-rlusd-gets-two-boosts-as-transfer-volume-drops-25.html</loc>
@@ -57,6 +93,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260724-sec-sets-september-talks-on-move-toward-24-hour-stock-trading.html</loc>
     <lastmod>2026-07-24T01:18:16.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260724-this-is-a-major-structural-shift-and-possibly-the-turning-point-in-the-evolution.html</loc>
+    <lastmod>2026-07-24T00:56:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -193,8 +235,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260723-binance-is-the-first-crypto-exchange-to-partner-with-stopthetraffik-to-help-disr.html</loc>
+    <lastmod>2026-07-23T16:00:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260723-the-sec-settles-with-coinbase-over-its-missing-gary-gensler-texts.html</loc>
     <lastmod>2026-07-23T15:36:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260723-theres-a-difference-between-knowing-crypto-and-knowing-your-crypto-general-ai-li.html</loc>
+    <lastmod>2026-07-23T15:36:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -229,20 +283,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260723-fears-of-ai-driven-defi-hack-epidemic-overstated-for-now-but-not-for-long.html</loc>
-    <lastmod>2026-07-23T13:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260723-new-lombard_finance-adopts-chainlink-to-unlock-cross-chain-distribution-for-its-.html</loc>
     <lastmod>2026-07-23T13:25:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260723-binance-joins-stop-the-traffik-in-anti-human-trafficking-effort.html</loc>
-    <lastmod>2026-07-23T13:22:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -255,12 +297,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260723-solana-changelog-july-23-2026.html</loc>
     <lastmod>2026-07-23T13:04:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260723-strategy-led-group-pledges-15m-to-quantum-proof-bitcoin-network.html</loc>
-    <lastmod>2026-07-23T13:03:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -295,12 +331,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260723-bitget-secures-license-for-new-zealand-expansion.html</loc>
-    <lastmod>2026-07-23T12:33:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260723-were-proud-to-announce-the-launch-of-the-bitcoin-security-consortium-in-partners.html</loc>
     <lastmod>2026-07-23T12:25:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -327,12 +357,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260723-today-were-announcing-the-bitcoin-security-consortium-btcconsortium-a-group-of-l.html</loc>
     <lastmod>2026-07-23T12:02:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260723-bitmex-token-crashes-90-as-exchange-announces-shutdown.html</loc>
-    <lastmod>2026-07-23T12:02:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -403,12 +427,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260723-247-financial-rails-how-bny-plans-to-eliminate-the-weekend-lag-in-us-treasuries.html</loc>
-    <lastmod>2026-07-23T08:42:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260723-breaking-arthur-hayes-founded-bitmex-pioneer-of-crypto-perpetuals-to-shut-down-b.html</loc>
     <lastmod>2026-07-23T07:56:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -421,19 +439,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260723-grayscale-bitcoin-bear-market-could-last-until-september-or-october-grayscale-sa.html</loc>
-    <lastmod>2026-07-23T01:58:26.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260723-6612746-bitcoin-xcom.html</loc>
-    <lastmod>2026-07-23T00:44:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260723-6612746-bitcoin-xcom-2.html</loc>
     <lastmod>2026-07-23T00:44:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -477,12 +483,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260722-clarity-act-latest-draft-bars-trump-from-crypto-venturesbut-only-until-2029.html</loc>
     <lastmod>2026-07-22T17:51:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260722-blockchain-is-moving-faster-than-ever-and-the-research-keeping-pace-is-emerging-.html</loc>
-    <lastmod>2026-07-22T16:47:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
